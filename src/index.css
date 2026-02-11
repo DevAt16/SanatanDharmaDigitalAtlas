@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Noto+Sans+Devanagari:wght@400;600;700&family=Noto+Serif+Devanagari:wght@500;700&family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: #111918;
+  background-color: #fdf3e4;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  min-height: 100vh;
+  background: radial-gradient(circle at top left, #fff8ef 0%, #fdf3e4 45%, #f6e0be 100%);
+  position: relative;
+  overflow-x: hidden;
+}
+
+body::before,
+body::after {
+  content: '';
+  position: absolute;
+  width: 520px;
+  height: 520px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(31, 79, 74, 0.25), transparent 70%);
+  z-index: 0;
+}
+
+body::before {
+  top: -180px;
+  right: -120px;
+}
+
+body::after {
+  bottom: -220px;
+  left: -160px;
+  background: radial-gradient(circle, rgba(244, 162, 54, 0.25), transparent 70%);
+}
+
+#root {
+  position: relative;
+  z-index: 1;
+}
+
+h1,
+h2,
+h3,
+.hero h1 {
+  font-family: 'Cinzel', serif;
+  font-weight: 600;
+}
+
+button,
+select {
+  font-family: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+strong {
+  font-weight: 700;
+}
