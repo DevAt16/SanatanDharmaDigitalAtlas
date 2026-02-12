@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import './App.css'
 import { templeData } from './data/temples'
 import { stateCatalog } from './data/states'
@@ -44,6 +44,7 @@ const copy = {
     heroActions: {
       start: 'Start a Journey',
       view: 'View Temple Stories',
+      search: 'Find a Temple',
     },
     heroStory: {
       eyebrow: 'Featured story',
@@ -105,10 +106,6 @@ const copy = {
       helper: "Tip: select a state to reveal editor's picks below.",
       explore: "Explore editor's picks below",
       save: 'Save this route',
-    },
-    searchSection: {
-      title: "Browse all temples",
-      subtitle: 'Filter by state, city, or name to explore the full collection.',
     },
     trailsSection: {
       title: 'Curated Trails',
@@ -245,6 +242,7 @@ const copy = {
     heroActions: {
       start: 'यात्रा शुरू करें',
       view: 'मंदिर कथाएँ देखें',
+      search: 'मंदिर खोजें',
     },
     heroStory: {
       eyebrow: 'चयनित कथा',
@@ -306,10 +304,6 @@ const copy = {
       helper: 'संकेत: नीचे दिखने वाले मंदिरों के लिए राज्य चुनें।',
       explore: 'नीचे चुनिंदा मंदिर देखें',
       save: 'इस मार्ग को सहेजें',
-    },
-    searchSection: {
-      title: 'सभी मंदिर देखें',
-      subtitle: 'राज्य, शहर या नाम से फ़िल्टर कर पूरी सूची देखें।',
     },
     trailsSection: {
       title: 'क्यूरेटेड यात्राएँ',
@@ -447,6 +441,10 @@ function App() {
   const [activeTemple, setActiveTemple] = useState(null)
   const [activeLineage, setActiveLineage] = useState(null)
   const [showAll, setShowAll] = useState(false)
+  const [showSearchModal, setShowSearchModal] = useState(false)
+  const storyModalRef = useRef(null)
+  const [modalImageSrc, setModalImageSrc] = useState('')
+  const [isPortraitImage, setIsPortraitImage] = useState(false)
   const t = copy[language]
   const isLineages = activePage === 'lineages'
   const isShivaMode = mode === MODES.SHIVA
@@ -545,7 +543,7 @@ function App() {
   }, [language])
 
   useEffect(() => {
-    if (!activeTemple && !activeLineage) {
+    if (!activeTemple && !activeLineage && !showSearchModal) {
       return undefined
     }
 
@@ -553,6 +551,7 @@ function App() {
       if (event.key === 'Escape') {
         setActiveTemple(null)
         setActiveLineage(null)
+        setShowSearchModal(false)
       }
     }
 
@@ -563,7 +562,31 @@ function App() {
       document.removeEventListener('keydown', handleKeyDown)
       document.body.style.overflow = ''
     }
-  }, [activeTemple, activeLineage])
+  }, [activeTemple, activeLineage, showSearchModal])
+
+  useEffect(() => {
+    if (activeTemple && storyModalRef.current) {
+      storyModalRef.current.scrollTop = 0
+    }
+  }, [activeTemple])
+
+  useEffect(() => {
+    if (!activeTemple) {
+      setModalImageSrc('')
+      setIsPortraitImage(false)
+      return
+    }
+    const imageSrc = activeTemple.image || getPlaceholderImage(activeTemple.name)
+    setModalImageSrc(imageSrc)
+    const probe = new Image()
+    probe.onload = () => {
+      setIsPortraitImage(probe.naturalHeight > probe.naturalWidth)
+    }
+    probe.onerror = () => {
+      setIsPortraitImage(false)
+    }
+    probe.src = imageSrc
+  }, [activeTemple])
 
   const filteredTemples = visibleTemples.filter((item) => {
     const matchState = selectedState === ALL_STATES || item.state === selectedState
@@ -615,13 +638,6 @@ function App() {
     }
   }
 
-  const scrollToSearch = () => {
-    const section = document.getElementById('temple-search')
-    if (section) {
-      section.scrollIntoView({ behavior: 'smooth', block: 'start' })
-    }
-  }
-
   const scrollToCards = () => {
     const section = document.getElementById('temple-cards')
     if (section) {
@@ -629,10 +645,16 @@ function App() {
     }
   }
 
+  const handleSaveRoute = () => {
+    setShowSearchModal(false)
+    scrollToCards()
+  }
+
   const switchPage = (page) => {
     setActivePage(page)
     setActiveTemple(null)
     setActiveLineage(null)
+    setShowSearchModal(false)
     if (typeof window !== 'undefined') {
       window.scrollTo({ top: 0, behavior: 'smooth' })
     }
@@ -731,9 +753,6 @@ function App() {
         { label: t.moreLabels.festivals, value: getMoreDetail('festivals') },
       ].filter((item) => item.value)
     : []
-  const activeImageSrc = activeTemple
-    ? activeTemple.image ?? getPlaceholderImage(activeTemple.name)
-    : ''
   const labelForState = (state) => (state === ALL_STATES ? t.panel.allStates : state)
   const labelForCity = (city) => (city === ALL_CITIES ? t.panel.allCities : city)
   const formatShowing = (count) => {
@@ -918,11 +937,14 @@ function App() {
                   setActiveTemple(featuredTemple)
                   setActiveLineage(null)
                 } else {
-                  scrollToSearch()
+                  setShowSearchModal(true)
                 }
               }}
             >
               {t.heroActions.start}
+            </button>
+            <button className="secondary" type="button" onClick={() => setShowSearchModal(true)}>
+              {t.heroActions.search}
             </button>
             <button className="ghost" type="button" onClick={scrollToCards}>
               {t.heroActions.view}
@@ -985,69 +1007,6 @@ function App() {
           )}
         </div>
       </header>
-
-      <section className="search-panel" id="temple-search">
-        <div className="section-header search-header">
-          <h2>{t.searchSection.title}</h2>
-          <p>{t.searchSection.subtitle}</p>
-        </div>
-        <div className="hero-panel search-panel-card">
-          <div className="panel-head">
-            <h2>{t.panel.title}</h2>
-            <p>{t.panel.subtitle}</p>
-          </div>
-          <div className="filters">
-            <label className="field field-full">
-              <span>{t.panel.searchLabel}</span>
-              <input
-                list="temple-search-list"
-                value={searchTerm}
-                onChange={(event) => setSearchTerm(event.target.value)}
-                placeholder={t.panel.searchPlaceholder}
-              />
-              <datalist id="temple-search-list">
-                {visibleTemples.map((temple) => (
-                  <option key={temple.name} value={temple.name} />
-                ))}
-              </datalist>
-            </label>
-            <label className="field">
-              <span>{t.panel.stateLabel}</span>
-              <select value={selectedState} onChange={(event) => setSelectedState(event.target.value)}>
-                {states.map((state) => (
-                  <option key={state} value={state}>
-                    {labelForState(state)}
-                  </option>
-                ))}
-              </select>
-            </label>
-            <label className="field">
-              <span>{t.panel.cityLabel}</span>
-              <select value={selectedCity} onChange={(event) => setSelectedCity(event.target.value)}>
-                {cities.map((city) => (
-                  <option key={city} value={city}>
-                    {labelForCity(city)}
-                  </option>
-                ))}
-              </select>
-            </label>
-          </div>
-          <div className="panel-hint">
-            <p>{t.panel.helper}</p>
-            <button className="link" type="button" onClick={scrollToCards}>
-              {t.panel.explore}
-            </button>
-          </div>
-          <div className="panel-footer">
-            <p>
-              {showingParts.prefix}
-              <strong>{filteredTemples.length}</strong>
-              {showingParts.suffix}
-            </p>
-            <button className="secondary">{t.panel.save}</button>
-          </div>
-        </div>
-      </section>
 
       <section className="states">
         <div className="section-header">
@@ -1178,10 +1137,94 @@ function App() {
         <p>{t.footer}</p>
       </footer>
 
+      {showSearchModal ? (
+        <div className="search-overlay" onClick={() => setShowSearchModal(false)}>
+          <div
+            className="search-modal"
+            role="dialog"
+            aria-modal="true"
+            aria-labelledby="search-title"
+            onClick={(event) => event.stopPropagation()}
+          >
+            <button
+              className="story-close"
+              type="button"
+              onClick={() => setShowSearchModal(false)}
+            >
+              {t.modal.close}
+            </button>
+            <div className="panel-head">
+              <h2 id="search-title">{t.panel.title}</h2>
+              <p>{t.panel.subtitle}</p>
+            </div>
+            <div className="filters">
+              <label className="field field-full">
+                <span>{t.panel.searchLabel}</span>
+                <input
+                  list="temple-search-list"
+                  value={searchTerm}
+                  onChange={(event) => setSearchTerm(event.target.value)}
+                  placeholder={t.panel.searchPlaceholder}
+                />
+                <datalist id="temple-search-list">
+                  {visibleTemples.map((temple) => (
+                    <option key={temple.name} value={temple.name} />
+                  ))}
+                </datalist>
+              </label>
+              <label className="field">
+                <span>{t.panel.stateLabel}</span>
+                <select value={selectedState} onChange={(event) => setSelectedState(event.target.value)}>
+                  {states.map((state) => (
+                    <option key={state} value={state}>
+                      {labelForState(state)}
+                    </option>
+                  ))}
+                </select>
+              </label>
+              <label className="field">
+                <span>{t.panel.cityLabel}</span>
+                <select value={selectedCity} onChange={(event) => setSelectedCity(event.target.value)}>
+                  {cities.map((city) => (
+                    <option key={city} value={city}>
+                      {labelForCity(city)}
+                    </option>
+                  ))}
+                </select>
+              </label>
+            </div>
+            <div className="panel-hint">
+              <p>{t.panel.helper}</p>
+              <button
+                className="link"
+                type="button"
+                onClick={() => {
+                  setShowSearchModal(false)
+                  scrollToCards()
+                }}
+              >
+                {t.panel.explore}
+              </button>
+            </div>
+            <div className="panel-footer">
+              <p>
+                {showingParts.prefix}
+                <strong>{filteredTemples.length}</strong>
+                {showingParts.suffix}
+              </p>
+              <button className="secondary" type="button" onClick={handleSaveRoute}>
+                {t.panel.save}
+              </button>
+            </div>
+          </div>
+        </div>
+      ) : null}
+
       {activeTemple ? (
         <div className="story-overlay" onClick={() => setActiveTemple(null)}>
           <div
             className="story-modal"
+            ref={storyModalRef}
             role="dialog"
             aria-modal="true"
             aria-labelledby="story-title"
@@ -1195,6 +1238,24 @@ function App() {
             >
               {t.modal.close}
             </button>
+            <div className={`story-hero ${isPortraitImage ? 'is-portrait' : ''}`}>
+              <img
+                src={modalImageSrc}
+                alt={`${getTempleText(activeTemple, 'name')} in ${activeTemple.city}`}
+                loading="lazy"
+                onError={() => {
+                  if (activeTemple) {
+                    setModalImageSrc(getPlaceholderImage(activeTemple.name))
+                    setIsPortraitImage(false)
+                  }
+                }}
+              />
+              {activeTemple.image && activeTemple.creditUrl && activeTemple.credit ? (
+                <a href={activeTemple.creditUrl} target="_blank" rel="noreferrer">
+                  {activeTemple.credit}
+                </a>
+              ) : null}
+            </div>
             <div className="story-header">
               <p className="story-eyebrow">{t.modal.eyebrow}</p>
               <h2 id="story-title">{getTempleText(activeTemple, 'name')}</h2>
@@ -1208,18 +1269,6 @@ function App() {
               </div>
             </div>
             <div className="story-content">
-              <div className="story-media">
-                <img
-                  src={activeImageSrc}
-                  alt={`${getTempleText(activeTemple, 'name')} in ${activeTemple.city}`}
-                  loading="lazy"
-                />
-                {activeTemple.image && activeTemple.creditUrl && activeTemple.credit ? (
-                  <a href={activeTemple.creditUrl} target="_blank" rel="noreferrer">
-                    {activeTemple.credit}
-                  </a>
-                ) : null}
-              </div>
               <div className="story-body">
                 <div className="story-section">
                   <h3>{t.modal.story}</h3>
