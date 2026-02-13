@@ -1,4 +1,1823 @@
 export const westBengalTemples = [
+
+  {
+    "name": "Char Bangla Temples",
+    "state": "West Bengal",
+    "city": "Baranagar",
+    "region": "Murshidabad district",
+    "tags": [
+      "Terracotta",
+      "Masterpiece",
+      "Do-chala"
+    ],
+    "story": "A complex of four temples built in the distinct 'Do-chala' (two-roofed) style by Rani Bhabani. They are considered the apex of terracotta art in Bengal.",
+    "highlight": "The incredible detail of the terracotta panels on all four shrines.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Char_Bangla_Temple_Baranagar.jpg/640px-Char_Bangla_Temple_Baranagar.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Char_Bangla_Temple_Baranagar.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Managed by ASI.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built in the 18th century by Rani Bhabani of Natore.",
+      "architecture": "Do-chala (Jor-bangla style).",
+      "darshan": "Artistic.",
+      "seasonal": "Pleasant in winter.",
+      "visitorNotes": "A must-visit for art lovers.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Baranagar Temples",
+          "url": "https://en.wikipedia.org/wiki/Baranagar,_Murshidabad",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bhavaniswar Temple",
+    "state": "West Bengal",
+    "city": "Baranagar",
+    "region": "Murshidabad district",
+    "tags": [
+      "Inverted Lotus",
+      "Unique",
+      "Lime Stucco"
+    ],
+    "story": "Also built by Rani Bhabani, this temple is unique for its dome shaped like an inverted lotus, distinct from the usual Chala or Ratna styles.",
+    "highlight": "The inverted lotus dome architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bhavaniswar_Temple_Baranagar.jpg/640px-Bhavaniswar_Temple_Baranagar.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhavaniswar_Temple_Baranagar.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near the Char Bangla group.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "18th-century construction by Rani Bhabani.",
+      "architecture": "Octagonal with Lotus Dome.",
+      "darshan": "Historic.",
+      "seasonal": "Good in winter.",
+      "visitorNotes": "One of the tallest in the area.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Baranagar",
+          "url": "https://en.wikipedia.org/wiki/Baranagar,_Murshidabad",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gangeswar Temple",
+    "state": "West Bengal",
+    "city": "Baranagar",
+    "region": "Murshidabad district",
+    "tags": [
+      "Jor-Bangla",
+      "Terracotta",
+      "Heritage"
+    ],
+    "story": "Another gem in the Baranagar complex, featuring the classic Jor-Bangla design and ornate terracotta decorations.",
+    "highlight": "High-quality terracotta reliefs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gangeswar_Temple_Baranagar.jpg/640px-Gangeswar_Temple_Baranagar.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gangeswar_Temple_Baranagar.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Part of the Rani Bhabani complex.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Part of the 18th-century temple building spree by Rani Bhabani.",
+      "architecture": "Jor-Bangla.",
+      "darshan": "Artistic.",
+      "seasonal": "Pleasant.",
+      "visitorNotes": "Walkable from Char Bangla.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Baranagar",
+          "url": "https://en.wikipedia.org/wiki/Baranagar,_Murshidabad",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Supur Jora Shiva Mandir",
+    "state": "West Bengal",
+    "city": "Supur",
+    "region": "Birbhum district",
+    "tags": [
+      "Twin Temples",
+      "Octagonal",
+      "Terracotta"
+    ],
+    "story": "Twin Shiva temples (Jora Mandir) built in the 18th century. One is octagonal (ridgeless Rekha) and the other is circular, both with stunning terracotta.",
+    "highlight": "The rare octagonal and circular designs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Supur_Jora_Shiva_Mandir.jpg/640px-Supur_Jora_Shiva_Mandir.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Supur_Jora_Shiva_Mandir.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near Bolpur.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built by local zamindars in the 18th-19th century.",
+      "architecture": "Mixed styles (Rekha/Chala).",
+      "darshan": "Historic.",
+      "seasonal": "Crowded during Poush Mela.",
+      "visitorNotes": "Often called the 'Twin Temples of Supur'.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Supur",
+          "url": "https://en.wikipedia.org/wiki/Supur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gonpur Shiva Temple",
+    "state": "West Bengal",
+    "city": "Gonpur",
+    "region": "Birbhum district",
+    "tags": [
+      "Tallest",
+      "Terracotta",
+      "Forest"
+    ],
+    "story": "Located in a forest clearing, this is one of the tallest temples in Birbhum, towering over the surroundings with fine terracotta work.",
+    "highlight": "The impressive height and forest setting.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gonpur_Shiva_Temple.jpg/640px-Gonpur_Shiva_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gonpur_Shiva_Temple.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near Md. Bazar.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built in the 18th century.",
+      "architecture": "Rekha Deul (with ridges).",
+      "darshan": "Scenic.",
+      "seasonal": "Winter is best.",
+      "visitorNotes": "Very photogenic.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Birbhum Temples",
+          "url": "https://en.wikipedia.org/wiki/Birbhum_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Uchkaran Shiva Temple",
+    "state": "West Bengal",
+    "city": "Uchkaran",
+    "region": "Birbhum district",
+    "tags": [
+      "Char-chala",
+      "Terracotta",
+      "Detail"
+    ],
+    "story": "A beautiful Char-chala temple built in 1769, known for its intricate terracotta figures depicting social life and mythology.",
+    "highlight": "The condition and detail of the terracotta panels.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Uchkaran_Shiva_Temple.jpg/640px-Uchkaran_Shiva_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Uchkaran_Shiva_Temple.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near Nanur.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Established in 1769 AD.",
+      "architecture": "Char-chala.",
+      "darshan": "Artistic.",
+      "seasonal": "Pleasant.",
+      "visitorNotes": "Well preserved.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Uchkaran",
+          "url": "https://en.wikipedia.org/wiki/Uchkaran",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jaleswar Shiva Temple",
+    "state": "West Bengal",
+    "city": "Santipur",
+    "region": "Nadia district",
+    "tags": [
+      "Tallest",
+      "Heritage",
+      "Terracotta"
+    ],
+    "story": "The tallest temple in Santipur, built by the Nadia Raj family. It features exquisite terracotta and a massive structure.",
+    "highlight": "The towering height and the history of the Nadia royals.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Jaleswar_Temple_Santipur.jpg/640px-Jaleswar_Temple_Santipur.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jaleswar_Temple_Santipur.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Rash Yatra.",
+    "timings": "Open daily.",
+    "dressCode": "Modest.",
+    "entryNotes": "In Santipur town.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Rash Yatra",
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built by Raja Raghuram Ray in the 18th century.",
+      "architecture": "Char-chala/At-chala hybrid.",
+      "darshan": "Devotional.",
+      "seasonal": "Crowded during Rash.",
+      "visitorNotes": "Santipur is famous for sarees too.",
+      "festivals": "Rash Yatra.",
+      "sources": [
+        {
+          "label": "Santipur",
+          "url": "https://en.wikipedia.org/wiki/Shantipur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Raghabeswar Temple",
+    "state": "West Bengal",
+    "city": "Diknagar",
+    "region": "Nadia district",
+    "tags": [
+      "Terracotta",
+      "King Raghab",
+      "Art"
+    ],
+    "story": "Built in 1669 by King Raghab of Nadia, this temple is famous for having some of the most intricate terracotta work in the district.",
+    "highlight": "Early period terracotta art.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Raghabeswar_Temple_Diknagar.jpg/640px-Raghabeswar_Temple_Diknagar.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Raghabeswar_Temple_Diknagar.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near Krishnanagar.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built in 1669 AD.",
+      "architecture": "Char-chala.",
+      "darshan": "Historic.",
+      "seasonal": "Pleasant.",
+      "visitorNotes": "A key heritage site in Nadia.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Raghabeswar Temple",
+          "url": "https://en.wikipedia.org/wiki/Raghabeswar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jora Shiva Temple (Baidyapur)",
+    "state": "West Bengal",
+    "city": "Baidyapur",
+    "region": "Purba Bardhaman",
+    "tags": [
+      "Twin Temples",
+      "Brick",
+      "Deul"
+    ],
+    "story": "Two unique brick temples joined by a porch, resembling the Rekha Deul style but with distinct Bengali features.",
+    "highlight": "The joined twin structure.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jora_Shiva_Temple_Baidyapur.jpg/640px-Jora_Shiva_Temple_Baidyapur.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jora_Shiva_Temple_Baidyapur.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near Kalna.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built in 1550 AD (very old).",
+      "architecture": "Rekha Deul (Brick).",
+      "darshan": "Heritage.",
+      "seasonal": "Good in winter.",
+      "visitorNotes": "Combine with Kalna trip.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Baidyapur",
+          "url": "https://en.wikipedia.org/wiki/Baidyapur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shantinath Shiva Temple",
+    "state": "West Bengal",
+    "city": "Sripur",
+    "region": "Hooghly district",
+    "tags": [
+      "Terracotta",
+      "Mitra Mustafi",
+      "Details"
+    ],
+    "story": "Built by the famous Mitra Mustafi family, this temple is a showcase of fine terracotta craftsmanship.",
+    "highlight": "The terracotta panels showing social scenes.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Shantinath_Shiva_Temple_Sripur.jpg/640px-Shantinath_Shiva_Temple_Sripur.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Shantinath_Shiva_Temple_Sripur.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near Balagarh.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built in the 18th century.",
+      "architecture": "At-chala.",
+      "darshan": "Artistic.",
+      "seasonal": "Pleasant.",
+      "visitorNotes": "The Chandimandap nearby is also famous.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Sripur",
+          "url": "https://en.wikipedia.org/wiki/Sripur,_Hooghly",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Malleshwar Temple (Chandrakona)",
+    "state": "West Bengal",
+    "city": "Chandrakona",
+    "region": "Paschim Medinipur",
+    "tags": [
+      "Tallest",
+      "Laterite",
+      "Heritage"
+    ],
+    "story": "A towering 60-foot laterite temple built by King Malla Raj in the 17th century. It is a massive Rekha Deul.",
+    "highlight": "The massive height and laterite stone construction.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Malleshwar_Temple_Chandrakona.jpg/640px-Malleshwar_Temple_Chandrakona.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Malleshwar_Temple_Chandrakona.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "In Chandrakona town.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built in 1655 AD.",
+      "architecture": "Rekha Deul (Laterite).",
+      "darshan": "Historic.",
+      "seasonal": "Good in winter.",
+      "visitorNotes": "Chandrakona has many other temples.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Chandrakona",
+          "url": "https://en.wikipedia.org/wiki/Chandrakona",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pancha Ratna Shiva Temple (Khirpai)",
+    "state": "West Bengal",
+    "city": "Khirpai",
+    "region": "Paschim Medinipur",
+    "tags": [
+      "Pancha-ratna",
+      "Heritage",
+      "Town"
+    ],
+    "story": "A classic five-pinnacle Shiva temple in the historic trading town of Khirpai.",
+    "highlight": "The Pancha-ratna architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Pancha_Ratna_Shiva_Temple_Khirpai.jpg/640px-Pancha_Ratna_Shiva_Temple_Khirpai.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Pancha_Ratna_Shiva_Temple_Khirpai.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near Ghatal.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "19th-century construction.",
+      "architecture": "Pancha-ratna.",
+      "darshan": "Local.",
+      "seasonal": "Pleasant.",
+      "visitorNotes": "Khirpai was historically famous for weaving.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Khirpai",
+          "url": "https://en.wikipedia.org/wiki/Khirpai",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  }
+,
+
+  {
+    "name": "Kurumbera Fort Shiva Temple",
+    "state": "West Bengal",
+    "city": "Gaganeshwar",
+    "region": "Paschim Medinipur",
+    "tags": [
+      "Fort",
+      "Odisha Style",
+      "Heritage"
+    ],
+    "story": "A unique Shiva temple located inside the medieval Kurumbera Fort. The architecture shows a distinct blend of Odisha and Bengal styles.",
+    "highlight": "The grand courtyard of the fort surrounding the temple.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kurumbera_Fort_Shiva_Temple.jpg/640px-Kurumbera_Fort_Shiva_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kurumbera_Fort_Shiva_Temple.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Sunrise to Sunset.",
+    "dressCode": "Casual.",
+    "entryNotes": "ASI protected monument.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built during the rule of Kapilendra Deva (Odisha) in the 15th century.",
+      "architecture": "Bhadra Deul style.",
+      "darshan": "Historic.",
+      "seasonal": "Pleasant in winter.",
+      "visitorNotes": "Photographers delight.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Kurumbera Fort",
+          "url": "https://en.wikipedia.org/wiki/Kurumbera_Fort",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pathra Temple Complex",
+    "state": "West Bengal",
+    "city": "Pathra",
+    "region": "Paschim Medinipur",
+    "tags": [
+      "Temple Village",
+      "Terracotta",
+      "Restoration"
+    ],
+    "story": "Known as the 'Village of Temples', Pathra houses over 30 temples (mostly Shiva) built by the Ghoshal and Majumdar families, now being restored.",
+    "highlight": "The sheer density of temples in one village.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pathra_Temples.jpg/640px-Pathra_Temples.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Pathra_Temples.jpg",
+    "deity": "Shiva (Navaratna)",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "10km from Midnapore town.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built between 1732 and late 18th century.",
+      "architecture": "Chala and Ratna styles.",
+      "darshan": "Heritage walk.",
+      "seasonal": "Avoid summer heat.",
+      "visitorNotes": "Visit the Navaratna Shiva temple.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Pathra",
+          "url": "https://en.wikipedia.org/wiki/Pathra",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Deulghata Temples",
+    "state": "West Bengal",
+    "city": "Deulghata",
+    "region": "Purulia district",
+    "tags": [
+      "Ancient Ruins",
+      "Jain/Hindu",
+      "River Kansabati"
+    ],
+    "story": "Ancient brick temples located on the bank of the Kansabati river. Once a Jain center, now a site for Shiva worship.",
+    "highlight": "Tall brick deuls with intricate stucco work.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Deulghata_Temple_Purulia.jpg/640px-Deulghata_Temple_Purulia.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Deulghata_Temple_Purulia.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva/Jain history",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near Jaipur, Purulia.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Tusu Parab"
+    ],
+    "moreDetails": {
+      "history": "11th-12th century construction; immense archaeological value.",
+      "architecture": "Rekha Deul (Brick).",
+      "darshan": "Historic.",
+      "seasonal": "Winter is best.",
+      "visitorNotes": "Visit during Tusu festival for local culture.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Deulghata",
+          "url": "https://en.wikipedia.org/wiki/Deulghata",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Surul Jora Shiva Temple",
+    "state": "West Bengal",
+    "city": "Surul",
+    "region": "Birbhum district",
+    "tags": [
+      "Terracotta",
+      "Santiniketan",
+      "Heritage"
+    ],
+    "story": "Located near Santiniketan, these twin temples feature some of the finest terracotta panels depicting Ramayana scenes.",
+    "highlight": "Detailed terracotta work right near the tourist hub of Santiniketan.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Surul_Shiva_Temple.jpg/640px-Surul_Shiva_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Surul_Shiva_Temple.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter (Poush Mela).",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "3km from Bolpur.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built in the 19th century by the Sarkar family.",
+      "architecture": "Pancha-ratna.",
+      "darshan": "Artistic.",
+      "seasonal": "Crowded during Poush Mela.",
+      "visitorNotes": "Visit the Sarkar Rajbari next door.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Surul",
+          "url": "https://en.wikipedia.org/wiki/Surul",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ghurisha Shiva Temple",
+    "state": "West Bengal",
+    "city": "Ghurisha",
+    "region": "Birbhum district",
+    "tags": [
+      "Terracotta",
+      "Raghunath",
+      "Art"
+    ],
+    "story": "A stunning example of Char-chala architecture known as the Raghunath Shiva Temple, famous for its exquisite terracotta facade.",
+    "highlight": "High-quality terracotta preservation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ghurisha_Temple.jpg/640px-Ghurisha_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ghurisha_Temple.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near Ilambazar.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built in 1633 AD (very old terracotta).",
+      "architecture": "Char-chala.",
+      "darshan": "Artistic.",
+      "seasonal": "Pleasant in winter.",
+      "visitorNotes": "Look for the Ramayana panels.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Birbhum Temples",
+          "url": "https://en.wikipedia.org/wiki/Birbhum_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Garh Panchakot Temple Ruins",
+    "state": "West Bengal",
+    "city": "Garh Panchakot",
+    "region": "Purulia district",
+    "tags": [
+      "Ruins",
+      "Panchet Hill",
+      "Fort"
+    ],
+    "story": "Ruined temples located at the foothills of Panchet Hill, remnants of the Singh Deo dynasty's fort complex.",
+    "highlight": "The atmospheric ruins against the backdrop of Panchet Hill.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Garh_Panchakot_Temple.jpg/640px-Garh_Panchakot_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Garh_Panchakot_Temple.jpg",
+    "deity": "Shiva (Ruins)",
+    "tradition": "Shaiva",
+    "bestTime": "Monsoon (lush green) or Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Nature and history walk.",
+    "rituals": [
+      "None (Ruins)"
+    ],
+    "festivals": [
+      "None"
+    ],
+    "moreDetails": {
+      "history": "Destroyed by the Bargi (Maratha) invasion in the 18th century.",
+      "architecture": "Pancha-ratna (Ruins).",
+      "darshan": "Scenic.",
+      "seasonal": "Green hills in monsoon.",
+      "visitorNotes": "Great for hiking.",
+      "festivals": "None.",
+      "sources": [
+        {
+          "label": "Garh Panchakot",
+          "url": "https://en.wikipedia.org/wiki/Garh_Panchakot",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jora Shiva Temple (Dubrajpur)",
+    "state": "West Bengal",
+    "city": "Dubrajpur",
+    "region": "Birbhum district",
+    "tags": [
+      "Mama Bhagne",
+      "Rock Formation",
+      "Terracotta"
+    ],
+    "story": "Located near the famous Mama Bhagne rock formations, these twin temples add a spiritual dimension to the geological wonder.",
+    "highlight": "Proximity to Mama Bhagne rocks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jora_Shiva_Temple_Dubrajpur.jpg/640px-Jora_Shiva_Temple_Dubrajpur.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jora_Shiva_Temple_Dubrajpur.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Combine with rock climbing/viewing.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "19th-century construction.",
+      "architecture": "Bengal style.",
+      "darshan": "Casual.",
+      "seasonal": "Hot rocks in summer.",
+      "visitorNotes": "Unique landscape.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Dubrajpur",
+          "url": "https://en.wikipedia.org/wiki/Dubrajpur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ratneswar Temple",
+    "state": "West Bengal",
+    "city": "Bhatpara",
+    "region": "North 24 Parganas",
+    "tags": [
+      "Bhatpara",
+      "Pancha-ratna",
+      "Culture"
+    ],
+    "story": "A prominent Pancha-ratna temple in Bhatpara, a town historically known for its Sanskrit scholars.",
+    "highlight": "The five-pinnacle architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ratneswar_Temple_Bhatpara.jpg/640px-Ratneswar_Temple_Bhatpara.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ratneswar_Temple_Bhatpara.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Modest.",
+    "entryNotes": "Near the river.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built in the 17th/18th century.",
+      "architecture": "Pancha-ratna.",
+      "darshan": "Traditional.",
+      "seasonal": "Humid.",
+      "visitorNotes": "Explore the pandit culture of Bhatpara.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Bhatpara",
+          "url": "https://en.wikipedia.org/wiki/Bhatpara",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Moyna Garh Lokeshwar",
+    "state": "West Bengal",
+    "city": "Moyna",
+    "region": "Purba Medinipur",
+    "tags": [
+      "Island Fort",
+      "Unique",
+      "Heritage"
+    ],
+    "story": "Moyna Garh is a unique fort surrounded by two moats. Inside lies the Lokeshwar Shiva temple.",
+    "highlight": "The island-like setting inside the moats.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moyna_Garh_Temple.jpg/640px-Moyna_Garh_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Moyna_Garh_Temple.jpg",
+    "deity": "Shiva (Lokeshwar)",
+    "tradition": "Shaiva",
+    "bestTime": "Winter (Rash Mela).",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Accessible by boat or causeway.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Rash Mela"
+    ],
+    "moreDetails": {
+      "history": "Ancient fort of the Lausen kings.",
+      "architecture": "Pyramidal Rasmancha style.",
+      "darshan": "Scenic.",
+      "seasonal": "Beautiful water body.",
+      "visitorNotes": "Historical atmosphere.",
+      "festivals": "Rash Mela.",
+      "sources": [
+        {
+          "label": "Moyna",
+          "url": "https://en.wikipedia.org/wiki/Moyna",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pancha Ratna Shiva Temple (Gobardanga)",
+    "state": "West Bengal",
+    "city": "Gobardanga",
+    "region": "North 24 Parganas",
+    "tags": [
+      "Zamindar",
+      "Heritage",
+      "River Jamuna"
+    ],
+    "story": "Built by the local Zamindars, this temple stands on the bank of the Jamuna river (a local tributary).",
+    "highlight": "Zamindar heritage.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gobardanga_Shiva_Temple.jpg/640px-Gobardanga_Shiva_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gobardanga_Shiva_Temple.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near the river.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "19th-century construction.",
+      "architecture": "Pancha-ratna.",
+      "darshan": "Local.",
+      "seasonal": "Pleasant.",
+      "visitorNotes": "Visit the Gobardanga Zamindar Bari.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Gobardanga",
+          "url": "https://en.wikipedia.org/wiki/Gobardanga",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  }
+,
+
+  {
+    "name": "Begunia Shiva Temples",
+    "state": "West Bengal",
+    "city": "Barakar",
+    "region": "Paschim Bardhaman",
+    "tags": [
+      "Ancient Stone",
+      "Deul",
+      "Archaeology"
+    ],
+    "story": "A group of ancient stone temples (No. 4 is the most famous) resembling the Odia Rekha Deul style, dating back to the 8th-9th century.",
+    "highlight": "Ancient stone carvings and inscriptions found at the site.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Begunia_Temple_Complex_Barakar.jpg/640px-Begunia_Temple_Complex_Barakar.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Begunia_Temple_Complex_Barakar.jpg",
+    "deity": "Shiva (Siddheswara)",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "ASI protected monument.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built by the Pala dynasty or local chieftains; inscriptions date to the 15th century renovation.",
+      "architecture": "Rekha Deul style (rare in Bengal).",
+      "darshan": "Historic.",
+      "seasonal": "Hot industrial area in summer.",
+      "visitorNotes": "Look for the Ganesha idol near the entrance.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Barakar Temples",
+          "url": "https://en.wikipedia.org/wiki/Barakar",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pratapeswar Temple",
+    "state": "West Bengal",
+    "city": "Kalna",
+    "region": "Purba Bardhaman",
+    "tags": [
+      "Terracotta",
+      "Rekha Deul",
+      "Masterpiece"
+    ],
+    "story": "Considered one of the finest terracotta temples in Bengal, built in 1849. It stands out for its incredible detail and unique Rekha Deul shape.",
+    "highlight": "Exquisite terracotta panels depicting Ramayana and Krishnaleela.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pratapeswar_Temple_Kalna.jpg/640px-Pratapeswar_Temple_Kalna.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Pratapeswar_Temple_Kalna.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Part of the Kalna Rajbari complex.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built by King Pratap Chand of Bardhaman.",
+      "architecture": "Curvilinear Rekha Deul.",
+      "darshan": "Artistic.",
+      "seasonal": "Pleasant in winter.",
+      "visitorNotes": "Walk to the nearby 108 Shiva temples.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Kalna Temples",
+          "url": "https://en.wikipedia.org/wiki/Kalna,_India",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ichai Ghosh Deul",
+    "state": "West Bengal",
+    "city": "Gourangapur",
+    "region": "Paschim Bardhaman",
+    "tags": [
+      "Towering",
+      "Brick",
+      "History"
+    ],
+    "story": "A massive, towering brick temple located deep in the forest near the Ajay river. Legend links it to Ichai Ghosh, a local chieftain.",
+    "highlight": "The sheer height and isolation of the structure.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ichai_Ghosh_Deul.jpg/640px-Ichai_Ghosh_Deul.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ichai_Ghosh_Deul.jpg",
+    "deity": "Shiva (Historical)",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Remote location; strictly day visit.",
+    "rituals": [
+      "Occasional puja"
+    ],
+    "festivals": [
+      "None"
+    ],
+    "moreDetails": {
+      "history": "Dates to the 16th-17th century; linked to the Dharma Mangal poems.",
+      "architecture": "Rekha Deul (Brick).",
+      "darshan": "Adventure.",
+      "seasonal": "Accessible in winter.",
+      "visitorNotes": "No shops nearby.",
+      "festivals": "None.",
+      "sources": [
+        {
+          "label": "Ichai Ghosh Deul",
+          "url": "https://en.wikipedia.org/wiki/Ichai_Ghosh",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Buro Shiv Mandir",
+    "state": "West Bengal",
+    "city": "Nabadwip",
+    "region": "Nadia district",
+    "tags": [
+      "Oldest",
+      "Chaitanya Era",
+      "Heritage"
+    ],
+    "story": "The oldest Shiva temple in Nabadwip, dating back to the era of Sri Chaitanya Mahaprabhu. The deity is Buro Shiv (The Old Shiva).",
+    "highlight": "Traditional Bengali 'Dochala' architecture and historical significance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Buro_Shiv_Mandir_Nabadwip.jpg/640px-Buro_Shiv_Mandir_Nabadwip.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Buro_Shiv_Mandir_Nabadwip.jpg",
+    "deity": "Shiva (Buro Shiv)",
+    "tradition": "Shaiva",
+    "bestTime": "Rash Yatra.",
+    "timings": "Open daily.",
+    "dressCode": "Modest.",
+    "entryNotes": "In the heart of Nabadwip.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri",
+      "Rash Yatra"
+    ],
+    "moreDetails": {
+      "history": "Existing since the 16th century.",
+      "architecture": "Dochala (Two-roofed).",
+      "darshan": "Devotional.",
+      "seasonal": "Crowded during Rash.",
+      "visitorNotes": "Visit the nearby Vaishnava sites too.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Nabadwip",
+          "url": "https://en.wikipedia.org/wiki/Nabadwip",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hateshwar Mahadev",
+    "state": "West Bengal",
+    "city": "Kurseong",
+    "region": "Darjeeling district",
+    "tags": [
+      "Hilltop",
+      "Nature",
+      "Tea Gardens"
+    ],
+    "story": "A revered Shiva temple amidst the tea gardens of Kurseong, known for a natural rock linga.",
+    "highlight": "The serene atmosphere and views of the tea estates.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kurseong_Tea_Garden.jpg/640px-Kurseong_Tea_Garden.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kurseong_Tea_Garden.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "March-May.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Short walk from the road.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Local shrine worshipped by tea garden workers.",
+      "architecture": "Simple hill temple.",
+      "darshan": "Peaceful.",
+      "seasonal": "Misty in monsoon.",
+      "visitorNotes": "Enjoy the tea garden walk.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Kurseong",
+          "url": "https://en.wikipedia.org/wiki/Kurseong",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sribati Terracotta Complex",
+    "state": "West Bengal",
+    "city": "Sribati",
+    "region": "Purba Bardhaman",
+    "tags": [
+      "Terracotta",
+      "Complex",
+      "Hidden Gem"
+    ],
+    "story": "A hidden complex of three Shiva temples (Shri Bisweswar, Bholanath, and Chandreswar) featuring exquisite terracotta work.",
+    "highlight": "Detailed terracotta panels on all three temples.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sribati_Terracotta_Temple.jpg/640px-Sribati_Terracotta_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sribati_Terracotta_Temple.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near Katwa.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built by the Chandra family in the 19th century.",
+      "architecture": "Pancha-ratna and Rekha styles.",
+      "darshan": "Artistic.",
+      "seasonal": "Pleasant in winter.",
+      "visitorNotes": "Ask locals for the key if closed.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Sribati",
+          "url": "https://en.wikipedia.org/wiki/Sribati",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jora Shiva Temples (Kusumba)",
+    "state": "West Bengal",
+    "city": "Kusumba",
+    "region": "Rampurhat, Birbhum",
+    "tags": [
+      "Twin Temples",
+      "Terracotta",
+      "Pond"
+    ],
+    "story": "Two identical Shiva temples standing side-by-side on the banks of a pond, known for their high-quality terracotta decorations.",
+    "highlight": "The twin structure and reflection in the pond.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Jora_Shiva_Temple_Kusumba.jpg/640px-Jora_Shiva_Temple_Kusumba.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jora_Shiva_Temple_Kusumba.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Village location.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built in the 19th century.",
+      "architecture": "Char-chala.",
+      "darshan": "Scenic.",
+      "seasonal": "Good in winter.",
+      "visitorNotes": "Photogenic spot.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Birbhum Temples",
+          "url": "https://en.wikipedia.org/wiki/Birbhum_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sevoke Shiva Mandir",
+    "state": "West Bengal",
+    "city": "Sevoke",
+    "region": "Darjeeling district",
+    "tags": [
+      "Coronation Bridge",
+      "Forest",
+      "River Teesta"
+    ],
+    "story": "Located near the iconic Coronation Bridge, this temple (often called Sevoke Kalibari but houses Shiva) offers stunning views of the Teesta River.",
+    "highlight": "Panoramic view of Teesta river and the mountains.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sevoke_Kali_Mandir.jpg/640px-Sevoke_Kali_Mandir.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sevoke_Kali_Mandir.jpg",
+    "deity": "Shiva / Kali",
+    "tradition": "Shakta/Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Many stairs to climb.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Navratri",
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built in the mid-20th century.",
+      "architecture": "Hill style.",
+      "darshan": "Scenic.",
+      "seasonal": "Monsoon view is dramatic.",
+      "visitorNotes": "Beware of monkeys.",
+      "festivals": "Navratri.",
+      "sources": [
+        {
+          "label": "Sevoke",
+          "url": "https://en.wikipedia.org/wiki/Sevoke",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Salleswar Temple",
+    "state": "West Bengal",
+    "city": "Dihar",
+    "region": "Bankura district",
+    "tags": [
+      "Laterite",
+      "Oldest",
+      "Architecture"
+    ],
+    "story": "One of the oldest laterite stone temples in Bankura, dating back to the 14th century, pre-dating the Bishnupur style.",
+    "highlight": "Ancient Rekha Deul structure.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Salleswar_Temple_Dihar.jpg/640px-Salleswar_Temple_Dihar.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Salleswar_Temple_Dihar.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Archaeological site.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Gajan"
+    ],
+    "moreDetails": {
+      "history": "Built by King Prithvimalla in 1346 AD.",
+      "architecture": "Rekha Deul (Laterite).",
+      "darshan": "Historic.",
+      "seasonal": "Hot summer.",
+      "visitorNotes": "See the Nandi bull outside.",
+      "festivals": "Gajan.",
+      "sources": [
+        {
+          "label": "Dihar",
+          "url": "https://en.wikipedia.org/wiki/Dihar",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pancha Ratna Shiva Temple (Itachuna)",
+    "state": "West Bengal",
+    "city": "Itachuna",
+    "region": "Hooghly district",
+    "tags": [
+      "Terracotta",
+      "Rajbari",
+      "Cinema"
+    ],
+    "story": "Located near the famous Itachuna Rajbari (often used in movies), this temple features the classic five-pinnacle style.",
+    "highlight": "Proximity to the heritage Rajbari stay.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Itachuna_Rajbari_Temple.jpg/640px-Itachuna_Rajbari_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Itachuna_Rajbari_Temple.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Check Rajbari entry rules.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built by the Kundu family (Maratha Bargis ancestors).",
+      "architecture": "Pancha-ratna.",
+      "darshan": "Atmospheric.",
+      "seasonal": "Good in winter.",
+      "visitorNotes": "Stay at the Rajbari for full experience.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Itachuna Rajbari",
+          "url": "https://en.wikipedia.org/wiki/Itachuna_Rajbari",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  }
+,
+  {
+    "name": "Malleswar Temple",
+    "state": "West Bengal",
+    "city": "Bishnupur",
+    "region": "Bankura district",
+    "tags": [
+      "Terracotta",
+      "Malla Kings",
+      "Heritage"
+    ],
+    "story": "The oldest temple in Bishnupur, built by King Raghunath Singha in 1622. It stands as a testament to the early Malla architecture.",
+    "highlight": "The earliest example of laterite stone and terracotta combination in Bishnupur.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Malleswar_Temple_Bishnupur.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Malleswar_Temple_Bishnupur.jpg",
+    "deity": "Shiva (Malleswar)",
+    "tradition": "Shaiva",
+    "bestTime": "Winter (Dec-Feb) for the Bishnupur Mela.",
+    "timings": "Sunrise to Sunset.",
+    "dressCode": "Casual.",
+    "entryNotes": "ASI protected monument; ticket required for the temple group.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri",
+      "Bishnupur Mela"
+    ],
+    "moreDetails": {
+      "history": "Built in 1622 AD by Malla King Raghunath Singha.",
+      "architecture": "Deul style built of laterite stone.",
+      "darshan": "Historic.",
+      "seasonal": "Best in winter.",
+      "visitorNotes": "Near the Rashmancha.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Bishnupur Heritage",
+          "url": "https://en.wikipedia.org/wiki/Bishnupur,_Bankura",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ekteswar Shiva Temple",
+    "state": "West Bengal",
+    "city": "Bankura",
+    "region": "Ekteswar, Bankura",
+    "tags": [
+      "Folk Deity",
+      "Laterite",
+      "Pilgrimage"
+    ],
+    "story": "A unique temple dedicated to 'Ek-Paad' (One-footed) Shiva, also known as Ekteswar. The deity is a natural rock considered a swayambhu linga.",
+    "highlight": "The unique mythology of the one-footed Shiva form.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ekteswar_Temple_Bankura.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ekteswar_Temple_Bankura.jpg",
+    "deity": "Ekteswar (Shiva)",
+    "tradition": "Folk/Shaiva",
+    "bestTime": "Charak Puja (April).",
+    "timings": "Open daily.",
+    "dressCode": "Modest.",
+    "entryNotes": "Located on the banks of Dwarakeswar river.",
+    "rituals": [
+      "Charak Gajan"
+    ],
+    "festivals": [
+      "Gajan Festival",
+      "Charak Puja"
+    ],
+    "moreDetails": {
+      "history": "Built by the Malla kings of Bishnupur.",
+      "architecture": "Robust laterite structure.",
+      "darshan": "Devotional.",
+      "seasonal": "Hot in summer.",
+      "visitorNotes": "Famous for the Gajan festival.",
+      "festivals": "Charak Puja.",
+      "sources": [
+        {
+          "label": "Ekteswar",
+          "url": "https://en.wikipedia.org/wiki/Ekteswar",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jataleswar Temple",
+    "state": "West Bengal",
+    "city": "Maynaguri",
+    "region": "Jalpaiguri district",
+    "tags": [
+      "North Bengal",
+      "Forest",
+      "Ancient"
+    ],
+    "story": "One of the oldest temples in North Bengal, dedicated to Lord Jataleswar (Shiva). It dates back to the Gupta period (320 AD).",
+    "highlight": "Ancient history and deep reverence in the Dooars region.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jataleswar_Temple_Main_Gate.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jataleswar_Temple_Main_Gate.jpg",
+    "deity": "Shiva (Jataleswar)",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Modest.",
+    "entryNotes": "Near Maynaguri.",
+    "rituals": [
+      "Water offering"
+    ],
+    "festivals": [
+      "Shivratri Fair"
+    ],
+    "moreDetails": {
+      "history": "Rebuilt by the Kings of Cooch Behar after original Gupta era construction.",
+      "architecture": "Bengal style.",
+      "darshan": "Pilgrimage.",
+      "seasonal": "Pleasant in winter.",
+      "visitorNotes": "Major fair held during Shivratri.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Jataleswar Temple",
+          "url": "https://en.wikipedia.org/wiki/Jataleswar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Baneshwar Shiva Temple",
+    "state": "West Bengal",
+    "city": "Cooch Behar",
+    "region": "Baneshwar",
+    "tags": [
+      "Tortoise",
+      "Royal",
+      "Pond"
+    ],
+    "story": "Famous for its 'Mohan' tortoises that live in the temple pond. It was built by the Cooch Behar Maharajas.",
+    "highlight": "The ancient tortoises in the Shiv Pukur (pond).",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baneshwar_Shiva_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Baneshwar_Shiva_Temple.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "10km from Cooch Behar town.",
+    "rituals": [
+      "Tortoise feeding"
+    ],
+    "festivals": [
+      "Shiv Chaturdashi"
+    ],
+    "moreDetails": {
+      "history": "Built by Maharaja Pran Narayan.",
+      "architecture": "Chala style with a dome.",
+      "darshan": "Unique.",
+      "seasonal": "Good all year.",
+      "visitorNotes": "Do not harm the tortoises.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Baneshwar",
+          "url": "https://en.wikipedia.org/wiki/Baneshwar",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bahulara Siddheswar Temple",
+    "state": "West Bengal",
+    "city": "Onda",
+    "region": "Bankura district",
+    "tags": [
+      "Rekha Deul",
+      "Brick",
+      "Architecture"
+    ],
+    "story": "The finest specimen of 'Rekha Deul' architecture in Bengal, known for its intricate brickwork and towering height.",
+    "highlight": "The towering brick deul structure.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Siddheswara_Temple_at_Bahulara_Bankura_District_West_Bengal.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Siddheswara_Temple_at_Bahulara_Bankura_District_West_Bengal.jpg",
+    "deity": "Shiva (Siddheswar)",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Archaeological site.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built around the 11th century; pre-dates Bishnupur temples.",
+      "architecture": "Oriya-influenced Rekha Deul.",
+      "darshan": "Heritage.",
+      "seasonal": "Hot in summer.",
+      "visitorNotes": "A must for architecture students.",
+      "festivals": "Chaitra Gajan.",
+      "sources": [
+        {
+          "label": "Bahulara",
+          "url": "https://en.wikipedia.org/wiki/Bahulara",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nandikeshwari Temple",
+    "state": "West Bengal",
+    "city": "Sainthia",
+    "region": "Birbhum district",
+    "tags": [
+      "Shakti Peetha",
+      "Nandikeshwari",
+      "Tortoise Idol"
+    ],
+    "story": "A major Shakti Peetha where the necklace of Sati fell. The main deity is worshipped as a rock smeared with vermilion.",
+    "highlight": "One of the 51 Shakti Peethas.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nandikeshwari_Temple_Sainthia.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nandikeshwari_Temple_Sainthia.jpg",
+    "deity": "Nandikeshwari / Shiva (Nandikeshwar)",
+    "tradition": "Shakta/Shaiva",
+    "bestTime": "Navratri.",
+    "timings": "Open daily.",
+    "dressCode": "Modest.",
+    "entryNotes": "In Sainthia town.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Kali Puja",
+      "Navratri"
+    ],
+    "moreDetails": {
+      "history": "Ancient pilgrimage site.",
+      "architecture": "Simple Bengal style.",
+      "darshan": "Spiritual.",
+      "seasonal": "Crowded during Puja.",
+      "visitorNotes": "Visit the Shiva temple in the complex too.",
+      "festivals": "Navratri.",
+      "sources": [
+        {
+          "label": "Nandikeshwari Temple",
+          "url": "https://en.wikipedia.org/wiki/Nandikeshwari_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahanad Kali Temple (Shiva Complex)",
+    "state": "West Bengal",
+    "city": "Mahanad",
+    "region": "Hooghly district",
+    "tags": [
+      "Gupta Era",
+      "Shiva",
+      "History"
+    ],
+    "story": "Mahanad is an ancient site often identified with the Gupta period. The Shiva temple here is locally famous as Jateswarnath.",
+    "highlight": "Historical antiquity of the site.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jateswarnath_Shiva_Temple_Mahanad.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jateswarnath_Shiva_Temple_Mahanad.jpg",
+    "deity": "Shiva (Jateswarnath)",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near Polba.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Mahanad was a provincial capital in ancient Bengal.",
+      "architecture": "Traditional.",
+      "darshan": "Historic.",
+      "seasonal": "Good all year.",
+      "visitorNotes": "Archaeological finds nearby.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Mahanad",
+          "url": "https://en.wikipedia.org/wiki/Mahanad",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pareshnath Shiva Temple",
+    "state": "West Bengal",
+    "city": "Pareshnath",
+    "region": "Bankura district",
+    "tags": [
+      "Jain History",
+      "Conversion",
+      "Heritage"
+    ],
+    "story": "Originally a Jain site that transformed into a Shaiva pilgrimage center. The Shiva linga here is widely revered.",
+    "highlight": "Fusion of Jain heritage and Shaiva worship.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pareshnath_Shiva_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Pareshnath_Shiva_Temple.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near Ranibandh.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Gajan"
+    ],
+    "moreDetails": {
+      "history": "Ancient Jain idols found in the vicinity.",
+      "architecture": "Stone/Brick.",
+      "darshan": "Devotional.",
+      "seasonal": "Hot summer.",
+      "visitorNotes": "Remote location.",
+      "festivals": "Gajan.",
+      "sources": [
+        {
+          "label": "Bankura Tourism",
+          "url": "https://en.wikipedia.org/wiki/Bankura_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chandranath Shiva Temple",
+    "state": "West Bengal",
+    "city": "Hetampur",
+    "region": "Birbhum district",
+    "tags": [
+      "Terracotta",
+      "Octagonal",
+      "Royal"
+    ],
+    "story": "A rare octagonal terracotta temple built by the Royal family of Hetampur. It is known for its European-influenced terracotta motifs.",
+    "highlight": "Octagonal shape and colonial-style terracotta figures.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chandranath_Shiva_Temple_Hetampur.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Chandranath_Shiva_Temple_Hetampur.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Near Dubrajpur.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built in 1847 by Govinda Sundari.",
+      "architecture": "Navaratna (Nine pinnacles) on Octagonal base.",
+      "darshan": "Artistic.",
+      "seasonal": "Pleasant in winter.",
+      "visitorNotes": "Look for Queen Victoria on terracotta panels!",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Hetampur",
+          "url": "https://en.wikipedia.org/wiki/Hetampur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ghoshwara Shiva Temple",
+    "state": "West Bengal",
+    "city": "Murshidabad",
+    "region": "Lalbagh",
+    "tags": [
+      "Terracotta",
+      "Murshidabad",
+      "Heritage"
+    ],
+    "story": "A classic example of Char-chala (four-roofed) temple architecture in the historic Murshidabad region.",
+    "highlight": "Exquisite terracotta panels depicting mythological scenes.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Char_Chala_Shiva_Temple_of_Ghosh_Family_at_Murshidabad_01.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Char_Chala_Shiva_Temple_of_Ghosh_Family_at_Murshidabad_01.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Winter.",
+    "timings": "Open daily.",
+    "dressCode": "Casual.",
+    "entryNotes": "Part of the Murshidabad heritage circuit.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
+    "moreDetails": {
+      "history": "Built in the 18th century.",
+      "architecture": "Char-chala.",
+      "darshan": "Historic.",
+      "seasonal": "Good in winter.",
+      "visitorNotes": "Visit the nearby Hazarduari Palace.",
+      "festivals": "Shivratri.",
+      "sources": [
+        {
+          "label": "Murshidabad Temples",
+          "url": "https://en.wikipedia.org/wiki/Murshidabad",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  }
+,
   {
     "name": "Dakshineswar Kali Temple",
     "state": "West Bengal",

@@ -1,7 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import './App.css'
 import { templeData } from './data/temples'
-import { stateCatalog } from './data/states'
 import { lineageData } from './data/lineages'
 
 const placeholderImages = [
@@ -20,9 +19,7 @@ const getPlaceholderImage = (name) => {
 
 const ALL_STATES = 'All States'
 const ALL_CITIES = 'All Cities'
-const FEATURED_LIMIT = 12
-const SHOW_TEMPLE_NAV = false
-const SHOW_LINEAGES_NAV = false
+const ALL_DEITIES = 'All Deities'
 const MODES = {
   SHIVA: 'shiva',
   SHAKTI: 'shakti',
@@ -33,14 +30,23 @@ const FOCUS_STATES = [
   'Tamil Nadu',
   'West Bengal',
   'Uttarakhand',
+  'Maharashtra',
+  'Gujarat',
+  'Rajasthan',
+  'Karnataka',
+  'Kerala',
+  'Odisha',
+  'Andhra Pradesh',
 ]
+const NAV_LINKS = ['Home', 'About us', 'Story', 'Blog', 'Contact']
+const NAV_WITH_DROPDOWN = new Set(['Story', 'Blog'])
 
 const copy = {
   en: {
     portalName: 'Sanatan Dharma Digital Atlas',
-    heroTitle: 'One sacred destination for temples, stories, and living traditions.',
+    heroTitle: 'Temple Stories',
     heroSubtitle:
-      'Explore India through a curated, state-by-state portal that celebrates the spiritual geography of Bharat. Discover temples, rituals, and places of deep cultural resonance.',
+      "A curated collection of narratives, legends, and living traditions from India's sacred spaces.",
     heroActions: {
       start: 'Start a Journey',
       view: 'View Temple Stories',
@@ -89,16 +95,16 @@ const copy = {
       title: 'Find a Temple',
       subtitle: 'Pick a state, choose a city, and explore the living heritage.',
       searchLabel: 'Search',
-      searchPlaceholder: 'Temple name, city, deity, or tag',
+      searchPlaceholder: 'Search',
       stateLabel: 'State',
       cityLabel: 'City',
       deityLabel: 'Deity',
       traditionLabel: 'Tradition',
       festivalLabel: 'Festival',
       bestTimeLabel: 'Best time',
-      allStates: 'All States',
-      allCities: 'All Cities',
-      allDeities: 'All Deities',
+      allStates: 'Filter by State',
+      allCities: 'Filter by City',
+      allDeities: 'Filter by Deity',
       allTraditions: 'All Traditions',
       allFestivals: 'All Festivals',
       allBestTimes: 'All Best Times',
@@ -156,7 +162,7 @@ const copy = {
       viewDetails: 'View lineage',
     },
     highlightLabel: 'Highlight',
-    readFullStory: 'Read full story',
+    readFullStory: 'Read Story',
     emptyState: {
       title: 'More temple stories are on the way.',
       body:
@@ -236,9 +242,9 @@ const copy = {
   },
   hi: {
     portalName: 'सनातन धर्म डिजिटल एटलस',
-    heroTitle: 'मंदिरों, कथाओं और जीवंत परंपराओं का एक पवित्र गंतव्य।',
+    heroTitle: 'मंदिर कथाएँ',
     heroSubtitle:
-      'भारत की आध्यात्मिक भूगोल को समर्पित राज्यवार पोर्टल के साथ भारत की खोज करें। मंदिरों, अनुष्ठानों और सांस्कृतिक धरोहर के स्थलों को जानें।',
+      'भारत के पवित्र स्थलों की कथाओं, लोकपरंपराओं और जीवंत साधनाओं का क्यूरेटेड संग्रह।',
     heroActions: {
       start: 'यात्रा शुरू करें',
       view: 'मंदिर कथाएँ देखें',
@@ -287,16 +293,16 @@ const copy = {
       title: 'मंदिर खोजें',
       subtitle: 'राज्य चुनें, शहर चुनें और जीवंत विरासत देखें।',
       searchLabel: 'खोजें',
-      searchPlaceholder: 'मंदिर, शहर, देवता या टैग',
+      searchPlaceholder: 'खोजें',
       stateLabel: 'राज्य',
       cityLabel: 'शहर',
       deityLabel: 'देवता',
       traditionLabel: 'संप्रदाय',
       festivalLabel: 'त्योहार',
       bestTimeLabel: 'सर्वश्रेष्ठ समय',
-      allStates: 'सभी राज्य',
-      allCities: 'सभी शहर',
-      allDeities: 'सभी देवता',
+      allStates: 'राज्य चुनें',
+      allCities: 'शहर चुनें',
+      allDeities: 'देवता चुनें',
       allTraditions: 'सभी संप्रदाय',
       allFestivals: 'सभी त्योहार',
       allBestTimes: 'सभी सर्वोत्तम समय',
@@ -351,7 +357,7 @@ const copy = {
       viewDetails: 'परंपरा देखें',
     },
     highlightLabel: 'मुख्य आकर्षण',
-    readFullStory: 'पूरी कथा पढ़ें',
+    readFullStory: 'कथा पढ़ें',
     emptyState: {
       title: 'और मंदिर कथाएँ जल्द जोड़ी जाएंगी।',
       body:
@@ -436,54 +442,44 @@ function App() {
   const [activePage, setActivePage] = useState('temples')
   const [selectedState, setSelectedState] = useState(ALL_STATES)
   const [selectedCity, setSelectedCity] = useState(ALL_CITIES)
+  const [selectedDeity, setSelectedDeity] = useState(ALL_DEITIES)
   const [searchTerm, setSearchTerm] = useState('')
   const [mode, setMode] = useState(MODES.SHIVA)
   const [activeTemple, setActiveTemple] = useState(null)
   const [activeLineage, setActiveLineage] = useState(null)
-  const [showAll, setShowAll] = useState(false)
-  const [showSearchModal, setShowSearchModal] = useState(false)
   const storyModalRef = useRef(null)
   const [modalImageSrc, setModalImageSrc] = useState('')
   const [isPortraitImage, setIsPortraitImage] = useState(false)
   const t = copy[language]
   const isLineages = activePage === 'lineages'
   const isShivaMode = mode === MODES.SHIVA
+  const safeTempleData = useMemo(
+    () => templeData.filter((item) => item && typeof item === 'object'),
+    []
+  )
 
   const themedTemples = useMemo(() => {
-    const isShivaTemple = (item) => item.deity === 'Shiva' || item.tradition === 'Shaiva'
+    const isShivaTemple = (item) =>
+      item && (item.deity === 'Shiva' || item.tradition === 'Shaiva')
     const isShaktiTemple = (item) =>
-      item.tradition === 'Shakta' ||
-      (item.tags ?? []).some((tag) => tag.toLowerCase().includes('shakti'))
-    return templeData.filter((item) => (isShivaMode ? isShivaTemple(item) : isShaktiTemple(item)))
-  }, [isShivaMode])
+      item &&
+      (item.tradition === 'Shakta' ||
+        (item.tags ?? []).some((tag) => tag.toLowerCase().includes('shakti')))
+    return safeTempleData.filter((item) =>
+      isShivaMode ? isShivaTemple(item) : isShaktiTemple(item)
+    )
+  }, [isShivaMode, safeTempleData])
 
-  const baseTemples = useMemo(
+  const visibleTemples = useMemo(
     () => themedTemples.filter((item) => FOCUS_STATES.includes(item.state)),
     [themedTemples]
   )
 
-  const visibleTemples = useMemo(() => {
-    if (!isShivaMode) {
-      return baseTemples
-    }
-    const shivaPrimary = baseTemples.filter((item) => item.deity === 'Shiva')
-    const shivaSecondary = baseTemples.filter((item) => item.deity !== 'Shiva')
-    return [...shivaPrimary, ...shivaSecondary].slice(0, 108)
-  }, [baseTemples, isShivaMode])
+  const states = useMemo(() => [ALL_STATES, ...FOCUS_STATES], [])
 
-  const states = useMemo(() => {
-    const available = new Set(visibleTemples.map((item) => item.state))
-    return [ALL_STATES, ...FOCUS_STATES.filter((state) => available.has(state))]
-  }, [visibleTemples])
-
-  const stats = useMemo(() => {
-    const stateCount = new Set(visibleTemples.map((item) => item.state)).size
-    const cityCount = new Set(visibleTemples.map((item) => item.city)).size
-    return {
-      stateCount,
-      cityCount,
-      templeCount: visibleTemples.length,
-    }
+  const deities = useMemo(() => {
+    const unique = Array.from(new Set(visibleTemples.map((item) => item.deity).filter(Boolean)))
+    return [ALL_DEITIES, ...unique]
   }, [visibleTemples])
 
   const lineageStats = useMemo(() => {
@@ -498,6 +494,16 @@ function App() {
       traditionCount: traditions.size,
     }
   }, [])
+
+  const templeStats = useMemo(() => {
+    const statesSet = new Set(visibleTemples.map((item) => item.state))
+    const citiesSet = new Set(visibleTemples.map((item) => item.city))
+    return {
+      temples: visibleTemples.length,
+      cities: citiesSet.size,
+      states: statesSet.size,
+    }
+  }, [visibleTemples])
 
   const cities = useMemo(() => {
     if (selectedState === ALL_STATES) {
@@ -518,19 +524,16 @@ function App() {
   }, [cities, selectedCity])
 
   useEffect(() => {
+    if (!deities.includes(selectedDeity)) {
+      setSelectedDeity(ALL_DEITIES)
+    }
+  }, [deities, selectedDeity])
+
+  useEffect(() => {
     if (!states.includes(selectedState)) {
       setSelectedState(ALL_STATES)
     }
   }, [states, selectedState])
-
-  useEffect(() => {
-    setShowAll(false)
-  }, [
-    selectedState,
-    selectedCity,
-    searchTerm,
-    mode,
-  ])
 
   useEffect(() => {
     if (activeTemple && !visibleTemples.includes(activeTemple)) {
@@ -543,7 +546,7 @@ function App() {
   }, [language])
 
   useEffect(() => {
-    if (!activeTemple && !activeLineage && !showSearchModal) {
+    if (!activeTemple && !activeLineage) {
       return undefined
     }
 
@@ -551,7 +554,6 @@ function App() {
       if (event.key === 'Escape') {
         setActiveTemple(null)
         setActiveLineage(null)
-        setShowSearchModal(false)
       }
     }
 
@@ -562,7 +564,7 @@ function App() {
       document.removeEventListener('keydown', handleKeyDown)
       document.body.style.overflow = ''
     }
-  }, [activeTemple, activeLineage, showSearchModal])
+  }, [activeTemple, activeLineage])
 
   useEffect(() => {
     if (activeTemple && storyModalRef.current) {
@@ -591,6 +593,7 @@ function App() {
   const filteredTemples = visibleTemples.filter((item) => {
     const matchState = selectedState === ALL_STATES || item.state === selectedState
     const matchCity = selectedCity === ALL_CITIES || item.city === selectedCity
+    const matchDeity = selectedDeity === ALL_DEITIES || item.deity === selectedDeity
     const normalizedSearch = searchTerm.trim().toLowerCase()
     const matchSearch = normalizedSearch
       ? [
@@ -609,27 +612,9 @@ function App() {
           .filter(Boolean)
           .some((value) => value.toLowerCase().includes(normalizedSearch))
       : true
-    return matchState && matchCity && matchSearch
+    return matchState && matchCity && matchDeity && matchSearch
   })
-  const displayedTemples = showAll ? filteredTemples : filteredTemples.slice(0, FEATURED_LIMIT)
-  const dailyIndex = useMemo(() => {
-    const poolSize = filteredTemples.length || visibleTemples.length
-    if (!poolSize) {
-      return 0
-    }
-    const now = new Date()
-    const daySeed = Math.floor(now.getTime() / 86400000)
-    return Math.abs(daySeed) % poolSize
-  }, [filteredTemples.length, visibleTemples.length])
-  const featuredTemple =
-    filteredTemples.length > 0
-      ? filteredTemples[dailyIndex % filteredTemples.length]
-      : visibleTemples.length > 0
-        ? visibleTemples[dailyIndex % visibleTemples.length]
-        : null
-  const featuredImage = featuredTemple
-    ? featuredTemple.image ?? getPlaceholderImage(featuredTemple.name)
-    : ''
+  const displayedTemples = filteredTemples
 
   const scrollToLineages = () => {
     const section = document.getElementById('lineage-cards')
@@ -638,23 +623,10 @@ function App() {
     }
   }
 
-  const scrollToCards = () => {
-    const section = document.getElementById('temple-cards')
-    if (section) {
-      section.scrollIntoView({ behavior: 'smooth', block: 'start' })
-    }
-  }
-
-  const handleSaveRoute = () => {
-    setShowSearchModal(false)
-    scrollToCards()
-  }
-
   const switchPage = (page) => {
     setActivePage(page)
     setActiveTemple(null)
     setActiveLineage(null)
-    setShowSearchModal(false)
     if (typeof window !== 'undefined') {
       window.scrollTo({ top: 0, behavior: 'smooth' })
     }
@@ -754,43 +726,57 @@ function App() {
       ].filter((item) => item.value)
     : []
   const labelForState = (state) => (state === ALL_STATES ? t.panel.allStates : state)
-  const labelForCity = (city) => (city === ALL_CITIES ? t.panel.allCities : city)
-  const formatShowing = (count) => {
-    const token = String(count)
-    const text = t.panel.showing(count)
-    const parts = text.split(token)
-    if (parts.length < 2) {
-      return { prefix: text, suffix: '' }
-    }
-    return { prefix: parts[0], suffix: parts[1] }
-  }
-  const showingParts = formatShowing(filteredTemples.length)
-
+  const labelForDeity = (deity) => (deity === ALL_DEITIES ? t.panel.allDeities : deity)
   return (
     <div className={`app theme-${mode} ${language === 'hi' ? 'lang-hi' : ''}`}>
-      <nav className="site-nav">
-        {SHOW_TEMPLE_NAV || SHOW_LINEAGES_NAV ? (
-          <div className="nav-toggle">
-            {SHOW_TEMPLE_NAV ? (
-              <button
-                className={`nav-button ${!isLineages ? 'active' : ''}`}
-                type="button"
-                onClick={() => switchPage('temples')}
-              >
-                {t.nav.temples}
-              </button>
-            ) : null}
-            {SHOW_LINEAGES_NAV ? (
-              <button
-                className={`nav-button ${isLineages ? 'active' : ''}`}
-                type="button"
-                onClick={() => switchPage('lineages')}
-              >
-                {t.nav.lineages}
-              </button>
-            ) : null}
+      <nav className="navbar">
+        <a href="#" className="logo-container">
+          <i className="fa-solid fa-om logo-icon" aria-hidden="true" />
+          <div className="brand-text">
+            <span className="brand-name-main">Sanatan Dharma</span>
+            <span className="brand-name-sub">Digital Atlas</span>
           </div>
-        ) : null}
+        </a>
+
+        <ul className="nav-links">
+          {NAV_LINKS.map((item) => (
+            <li className="nav-item" key={item}>
+              <a href="#" className="nav-link">
+                {item}
+                {NAV_WITH_DROPDOWN.has(item) ? (
+                  <i className="fa-solid fa-chevron-down nav-caret" aria-hidden="true" />
+                ) : null}
+              </a>
+            </li>
+          ))}
+        </ul>
+
+        <div className="auth-buttons">
+          <div className="mode-toggle-inline" role="group" aria-label={t.modeToggle.label}>
+            <button
+              className={`mode-pill ${isShivaMode ? 'active' : ''}`}
+              type="button"
+              aria-pressed={isShivaMode}
+              onClick={() => setMode(MODES.SHIVA)}
+            >
+              {t.modeToggle.shiva}
+            </button>
+            <button
+              className={`mode-pill ${!isShivaMode ? 'active' : ''}`}
+              type="button"
+              aria-pressed={!isShivaMode}
+              onClick={() => setMode(MODES.SHAKTI)}
+            >
+              {t.modeToggle.shakti}
+            </button>
+          </div>
+          <a className="btn btn-login" href="#">
+            Log in
+          </a>
+          <a className="btn btn-signup" href="#">
+            Create account
+          </a>
+        </div>
       </nav>
 
       {isLineages ? (
@@ -904,231 +890,128 @@ function App() {
         </>
       ) : (
         <>
-          <header className="hero">
-        <div className="hero-content">
-          <div className="hero-top">
-            <p className="eyebrow">{t.portalName}</p>
-            <div className="mode-toggle" role="group" aria-label={t.modeToggle.label}>
-              <span className={`mode-label ${isShivaMode ? 'active' : ''}`}>
-                {t.modeToggle.shiva}
-              </span>
-              <button
-                className={`mode-switch ${mode}`}
-                type="button"
-                aria-pressed={!isShivaMode}
-                aria-label={isShivaMode ? t.modeToggle.shakti : t.modeToggle.shiva}
-                onClick={() => setMode(isShivaMode ? MODES.SHAKTI : MODES.SHIVA)}
-              >
-                <span className="switch-thumb" />
-              </button>
-              <span className={`mode-label ${!isShivaMode ? 'active' : ''}`}>
-                {t.modeToggle.shakti}
-              </span>
-            </div>
-          </div>
-          <h1>{t.heroTitle}</h1>
-          <p className="subtitle">{t.heroSubtitle}</p>
-          <div className="hero-actions">
-            <button
-              className="primary"
-              type="button"
-              onClick={() => {
-                if (featuredTemple) {
-                  setActiveTemple(featuredTemple)
-                  setActiveLineage(null)
-                } else {
-                  setShowSearchModal(true)
-                }
-              }}
-            >
-              {t.heroActions.start}
-            </button>
-            <button className="secondary" type="button" onClick={() => setShowSearchModal(true)}>
-              {t.heroActions.search}
-            </button>
-            <button className="ghost" type="button" onClick={scrollToCards}>
-              {t.heroActions.view}
-            </button>
-          </div>
-          <div className="hero-stats">
-            <div>
-              <p className="stat-number">{stats.stateCount}</p>
-              <p className="stat-label">{t.stats.states}</p>
-            </div>
-            <div>
-              <p className="stat-number">{stats.templeCount}</p>
-              <p className="stat-label">{t.stats.temples}</p>
-            </div>
-            <div>
-              <p className="stat-number">{stats.cityCount}</p>
-              <p className="stat-label">{t.stats.cities}</p>
-            </div>
-          </div>
-        </div>
-        <div className="hero-panel hero-story">
-          <div className="panel-head story-head">
-            <p className="eyebrow">{t.heroStory.eyebrow}</p>
-            <h2>{t.heroStory.title}</h2>
-          </div>
-          {featuredTemple ? (
-            <div className="hero-story-card">
-              <img src={featuredImage} alt={featuredTemple.name} loading="lazy" />
-              <div className="hero-story-body">
-                <p className="story-tag">
-                  {featuredTemple.city}, {featuredTemple.state}
-                </p>
-                <h3>{featuredTemple.name}</h3>
-                <p className="story-snippet">{getTempleText(featuredTemple, 'story')}</p>
-                {getTempleText(featuredTemple, 'highlight') ? (
-                  <p className="story-highlight">
-                    <span>{t.highlightLabel}</span>
-                    {getTempleText(featuredTemple, 'highlight')}
-                  </p>
-                ) : null}
-                <div className="hero-story-actions">
-                  <button
-                    className="secondary"
-                    type="button"
-                    onClick={() => {
-                      setActiveTemple(featuredTemple)
-                      setActiveLineage(null)
-                    }}
-                  >
-                    {t.heroStory.read}
-                  </button>
-                  <button className="link" type="button" onClick={scrollToCards}>
-                    {t.heroStory.browse}
-                  </button>
-                </div>
+          <section className="stories-section">
+            <h1 className="stories-title">{t.heroTitle}</h1>
+            <p className="stories-subtitle">{t.heroSubtitle}</p>
+            <div className="hero-stats-row">
+              <div className="hero-stat">
+                <span className="hero-stat-number">{templeStats.temples.toLocaleString()}</span>
+                <span className="hero-stat-label">{t.stats.temples}</span>
+              </div>
+              <div className="hero-stat">
+                <span className="hero-stat-number">{templeStats.cities.toLocaleString()}</span>
+                <span className="hero-stat-label">{t.stats.cities}</span>
+              </div>
+              <div className="hero-stat">
+                <span className="hero-stat-number">{templeStats.states.toLocaleString()}</span>
+                <span className="hero-stat-label">{t.stats.states}</span>
               </div>
             </div>
-          ) : (
-            <p className="story-empty">{t.emptyState.title}</p>
-          )}
-        </div>
-      </header>
 
-      <section className="states">
-        <div className="section-header">
-          <h2>{t.statesSection.title}</h2>
-          <p>{t.statesSection.subtitle}</p>
-        </div>
-        <div className="state-list">
-          {states.slice(1).map((state, index) => (
-            <button
-              key={state}
-              className={`state-pill ${selectedState === state ? 'active' : ''}`}
-              style={{ '--delay': `${index * 80}ms` }}
-              onClick={() => setSelectedState(state)}
-            >
-              {state}
-            </button>
-          ))}
-        </div>
-      </section>
+            <div className="filters-container">
+              <label className="input-group" htmlFor="filter-state">
+                <select
+                  id="filter-state"
+                  value={selectedState}
+                  onChange={(event) => setSelectedState(event.target.value)}
+                >
+                  {states.map((state) => (
+                    <option key={state} value={state}>
+                      {labelForState(state)}
+                    </option>
+                  ))}
+                </select>
+                <i className="fa-solid fa-chevron-down input-icon" aria-hidden="true" />
+              </label>
 
-      <section className="cards" id="temple-cards">
-        <div className="section-header">
-          <h2>{t.cardsSection.title}</h2>
-          <p>{t.cardsSection.subtitle}</p>
-        </div>
-        <div className="card-grid">
-          {displayedTemples.map((temple, index) => {
-            const imageSrc = temple.image ?? getPlaceholderImage(temple.name)
-            const deity = getTempleText(temple, 'deity')
-            const tradition = getTempleText(temple, 'tradition')
-            const cardTags = getTempleList(temple, 'tags')
-            const visibleTags = cardTags.slice(0, 3)
-            const extraTagCount = cardTags.length - visibleTags.length
-            return (
-              <article className="temple-card" key={temple.name} style={{ '--delay': `${index * 80}ms` }}>
-                <figure className="card-media">
-                  <img
-                    src={imageSrc}
-                    alt={`${getTempleText(temple, 'name')} in ${temple.city}`}
-                    loading="lazy"
-                  />
-                  {temple.image && temple.creditUrl && temple.credit ? (
-                    <figcaption>
-                      <a href={temple.creditUrl} target="_blank" rel="noreferrer">
-                        {temple.credit}
-                      </a>
-                    </figcaption>
-                  ) : null}
-                </figure>
-                <div className="card-body">
-                  <div className="card-top">
-                    <span className="region">{getTempleText(temple, 'region')}</span>
-                    <span className="location">
-                      {temple.city}, {temple.state}
-                    </span>
-                  </div>
-                  <h3>{getTempleText(temple, 'name')}</h3>
-                  <p>{getTempleText(temple, 'story')}</p>
-                  <div className="tags">
-                    {visibleTags.map((tag) => (
-                      <span key={tag}>{tag}</span>
-                    ))}
-                    {extraTagCount > 0 ? (
-                      <span className="tag-more">+{extraTagCount} more</span>
-                    ) : null}
-                  </div>
-                  {(deity || tradition) && (
-                    <div className="quick-facts">
-                      {deity ? (
-                        <div>
-                          <span>{t.details.deity}</span>
-                          <p>{deity}</p>
-                        </div>
-                      ) : null}
-                      {tradition ? (
-                        <div>
-                          <span>{t.details.tradition}</span>
-                          <p>{tradition}</p>
-                        </div>
-                      ) : null}
-                    </div>
-                  )}
-                  <div className="highlight">
-                    <span>{t.highlightLabel}</span>
-                    <p>{getTempleText(temple, 'highlight')}</p>
-                  </div>
-                  <button className="link" type="button" onClick={() => setActiveTemple(temple)}>
-                    {t.readFullStory}
-                  </button>
-                </div>
-              </article>
-            )
-          })}
-        </div>
-        {!showAll && filteredTemples.length > FEATURED_LIMIT ? (
-          <button className="secondary view-more" type="button" onClick={() => setShowAll(true)}>
-            View more ({filteredTemples.length - FEATURED_LIMIT} more)
-          </button>
-        ) : null}
-        {filteredTemples.length === 0 ? (
-          <div className="empty-state">
-            <h3>{t.emptyState.title}</h3>
-            <p>{t.emptyState.body}</p>
-            <button className="ghost">{t.emptyState.cta}</button>
-          </div>
-        ) : null}
-      </section>
+              <label className="input-group" htmlFor="filter-deity">
+                <select
+                  id="filter-deity"
+                  value={selectedDeity}
+                  onChange={(event) => setSelectedDeity(event.target.value)}
+                >
+                  {deities.map((deity) => (
+                    <option key={deity} value={deity}>
+                      {labelForDeity(deity)}
+                    </option>
+                  ))}
+                </select>
+                <i className="fa-solid fa-chevron-down input-icon" aria-hidden="true" />
+              </label>
 
-      <section className="features">
-        <div className="section-header">
-          <h2>{t.featuresSection.title}</h2>
-          <p>{t.featuresSection.subtitle}</p>
-        </div>
-        <div className="feature-grid">
-          {t.featuresSection.items.map((feature, index) => (
-            <div className="feature-card" key={feature.title} style={{ '--delay': `${index * 120}ms` }}>
-              <h3>{feature.title}</h3>
-              <p>{feature.text}</p>
+              <label className="input-group search-wrapper" htmlFor="filter-search">
+                <i className="fa-solid fa-magnifying-glass input-icon" aria-hidden="true" />
+                <input
+                  id="filter-search"
+                  type="text"
+                  value={searchTerm}
+                  onChange={(event) => setSearchTerm(event.target.value)}
+                  placeholder={t.panel.searchPlaceholder}
+                />
+              </label>
             </div>
-          ))}
-        </div>
-      </section>
+          </section>
+
+          <section className="cards" id="temple-cards">
+            <div className="card-grid">
+              {displayedTemples.map((temple, index) => {
+                const imageSrc = temple.image ?? getPlaceholderImage(temple.name)
+                const storyText = getTempleText(temple, 'story')
+                const wordCount = storyText ? storyText.trim().split(/\s+/).length : 0
+                const readTime = wordCount ? Math.max(1, Math.round(wordCount / 90)) : 1
+                return (
+                  <article
+                    className="temple-card"
+                    key={temple.name}
+                    style={{ '--delay': `${index * 80}ms` }}
+                  >
+                    <figure className="card-media">
+                      <img
+                        src={imageSrc}
+                        alt={`${getTempleText(temple, 'name')} in ${temple.city}`}
+                        loading="lazy"
+                      />
+                      {temple.image && temple.creditUrl && temple.credit ? (
+                        <figcaption>
+                          <a href={temple.creditUrl} target="_blank" rel="noreferrer">
+                            {temple.credit}
+                          </a>
+                        </figcaption>
+                      ) : null}
+                    </figure>
+                    <div className="card-body">
+                      <div className="card-meta">
+                        <span className="card-location">
+                          <span className="location-dot" aria-hidden="true" />
+                          {temple.city}, {temple.state}
+                        </span>
+                        {getTempleText(temple, 'region') ? (
+                          <span className="card-region">{getTempleText(temple, 'region')}</span>
+                        ) : null}
+                        <span className="card-readtime">{readTime} min read</span>
+                      </div>
+                      <h3>{getTempleText(temple, 'name')}</h3>
+                      <p>{storyText}</p>
+                      <button
+                        className="card-action"
+                        type="button"
+                        onClick={() => setActiveTemple(temple)}
+                      >
+                        {t.readFullStory}
+                      </button>
+                    </div>
+                  </article>
+                )
+              })}
+            </div>
+            {filteredTemples.length === 0 ? (
+              <div className="empty-state">
+                <h3>{t.emptyState.title}</h3>
+                <p>{t.emptyState.body}</p>
+                <button className="ghost">{t.emptyState.cta}</button>
+              </div>
+            ) : null}
+          </section>
 
         </>
       )}
@@ -1136,89 +1019,6 @@ function App() {
       <footer className="footer">
         <p>{t.footer}</p>
       </footer>
-
-      {showSearchModal ? (
-        <div className="search-overlay" onClick={() => setShowSearchModal(false)}>
-          <div
-            className="search-modal"
-            role="dialog"
-            aria-modal="true"
-            aria-labelledby="search-title"
-            onClick={(event) => event.stopPropagation()}
-          >
-            <button
-              className="story-close"
-              type="button"
-              onClick={() => setShowSearchModal(false)}
-            >
-              {t.modal.close}
-            </button>
-            <div className="panel-head">
-              <h2 id="search-title">{t.panel.title}</h2>
-              <p>{t.panel.subtitle}</p>
-            </div>
-            <div className="filters">
-              <label className="field field-full">
-                <span>{t.panel.searchLabel}</span>
-                <input
-                  list="temple-search-list"
-                  value={searchTerm}
-                  onChange={(event) => setSearchTerm(event.target.value)}
-                  placeholder={t.panel.searchPlaceholder}
-                />
-                <datalist id="temple-search-list">
-                  {visibleTemples.map((temple) => (
-                    <option key={temple.name} value={temple.name} />
-                  ))}
-                </datalist>
-              </label>
-              <label className="field">
-                <span>{t.panel.stateLabel}</span>
-                <select value={selectedState} onChange={(event) => setSelectedState(event.target.value)}>
-                  {states.map((state) => (
-                    <option key={state} value={state}>
-                      {labelForState(state)}
-                    </option>
-                  ))}
-                </select>
-              </label>
-              <label className="field">
-                <span>{t.panel.cityLabel}</span>
-                <select value={selectedCity} onChange={(event) => setSelectedCity(event.target.value)}>
-                  {cities.map((city) => (
-                    <option key={city} value={city}>
-                      {labelForCity(city)}
-                    </option>
-                  ))}
-                </select>
-              </label>
-            </div>
-            <div className="panel-hint">
-              <p>{t.panel.helper}</p>
-              <button
-                className="link"
-                type="button"
-                onClick={() => {
-                  setShowSearchModal(false)
-                  scrollToCards()
-                }}
-              >
-                {t.panel.explore}
-              </button>
-            </div>
-            <div className="panel-footer">
-              <p>
-                {showingParts.prefix}
-                <strong>{filteredTemples.length}</strong>
-                {showingParts.suffix}
-              </p>
-              <button className="secondary" type="button" onClick={handleSaveRoute}>
-                {t.panel.save}
-              </button>
-            </div>
-          </div>
-        </div>
-      ) : null}
 
       {activeTemple ? (
         <div className="story-overlay" onClick={() => setActiveTemple(null)}>

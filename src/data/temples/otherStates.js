@@ -458,54 +458,6 @@ export const otherStatesTemples = [
     }
   },
   {
-    "name": "Somnath Temple",
-    "state": "Gujarat",
-    "city": "Prabhas Patan",
-    "region": "Saurashtra Coast",
-    "tags": [
-      "Jyotirlinga",
-      "Seaside",
-      "Aarti"
-    ],
-    "story": "A coastal jyotirlinga shrine that blends sea breeze with sacred rhythm.",
-    "highlight": "Evening aarti with the Arabian Sea in view.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Somnath%20temple%20Gujarat%20India.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Somnath_temple_Gujarat_India.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "bestTime": "Sunset for aarti by the sea.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Sea breeze evenings can be cooler.",
-    "rituals": [
-      "Sandhya aarti",
-      "Abhishekam"
-    ],
-    "festivals": [
-      "Mahashivratri",
-      "Kartika Purnima"
-    ],
-    "moreDetails": {
-      "darshan": "Darshan is listed as 6:00 AM to 10:00 PM. Aarti timings are 7:00 AM, 12:00 noon, and 7:00 PM.",
-      "visitorNotes": "Entry is free. The Somnath Trust notes that electronics are not allowed and must be stored in lockers.",
-      "puranicView": "Somnath Trust recounts Pauranic tradition that Soma (the Moon) worshipped Shiva at Prabhas Teerth to be freed from Daksha's curse and that Somnath is the first of the jyotirlingas. The trust notes these traditions are described in texts such as the Shiva Purana and Skand Purana.",
-      "puranicSources": [
-        {
-          "label": "Somnath Trust: Introduction",
-          "url": "https://somnath.org/sts23/",
-          "type": "Temple trust (Purana tradition)"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Shree Somnath Trust (FAQ)",
-          "url": "https://somnath.org/faq/"
-        }
-      ]
-    }
-  },
-  {
     "name": "Sheetla Devi Temple",
     "state": "Haryana",
     "city": "Gurugram",
