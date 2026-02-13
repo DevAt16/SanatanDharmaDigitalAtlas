@@ -8,7 +8,8 @@ import { gujaratTemples } from './gujarat.js'
 import { rajasthanTemples } from './rajasthan.js'
 import { karnatakaTemples } from './karnataka.js'
 import { keralaTemples } from './kerala.js'
-import { otherStatesTemples } from './otherStates.js'
+import { odishaTemples } from './odisha.js'
+import { andhraPradeshTemples } from './andhraPradesh.js'
 
 export const templeData = [
   ...madhyaPradeshTemples,
@@ -21,5 +22,6 @@ export const templeData = [
   ...rajasthanTemples,
   ...karnatakaTemples,
   ...keralaTemples,
-  ...otherStatesTemples,
+  ...odishaTemples,
+  ...andhraPradeshTemples,
 ]

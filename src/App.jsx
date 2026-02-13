@@ -1,7 +1,9 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import './App.css'
 import { templeData } from './data/temples'
+import { andhraPradeshTemples } from './data/temples/andhraPradesh'
 import { lineageData } from './data/lineages'
+import { pickBestCommonsImage, searchCommonsImages } from './utils/commons'
 
 const placeholderImages = [
   '/temples/temple-01.svg',
@@ -23,6 +25,9 @@ const ALL_DEITIES = 'All Deities'
 const MODES = {
   SHIVA: 'shiva',
   SHAKTI: 'shakti',
+}
+const STATE_TEMPLE_OVERRIDES = {
+  'Andhra Pradesh': andhraPradeshTemples,
 }
 const FOCUS_STATES = [
   'Madhya Pradesh',
@@ -450,21 +455,94 @@ function App() {
   const storyModalRef = useRef(null)
   const [modalImageSrc, setModalImageSrc] = useState('')
   const [isPortraitImage, setIsPortraitImage] = useState(false)
+  const [auditStatus, setAuditStatus] = useState({ running: false, total: 0, done: 0 })
   const t = copy[language]
   const isLineages = activePage === 'lineages'
   const isShivaMode = mode === MODES.SHIVA
-  const safeTempleData = useMemo(
+  const baseTempleData = useMemo(() => {
+    if (selectedState !== ALL_STATES && STATE_TEMPLE_OVERRIDES[selectedState]) {
+      return STATE_TEMPLE_OVERRIDES[selectedState]
+    }
+    return templeData
+  }, [selectedState])
+
+  const allTempleData = useMemo(
     () => templeData.filter((item) => item && typeof item === 'object'),
     []
   )
+  const safeTempleData = useMemo(
+    () => baseTempleData.filter((item) => item && typeof item === 'object'),
+    [baseTempleData]
+  )
 
   const themedTemples = useMemo(() => {
-    const isShivaTemple = (item) =>
-      item && (item.deity === 'Shiva' || item.tradition === 'Shaiva')
-    const isShaktiTemple = (item) =>
-      item &&
-      (item.tradition === 'Shakta' ||
-        (item.tags ?? []).some((tag) => tag.toLowerCase().includes('shakti')))
+    const normalize = (value) => String(value || '').toLowerCase()
+    const includesAny = (value, needles) => needles.some((needle) => value.includes(needle))
+    const shivaNeedles = [
+      'shiva',
+      'mahadev',
+      'mahadeva',
+      'mahesh',
+      'bhairav',
+      'bhairava',
+      'linga',
+      'lingam',
+      'pashupat',
+      'pashupati',
+      'pashupata',
+      'nath',
+    ]
+    const shivaTraditionNeedles = ['shaiva', 'shiva', 'nath', 'pashupat', 'pashupati', 'pashupata']
+    const shaktiNeedles = [
+      'shakti',
+      'devi',
+      'durga',
+      'kali',
+      'parvati',
+      'uma',
+      'ambika',
+      'chamunda',
+      'chandika',
+      'bhavani',
+      'gauri',
+      'lalita',
+      'sati',
+      'annapurna',
+      'kamakhya',
+      'sarada',
+      'saraswati',
+      'lakshmi',
+      'mahakali',
+      'mahadevi',
+      'tripura',
+      'rajarajeshwari',
+    ]
+    const shaktiTraditionNeedles = ['shakta', 'shakti', 'tantric', 'tantra']
+
+    const isShivaTemple = (item) => {
+      if (!item) return false
+      const deity = normalize(item.deity)
+      const tradition = normalize(item.tradition)
+      const name = normalize(item.name)
+      return (
+        includesAny(deity, shivaNeedles) ||
+        includesAny(tradition, shivaTraditionNeedles) ||
+        includesAny(name, shivaNeedles)
+      )
+    }
+
+    const isShaktiTemple = (item) => {
+      if (!item) return false
+      const deity = normalize(item.deity)
+      const tradition = normalize(item.tradition)
+      const name = normalize(item.name)
+      return (
+        includesAny(deity, shaktiNeedles) ||
+        includesAny(tradition, shaktiTraditionNeedles) ||
+        includesAny(name, shaktiNeedles)
+      )
+    }
+
     return safeTempleData.filter((item) =>
       isShivaMode ? isShivaTemple(item) : isShaktiTemple(item)
     )
@@ -495,15 +573,20 @@ function App() {
     }
   }, [])
 
+  const statTemples = useMemo(
+    () => allTempleData.filter((item) => FOCUS_STATES.includes(item.state)),
+    [allTempleData]
+  )
+
   const templeStats = useMemo(() => {
-    const statesSet = new Set(visibleTemples.map((item) => item.state))
-    const citiesSet = new Set(visibleTemples.map((item) => item.city))
+    const statesSet = new Set(statTemples.map((item) => item.state))
+    const citiesSet = new Set(statTemples.map((item) => item.city))
     return {
-      temples: visibleTemples.length,
+      temples: statTemples.length,
       cities: citiesSet.size,
       states: statesSet.size,
     }
-  }, [visibleTemples])
+  }, [statTemples])
 
   const cities = useMemo(() => {
     if (selectedState === ALL_STATES) {
@@ -615,6 +698,138 @@ function App() {
     return matchState && matchCity && matchDeity && matchSearch
   })
   const displayedTemples = filteredTemples
+
+  const runImageAudit = async () => {
+    const isDev = typeof import.meta !== 'undefined' && import.meta.env && import.meta.env.DEV
+    if (!isDev) return
+    if (selectedState === ALL_STATES) return
+    if (auditStatus.running) return
+
+    const fileNameFromSpecialPath = (url) => {
+      const marker = '/Special:FilePath/'
+      const idx = String(url || '').indexOf(marker)
+      if (idx === -1) return ''
+      return decodeURIComponent(String(url).slice(idx + marker.length))
+    }
+
+    const isSuspiciousImage = (temple) => {
+      const file = fileNameFromSpecialPath(temple?.image).toLowerCase()
+      if (!file) return false
+      if (file.includes('temple') || file.includes('gopuram') || file.includes('mandir')) return false
+      return [
+        'bridge',
+        'river',
+        'canyon',
+        'fort',
+        'hills',
+        'lake',
+        'beach',
+        'waterfall',
+        'falls',
+        'view',
+        'map',
+        'logo',
+        'seal',
+        'flag',
+      ].some((hint) => file.includes(hint))
+    }
+
+    const probeImage = (src, timeoutMs = 9000) =>
+      new Promise((resolve) => {
+        if (!src) {
+          resolve({ ok: false, reason: 'missing' })
+          return
+        }
+        let finished = false
+        const img = new Image()
+        const timer = window.setTimeout(() => {
+          if (finished) return
+          finished = true
+          resolve({ ok: false, reason: 'timeout' })
+        }, timeoutMs)
+        img.onload = () => {
+          if (finished) return
+          finished = true
+          window.clearTimeout(timer)
+          resolve({ ok: true, width: img.naturalWidth, height: img.naturalHeight })
+        }
+        img.onerror = () => {
+          if (finished) return
+          finished = true
+          window.clearTimeout(timer)
+          resolve({ ok: false, reason: 'error' })
+        }
+        img.src = src
+      })
+
+    const temples = safeTempleData.filter((temple) => temple?.state === selectedState)
+    setAuditStatus({ running: true, total: temples.length, done: 0 })
+
+    const results = []
+    const queue = temples.slice()
+    const workers = 4
+
+    const worker = async () => {
+      while (queue.length) {
+        const temple = queue.shift()
+        if (!temple) continue
+
+        const suspect = isSuspiciousImage(temple)
+        const probe = await probeImage(temple.image)
+        const needsReview = suspect || !probe.ok
+        if (needsReview) {
+          const query = `${String(temple.name || '')
+            .replace(/[()]/g, '')
+            .trim()} ${String(temple.city || '').trim()} temple`
+
+          try {
+            const candidates = await searchCommonsImages(query, 10)
+            const best = pickBestCommonsImage(candidates, { name: temple.name, city: temple.city })
+            results.push({
+              name: temple.name,
+              city: temple.city,
+              oldImage: temple.image || '',
+              status: probe.ok ? 'suspicious' : `broken:${probe.reason}`,
+              query,
+              suggestedImage: best?.imageUrl || '',
+              suggestedCreditUrl: best?.filePageUrl || '',
+              license: best?.license || '',
+              suggestedTitle: best?.title || '',
+            })
+          } catch (error) {
+            results.push({
+              name: temple.name,
+              city: temple.city,
+              oldImage: temple.image || '',
+              status: probe.ok ? 'suspicious' : `broken:${probe.reason}`,
+              query,
+              error: String(error?.message || error),
+            })
+          }
+        }
+
+        setAuditStatus((prev) => ({
+          running: true,
+          total: prev.total,
+          done: Math.min(prev.total, prev.done + 1),
+        }))
+      }
+    }
+
+    await Promise.all(Array.from({ length: workers }, () => worker()))
+
+    console.log('TEMPLE_IMAGE_AUDIT_RESULTS', {
+      state: selectedState,
+      count: results.length,
+      results,
+    })
+    try {
+      await navigator.clipboard.writeText(JSON.stringify({ state: selectedState, results }, null, 2))
+    } catch {
+      // Ignore clipboard failures (permissions / non-secure context).
+    }
+    setAuditStatus({ running: false, total: temples.length, done: temples.length })
+  }
 
   const scrollToLineages = () => {
     const section = document.getElementById('lineage-cards')
@@ -950,6 +1165,20 @@ function App() {
                 />
               </label>
             </div>
+            {typeof import.meta !== 'undefined' && import.meta.env && import.meta.env.DEV ? (
+              <div className="hero-audit-row">
+                <button
+                  className="ghost"
+                  type="button"
+                  onClick={runImageAudit}
+                  disabled={auditStatus.running || selectedState === ALL_STATES}
+                >
+                  {auditStatus.running
+                    ? `Auditing ${selectedState} images (${auditStatus.done}/${auditStatus.total})`
+                    : 'Audit state images (dev)'}
+                </button>
+              </div>
+            ) : null}
           </section>
 
           <section className="cards" id="temple-cards">
@@ -970,6 +1199,11 @@ function App() {
                         src={imageSrc}
                         alt={`${getTempleText(temple, 'name')} in ${temple.city}`}
                         loading="lazy"
+                        onError={(event) => {
+                          if (event.currentTarget.dataset.fallbackApplied) return
+                          event.currentTarget.dataset.fallbackApplied = '1'
+                          event.currentTarget.src = getPlaceholderImage(temple.name)
+                        }}
                       />
                       {temple.image && temple.creditUrl && temple.credit ? (
                         <figcaption>

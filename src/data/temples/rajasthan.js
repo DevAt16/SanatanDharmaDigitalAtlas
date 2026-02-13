@@ -2787,9 +2787,7 @@ export const rajasthanTemples = [
         }
       ]
     }
-  }
-  ,
-  ,
+  },
   {
     "name": "Eklingji Temple",
     "state": "Rajasthan",

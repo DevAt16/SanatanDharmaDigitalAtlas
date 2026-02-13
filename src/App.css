@@ -289,6 +289,12 @@
   flex-wrap: wrap;
 }
 
+.hero-audit-row {
+  display: flex;
+  justify-content: center;
+  margin-top: 12px;
+}
+
 .cards {
   width: 100%;
   max-width: 1080px;
