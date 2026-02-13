@@ -2559,31 +2559,5 @@ export const keralaTemples = [
                 "visitorNotes": "Queue for Payasam.",
                     "sources": [{ "label": "Ambalappuzha Temple", "url": "https://en.wikipedia.org/wiki/Ambalappuzha_Sri_Krishna_Temple", "type": "Encyclopedia" }]
     }
-},
-{
-    "name": "Haripad Subrahmanya Swamy Temple (Shiva Shrine)",
-        "state": "Kerala",
-            "city": "Haripad",
-                "region": "Alappuzha district",
-                    "tags": ["Peacocks", "Subrahmanya", "Shiva"],
-                        "story": "A grand temple for Subrahmanya with Shiva worshipped as part of the family.",
-                            "highlight": "Peacocks roaming the premises.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/009232022_Haripad_Subrahmanya_Swami_temple%2C_Kerala_056.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:009232022_Haripad_Subrahmanya_Swami_temple%2C_Kerala_056.jpg",
-                                            "deity": "Subramanya/Shiva",
-                                                "tradition": "Shaiva",
-                                                    "bestTime": "Thaipooyam.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Traditional attire.",
-                                                                "entryNotes": "Feed the peacocks.",
-                                                                    "rituals": ["Kavadi"],
-                                                                        "festivals": ["Thaipooyam"],
-                                                                            "moreDetails": {
-        "history": "Ancient idol.",
-            "architecture": "Koothambalam is famous.",
-                "visitorNotes": "Largest Subrahmanya temple in Kerala.",
-                    "sources": [{ "label": "Haripad Temple", "url": "https://en.wikipedia.org/wiki/Haripad_Sree_Subrahmanya_Swamy_Temple", "type": "Encyclopedia" }]
-    }
 }
 ];

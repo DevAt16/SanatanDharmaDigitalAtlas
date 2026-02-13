@@ -2376,5 +2376,46 @@ export const andhraPradeshTemples = [
             "visitorNotes": "Well-maintained facilities.",
             "sources": [{ "label": "Pulivendula", "url": "https://en.wikipedia.org/wiki/Pulivendula", "type": "Encyclopedia" }]
         }
+    },
+    {
+        "name": "Veerabhadra Temple (Lepakshi)",
+        "state": "Andhra Pradesh",
+        "city": "Lepakshi",
+        "region": "Sri Sathya Sai district",
+        "tags": [
+            "Vijayanagara",
+            "Hanging Pillar",
+            "Monolithic Nandi"
+        ],
+        "story": "A celebrated Vijayanagara-era Shiva temple famed for its murals, the hanging pillar, and the massive Nandi monolith nearby.",
+        "highlight": "Hanging pillar and the monolithic Nandi.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Veerabhadra_swamy_temple_at_Lepakshi.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Veerabhadra_swamy_temple_at_Lepakshi.jpg",
+        "deity": "Shiva (Veerabhadra)",
+        "tradition": "Shaiva",
+        "bestTime": "October to March.",
+        "timings": "Open daily; timings vary by season.",
+        "dressCode": "Traditional attire preferred.",
+        "entryNotes": "The Nandi monolith is a short drive from the main shrine.",
+        "rituals": [
+            "Daily puja",
+            "Abhishekam"
+        ],
+        "festivals": [
+            "Mahashivratri"
+        ],
+        "moreDetails": {
+            "history": "Built in the 16th century during the Vijayanagara period.",
+            "architecture": "Vijayanagara style with richly painted ceilings.",
+            "visitorNotes": "Ask about the hanging pillar and murals.",
+            "sources": [
+                {
+                    "label": "Veerabhadra Temple, Lepakshi",
+                    "url": "https://en.wikipedia.org/wiki/Veerabhadra_Temple,_Lepakshi",
+                    "type": "Encyclopedia"
+                }
+            ]
+        }
     }
 ];
