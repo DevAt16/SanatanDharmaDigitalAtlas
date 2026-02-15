@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import './App.css'
-import { templeData } from './data/temples'
+import { templeData, shaktiTempleData } from './data/temples'
 import { andhraPradeshTemples } from './data/temples/andhraPradesh'
 import { lineageData } from './data/lineages'
 import { pickBestCommonsImage, searchCommonsImages } from './utils/commons'
@@ -21,7 +21,6 @@ const getPlaceholderImage = (name) => {
 
 const ALL_STATES = 'All States'
 const ALL_CITIES = 'All Cities'
-const ALL_DEITIES = 'All Deities'
 const MODES = {
   SHIVA: 'shiva',
   SHAKTI: 'shakti',
@@ -43,12 +42,10 @@ const FOCUS_STATES = [
   'Odisha',
   'Andhra Pradesh',
 ]
-const NAV_LINKS = ['Home', 'About us', 'Story', 'Blog', 'Contact']
-const NAV_WITH_DROPDOWN = new Set(['Story', 'Blog'])
 
 const copy = {
   en: {
-    portalName: 'Sanatan Dharma Digital Atlas',
+    portalName: 'Jai Bhole Nath',
     heroTitle: 'Temple Stories',
     heroSubtitle:
       "A curated collection of narratives, legends, and living traditions from India's sacred spaces.",
@@ -118,6 +115,9 @@ const copy = {
       explore: "Explore editor's picks below",
       save: 'Save this route',
     },
+    labels: {
+      allStates: 'All States',
+    },
     trailsSection: {
       title: 'Curated Trails',
       subtitle: 'Start with a guided path chosen for story richness and ritual depth.',
@@ -159,6 +159,14 @@ const copy = {
       title: "Editor's Picks",
       subtitle: 'Handpicked temple stories and themed collections to read in depth.',
     },
+    searchSection: {
+      title: 'Search results',
+      subtitle: (count) => `${count} temples matched your filters.`,
+    },
+    searchEmpty: {
+      title: 'No matches for the current filters.',
+      body: 'Try clearing a filter or search term to see more temples.',
+    },
     lineagesSection: {
       title: 'Lineages and Sampradayas',
       subtitle: 'Ten foundational streams, each with key figures and practices.',
@@ -191,6 +199,32 @@ const copy = {
           text: 'Highlights, best moments, and atmosphere notes that help plan meaningful visits.',
         },
       ],
+    },
+    aboutSection: {
+      eyebrow: 'About Us',
+      title: 'Jai Bhole Nath is a living archive of sacred geography.',
+      subtitle:
+        'We curate temple stories so seekers can explore India’s spiritual landscape with clarity and respect.',
+      cards: [
+        {
+          title: 'Our intent',
+          body: 'Build a respectful portal that keeps temple lore, ritual rhythm, and regional context alive.',
+        },
+        {
+          title: 'What we curate',
+          body: 'Temple stories, key rituals, best visit windows, and verified imagery sourced from public archives.',
+        },
+        {
+          title: 'How to use it',
+          body: 'Choose a state, read a story, and plan your visit with cultural sensitivity and local traditions in mind.',
+        },
+      ],
+    },
+    disclaimerSection: {
+      title: 'Disclaimer',
+      body:
+        'Information here is curated from public sources and community inputs. Details may vary by local tradition and temple administration. Please verify timings, rituals, and access rules with official temple sources before visiting.',
+      note: 'If you notice an error, share a correction so we can update it.',
     },
     footer: 'Sanatan Dharma Portal. Crafted for community, history, and devotion.',
     modeToggle: {
@@ -246,7 +280,7 @@ const copy = {
     },
   },
   hi: {
-    portalName: 'सनातन धर्म डिजिटल एटलस',
+    portalName: 'जय भोलेनाथ',
     heroTitle: 'मंदिर कथाएँ',
     heroSubtitle:
       'भारत के पवित्र स्थलों की कथाओं, लोकपरंपराओं और जीवंत साधनाओं का क्यूरेटेड संग्रह।',
@@ -316,6 +350,9 @@ const copy = {
       explore: 'नीचे चुनिंदा मंदिर देखें',
       save: 'इस मार्ग को सहेजें',
     },
+    labels: {
+      allStates: 'सभी राज्य',
+    },
     trailsSection: {
       title: 'क्यूरेटेड यात्राएँ',
       subtitle: 'कहानी और परंपरा के आधार पर चुने गए मार्गों से शुरुआत करें।',
@@ -354,6 +391,14 @@ const copy = {
       title: 'संपादक चयन',
       subtitle: 'कहानी, अनुष्ठान और संदर्भ के साथ चुनी हुई मंदिर कथाएँ।',
     },
+    searchSection: {
+      title: 'खोज परिणाम',
+      subtitle: (count) => `${count} मंदिर आपके फ़िल्टर से मिले।`,
+    },
+    searchEmpty: {
+      title: 'चयनित फ़िल्टर से कोई परिणाम नहीं मिला।',
+      body: 'अधिक मंदिर देखने के लिए फ़िल्टर या खोज शब्द हटाएँ।',
+    },
     lineagesSection: {
       title: 'परंपराएँ और समप्रदाय',
       subtitle: 'दस प्रमुख धाराएँ, मुख्य आचार्य और साधना विवरण।',
@@ -386,6 +431,32 @@ const copy = {
           text: 'मुख्य आकर्षण, सर्वोत्तम समय और वातावरण संबंधी सुझाव।',
         },
       ],
+    },
+    aboutSection: {
+      eyebrow: 'परिचय',
+      title: 'जय भोलेनाथ भारत की पवित्र भूगोल यात्रा का जीवंत संग्रह है।',
+      subtitle:
+        'हम मंदिर कथाएँ, परंपराएँ और यात्रा मार्ग सावधानी से संकलित करते हैं ताकि साधक सम्मान और स्पष्टता के साथ खोज कर सकें।',
+      cards: [
+        {
+          title: 'हमारा उद्देश्य',
+          body: 'एक सम्मानजनक, गैर-व्यावसायिक पोर्टल बनाना जो मंदिर की कथा, अनुष्ठान और स्थानीय संदर्भ को जीवित रखे।',
+        },
+        {
+          title: 'हम क्या चुनते हैं',
+          body: 'मंदिर कथाएँ, प्रमुख अनुष्ठान, सर्वोत्तम समय और सार्वजनिक अभिलेखों से सत्यापित चित्र।',
+        },
+        {
+          title: 'इसे कैसे उपयोग करें',
+          body: 'राज्य चुनें, कथा पढ़ें और स्थानीय परंपराओं के साथ अपनी यात्रा का सम्मानपूर्वक नियोजन करें।',
+        },
+      ],
+    },
+    disclaimerSection: {
+      title: 'अस्वीकरण',
+      body:
+        'यहाँ दी गई जानकारी सार्वजनिक स्रोतों और समुदाय इनपुट से संकलित है। स्थानीय परंपराओं और मंदिर प्रशासन के अनुसार विवरण बदल सकते हैं। कृपया यात्रा से पहले आधिकारिक स्रोतों से समय, अनुष्ठान और प्रवेश नियम सत्यापित करें।',
+      note: 'यदि कोई त्रुटि दिखे तो सुधार साझा करें ताकि हम अपडेट कर सकें।',
     },
     footer: 'सनातन धर्म पोर्टल। समुदाय, इतिहास और भक्ति के लिए समर्पित।',
     modeToggle: {
@@ -447,8 +518,9 @@ function App() {
   const [activePage, setActivePage] = useState('temples')
   const [selectedState, setSelectedState] = useState(ALL_STATES)
   const [selectedCity, setSelectedCity] = useState(ALL_CITIES)
-  const [selectedDeity, setSelectedDeity] = useState(ALL_DEITIES)
   const [searchTerm, setSearchTerm] = useState('')
+  const [storyState, setStoryState] = useState(ALL_STATES)
+  const [stateFilterSource, setStateFilterSource] = useState('dropdown')
   const [mode, setMode] = useState(MODES.SHIVA)
   const [activeTemple, setActiveTemple] = useState(null)
   const [activeLineage, setActiveLineage] = useState(null)
@@ -459,106 +531,45 @@ function App() {
   const t = copy[language]
   const isLineages = activePage === 'lineages'
   const isShivaMode = mode === MODES.SHIVA
+  const shaktiStates = useMemo(() => {
+    const seen = new Set()
+    const list = []
+    shaktiTempleData.forEach((temple) => {
+      if (!temple || typeof temple !== 'object') return
+      if (!temple.state || seen.has(temple.state)) return
+      seen.add(temple.state)
+      list.push(temple.state)
+    })
+    return list
+  }, [shaktiTempleData])
+  const activeStates = useMemo(
+    () => (isShivaMode ? FOCUS_STATES : shaktiStates),
+    [isShivaMode, shaktiStates]
+  )
   const baseTempleData = useMemo(() => {
+    if (!isShivaMode) {
+      return shaktiTempleData
+    }
     if (selectedState !== ALL_STATES && STATE_TEMPLE_OVERRIDES[selectedState]) {
       return STATE_TEMPLE_OVERRIDES[selectedState]
     }
     return templeData
-  }, [selectedState])
-
-  const allTempleData = useMemo(
-    () => templeData.filter((item) => item && typeof item === 'object'),
-    []
-  )
+  }, [isShivaMode, selectedState, shaktiTempleData])
   const safeTempleData = useMemo(
     () => baseTempleData.filter((item) => item && typeof item === 'object'),
     [baseTempleData]
   )
 
   const themedTemples = useMemo(() => {
-    const normalize = (value) => String(value || '').toLowerCase()
-    const includesAny = (value, needles) => needles.some((needle) => value.includes(needle))
-    const shivaNeedles = [
-      'shiva',
-      'mahadev',
-      'mahadeva',
-      'mahesh',
-      'bhairav',
-      'bhairava',
-      'linga',
-      'lingam',
-      'pashupat',
-      'pashupati',
-      'pashupata',
-      'nath',
-    ]
-    const shivaTraditionNeedles = ['shaiva', 'shiva', 'nath', 'pashupat', 'pashupati', 'pashupata']
-    const shaktiNeedles = [
-      'shakti',
-      'devi',
-      'durga',
-      'kali',
-      'parvati',
-      'uma',
-      'ambika',
-      'chamunda',
-      'chandika',
-      'bhavani',
-      'gauri',
-      'lalita',
-      'sati',
-      'annapurna',
-      'kamakhya',
-      'sarada',
-      'saraswati',
-      'lakshmi',
-      'mahakali',
-      'mahadevi',
-      'tripura',
-      'rajarajeshwari',
-    ]
-    const shaktiTraditionNeedles = ['shakta', 'shakti', 'tantric', 'tantra']
-
-    const isShivaTemple = (item) => {
-      if (!item) return false
-      const deity = normalize(item.deity)
-      const tradition = normalize(item.tradition)
-      const name = normalize(item.name)
-      return (
-        includesAny(deity, shivaNeedles) ||
-        includesAny(tradition, shivaTraditionNeedles) ||
-        includesAny(name, shivaNeedles)
-      )
-    }
-
-    const isShaktiTemple = (item) => {
-      if (!item) return false
-      const deity = normalize(item.deity)
-      const tradition = normalize(item.tradition)
-      const name = normalize(item.name)
-      return (
-        includesAny(deity, shaktiNeedles) ||
-        includesAny(tradition, shaktiTraditionNeedles) ||
-        includesAny(name, shaktiNeedles)
-      )
-    }
-
-    return safeTempleData.filter((item) =>
-      isShivaMode ? isShivaTemple(item) : isShaktiTemple(item)
-    )
+    return safeTempleData
   }, [isShivaMode, safeTempleData])
 
   const visibleTemples = useMemo(
-    () => themedTemples.filter((item) => FOCUS_STATES.includes(item.state)),
-    [themedTemples]
+    () => themedTemples.filter((item) => activeStates.includes(item.state)),
+    [themedTemples, activeStates]
   )
 
-  const states = useMemo(() => [ALL_STATES, ...FOCUS_STATES], [])
-
-  const deities = useMemo(() => {
-    const unique = Array.from(new Set(visibleTemples.map((item) => item.deity).filter(Boolean)))
-    return [ALL_DEITIES, ...unique]
-  }, [visibleTemples])
+  const states = useMemo(() => [ALL_STATES, ...activeStates], [activeStates])
 
   const lineageStats = useMemo(() => {
     const figureCount = lineageData.reduce(
@@ -573,10 +584,7 @@ function App() {
     }
   }, [])
 
-  const statTemples = useMemo(
-    () => allTempleData.filter((item) => FOCUS_STATES.includes(item.state)),
-    [allTempleData]
-  )
+  const statTemples = useMemo(() => visibleTemples, [visibleTemples])
 
   const templeStats = useMemo(() => {
     const statesSet = new Set(statTemples.map((item) => item.state))
@@ -589,14 +597,11 @@ function App() {
   }, [statTemples])
 
   const cities = useMemo(() => {
-    if (selectedState === ALL_STATES) {
-      return [ALL_CITIES]
-    }
-    const unique = Array.from(
-      new Set(
-        visibleTemples.filter((item) => item.state === selectedState).map((item) => item.city)
-      )
-    )
+    const pool =
+      selectedState === ALL_STATES
+        ? visibleTemples
+        : visibleTemples.filter((item) => item.state === selectedState)
+    const unique = Array.from(new Set(pool.map((item) => item.city)))
     return [ALL_CITIES, ...unique]
   }, [selectedState, visibleTemples])
 
@@ -607,16 +612,16 @@ function App() {
   }, [cities, selectedCity])
 
   useEffect(() => {
-    if (!deities.includes(selectedDeity)) {
-      setSelectedDeity(ALL_DEITIES)
-    }
-  }, [deities, selectedDeity])
-
-  useEffect(() => {
     if (!states.includes(selectedState)) {
       setSelectedState(ALL_STATES)
     }
   }, [states, selectedState])
+
+  useEffect(() => {
+    if (storyState !== ALL_STATES && !activeStates.includes(storyState)) {
+      setStoryState(ALL_STATES)
+    }
+  }, [activeStates, storyState])
 
   useEffect(() => {
     if (activeTemple && !visibleTemples.includes(activeTemple)) {
@@ -673,10 +678,13 @@ function App() {
     probe.src = imageSrc
   }, [activeTemple])
 
-  const filteredTemples = visibleTemples.filter((item) => {
+  const searchActive =
+    (stateFilterSource === 'dropdown' && selectedState !== ALL_STATES) ||
+    selectedCity !== ALL_CITIES ||
+    searchTerm.trim()
+  const searchFilteredTemples = visibleTemples.filter((item) => {
     const matchState = selectedState === ALL_STATES || item.state === selectedState
     const matchCity = selectedCity === ALL_CITIES || item.city === selectedCity
-    const matchDeity = selectedDeity === ALL_DEITIES || item.deity === selectedDeity
     const normalizedSearch = searchTerm.trim().toLowerCase()
     const matchSearch = normalizedSearch
       ? [
@@ -695,9 +703,48 @@ function App() {
           .filter(Boolean)
           .some((value) => value.toLowerCase().includes(normalizedSearch))
       : true
-    return matchState && matchCity && matchDeity && matchSearch
+    return matchState && matchCity && matchSearch
   })
-  const displayedTemples = filteredTemples
+
+  const storyTemples = visibleTemples.filter(
+    (item) => storyState === ALL_STATES || item.state === storyState
+  )
+  const displayedTemples = storyTemples
+  const modeLabel = isShivaMode ? t.modeToggle.shiva : t.modeToggle.shakti
+  const storyStateLabel = storyState === ALL_STATES ? t.labels.allStates : storyState
+
+  const slugify = (value) =>
+    String(value || '')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/(^-|-$)/g, '')
+
+  const getTempleId = (temple, index) => {
+    if (!temple) return `temple-${index}`
+    const base = slugify(`${temple.name}-${temple.city}-${temple.state}`)
+    return base ? `temple-${base}` : `temple-${index}`
+  }
+
+  const featuredTemple = displayedTemples[0] || null
+  const featuredTempleId = featuredTemple ? getTempleId(featuredTemple, 0) : ''
+
+  const scrollToTempleCard = (id) => {
+    if (!id || typeof window === 'undefined') return
+    const target = document.getElementById(id)
+    if (target) {
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' })
+    }
+  }
+
+  const jumpToFeatured = () => {
+    if (!featuredTempleId) return
+    if (activePage !== 'temples') {
+      switchPage('temples')
+      window.setTimeout(() => scrollToTempleCard(featuredTempleId), 60)
+      return
+    }
+    scrollToTempleCard(featuredTempleId)
+  }
 
   const runImageAudit = async () => {
     const isDev = typeof import.meta !== 'undefined' && import.meta.env && import.meta.env.DEV
@@ -941,58 +988,40 @@ function App() {
       ].filter((item) => item.value)
     : []
   const labelForState = (state) => (state === ALL_STATES ? t.panel.allStates : state)
-  const labelForDeity = (deity) => (deity === ALL_DEITIES ? t.panel.allDeities : deity)
+  const labelForCity = (city) => (city === ALL_CITIES ? t.panel.allCities : city)
   return (
     <div className={`app theme-${mode} ${language === 'hi' ? 'lang-hi' : ''}`}>
-      <nav className="navbar">
-        <a href="#" className="logo-container">
-          <i className="fa-solid fa-om logo-icon" aria-hidden="true" />
-          <div className="brand-text">
-            <span className="brand-name-main">Sanatan Dharma</span>
-            <span className="brand-name-sub">Digital Atlas</span>
-          </div>
-        </a>
-
-        <ul className="nav-links">
-          {NAV_LINKS.map((item) => (
-            <li className="nav-item" key={item}>
-              <a href="#" className="nav-link">
-                {item}
-                {NAV_WITH_DROPDOWN.has(item) ? (
-                  <i className="fa-solid fa-chevron-down nav-caret" aria-hidden="true" />
-                ) : null}
-              </a>
-            </li>
-          ))}
-        </ul>
-
-        <div className="auth-buttons">
-          <div className="mode-toggle-inline" role="group" aria-label={t.modeToggle.label}>
-            <button
-              className={`mode-pill ${isShivaMode ? 'active' : ''}`}
-              type="button"
-              aria-pressed={isShivaMode}
-              onClick={() => setMode(MODES.SHIVA)}
-            >
-              {t.modeToggle.shiva}
-            </button>
-            <button
-              className={`mode-pill ${!isShivaMode ? 'active' : ''}`}
-              type="button"
-              aria-pressed={!isShivaMode}
-              onClick={() => setMode(MODES.SHAKTI)}
-            >
-              {t.modeToggle.shakti}
-            </button>
-          </div>
-          <a className="btn btn-login" href="#">
-            Log in
-          </a>
-          <a className="btn btn-signup" href="#">
-            Create account
-          </a>
+      <div className="top-bar">
+        <button
+          className={`featured-pill ${featuredTemple ? '' : 'is-empty'}`}
+          type="button"
+          onClick={jumpToFeatured}
+          disabled={!featuredTemple}
+        >
+          <span className="featured-label">Featured</span>
+          <span className="featured-name">
+            {featuredTemple ? getTempleText(featuredTemple, 'name') : 'No temples found'}
+          </span>
+        </button>
+        <div className="mode-toggle-inline" role="group" aria-label={t.modeToggle.label}>
+          <button
+            className={`mode-pill ${isShivaMode ? 'active' : ''}`}
+            type="button"
+            aria-pressed={isShivaMode}
+            onClick={() => setMode(MODES.SHIVA)}
+          >
+            {t.modeToggle.shiva}
+          </button>
+          <button
+            className={`mode-pill ${!isShivaMode ? 'active' : ''}`}
+            type="button"
+            aria-pressed={!isShivaMode}
+            onClick={() => setMode(MODES.SHAKTI)}
+          >
+            {t.modeToggle.shakti}
+          </button>
         </div>
-      </nav>
+      </div>
 
       {isLineages ? (
         <>
@@ -1128,7 +1157,10 @@ function App() {
                 <select
                   id="filter-state"
                   value={selectedState}
-                  onChange={(event) => setSelectedState(event.target.value)}
+                  onChange={(event) => {
+                    setSelectedState(event.target.value)
+                    setStateFilterSource('dropdown')
+                  }}
                 >
                   {states.map((state) => (
                     <option key={state} value={state}>
@@ -1139,15 +1171,15 @@ function App() {
                 <i className="fa-solid fa-chevron-down input-icon" aria-hidden="true" />
               </label>
 
-              <label className="input-group" htmlFor="filter-deity">
+              <label className="input-group" htmlFor="filter-city">
                 <select
-                  id="filter-deity"
-                  value={selectedDeity}
-                  onChange={(event) => setSelectedDeity(event.target.value)}
+                  id="filter-city"
+                  value={selectedCity}
+                  onChange={(event) => setSelectedCity(event.target.value)}
                 >
-                  {deities.map((deity) => (
-                    <option key={deity} value={deity}>
-                      {labelForDeity(deity)}
+                  {cities.map((city) => (
+                    <option key={city} value={city}>
+                      {labelForCity(city)}
                     </option>
                   ))}
                 </select>
@@ -1165,6 +1197,25 @@ function App() {
                 />
               </label>
             </div>
+            {activeStates.length ? (
+              <div className="state-quicklist" role="group" aria-label="Story states">
+                {[ALL_STATES, ...activeStates].map((state) => (
+                  <button
+                    key={state}
+                    className={`state-chip ${storyState === state ? 'active' : ''}`}
+                    type="button"
+                    onClick={() => {
+                      const nextState = storyState === state ? ALL_STATES : state
+                      setStoryState(nextState)
+                      setSelectedState(nextState)
+                      setStateFilterSource('chip')
+                    }}
+                  >
+                    {state === ALL_STATES ? t.labels.allStates : state}
+                  </button>
+                ))}
+              </div>
+            ) : null}
             {typeof import.meta !== 'undefined' && import.meta.env && import.meta.env.DEV ? (
               <div className="hero-audit-row">
                 <button
@@ -1181,7 +1232,116 @@ function App() {
             ) : null}
           </section>
 
+          <section className="about-section" id="about">
+            <div className="about-shell">
+              <div className="about-header">
+                <p className="eyebrow">{t.aboutSection.eyebrow}</p>
+                <h2>{t.aboutSection.title}</h2>
+                <p>{t.aboutSection.subtitle}</p>
+              </div>
+              <div className="about-grid">
+                {t.aboutSection.cards.map((card) => (
+                  <article className="about-card" key={card.title}>
+                    <h3>{card.title}</h3>
+                    <p>{card.body}</p>
+                  </article>
+                ))}
+              </div>
+            </div>
+          </section>
+
+          <section className="disclaimer-section" aria-label={t.disclaimerSection.title}>
+            <div className="disclaimer-card">
+              <h3>{t.disclaimerSection.title}</h3>
+              <p>{t.disclaimerSection.body}</p>
+              <p className="disclaimer-note">{t.disclaimerSection.note}</p>
+            </div>
+          </section>
+
+          {searchActive ? (
+            <section className="cards cards-search" id="search-results">
+              <div className="section-header compact">
+                <h2>{t.searchSection.title}</h2>
+                <p>{t.searchSection.subtitle(searchFilteredTemples.length)}</p>
+              </div>
+              <div className="card-grid">
+                {searchFilteredTemples.map((temple, index) => {
+                  const imageSrc = temple.image ?? getPlaceholderImage(temple.name)
+                  const storyText = getTempleText(temple, 'story')
+                  const wordCount = storyText ? storyText.trim().split(/\s+/).length : 0
+                  const readTime = wordCount ? Math.max(1, Math.round(wordCount / 90)) : 1
+                  return (
+                    <article
+                      className="temple-card"
+                      key={`search-${temple.name}-${index}`}
+                      style={{ '--delay': `${index * 60}ms` }}
+                    >
+                      <figure className="card-media">
+                        <img
+                          src={imageSrc}
+                          alt={`${getTempleText(temple, 'name')} in ${temple.city}`}
+                          loading="lazy"
+                          onError={(event) => {
+                            if (event.currentTarget.dataset.fallbackApplied) return
+                            event.currentTarget.dataset.fallbackApplied = '1'
+                            event.currentTarget.src = getPlaceholderImage(temple.name)
+                          }}
+                        />
+                        {temple.image && temple.creditUrl && temple.credit ? (
+                          <figcaption>
+                            <a href={temple.creditUrl} target="_blank" rel="noreferrer">
+                              {temple.credit}
+                            </a>
+                          </figcaption>
+                        ) : null}
+                      </figure>
+                      <div className="card-body">
+                        <div className="card-meta">
+                          <span className="card-location">
+                            <span className="location-dot" aria-hidden="true" />
+                            {temple.city}, {temple.state}
+                          </span>
+                          {getTempleText(temple, 'region') ? (
+                            <span className="card-region">{getTempleText(temple, 'region')}</span>
+                          ) : null}
+                          <span className="card-readtime">{readTime} min read</span>
+                        </div>
+                        <h3>{getTempleText(temple, 'name')}</h3>
+                        <p>{storyText}</p>
+                        <button
+                          className="card-action"
+                          type="button"
+                          onClick={() => setActiveTemple(temple)}
+                        >
+                          {t.readFullStory}
+                        </button>
+                      </div>
+                    </article>
+                  )
+                })}
+              </div>
+              {searchFilteredTemples.length === 0 ? (
+                <div className="empty-state">
+                  <h3>{t.searchEmpty.title}</h3>
+                  <p>{t.searchEmpty.body}</p>
+                </div>
+              ) : null}
+            </section>
+          ) : null}
+
           <section className="cards" id="temple-cards">
+            <div className="section-header">
+              <h2>{t.cardsSection.title}</h2>
+              <p>{t.cardsSection.subtitle}</p>
+              <div className="section-tags" role="list">
+                <span className="section-chip" role="listitem">
+                  {modeLabel}
+                </span>
+                <span className="section-chip" role="listitem">
+                  {storyStateLabel}
+                </span>
+              </div>
+            </div>
             <div className="card-grid">
               {displayedTemples.map((temple, index) => {
                 const imageSrc = temple.image ?? getPlaceholderImage(temple.name)
@@ -1191,6 +1351,7 @@ function App() {
                 return (
                   <article
                     className="temple-card"
+                    id={getTempleId(temple, index)}
                     key={temple.name}
                     style={{ '--delay': `${index * 80}ms` }}
                   >
@@ -1238,7 +1399,7 @@ function App() {
                 )
               })}
             </div>
-            {filteredTemples.length === 0 ? (
+            {displayedTemples.length === 0 ? (
               <div className="empty-state">
                 <h3>{t.emptyState.title}</h3>
                 <p>{t.emptyState.body}</p>

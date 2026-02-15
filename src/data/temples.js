@@ -1,1 +1,1 @@
-export { templeData } from './temples/index.js'
+export { templeData, shaktiTempleData } from './temples/index.js'

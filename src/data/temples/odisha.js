@@ -324,10 +324,10 @@ export const odishaTemples = [
       "Located near Chintamaniswar tank; believed to fulfill wishes (Chinta-Mani).",
     "highlight": "Temple tank.",
     "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chintamaniswar_Shiva_Temple.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chintamanisvara_Siva_Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Chintamaniswar_Shiva_Temple.jpg",
+      "https://commons.wikimedia.org/wiki/File:Chintamanisvara_Siva_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "bestTime": "Year-round.",
@@ -394,10 +394,10 @@ export const odishaTemples = [
       "Part of the Kedar Gouri complex; associated with the legend of lovers Kedar and Gouri.",
     "highlight": "Kedar Gouri spring.",
     "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Kedareswar_Temple_Bhubaneswar.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Kedareswara%20Deula%2C%20Bhubaneswar%2C%20Odisha.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Kedareswar_Temple_Bhubaneswar.jpg",
+      "https://commons.wikimedia.org/wiki/File:Kedareswara_Deula,_Bhubaneswar,_Odisha.jpg",
     "deity": "Shiva (Kedar)",
     "tradition": "Shaiva",
     "bestTime": "Year-round.",
@@ -498,10 +498,10 @@ export const odishaTemples = [
     "story": "Located in the Vaital Deula compound; dedicated to Shiva.",
     "highlight": "Intricate exteriors.",
     "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Sisiresvar_Temple_Bhubaneswar.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Bhubaneshwar%2C%20Vaital%20Deul%20Temple%20%282%29.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Sisiresvar_Temple_Bhubaneswar.jpg",
+      "https://commons.wikimedia.org/wiki/File:Bhubaneshwar,_Vaital_Deul_Temple_(2).jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "bestTime": "Year-round.",
@@ -672,10 +672,10 @@ export const odishaTemples = [
       "A temple that has seen damage and restoration; name suggests association with Tala (Palm) tree.",
     "highlight": "Resilience.",
     "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Talesvara_Shiva_Temple.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Talesavara_Siva_temple-II.png",
     "credit": "Wikimedia Commons",
     "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Talesvara_Shiva_Temple.jpg",
+      "https://commons.wikimedia.org/wiki/File:Talesavara_Siva_temple-II.png",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "bestTime": "Year-round.",
@@ -707,10 +707,10 @@ export const odishaTemples = [
       "Located on the northern bank of Bindusagar tank; one of the four main temples around the tank.",
     "highlight": "Bindusagar view.",
     "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Uttaresvara_Shiva_Temple.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Uttareshwar%20Temple%2C%20Bhubaneswar%2C%20Odisha%202.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Uttaresvara_Shiva_Temple.jpg",
+      "https://commons.wikimedia.org/wiki/File:Uttareshwar_Temple,_Bhubaneswar,_Odisha_2.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "bestTime": "Morning.",
@@ -741,11 +741,9 @@ export const odishaTemples = [
     "story":
       "The guardian deity of Puri Jagannath Temple's treasury; the Linga remains submerged in water throughout the year except on Pankoddhar Ekadashi.",
     "highlight": "Submerged Linga.",
-    "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Lokanatha_Temple_Puri.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lokanath_temple.jpeg",
     "credit": "Wikimedia Commons",
-    "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Lokanatha_Temple_Puri.jpg",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Lokanath_temple.jpeg",
     "deity": "Shiva (Lokanatha)",
     "tradition": "Shaiva",
     "bestTime": "Pankoddhar Ekadashi.",
@@ -1019,11 +1017,9 @@ export const odishaTemples = [
     "story":
       "Primarily a Shakti Peetha but houses a significant Shiva shrine; on the Mahanadi banks.",
     "highlight": "River gorge view.",
-    "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Bhattarika_Temple_Badamba.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhattarika_Temple.JPG",
     "credit": "Wikimedia Commons",
-    "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Bhattarika_Temple_Badamba.jpg",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhattarika_Temple.JPG",
     "deity": "Shakti/Shiva",
     "tradition": "Shakta/Shaiva",
     "bestTime": "Year-round.",
@@ -1125,10 +1121,10 @@ export const odishaTemples = [
       "Located near the Bengal border; famous for the gruesome Charak Puja (hook swinging) during Chaitra Parva.",
     "highlight": "Chaitra Mela.",
     "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chandaneswar_Shiva_Temple.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chandaneswar_Temple_Balasore.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Chandaneswar_Shiva_Temple.jpg",
+      "https://commons.wikimedia.org/wiki/File:Chandaneswar_Temple_Balasore.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva (Folk)",
     "bestTime": "April (Chaitra).",
@@ -1195,10 +1191,10 @@ export const odishaTemples = [
       "Famous Vaishnava temple that houses an ancient Shiva shrine within its complex.",
     "highlight": "Syncretic worship.",
     "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Khirachora_Gopinath_Temple.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Khirachora_Gopinath_Temple,_Remuna,_Balasore,_Odisha.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Khirachora_Gopinath_Temple.jpg",
+      "https://commons.wikimedia.org/wiki/File:Khirachora_Gopinath_Temple,_Remuna,_Balasore,_Odisha.jpg",
     "deity": "Shiva/Krishna",
     "tradition": "Harihara",
     "bestTime": "Year-round.",
@@ -1229,10 +1225,9 @@ export const odishaTemples = [
     "story":
       "Houses one of the largest Shiva Lingas in Asia (12 feet tall), carved from black granite.",
     "highlight": "Massive Linga.",
-    "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Bhushandeswar_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhusandeswar.JPG",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhusandeswar.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "bestTime": "Year-round.",
@@ -1263,11 +1258,10 @@ export const odishaTemples = [
     "story":
       "A unique temple dedicated to the five deities (Shiva, Vishnu, Durga, Sun, Ganesha) in one Linga.",
     "highlight": "Pancha Devata worship.",
-    "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Mahavinayak_Temple_Jajpur.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahabinayak%20temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Mahavinayak_Temple_Jajpur.jpg",
+      "https://commons.wikimedia.org/wiki/File:Mahabinayak_temple.jpg",
     "deity": "Mahavinayak (Five forms)",
     "tradition": "Smarta/Shaiva",
     "bestTime": "Winter.",
@@ -1500,11 +1494,10 @@ export const odishaTemples = [
     "story":
       "Located on the Gandhamardan hills; dedicated to Harihara. Famous for a perennial waterfall.",
     "highlight": "Scenic waterfall.",
-    "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Harishankar_Temple_Balangir.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harishankar_Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Harishankar_Temple_Balangir.jpg",
+      "https://commons.wikimedia.org/wiki/File:Harishankar_Temple.jpg",
     "deity": "Harihara (Shiva/Vishnu)",
     "tradition": "Harihara",
     "bestTime": "Winter.",
@@ -1535,11 +1528,10 @@ export const odishaTemples = [
     "story":
       "Known as the Kailash of Odisha; situated 2239 feet above sea level. Accessed by 1352 steps.",
     "highlight": "Hilltop views.",
-    "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Kapilash_Hilltop_View.JPG",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kapilash_temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Kapilash_Hilltop_View.JPG",
+      "https://commons.wikimedia.org/wiki/File:Kapilash_temple.jpg",
     "deity": "Shiva (Chandrasekhar)",
     "tradition": "Shaiva",
     "bestTime": "Shivratri (Jagar).",
@@ -1571,10 +1563,10 @@ export const odishaTemples = [
       "A limestone cave temple where the Linga is growing; believed to be worshipped by Rama.",
     "highlight": "Huge limestone cave.",
     "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Gupteswar_Cave_Temple.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Gupteshwara%20Shiva-lingam.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Gupteswar_Cave_Temple.jpg",
+      "https://commons.wikimedia.org/wiki/File:Gupteshwara_Shiva-lingam.jpg",
     "deity": "Shiva (Gupteswar)",
     "tradition": "Shaiva",
     "bestTime": "Shivratri.",
@@ -1882,10 +1874,10 @@ export const odishaTemples = [
       "Famous for the Shiva temple near the waterfall and the weekly tribal market of Dongria Kondhs.",
     "highlight": "Tribal culture & waterfall.",
     "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chatikona_Falls_Rayagada.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Shiv%20Temple%20%26%20Waterfall%20at%20Chatikana.JPG",
     "credit": "Wikimedia Commons",
     "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Chatikona_Falls_Rayagada.jpg",
+      "https://commons.wikimedia.org/wiki/File:Shiv_Temple_%26_Waterfall_at_Chatikana.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva (Tribal)",
     "bestTime": "Wednesdays (Market day).",
@@ -2084,11 +2076,9 @@ export const odishaTemples = [
     "story":
       "While famous for Nrusinghanath (Vishnu), the site houses ancient Shiva lingas like Pareshwar.",
     "highlight": "Gandhamardan hills.",
-    "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Nrusinghanath_Temple_Bargarh.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nrusinghanath_temple.jpg",
     "credit": "Wikimedia Commons",
-    "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Nrusinghanath_Temple_Bargarh.jpg",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nrusinghanath_temple.jpg",
     "deity": "Shiva/Vishnu",
     "tradition": "Harihara",
     "bestTime": "Nrusingha Chaturdasi.",
@@ -2118,11 +2108,9 @@ export const odishaTemples = [
     "tags": ["Leaning", "Same as Huma", "Double"],
     "story": "The presiding deity of the Huma leaning temple.",
     "highlight": "Leaning Sanctum.",
-    "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Leaning_Temple_of_Huma_Close.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leaning_Temple_of_Huma.jpg",
     "credit": "Wikimedia Commons",
-    "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Leaning_Temple_of_Huma.jpg",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Leaning_Temple_of_Huma.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "bestTime": "Shivratri.",
@@ -2222,10 +2210,10 @@ export const odishaTemples = [
     "story": "A small but artistically significant temple in Khiching.",
     "highlight": "Intricate art.",
     "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Kutaitundi_Temple_Khiching.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Kuteitundi_Shiv_Temple%2C_Khiching%2C_Odisha_01.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Kutaitundi_Temple_Khiching.jpg",
+      "https://commons.wikimedia.org/wiki/File:Kuteitundi_Shiv_Temple,_Khiching,_Odisha_01.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "bestTime": "Winter.",
@@ -2257,9 +2245,10 @@ export const odishaTemples = [
       "The source of Baitarani river (Gonasika - Cow's Nostril); the temple is dedicated to Brahmeshwar Shiva.",
     "highlight": "River source.",
     "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Gonasika_Temple_Keonjhar.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Gonasika_Guptaganga_Temple%2C_Gonasika_-_1.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl":
+      "https://commons.wikimedia.org/wiki/File:Gonasika_Guptaganga_Temple,_Gonasika_-_1.jpg",
     "deity": "Shiva (Brahmeshwar)",
     "tradition": "Shaiva",
     "bestTime": "Winter.",
@@ -2835,11 +2824,10 @@ export const odishaTemples = [
     "story":
       "Famous twin temples of Nilamadhab (Vishnu) and Siddheswar (Shiva); architectural marvels.",
     "highlight": "Twin temples.",
-    "image":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Charisambhu_Temple_Boudh.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chari_Sambhu_Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl":
-      "https://commons.wikimedia.org/wiki/File:Charisambhu_Temple_Boudh.jpg",
+      "https://commons.wikimedia.org/wiki/File:Chari_Sambhu_Temple.jpg",
     "deity": "Shiva (Siddheswar)",
     "tradition": "Harihara",
     "bestTime": "Winter.",
