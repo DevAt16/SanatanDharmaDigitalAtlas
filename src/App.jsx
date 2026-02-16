@@ -2,7 +2,6 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import './App.css'
 import { templeData, shaktiTempleData } from './data/temples'
 import { andhraPradeshTemples } from './data/temples/andhraPradesh'
-import { lineageData } from './data/lineages'
 import { pickBestCommonsImage, searchCommonsImages } from './utils/commons'
 
 const placeholderImages = [
@@ -61,32 +60,9 @@ const copy = {
       browse: "Browse editor's picks",
     },
     nav: {
+      label: 'Primary navigation',
       temples: 'Temples',
-      lineages: 'Lineages',
-    },
-    lineagesHero: {
-      title: 'Lineages and living traditions of Sanatan Dharma.',
-      subtitle:
-        'Meet the sampradayas that shaped spiritual practice across India, with their founders, core practices, and guiding figures.',
-      actions: {
-        primary: 'Explore lineages',
-        secondary: 'Back to temples',
-      },
-    },
-    lineagesStats: {
-      lineages: 'Lineages profiled',
-      figures: 'Key figures',
-      traditions: 'Traditions covered',
-    },
-    lineagesPanel: {
-      title: 'What you will find',
-      subtitle: 'A curated briefing on each lineage and its leaders.',
-      items: [
-        'Founding teachers and reformers',
-        'Core practices, rituals, and study',
-        'Important figures to follow',
-        'Regional centers and influence',
-      ],
+      about: 'About',
     },
     stats: {
       states: 'States listed',
@@ -167,13 +143,6 @@ const copy = {
       title: 'No matches for the current filters.',
       body: 'Try clearing a filter or search term to see more temples.',
     },
-    lineagesSection: {
-      title: 'Lineages and Sampradayas',
-      subtitle: 'Ten foundational streams, each with key figures and practices.',
-      practicesLabel: 'Core practices',
-      figuresLabel: 'Key figures',
-      viewDetails: 'View lineage',
-    },
     highlightLabel: 'Highlight',
     readFullStory: 'Read Story',
     emptyState: {
@@ -247,14 +216,6 @@ const copy = {
       empty:
         'We are expanding each temple with verified history, festival calendars, and practical visit notes. Share any sources or traditions you want included.',
     },
-    lineagesModal: {
-      eyebrow: 'Lineage',
-      close: 'Close',
-      overview: 'Overview',
-      corePractices: 'Core practices',
-      figures: 'Important figures',
-      sources: 'Sources',
-    },
     details: {
       deity: 'Deity',
       tradition: 'Tradition',
@@ -296,32 +257,9 @@ const copy = {
       browse: 'चयनित मंदिर देखें',
     },
     nav: {
+      label: 'मुख्य नेविगेशन',
       temples: 'मंदिर',
-      lineages: 'परंपराएँ',
-    },
-    lineagesHero: {
-      title: 'सनातन धर्म की परंपराएँ और जीवंत समप्रदाय।',
-      subtitle:
-        'वे समप्रदाय जो भारत में साधना और दर्शन की धारा को आकार देते हैं—उनके प्रवर्तक, मुख्य अभ्यास और प्रमुख आचार्य।',
-      actions: {
-        primary: 'परंपराएँ देखें',
-        secondary: 'मंदिरों पर लौटें',
-      },
-    },
-    lineagesStats: {
-      lineages: 'प्रोफ़ाइल परंपराएँ',
-      figures: 'प्रमुख आचार्य',
-      traditions: 'कवर की गई धाराएँ',
-    },
-    lineagesPanel: {
-      title: 'आपको क्या मिलेगा',
-      subtitle: 'हर परंपरा का संक्षिप्त और क्यूरेटेड परिचय।',
-      items: [
-        'प्रवर्तक और सुधारक आचार्य',
-        'मुख्य साधना और अध्ययन',
-        'प्रमुख व्यक्तित्व',
-        'क्षेत्रीय केंद्र और प्रभाव',
-      ],
+      about: 'परिचय',
     },
     stats: {
       states: 'सूचीबद्ध राज्य',
@@ -399,13 +337,6 @@ const copy = {
       title: 'चयनित फ़िल्टर से कोई परिणाम नहीं मिला।',
       body: 'अधिक मंदिर देखने के लिए फ़िल्टर या खोज शब्द हटाएँ।',
     },
-    lineagesSection: {
-      title: 'परंपराएँ और समप्रदाय',
-      subtitle: 'दस प्रमुख धाराएँ, मुख्य आचार्य और साधना विवरण।',
-      practicesLabel: 'मुख्य अभ्यास',
-      figuresLabel: 'प्रमुख आचार्य',
-      viewDetails: 'परंपरा देखें',
-    },
     highlightLabel: 'मुख्य आकर्षण',
     readFullStory: 'कथा पढ़ें',
     emptyState: {
@@ -479,14 +410,6 @@ const copy = {
       empty:
         'हम सत्यापित इतिहास, त्योहार कैलेंडर और उपयोगी यात्रा नोट्स जोड़ रहे हैं। आपके पास स्रोत हों तो साझा करें।',
     },
-    lineagesModal: {
-      eyebrow: 'परंपरा',
-      close: 'बंद करें',
-      overview: 'परिचय',
-      corePractices: 'मुख्य अभ्यास',
-      figures: 'प्रमुख आचार्य',
-      sources: 'स्रोत',
-    },
     details: {
       deity: 'देवता',
       tradition: 'संप्रदाय',
@@ -523,13 +446,12 @@ function App() {
   const [stateFilterSource, setStateFilterSource] = useState('dropdown')
   const [mode, setMode] = useState(MODES.SHIVA)
   const [activeTemple, setActiveTemple] = useState(null)
-  const [activeLineage, setActiveLineage] = useState(null)
   const storyModalRef = useRef(null)
   const [modalImageSrc, setModalImageSrc] = useState('')
   const [isPortraitImage, setIsPortraitImage] = useState(false)
   const [auditStatus, setAuditStatus] = useState({ running: false, total: 0, done: 0 })
   const t = copy[language]
-  const isLineages = activePage === 'lineages'
+  const isAbout = activePage === 'about'
   const isShivaMode = mode === MODES.SHIVA
   const shaktiStates = useMemo(() => {
     const seen = new Set()
@@ -570,19 +492,6 @@ function App() {
   )
 
   const states = useMemo(() => [ALL_STATES, ...activeStates], [activeStates])
-
-  const lineageStats = useMemo(() => {
-    const figureCount = lineageData.reduce(
-      (total, lineage) => total + (lineage.keyFigures?.length ?? 0),
-      0
-    )
-    const traditions = new Set(lineageData.map((lineage) => lineage.tradition))
-    return {
-      lineageCount: lineageData.length,
-      figureCount,
-      traditionCount: traditions.size,
-    }
-  }, [])
 
   const statTemples = useMemo(() => visibleTemples, [visibleTemples])
 
@@ -634,14 +543,13 @@ function App() {
   }, [language])
 
   useEffect(() => {
-    if (!activeTemple && !activeLineage) {
+    if (!activeTemple) {
       return undefined
     }
 
     const handleKeyDown = (event) => {
       if (event.key === 'Escape') {
         setActiveTemple(null)
-        setActiveLineage(null)
       }
     }
 
@@ -652,7 +560,7 @@ function App() {
       document.removeEventListener('keydown', handleKeyDown)
       document.body.style.overflow = ''
     }
-  }, [activeTemple, activeLineage])
+  }, [activeTemple])
 
   useEffect(() => {
     if (activeTemple && storyModalRef.current) {
@@ -878,17 +786,9 @@ function App() {
     setAuditStatus({ running: false, total: temples.length, done: temples.length })
   }
 
-  const scrollToLineages = () => {
-    const section = document.getElementById('lineage-cards')
-    if (section) {
-      section.scrollIntoView({ behavior: 'smooth', block: 'start' })
-    }
-  }
-
   const switchPage = (page) => {
     setActivePage(page)
     setActiveTemple(null)
-    setActiveLineage(null)
     if (typeof window !== 'undefined') {
       window.scrollTo({ top: 0, behavior: 'smooth' })
     }
@@ -912,20 +812,6 @@ function App() {
       return temple[`${key}Hi`] ?? temple[key] ?? []
     }
     return temple[key] ?? []
-  }
-
-  const getLineageText = (lineage, key) => {
-    if (!lineage) {
-      return ''
-    }
-    return lineage[key]
-  }
-
-  const getLineageList = (lineage, key) => {
-    if (!lineage) {
-      return []
-    }
-    return lineage[key] ?? []
   }
 
   const detailCards = activeTemple
@@ -992,143 +878,67 @@ function App() {
   return (
     <div className={`app theme-${mode} ${language === 'hi' ? 'lang-hi' : ''}`}>
       <div className="top-bar">
-        <button
-          className={`featured-pill ${featuredTemple ? '' : 'is-empty'}`}
-          type="button"
-          onClick={jumpToFeatured}
-          disabled={!featuredTemple}
-        >
-          <span className="featured-label">Featured</span>
-          <span className="featured-name">
-            {featuredTemple ? getTempleText(featuredTemple, 'name') : 'No temples found'}
-          </span>
-        </button>
-        <div className="mode-toggle-inline" role="group" aria-label={t.modeToggle.label}>
+        {activePage === 'temples' ? (
           <button
-            className={`mode-pill ${isShivaMode ? 'active' : ''}`}
+            className={`featured-pill ${featuredTemple ? '' : 'is-empty'}`}
             type="button"
-            aria-pressed={isShivaMode}
-            onClick={() => setMode(MODES.SHIVA)}
+            onClick={jumpToFeatured}
+            disabled={!featuredTemple}
           >
-            {t.modeToggle.shiva}
+            <span className="featured-label">Featured</span>
+            <span className="featured-name">
+              {featuredTemple ? getTempleText(featuredTemple, 'name') : 'No temples found'}
+            </span>
           </button>
-          <button
-            className={`mode-pill ${!isShivaMode ? 'active' : ''}`}
-            type="button"
-            aria-pressed={!isShivaMode}
-            onClick={() => setMode(MODES.SHAKTI)}
-          >
-            {t.modeToggle.shakti}
-          </button>
+        ) : (
+          <span />
+        )}
+        <div className="top-bar-actions">
+          <nav className="top-nav" aria-label={t.nav.label}>
+            <button
+              className={`top-nav-link ${activePage === 'temples' ? 'active' : ''}`}
+              type="button"
+              onClick={() => switchPage('temples')}
+            >
+              {t.nav.temples}
+            </button>
+            <button
+              className={`top-nav-link ${activePage === 'about' ? 'active' : ''}`}
+              type="button"
+              onClick={() => switchPage('about')}
+            >
+              {t.nav.about}
+            </button>
+          </nav>
         </div>
       </div>
 
-      {isLineages ? (
+      {isAbout ? (
         <>
-          <header className="hero hero-lineages">
-            <div className="hero-content">
-              <div className="hero-top">
-                <p className="eyebrow">{t.portalName}</p>
+          <section className="cards about-page" id="about">
+            <div className="about-intro">
+              <div className="section-header about-header">
+                <h2>{t.aboutSection.eyebrow}</h2>
+                <p>{t.aboutSection.subtitle}</p>
               </div>
-              <h1>{t.lineagesHero.title}</h1>
-              <p className="subtitle">{t.lineagesHero.subtitle}</p>
-              <div className="hero-actions">
-                <button className="primary" type="button" onClick={scrollToLineages}>
-                  {t.lineagesHero.actions.primary}
-                </button>
-                <button className="ghost" type="button" onClick={() => switchPage('temples')}>
-                  {t.lineagesHero.actions.secondary}
-                </button>
-              </div>
-              <div className="hero-stats">
-                <div>
-                  <p className="stat-number">{lineageStats.lineageCount}</p>
-                  <p className="stat-label">{t.lineagesStats.lineages}</p>
-                </div>
-                <div>
-                  <p className="stat-number">{lineageStats.figureCount}</p>
-                  <p className="stat-label">{t.lineagesStats.figures}</p>
-                </div>
-                <div>
-                  <p className="stat-number">{lineageStats.traditionCount}</p>
-                  <p className="stat-label">{t.lineagesStats.traditions}</p>
-                </div>
-              </div>
+              <div className="about-divider" aria-hidden="true" />
             </div>
-            <div className="hero-panel lineage-panel">
-              <div className="panel-head">
-                <h2>{t.lineagesPanel.title}</h2>
-                <p>{t.lineagesPanel.subtitle}</p>
-              </div>
-              <div className="lineage-panel-list">
-                {t.lineagesPanel.items.map((item) => (
-                  <div className="lineage-panel-item" key={item}>
-                    {item}
-                  </div>
-                ))}
-              </div>
+            <div className="about-grid">
+              {t.aboutSection.cards.map((card, index) => (
+                <article className="about-card" key={card.title} style={{ '--delay': `${index * 80}ms` }}>
+                  <span className="about-card-badge">{String(index + 1).padStart(2, '0')}</span>
+                  <h3>{card.title}</h3>
+                  <p>{card.body}</p>
+                </article>
+              ))}
             </div>
-          </header>
+          </section>
 
-          <section className="lineages" id="lineage-cards">
-            <div className="section-header">
-              <h2>{t.lineagesSection.title}</h2>
-              <p>{t.lineagesSection.subtitle}</p>
-            </div>
-            <div className="lineage-grid">
-              {lineageData.map((lineage, index) => {
-                const practices = getLineageList(lineage, 'corePractices')
-                const figures = getLineageList(lineage, 'keyFigures')
-                const visibleFigures = figures.slice(0, 3)
-                const extraFigureCount = figures.length - visibleFigures.length
-                return (
-                  <article
-                    className="lineage-card"
-                    key={lineage.id}
-                    style={{ '--delay': `${index * 80}ms` }}
-                  >
-                    <div className="lineage-meta">
-                      <span className="lineage-tag">{getLineageText(lineage, 'tradition')}</span>
-                      <span className="lineage-region">{getLineageText(lineage, 'region')}</span>
-                    </div>
-                    <h3>{getLineageText(lineage, 'name')}</h3>
-                    <p className="lineage-summary">{getLineageText(lineage, 'summary')}</p>
-                    {practices.length ? (
-                      <div>
-                        <p className="lineage-label">{t.lineagesSection.practicesLabel}</p>
-                        <div className="lineage-practices">
-                          {practices.map((practice) => (
-                            <span key={practice}>{practice}</span>
-                          ))}
-                        </div>
-                      </div>
-                    ) : null}
-                    {figures.length ? (
-                      <div className="lineage-figures">
-                        <p className="lineage-label">{t.lineagesSection.figuresLabel}</p>
-                        <div className="lineage-figure-list">
-                          {visibleFigures.map((figure) => (
-                            <span key={figure.name}>{figure.name}</span>
-                          ))}
-                          {extraFigureCount > 0 ? (
-                            <span className="lineage-more">+{extraFigureCount} more</span>
-                          ) : null}
-                        </div>
-                      </div>
-                    ) : null}
-                    <button
-                      className="link"
-                      type="button"
-                      onClick={() => {
-                        setActiveLineage(lineage)
-                        setActiveTemple(null)
-                      }}
-                    >
-                      {t.lineagesSection.viewDetails}
-                    </button>
-                  </article>
-                )
-              })}
+          <section className="cards disclaimer-section" aria-label={t.disclaimerSection.title}>
+            <div className="disclaimer-card">
+              <h3>{t.disclaimerSection.title}</h3>
+              <p>{t.disclaimerSection.body}</p>
+              <p className="disclaimer-note">{t.disclaimerSection.note}</p>
             </div>
           </section>
         </>
@@ -1230,32 +1040,6 @@ function App() {
                 </button>
               </div>
             ) : null}
-          </section>
-
-          <section className="about-section" id="about">
-            <div className="about-shell">
-              <div className="about-header">
-                <p className="eyebrow">{t.aboutSection.eyebrow}</p>
-                <h2>{t.aboutSection.title}</h2>
-                <p>{t.aboutSection.subtitle}</p>
-              </div>
-              <div className="about-grid">
-                {t.aboutSection.cards.map((card) => (
-                  <article className="about-card" key={card.title}>
-                    <h3>{card.title}</h3>
-                    <p>{card.body}</p>
-                  </article>
-                ))}
-              </div>
-            </div>
-          </section>
-
-          <section className="disclaimer-section" aria-label={t.disclaimerSection.title}>
-            <div className="disclaimer-card">
-              <h3>{t.disclaimerSection.title}</h3>
-              <p>{t.disclaimerSection.body}</p>
-              <p className="disclaimer-note">{t.disclaimerSection.note}</p>
-            </div>
           </section>
 
           {searchActive ? (
@@ -1573,72 +1357,6 @@ function App() {
         </div>
       ) : null}
 
-      {activeLineage ? (
-        <div className="story-overlay" onClick={() => setActiveLineage(null)}>
-          <div
-            className="story-modal lineage-modal"
-            role="dialog"
-            aria-modal="true"
-            aria-labelledby="lineage-title"
-            onClick={(event) => event.stopPropagation()}
-          >
-            <button
-              className="story-close"
-              type="button"
-              onClick={() => setActiveLineage(null)}
-              aria-label={t.lineagesModal.close}
-            >
-              {t.lineagesModal.close}
-            </button>
-            <div className="lineage-header">
-              <p className="story-eyebrow">{t.lineagesModal.eyebrow}</p>
-              <h2 id="lineage-title">{getLineageText(activeLineage, 'name')}</h2>
-              <p className="lineage-subtitle">
-                {getLineageText(activeLineage, 'tradition')} · {getLineageText(activeLineage, 'region')}
-              </p>
-            </div>
-            <div className="lineage-body">
-              <div className="lineage-section">
-                <h3>{t.lineagesModal.overview}</h3>
-                <p>{getLineageText(activeLineage, 'summary')}</p>
-              </div>
-              <div className="lineage-section">
-                <h3>{t.lineagesModal.corePractices}</h3>
-                <div className="lineage-chip-row">
-                  {getLineageList(activeLineage, 'corePractices').map((practice) => (
-                    <span key={practice}>{practice}</span>
-                  ))}
-                </div>
-              </div>
-              <div className="lineage-section">
-                <h3>{t.lineagesModal.figures}</h3>
-                <div className="lineage-figures-grid">
-                  {getLineageList(activeLineage, 'keyFigures').map((figure) => (
-                    <div className="lineage-figure-card" key={figure.name}>
-                      <p className="figure-name">{figure.name}</p>
-                      <span className="figure-role">{figure.role}</span>
-                      <p className="figure-details">{figure.details}</p>
-                    </div>
-                  ))}
-                </div>
-              </div>
-              {activeLineage.sources?.length ? (
-                <div className="lineage-section">
-                  <h3>{t.lineagesModal.sources}</h3>
-                  <div className="source-list">
-                    {activeLineage.sources.map((source) => (
-                      <a key={source.url} href={source.url} target="_blank" rel="noreferrer">
-                        {source.label}
-                        {source.type ? <span className="source-type"> · {source.type}</span> : null}
-                      </a>
-                    ))}
-                  </div>
-                </div>
-              ) : null}
-            </div>
-          </div>
-        </div>
-      ) : null}
     </div>
   )
 }

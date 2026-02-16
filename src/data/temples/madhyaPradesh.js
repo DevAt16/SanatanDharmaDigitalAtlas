@@ -47,392 +47,6 @@ export const madhyaPradeshTemples = [
     }
   },
   {
-    "name": "Sun Temple (Surya Mandir)",
-    "state": "Madhya Pradesh",
-    "city": "Gwalior",
-    "region": "Morar",
-    "tags": [
-      "Surya",
-      "Modern",
-      "Architecture"
-    ],
-    "story": "A modern Sun temple inspired by Konark, known for its red sandstone form and landscaped gardens.",
-    "highlight": "Konark-inspired silhouette and tranquil grounds.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0121621_Sun_Temple,_Gwalior_Madhya_Pradesh_029.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:0121621_Sun_Temple,_Gwalior_Madhya_Pradesh_029.jpg",
-    "deity": "Surya",
-    "tradition": "Vedic",
-    "bestTime": "Morning light for the red sandstone glow.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Morning aarti",
-      "Daily puja"
-    ],
-    "festivals": [
-      "Makar Sankranti",
-      "Ratha Saptami"
-    ],
-    "moreDetails": {
-      "puranicView": "Surya worship in the Puranas celebrates the Sun as the eye of the cosmos and a source of healing and vitality. The modern Gwalior Sun Temple continues this Surya tradition through daily worship and festival observances.",
-      "puranicSources": [
-        {
-          "label": "Surya",
-          "url": "https://en.wikipedia.org/wiki/Surya",
-          "type": "Encyclopedia (Vedic and Puranic tradition)"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Sas Bahu Temple",
-    "state": "Madhya Pradesh",
-    "city": "Gwalior",
-    "region": "Gwalior Fort",
-    "tags": [
-      "Heritage",
-      "Nagara",
-      "Fort"
-    ],
-    "story": "Twin 11th-century shrines in the Gwalior Fort complex celebrated for intricate carvings.",
-    "highlight": "Ornate pillars and layered stone detailing.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sas-bahu_Temple_(Gwalior).jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sas-bahu_Temple_(Gwalior).jpg",
-    "deity": "Vishnu",
-    "tradition": "Vaishnava",
-    "bestTime": "Early morning for softer light on carvings.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Daily puja",
-      "Evening aarti"
-    ],
-    "festivals": [
-      "Janmashtami",
-      "Vaikuntha Ekadashi"
-    ],
-    "moreDetails": {
-      "puranicView": "Though now a heritage shrine, Sas Bahu (Sahastrabahu) honors Vishnu, aligning with Vaishnava Puranic devotion to the preserver. The temple's Vishnu iconography reflects this tradition.",
-      "puranicSources": [
-        {
-          "label": "Sas Bahu Temple",
-          "url": "https://en.wikipedia.org/wiki/Sas_Bahu_Temples",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Teli ka Mandir",
-    "state": "Madhya Pradesh",
-    "city": "Gwalior",
-    "region": "Gwalior Fort",
-    "tags": [
-      "Heritage",
-      "Fort",
-      "Nagara"
-    ],
-    "story": "A tall, unusual temple in the fort that blends Nagara and Dravidian influences.",
-    "highlight": "Soaring shikhara and distinctive rectangular plan.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Teli_Ka_Mandir,_Gwalior.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Teli_Ka_Mandir,_Gwalior.jpg",
-    "deity": "Shiva and Vishnu",
-    "tradition": "Shaiva and Vaishnava",
-    "bestTime": "Late afternoon for fort views.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Mahashivratri",
-      "Janmashtami"
-    ],
-    "moreDetails": {
-      "puranicView": "Teli ka Mandir blends Shaiva and Vaishnava worship, reflecting the Puranic traditions of Shiva and Vishnu in a shared sacred space. The temple's iconography preserves this dual devotional stream.",
-      "puranicSources": [
-        {
-          "label": "Teli ka Mandir",
-          "url": "https://en.wikipedia.org/wiki/Teli_ka_Mandir",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Chaturbhuj Temple (Temple of Zero)",
-    "state": "Madhya Pradesh",
-    "city": "Gwalior",
-    "region": "Gwalior Fort",
-    "tags": [
-      "Heritage",
-      "Fort",
-      "History"
-    ],
-    "story": "A historic fort temple associated with early inscriptions of the numeral zero.",
-    "highlight": "Inscriptional history within the fort precincts.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0121521_Chaturbhuj_Temple,_Gwalior_Fort,_Madhya_Pradesh_07.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:0121521_Chaturbhuj_Temple,_Gwalior_Fort,_Madhya_Pradesh_07.jpg",
-    "deity": "Vishnu",
-    "tradition": "Vaishnava",
-    "bestTime": "Morning visits during fort walks.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Janmashtami"
-    ],
-    "moreDetails": {
-      "puranicView": "As a Vishnu shrine, Chaturbhuj aligns with Vaishnava Puranic devotion to the four-armed preserver. The temple's fort setting preserves a longstanding Vishnu worship tradition in Gwalior.",
-      "puranicSources": [
-        {
-          "label": "Chaturbhuj Temple, Gwalior",
-          "url": "https://en.wikipedia.org/wiki/Chaturbhuj_Temple,_Gwalior",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Siddhachal Jain Caves",
-    "state": "Madhya Pradesh",
-    "city": "Gwalior",
-    "region": "Gwalior Fort",
-    "tags": [
-      "Jain",
-      "Rock-cut",
-      "Fort"
-    ],
-    "story": "Rock-cut Jain colossi carved along the fort hillside, revered by pilgrims.",
-    "highlight": "Monumental Tirthankara carvings by the Urvahi gate.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jain_statues,_Gwalior.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jain_statues,_Gwalior.jpg",
-    "deity": "Jain Tirthankaras",
-    "tradition": "Jain",
-    "bestTime": "Morning for cooler climbs.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Daily darshan"
-    ],
-    "festivals": [
-      "Paryushan",
-      "Mahavir Jayanti"
-    ],
-    "moreDetails": {
-      "puranicView": "The Siddhachal caves venerate Jain Tirthankaras and are rooted in Jain sacred history rather than Hindu Puranas. The shrine preserves a parallel dharmic tradition with its own scriptural narratives and pilgrimage practices.",
-      "puranicSources": [
-        {
-          "label": "Gwalior Jain Monuments",
-          "url": "https://en.wikipedia.org/wiki/Gwalior_Jain_monuments",
-          "type": "Encyclopedia (Jain tradition)"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Gopachal Jain Monuments",
-    "state": "Madhya Pradesh",
-    "city": "Gwalior",
-    "region": "Gwalior Fort",
-    "tags": [
-      "Jain",
-      "Rock-cut",
-      "Heritage"
-    ],
-    "story": "Gopachal hill preserves a large cluster of Jain rock-cut images from the fort era.",
-    "highlight": "Cliffside sculptures and panoramic fort views.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0121521_Gopachal_Patthar_ki_Baoli_Jain_monuments,_Gwalior_01.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:0121521_Gopachal_Patthar_ki_Baoli_Jain_monuments,_Gwalior_01.jpg",
-    "deity": "Jain Tirthankaras",
-    "tradition": "Jain",
-    "bestTime": "Late afternoon for cooler climbs.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Daily darshan"
-    ],
-    "festivals": [
-      "Paryushan",
-      "Mahavir Jayanti"
-    ],
-    "moreDetails": {
-      "puranicView": "These monuments are Jain rather than Hindu, and the cliff carvings depict Tirthankaras in meditative postures rather than Puranic deities. The sacred story here belongs to Jain pilgrimage and iconography instead of the Hindu Purana cycles.",
-      "puranicSources": [
-        {
-          "label": "Gopachal rock-cut Jain monuments",
-          "url": "https://en.wikipedia.org/wiki/Gopachal_rock-cut_Jain_monuments",
-          "type": "Encyclopedia (Jain tradition)"
-        }
-      ],
-      "folklore": "Local Jain memory preserves the hill as Gop Parvat, and the southeast cluster is known as Gopachal Siddha Kshetra. These names keep the hill itself central in community storytelling and pilgrimage identity.",
-      "folkloreSources": [
-        {
-          "label": "Gopachal rock-cut Jain monuments",
-          "url": "https://en.wikipedia.org/wiki/Gopachal_rock-cut_Jain_monuments",
-          "type": "Encyclopedia (local tradition)"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Bateshwar Temples",
-    "state": "Madhya Pradesh",
-    "city": "Gwalior",
-    "region": "Chambal Valley (near Gwalior)",
-    "tags": [
-      "Heritage",
-      "Temple cluster",
-      "Chambal"
-    ],
-    "story": "A restored cluster of sandstone shrines in the Chambal valley, often visited from Gwalior.",
-    "highlight": "Rows of small temples across the valley floor.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bateshwar_Group_of_Temples_of_Morena,_Madhya_Pradesh.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bateshwar_Group_of_Temples_of_Morena,_Madhya_Pradesh.jpg",
-    "deity": "Shiva, Vishnu, and Devi",
-    "tradition": "Shaiva, Vaishnava, and Shakta",
-    "bestTime": "Winter months for comfortable exploration.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Mahashivratri"
-    ],
-    "moreDetails": {
-      "puranicView": "Bateshwar gathers nearly 200 shrines dedicated to Shiva, Vishnu, and Shakti, bringing the three major Hindu traditions into a single sacred landscape. The temple cluster dates to the early medieval Gurjara-Pratihara era, reflecting a period when multiple streams of worship flourished side by side.",
-      "puranicSources": [
-        {
-          "label": "Bateshwar Hindu temples, Madhya Pradesh",
-          "url": "https://en.wikipedia.org/wiki/Bateshwar_Hindu_temples,_Madhya_Pradesh",
-          "type": "Encyclopedia"
-        },
-        {
-          "label": "Bateshwar Hindu Temple (Chambal Division)",
-          "url": "https://chambaldivisionmp.nic.in/en/tourist-place/bateshwar-hindu-temple/",
-          "type": "Government tourism"
-        }
-      ],
-      "folklore": "Local memory ties the name Bateshwar to the Bhuteshvar Shiva shrine, the largest temple in the complex. Pilgrims experience the site as a slow circuit through dozens of small sanctums across the Chambal valley ravines.",
-      "folkloreSources": [
-        {
-          "label": "Bateshwar Hindu temples, Madhya Pradesh",
-          "url": "https://en.wikipedia.org/wiki/Bateshwar_Hindu_temples,_Madhya_Pradesh",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Mitawali Temple",
-    "state": "Madhya Pradesh",
-    "city": "Gwalior",
-    "region": "Morena (near Gwalior)",
-    "tags": [
-      "Chausath Yogini",
-      "Hilltop",
-      "Heritage"
-    ],
-    "story": "A circular hilltop temple with a 64-yogini layout, linked to ancient tantric worship.",
-    "highlight": "Ringed shrine cells with a central sanctum.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0121621_Chausath_Yogini_and_Shiva_Temple,_Mitaoli_Madhya_Pradesh.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:0121621_Chausath_Yogini_and_Shiva_Temple,_Mitaoli_Madhya_Pradesh.jpg",
-    "deity": "Yoginis and Shiva",
-    "tradition": "Shakta",
-    "bestTime": "Late afternoon for hilltop views.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "puranicView": "As a Chausath Yogini temple, Mitawali is dedicated to sixty-four yoginis and laid out as a circular shrine with 64 chambers and Shiva lingas. Its sacred focus is yogini worship rather than a single Puranic episode, aligning the temple with Shakta-Tantric traditions.",
-      "puranicSources": [
-        {
-          "label": "Chausath Yogini Temple, Morena",
-          "url": "https://morena.nic.in/en/tourist-place/mitawali/",
-          "type": "Government tourism"
-        }
-      ],
-      "folklore": "A popular local comparison links the circular plan to the Indian Parliament building, and some visitors conclude that the Sansad Bhawan was inspired by Mitawali. This idea is now part of the modern storytelling around the site.",
-      "folkloreSources": [
-        {
-          "label": "Chausath Yogini Temple, Morena",
-          "url": "https://morena.nic.in/en/tourist-place/mitawali/",
-          "type": "Government tourism"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Padavali Temple",
-    "state": "Madhya Pradesh",
-    "city": "Gwalior",
-    "region": "Morena (near Gwalior)",
-    "tags": [
-      "Heritage",
-      "Nagara",
-      "Carvings"
-    ],
-    "story": "A small but richly carved temple near the Bateshwar complex.",
-    "highlight": "Detailed exterior reliefs and sculpted niches.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Garhi_Padavali_Temple.JPG",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Garhi_Padavali_Temple.JPG",
-    "deity": "Vishnu",
-    "tradition": "Vaishnava",
-    "bestTime": "Morning light for carvings.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Janmashtami"
-    ],
-    "moreDetails": {
-      "puranicView": "The surviving mandapa is covered with panels from multiple Hindu traditions, including Shaiva, Vaishnava, Shakta, and Saura imagery, along with epic and Puranic narratives. Reliefs depict Krishna legends, Vishnu dashavataras, the Ramayana and Mahabharata, and motifs like the samudra manthan.",
-      "puranicSources": [
-        {
-          "label": "Garhi Padhavali Shiva temple (file notes)",
-          "url": "https://commons.wikimedia.org/wiki/File:0121621_Garhi_Padhavali_Shiva_temple_MP_077.jpg",
-          "type": "Wikimedia Commons (site notes)"
-        }
-      ],
-      "folklore": "Local memory preserves the name Garhi Padavali because a small fort was built around the temple in the 18th century to protect it. The temple now survives only in part, which adds to the site's ruined-fort storytelling.",
-      "folkloreSources": [
-        {
-          "label": "Garhi Padhavali Shiva temple (file notes)",
-          "url": "https://commons.wikimedia.org/wiki/File:0121621_Garhi_Padhavali_Shiva_temple_MP_077.jpg",
-          "type": "Wikimedia Commons (site notes)"
-        }
-      ]
-    }
-  },
-  {
     "name": "Kakanmath Temple",
     "state": "Madhya Pradesh",
     "city": "Gwalior",
@@ -486,53 +100,6 @@ export const madhyaPradeshTemples = [
     }
   },
   {
-    "name": "Harsiddhi Temple",
-    "state": "Madhya Pradesh",
-    "city": "Ujjain",
-    "region": "Rudra Sagar",
-    "tags": [
-      "Shakti",
-      "Shakti Peetha",
-      "Heritage"
-    ],
-    "story": "A revered Shakti shrine near Mahakal, known for its lamp-lit pillars.",
-    "highlight": "Tall deepa stambhas and evening aarti glow.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harsiddhi_temple_pillars_Ujjain.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Harsiddhi_temple_pillars_Ujjain.jpg",
-    "deity": "Harsiddhi (Devi)",
-    "tradition": "Shakta",
-    "bestTime": "Evenings for the lit lamp towers.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Evening aarti",
-      "Daily puja"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "puranicView": "The temple is linked to the Shiva Purana's Shakti Peetha tradition, which places Sati's elbow at this site. A Skanda Purana legend narrates Chandi's victory over the demons Chand and Prachand, after which Shiva grants her the epithet Harsiddhi.",
-      "puranicSources": [
-        {
-          "label": "Harsiddhi Temple (Ujjain district)",
-          "url": "https://ujjain.nic.in/en/tourist-place/harsiddhi/",
-          "type": "Government tourism"
-        }
-      ],
-      "folklore": "Local devotion emphasizes the Maratha-period reconstruction and the twin lamp pillars that are lit in rows during Navratri, creating the shrine's signature evening spectacle. The festival lighting has become a beloved ritual memory for devotees.",
-      "folkloreSources": [
-        {
-          "label": "Harsiddhi Temple (Ujjain district)",
-          "url": "https://ujjain.nic.in/en/tourist-place/harsiddhi/",
-          "type": "Government tourism"
-        }
-      ]
-    }
-  },
-  {
     "name": "Kal Bhairav Temple",
     "state": "Madhya Pradesh",
     "city": "Ujjain",
@@ -547,7 +114,7 @@ export const madhyaPradeshTemples = [
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kal_Bhairav_temple_Ujjain.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kal_Bhairav_temple_Ujjain.jpg",
-    "deity": "Kal Bhairav",
+    "deity": "Shiva (Bhairav)",
     "tradition": "Shaiva",
     "bestTime": "Early morning for quieter darshan.",
     "timings": "Open daily; timings vary by season.",
@@ -638,188 +205,6 @@ export const madhyaPradeshTemples = [
     }
   },
   {
-    "name": "Chintaman Ganesh Temple",
-    "state": "Madhya Pradesh",
-    "city": "Ujjain",
-    "region": "Fatehabad Road",
-    "tags": [
-      "Ganesha",
-      "Pilgrimage",
-      "Heritage"
-    ],
-    "story": "A famous Ganesha shrine revered for its swayambhu idol.",
-    "highlight": "Ancient sanctum across the Kshipra.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chintamann_Ganesh_Temple_Ujjain_-_panoramio.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Chintamann_Ganesh_Temple_Ujjain_-_panoramio.jpg",
-    "deity": "Ganesha",
-    "tradition": "Ganapatya",
-    "bestTime": "Morning darshan.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Ganesh Chaturthi"
-    ],
-    "moreDetails": {
-      "puranicView": "In devotional tradition, Ganesha here is known as Chintaharan, the remover of worries, and as the Lord of beginnings. This framing aligns the shrine's worship with the wider Puranic image of Ganesha as the first-invoked deity.",
-      "puranicSources": [
-        {
-          "label": "Chintaman Ganesh Temple, Ujjain",
-          "url": "https://en.wikipedia.org/wiki/Chintaman_Ganesh_Temple,_Ujjain",
-          "type": "Encyclopedia"
-        }
-      ],
-      "folklore": "Local belief holds that the Ganesha idol is swayambhu (self-manifest), and the deity is affectionately called Chintaman. Devotees often recall the pairing of Riddhi and Siddhi alongside the main icon in local storytelling.",
-      "folkloreSources": [
-        {
-          "label": "Chintaman Ganesh Temple, Ujjain",
-          "url": "https://en.wikipedia.org/wiki/Chintaman_Ganesh_Temple,_Ujjain",
-          "type": "Encyclopedia (local belief)"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Gopal Mandir (Ujjain)",
-    "state": "Madhya Pradesh",
-    "city": "Ujjain",
-    "region": "Main Market",
-    "tags": [
-      "Krishna",
-      "Maratha",
-      "Heritage"
-    ],
-    "story": "A Maratha-era Krishna temple in the heart of the old market.",
-    "highlight": "Silver-plated doors and central courtyard.",
-    "deity": "Krishna",
-    "tradition": "Vaishnava",
-    "bestTime": "Evening aarti in the market lanes.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Morning puja",
-      "Evening aarti"
-    ],
-    "festivals": [
-      "Janmashtami"
-    ],
-    "moreDetails": {
-      "puranicView": "The sanctum centers on Gopal Krishna with Radhika, and the garbhagriha includes icons of Rukmini alongside Shiv-Parvati. The temple's devotional focus therefore blends Krishna worship with a broader Vaishnava-Harihara visual tradition.",
-      "puranicSources": [
-        {
-          "label": "Places of Interest (Gopal Mandir)",
-          "url": "https://ujjain.nic.in/en/places-of-interest/",
-          "type": "Government tourism"
-        }
-      ],
-      "folklore": "Ujjain's Harihar Milan tradition places Gopal Mandir at the heart of a midnight procession in which Mahakaleshwar's sawari comes to meet Gopal on Vaikunth Choudas. The reciprocal Gopal procession to Mahakaleshwar and the Janmashtami festival keep this local story alive each year.",
-      "folkloreSources": [
-        {
-          "label": "Places of Interest (Gopal Mandir)",
-          "url": "https://ujjain.nic.in/en/places-of-interest/",
-          "type": "Government tourism"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Gadkalika Temple",
-    "state": "Madhya Pradesh",
-    "city": "Ujjain",
-    "region": "Outskirts of Ujjain",
-    "tags": [
-      "Shakti",
-      "Kalika",
-      "Legend"
-    ],
-    "story": "A revered Kalika temple linked to local traditions and learning legends.",
-    "highlight": "Hillside shrine and quiet approach.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gadkalika-Temple.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gadkalika-Temple.jpg",
-    "deity": "Kalika",
-    "tradition": "Shakta",
-    "bestTime": "Early mornings for peaceful darshan.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "puranicView": "Gadkalika is described as an ancient Kali shrine with icons of Maa Kali, Vishnu, and Hanuman, and it is counted locally as a Siddhapeeth. The temple therefore sits within Ujjain's wider Shakti landscape while retaining a distinct identity around the Kalika image.",
-      "puranicSources": [
-        {
-          "label": "Places of Interest (Gadkalika Temple)",
-          "url": "https://ujjain.nic.in/en/places-of-interest/",
-          "type": "Government tourism"
-        }
-      ],
-      "folklore": "Local tradition remembers Kalidasa worshipping the same Kalika idol here, and Navratri draws large crowds for special worship. These retellings keep the temple's literary and festival lore alive.",
-      "folkloreSources": [
-        {
-          "label": "Places of Interest (Gadkalika Temple)",
-          "url": "https://ujjain.nic.in/en/places-of-interest/",
-          "type": "Government tourism"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Bade Ganesh Temple",
-    "state": "Madhya Pradesh",
-    "city": "Ujjain",
-    "region": "Near Mahakal",
-    "tags": [
-      "Ganesha",
-      "Pilgrimage",
-      "City center"
-    ],
-    "story": "A prominent Ganesha temple near Mahakaleshwar, known for a large idol.",
-    "highlight": "Large Ganesha idol and devotional flow.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bade_Ganeshji.JPG",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bade_Ganeshji.JPG",
-    "deity": "Ganesha",
-    "tradition": "Ganapatya",
-    "bestTime": "Morning darshan before crowds.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Ganesh Chaturthi"
-    ],
-    "moreDetails": {
-      "puranicView": "The shrine is known for a towering Ganesh statue near Mahakaleshwar, paired with a Panchmukhi Hanuman idol made of sapta dhatu. The combined presence of both icons defines the temple's devotional focus.",
-      "puranicSources": [
-        {
-          "label": "Places of Interest (Bade Ganesh Temple)",
-          "url": "https://ujjain.nic.in/en/places-of-interest/",
-          "type": "Government tourism"
-        }
-      ],
-      "folklore": "Pilgrims remember the temple for its massive Ganesh idol near Mahakaleshwar and the distinctive Panchmukhi Hanuman image. The two icons are the most repeated touchpoints in local visits and photo traditions.",
-      "folkloreSources": [
-        {
-          "label": "Places of Interest (Bade Ganesh Temple)",
-          "url": "https://ujjain.nic.in/en/places-of-interest/",
-          "type": "Government tourism"
-        }
-      ]
-    }
-  },
-  {
     "name": "Siddhavat Temple",
     "state": "Madhya Pradesh",
     "city": "Ujjain",
@@ -879,59 +264,6 @@ export const madhyaPradeshTemples = [
         {
           "label": "Places of Interest (Ujjain district)",
           "url": "https://ujjain.nic.in/en/places-of-interest/"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Navgrah Shani Mandir",
-    "state": "Madhya Pradesh",
-    "city": "Ujjain",
-    "region": "Ujjain City",
-    "tags": [
-      "Navagraha",
-      "Shani",
-      "Astrology"
-    ],
-    "story": "A shrine focused on Shani and the navagraha traditions of Ujjain.",
-    "highlight": "Devotional offerings for planetary blessings.",
-    "deity": "Shani and Navagraha",
-    "tradition": "Vedic",
-    "bestTime": "Saturday mornings for Shani worship.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Shani Jayanti"
-    ],
-    "moreDetails": {
-      "puranicView": "The Navagraha Mandir at Triveni Ghat is dedicated to the nine planetary deities and reflects Ujjain's association with jyotisha and celestial worship. District records note that its importance has grown in recent years even though ancient textual references are not known.",
-      "puranicSources": [
-        {
-          "label": "Navagraha Mandir (Triveni)",
-          "url": "https://ujjain.nic.in/en/tourist-place/navagraha-mandir-triveni/",
-          "type": "Government tourism"
-        },
-        {
-          "label": "Places of Interest (Navagraha Temple)",
-          "url": "https://ujjain.nic.in/en/places-of-interest/",
-          "type": "Government tourism"
-        }
-      ],
-      "folklore": "Saturday new-moon days draw especially large crowds, and pilgrims often pair darshan with a Shipra bath at Triveni Ghat. The local custom of donating old clothes and footwear is another repeating ritual memory here.",
-      "folkloreSources": [
-        {
-          "label": "Navagraha Mandir (Triveni)",
-          "url": "https://ujjain.nic.in/en/tourist-place/navagraha-mandir-triveni/",
-          "type": "Government tourism"
-        },
-        {
-          "label": "Places of Interest (Navagraha Temple)",
-          "url": "https://ujjain.nic.in/en/places-of-interest/",
-          "type": "Government tourism"
         }
       ]
     }
@@ -2272,860 +1604,6 @@ export const madhyaPradeshTemples = [
     }
   },
   {
-    "name": "Maa Sharda Mandir (Maihar)",
-    "state": "Madhya Pradesh",
-    "city": "Maihar",
-    "region": "Trikut Hill",
-    "tags": [
-      "Shakti Peetha",
-      "Hilltop",
-      "Pilgrimage"
-    ],
-    "story": "A revered hilltop Shakti shrine to Maa Sharda, reached by a long stairway above Maihar.",
-    "highlight": "The 1,001-step climb and wide views from Trikut hill.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maa%20Sharda%20Temple,%20Maihar.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Maa_Sharda_Temple,_Maihar.jpg",
-    "deity": "Maa Sharda (Saraswati)",
-    "tradition": "Shakta",
-    "bestTime": "Navratri seasons and clear winter mornings.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest traditional attire recommended.",
-    "entryNotes": "The temple sits about 600 feet high with 1,001 steps; road access is available near the top.",
-    "rituals": [
-      "Daily puja",
-      "Aarti"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Maa Sharda Mandir is a Shakti Peetha in Maihar, dedicated to Sharda, regarded as an incarnation of Saraswati.",
-      "architecture": "A hilltop shrine on Trikut hill approached by a long stairway up the hillside.",
-      "darshan": "Darshan is open daily with morning and evening aartis.",
-      "seasonal": "Navratri draws the largest pilgrim gatherings.",
-      "visitorNotes": "Plan for the 1,001-step climb or use the hill road for access near the summit.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Maa Sharda Mandir, Maihar",
-          "url": "https://en.wikipedia.org/wiki/Maa_Sharda_Mandir,_Maihar"
-        },
-        {
-          "label": "Alha Dev Mandir (Maihar district)",
-          "url": "https://alha-dev-mandir-maihar.nic.in/"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Pitambara Peeth",
-    "state": "Madhya Pradesh",
-    "city": "Datia",
-    "region": "Datia",
-    "tags": [
-      "Shakti Pitha",
-      "Baglamukhi",
-      "Mahavidya"
-    ],
-    "story": "A Shakti pitha complex in Datia centered on Baglamukhi and Dhumavati worship.",
-    "highlight": "Large ashram-style complex with multiple Devi shrines.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pitambara%20Peeth%20temple,%20Datia%20city.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Pitambara_Peeth_temple,_Datia_city.jpg",
-    "deity": "Baglamukhi",
-    "tradition": "Shakta",
-    "bestTime": "Navratri and Saturday worship days.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest traditional attire recommended.",
-    "entryNotes": "Expect heavier crowds on Saturdays and festival days.",
-    "rituals": [
-      "Daily puja",
-      "Aarti"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Pitambara Peeth is a complex of temples and an ashram in Datia, regarded as a Shakti pitha devoted to the Mother Goddess.",
-      "architecture": "The peeth contains multiple shrines within a large temple-ashram precinct.",
-      "darshan": "Darshan is available throughout the day; Saturdays are busiest.",
-      "seasonal": "Navratri sees the largest pilgrim inflow.",
-      "visitorNotes": "Plan extra time on Saturdays due to long queues.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Pitambara Peeth",
-          "url": "https://en.wikipedia.org/wiki/Pitambara_Peeth"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Bagalamukhi Temple (Nalkheda)",
-    "state": "Madhya Pradesh",
-    "city": "Nalkheda",
-    "region": "Agar Malwa",
-    "tags": [
-      "Mahavidya",
-      "Riverbank",
-      "Baglamukhi"
-    ],
-    "story": "A riverbank Baglamukhi shrine at Nalkheda known for yellow offerings and Navratri worship.",
-    "highlight": "Baglamukhi icon flanked by Lakshmi and Saraswati.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mata%20Baglamukhi%20Temple.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Mata_Baglamukhi_Temple.jpg",
-    "deity": "Baglamukhi",
-    "tradition": "Shakta",
-    "bestTime": "Navratri and early morning aartis.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest traditional attire recommended.",
-    "entryNotes": "Located on the Lakhundar River; expect crowds during Navratri.",
-    "rituals": [
-      "Daily puja",
-      "Aarti"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "The temple stands on the Lakhundar River (a Narmada tributary) and is dedicated to Baglamukhi, one of the ten Mahavidyas.",
-      "architecture": "The central icon is a triad with Baglamukhi flanked by Lakshmi and Saraswati.",
-      "darshan": "Darshan is available all day, with peak crowds during aarti.",
-      "seasonal": "Navratri is the busiest season for devotees.",
-      "visitorNotes": "The shrine was restored in the early 19th century and remains a major pilgrimage stop in Agar Malwa.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Bagalamukhi Temple, Nalkheda",
-          "url": "https://en.wikipedia.org/wiki/Bagalamukhi_Temple"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Chausath Yogini Temple (Bhedaghat)",
-    "state": "Madhya Pradesh",
-    "city": "Bhedaghat",
-    "region": "Narmada Gorge",
-    "tags": [
-      "Yogini Temple",
-      "Narmada",
-      "Heritage"
-    ],
-    "story": "A circular yogini temple on a hill above the Narmada with 81 yogini niches.",
-    "highlight": "Hilltop ring of yogini cells and river views.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chausath%20Yogini%20Temple,%20Bhedaghat.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Chausath_Yogini_Temple,_Bhedaghat.jpg",
-    "deity": "Yoginis (81)",
-    "tradition": "Shakta",
-    "bestTime": "Early mornings for clear views over the river.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Hilltop approach; carry water for the climb.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "The Bhedaghat yogini temple stands on a hill above the Narmada near Jabalpur and was built in the early 11th century.",
-      "architecture": "A circular, open-air courtyard encircled by 81 yogini shrines.",
-      "darshan": "Darshan moves along the open courtyard with yogini niches.",
-      "seasonal": "Pleasant in winter; Navratri brings larger pilgrim visits.",
-      "visitorNotes": "The temple sits above the river gorge; the climb is steep but short.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Chausath Yogini Temple, Bhedaghat",
-          "url": "https://en.wikipedia.org/wiki/Chausath_Yogini_Temple,_Bhedaghat"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Chausath Yogini Temple (Khajuraho)",
-    "state": "Madhya Pradesh",
-    "city": "Khajuraho",
-    "region": "Western Group",
-    "tags": [
-      "Yogini Temple",
-      "Khajuraho",
-      "UNESCO"
-    ],
-    "story": "The oldest surviving Khajuraho temple, open to the sky with a yogini courtyard.",
-    "highlight": "Rectangular hypaethral layout within the Western Group.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chausath%20Yogini%20temple,%20Khajuraho.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Chausath_Yogini_temple,_Khajuraho.jpg",
-    "deity": "Yoginis (Chausath)",
-    "tradition": "Shakta",
-    "bestTime": "Early mornings for a quiet walk through the complex.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Part of the Khajuraho group; entry tickets apply.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Built in the late 9th century, it is the oldest surviving temple at Khajuraho and part of the World Heritage group.",
-      "architecture": "A rectangular hypaethral (open-to-sky) courtyard lined with yogini shrines.",
-      "darshan": "Darshan moves along the open courtyard and yogini niches.",
-      "seasonal": "Winter is the most comfortable season for visits.",
-      "visitorNotes": "Combine with the Western Group temples in one visit.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Chausath Yogini Temple, Khajuraho",
-          "url": "https://en.wikipedia.org/wiki/Chausath_Yogini_Temple,_Khajuraho"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Kankali Devi Temple (Tigawa)",
-    "state": "Madhya Pradesh",
-    "city": "Tigawa",
-    "region": "Katni district",
-    "tags": [
-      "Gupta Era",
-      "Archaeological Site",
-      "Kankali Devi"
-    ],
-    "story": "A Gupta-era shrine in Tigawa, among the oldest surviving Hindu temples with a Kankali Devi panel.",
-    "highlight": "Early stone sanctum and portico dated to c. 400–425 CE.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/5th%20century%20Kankali%20Devi%20Hindu%20temple,%20Tigawa%20Madhya%20Pradesh.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:5th_century_Kankali_Devi_Hindu_temple,_Tigawa_Madhya_Pradesh.jpg",
-    "deity": "Kankali Devi (Chamunda)",
-    "tradition": "Shakta",
-    "bestTime": "Winter mornings for archaeological visits.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Comfortable, modest attire.",
-    "entryNotes": "This is a protected archaeological site with temple ruins nearby.",
-    "rituals": [
-      "Daily puja (local tradition)"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Tigawa preserves a cluster of ancient temples, with the Kankali Devi shrine dated to c. 400–425 CE in the Gupta period.",
-      "architecture": "A stone sanctum with an open portico, representing early Gupta-era temple design.",
-      "darshan": "Darshan is available at the main shrine; nearby ruins are viewable.",
-      "seasonal": "Best visited in cooler months.",
-      "visitorNotes": "The site includes multiple ruins; carry water and sun protection.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Tigawa",
-          "url": "https://en.wikipedia.org/wiki/Tigawa"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Dewas Tekri (Chamunda & Tulja Bhavani)",
-    "state": "Madhya Pradesh",
-    "city": "Dewas",
-    "region": "Dewas Tekri",
-    "tags": [
-      "Hill Shrine",
-      "Dewas",
-      "Navratri"
-    ],
-    "story": "A sacred hill in Dewas with the Chamunda and Tulja Bhavani shrines.",
-    "highlight": "Hilltop darshan via stairs or ropeway.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maa%20Chamunda%20Mata%20Temple,%20Tekri%20Dewas.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Maa_Chamunda_Mata_Temple,_Tekri_Dewas.jpg",
-    "deity": "Chamunda & Tulja Bhavani",
-    "tradition": "Shakta",
-    "bestTime": "Navratri and clear evenings.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "A ropeway and stairs connect the hilltop temples.",
-    "rituals": [
-      "Daily puja",
-      "Aarti"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Dewas Tekri is a hill above 300 feet that houses the temples of Chamunda and Tulja Bhavani.",
-      "architecture": "Hilltop shrines with broad courtyards and approach pathways.",
-      "darshan": "Darshan is available throughout the day; aarti draws crowds.",
-      "seasonal": "Navratri is the primary festival season.",
-      "visitorNotes": "Use the ropeway or stairs; evenings can be crowded during festivals.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Dewas Tekri",
-          "url": "https://en.wikipedia.org/wiki/Dewas_Tekri"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Vindhyavasini Mata Temple (Salkanpur)",
-    "state": "Madhya Pradesh",
-    "city": "Salkanpur",
-    "region": "Sehore district",
-    "tags": [
-      "Siddhpeeth",
-      "Hill Temple",
-      "Beejasan"
-    ],
-    "story": "A siddhpeeth of Vindhyavasini/Beejasan Devi on the Salkanpur hill.",
-    "highlight": "800-foot hill with 1,000+ steps and Navratri fair.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vindhyavasini%20Vijayasana%20Mata%20Temple,%20Salkanpur.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Vindhyavasini_Vijayasana_Mata_Temple,_Salkanpur.jpg",
-    "deity": "Vindhyavasini (Beejasan) Devi",
-    "tradition": "Shakta",
-    "bestTime": "Navratri and cool-season mornings.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Temple sits atop a hill with over 1,000 steps.",
-    "rituals": [
-      "Daily puja",
-      "Aarti"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "The temple is a siddhpeeth of Vindhyavasini (Beejasan) Devi on an 800-foot hill near Salkanpur.",
-      "architecture": "Hilltop shrine with stair approach and a broad summit precinct.",
-      "darshan": "Darshan continues through the day, with peak aartis.",
-      "seasonal": "Navratri hosts the largest fairs and pilgrim gatherings.",
-      "visitorNotes": "Expect a long stair climb (1,000+ steps); carry water for the ascent.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Vindhyawasini Mata Temple (Sehore district)",
-          "url": "https://sehore.nic.in/en/tourist-place/vindhyawasini-mata-temple/"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Gadarmal Devi Temple (Badoh)",
-    "state": "Madhya Pradesh",
-    "city": "Badoh",
-    "region": "Vidisha district",
-    "tags": [
-      "Yogini Temple",
-      "Badoh",
-      "Heritage"
-    ],
-    "story": "A rare yogini temple at Badoh with 42 niches arranged in a rectangular plan.",
-    "highlight": "Pratihara-era stonework in a hypaethral yogini shrine.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gadarmal%20Temple%20Badoh.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gadarmal_Temple_Badoh.jpg",
-    "deity": "Yoginis (Gadarmal Devi)",
-    "tradition": "Shakta",
-    "bestTime": "Winter mornings for heritage walks.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Comfortable, modest attire.",
-    "entryNotes": "Heritage site; expect uneven stone pathways.",
-    "rituals": [
-      "Daily puja (local tradition)"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "The Gadarmal Temple at Badoh is a yogini shrine with 42 niches, built between the 7th and 8th centuries.",
-      "architecture": "A rectangular hypaethral layout with yogini niches along the walls.",
-      "darshan": "Darshan follows the open courtyard with yogini alcoves.",
-      "seasonal": "Cool seasons are best for visiting the heritage site.",
-      "visitorNotes": "The site is open-air and has uneven stone surfaces; wear sturdy footwear.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Gadarmal Temple",
-          "url": "https://en.wikipedia.org/wiki/Gadarmal_Temple"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Devi Jagadambi Temple (Khajuraho)",
-    "state": "Madhya Pradesh",
-    "city": "Khajuraho",
-    "region": "Western Group",
-    "tags": [
-      "Khajuraho",
-      "World Heritage",
-      "Parvati"
-    ],
-    "story": "One of Khajuraho’s most ornate temples honoring Jagadambika/Parvati.",
-    "highlight": "Finely carved bands in the Western Group of temples.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Devi%20Jagadambi%20Temple%20Khajuraho.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Devi_Jagadambi_Temple_Khajuraho.jpg",
-    "deity": "Jagadambika (Parvati)",
-    "tradition": "Shakta",
-    "bestTime": "Early mornings for quiet darshan.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Part of the Khajuraho ticketed complex.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Built by the Chandella rulers around 1000–1025 CE, the temple is dedicated to Parvati and part of the Khajuraho World Heritage group.",
-      "architecture": "A richly carved temple on a high platform, showcasing Khajuraho’s signature sculptural bands.",
-      "darshan": "Darshan is available throughout the day; mornings are quieter.",
-      "seasonal": "Winter months are the most comfortable for visits.",
-      "visitorNotes": "Combine with nearby Western Group temples in a single circuit.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Devi Jagadambi Temple",
-          "url": "https://en.wikipedia.org/wiki/Devi_Jagadambi_Temple"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Annapurna Temple (Indore)",
-    "state": "Madhya Pradesh",
-    "city": "Indore",
-    "region": "Indore",
-    "tags": [
-      "Annapurna",
-      "Indore",
-      "City Shrine"
-    ],
-    "story": "A prominent Indore temple dedicated to Goddess Annapurna, serving as a major city shrine.",
-    "highlight": "Steady daily worship in a busy urban precinct.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/010272%20Annapurna%20Temple%20Indore%20MP%2001.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:010272_Annapurna_Temple_Indore_MP_01.jpg",
-    "deity": "Annapurna",
-    "tradition": "Shakta",
-    "bestTime": "Morning darshan and festival seasons.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Expect heavier crowds during Navratri.",
-    "rituals": [
-      "Daily puja",
-      "Evening aarti"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Annapurna Temple in Indore is a well-known shrine dedicated to Goddess Annapurna.",
-      "architecture": "A city temple complex with traditional shrine layout.",
-      "darshan": "Darshan is open daily with regular aarti timings.",
-      "seasonal": "Navratri is the busiest season.",
-      "visitorNotes": "Plan early visits on festival days.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Annapurna Temple (Indore)",
-          "url": "https://indore.nic.in/en/tourist-place/annapurna-temple/"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Mangala Devi Temple (Kagpur)",
-    "state": "Madhya Pradesh",
-    "city": "Kagpur",
-    "region": "Vidisha",
-    "tags": [
-      "Ancient",
-      "Vidisha",
-      "Devi Shrine"
-    ],
-    "story": "An ancient temple at Kagpur dedicated to the Mother Goddess, noted for its early-era architecture.",
-    "highlight": "Historic stone temple remains in a rural setting.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mangla%20Devi%20Temple%20Vidisha.JPG",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Mangla_Devi_Temple_Vidisha.JPG",
-    "deity": "Mangala Devi",
-    "tradition": "Shakta",
-    "bestTime": "Cool-season mornings for heritage visits.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Comfortable, modest attire.",
-    "entryNotes": "Heritage site in a village setting; carry water.",
-    "rituals": [
-      "Daily puja (local tradition)"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Mangala Devi Temple at Kagpur is an ancient shrine in Vidisha district noted in heritage records.",
-      "architecture": "Historic stone temple architecture with a sanctum and carved elements.",
-      "darshan": "Darshan is available daily with local ritual cycles.",
-      "seasonal": "Winter is most comfortable for visits.",
-      "visitorNotes": "Plan for rural access and limited facilities.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Mangala Devi Temple, Kagpur",
-          "url": "https://en.wikipedia.org/wiki/Mangala_Devi_Temple,_Kagpur,_Vidisha"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Kali Bari (Chhindwara)",
-    "state": "Madhya Pradesh",
-    "city": "Chhindwara",
-    "region": "Chhindwara",
-    "tags": [
-      "Kali",
-      "City Shrine",
-      "Pilgrimage"
-    ],
-    "story": "A prominent Kali temple in Chhindwara, visited daily by devotees across the city.",
-    "highlight": "Festive crowds during Kali Puja and Navratri.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jyoti%20Kalash%20Sthapana%20at%20Kali%20Bari%20Chhindwara.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jyoti_Kalash_Sthapana_at_Kali_Bari_Chhindwara.jpg",
-    "deity": "Kali",
-    "tradition": "Shakta",
-    "bestTime": "Kali Puja season and early morning darshan.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Expect crowds during major festivals.",
-    "rituals": [
-      "Daily puja",
-      "Evening aarti"
-    ],
-    "festivals": [
-      "Kali Puja",
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Kali Bari is a well-known temple in Chhindwara dedicated to Goddess Kali.",
-      "architecture": "A city temple complex with traditional shrine layout.",
-      "darshan": "Darshan is open daily with aarti in the evenings.",
-      "seasonal": "Kali Puja and Navratri draw the largest crowds.",
-      "visitorNotes": "Plan early visits on festival days.",
-      "festivals": "Kali Puja · Navratri",
-      "sources": [
-        {
-          "label": "Kali Bari Chhindwara",
-          "url": "https://en.wikipedia.org/wiki/Kali_Bari_Chhindwara"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Parvati Temple (Khajuraho)",
-    "state": "Madhya Pradesh",
-    "city": "Khajuraho",
-    "region": "Khajuraho Group",
-    "tags": [
-      "Khajuraho",
-      "Heritage",
-      "Parvati"
-    ],
-    "story": "A historic Parvati shrine within the Khajuraho group of temples, known for its compact stone sanctum.",
-    "highlight": "Heritage temple circuit within the Khajuraho complex.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0121821%20Parvati%20Temple,%20Khajuraho%20Madhya%20Pradesh%20038.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:0121821_Parvati_Temple,_Khajuraho_Madhya_Pradesh_038.jpg",
-    "deity": "Parvati",
-    "tradition": "Shakta",
-    "bestTime": "Early mornings for quiet heritage walks.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Part of the Khajuraho ticketed complex.",
-    "rituals": [
-      "Daily puja (limited)"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Parvati Temple is a historic shrine within the Khajuraho group, dedicated to Goddess Parvati.",
-      "architecture": "A compact stone temple with a sanctum and simple mandapa layout.",
-      "darshan": "Darshan follows the temple complex visiting hours.",
-      "seasonal": "Winter is the most comfortable season for visits.",
-      "visitorNotes": "Combine with nearby Khajuraho temples in one circuit.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Parvati Temple, Khajuraho",
-          "url": "https://en.wikipedia.org/wiki/Parvati_Temple,_Khajuraho"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Parvati Temple (Nachna)",
-    "state": "Madhya Pradesh",
-    "city": "Nachna",
-    "region": "Panna district",
-    "tags": [
-      "Gupta Era",
-      "Nachna",
-      "Heritage"
-    ],
-    "story": "A Gupta-era Parvati shrine at Nachna, among the early temples of central India.",
-    "highlight": "Early stone temple architecture preserved at Nachna.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0122221%205th%20century%20Parvati%20temple,%20Nachna-Kuthara,%20Madhya%20Pradesh%20028.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:0122221_5th_century_Parvati_temple,_Nachna-Kuthara,_Madhya_Pradesh_028.jpg",
-    "deity": "Parvati",
-    "tradition": "Shakta",
-    "bestTime": "Cool-season mornings for heritage visits.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Comfortable, modest attire.",
-    "entryNotes": "Heritage site with limited facilities nearby.",
-    "rituals": [
-      "Local puja (limited)"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Nachna preserves early temples including a Parvati shrine associated with Gupta-era architecture.",
-      "architecture": "Early stone temple layout with a sanctum and minimal ornamentation.",
-      "darshan": "Darshan follows heritage site visiting hours.",
-      "seasonal": "Winter is most comfortable for visits.",
-      "visitorNotes": "Plan for rural access and limited amenities.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Nachna Hindu temples",
-          "url": "https://en.wikipedia.org/wiki/Nachna_Hindu_temples"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Harsiddhi Devi Mandir (Rangir)",
-    "state": "Madhya Pradesh",
-    "city": "Rangir",
-    "region": "Sagar district",
-    "tags": [
-      "Harsiddhi",
-      "Sagar",
-      "Devi Shrine"
-    ],
-    "story": "A Shakta shrine in Rangir village dedicated to Harsiddhi Devi.",
-    "highlight": "Local pilgrimage traditions in the Sagar countryside.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rangir%20Temple.JPG",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Rangir_Temple.JPG",
-    "deity": "Harsiddhi Devi",
-    "tradition": "Shakta",
-    "bestTime": "Navratri seasons and winter mornings.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Rural setting; plan transport in advance.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Harsiddhi Devi Mandir in Rangir village is a notable Shakta shrine in Sagar district.",
-      "architecture": "A village temple complex with a central sanctum.",
-      "darshan": "Darshan is available daily with local rituals.",
-      "seasonal": "Navratri is the peak pilgrimage season.",
-      "visitorNotes": "Allow extra time for rural roads and parking.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Harsiddhi Devi Mandir, Rangir",
-          "url": "https://en.wikipedia.org/wiki/Harsiddhi_Devi_Mandir,_Rangir"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Bambar Baini Temple",
-    "state": "Madhya Pradesh",
-    "city": "Laundi",
-    "region": "Chhatarpur",
-    "tags": [
-      "Hill Shrine",
-      "Chhatarpur",
-      "Devi"
-    ],
-    "story": "A hilltop Devi shrine in Chhatarpur district with a long local pilgrimage tradition.",
-    "highlight": "Scenic hill views and Navratri gatherings.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mata%20Bambarbaini%20Temple.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Mata_Bambarbaini_Temple.jpg",
-    "deity": "Bambar Baini Devi",
-    "tradition": "Shakta",
-    "bestTime": "Navratri and cool-season mornings.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Hilltop access; carry water for the climb.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Bambar Baini Temple is a Devi shrine in Chhatarpur district and is considered a local pilgrimage site.",
-      "architecture": "Hilltop temple complex with a central sanctum.",
-      "darshan": "Darshan is available daily with local ritual timings.",
-      "seasonal": "Navratri draws the largest pilgrim crowds.",
-      "visitorNotes": "Plan for the hill climb and limited facilities.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Bambar Baini",
-          "url": "https://en.wikipedia.org/wiki/Bambar_Baini"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Karila Mata Dham",
-    "state": "Madhya Pradesh",
-    "city": "Karila",
-    "region": "Ashoknagar",
-    "tags": [
-      "Fair",
-      "Ashoknagar",
-      "Devi Shrine"
-    ],
-    "story": "A famous Devi shrine at Karila known for its large annual fair and regional pilgrimage.",
-    "highlight": "Annual fair gatherings centered on the Karila Mata temple.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Karila%20Mata%20Dham.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Karila_Mata_Dham.jpg",
-    "deity": "Karila Mata",
-    "tradition": "Shakta",
-    "bestTime": "Fair season and winter mornings.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Expect large crowds during the annual fair.",
-    "rituals": [
-      "Daily puja",
-      "Festival rituals"
-    ],
-    "festivals": [
-      "Annual fair",
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Karila Mata Mandir in Ashoknagar district is a well-known Devi shrine and hosts a large annual fair.",
-      "architecture": "Temple complex set within the Karila pilgrimage area.",
-      "darshan": "Darshan is available daily; peak crowds during fairs.",
-      "seasonal": "The annual fair period is the busiest time.",
-      "visitorNotes": "Plan early visits during the fair days.",
-      "festivals": "Annual fair · Navratri",
-      "sources": [
-        {
-          "label": "Culture (Ashoknagar district)",
-          "url": "https://ashoknagar.nic.in/en/culture/"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Vindhyavasini Temple (Tumen)",
-    "state": "Madhya Pradesh",
-    "city": "Tumen",
-    "region": "Ashoknagar",
-    "tags": [
-      "Vindhyavasini",
-      "Heritage",
-      "Ashoknagar"
-    ],
-    "story": "A historic Vindhyavasini Devi temple at Tumen, known in the region for its sacred precinct.",
-    "highlight": "Temple setting within the historic Tumen site.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vindyvashni%20temple123.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Vindyvashni_temple123.jpg",
-    "deity": "Vindhyavasini Devi",
-    "tradition": "Shakta",
-    "bestTime": "Cool-season mornings for heritage visits.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Temple lies within a heritage area; plan for rural access.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Tumen in Ashoknagar district is known for its Vindhyavasini Devi temple and historic remains.",
-      "architecture": "Heritage temple within the Tumen precinct.",
-      "darshan": "Darshan follows daily ritual cycles.",
-      "seasonal": "Winter is most comfortable for visits.",
-      "visitorNotes": "Plan for rural travel and limited amenities.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Culture (Ashoknagar district)",
-          "url": "https://ashoknagar.nic.in/en/culture/"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Jalpamata Temple (Rajgarh)",
-    "state": "Madhya Pradesh",
-    "city": "Rajgarh",
-    "region": "Rajgarh",
-    "tags": [
-      "Jalpamata",
-      "Rajgarh",
-      "Pilgrimage"
-    ],
-    "story": "A revered Devi shrine in Rajgarh district dedicated to Jalpamata.",
-    "highlight": "Local pilgrimage traditions centered on the Jalpamata temple.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jalpa%20Mata%20Temple.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jalpa_Mata_Temple.jpg",
-    "deity": "Jalpamata",
-    "tradition": "Shakta",
-    "bestTime": "Navratri and winter mornings.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Expect crowds during Navratri.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Jalpamata Temple is a well-known Devi shrine in Rajgarh district.",
-      "architecture": "Temple complex serving a regional pilgrimage.",
-      "darshan": "Darshan is available daily with festival aartis.",
-      "seasonal": "Navratri is the busiest season.",
-      "visitorNotes": "Plan early visits during festival days.",
-      "festivals": "Navratri",
-      "sources": [
-        {
-          "label": "Jalpamata Temple (Rajgarh district)",
-          "url": "https://rajgarh.nic.in/en/tourist-place/jalpamata-temple/"
-        }
-      ]
-    }
-  },
-  {
     "name": "Kachnar City Shiv Temple",
     "state": "Madhya Pradesh",
     "city": "Jabalpur",
@@ -3981,5 +2459,880 @@ export const madhyaPradeshTemples = [
         }
       ]
     }
+  },
+  {
+    "name": "Shri Virupaksh Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Bilpank",
+    "region": "Ratlam District",
+    "tags": [
+      "Mahadev",
+      "Heritage",
+      "Ratlam"
+    ],
+    "story": "A revered Mahadev shrine in Bilpank known for local devotional gatherings.",
+    "highlight": "Traditional darshan and village-era stone shrine.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Dharmrajeshwar Temple",
+    "state": "Madhya Pradesh",
+    "city": "Garoth",
+    "region": "Mandsaur District",
+    "tags": [
+      "Cave temple",
+      "Mahadev",
+      "Mandsaur"
+    ],
+    "story": "A rock-cut Mahadev temple complex in Garoth with carved shrines.",
+    "highlight": "Rock-cut Shiva sanctums and weathered carvings.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Dhareshwar Temple",
+    "state": "Madhya Pradesh",
+    "city": "Dhar",
+    "region": "Dhar District",
+    "tags": [
+      "Mahadev",
+      "Heritage",
+      "Dhar"
+    ],
+    "story": "A prominent Mahadev shrine in Dhar linked to the town’s historic core.",
+    "highlight": "Stone shrine with long-standing local worship.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Nilkantheshwar Mahadev Temple (Mandav)",
+    "state": "Madhya Pradesh",
+    "city": "Mandav",
+    "region": "Dhar District",
+    "tags": [
+      "Mahadev",
+      "Mandav",
+      "Heritage"
+    ],
+    "story": "A Mahadev temple in Mandav known for its hill-town setting.",
+    "highlight": "Hilltop darshan within Mandav’s heritage zone.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Ganga Mahadev Temple (Badnawar)",
+    "state": "Madhya Pradesh",
+    "city": "Badnawar",
+    "region": "Dhar District",
+    "tags": [
+      "Mahadev",
+      "Badnawar",
+      "Heritage"
+    ],
+    "story": "A local Mahadev shrine in Badnawar with steady daily worship.",
+    "highlight": "Community temple with annual Mahashivratri observance.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Koteshwar Mahadev Temple (Nisarpur)",
+    "state": "Madhya Pradesh",
+    "city": "Nisarpur",
+    "region": "Dhar District",
+    "tags": [
+      "Mahadev",
+      "Narmada",
+      "Dhar"
+    ],
+    "story": "A Mahadev shrine along the Narmada belt near Nisarpur.",
+    "highlight": "Riverine setting and devotional visits.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Gupt Mahadev Temple (Dhar)",
+    "state": "Madhya Pradesh",
+    "city": "Dhar",
+    "region": "Dhar District",
+    "tags": [
+      "Cave shrine",
+      "Mahadev",
+      "Dhar"
+    ],
+    "story": "A secluded Mahadev shrine revered for its quiet atmosphere.",
+    "highlight": "Secluded darshan in a cave-like setting.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Shankar Ghat Shiva Temple",
+    "state": "Madhya Pradesh",
+    "city": "Balaghat",
+    "region": "Wainganga River",
+    "tags": [
+      "Mahadev",
+      "River ghat",
+      "Balaghat"
+    ],
+    "story": "A riverside Shiva temple on the Wainganga ghat.",
+    "highlight": "Shiva darshan by the river steps.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Salbardi Shiva Cave",
+    "state": "Madhya Pradesh",
+    "city": "Salbardi",
+    "region": "Betul District",
+    "tags": [
+      "Cave shrine",
+      "Mahadev",
+      "Betul"
+    ],
+    "story": "A hill cave shrine dedicated to Shiva near the Satpura foothills.",
+    "highlight": "Cave sanctum reached by a forested trail.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Chhota Mahadev Temple (Tamia)",
+    "state": "Madhya Pradesh",
+    "city": "Tamia",
+    "region": "Chhindwara District",
+    "tags": [
+      "Mahadev",
+      "Pilgrimage",
+      "Chhindwara"
+    ],
+    "story": "A forest-side Mahadev shrine near Tamia, visited by pilgrims.",
+    "highlight": "Shiva darshan amid dense Satpura greenery.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Shiv Temple (Birsinghpur)",
+    "state": "Madhya Pradesh",
+    "city": "Birsinghpur",
+    "region": "Satna District",
+    "tags": [
+      "Mahadev",
+      "Heritage",
+      "Satna"
+    ],
+    "story": "A traditional Shiva shrine in Birsinghpur known for local worship.",
+    "highlight": "Heritage shrine with a steady devotional rhythm.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Shiva Temple of Nandchand",
+    "state": "Madhya Pradesh",
+    "city": "Bori",
+    "region": "Panna District",
+    "tags": [
+      "Mahadev",
+      "Heritage",
+      "Panna"
+    ],
+    "story": "A historic Shiva temple in the Nandchand area of Panna.",
+    "highlight": "Stone shrine with regional heritage character.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Siddhnath Temple (Panna)",
+    "state": "Madhya Pradesh",
+    "city": "Panna",
+    "region": "Panna District",
+    "tags": [
+      "Mahadev",
+      "Pilgrimage",
+      "Panna"
+    ],
+    "story": "A Shiva temple in Panna district revered by local devotees.",
+    "highlight": "Daily puja and Mahashivratri gatherings.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Riddhnath Temple",
+    "state": "Madhya Pradesh",
+    "city": "Handia",
+    "region": "Harda District",
+    "tags": [
+      "Mahadev",
+      "Heritage",
+      "Harda"
+    ],
+    "story": "A well-known Mahadev shrine in Handia with regular rituals.",
+    "highlight": "Community-led aartis and festival darshan.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Gupteshwar Mahadev Temple (Charua)",
+    "state": "Madhya Pradesh",
+    "city": "Charua",
+    "region": "Harda District",
+    "tags": [
+      "Cave shrine",
+      "Mahadev",
+      "Harda"
+    ],
+    "story": "A Gupteshwar Mahadev shrine associated with Charua’s sacred sites.",
+    "highlight": "Cave-like sanctum and quiet worship.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Shiv Mandir Chakravyoo (Charua)",
+    "state": "Madhya Pradesh",
+    "city": "Charua",
+    "region": "Harda District",
+    "tags": [
+      "Mahadev",
+      "Temple complex",
+      "Harda"
+    ],
+    "story": "A Shiva mandir complex at Charua known for its pilgrim stops.",
+    "highlight": "Temple precinct visited during Mahashivratri.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Kapileshwar Mahadev Temple (Sarangpur)",
+    "state": "Madhya Pradesh",
+    "city": "Sarangpur",
+    "region": "Rajgarh District",
+    "tags": [
+      "Mahadev",
+      "Rajgarh",
+      "Pilgrimage"
+    ],
+    "story": "A Mahadev shrine in Sarangpur with steady daily worship.",
+    "highlight": "Local darshan and annual fairs.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Sribilleshwar Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Jeerapur",
+    "region": "Rajgarh District",
+    "tags": [
+      "Mahadev",
+      "Jeerapur",
+      "Heritage"
+    ],
+    "story": "A revered Mahadev shrine near Jeerapur.",
+    "highlight": "Stone temple with regional devotional following.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Mahadev Temple (Rajgarh Forest)",
+    "state": "Madhya Pradesh",
+    "city": "Rajgarh",
+    "region": "Rajgarh District",
+    "tags": [
+      "Mahadev",
+      "Forest shrine",
+      "Rajgarh"
+    ],
+    "story": "A Mahadev temple in the forested outskirts of Rajgarh.",
+    "highlight": "Quiet darshan in a wooded setting.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Someshwar Mahadev Mandir (Agar)",
+    "state": "Madhya Pradesh",
+    "city": "Agar",
+    "region": "Agar Malwa District",
+    "tags": [
+      "Mahadev",
+      "Agar",
+      "Pilgrimage"
+    ],
+    "story": "A Someshwar Mahadev mandir in Agar with strong local worship.",
+    "highlight": "Traditional Shiva rituals and community festivals.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Kewada Swami Bhairavnath Temple (Agar)",
+    "state": "Madhya Pradesh",
+    "city": "Agar",
+    "region": "Agar Malwa District",
+    "tags": [
+      "Bhairav",
+      "Agar",
+      "Mahadev"
+    ],
+    "story": "A Bhairavnath temple in Agar honoring Shiva’s fierce guardian form.",
+    "highlight": "Bhairav darshan with devotional offerings.",
+    "deity": "Shiva (Bhairav)",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Choli Shiva Temple (Mandleshwar)",
+    "state": "Madhya Pradesh",
+    "city": "Mandleshwar",
+    "region": "Khargone District",
+    "tags": [
+      "Mahadev",
+      "Narmada",
+      "Khargone"
+    ],
+    "story": "A riverside Mahadev shrine near Mandleshwar on the Narmada belt.",
+    "highlight": "Shiva darshan along the ghats.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Parmar-Kalyan Shiva Mandir (Oon)",
+    "state": "Madhya Pradesh",
+    "city": "Oon",
+    "region": "Khargone District",
+    "tags": [
+      "Mahadev",
+      "Heritage",
+      "Khargone"
+    ],
+    "story": "A heritage Shiva mandir in Oon known for regional pilgrim visits.",
+    "highlight": "Stone shrine with long-standing worship.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Shiv Temple Choubara (Oon)",
+    "state": "Madhya Pradesh",
+    "city": "Oon",
+    "region": "Khargone District",
+    "tags": [
+      "Mahadev",
+      "Khargone",
+      "Temple complex"
+    ],
+    "story": "A Shiva temple precinct in Oon associated with local traditions.",
+    "highlight": "Village-era shrine and ritual gatherings.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Sirvel Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Sirvel",
+    "region": "Khargone District",
+    "tags": [
+      "Mahadev",
+      "Khargone",
+      "Pilgrimage"
+    ],
+    "story": "A Mahadev temple in Sirvel visited by regional devotees.",
+    "highlight": "Shiva aarti and festive darshan.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Nanheshwar Temple",
+    "state": "Madhya Pradesh",
+    "city": "Khargone",
+    "region": "Khargone District",
+    "tags": [
+      "Mahadev",
+      "Khargone",
+      "Heritage"
+    ],
+    "story": "A revered Nanheshwar Mahadev shrine in Khargone district.",
+    "highlight": "Temple tradition tied to local worship circuits.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Shiv Temple Devi Ahilya Fort (Maheshwar)",
+    "state": "Madhya Pradesh",
+    "city": "Maheshwar",
+    "region": "Khargone District",
+    "tags": [
+      "Mahadev",
+      "Fort",
+      "Maheshwar"
+    ],
+    "story": "A Shiva shrine within the Devi Ahilya Fort precinct at Maheshwar.",
+    "highlight": "Fort complex darshan with Narmada views.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Gupteshwar Mahadev Temple (Asirgarh)",
+    "state": "Madhya Pradesh",
+    "city": "Asirgarh",
+    "region": "Burhanpur District",
+    "tags": [
+      "Mahadev",
+      "Fort",
+      "Burhanpur"
+    ],
+    "story": "A Gupteshwar Mahadev temple within the Asirgarh fort region.",
+    "highlight": "Fort pilgrimage with Shiva sanctum.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Sambharkund Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Neemuch",
+    "region": "Neemuch District",
+    "tags": [
+      "Mahadev",
+      "Waterfall",
+      "Neemuch"
+    ],
+    "story": "A Mahadev shrine near the Sambharkund waterfalls in Neemuch.",
+    "highlight": "Pilgrimage stop amid seasonal cascades.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Naraddev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Bhind",
+    "region": "Bhind District",
+    "tags": [
+      "Mahadev",
+      "Bhind",
+      "Heritage"
+    ],
+    "story": "A Shiva temple in Bhind associated with local devotional practices.",
+    "highlight": "Traditional shrine with regional festivals.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Kadwaya Shiv Mandir",
+    "state": "Madhya Pradesh",
+    "city": "Kadwaya",
+    "region": "Ashoknagar District",
+    "tags": [
+      "Mahadev",
+      "Kadwaya",
+      "Heritage"
+    ],
+    "story": "An ancient Shiva mandir in Kadwaya, noted for heritage stonework.",
+    "highlight": "Historic Shiva shrine within Kadwaya’s temple cluster.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Bada Mahadev Temple (Pachmarhi)",
+    "state": "Madhya Pradesh",
+    "city": "Pachmarhi",
+    "region": "Narmadapuram District",
+    "tags": [
+      "Cave shrine",
+      "Mahadev",
+      "Pachmarhi"
+    ],
+    "story": "A sacred Mahadev cave temple in Pachmarhi, linked to the Satpura hills.",
+    "highlight": "Cave sanctum with natural stone formations.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Gufa Mandir (Bhopal)",
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "region": "Bhopal District",
+    "tags": [
+      "Cave shrine",
+      "Mahadev",
+      "Bhopal"
+    ],
+    "story": "A cave-style Mahadev shrine in Bhopal known for daily worship.",
+    "highlight": "Quiet darshan within a cave-like sanctum.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Jwaleshwar Temple (Amarkantak)",
+    "state": "Madhya Pradesh",
+    "city": "Amarkantak",
+    "region": "Anuppur District",
+    "tags": [
+      "Mahadev",
+      "Pilgrimage",
+      "Amarkantak"
+    ],
+    "story": "A Shiva temple in Amarkantak, part of the sacred Narmada source region.",
+    "highlight": "Shiva darshan in the forested pilgrim zone.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Mahadev Temple (Sanchi)",
+    "state": "Madhya Pradesh",
+    "city": "Sanchi",
+    "region": "Raisen District",
+    "tags": [
+      "Mahadev",
+      "Heritage",
+      "Sanchi"
+    ],
+    "story": "A local Mahadev shrine in Sanchi with steady community worship.",
+    "highlight": "Stone shrine with a calm heritage setting.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan for calmer visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
   }
 ]
