@@ -20,6 +20,8 @@ const getPlaceholderImage = (name) => {
 
 const ALL_STATES = 'All States'
 const ALL_CITIES = 'All Cities'
+const PAGE_SIZE = 12
+const SEARCH_PAGE_SIZE = 12
 const MODES = {
   SHIVA: 'shiva',
   SHAKTI: 'shakti',
@@ -195,7 +197,7 @@ const copy = {
         'Information here is curated from public sources and community inputs. Details may vary by local tradition and temple administration. Please verify timings, rituals, and access rules with official temple sources before visiting.',
       note: 'If you notice an error, share a correction so we can update it.',
     },
-    footer: 'Sanatan Dharma Portal. Crafted for community, history, and devotion.',
+    footer: 'Jai Bhole Nath Portal. Crafted for community, history, and devotion.',
     modeToggle: {
       label: 'Temple focus',
       shiva: 'Shiva Mode',
@@ -445,6 +447,8 @@ function App() {
   const [storyState, setStoryState] = useState(ALL_STATES)
   const [stateFilterSource, setStateFilterSource] = useState('dropdown')
   const [mode, setMode] = useState(MODES.SHIVA)
+  const [currentPage, setCurrentPage] = useState(1)
+  const [searchPage, setSearchPage] = useState(1)
   const [activeTemple, setActiveTemple] = useState(null)
   const storyModalRef = useRef(null)
   const [modalImageSrc, setModalImageSrc] = useState('')
@@ -539,6 +543,14 @@ function App() {
   }, [activeTemple, visibleTemples])
 
   useEffect(() => {
+    setCurrentPage(1)
+  }, [storyState, mode])
+
+  useEffect(() => {
+    setSearchPage(1)
+  }, [selectedState, selectedCity, searchTerm, mode])
+
+  useEffect(() => {
     document.documentElement.lang = language === 'hi' ? 'hi' : 'en'
   }, [language])
 
@@ -620,6 +632,31 @@ function App() {
   const displayedTemples = storyTemples
   const modeLabel = isShivaMode ? t.modeToggle.shiva : t.modeToggle.shakti
   const storyStateLabel = storyState === ALL_STATES ? t.labels.allStates : storyState
+  const totalPages = Math.max(1, Math.ceil(displayedTemples.length / PAGE_SIZE))
+  const totalSearchPages = Math.max(
+    1,
+    Math.ceil(searchFilteredTemples.length / SEARCH_PAGE_SIZE)
+  )
+  const pagedTemples = displayedTemples.slice(
+    (currentPage - 1) * PAGE_SIZE,
+    currentPage * PAGE_SIZE
+  )
+  const pagedSearchTemples = searchFilteredTemples.slice(
+    (searchPage - 1) * SEARCH_PAGE_SIZE,
+    searchPage * SEARCH_PAGE_SIZE
+  )
+
+  useEffect(() => {
+    if (currentPage > totalPages) {
+      setCurrentPage(totalPages)
+    }
+  }, [currentPage, totalPages])
+
+  useEffect(() => {
+    if (searchPage > totalSearchPages) {
+      setSearchPage(totalSearchPages)
+    }
+  }, [searchPage, totalSearchPages])
 
   const slugify = (value) =>
     String(value || '')
@@ -875,6 +912,63 @@ function App() {
     : []
   const labelForState = (state) => (state === ALL_STATES ? t.panel.allStates : state)
   const labelForCity = (city) => (city === ALL_CITIES ? t.panel.allCities : city)
+
+  const buildPaginationItems = (current, total) => {
+    if (total <= 7) {
+      return Array.from({ length: total }, (_, index) => index + 1)
+    }
+    const items = [1]
+    if (current > 3) items.push('…')
+    const start = Math.max(2, current - 1)
+    const end = Math.min(total - 1, current + 1)
+    for (let page = start; page <= end; page += 1) {
+      items.push(page)
+    }
+    if (current < total - 2) items.push('…')
+    items.push(total)
+    return items
+  }
+
+  const renderPagination = (current, total, onPage) => {
+    if (total <= 1) return null
+    const items = buildPaginationItems(current, total)
+    return (
+      <div className="pagination">
+        <button
+          className="page-btn"
+          type="button"
+          disabled={current === 1}
+          onClick={() => onPage(Math.max(1, current - 1))}
+        >
+          Prev
+        </button>
+        {items.map((item, index) =>
+          item === '…' ? (
+            <span className="page-ellipsis" key={`ellipsis-${index}`}>
+              …
+            </span>
+          ) : (
+            <button
+              className={`page-btn ${item === current ? 'active' : ''}`}
+              type="button"
+              key={item}
+              onClick={() => onPage(item)}
+            >
+              {item}
+            </button>
+          )
+        )}
+        <button
+          className="page-btn"
+          type="button"
+          disabled={current === total}
+          onClick={() => onPage(Math.min(total, current + 1))}
+        >
+          Next
+        </button>
+      </div>
+    )
+  }
   return (
     <div className={`app theme-${mode} ${language === 'hi' ? 'lang-hi' : ''}`}>
       <div className="top-bar">
@@ -945,6 +1039,42 @@ function App() {
       ) : (
         <>
           <section className="stories-section">
+            <svg
+              className="hero-logo"
+              viewBox="0 0 240 240"
+              role="img"
+              aria-label={`${t.portalName} om symbol`}
+            >
+              <defs>
+                <filter id="brush-stroke" x="-20%" y="-20%" width="140%" height="140%">
+                  <feTurbulence
+                    type="fractalNoise"
+                    baseFrequency="0.015"
+                    numOctaves="2"
+                    seed="2"
+                    result="noise"
+                  />
+                  <feDisplacementMap
+                    in="SourceGraphic"
+                    in2="noise"
+                    scale="6"
+                    xChannelSelector="R"
+                    yChannelSelector="G"
+                  />
+                </filter>
+              </defs>
+              <g filter="url(#brush-stroke)">
+                <text
+                  className="hero-logo-mark"
+                  x="50%"
+                  y="55%"
+                  textAnchor="middle"
+                  dominantBaseline="middle"
+                >
+                  ॐ
+                </text>
+              </g>
+            </svg>
             <h1 className="stories-title">{t.heroTitle}</h1>
             <p className="stories-subtitle">{t.heroSubtitle}</p>
             <div className="hero-stats-row">
@@ -1049,7 +1179,7 @@ function App() {
                 <p>{t.searchSection.subtitle(searchFilteredTemples.length)}</p>
               </div>
               <div className="card-grid">
-                {searchFilteredTemples.map((temple, index) => {
+                {pagedSearchTemples.map((temple, index) => {
                   const imageSrc = temple.image ?? getPlaceholderImage(temple.name)
                   const storyText = getTempleText(temple, 'story')
                   const wordCount = storyText ? storyText.trim().split(/\s+/).length : 0
@@ -1104,6 +1234,7 @@ function App() {
                   )
                 })}
               </div>
+              {renderPagination(searchPage, totalSearchPages, setSearchPage)}
               {searchFilteredTemples.length === 0 ? (
                 <div className="empty-state">
                   <h3>{t.searchEmpty.title}</h3>
@@ -1127,7 +1258,7 @@ function App() {
               </div>
             </div>
             <div className="card-grid">
-              {displayedTemples.map((temple, index) => {
+              {pagedTemples.map((temple, index) => {
                 const imageSrc = temple.image ?? getPlaceholderImage(temple.name)
                 const storyText = getTempleText(temple, 'story')
                 const wordCount = storyText ? storyText.trim().split(/\s+/).length : 0
@@ -1183,6 +1314,7 @@ function App() {
                 )
               })}
             </div>
+            {renderPagination(currentPage, totalPages, setCurrentPage)}
             {displayedTemples.length === 0 ? (
               <div className="empty-state">
                 <h3>{t.emptyState.title}</h3>
