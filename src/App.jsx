@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import './App.css'
 import { templeData, shaktiTempleData } from './data/temples'
 import { andhraPradeshTemples } from './data/temples/andhraPradesh'
+import { recentDiscoveries } from './data/recentDiscoveries'
 import { pickBestCommonsImage, searchCommonsImages } from './utils/commons'
 
 const placeholderImages = [
@@ -22,6 +23,7 @@ const ALL_STATES = 'All States'
 const ALL_CITIES = 'All Cities'
 const PAGE_SIZE = 12
 const SEARCH_PAGE_SIZE = 12
+const RECENT_PAGE_SIZE = 6
 const MODES = {
   SHIVA: 'shiva',
   SHAKTI: 'shakti',
@@ -42,6 +44,9 @@ const FOCUS_STATES = [
   'Kerala',
   'Odisha',
   'Andhra Pradesh',
+  'Bihar',
+  'Jharkhand',
+  'Chhattisgarh',
 ]
 
 const copy = {
@@ -64,6 +69,7 @@ const copy = {
     nav: {
       label: 'Primary navigation',
       temples: 'Temples',
+      recent: 'Recent Discoveries',
       about: 'About',
     },
     stats: {
@@ -197,6 +203,23 @@ const copy = {
         'Information here is curated from public sources and community inputs. Details may vary by local tradition and temple administration. Please verify timings, rituals, and access rules with official temple sources before visiting.',
       note: 'If you notice an error, share a correction so we can update it.',
     },
+    recentSection: {
+      title: 'Recent Discoveries',
+      subtitle:
+        'Newly reported or rediscovered Shiva shrines, temple bases, and sacred finds. Some details are still being verified.',
+      emptyTitle: 'More discoveries are on the way.',
+      emptyBody: 'We will add newly reported finds as they are verified. Check back soon.',
+      shaktiOnlyTitle: 'Available in Shiva mode',
+      shaktiOnlyBody: 'This section tracks Shaiva discoveries. Switch to Shiva mode to view it.',
+      note:
+        'These entries summarize recent reports. Rituals, access, and exact chronology may evolve as research continues.',
+      pending: 'Details pending',
+      labels: {
+        period: 'Estimated era',
+        source: 'Source',
+        status: 'Status',
+      },
+    },
     footer: 'Jai Bhole Nath Portal. Crafted for community, history, and devotion.',
     modeToggle: {
       label: 'Temple focus',
@@ -261,6 +284,7 @@ const copy = {
     nav: {
       label: 'मुख्य नेविगेशन',
       temples: 'मंदिर',
+      recent: 'हाल की खोजें',
       about: 'परिचय',
     },
     stats: {
@@ -391,6 +415,23 @@ const copy = {
         'यहाँ दी गई जानकारी सार्वजनिक स्रोतों और समुदाय इनपुट से संकलित है। स्थानीय परंपराओं और मंदिर प्रशासन के अनुसार विवरण बदल सकते हैं। कृपया यात्रा से पहले आधिकारिक स्रोतों से समय, अनुष्ठान और प्रवेश नियम सत्यापित करें।',
       note: 'यदि कोई त्रुटि दिखे तो सुधार साझा करें ताकि हम अपडेट कर सकें।',
     },
+    recentSection: {
+      title: 'हाल की शैव खोजें',
+      subtitle:
+        'हाल में रिपोर्ट हुई या पुनः खोजी गई शिव स्थलों की झलक। कुछ विवरण अभी सत्यापन में हैं।',
+      emptyTitle: 'और खोजें जल्द जोड़ी जाएंगी।',
+      emptyBody: 'सत्यापन के साथ नई खोजें जोड़ी जाती रहेंगी।',
+      shaktiOnlyTitle: 'केवल शिव मोड में उपलब्ध',
+      shaktiOnlyBody: 'यह अनुभाग शैव खोजों के लिए है। शिव मोड में देखें।',
+      note:
+        'यह प्रविष्टियाँ हाल की रिपोर्टों का सार हैं; अनुष्ठान, प्रवेश और कालक्रम पर अतिरिक्त शोध चल रहा हो सकता है।',
+      pending: 'विवरण अपडेट होना बाकी',
+      labels: {
+        period: 'अनुमानित काल',
+        source: 'स्रोत',
+        status: 'स्थिति',
+      },
+    },
     footer: 'सनातन धर्म पोर्टल। समुदाय, इतिहास और भक्ति के लिए समर्पित।',
     modeToggle: {
       label: 'केंद्र',
@@ -449,6 +490,7 @@ function App() {
   const [mode, setMode] = useState(MODES.SHIVA)
   const [currentPage, setCurrentPage] = useState(1)
   const [searchPage, setSearchPage] = useState(1)
+  const [recentPage, setRecentPage] = useState(1)
   const [activeTemple, setActiveTemple] = useState(null)
   const storyModalRef = useRef(null)
   const [modalImageSrc, setModalImageSrc] = useState('')
@@ -456,6 +498,7 @@ function App() {
   const [auditStatus, setAuditStatus] = useState({ running: false, total: 0, done: 0 })
   const t = copy[language]
   const isAbout = activePage === 'about'
+  const isRecent = activePage === 'recent'
   const isShivaMode = mode === MODES.SHIVA
   const shaktiStates = useMemo(() => {
     const seen = new Set()
@@ -489,6 +532,11 @@ function App() {
   const themedTemples = useMemo(() => {
     return safeTempleData
   }, [isShivaMode, safeTempleData])
+
+  const recentItems = useMemo(
+    () => (isShivaMode ? recentDiscoveries : []),
+    [isShivaMode, recentDiscoveries]
+  )
 
   const visibleTemples = useMemo(
     () => themedTemples.filter((item) => activeStates.includes(item.state)),
@@ -545,6 +593,10 @@ function App() {
   useEffect(() => {
     setCurrentPage(1)
   }, [storyState, mode])
+
+  useEffect(() => {
+    setRecentPage(1)
+  }, [mode])
 
   useEffect(() => {
     setSearchPage(1)
@@ -637,6 +689,10 @@ function App() {
     1,
     Math.ceil(searchFilteredTemples.length / SEARCH_PAGE_SIZE)
   )
+  const totalRecentPages = Math.max(
+    1,
+    Math.ceil(recentItems.length / RECENT_PAGE_SIZE)
+  )
   const pagedTemples = displayedTemples.slice(
     (currentPage - 1) * PAGE_SIZE,
     currentPage * PAGE_SIZE
@@ -644,6 +700,10 @@ function App() {
   const pagedSearchTemples = searchFilteredTemples.slice(
     (searchPage - 1) * SEARCH_PAGE_SIZE,
     searchPage * SEARCH_PAGE_SIZE
+  )
+  const pagedRecentItems = recentItems.slice(
+    (recentPage - 1) * RECENT_PAGE_SIZE,
+    recentPage * RECENT_PAGE_SIZE
   )
 
   useEffect(() => {
@@ -657,6 +717,12 @@ function App() {
       setSearchPage(totalSearchPages)
     }
   }, [searchPage, totalSearchPages])
+
+  useEffect(() => {
+    if (recentPage > totalRecentPages) {
+      setRecentPage(totalRecentPages)
+    }
+  }, [recentPage, totalRecentPages])
 
   const slugify = (value) =>
     String(value || '')
@@ -997,6 +1063,13 @@ function App() {
               {t.nav.temples}
             </button>
             <button
+              className={`top-nav-link ${activePage === 'recent' ? 'active' : ''}`}
+              type="button"
+              onClick={() => switchPage('recent')}
+            >
+              {t.nav.recent}
+            </button>
+            <button
               className={`top-nav-link ${activePage === 'about' ? 'active' : ''}`}
               type="button"
               onClick={() => switchPage('about')}
@@ -1036,6 +1109,63 @@ function App() {
             </div>
           </section>
         </>
+      ) : isRecent ? (
+        <section className="cards discoveries-section" id="recent-discoveries">
+          <div className="section-header">
+            <h2>{t.recentSection.title}</h2>
+            <p>{t.recentSection.subtitle}</p>
+          </div>
+          {isShivaMode && recentItems.length ? (
+            <>
+              <div className="discovery-grid">
+                {pagedRecentItems.map((item, index) => {
+                  const source = item.sources?.[0]
+                  const summary = item.summary || t.recentSection.pending
+                  const period = item.period || t.recentSection.pending
+                  const year = item.yearDiscovered || t.recentSection.pending
+                  const status = item.status || t.recentSection.pending
+                  const location = item.location || t.recentSection.pending
+                  return (
+                    <article className="discovery-card" key={`${item.name}-${index}`}>
+                      <div className="discovery-header">
+                        <span className="discovery-badge">{status}</span>
+                        <span className="discovery-year">{year}</span>
+                      </div>
+                      <h3>{item.name}</h3>
+                      <p className="discovery-location">{location}</p>
+                      <p className="discovery-summary">{summary}</p>
+                      <div className="discovery-details">
+                        <div className="discovery-detail">
+                          <span>{t.recentSection.labels.period}</span>
+                          <p>{period}</p>
+                        </div>
+                        <div className="discovery-detail">
+                          <span>{t.recentSection.labels.source}</span>
+                          {source ? (
+                            <a href={source.url} target="_blank" rel="noreferrer">
+                              {source.label}
+                            </a>
+                          ) : (
+                            <p>{t.recentSection.pending}</p>
+                          )}
+                        </div>
+                      </div>
+                    </article>
+                  )
+                })}
+              </div>
+              {renderPagination(recentPage, totalRecentPages, setRecentPage)}
+              <p className="discovery-note">{t.recentSection.note}</p>
+            </>
+          ) : (
+            <div className="empty-state">
+              <h3>
+                {isShivaMode ? t.recentSection.emptyTitle : t.recentSection.shaktiOnlyTitle}
+              </h3>
+              <p>{isShivaMode ? t.recentSection.emptyBody : t.recentSection.shaktiOnlyBody}</p>
+            </div>
+          )}
+        </section>
       ) : (
         <>
           <section className="stories-section">
