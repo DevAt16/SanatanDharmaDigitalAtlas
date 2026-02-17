@@ -10,6 +10,9 @@ import { karnatakaTemples } from './karnataka.js'
 import { keralaTemples } from './kerala.js'
 import { odishaTemples } from './odisha.js'
 import { andhraPradeshTemples } from './andhraPradesh.js'
+import { biharTemples } from './bihar.js'
+import { jharkhandTemples } from './jharkhand.js'
+import { chattisgarhTemples } from './chattisgarh.js'
 import { madhyaPradeshShaktiTemples } from './madhyaPradesh-shakti.js'
 import { rajasthanShaktiTemples } from './rajasthan-shakti.js'
 import { uttarPradeshShaktiTemples } from './uttarPradesh-shakti.js'
@@ -28,6 +31,9 @@ export const templeData = [
   ...keralaTemples,
   ...odishaTemples,
   ...andhraPradeshTemples,
+  ...biharTemples,
+  ...jharkhandTemples,
+  ...chattisgarhTemples,
 ]
 
 export const shaktiTempleData = [
