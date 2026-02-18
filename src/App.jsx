@@ -43,11 +43,26 @@ const FOCUS_STATES = [
   'Karnataka',
   'Kerala',
   'Odisha',
+  'Haryana',
   'Andhra Pradesh',
   'Bihar',
+  'Tripura',
+  'Arunachal Pradesh',
   'Jharkhand',
+  'Assam',
+  'Telangana',
   'Chhattisgarh',
 ]
+const PAGE_TRACKING_PATHS = {
+  temples: '/temples',
+  recent: '/recent-discoveries',
+  about: '/about',
+}
+const PAGE_TRACKING_TITLES = {
+  temples: 'Temples',
+  recent: 'Recent Discoveries',
+  about: 'About',
+}
 
 const copy = {
   en: {
@@ -493,6 +508,7 @@ function App() {
   const [recentPage, setRecentPage] = useState(1)
   const [activeTemple, setActiveTemple] = useState(null)
   const storyModalRef = useRef(null)
+  const hasTrackedInitialPage = useRef(false)
   const [modalImageSrc, setModalImageSrc] = useState('')
   const [isPortraitImage, setIsPortraitImage] = useState(false)
   const [auditStatus, setAuditStatus] = useState({ running: false, total: 0, done: 0 })
@@ -605,6 +621,23 @@ function App() {
   useEffect(() => {
     document.documentElement.lang = language === 'hi' ? 'hi' : 'en'
   }, [language])
+
+  useEffect(() => {
+    if (!hasTrackedInitialPage.current) {
+      hasTrackedInitialPage.current = true
+      return
+    }
+    if (typeof window === 'undefined' || typeof window.gtag !== 'function') {
+      return
+    }
+    const pagePath = PAGE_TRACKING_PATHS[activePage] || PAGE_TRACKING_PATHS.temples
+    const pageTitle = PAGE_TRACKING_TITLES[activePage] || PAGE_TRACKING_TITLES.temples
+    window.gtag('event', 'page_view', {
+      page_title: `Jai Bhole Nath - ${pageTitle}`,
+      page_path: pagePath,
+      page_location: `${window.location.origin}${pagePath}`,
+    })
+  }, [activePage])
 
   useEffect(() => {
     if (!activeTemple) {
@@ -897,6 +930,52 @@ function App() {
     }
   }
 
+  const trackAnalyticsEvent = (eventName, params = {}) => {
+    if (typeof window === 'undefined' || typeof window.gtag !== 'function') {
+      return
+    }
+    window.gtag('event', eventName, params)
+  }
+
+  const handleStateChange = (nextState, source = 'dropdown') => {
+    setSelectedState(nextState)
+    setStateFilterSource(source)
+    trackAnalyticsEvent('filter_state_change', {
+      filter_state: nextState,
+      filter_source: source,
+      active_page: activePage,
+    })
+  }
+
+  const handleCityChange = (nextCity) => {
+    setSelectedCity(nextCity)
+    trackAnalyticsEvent('filter_city_change', {
+      filter_city: nextCity,
+      active_page: activePage,
+    })
+  }
+
+  const handlePageChange = (nextPage, currentPageValue, onPage, context) => {
+    if (nextPage === currentPageValue) return
+    onPage(nextPage)
+    trackAnalyticsEvent('pagination_click', {
+      pagination_context: context,
+      page_number: nextPage,
+      active_page: activePage,
+    })
+  }
+
+  const openTempleStory = (temple, context) => {
+    setActiveTemple(temple)
+    trackAnalyticsEvent('temple_story_open', {
+      temple_name: temple?.name || '',
+      temple_state: temple?.state || '',
+      temple_city: temple?.city || '',
+      open_context: context,
+      active_page: activePage,
+    })
+  }
+
   const getTempleText = (temple, key) => {
     if (!temple) {
       return ''
@@ -995,7 +1074,7 @@ function App() {
     return items
   }
 
-  const renderPagination = (current, total, onPage) => {
+  const renderPagination = (current, total, onPage, context) => {
     if (total <= 1) return null
     const items = buildPaginationItems(current, total)
     return (
@@ -1004,7 +1083,9 @@ function App() {
           className="page-btn"
           type="button"
           disabled={current === 1}
-          onClick={() => onPage(Math.max(1, current - 1))}
+          onClick={() =>
+            handlePageChange(Math.max(1, current - 1), current, onPage, context)
+          }
         >
           Prev
         </button>
@@ -1018,7 +1099,7 @@ function App() {
               className={`page-btn ${item === current ? 'active' : ''}`}
               type="button"
               key={item}
-              onClick={() => onPage(item)}
+              onClick={() => handlePageChange(item, current, onPage, context)}
             >
               {item}
             </button>
@@ -1028,7 +1109,9 @@ function App() {
           className="page-btn"
           type="button"
           disabled={current === total}
-          onClick={() => onPage(Math.min(total, current + 1))}
+          onClick={() =>
+            handlePageChange(Math.min(total, current + 1), current, onPage, context)
+          }
         >
           Next
         </button>
@@ -1154,7 +1237,7 @@ function App() {
                   )
                 })}
               </div>
-              {renderPagination(recentPage, totalRecentPages, setRecentPage)}
+              {renderPagination(recentPage, totalRecentPages, setRecentPage, 'recent')}
               <p className="discovery-note">{t.recentSection.note}</p>
             </>
           ) : (
@@ -1169,123 +1252,124 @@ function App() {
       ) : (
         <>
           <section className="stories-section">
-            <svg
-              className="hero-logo"
-              viewBox="0 0 240 240"
-              role="img"
-              aria-label={`${t.portalName} om symbol`}
-            >
-              <defs>
-                <filter id="brush-stroke" x="-20%" y="-20%" width="140%" height="140%">
-                  <feTurbulence
-                    type="fractalNoise"
-                    baseFrequency="0.015"
-                    numOctaves="2"
-                    seed="2"
-                    result="noise"
-                  />
-                  <feDisplacementMap
-                    in="SourceGraphic"
-                    in2="noise"
-                    scale="6"
-                    xChannelSelector="R"
-                    yChannelSelector="G"
-                  />
-                </filter>
-              </defs>
-              <g filter="url(#brush-stroke)">
-                <text
-                  className="hero-logo-mark"
-                  x="50%"
-                  y="55%"
-                  textAnchor="middle"
-                  dominantBaseline="middle"
-                >
-                  ॐ
-                </text>
-              </g>
-            </svg>
-            <h1 className="stories-title">{t.heroTitle}</h1>
-            <p className="stories-subtitle">{t.heroSubtitle}</p>
-            <div className="hero-stats-row">
-              <div className="hero-stat">
-                <span className="hero-stat-number">{templeStats.temples.toLocaleString()}</span>
-                <span className="hero-stat-label">{t.stats.temples}</span>
-              </div>
-              <div className="hero-stat">
-                <span className="hero-stat-number">{templeStats.cities.toLocaleString()}</span>
-                <span className="hero-stat-label">{t.stats.cities}</span>
-              </div>
-              <div className="hero-stat">
-                <span className="hero-stat-number">{templeStats.states.toLocaleString()}</span>
-                <span className="hero-stat-label">{t.stats.states}</span>
-              </div>
-            </div>
-
-            <div className="filters-container">
-              <label className="input-group" htmlFor="filter-state">
-                <select
-                  id="filter-state"
-                  value={selectedState}
-                  onChange={(event) => {
-                    setSelectedState(event.target.value)
-                    setStateFilterSource('dropdown')
-                  }}
-                >
-                  {states.map((state) => (
-                    <option key={state} value={state}>
-                      {labelForState(state)}
-                    </option>
-                  ))}
-                </select>
-                <i className="fa-solid fa-chevron-down input-icon" aria-hidden="true" />
-              </label>
-
-              <label className="input-group" htmlFor="filter-city">
-                <select
-                  id="filter-city"
-                  value={selectedCity}
-                  onChange={(event) => setSelectedCity(event.target.value)}
-                >
-                  {cities.map((city) => (
-                    <option key={city} value={city}>
-                      {labelForCity(city)}
-                    </option>
-                  ))}
-                </select>
-                <i className="fa-solid fa-chevron-down input-icon" aria-hidden="true" />
-              </label>
-
-              <label className="input-group search-wrapper" htmlFor="filter-search">
-                <i className="fa-solid fa-magnifying-glass input-icon" aria-hidden="true" />
-                <input
-                  id="filter-search"
-                  type="text"
-                  value={searchTerm}
-                  onChange={(event) => setSearchTerm(event.target.value)}
-                  placeholder={t.panel.searchPlaceholder}
-                />
-              </label>
-            </div>
-            {activeStates.length ? (
-              <div className="state-quicklist" role="group" aria-label="Story states">
-                {[ALL_STATES, ...activeStates].map((state) => (
-                  <button
-                    key={state}
-                    className={`state-chip ${storyState === state ? 'active' : ''}`}
-                    type="button"
-                    onClick={() => {
-                      const nextState = storyState === state ? ALL_STATES : state
-                      setStoryState(nextState)
-                      setSelectedState(nextState)
-                      setStateFilterSource('chip')
-                    }}
+            <div className="stories-hero-shell">
+              <p className="stories-kicker">{t.portalName}</p>
+              <svg
+                className="hero-logo"
+                viewBox="0 0 240 240"
+                role="img"
+                aria-label={`${t.portalName} om symbol`}
+              >
+                <defs>
+                  <filter id="brush-stroke" x="-20%" y="-20%" width="140%" height="140%">
+                    <feTurbulence
+                      type="fractalNoise"
+                      baseFrequency="0.015"
+                      numOctaves="2"
+                      seed="2"
+                      result="noise"
+                    />
+                    <feDisplacementMap
+                      in="SourceGraphic"
+                      in2="noise"
+                      scale="6"
+                      xChannelSelector="R"
+                      yChannelSelector="G"
+                    />
+                  </filter>
+                </defs>
+                <g filter="url(#brush-stroke)">
+                  <text
+                    className="hero-logo-mark"
+                    x="50%"
+                    y="55%"
+                    textAnchor="middle"
+                    dominantBaseline="middle"
                   >
-                    {state === ALL_STATES ? t.labels.allStates : state}
-                  </button>
-                ))}
+                    ॐ
+                  </text>
+                </g>
+              </svg>
+              <h1 className="stories-title">{t.heroTitle}</h1>
+              <p className="stories-subtitle">{t.heroSubtitle}</p>
+              <div className="stories-ornament" aria-hidden="true" />
+              <div className="hero-stats-row">
+                <div className="hero-stat">
+                  <span className="hero-stat-number">{templeStats.temples.toLocaleString()}</span>
+                  <span className="hero-stat-label">{t.stats.temples}</span>
+                </div>
+                <div className="hero-stat">
+                  <span className="hero-stat-number">{templeStats.cities.toLocaleString()}</span>
+                  <span className="hero-stat-label">{t.stats.cities}</span>
+                </div>
+                <div className="hero-stat">
+                  <span className="hero-stat-number">{templeStats.states.toLocaleString()}</span>
+                  <span className="hero-stat-label">{t.stats.states}</span>
+                </div>
               </div>
-            ) : null}
+              <div className="stories-filter-wrap">
+                <div className="filters-container">
+                  <label className="input-group" htmlFor="filter-state">
+                    <select
+                      id="filter-state"
+                      value={selectedState}
+                      onChange={(event) => handleStateChange(event.target.value, 'dropdown')}
+                    >
+                      {states.map((state) => (
+                        <option key={state} value={state}>
+                          {labelForState(state)}
+                        </option>
+                      ))}
+                    </select>
+                    <i className="fa-solid fa-chevron-down input-icon" aria-hidden="true" />
+                  </label>
+
+                  <label className="input-group" htmlFor="filter-city">
+                    <select
+                      id="filter-city"
+                      value={selectedCity}
+                      onChange={(event) => handleCityChange(event.target.value)}
+                    >
+                      {cities.map((city) => (
+                        <option key={city} value={city}>
+                          {labelForCity(city)}
+                        </option>
+                      ))}
+                    </select>
+                    <i className="fa-solid fa-chevron-down input-icon" aria-hidden="true" />
+                  </label>
+
+                  <label className="input-group search-wrapper" htmlFor="filter-search">
+                    <i className="fa-solid fa-magnifying-glass input-icon" aria-hidden="true" />
+                    <input
+                      id="filter-search"
+                      type="text"
+                      value={searchTerm}
+                      onChange={(event) => setSearchTerm(event.target.value)}
+                      placeholder={t.panel.searchPlaceholder}
+                    />
+                  </label>
+                </div>
+              </div>
+              {activeStates.length ? (
+                <div className="state-quicklist" role="group" aria-label="Story states">
+                  {[ALL_STATES, ...activeStates].map((state) => (
+                    <button
+                      key={state}
+                      className={`state-chip ${storyState === state ? 'active' : ''}`}
+                      type="button"
+                      onClick={() => {
+                        const nextState = storyState === state ? ALL_STATES : state
+                        setStoryState(nextState)
+                        handleStateChange(nextState, 'chip')
+                      }}
+                    >
+                      {state === ALL_STATES ? t.labels.allStates : state}
+                    </button>
+                  ))}
+                </div>
+              ) : null}
+            </div>
             {typeof import.meta !== 'undefined' && import.meta.env && import.meta.env.DEV ? (
               <div className="hero-audit-row">
                 <button
@@ -1355,7 +1439,7 @@ function App() {
                         <button
                           className="card-action"
                           type="button"
-                          onClick={() => setActiveTemple(temple)}
+                          onClick={() => openTempleStory(temple, 'search_results')}
                         >
                           {t.readFullStory}
                         </button>
@@ -1364,7 +1448,7 @@ function App() {
                   )
                 })}
               </div>
-              {renderPagination(searchPage, totalSearchPages, setSearchPage)}
+              {renderPagination(searchPage, totalSearchPages, setSearchPage, 'search')}
               {searchFilteredTemples.length === 0 ? (
                 <div className="empty-state">
                   <h3>{t.searchEmpty.title}</h3>
@@ -1435,7 +1519,7 @@ function App() {
                       <button
                         className="card-action"
                         type="button"
-                        onClick={() => setActiveTemple(temple)}
+                        onClick={() => openTempleStory(temple, 'temple_cards')}
                       >
                         {t.readFullStory}
                       </button>
@@ -1444,7 +1528,7 @@ function App() {
                 )
               })}
             </div>
-            {renderPagination(currentPage, totalPages, setCurrentPage)}
+            {renderPagination(currentPage, totalPages, setCurrentPage, 'temples')}
             {displayedTemples.length === 0 ? (
               <div className="empty-state">
                 <h3>{t.emptyState.title}</h3>
