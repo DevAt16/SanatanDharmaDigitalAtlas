@@ -1,5 +1,4 @@
 export const westBengalTemples = [
-
   {
     "name": "Char Bangla Temples",
     "state": "West Bengal",
@@ -516,9 +515,7 @@ export const westBengalTemples = [
         }
       ]
     }
-  }
-  ,
-
+  },
   {
     "name": "Kurumbera Fort Shiva Temple",
     "state": "West Bengal",
@@ -948,9 +945,7 @@ export const westBengalTemples = [
         }
       ]
     }
-  }
-  ,
-
+  },
   {
     "name": "Begunia Shiva Temples",
     "state": "West Bengal",
@@ -1382,8 +1377,7 @@ export const westBengalTemples = [
         }
       ]
     }
-  }
-  ,
+  },
   {
     "name": "Malleswar Temple",
     "state": "West Bengal",
@@ -1816,8 +1810,7 @@ export const westBengalTemples = [
         }
       ]
     }
-  }
-  ,
+  },
   {
     "name": "Dakshineswar Kali Temple",
     "state": "West Bengal",
@@ -3134,50 +3127,6 @@ export const westBengalTemples = [
         {
           "label": "Bakreswar Temple (Birbhum district)",
           "url": "https://birbhum.gov.in/tourist-place/bakreshwar/"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Nandikeshwari Temple",
-    "state": "West Bengal",
-    "city": "Sainthia",
-    "region": "Birbhum",
-    "tags": [
-      "Shakti Peetha",
-      "Sainthia",
-      "Devi"
-    ],
-    "story": "A revered Shakti Peetha in Sainthia dedicated to Goddess Nandikeshwari.",
-    "highlight": "An established Devi shrine in the town of Sainthia.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nakdikeshwari%20Idol.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nakdikeshwari_Idol.jpg",
-    "deity": "Nandikeshwari (Sati)",
-    "tradition": "Shakta",
-    "bestTime": "Navratri and early mornings.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Festivals draw larger crowds and longer queues.",
-    "rituals": [
-      "Daily puja",
-      "Evening aarti"
-    ],
-    "festivals": [
-      "Navratri",
-      "Kali Puja"
-    ],
-    "moreDetails": {
-      "history": "Nandikeshwari Temple, also known as Nandikeshwari Tala, is a Shakta Peetha in Sainthia, Birbhum district.",
-      "architecture": "Town temple complex with a focused Devi sanctum.",
-      "darshan": "Darshan follows daily ritual timings and aarti.",
-      "seasonal": "Navratri is the busiest season.",
-      "visitorNotes": "Plan for queues during major festivals.",
-      "festivals": "Navratri · Kali Puja",
-      "sources": [
-        {
-          "label": "Nandikeshwari Temple",
-          "url": "https://en.wikipedia.org/wiki/Nandikeshwari_Temple"
         }
       ]
     }

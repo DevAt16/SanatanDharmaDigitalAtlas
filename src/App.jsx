@@ -53,6 +53,30 @@ const FOCUS_STATES = [
   'Telangana',
   'Chhattisgarh',
 ]
+const normalizeTempleKey = (value) =>
+  String(value || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '')
+
+const CANONICAL_JYOTIRLINGA_KEYS = new Set(
+  [
+    ['Somnath Temple', 'Gujarat', 'Prabhas Patan'],
+    ['Mallikarjuna Swamy Temple', 'Andhra Pradesh', 'Srisailam'],
+    ['Mahakaleshwar Temple', 'Madhya Pradesh', 'Ujjain'],
+    ['Omkareshwar Temple', 'Madhya Pradesh', 'Omkareshwar'],
+    ['Kedarnath Temple', 'Uttarakhand', 'Kedarnath'],
+    ['Bhimashankar Temple', 'Maharashtra', 'Bhimashankar'],
+    ['Kashi Vishwanath Temple', 'Uttar Pradesh', 'Varanasi'],
+    ['Trimbakeshwar Shiva Temple', 'Maharashtra', 'Trimbak'],
+    ['Baidyanath Jyotirlinga', 'Jharkhand', 'Deoghar'],
+    ['Nageshvara Jyotirlinga', 'Gujarat', 'Dwarka'],
+    ['Ramanathaswamy Temple', 'Tamil Nadu', 'Rameswaram'],
+    ['Grishneshwar Temple', 'Maharashtra', 'Verul'],
+  ].map(
+    ([name, state, city]) =>
+      `${normalizeTempleKey(name)}|${normalizeTempleKey(state)}|${normalizeTempleKey(city)}`
+  )
+)
 const PAGE_TRACKING_PATHS = {
   temples: '/temples',
   recent: '/recent-discoveries',
@@ -69,17 +93,30 @@ const copy = {
     portalName: 'Jai Bhole Nath',
     heroTitle: 'Temple Stories',
     heroSubtitle:
-      "A curated collection of narratives, legends, and living traditions from India's sacred spaces.",
+      "Discover India's Shiva temples through stories, rituals, and living traditions.",
     heroActions: {
       start: 'Start a Journey',
-      view: 'View Temple Stories',
-      search: 'Find a Temple',
+      view: "Start with Editor's Picks",
+      search: 'Browse by State',
     },
     heroStory: {
       eyebrow: 'Featured story',
       title: 'A curated temple story for today',
       read: 'Read story',
       browse: "Browse editor's picks",
+    },
+    heroProof: {
+      sources: 'Verified entries',
+    },
+    heroJourneys: {
+      title: 'Quick journeys',
+      items: [
+        { label: 'Jyotirlinga', term: 'jyotirlinga' },
+        { label: 'Ancient', term: 'ancient' },
+        { label: 'Ritual-rich', term: 'aarti' },
+        { label: 'Riverside', term: 'river' },
+        { label: 'Festival-heavy', term: 'mahashivratri' },
+      ],
     },
     nav: {
       label: 'Primary navigation',
@@ -99,6 +136,7 @@ const copy = {
       searchPlaceholder: 'Search',
       stateLabel: 'State',
       cityLabel: 'City',
+      storyStateLabel: 'Story section state',
       deityLabel: 'Deity',
       traditionLabel: 'Tradition',
       festivalLabel: 'Festival',
@@ -284,17 +322,30 @@ const copy = {
     portalName: 'जय भोलेनाथ',
     heroTitle: 'मंदिर कथाएँ',
     heroSubtitle:
-      'भारत के पवित्र स्थलों की कथाओं, लोकपरंपराओं और जीवंत साधनाओं का क्यूरेटेड संग्रह।',
+      'भारत के शिव मंदिरों को कथाओं, अनुष्ठानों और जीवंत परंपराओं के माध्यम से जानें।',
     heroActions: {
       start: 'यात्रा शुरू करें',
-      view: 'मंदिर कथाएँ देखें',
-      search: 'मंदिर खोजें',
+      view: 'संपादक चयन से शुरू करें',
+      search: 'राज्य के अनुसार देखें',
     },
     heroStory: {
       eyebrow: 'चयनित कथा',
       title: 'आज की क्यूरेटेड मंदिर कथा',
       read: 'कथा पढ़ें',
       browse: 'चयनित मंदिर देखें',
+    },
+    heroProof: {
+      sources: 'सत्यापित प्रविष्टियाँ',
+    },
+    heroJourneys: {
+      title: 'त्वरित यात्राएँ',
+      items: [
+        { label: 'ज्योतिर्लिंग', term: 'jyotirlinga' },
+        { label: 'प्राचीन', term: 'ancient' },
+        { label: 'अनुष्ठान-समृद्ध', term: 'aarti' },
+        { label: 'नदी तट', term: 'river' },
+        { label: 'त्योहार-प्रधान', term: 'mahashivratri' },
+      ],
     },
     nav: {
       label: 'मुख्य नेविगेशन',
@@ -314,6 +365,7 @@ const copy = {
       searchPlaceholder: 'खोजें',
       stateLabel: 'राज्य',
       cityLabel: 'शहर',
+      storyStateLabel: 'कथा अनुभाग राज्य',
       deityLabel: 'देवता',
       traditionLabel: 'संप्रदाय',
       festivalLabel: 'त्योहार',
@@ -495,14 +547,15 @@ const copy = {
 }
 
 function App() {
-  const [language, setLanguage] = useState('en')
+  const [language, _setLanguage] = useState('en')
   const [activePage, setActivePage] = useState('temples')
   const [selectedState, setSelectedState] = useState(ALL_STATES)
   const [selectedCity, setSelectedCity] = useState(ALL_CITIES)
   const [searchTerm, setSearchTerm] = useState('')
+  const [editorJourneyFilter, setEditorJourneyFilter] = useState('')
   const [storyState, setStoryState] = useState(ALL_STATES)
   const [stateFilterSource, setStateFilterSource] = useState('dropdown')
-  const [mode, setMode] = useState(MODES.SHIVA)
+  const [mode, _setMode] = useState(MODES.SHIVA)
   const [currentPage, setCurrentPage] = useState(1)
   const [searchPage, setSearchPage] = useState(1)
   const [recentPage, setRecentPage] = useState(1)
@@ -526,7 +579,7 @@ function App() {
       list.push(temple.state)
     })
     return list
-  }, [shaktiTempleData])
+  }, [])
   const activeStates = useMemo(
     () => (isShivaMode ? FOCUS_STATES : shaktiStates),
     [isShivaMode, shaktiStates]
@@ -539,19 +592,17 @@ function App() {
       return STATE_TEMPLE_OVERRIDES[selectedState]
     }
     return templeData
-  }, [isShivaMode, selectedState, shaktiTempleData])
+  }, [isShivaMode, selectedState])
   const safeTempleData = useMemo(
     () => baseTempleData.filter((item) => item && typeof item === 'object'),
     [baseTempleData]
   )
 
-  const themedTemples = useMemo(() => {
-    return safeTempleData
-  }, [isShivaMode, safeTempleData])
+  const themedTemples = safeTempleData
 
   const recentItems = useMemo(
     () => (isShivaMode ? recentDiscoveries : []),
-    [isShivaMode, recentDiscoveries]
+    [isShivaMode]
   )
 
   const visibleTemples = useMemo(
@@ -573,14 +624,28 @@ function App() {
     }
   }, [statTemples])
 
+  const sourcedTemplesCount = useMemo(
+    () =>
+      statTemples.filter((item) => {
+        const details = item?.moreDetails
+        if (!details) return false
+        return Boolean(
+          details.sources?.length || details.puranicSources?.length || details.folkloreSources?.length
+        )
+      }).length,
+    [statTemples]
+  )
+
   const cities = useMemo(() => {
     const pool =
       selectedState === ALL_STATES
         ? visibleTemples
         : visibleTemples.filter((item) => item.state === selectedState)
-    const unique = Array.from(new Set(pool.map((item) => item.city)))
+    const unique = Array.from(new Set(pool.map((item) => item.city).filter(Boolean))).sort((a, b) =>
+      a.localeCompare(b, language === 'hi' ? 'hi-IN' : 'en-IN')
+    )
     return [ALL_CITIES, ...unique]
-  }, [selectedState, visibleTemples])
+  }, [selectedState, visibleTemples, language])
 
   useEffect(() => {
     if (!cities.includes(selectedCity)) {
@@ -683,14 +748,14 @@ function App() {
     probe.src = imageSrc
   }, [activeTemple])
 
+  const normalizedSearch = searchTerm.trim().toLowerCase()
   const searchActive =
     (stateFilterSource === 'dropdown' && selectedState !== ALL_STATES) ||
     selectedCity !== ALL_CITIES ||
-    searchTerm.trim()
+    normalizedSearch.length > 0
   const searchFilteredTemples = visibleTemples.filter((item) => {
     const matchState = selectedState === ALL_STATES || item.state === selectedState
     const matchCity = selectedCity === ALL_CITIES || item.city === selectedCity
-    const normalizedSearch = searchTerm.trim().toLowerCase()
     const matchSearch = normalizedSearch
       ? [
           item.name,
@@ -700,23 +765,96 @@ function App() {
           item.deity,
           item.tradition,
           item.story,
+          item.storyHi,
           item.highlight,
+          item.highlightHi,
           ...(item.tags ?? []),
+          ...(item.tagsHi ?? []),
           ...(item.rituals ?? []),
+          ...(item.ritualsHi ?? []),
           ...(item.festivals ?? []),
+          ...(item.festivalsHi ?? []),
         ]
           .filter(Boolean)
-          .some((value) => value.toLowerCase().includes(normalizedSearch))
+          .some((value) => String(value).toLowerCase().includes(normalizedSearch))
       : true
     return matchState && matchCity && matchSearch
   })
 
+  const templeMatchesTerm = (item, term) => {
+    if (!term) return true
+    return [
+      item.name,
+      item.city,
+      item.state,
+      item.region,
+      item.deity,
+      item.tradition,
+      item.story,
+      item.storyHi,
+      item.highlight,
+      item.highlightHi,
+      ...(item.tags ?? []),
+      ...(item.tagsHi ?? []),
+      ...(item.rituals ?? []),
+      ...(item.ritualsHi ?? []),
+      ...(item.festivals ?? []),
+      ...(item.festivalsHi ?? []),
+    ]
+      .filter(Boolean)
+      .some((value) => String(value).toLowerCase().includes(term))
+  }
+
+  const isCanonicalJyotirlingaTemple = (item) => {
+    const key = `${normalizeTempleKey(item?.name)}|${normalizeTempleKey(item?.state)}|${normalizeTempleKey(item?.city)}`
+    return CANONICAL_JYOTIRLINGA_KEYS.has(key)
+  }
+
+  const matchesEditorJourney = (item, term) => {
+    if (!term) return true
+    if (term === 'jyotirlinga') {
+      return isCanonicalJyotirlingaTemple(item)
+    }
+    return templeMatchesTerm(item, term)
+  }
+
   const storyTemples = visibleTemples.filter(
     (item) => storyState === ALL_STATES || item.state === storyState
   )
-  const displayedTemples = storyTemples
+  const displayedTemples = editorJourneyFilter
+    ? storyTemples.filter((item) => matchesEditorJourney(item, editorJourneyFilter))
+    : storyTemples
+  const featuredTemple = displayedTemples[0] || null
   const modeLabel = isShivaMode ? t.modeToggle.shiva : t.modeToggle.shakti
   const storyStateLabel = storyState === ALL_STATES ? t.labels.allStates : storyState
+  const heroJourneyItems = t.heroJourneys?.items ?? []
+  const activeJourneyLabel =
+    heroJourneyItems.find((item) => item.term === editorJourneyFilter)?.label || ''
+  const featuredStoryImage = featuredTemple
+    ? featuredTemple.image ?? getPlaceholderImage(featuredTemple.name)
+    : ''
+  const featuredStoryText = featuredTemple
+    ? language === 'hi'
+      ? featuredTemple.storyHi ?? featuredTemple.story ?? ''
+      : featuredTemple.story ?? ''
+    : ''
+  const featuredStorySnippet = featuredStoryText
+    ? `${featuredStoryText.split(/\s+/).slice(0, 24).join(' ')}${featuredStoryText.split(/\s+/).length > 24 ? '…' : ''}`
+    : ''
+  const featuredStoryHighlight = featuredTemple
+    ? language === 'hi'
+      ? featuredTemple.highlightHi ?? featuredTemple.highlight ?? ''
+      : featuredTemple.highlight ?? ''
+    : ''
+  const featuredStoryTags = featuredTemple
+    ? (
+        language === 'hi'
+          ? featuredTemple.tagsHi ?? featuredTemple.tags ?? []
+          : featuredTemple.tags ?? []
+      ).slice(0, 2)
+    : []
+  const featuredStoryCredit = featuredTemple?.credit || ''
+  const featuredStoryCreditUrl = featuredTemple?.creditUrl || ''
   const totalPages = Math.max(1, Math.ceil(displayedTemples.length / PAGE_SIZE))
   const totalSearchPages = Math.max(
     1,
@@ -769,10 +907,17 @@ function App() {
     return base ? `temple-${base}` : `temple-${index}`
   }
 
-  const featuredTemple = displayedTemples[0] || null
   const featuredTempleId = featuredTemple ? getTempleId(featuredTemple, 0) : ''
 
   const scrollToTempleCard = (id) => {
+    if (!id || typeof window === 'undefined') return
+    const target = document.getElementById(id)
+    if (target) {
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' })
+    }
+  }
+
+  const scrollToSection = (id) => {
     if (!id || typeof window === 'undefined') return
     const target = document.getElementById(id)
     if (target) {
@@ -788,6 +933,43 @@ function App() {
       return
     }
     scrollToTempleCard(featuredTempleId)
+  }
+
+  const jumpToEditorsPicks = () => {
+    scrollToSection('temple-cards')
+    trackAnalyticsEvent('hero_cta_click', {
+      cta_name: 'explore_editors_picks',
+      active_page: activePage,
+    })
+  }
+
+  const focusStateFilter = () => {
+    if (typeof window === 'undefined') return
+    const stateFilter = document.getElementById('filter-state')
+    if (stateFilter) {
+      stateFilter.scrollIntoView({ behavior: 'smooth', block: 'center' })
+      stateFilter.focus()
+    }
+    trackAnalyticsEvent('hero_cta_click', {
+      cta_name: 'browse_by_state',
+      active_page: activePage,
+    })
+  }
+
+  const applyHeroJourney = (item) => {
+    if (!item?.term) return
+    const nextTerm = editorJourneyFilter === item.term ? '' : item.term
+    setEditorJourneyFilter(nextTerm)
+    setCurrentPage(1)
+    trackAnalyticsEvent('hero_journey_click', {
+      journey_label: item.label,
+      journey_term: nextTerm || item.term,
+      journey_action: nextTerm ? 'apply' : 'clear',
+      active_page: activePage,
+    })
+    if (nextTerm) {
+      window.setTimeout(() => scrollToSection('temple-cards'), 70)
+    }
   }
 
   const runImageAudit = async () => {
@@ -951,6 +1133,25 @@ function App() {
     setSelectedCity(nextCity)
     trackAnalyticsEvent('filter_city_change', {
       filter_city: nextCity,
+      active_page: activePage,
+    })
+  }
+
+  const handleStoryStateChange = (nextState) => {
+    setStoryState(nextState)
+    trackAnalyticsEvent('story_state_change', {
+      story_state: nextState,
+      active_page: activePage,
+    })
+  }
+
+  const clearFilters = () => {
+    handleStateChange(ALL_STATES, 'dropdown')
+    handleCityChange(ALL_CITIES)
+    setEditorJourneyFilter('')
+    setSearchTerm('')
+    setSearchPage(1)
+    trackAnalyticsEvent('filters_cleared', {
       active_page: activePage,
     })
   }
@@ -1269,122 +1470,240 @@ function App() {
         <>
           <section className="stories-section">
             <div className="stories-hero-shell">
-              <p className="stories-kicker">{t.portalName}</p>
-              <svg
-                className="hero-logo"
-                viewBox="0 0 240 240"
-                role="img"
-                aria-label={`${t.portalName} om symbol`}
-              >
-                <defs>
-                  <filter id="brush-stroke" x="-20%" y="-20%" width="140%" height="140%">
-                    <feTurbulence
-                      type="fractalNoise"
-                      baseFrequency="0.015"
-                      numOctaves="2"
-                      seed="2"
-                      result="noise"
-                    />
-                    <feDisplacementMap
-                      in="SourceGraphic"
-                      in2="noise"
-                      scale="6"
-                      xChannelSelector="R"
-                      yChannelSelector="G"
-                    />
-                  </filter>
-                </defs>
-                <g filter="url(#brush-stroke)">
-                  <text
-                    className="hero-logo-mark"
-                    x="50%"
-                    y="55%"
-                    textAnchor="middle"
-                    dominantBaseline="middle"
+              <div className="stories-hero-main">
+                <div className="stories-hero-copy">
+                  <p className="stories-kicker">{t.portalName}</p>
+                  <svg
+                    className="hero-logo"
+                    viewBox="0 0 240 240"
+                    role="img"
+                    aria-label={`${t.portalName} om symbol`}
                   >
-                    ॐ
-                  </text>
-                </g>
-              </svg>
-              <h1 className="stories-title">{t.heroTitle}</h1>
-              <p className="stories-subtitle">{t.heroSubtitle}</p>
-              <div className="stories-ornament" aria-hidden="true" />
-              <div className="hero-stats-row">
-                <div className="hero-stat">
-                  <span className="hero-stat-number">{templeStats.temples.toLocaleString()}</span>
-                  <span className="hero-stat-label">{t.stats.temples}</span>
-                </div>
-                <div className="hero-stat">
-                  <span className="hero-stat-number">{templeStats.cities.toLocaleString()}</span>
-                  <span className="hero-stat-label">{t.stats.cities}</span>
-                </div>
-                <div className="hero-stat">
-                  <span className="hero-stat-number">{templeStats.states.toLocaleString()}</span>
-                  <span className="hero-stat-label">{t.stats.states}</span>
-                </div>
-              </div>
-              <div className="stories-filter-wrap">
-                <div className="filters-container">
-                  <label className="input-group" htmlFor="filter-state">
-                    <select
-                      id="filter-state"
-                      value={selectedState}
-                      onChange={(event) => handleStateChange(event.target.value, 'dropdown')}
-                    >
-                      {states.map((state) => (
-                        <option key={state} value={state}>
-                          {labelForState(state)}
-                        </option>
-                      ))}
-                    </select>
-                    <i className="fa-solid fa-chevron-down input-icon" aria-hidden="true" />
-                  </label>
+                    <defs>
+                      <filter id="brush-stroke" x="-20%" y="-20%" width="140%" height="140%">
+                        <feTurbulence
+                          type="fractalNoise"
+                          baseFrequency="0.015"
+                          numOctaves="2"
+                          seed="2"
+                          result="noise"
+                        />
+                        <feDisplacementMap
+                          in="SourceGraphic"
+                          in2="noise"
+                          scale="6"
+                          xChannelSelector="R"
+                          yChannelSelector="G"
+                        />
+                      </filter>
+                    </defs>
+                    <g filter="url(#brush-stroke)">
+                      <text
+                        className="hero-logo-mark"
+                        x="50%"
+                        y="55%"
+                        textAnchor="middle"
+                        dominantBaseline="middle"
+                      >
+                        ॐ
+                      </text>
+                    </g>
+                  </svg>
+                  <h1 className="stories-title">{t.heroTitle}</h1>
+                  <p className="stories-subtitle">{t.heroSubtitle}</p>
+                  <div className="stories-ornament" aria-hidden="true" />
 
-                  <label className="input-group" htmlFor="filter-city">
-                    <select
-                      id="filter-city"
-                      value={selectedCity}
-                      onChange={(event) => handleCityChange(event.target.value)}
-                    >
-                      {cities.map((city) => (
-                        <option key={city} value={city}>
-                          {labelForCity(city)}
-                        </option>
-                      ))}
-                    </select>
-                    <i className="fa-solid fa-chevron-down input-icon" aria-hidden="true" />
-                  </label>
-
-                  <label className="input-group search-wrapper" htmlFor="filter-search">
-                    <i className="fa-solid fa-magnifying-glass input-icon" aria-hidden="true" />
-                    <input
-                      id="filter-search"
-                      type="text"
-                      value={searchTerm}
-                      onChange={(event) => setSearchTerm(event.target.value)}
-                      placeholder={t.panel.searchPlaceholder}
-                    />
-                  </label>
-                </div>
-              </div>
-              {activeStates.length ? (
-                <div className="state-quicklist" role="group" aria-label="Story states">
-                  {[ALL_STATES, ...activeStates].map((state) => (
-                    <button
-                      key={state}
-                      className={`state-chip ${storyState === state ? 'active' : ''}`}
-                      type="button"
-                      onClick={() => {
-                        const nextState = storyState === state ? ALL_STATES : state
-                        setStoryState(nextState)
-                        handleStateChange(nextState, 'chip')
-                      }}
-                    >
-                      {state === ALL_STATES ? t.labels.allStates : state}
+                  <div className="hero-cta-row">
+                    <button className="primary" type="button" onClick={jumpToEditorsPicks}>
+                      {t.heroActions.view}
                     </button>
-                  ))}
+                    <button className="ghost" type="button" onClick={focusStateFilter}>
+                      {t.heroActions.search}
+                    </button>
+                    <button className="link" type="button" onClick={() => switchPage('recent')}>
+                      {t.nav.recent}
+                    </button>
+                  </div>
+
+                  <div className="hero-proof-row">
+                    <div className="hero-stat">
+                      <span className="hero-stat-number">{templeStats.temples.toLocaleString()}</span>
+                      <span className="hero-stat-label">{t.stats.temples}</span>
+                    </div>
+                    <div className="hero-stat">
+                      <span className="hero-stat-number">{templeStats.states.toLocaleString()}</span>
+                      <span className="hero-stat-label">{t.stats.states}</span>
+                    </div>
+                    <div className="hero-stat">
+                      <span className="hero-stat-number">{sourcedTemplesCount.toLocaleString()}</span>
+                      <span className="hero-stat-label">{t.heroProof.sources}</span>
+                    </div>
+                  </div>
+
+                  <div className="hero-intent-block">
+                    <p className="hero-intent-title">{t.heroJourneys.title}</p>
+                    <div className="hero-intent-list">
+                      {heroJourneyItems.map((item) => (
+                        <button
+                          className={`hero-intent-chip ${
+                            editorJourneyFilter === item.term ? 'active' : ''
+                          }`}
+                          type="button"
+                          key={item.label}
+                          onClick={() => applyHeroJourney(item)}
+                        >
+                          {item.label}
+                        </button>
+                      ))}
+                    </div>
+                  </div>
                 </div>
-              ) : null}
+
+                {featuredTemple ? (
+                  <article className="hero-featured-card">
+                    <figure className="hero-featured-media">
+                      <img
+                        src={featuredStoryImage}
+                        alt={`${getTempleText(featuredTemple, 'name')} in ${featuredTemple.city}`}
+                        loading="lazy"
+                        onError={(event) => {
+                          if (event.currentTarget.dataset.fallbackApplied) return
+                          event.currentTarget.dataset.fallbackApplied = '1'
+                          event.currentTarget.src = getPlaceholderImage(featuredTemple.name)
+                        }}
+                      />
+                    </figure>
+                    <div className="hero-featured-body">
+                      <p className="hero-featured-eyebrow">{t.heroStory.eyebrow}</p>
+                      <h3>{getTempleText(featuredTemple, 'name')}</h3>
+                      <p className="hero-featured-meta">
+                        {featuredTemple.city}, {featuredTemple.state}
+                      </p>
+                      {featuredStoryTags.length ? (
+                        <div className="hero-featured-tags">
+                          {featuredStoryTags.map((tag) => (
+                            <span key={tag}>{tag}</span>
+                          ))}
+                        </div>
+                      ) : null}
+                      <p>{featuredStorySnippet}</p>
+                      {featuredStoryHighlight ? (
+                        <p className="hero-featured-highlight">
+                          <span>{t.highlightLabel}</span>
+                          {featuredStoryHighlight}
+                        </p>
+                      ) : null}
+                      <button
+                        className="secondary"
+                        type="button"
+                        onClick={() => openTempleStory(featuredTemple, 'hero_featured')}
+                      >
+                        {t.heroStory.read}
+                      </button>
+                      {featuredStoryCredit && featuredStoryCreditUrl ? (
+                        <a
+                          className="hero-featured-credit"
+                          href={featuredStoryCreditUrl}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          {featuredStoryCredit}
+                        </a>
+                      ) : null}
+                    </div>
+                  </article>
+                ) : null}
+              </div>
+            </div>
+          </section>
+
+          <section className="quick-find-section" aria-label={t.panel.title}>
+            <div className="quick-find-header">
+              <h2>{t.panel.title}</h2>
+              <p>{t.panel.subtitle}</p>
+            </div>
+            <div className="stories-filter-wrap">
+              <form
+                className="filters-container"
+                role="search"
+                aria-label={t.panel.title}
+                onSubmit={(event) => event.preventDefault()}
+              >
+                <label className="input-group" htmlFor="filter-state">
+                  <span className="sr-only">{t.panel.stateLabel}</span>
+                  <select
+                    id="filter-state"
+                    value={selectedState}
+                    onChange={(event) => handleStateChange(event.target.value, 'dropdown')}
+                    aria-label={t.panel.stateLabel}
+                  >
+                    {states.map((state) => (
+                      <option key={state} value={state}>
+                        {labelForState(state)}
+                      </option>
+                    ))}
+                  </select>
+                  <i className="fa-solid fa-chevron-down input-icon" aria-hidden="true" />
+                </label>
+
+                <label className="input-group" htmlFor="filter-city">
+                  <span className="sr-only">{t.panel.cityLabel}</span>
+                  <select
+                    id="filter-city"
+                    value={selectedCity}
+                    onChange={(event) => handleCityChange(event.target.value)}
+                    aria-label={t.panel.cityLabel}
+                  >
+                    {cities.map((city) => (
+                      <option key={city} value={city}>
+                        {labelForCity(city)}
+                      </option>
+                    ))}
+                  </select>
+                  <i className="fa-solid fa-chevron-down input-icon" aria-hidden="true" />
+                </label>
+
+                <label className="input-group search-wrapper" htmlFor="filter-search">
+                  <span className="sr-only">{t.panel.searchLabel}</span>
+                  <i className="fa-solid fa-magnifying-glass input-icon" aria-hidden="true" />
+                  <input
+                    id="filter-search"
+                    type="search"
+                    value={searchTerm}
+                    onChange={(event) => setSearchTerm(event.target.value)}
+                    placeholder={t.panel.searchPlaceholder}
+                    aria-label={t.panel.searchLabel}
+                    aria-controls="search-results"
+                    enterKeyHint="search"
+                  />
+                </label>
+
+                <label className="input-group" htmlFor="story-state">
+                  <span className="sr-only">{t.panel.storyStateLabel}</span>
+                  <select
+                    id="story-state"
+                    value={storyState}
+                    onChange={(event) => handleStoryStateChange(event.target.value)}
+                    aria-label={t.panel.storyStateLabel}
+                  >
+                    {[ALL_STATES, ...activeStates].map((state) => (
+                      <option key={state} value={state}>
+                        {state === ALL_STATES ? t.labels.allStates : state}
+                      </option>
+                    ))}
+                  </select>
+                  <i className="fa-solid fa-chevron-down input-icon" aria-hidden="true" />
+                </label>
+
+                <button
+                  className="ghost hero-clear-btn"
+                  type="button"
+                  onClick={clearFilters}
+                  disabled={!searchActive}
+                >
+                  {t.panel.clearFilters}
+                </button>
+              </form>
             </div>
             {typeof import.meta !== 'undefined' && import.meta.env && import.meta.env.DEV ? (
               <div className="hero-audit-row">
@@ -1406,7 +1725,7 @@ function App() {
             <section className="cards cards-search" id="search-results">
               <div className="section-header compact">
                 <h2>{t.searchSection.title}</h2>
-                <p>{t.searchSection.subtitle(searchFilteredTemples.length)}</p>
+                <p aria-live="polite">{t.searchSection.subtitle(searchFilteredTemples.length)}</p>
               </div>
               <div className="card-grid">
                 {pagedSearchTemples.map((temple, index) => {
@@ -1485,6 +1804,11 @@ function App() {
                 <span className="section-chip" role="listitem">
                   {storyStateLabel}
                 </span>
+                {activeJourneyLabel ? (
+                  <span className="section-chip" role="listitem">
+                    {activeJourneyLabel}
+                  </span>
+                ) : null}
               </div>
             </div>
             <div className="card-grid">

@@ -723,7 +723,6 @@ export const rajasthanShaktiTemples = [
       ],
     },
   },
-  ,
   {
     name: "Nagnechi Mata Temple",
     state: "Rajasthan",
