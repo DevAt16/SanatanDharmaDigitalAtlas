@@ -1208,8 +1208,24 @@ function App() {
                   const year = item.yearDiscovered || t.recentSection.pending
                   const status = item.status || t.recentSection.pending
                   const location = item.location || t.recentSection.pending
+                  const discoveryImage = item.image
+                  const discoveryImageAlt = item.imageAlt || `${item.name} discovery site`
+                  const discoveryImageCredit = item.imageCredit || 'Wikimedia Commons'
+                  const discoveryImageCreditUrl = item.imageCreditUrl
                   return (
                     <article className="discovery-card" key={`${item.name}-${index}`}>
+                      {discoveryImage ? (
+                        <figure className="discovery-media">
+                          <img src={discoveryImage} alt={discoveryImageAlt} loading="lazy" />
+                          {discoveryImageCreditUrl ? (
+                            <figcaption>
+                              <a href={discoveryImageCreditUrl} target="_blank" rel="noreferrer">
+                                {discoveryImageCredit}
+                              </a>
+                            </figcaption>
+                          ) : null}
+                        </figure>
+                      ) : null}
                       <div className="discovery-header">
                         <span className="discovery-badge">{status}</span>
                         <span className="discovery-year">{year}</span>
