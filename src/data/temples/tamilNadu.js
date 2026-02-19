@@ -1,11 +1,14 @@
 export const tamilNaduTemples = [
-
   {
     "name": "Thyagaraja Temple",
     "state": "Tamil Nadu",
     "city": "Thiruvarur",
     "region": "Cauvery Delta",
-    "tags": ["Sapta Vidangam", "Massive Tank", "Chariot"],
+    "tags": [
+      "Sapta Vidangam",
+      "Massive Tank",
+      "Chariot"
+    ],
     "story": "One of the largest and most ancient Shiva temples. The 'Kamalalayam' tank here is one of the biggest in India, and the temple chariot is legendary for its size.",
     "highlight": "The Ajapa Thanam dance of Lord Thyagaraja and the massive temple complex.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Birds_view_of_Thyagaraja_Temple_Tiruvarur_India.jpg",
@@ -17,8 +20,13 @@ export const tamilNaduTemples = [
     "timings": "5:00 AM - 12:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "Known as the capital of the Sapta Vidangam (seven temples where Shiva performs different dances).",
-    "rituals": ["Ajapa Thanam", "Daily Abhishekam"],
-    "festivals": ["Chariot Festival"],
+    "rituals": [
+      "Ajapa Thanam",
+      "Daily Abhishekam"
+    ],
+    "festivals": [
+      "Chariot Festival"
+    ],
     "moreDetails": {
       "history": "Ancient site mentioned in Tevaram hymns; expanded by Cholas and Pandyas.",
       "architecture": "Features several shrines and massive pillared halls."
@@ -29,7 +37,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Courtallam",
     "region": "Tenkasi District",
-    "tags": ["Pancha Sabhai", "Waterfall", "Chitra Sabha"],
+    "tags": [
+      "Pancha Sabhai",
+      "Waterfall",
+      "Chitra Sabha"
+    ],
     "story": "Home to the 'Chitra Sabha' (Hall of Pictures), one of the five places where Shiva performed his cosmic dance. It is located right next to the famous Courtallam waterfalls.",
     "highlight": "The Chitra Sabha with its stunning 18th-century murals depicting puranic stories.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Courtallam_%2C_Arulmigu_Thiru_Kuttralanathar_Temple_(58267).jpg",
@@ -41,8 +53,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 8:00 PM.",
     "dressCode": "Casual/Modest.",
     "entryNotes": "Devotees often take a holy dip in the waterfalls before entering.",
-    "rituals": ["Thiruvasagam recitation"],
-    "festivals": ["Arudhra Darisanam"],
+    "rituals": [
+      "Thiruvasagam recitation"
+    ],
+    "festivals": [
+      "Arudhra Darisanam"
+    ],
     "moreDetails": {
       "history": "Sage Agastya is said to have shrunk a Vishnu idol into a Shiva linga here.",
       "architecture": "Conch-shaped temple layout."
@@ -53,7 +69,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Tiruvalangadu",
     "region": "Thiruvallur District",
-    "tags": ["Pancha Sabhai", "Ratna Sabha", "Karaikkal Ammeiyar"],
+    "tags": [
+      "Pancha Sabhai",
+      "Ratna Sabha",
+      "Karaikkal Ammeiyar"
+    ],
     "story": "The 'Ratna Sabha' (Hall of Gems). This is where Shiva performed the Urdhva Tandava (upward dance) to defeat Kali in a dance competition.",
     "highlight": "The temple is associated with Karaikkal Ammeiyar, who walked on her hands to reach this shrine.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiruvalangaduvadaaraneswarartemple2.jpg",
@@ -65,8 +85,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 8:00 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "One of the most powerful and quiet spiritual spots near Chennai.",
-    "rituals": ["Daily puja to Nataraja"],
-    "festivals": ["Maha Shivratri"],
+    "rituals": [
+      "Daily puja to Nataraja"
+    ],
+    "festivals": [
+      "Maha Shivratri"
+    ],
     "moreDetails": {
       "history": "Mentioned in the early Tamil hymns of the 6th century.",
       "architecture": "Chola style with a very sacred banyan tree (Vata vriksha)."
@@ -77,7 +101,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Mayiladuthurai",
     "region": "Cauvery Delta",
-    "tags": ["Peacock", "Goddess", "Heritage"],
+    "tags": [
+      "Peacock",
+      "Goddess",
+      "Heritage"
+    ],
     "story": "Goddess Parvati worshipped Shiva here in the form of a peacock (Mayura). This gives the town its name, Mayiladuthurai.",
     "highlight": "The annual Mayura Thula Utsavam where thousands take a holy dip in the Cauvery.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gopuram_of_Mayuranathaswami_Temple.jpg",
@@ -89,8 +117,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Modest.",
     "entryNotes": "Located in the heart of the town; very significant for local culture.",
-    "rituals": ["Daily peacock-themed puja"],
-    "festivals": ["Thula Snanam"],
+    "rituals": [
+      "Daily peacock-themed puja"
+    ],
+    "festivals": [
+      "Thula Snanam"
+    ],
     "moreDetails": {
       "history": "Built during the Chola era and renovated by the Nayaks.",
       "architecture": "Grand gopurams and a large sacred tank."
@@ -101,7 +133,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Thiruvidaimarudur",
     "region": "Kumbakonam",
-    "tags": ["Madhya Arjuna", "Remedy", "Brahmacharya"],
+    "tags": [
+      "Madhya Arjuna",
+      "Remedy",
+      "Brahmacharya"
+    ],
     "story": "One of the greatest Shiva temples, known as 'Madhya Arjuna'. It is a powerful spot for those seeking relief from Brahmatti Dosha.",
     "highlight": "The 'Chitra Mandapam' with its beautiful paintings and the massive temple corridors.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiruvidaimaruthur.jpg",
@@ -113,8 +149,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 1:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "Legend says a King escaped a ghost by leaving through a side door, a practice some still follow.",
-    "rituals": ["Rudra Abhishekam"],
-    "festivals": ["Thai Poosam"],
+    "rituals": [
+      "Rudra Abhishekam"
+    ],
+    "festivals": [
+      "Thai Poosam"
+    ],
     "moreDetails": {
       "history": "Inscriptions date back to the 9th-century Chola period.",
       "architecture": "Massive gopurams and long prakarams."
@@ -125,7 +165,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Vedaranyam",
     "region": "Coastal Nagapattinam",
-    "tags": ["Vedas", "Coastal", "Saptavitangam"],
+    "tags": [
+      "Vedas",
+      "Coastal",
+      "Saptavitangam"
+    ],
     "story": "The place where the Vedas themselves are said to have worshipped Shiva. Legend says the main doors remained closed for centuries until opened by Tamil saints.",
     "highlight": "The emerald linga (Saptavitangam) and the views of the sea.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vedaranyam17.JPG",
@@ -137,8 +181,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 8:30 PM.",
     "dressCode": "Modest.",
     "entryNotes": "Located near the Vedaranyam salt marshes.",
-    "rituals": ["Vitangam Dance puja"],
-    "festivals": ["Maha Shivratri"],
+    "rituals": [
+      "Vitangam Dance puja"
+    ],
+    "festivals": [
+      "Maha Shivratri"
+    ],
     "moreDetails": {
       "history": "Historically significant site for both religion and the Salt March during the freedom struggle.",
       "architecture": "Ancient stone structure with multiple shrines."
@@ -149,7 +197,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Nagapattinam",
     "region": "Port Town",
-    "tags": ["Saptavitangam", "Emerald Linga", "Coastal"],
+    "tags": [
+      "Saptavitangam",
+      "Emerald Linga",
+      "Coastal"
+    ],
     "story": "One of the seven Vitangam Sthalams. The deity here is said to have 'ascended with the body' (Kayarohana).",
     "highlight": "The emerald linga worshipped with special rituals.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kayarohanaswami_Temple.jpg",
@@ -161,8 +213,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "The temple is very close to the Nagapattinam harbor.",
-    "rituals": ["Emerald Linga puja"],
-    "festivals": ["Shivratri"],
+    "rituals": [
+      "Emerald Linga puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
     "moreDetails": {
       "history": "Ancient temple mentioned in Saivite literature.",
       "architecture": "Dravidian style with unique sculptures of the 'Lakulisa' sect."
@@ -173,7 +229,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Bhavani",
     "region": "Erode District",
-    "tags": ["Triveni Sangam", "Rivers", "Remedy"],
+    "tags": [
+      "Triveni Sangam",
+      "Rivers",
+      "Remedy"
+    ],
     "story": "Located at the holy confluence of three rivers: Bhavani, Kaveri, and the invisible Amudha. It is often called the 'Kashi of the South'.",
     "highlight": "The Sangam point where devotees perform rituals for their ancestors.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhavani_sangameswarar_temple2.jpg",
@@ -185,8 +245,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 1:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Modest.",
     "entryNotes": "Devotees usually take a dip in the river confluence before darshan.",
-    "rituals": ["Pithru Tharpanam"],
-    "festivals": ["Maha Shivratri"],
+    "rituals": [
+      "Pithru Tharpanam"
+    ],
+    "festivals": [
+      "Maha Shivratri"
+    ],
     "moreDetails": {
       "history": "Ancient site visited by various saints; renovated by the Pandyas.",
       "architecture": "Riverside temple with long corridors."
@@ -197,7 +261,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Kodumudi",
     "region": "Erode District",
-    "tags": ["Riverside", "Trinity", "Navagraha"],
+    "tags": [
+      "Riverside",
+      "Trinity",
+      "Navagraha"
+    ],
     "story": "Situated on the bank of the Kaveri. It is unique for housing shrines for Shiva, Vishnu, and Brahma in the same complex.",
     "highlight": "The perennial Kaveri river flowing right alongside the temple wall.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kodumudi_magudeswarar_temple4.jpg",
@@ -209,8 +277,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 12:30 PM, 4:00 PM - 8:30 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "A very popular spot for performing Pariharam (remedial rituals).",
-    "rituals": ["Kaveri Abhishekam"],
-    "festivals": ["Chithirai Festival"],
+    "rituals": [
+      "Kaveri Abhishekam"
+    ],
+    "festivals": [
+      "Chithirai Festival"
+    ],
     "moreDetails": {
       "history": "The temple is associated with a myth where pieces of Mount Meru fell here.",
       "architecture": "Ancient stone structure with multiple sub-shrines."
@@ -221,7 +293,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Avinashi",
     "region": "Tiruppur District",
-    "tags": ["Kongu Nadu", "Crocodile Miracle", "Ancient"],
+    "tags": [
+      "Kongu Nadu",
+      "Crocodile Miracle",
+      "Ancient"
+    ],
     "story": "One of the seven Shiva temples of Kongu Nadu. Legend says saint Sundarar rescued a boy from a crocodile's mouth here through a song.",
     "highlight": "The 'Mudalai-Yunda-Siruvan' festival re-enacting the miracle.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avinashi_avinashiappar_temple2.jpg",
@@ -233,8 +309,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 1:00 PM, 4:00 PM - 8:30 PM.",
     "dressCode": "Modest.",
     "entryNotes": "Known for its massive and beautiful wooden chariot.",
-    "rituals": ["Sundarar pathigam recitation"],
-    "festivals": ["Panguni Uthiram"],
+    "rituals": [
+      "Sundarar pathigam recitation"
+    ],
+    "festivals": [
+      "Panguni Uthiram"
+    ],
     "moreDetails": {
       "history": "Built by the Cholas and later expanded by the Mysore kings.",
       "architecture": "Features a tall gopuram and detailed pillar carvings."
@@ -245,7 +325,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Kanchipuram",
     "region": "Temple Town",
-    "tags": ["Vanni Tree", "Ancient", "Small Shrine"],
+    "tags": [
+      "Vanni Tree",
+      "Ancient",
+      "Small Shrine"
+    ],
     "story": "A small but ancient Shiva temple where the Vanni tree is extremely sacred. It is part of the Kanchipuram pilgrimage circuit.",
     "highlight": "The sacred Vanni tree in the courtyard.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sivan_Temple_near_kanchipuram.jpg",
@@ -257,8 +341,12 @@ export const tamilNaduTemples = [
     "timings": "7:00 AM - 11:00 AM, 5:00 PM - 8:00 PM.",
     "dressCode": "Casual/Modest.",
     "entryNotes": "A quieter spot away from the major crowds of Kanchi.",
-    "rituals": ["Pradosham puja"],
-    "festivals": ["Maha Shivratri"],
+    "rituals": [
+      "Pradosham puja"
+    ],
+    "festivals": [
+      "Maha Shivratri"
+    ],
     "moreDetails": {
       "history": "Existing since the Pallava period.",
       "architecture": "Simple stone masonry."
@@ -269,7 +357,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Vriddhachalam",
     "region": "Cuddalore District",
-    "tags": ["Hill Temple", "Five", "Ancient"],
+    "tags": [
+      "Hill Temple",
+      "Five",
+      "Ancient"
+    ],
     "story": "Everything in this temple is 'five'—five gopurams, five prakarams, and five chariots. It is older than Kashi.",
     "highlight": "The ancient hill-like structure and the significance of the number five.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vridachaleswarar_gopuram.jpg",
@@ -281,8 +373,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "The temple name literally means 'Old Mountain'.",
-    "rituals": ["Daily abhishekam"],
-    "festivals": ["Masi Magam"],
+    "rituals": [
+      "Daily abhishekam"
+    ],
+    "festivals": [
+      "Masi Magam"
+    ],
     "moreDetails": {
       "history": "Visited and praised by the Tevaram saints.",
       "architecture": "Gigantic complex with massive walls."
@@ -293,7 +389,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Cuddalore",
     "region": "Tirupapuliyur",
-    "tags": ["Pataliputra of South", "Appar", "Miracle"],
+    "tags": [
+      "Pataliputra of South",
+      "Appar",
+      "Miracle"
+    ],
     "story": "Where saint Appar was tied to a stone and thrown into the sea, but floated back to shore by the grace of Shiva.",
     "highlight": "The shrine for saint Appar and the stone he floated on.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pataleeswarar_Temple,_Cuddalore_(15966262253).jpg",
@@ -305,8 +405,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Modest.",
     "entryNotes": "Known as the capital of ancient Saivism in the region.",
-    "rituals": ["Saint Appar festival rituals"],
-    "festivals": ["Maha Shivratri"],
+    "rituals": [
+      "Saint Appar festival rituals"
+    ],
+    "festivals": [
+      "Maha Shivratri"
+    ],
     "moreDetails": {
       "history": "Originally a Jain center before the conversion of the Pallava king.",
       "architecture": "Chola era stone work."
@@ -317,7 +421,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Thiruvenkadu",
     "region": "Nagapattinam District",
-    "tags": ["Navagraha", "Budha", "Knowledge"],
+    "tags": [
+      "Navagraha",
+      "Budha",
+      "Knowledge"
+    ],
     "story": "Associated with the planet Mercury (Budha). It is one of the Navagraha temples and is considered equivalent to Kashi.",
     "highlight": "The Aghora Murthi shrine (fierce form of Shiva) and the three holy tanks.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thiruvenkadu_temple.jpg",
@@ -329,8 +437,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 1:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "Popular for those seeking success in education and business.",
-    "rituals": ["Budha Shanti Puja"],
-    "festivals": ["Chariot Festival"],
+    "rituals": [
+      "Budha Shanti Puja"
+    ],
+    "festivals": [
+      "Chariot Festival"
+    ],
     "moreDetails": {
       "history": "Ancient temple mentioned in Saivite literature.",
       "architecture": "Large complex with beautiful ponds."
@@ -341,7 +453,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Kanjanur",
     "region": "Kumbakonam",
-    "tags": ["Navagraha", "Venus", "Sukra"],
+    "tags": [
+      "Navagraha",
+      "Venus",
+      "Sukra"
+    ],
     "story": "The designated Navagraha temple for Venus (Sukra). Shiva is believed to have manifested here as the Sukra element.",
     "highlight": "The temple is known for its peaceful, village setting.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanjanur_Sukkiran_Temple.jpg",
@@ -353,8 +469,12 @@ export const tamilNaduTemples = [
     "timings": "7:00 AM - 1:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Modest.",
     "entryNotes": "Part of the essential Navagraha circuit near Kumbakonam.",
-    "rituals": ["Sukra Shanti puja"],
-    "festivals": ["Maha Shivratri"],
+    "rituals": [
+      "Sukra Shanti puja"
+    ],
+    "festivals": [
+      "Maha Shivratri"
+    ],
     "moreDetails": {
       "history": "Associated with the sage Agastya.",
       "architecture": "Simple Dravidian architecture."
@@ -365,7 +485,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Tirunageswaram",
     "region": "Kumbakonam",
-    "tags": ["Navagraha", "Rahu", "Blue Milk"],
+    "tags": [
+      "Navagraha",
+      "Rahu",
+      "Blue Milk"
+    ],
     "story": "The Rahu Sthalam. When milk is poured over the deity of Rahu here during Abhishekam, it magically turns blue.",
     "highlight": "The blue milk miracle during Rahu Kaalam Abhishekam.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thirunageswaram_gopuram.JPG",
@@ -377,8 +501,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 1:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "A key destination for people with Rahu-related astrological doshas.",
-    "rituals": ["Milk Abhishekam"],
-    "festivals": ["Rahu Peyarchi"],
+    "rituals": [
+      "Milk Abhishekam"
+    ],
+    "festivals": [
+      "Rahu Peyarchi"
+    ],
     "moreDetails": {
       "history": "Significant Chola era temple.",
       "architecture": "Massive gopurams and a spacious courtyard."
@@ -389,7 +517,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Vriddhachalam",
     "region": "Cuddalore District",
-    "tags": ["Shiva", "Ancient", "Pancha Mukha"],
+    "tags": [
+      "Shiva",
+      "Ancient",
+      "Pancha Mukha"
+    ],
     "story": "An ancient temple dedicated to Lord Vriddhagiriswarar. It is a major spiritual center for Saivism.",
     "highlight": "The five gateway towers (Gopurams) representing the five elements.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Virudhagiriswarar_temple_(10).jpg",
@@ -401,8 +533,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Modest.",
     "entryNotes": "One of the largest temples in the region.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Maha Shivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivratri"
+    ],
     "moreDetails": {
       "history": "Praised by the ancient Saivite saints in their songs.",
       "architecture": "Dravidian style with stone masonry."
@@ -413,7 +549,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Tirukkarugavur",
     "region": "Thanjavur District",
-    "tags": ["Garbha Rakshambika", "Pregnancy", "Shiva"],
+    "tags": [
+      "Garbha Rakshambika",
+      "Pregnancy",
+      "Shiva"
+    ],
     "story": "Shiva is worshipped here as Mullai Vananathar. The temple is worldwide famous for the Goddess Garbha Rakshambika, who is believed to protect the womb and ensure safe childbirth.",
     "highlight": "The castor oil puja for safe pregnancy.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tirukkarukavur2.jpg",
@@ -425,8 +565,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 1:00 PM, 4:00 PM - 8:00 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "A very popular stop for expectant mothers.",
-    "rituals": ["Ghee and Oil puja"],
-    "festivals": ["Vaikasi Visakam"],
+    "rituals": [
+      "Ghee and Oil puja"
+    ],
+    "festivals": [
+      "Vaikasi Visakam"
+    ],
     "moreDetails": {
       "history": "Mentioned in Saivite hymns as a sacred Mullai (Jasmine) forest.",
       "architecture": "Classic Chola temple structure."
@@ -437,7 +581,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Thirupattur",
     "region": "Trichy District",
-    "tags": ["Destiny", "Brahma", "Shiva"],
+    "tags": [
+      "Destiny",
+      "Brahma",
+      "Shiva"
+    ],
     "story": "Legend says that Shiva restored the creative powers of Brahma here. It is believed that visiting this temple can 'rewrite' one's destiny.",
     "highlight": "The shrine for Lord Brahma and the practice of rewriting the horoscope.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brahmapureeswarar_Temple,_Thiruppattur.jpg",
@@ -449,8 +597,12 @@ export const tamilNaduTemples = [
     "timings": "7:00 AM - 12:00 PM, 4:00 PM - 8:00 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "Expect long queues as it's a popular remedy spot.",
-    "rituals": ["Destiny-changing prayers"],
-    "festivals": ["Maha Shivratri"],
+    "rituals": [
+      "Destiny-changing prayers"
+    ],
+    "festivals": [
+      "Maha Shivratri"
+    ],
     "moreDetails": {
       "history": "Ancient temple with deep connections to the mythology of fate.",
       "architecture": "Stone masonry with a distinct Brahma shrine."
@@ -461,7 +613,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Thiruvarur",
     "region": "Cauvery Delta",
-    "tags": ["Sapta Vidangam", "Shadow", "Shiva"],
+    "tags": [
+      "Sapta Vidangam",
+      "Shadow",
+      "Shiva"
+    ],
     "story": "Located within the Thyagaraja temple complex. The shadow of the main deity's shrine never falls outside the base.",
     "highlight": "The unique architectural precision where the shadow stays centered.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thyagarajar_temple,_Tiruvarur_(60).jpg",
@@ -473,8 +629,12 @@ export const tamilNaduTemples = [
     "timings": "5:00 AM - 9:00 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "Accessible while visiting the main Thiruvarur temple.",
-    "rituals": ["Ajapa Thanam"],
-    "festivals": ["Chariot Festival"],
+    "rituals": [
+      "Ajapa Thanam"
+    ],
+    "festivals": [
+      "Chariot Festival"
+    ],
     "moreDetails": {
       "history": "Part of the ancient Thiruvarur temple network.",
       "architecture": "Chola era construction."
@@ -485,7 +645,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Thiruvavaduthurai",
     "region": "Mayiladuthurai District",
-    "tags": ["Bull", "Tirumular", "Saivism"],
+    "tags": [
+      "Bull",
+      "Tirumular",
+      "Saivism"
+    ],
     "story": "Where Goddess Parvati worshipped Shiva in the form of a cow (Go). It is the headquarters of one of the oldest Saivite monasteries.",
     "highlight": "The massive Nandi statue and its association with saint Tirumular.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thirukailaya_Parambarai_Thiruvavaduthurai_Adheenam_Guruparambarai.jpg",
@@ -497,21 +661,27 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 8:30 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "A very peaceful and scholarly atmosphere.",
-    "rituals": ["Daily puja by the Adheenam priests"],
-    "festivals": ["Maha Shivratri"],
+    "rituals": [
+      "Daily puja by the Adheenam priests"
+    ],
+    "festivals": [
+      "Maha Shivratri"
+    ],
     "moreDetails": {
       "history": "Associated with the Thiruvavaduthurai Adheenam (monastery).",
       "architecture": "Grand Chola structure."
     }
-  }
-  ,
-
+  },
   {
     "name": "Kapaleeshwarar Temple",
     "state": "Tamil Nadu",
     "city": "Chennai",
     "region": "Mylapore",
-    "tags": ["Dravidian", "Mylapore", "Shiva"],
+    "tags": [
+      "Dravidian",
+      "Mylapore",
+      "Shiva"
+    ],
     "story": "A classic example of Dravidian architecture in the heart of Chennai. Legend says Parvati worshipped Shiva here in the form of a peacock (Mayil), giving the area its name, Mylapore.",
     "highlight": "The towering 120-foot gopuram and the large temple tank (Teppakulam).",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chennai_Kapaleeshwarar_Temple.jpg",
@@ -523,8 +693,14 @@ export const tamilNaduTemples = [
     "timings": "5:00 AM - 12:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional attire encouraged.",
     "entryNotes": "Very crowded during the annual festival featuring the 63 Nayanmars.",
-    "rituals": ["Daily puja", "Pradosham prayers"],
-    "festivals": ["Arubathimoovar", "Panguni Uthiram"],
+    "rituals": [
+      "Daily puja",
+      "Pradosham prayers"
+    ],
+    "festivals": [
+      "Arubathimoovar",
+      "Panguni Uthiram"
+    ],
     "moreDetails": {
       "history": "The original temple was likely destroyed by the Portuguese; the current structure dates back to the 16th century.",
       "architecture": "Features a classic gopuram and a spacious pillared mandapa."
@@ -535,7 +711,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Kanchipuram",
     "region": "Temple Town",
-    "tags": ["Pallava", "Sandstone", "Ancient"],
+    "tags": [
+      "Pallava",
+      "Sandstone",
+      "Ancient"
+    ],
     "story": "The oldest structure in Kanchipuram, this temple is a masterpiece of Pallava architecture and served as an inspiration for the Thanjavur Big Temple.",
     "highlight": "The incredible sandstone carvings and the narrow 'entry and exit' passage symbolizing birth and death.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kailasanathar_Temple._Kanchipuram,_TamilNadu.jpg",
@@ -547,20 +727,27 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 7:00 PM.",
     "dressCode": "Modest.",
     "entryNotes": "A heritage site with active worship; great for photography.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Maha Shivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivratri"
+    ],
     "moreDetails": {
       "history": "Built by King Rajasimha Pallava in the 8th century AD.",
       "architecture": "Features a pyramidal shikhara and 58 small shrines around the main compound."
     }
   },
-
   {
     "name": "Airavatesvara Temple",
     "state": "Tamil Nadu",
     "city": "Darasuram",
     "region": "Kumbakonam",
-    "tags": ["UNESCO", "Chola", "Miniature Carvings"],
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "Miniature Carvings"
+    ],
     "story": "Part of the Great Living Chola Temples, it is named after Airavata, the white elephant of Indra, who worshipped Shiva here.",
     "highlight": "The 'Musical Steps' (Saptaswara steps) and the chariot-shaped mandapa.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Darasuram,_Airavatesvara_Temple,_Entrance,_India.jpg",
@@ -572,8 +759,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 8:00 PM.",
     "dressCode": "Casual.",
     "entryNotes": "The temple is smaller but much more intricately carved than Thanjavur.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Maha Shivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivratri"
+    ],
     "moreDetails": {
       "history": "Built by Rajaraja Chola II in the 12th century.",
       "architecture": "Famous for its intricate stone carvings that look like wood-work."
@@ -584,7 +775,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Jayankondam",
     "region": "Ariyalur District",
-    "tags": ["UNESCO", "Chola", "Massive Linga"],
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "Massive Linga"
+    ],
     "story": "Built to commemorate the victory of Rajendra Chola I over the northern kings up to the Ganges. It was once the capital of the Chola Empire.",
     "highlight": "The massive 13-foot high Shiva Linga and the elegant lion-shaped water well (Simhakeni).",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gangaikonda_Cholapuram_Temple_entrance.jpg",
@@ -596,8 +791,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 8:00 PM.",
     "dressCode": "Casual.",
     "entryNotes": "A quieter alternative to Thanjavur with massive open spaces.",
-    "rituals": ["Anna Abhishekam (covering the linga with cooked rice)"],
-    "festivals": ["Maha Shivratri"],
+    "rituals": [
+      "Anna Abhishekam (covering the linga with cooked rice)"
+    ],
+    "festivals": [
+      "Maha Shivratri"
+    ],
     "moreDetails": {
       "history": "The temple was the spiritual centerpiece of the new capital after the fall of Thanjavur's dominance.",
       "architecture": "Resembles the Thanjavur temple but with more feminine, curved lines in the vimana."
@@ -608,7 +807,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Palani",
     "region": "Dindigul District",
-    "tags": ["Arupadaiveedu", "Murugan", "Hilltop"],
+    "tags": [
+      "Arupadaiveedu",
+      "Murugan",
+      "Hilltop"
+    ],
     "story": "The third of Murugan's six abodes. Legend says he came here as a renunciant after a dispute over a divine fruit.",
     "highlight": "The main idol made of 'Navapashanam' (nine poisonous substances) by Siddha Bogar.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arulmigu_Dhandayuthapani_Swamy_Temple_in_Palany_hill.jpg",
@@ -620,8 +823,14 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 8:00 PM.",
     "dressCode": "Traditional attire mandatory.",
     "entryNotes": "Accessible by winch, ropeway, or climbing 600+ steps.",
-    "rituals": ["Panchamirtham Abhishekam", "Kavadi offerings"],
-    "festivals": ["Thai Poosam", "Panguni Uthiram"],
+    "rituals": [
+      "Panchamirtham Abhishekam",
+      "Kavadi offerings"
+    ],
+    "festivals": [
+      "Thai Poosam",
+      "Panguni Uthiram"
+    ],
     "moreDetails": {
       "history": "One of the most visited pilgrimage sites in India.",
       "architecture": "Ancient hilltop shrine with modern amenities like ropeway."
@@ -632,7 +841,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Tiruchendur",
     "region": "Tuticorin District",
-    "tags": ["Arupadaiveedu", "Coastal", "Murugan"],
+    "tags": [
+      "Arupadaiveedu",
+      "Coastal",
+      "Murugan"
+    ],
     "story": "The only abode of Murugan situated on the seashore. This is where he defeated the demon Surapadman.",
     "highlight": "The temple's resilience against the 2004 Tsunami and the scenic ocean view.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arulmigu_Subramaniya_Swamy_Temple,_Tiruchendur.jpg",
@@ -644,8 +857,12 @@ export const tamilNaduTemples = [
     "timings": "5:00 AM - 9:00 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "Very crowded during Skanda Sashti; plan for long queues.",
-    "rituals": ["Soorasamharam re-enactment"],
-    "festivals": ["Skanda Sashti"],
+    "rituals": [
+      "Soorasamharam re-enactment"
+    ],
+    "festivals": [
+      "Skanda Sashti"
+    ],
     "moreDetails": {
       "history": "The temple gopuram is unique as it faces the sea.",
       "architecture": "Dravidian style with rock-cut elements."
@@ -656,7 +873,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Vellore",
     "region": "Thirumalaikodi",
-    "tags": ["Gold", "Modern", "Mahalakshmi"],
+    "tags": [
+      "Gold",
+      "Modern",
+      "Mahalakshmi"
+    ],
     "story": "A modern marvel, this temple is gilded with 1500kg of pure gold. It is designed to be a spiritual destination for peace.",
     "highlight": "The star-shaped path leading to the sanctum, adorned with spiritual messages.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden_Temple,_Vellore,_India.jpg",
@@ -668,8 +889,12 @@ export const tamilNaduTemples = [
     "timings": "8:00 AM - 8:00 PM.",
     "dressCode": "Traditional/Modest.",
     "entryNotes": "Strict security; cameras and phones are not allowed.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Deepavali"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Deepavali"
+    ],
     "moreDetails": {
       "history": "Inaugurated in 2007 by Narayani Peedam.",
       "architecture": "Fully gilded exterior and interior structures."
@@ -680,7 +905,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Tirunelveli",
     "region": "Thamirabarani Bank",
-    "tags": ["Musical Pillars", "Shiva", "Pancha Sabhai"],
+    "tags": [
+      "Musical Pillars",
+      "Shiva",
+      "Pancha Sabhai"
+    ],
     "story": "Representing the 'Copper Hall' (Thamra Sabha) of Shiva's dance, this temple is a giant complex where Shiva and Parvati are worshipped side-by-side.",
     "highlight": "The 'Musical Pillars' that produce different musical notes when tapped.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tirunelveli_Nellaiappar_Temple_1.jpg",
@@ -692,8 +921,12 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "One of the largest temple complexes in South India.",
-    "rituals": ["Musical pillar demonstrations"],
-    "festivals": ["Ani Car Festival"],
+    "rituals": [
+      "Musical pillar demonstrations"
+    ],
+    "festivals": [
+      "Ani Car Festival"
+    ],
     "moreDetails": {
       "history": "Dates back to the 7th century; extensively renovated by Pandyas and Nayaks.",
       "architecture": "Known for the Thamra Sabha hall with exquisite woodwork."
@@ -704,7 +937,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Chennai",
     "region": "Triplicane",
-    "tags": ["Divya Desam", "Vishnu", "Krishna"],
+    "tags": [
+      "Divya Desam",
+      "Vishnu",
+      "Krishna"
+    ],
     "story": "One of the few temples where Lord Vishnu is worshipped as Krishna in the form of a charioteer (Parthasarathy) with a moustache.",
     "highlight": "The scar marks on the idol's face, symbolizing wounds received from Bhishma's arrows in the Mahabharata.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Parthasarathy-Temple-Triplicane-Chennai-7.JPG",
@@ -716,8 +953,13 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 12:30 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "Known for its delicious 'Puliyodarai' (tamarind rice) prasadam.",
-    "rituals": ["Daily Thirumanjanam"],
-    "festivals": ["Vaikuntha Ekadashi", "Theppotsavam"],
+    "rituals": [
+      "Daily Thirumanjanam"
+    ],
+    "festivals": [
+      "Vaikuntha Ekadashi",
+      "Theppotsavam"
+    ],
     "moreDetails": {
       "history": "Built by the Pallavas in the 8th century.",
       "architecture": "Features shrines for five different incarnations of Vishnu."
@@ -728,7 +970,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Kanchipuram",
     "region": "Temple Town",
-    "tags": ["Shakti Peetha", "Adi Shankara", "Goddess"],
+    "tags": [
+      "Shakti Peetha",
+      "Adi Shankara",
+      "Goddess"
+    ],
     "story": "The main Shakti shrine in Kanchipuram. Unlike other cities, there are no other Parvati shrines in the Shiva temples here, as Kamakshi is the supreme goddess of Kanchi.",
     "highlight": "The Sri Chakra established by Adi Shankara in front of the deity.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanchipuram_Kamakshi_Amman_Temple.jpg",
@@ -740,20 +986,28 @@ export const tamilNaduTemples = [
     "timings": "5:30 AM - 12:30 PM, 4:00 PM - 8:30 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "Golden gopuram over the sanctum is a key feature.",
-    "rituals": ["Sahasranama Archana"],
-    "festivals": ["Navratri", "Brahmmotsavam"],
+    "rituals": [
+      "Sahasranama Archana"
+    ],
+    "festivals": [
+      "Navratri",
+      "Brahmmotsavam"
+    ],
     "moreDetails": {
       "history": "Associated with Adi Shankara, who is said to have pacified the goddess.",
       "architecture": "Dravidian style with a large temple tank."
     }
-  }
-  ,
+  },
   {
     "name": "Meenakshi Amman Temple",
     "state": "Tamil Nadu",
     "city": "Madurai",
     "region": "Vaigai River Bank",
-    "tags": ["Dravidian", "Gopuram", "Shakti Peetha"],
+    "tags": [
+      "Dravidian",
+      "Gopuram",
+      "Shakti Peetha"
+    ],
     "story": "The heart of Madurai, dedicated to Meenakshi (Parvati) and Sundareswarar (Shiva). Legend says the wedding of the deities took place here, attended by Lord Vishnu.",
     "highlight": "The 14 massive gopurams covered in thousands of colorful stone figures.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madurai_Meenakshi_Amman_Temple.jpg",
@@ -765,13 +1019,23 @@ export const tamilNaduTemples = [
     "timings": "5:00 AM - 12:30 PM, 4:00 PM - 10:00 PM.",
     "dressCode": "Strict traditional attire (Dhoti/Saree).",
     "entryNotes": "Mobile phones and cameras are strictly prohibited inside.",
-    "rituals": ["Palliyarai Puja (Night Ceremony)", "Thanga Ratham (Gold Chariot)"],
-    "festivals": ["Meenakshi Tirukalyanam"],
+    "rituals": [
+      "Palliyarai Puja (Night Ceremony)",
+      "Thanga Ratham (Gold Chariot)"
+    ],
+    "festivals": [
+      "Meenakshi Tirukalyanam"
+    ],
     "moreDetails": {
       "history": "Rebuilt in its current form by the Nayak rulers in the 16th-17th century.",
       "architecture": "Features the Hall of Thousand Pillars (Aayiram Kaal Mandapam).",
       "darshan": "Meenakshi is worshipped first as per tradition.",
-      "sources": [{ "label": "Madurai Meenakshi", "url": "https://maduraimeenakshi.hrce.tn.gov.in/" }]
+      "sources": [
+        {
+          "label": "Madurai Meenakshi",
+          "url": "https://maduraimeenakshi.hrce.tn.gov.in/"
+        }
+      ]
     }
   },
   {
@@ -779,7 +1043,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Thanjavur",
     "region": "Cauvery Delta",
-    "tags": ["UNESCO", "Chola", "Big Temple"],
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "Big Temple"
+    ],
     "story": "Known as 'Thanjai Periya Kovil,' this architectural marvel was built by Raja Raja Chola I. The shadow of the main tower (Vimana) is said to never fall on the ground at noon.",
     "highlight": "The 80-ton monolithic stone cap (Kumbam) atop the 216-foot Vimana.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brihadisvara_Temple,_Thanjavur,_Tamil_Nadu,_India.jpg",
@@ -791,13 +1059,23 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 12:30 PM, 4:00 PM - 8:30 PM.",
     "dressCode": "Modest attire.",
     "entryNotes": "UNESCO World Heritage site; very well maintained.",
-    "rituals": ["Daily Abhishekam to the massive Nandi"],
-    "festivals": ["Maha Shivratri", "Raja Raja Chola's Birthday"],
+    "rituals": [
+      "Daily Abhishekam to the massive Nandi"
+    ],
+    "festivals": [
+      "Maha Shivratri",
+      "Raja Raja Chola's Birthday"
+    ],
     "moreDetails": {
       "history": "Completed in 1010 AD, it is one of the largest temples in India.",
       "architecture": "Pure Dravidian style with all-granite construction.",
       "darshan": "The massive 12-foot high Linga is a sight to behold.",
-      "sources": [{ "label": "ASI Thanjavur", "url": "https://asi.nic.in/" }]
+      "sources": [
+        {
+          "label": "ASI Thanjavur",
+          "url": "https://asi.nic.in/"
+        }
+      ]
     }
   },
   {
@@ -805,7 +1083,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Rameswaram",
     "region": "Pamban Island",
-    "tags": ["Jyotirlinga", "Char Dham", "Corridors"],
+    "tags": [
+      "Jyotirlinga",
+      "Char Dham",
+      "Corridors"
+    ],
     "story": "Lord Rama is believed to have built the Linga here to pray for penance after the war in Lanka.",
     "highlight": "The longest temple corridor in the world with over 1200 pillars.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rameswaram_Temple_Corridor.jpg",
@@ -817,12 +1099,23 @@ export const tamilNaduTemples = [
     "timings": "5:00 AM - 1:00 PM, 3:00 PM - 9:00 PM.",
     "dressCode": "Strict traditional dress code.",
     "entryNotes": "Devotees usually bathe in 22 holy wells (Theerthams) before darshan.",
-    "rituals": ["Mani Darshanam (Early morning)", "Theertha Snanam"],
-    "festivals": ["Maha Shivratri", "Thirukalyanam"],
+    "rituals": [
+      "Mani Darshanam (Early morning)",
+      "Theertha Snanam"
+    ],
+    "festivals": [
+      "Maha Shivratri",
+      "Thirukalyanam"
+    ],
     "moreDetails": {
       "history": "Expanded significantly by the Jaffna kings and later Sethupathi Rajas.",
       "architecture": "Massive outer walls and magnificent sculpted pillars.",
-      "sources": [{ "label": "Rameswaram Temple", "url": "https://rameswaram.hrce.tn.gov.in/" }]
+      "sources": [
+        {
+          "label": "Rameswaram Temple",
+          "url": "https://rameswaram.hrce.tn.gov.in/"
+        }
+      ]
     }
   },
   {
@@ -830,7 +1123,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Srirangam",
     "region": "Cauvery River Island",
-    "tags": ["Divya Desam", "Largest", "Vishnu"],
+    "tags": [
+      "Divya Desam",
+      "Largest",
+      "Vishnu"
+    ],
     "story": "The foremost of the 108 Divya Desams, this temple city is the largest functioning Hindu temple complex in the world.",
     "highlight": "The Rajagopuram, one of the tallest in Asia (237 feet).",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial_view_of_Sri_Rangam_temple_near_Tiruchirapalli_1.jpg",
@@ -842,12 +1139,22 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 9:00 PM (with breaks).",
     "dressCode": "Traditional attire mandatory for inner sanctum.",
     "entryNotes": "The temple complex covers 156 acres with 7 enclosures.",
-    "rituals": ["Viswaroopa Seva", "Pagal Pathu"],
-    "festivals": ["Vaikuntha Ekadashi"],
+    "rituals": [
+      "Viswaroopa Seva",
+      "Pagal Pathu"
+    ],
+    "festivals": [
+      "Vaikuntha Ekadashi"
+    ],
     "moreDetails": {
       "history": "Associated with the philosopher Ramanuja, who is preserved in a shrine here.",
       "architecture": "Saptaprakaram (7 concentric walls).",
-      "sources": [{ "label": "Srirangam Temple", "url": "https://srirangam.org/" }]
+      "sources": [
+        {
+          "label": "Srirangam Temple",
+          "url": "https://srirangam.org/"
+        }
+      ]
     }
   },
   {
@@ -855,7 +1162,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Mahabalipuram",
     "region": "Coromandel Coast",
-    "tags": ["UNESCO", "Pallava", "Monolithic"],
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "Monolithic"
+    ],
     "story": "One of the oldest stone temples in South India, built by the Pallavas to overlook the Bay of Bengal. It survived the 2004 Tsunami almost unscathed.",
     "highlight": "The structural beauty standing against the ocean waves.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mamallapuram,_Shore_Temple,_India.jpg",
@@ -867,12 +1178,21 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 6:00 PM.",
     "dressCode": "Casual/Modest.",
     "entryNotes": "ASI ticket required; covers multiple monuments in the town.",
-    "rituals": ["No active worship (Protected monument)"],
-    "festivals": ["Mamallapuram Dance Festival"],
+    "rituals": [
+      "No active worship (Protected monument)"
+    ],
+    "festivals": [
+      "Mamallapuram Dance Festival"
+    ],
     "moreDetails": {
       "history": "Built by King Narasimhavarman II in the 8th century.",
       "architecture": "Cut-stone structural temple rather than rock-cut.",
-      "sources": [{ "label": "UNESCO Mamallapuram", "url": "https://whc.unesco.org/en/list/249" }]
+      "sources": [
+        {
+          "label": "UNESCO Mamallapuram",
+          "url": "https://whc.unesco.org/en/list/249"
+        }
+      ]
     }
   },
   {
@@ -880,7 +1200,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Chidambaram",
     "region": "Cuddalore District",
-    "tags": ["Akasha Lingam", "Nataraja", "Pancha Bhoota"],
+    "tags": [
+      "Akasha Lingam",
+      "Nataraja",
+      "Pancha Bhoota"
+    ],
     "story": "This is where Shiva is worshipped as the Lord of Dance (Nataraja). It represents the element 'Ether' (Akasha).",
     "highlight": "The Chidambara Rahasyam (Secret of Chidambaram) and the golden-roofed sanctum.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thillai_Nataraja_Temple_(Chidambaram_Nataraja_Temple).jpg",
@@ -892,12 +1216,23 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 12:00 PM, 5:00 PM - 10:00 PM.",
     "dressCode": "Traditional attire mandatory.",
     "entryNotes": "Known for the cosmic connection to the center of the earth.",
-    "rituals": ["Ananda Tandava Puja", "Spatika Linga Abhishekam"],
-    "festivals": ["Arudhra Darisanam", "Natyanjali"],
+    "rituals": [
+      "Ananda Tandava Puja",
+      "Spatika Linga Abhishekam"
+    ],
+    "festivals": [
+      "Arudhra Darisanam",
+      "Natyanjali"
+    ],
     "moreDetails": {
       "history": "The temple is managed by a unique community of priests called Dikshitars.",
       "architecture": "Includes depictions of the 108 Karanas from Natya Shastra.",
-      "sources": [{ "label": "Chidambaram Temple", "url": "https://chidambaramnataraja.org/" }]
+      "sources": [
+        {
+          "label": "Chidambaram Temple",
+          "url": "https://chidambaramnataraja.org/"
+        }
+      ]
     }
   },
   {
@@ -905,7 +1240,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Tiruvannamalai",
     "region": "Annamalai Hills",
-    "tags": ["Agni Lingam", "Hill", "Pancha Bhoota"],
+    "tags": [
+      "Agni Lingam",
+      "Hill",
+      "Pancha Bhoota"
+    ],
     "story": "Representing the element 'Fire,' Shiva is worshipped here as a massive column of light. The hill itself is considered a Linga.",
     "highlight": "The massive Karthigai Deepam flame lit atop the hill.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiruvannamalai_arunachaleswarar_kovil.jpg",
@@ -917,12 +1256,22 @@ export const tamilNaduTemples = [
     "timings": "5:00 AM - 9:00 PM (with breaks).",
     "dressCode": "Modest.",
     "entryNotes": "The 14km circumambulation (Girivalam) around the hill is a primary ritual.",
-    "rituals": ["Girivalam", "Pancha Murthi Abhishekam"],
-    "festivals": ["Karthigai Deepam"],
+    "rituals": [
+      "Girivalam",
+      "Pancha Murthi Abhishekam"
+    ],
+    "festivals": [
+      "Karthigai Deepam"
+    ],
     "moreDetails": {
       "history": "Ancient site mentioned in Tevaram; expanded by Cholas and Vijayanagar rulers.",
       "architecture": "Four grand gateway towers, the tallest being 217 feet.",
-      "sources": [{ "label": "Annamalaiyar Temple", "url": "https://annamalaiyar.hrce.tn.gov.in/" }]
+      "sources": [
+        {
+          "label": "Annamalaiyar Temple",
+          "url": "https://annamalaiyar.hrce.tn.gov.in/"
+        }
+      ]
     }
   },
   {
@@ -930,7 +1279,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Kanchipuram",
     "region": "Temple Town",
-    "tags": ["Prithvi Lingam", "Mango Tree", "Pancha Bhoota"],
+    "tags": [
+      "Prithvi Lingam",
+      "Mango Tree",
+      "Pancha Bhoota"
+    ],
     "story": "Representing the element 'Earth,' the main Linga is made of sand. Goddess Parvati is said to have worshipped it under an ancient mango tree.",
     "highlight": "The 3500-year-old sacred mango tree that yields four different types of fruit.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ekambareswarar_Temple_at_night_in_Kanchipuram_01.jpg",
@@ -942,12 +1295,21 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 12:30 PM, 4:00 PM - 8:30 PM.",
     "dressCode": "Modest.",
     "entryNotes": "One of the most ancient temples in Kanchipuram.",
-    "rituals": ["Daily puja to the sand linga"],
-    "festivals": ["Panguni Uthiram"],
+    "rituals": [
+      "Daily puja to the sand linga"
+    ],
+    "festivals": [
+      "Panguni Uthiram"
+    ],
     "moreDetails": {
       "history": "Built by the Pallavas and later expanded by the Vijayanagar kings.",
       "architecture": "Features a 1000-pillar hall.",
-      "sources": [{ "label": "Kanchi Ekambareswarar", "url": "https://ekambaranathar.hrce.tn.gov.in/" }]
+      "sources": [
+        {
+          "label": "Kanchi Ekambareswarar",
+          "url": "https://ekambaranathar.hrce.tn.gov.in/"
+        }
+      ]
     }
   },
   {
@@ -955,7 +1317,11 @@ export const tamilNaduTemples = [
     "state": "Tamil Nadu",
     "city": "Trichy",
     "region": "Srirangam Island",
-    "tags": ["Appu Lingam", "Water", "Pancha Bhoota"],
+    "tags": [
+      "Appu Lingam",
+      "Water",
+      "Pancha Bhoota"
+    ],
     "story": "Representing the element 'Water,' the sanctum of this temple always has a natural spring flowing beneath the Linga.",
     "highlight": "The underwater linga and the legendary spider and elephant who worshipped it.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/East_tower_of_Thiruvanaikaval_Jambukeswarar_temple.jpg",
@@ -967,12 +1333,22 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 1:00 PM, 3:00 PM - 8:30 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "Located very close to the Srirangam Ranganatha temple.",
-    "rituals": ["Noon puja where the priest dresses as a woman (representing Akilandeswari)"],
-    "festivals": ["Thai Poosam", "Panguni Brahmmotsavam"],
+    "rituals": [
+      "Noon puja where the priest dresses as a woman (representing Akilandeswari)"
+    ],
+    "festivals": [
+      "Thai Poosam",
+      "Panguni Brahmmotsavam"
+    ],
     "moreDetails": {
       "history": "Built by Kocengannan, an Early Chola king, 1800 years ago.",
       "architecture": "Five enclosures (Prakarams).",
-      "sources": [{ "label": "Thiruvanaikoil", "url": "https://thiruvanaikoil.hrce.tn.gov.in/" }]
+      "sources": [
+        {
+          "label": "Thiruvanaikoil",
+          "url": "https://thiruvanaikoil.hrce.tn.gov.in/"
+        }
+      ]
     }
   },
   {
@@ -980,7 +1356,11 @@ export const tamilNaduTemples = [
     "state": "Andhra Pradesh",
     "city": "Srikalahasti",
     "region": "Near Tirupati",
-    "tags": ["Vayu Lingam", "Air", "Pancha Bhoota"],
+    "tags": [
+      "Vayu Lingam",
+      "Air",
+      "Pancha Bhoota"
+    ],
     "story": "The element 'Air.' The flickering lamp in the windless sanctum proves the presence of the Air element.",
     "highlight": "Rahu-Ketu Dosha Nivarana Puja.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Srikalahasti_temple_and_Hill.jpg",
@@ -992,51 +1372,18 @@ export const tamilNaduTemples = [
     "timings": "6:00 AM - 9:00 PM.",
     "dressCode": "Traditional.",
     "entryNotes": "Very famous for Rahu Ketu remedial prayers.",
-    "rituals": ["Rahu Ketu Puja"],
-    "festivals": ["Maha Shivratri"],
-    "moreDetails": {
-      "history": "Associated with Kannappa Nayanar, who offered his eyes to the Lord.",
-      "sources": [{ "label": "Srikalahasti", "url": "https://www.srikalahasthitemple.com/" }]
-    }
-  }
-
-  ,
-  {
-    "name": "Meenakshi Amman Temple",
-    "state": "Tamil Nadu",
-    "city": "Madurai",
-    "region": "Vaigai Basin",
-    "tags": [
-      "Dravidian",
-      "Gopuram",
-      "Festivals"
-    ],
-    "story": "Vibrant gopurams, temple tanks, and centuries of artistry define this living marvel.",
-    "highlight": "Evening procession and the Thousand Pillar Hall.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Meenakshi%20Amman%20Temple,%20Madurai.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Meenakshi_Amman_Temple,_Madurai.jpg",
-    "deity": "Meenakshi and Sundareshwar",
-    "tradition": "Shaiva",
-    "bestTime": "Evening processions and temple lighting.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Traditional attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
     "rituals": [
-      "Evening procession",
-      "Daily puja"
+      "Rahu Ketu Puja"
     ],
     "festivals": [
-      "Chithirai festival",
-      "Navratri"
+      "Maha Shivratri"
     ],
     "moreDetails": {
-      "puranicView": "The Tiruvilaiyadal Puranam narrates Meenakshi's birth from a yajna, her third breast disappearing when she meets Shiva, and their divine marriage as Sundaresvara and Meenakshi. The temple celebrates this mythic union as the heart of Madurai's sacred identity.",
-      "puranicSources": [
+      "history": "Associated with Kannappa Nayanar, who offered his eyes to the Lord.",
+      "sources": [
         {
-          "label": "Meenakshi Temple",
-          "url": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
-          "type": "Encyclopedia (Tiruvilaiyadal Puranam)"
+          "label": "Srikalahasti",
+          "url": "https://www.srikalahasthitemple.com/"
         }
       ]
     }
@@ -1084,46 +1431,6 @@ export const tamilNaduTemples = [
         {
           "label": "Brihadishvara Temple (Britannica)",
           "url": "https://www.britannica.com/place/Brihadishvara-temple"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Sri Ranganathaswamy Temple",
-    "state": "Tamil Nadu",
-    "city": "Srirangam",
-    "region": "Cauvery Delta",
-    "tags": [
-      "Vishnu",
-      "Temple Town",
-      "Dravidian"
-    ],
-    "story": "A vast temple town dedicated to Ranganatha, with layered courtyards and sacred tanks.",
-    "highlight": "Processional streets and the temple tank at dusk.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Srirangam-Ranganathaswamy_Temple-.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Srirangam-Ranganathaswamy_Temple-.jpg",
-    "deity": "Ranganatha",
-    "tradition": "Vaishnava",
-    "bestTime": "Early mornings and festival evenings.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Traditional attire recommended.",
-    "entryNotes": "Large complex; allow time for inner sanctum queues.",
-    "rituals": [
-      "Morning puja",
-      "Evening deeparadhana"
-    ],
-    "festivals": [
-      "Vaikunta Ekadashi",
-      "Panguni Uthiram"
-    ],
-    "moreDetails": {
-      "puranicView": "The temple celebrates Vishnu as Ranganatha reclining on Ananta, a form central to Vaishnava Puranic cosmology. Sri Vaishnava tradition places Srirangam as the foremost of the 108 Divya Desams, with narratives tracing the sanctity of the icon to the Ramayana and Ikshvaku line.",
-      "puranicSources": [
-        {
-          "label": "Ranganathaswamy Temple, Srirangam",
-          "url": "https://en.wikipedia.org/wiki/Ranganathaswamy_Temple,_Srirangam",
-          "type": "Encyclopedia (Divya Desam tradition)"
         }
       ]
     }
@@ -1224,225 +1531,6 @@ export const tamilNaduTemples = [
     }
   },
   {
-    "name": "Kapaleeshwarar Temple",
-    "state": "Tamil Nadu",
-    "city": "Chennai",
-    "region": "Mylapore",
-    "tags": [
-      "Shiva",
-      "Chennai",
-      "Dravidian"
-    ],
-    "story": "A landmark Shaiva temple in Mylapore with a vibrant city devotional culture.",
-    "highlight": "Towering gopurams and bustling temple streets.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kapaleeshwarar_Temple_(4215634377).jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kapaleeshwarar_Temple_(4215634377).jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "bestTime": "Morning or evening darshan.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Crowds increase during festival days.",
-    "rituals": [
-      "Daily puja",
-      "Evening aarti"
-    ],
-    "festivals": [
-      "Panguni Peruvila",
-      "Mahashivratri"
-    ],
-    "moreDetails": {
-      "history": "Kapaleeshwarar Temple is a historic Shaiva temple in Mylapore, Chennai.",
-      "puranicView": "The shrine honors Shiva as Kapaleeshwarar with long standing local traditions.",
-      "puranicSources": [
-        {
-          "label": "Kapaleeshwarar Temple",
-          "url": "https://en.wikipedia.org/wiki/Kapaleeshwarar_Temple",
-          "type": "Encyclopedia"
-        }
-      ],
-      "folklore": "Local worship includes temple processions and seasonal celebrations.",
-      "folkloreSources": [
-        {
-          "label": "Kapaleeshwarar Temple",
-          "url": "https://en.wikipedia.org/wiki/Kapaleeshwarar_Temple",
-          "type": "Encyclopedia"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Kapaleeshwarar Temple",
-          "url": "https://en.wikipedia.org/wiki/Kapaleeshwarar_Temple"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Ekambareswarar Temple",
-    "state": "Tamil Nadu",
-    "city": "Kanchipuram",
-    "region": "Kanchi City",
-    "tags": [
-      "Shiva",
-      "Pancha Bhoota",
-      "Heritage"
-    ],
-    "story": "A major Shiva temple in Kanchipuram known for its vast precincts.",
-    "highlight": "Prithvi lingam tradition and towering gopurams.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ekambareswarar_Temple_(Kanchipuram).jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ekambareswarar_Temple_(Kanchipuram).jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "bestTime": "Morning visits for calmer darshan.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Large complex; expect walking inside the precincts.",
-    "rituals": [
-      "Daily puja",
-      "Evening aarti"
-    ],
-    "festivals": [
-      "Panguni Uthiram",
-      "Mahashivratri"
-    ],
-    "moreDetails": {
-      "history": "Ekambareswarar Temple is a major Shaiva shrine in Kanchipuram dedicated to Shiva.",
-      "puranicView": "The temple is one of the Pancha Bhuta Sthalams and represents the earth element (Prithvi).",
-      "puranicSources": [
-        {
-          "label": "Ekambareswarar Temple (Kanchipuram)",
-          "url": "https://en.wikipedia.org/wiki/Ekambareswarar_Temple_(Kanchipuram)",
-          "type": "Encyclopedia"
-        }
-      ],
-      "folklore": "Devotees visit for regular worship and major Shaiva festivals.",
-      "folkloreSources": [
-        {
-          "label": "Ekambareswarar Temple (Kanchipuram)",
-          "url": "https://en.wikipedia.org/wiki/Ekambareswarar_Temple_(Kanchipuram)",
-          "type": "Encyclopedia"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Ekambareswarar Temple (Kanchipuram)",
-          "url": "https://en.wikipedia.org/wiki/Ekambareswarar_Temple_(Kanchipuram)"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Ramanathaswamy Temple",
-    "state": "Tamil Nadu",
-    "city": "Rameswaram",
-    "region": "Pamban Island",
-    "tags": [
-      "Shiva",
-      "Jyotirlinga",
-      "Pilgrimage"
-    ],
-    "story": "A revered Shaiva shrine on Rameswaram island with long ritual corridors.",
-    "highlight": "Sacred bathing rituals and long colonnaded halls.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramanathaswamy_Temple.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ramanathaswamy_Temple.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "bestTime": "Early morning for temple rituals.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Traditional attire recommended.",
-    "entryNotes": "Ritual bathing and temple rules are observed.",
-    "rituals": [
-      "Daily puja",
-      "Evening aarti"
-    ],
-    "festivals": [
-      "Mahashivratri",
-      "Annual temple festivals"
-    ],
-    "moreDetails": {
-      "history": "Ramanathaswamy Temple is a major Shaiva shrine in Rameswaram dedicated to Shiva.",
-      "puranicView": "Traditions describe two lingams in the sanctum, associated with Rama and Hanuman.",
-      "puranicSources": [
-        {
-          "label": "Ramanathaswamy Temple",
-          "url": "https://en.wikipedia.org/wiki/Ramanathaswamy_Temple",
-          "type": "Encyclopedia"
-        }
-      ],
-      "folklore": "Pilgrims often combine ritual bathing with temple darshan during visits.",
-      "folkloreSources": [
-        {
-          "label": "Ramanathaswamy Temple",
-          "url": "https://en.wikipedia.org/wiki/Ramanathaswamy_Temple",
-          "type": "Encyclopedia"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Ramanathaswamy Temple",
-          "url": "https://en.wikipedia.org/wiki/Ramanathaswamy_Temple"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Airavatesvara Temple",
-    "state": "Tamil Nadu",
-    "city": "Darasuram",
-    "region": "Kumbakonam",
-    "tags": [
-      "Shiva",
-      "UNESCO",
-      "Chola"
-    ],
-    "story": "A UNESCO listed Chola era temple renowned for intricate stone work.",
-    "highlight": "Chariot style mandapa and sculpted panels.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Darasuram,_Airavatesvara_Temple,_Gopuram,_India.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Darasuram,_Airavatesvara_Temple,_Gopuram,_India.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "bestTime": "Morning visits for quieter darshan.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Heritage monument; respect site guidelines.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Mahashivratri",
-      "Local temple festivals"
-    ],
-    "moreDetails": {
-      "history": "Airavatesvara Temple is a Chola era Shaiva temple at Darasuram and part of the Great Living Chola Temples.",
-      "puranicView": "Temple legends associate the shrine name with Airavata and Shiva worship.",
-      "puranicSources": [
-        {
-          "label": "Airavatesvara Temple",
-          "url": "https://en.wikipedia.org/wiki/Airavatesvara_Temple",
-          "type": "Encyclopedia"
-        }
-      ],
-      "folklore": "Visitors highlight the sculpted mandapas and heritage setting.",
-      "folkloreSources": [
-        {
-          "label": "Airavatesvara Temple",
-          "url": "https://en.wikipedia.org/wiki/Airavatesvara_Temple",
-          "type": "Encyclopedia"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Airavatesvara Temple",
-          "url": "https://en.wikipedia.org/wiki/Airavatesvara_Temple"
-        }
-      ]
-    }
-  },
-  {
     "name": "Brihadisvara Temple (Gangaikonda Cholapuram)",
     "state": "Tamil Nadu",
     "city": "Gangaikonda Cholapuram",
@@ -1498,61 +1586,6 @@ export const tamilNaduTemples = [
     }
   },
   {
-    "name": "Jambukeswarar Temple",
-    "state": "Tamil Nadu",
-    "city": "Tiruchirappalli",
-    "region": "Thiruvanaikaval",
-    "tags": [
-      "Shiva",
-      "Pancha Bhoota",
-      "Heritage"
-    ],
-    "story": "A revered Shaiva temple near Srirangam known for its water element worship.",
-    "highlight": "Appu lingam tradition and sacred tank rituals.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/East_tower_of_Thiruvanaikaval_Jambukeswarar_temple.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:East_tower_of_Thiruvanaikaval_Jambukeswarar_temple.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "bestTime": "Morning visits for calmer darshan.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Expect crowds during festival days.",
-    "rituals": [
-      "Daily puja",
-      "Evening aarti"
-    ],
-    "festivals": [
-      "Mahashivratri",
-      "Natyanjali"
-    ],
-    "moreDetails": {
-      "history": "Jambukeswarar Temple is a prominent Shaiva shrine in Thiruvanaikaval near Tiruchirappalli.",
-      "puranicView": "The temple is part of the Pancha Bhuta Sthalams and represents the water element.",
-      "puranicSources": [
-        {
-          "label": "Jambukeswarar Temple, Thiruvanaikaval",
-          "url": "https://en.wikipedia.org/wiki/Jambukeswarar_Temple,_Thiruvanaikaval",
-          "type": "Encyclopedia"
-        }
-      ],
-      "folklore": "Local devotion highlights daily rituals and temple processions.",
-      "folkloreSources": [
-        {
-          "label": "Jambukeswarar Temple, Thiruvanaikaval",
-          "url": "https://en.wikipedia.org/wiki/Jambukeswarar_Temple,_Thiruvanaikaval",
-          "type": "Encyclopedia"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Jambukeswarar Temple, Thiruvanaikaval",
-          "url": "https://en.wikipedia.org/wiki/Jambukeswarar_Temple,_Thiruvanaikaval"
-        }
-      ]
-    }
-  },
-  {
     "name": "Kailasanathar Temple (Kanchipuram)",
     "state": "Tamil Nadu",
     "city": "Kanchipuram",
@@ -1602,61 +1635,6 @@ export const tamilNaduTemples = [
         {
           "label": "Kailasanathar Temple, Kanchipuram",
           "url": "https://en.wikipedia.org/wiki/Kailasanathar_Temple,_Kanchipuram"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Nellaiappar Temple",
-    "state": "Tamil Nadu",
-    "city": "Tirunelveli",
-    "region": "Thamirabarani Basin",
-    "tags": [
-      "Shiva",
-      "Temple City",
-      "Heritage"
-    ],
-    "story": "A large Shaiva temple complex in Tirunelveli with twin shrines.",
-    "highlight": "Grand gopurams and the musical pillar mandapam.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nellaiappar_Temple.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nellaiappar_Temple.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "bestTime": "Morning or evening darshan.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Large complex; allow extra time for visits.",
-    "rituals": [
-      "Daily puja",
-      "Evening aarti"
-    ],
-    "festivals": [
-      "Arudra Darisanam",
-      "Mahashivratri"
-    ],
-    "moreDetails": {
-      "history": "Nellaiappar Temple is a major Shaiva shrine in Tirunelveli with a prominent twin shrine layout.",
-      "puranicView": "The temple is revered in Tamil Saiva traditions and devotional hymns.",
-      "puranicSources": [
-        {
-          "label": "Nellaiappar Temple",
-          "url": "https://en.wikipedia.org/wiki/Nellaiappar_Temple",
-          "type": "Encyclopedia"
-        }
-      ],
-      "folklore": "Local devotion highlights the temple processions and music traditions.",
-      "folkloreSources": [
-        {
-          "label": "Nellaiappar Temple",
-          "url": "https://en.wikipedia.org/wiki/Nellaiappar_Temple",
-          "type": "Encyclopedia"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Nellaiappar Temple",
-          "url": "https://en.wikipedia.org/wiki/Nellaiappar_Temple"
         }
       ]
     }
@@ -1827,45 +1805,6 @@ export const tamilNaduTemples = [
         {
           "label": "Marundeeswarar Temple",
           "url": "https://en.wikipedia.org/wiki/Marundeeswarar_Temple"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Kamakshi Amman Temple",
-    "state": "Tamil Nadu",
-    "city": "Kanchipuram",
-    "region": "Kanchi",
-    "tags": [
-      "Shakti Peetha",
-      "Kanchipuram",
-      "Gopuram"
-    ],
-    "story": "A major Shakta shrine in Kanchipuram dedicated to Goddess Kamakshi.",
-    "highlight": "Golden gopurams and the sanctum of Kamakshi.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanchipuram_Kamakshi_Amman_Temple.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kanchipuram_Kamakshi_Amman_Temple.jpg",
-    "deity": "Kamakshi",
-    "tradition": "Shakta",
-    "bestTime": "Morning or evening darshan.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Footwear is not allowed inside temple areas.",
-    "rituals": [
-      "Daily puja",
-      "Evening aarti"
-    ],
-    "festivals": [
-      "Navratri",
-      "Aadi festival"
-    ],
-    "moreDetails": {
-      "history": "Kamakshi Amman Temple is a major Shakta shrine in Kanchipuram dedicated to Goddess Kamakshi.",
-      "sources": [
-        {
-          "label": "Kamakshi Amman Temple",
-          "url": "https://en.wikipedia.org/wiki/Kamakshi_Amman_Temple"
         }
       ]
     }
@@ -2217,50 +2156,6 @@ export const tamilNaduTemples = [
         {
           "label": "Devi Kanya Kumari",
           "url": "https://en.wikipedia.org/wiki/Devi_Kanya_Kumari"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Meenakshi Amman Temple",
-    "state": "Tamil Nadu",
-    "city": "Madurai",
-    "region": "Vaigai River",
-    "tags": [
-      "Meenakshi",
-      "Madurai",
-      "Gopuram"
-    ],
-    "story": "A monumental temple city in Madurai dedicated to Meenakshi, famed for its towering gopurams and sacred tank.",
-    "highlight": "Soaring gopurams and the Golden Lotus Pond within the vast temple complex.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Meenakshi%20Temple%20Gopuram.jpeg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_Gopuram.jpeg",
-    "deity": "Meenakshi (Parvati)",
-    "tradition": "Shakta",
-    "bestTime": "Early mornings or evenings for quieter darshan.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Expect security checks and queues during festivals.",
-    "rituals": [
-      "Daily puja",
-      "Evening aarti"
-    ],
-    "festivals": [
-      "Chithirai festival",
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Meenakshi Temple is a historic temple complex in Madurai dedicated to Meenakshi and Sundareswarar, famed for its gopurams and ritual life.",
-      "architecture": "Dravidian temple architecture with multiple gopurams, mandapas, and the temple tank.",
-      "darshan": "Darshan is open throughout the day with regular aarti timings.",
-      "seasonal": "Festival seasons draw the largest crowds.",
-      "visitorNotes": "Plan extra time for the larger temple circuit.",
-      "festivals": "Chithirai festival · Navratri",
-      "sources": [
-        {
-          "label": "Meenakshi Temple",
-          "url": "https://en.wikipedia.org/wiki/Meenakshi_Temple"
         }
       ]
     }

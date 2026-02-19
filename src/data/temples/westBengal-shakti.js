@@ -546,7 +546,6 @@ export const westBengalShaktiTemples = [
         }
     }
 ,
-,
   {
     "name": "Ratnavali Shakti Peeth",
     "state": "West Bengal",

@@ -685,5 +685,4 @@ export const uttarakhandShaktiTemples = [
       ],
     },
   },
-  ,
 ];

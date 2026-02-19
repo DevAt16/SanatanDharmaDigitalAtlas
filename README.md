@@ -14,3 +14,14 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Production Readiness Checklist
+
+1. Install dependencies: `npm ci`
+2. Configure analytics (optional):
+   - Copy `.env.example` to `.env`
+   - Set `VITE_GA_ID` with your GA4 measurement ID.
+3. Validate quality gates:
+   - `npm run lint`
+   - `npm run build`
+4. Preview production build locally: `npm run preview`
