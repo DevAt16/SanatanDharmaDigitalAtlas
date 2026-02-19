@@ -5,11 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev:api": "node scripts/templeApiServer.mjs",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "check:duplicates": "node scripts/checkTempleDuplicates.mjs",
-    "add:temples": "node scripts/addTemples.mjs"
+    "add:temples": "node scripts/addTemples.mjs",
+    "store:export": "node scripts/exportTempleStore.mjs",
+    "store:ingest": "node scripts/ingestTempleStore.mjs"
   },
   "dependencies": {
     "react": "^19.2.0",
