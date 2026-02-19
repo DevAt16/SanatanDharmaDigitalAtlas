@@ -12,11 +12,12 @@ export const uttarakhandTemples = [
     ],
     "story": "One of the twelve Jyotirlingas and the highest among them, located near the Mandakini river.",
     "highlight": "Highest Jyotirlinga set amidst snow-capped peaks.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kedarnath_Temple_Uttarakhand.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kedarnath_temple_Uttarakhand.jpg",
     "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kedarnath_Temple_Uttarakhand.jpg",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kedarnath_temple_Uttarakhand.jpg",
     "deity": "Shiva (Kedareshwar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "May to June, September to October.",
     "timings": "Open daily (May-Oct).",
     "dressCode": "Warm clothing recommended.",
@@ -58,6 +59,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Tungnath_temple_Rudrprayag.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "May to November.",
     "timings": "Open daily.",
     "dressCode": "Warm clothing.",
@@ -98,6 +100,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Rudranath_Temple.jpg",
     "deity": "Shiva (Rudranath)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "May to October.",
     "timings": "Open daily.",
     "dressCode": "Trekking gear.",
@@ -138,6 +141,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Madhyamaheshwar_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "May to October.",
     "timings": "Open daily.",
     "dressCode": "Trekking gear.",
@@ -176,6 +180,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kalpeshwar_Temple.jpg",
     "deity": "Shiva (Jateshwar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -216,6 +221,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bagnath_Temple_Bageshwar.jpg",
     "deity": "Bagnath (Shiva)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "January (Uttarayani).",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -257,6 +263,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Baijnath_Temple_complex.jpg",
     "deity": "Shiva (Vaidyanath)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -297,6 +304,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Jageshwar_Mahadev_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Monsoon.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -337,6 +345,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Mahamrityunjaya_Temple_Jageshwar.jpg",
     "deity": "Shiva (Mahamrityunjaya)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -377,6 +386,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Dandeshwar_Temple.jpg",
     "deity": "Shiva (Dandeshwar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -415,6 +425,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Patal_Bhuvaneshwar_Cave.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily (Daylight).",
     "dressCode": "Casual/Comfortable.",
@@ -453,6 +464,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kashi_Vishwanath_Temple_Uttarkashi.jpg",
     "deity": "Shiva (Vishwanath)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -493,6 +505,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Shivratri.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -533,6 +546,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Neelkanth_Mahadev_Temple.jpg",
     "deity": "Shiva (Neelkanth)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Shravan Month.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -574,6 +588,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Daksha_Mahadev_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Shravan.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -614,6 +629,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -652,6 +668,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Gopinath_Temple_Gopeshwar.jpg",
     "deity": "Shiva (Gopinath)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -692,6 +709,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Triyuginarayan_Temple.jpg",
     "deity": "Vishnu (Witness to Shiva's wedding)",
     "tradition": "Shaiva/Vaishnava",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -732,6 +750,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Vishwanath_Temple_Guptkashi.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -770,6 +789,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Omkareshwar_Temple_Ukhimath.jpg",
     "deity": "Shiva (Omkareshwar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter (for Kedarnath doli).",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -810,6 +830,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kartik_Swami_Temple.jpg",
     "deity": "Kartikeya (Son of Shiva)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "October to March.",
     "timings": "Open daily.",
     "dressCode": "Trekking gear/Casual.",
@@ -850,6 +871,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -890,6 +912,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Mukteshwar_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual/Warm.",
@@ -930,6 +953,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -970,6 +994,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Binsar_Mahadev_Temple.jpg",
     "deity": "Shiva (Bindeshwar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Summer.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1010,6 +1035,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Chitai_Golu_Devta_Temple.jpg",
     "deity": "Golu Devta (Shiva)",
     "tradition": "Folk/Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1051,6 +1077,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Golu Devta (Shiva)",
     "tradition": "Folk/Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1089,6 +1116,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Shravan.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1129,6 +1157,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Shivratri.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1169,6 +1198,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhimeshwar_Mahadev_Temple_Bhimtal.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -1205,10 +1235,11 @@ export const uttarakhandTemples = [
     "story": "An 8th-century temple established by Adi Shankaracharya with stunning Himalayan views.",
     "highlight": "Ancient architecture and views.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyunkaleshwar_Mahadev.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kyunkaleshwar_Mahadev.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva (Smarta)",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1249,6 +1280,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -1289,6 +1321,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Summer/Winter.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -1329,6 +1362,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kandoliya_Temple_Pauri.jpg",
     "deity": "Kandoliya (Shiva)",
     "tradition": "Folk/Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -1369,6 +1403,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva/Jayanti",
     "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Summer/Winter (Snow).",
     "timings": "Daylight.",
     "dressCode": "Trekking gear.",
@@ -1407,6 +1442,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Shravan/Shivratri.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1447,6 +1483,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1487,6 +1524,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1525,6 +1563,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva (Nag Devta)",
     "tradition": "Shaiva/Naga",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Summer.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -1565,6 +1604,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva (Nag)",
     "tradition": "Naga",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Nag Panchami.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1605,6 +1645,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva (Nag)",
     "tradition": "Naga",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Nag Panchami.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1645,6 +1686,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva (Vasuki)",
     "tradition": "Naga",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Nag Panchami.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1685,6 +1727,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva (Kaliya)",
     "tradition": "Naga",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Nag Panchami.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1725,6 +1768,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva (Nag)",
     "tradition": "Naga",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Nag Panchami.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1765,6 +1809,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1805,6 +1850,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Gangnath (Shiva)",
     "tradition": "Folk",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1843,6 +1889,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -1881,6 +1928,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kapileshwar_Mahadev_Almora.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1921,6 +1969,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Post-monsoon.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1961,6 +2010,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Baleshwar_Temple_Champawat.jpg",
     "deity": "Shiva (Baleshwar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -2001,6 +2051,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -2041,6 +2092,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -2081,6 +2133,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Lakhamandal_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -2121,6 +2174,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Mahasu_Devta_Temple_Hanol.jpg",
     "deity": "Mahasu (Shiva from Kashmir)",
     "tradition": "Folk/Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -2161,6 +2215,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhadraj_Temple.jpg",
     "deity": "Balram/Shiva",
     "tradition": "Vaishnava/Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Post-monsoon.",
     "timings": "Open daily.",
     "dressCode": "Trekking gear.",
@@ -2201,6 +2256,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Koteshwar_Mahadev_Rudraprayag.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -2241,6 +2297,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Agastyeshwar (Shiva)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -2281,6 +2338,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Vaikunth Chaturdashi.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -2321,6 +2379,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Dhari_Devi_Temple.jpg",
     "deity": "Dhari Devi (Kali)/Shiva",
     "tradition": "Shakta/Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -2361,6 +2420,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -2399,6 +2459,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Dwarahat_temples.jpg",
     "deity": "Shiva/Vishnu",
     "tradition": "Smarta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -2439,6 +2500,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Katarmal_Sun_Temple.jpg",
     "deity": "Surya/Shiva",
     "tradition": "Saura/Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -2477,6 +2539,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Dunagiri_Temple.jpg",
     "deity": "Dunagiri Devi/Shiva",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Navaratri.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -2517,6 +2580,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Bhairav (Shiva)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "May-Oct.",
     "timings": "Open daily.",
     "dressCode": "Warm clothing.",
@@ -2555,6 +2619,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Gaurikund.jpg",
     "deity": "Gauri (Parvati)",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "May-Oct.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -2593,6 +2658,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Haidakhan Babaji (Shiva)",
     "tradition": "Yogic",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Modest.",
@@ -2634,6 +2700,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kainchi_Dham.jpg",
     "deity": "Hanuman/Shiva",
     "tradition": "Bhakti",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Modest.",
@@ -2674,6 +2741,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -2714,6 +2782,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva/Rama",
     "tradition": "Smarta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -2752,6 +2821,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "All Deities (Shiva)",
     "tradition": "Smarta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -2790,6 +2860,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual/Quiet.",
@@ -2830,6 +2901,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Chandrabadani (Shakti)",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -2870,6 +2942,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Raghunath_Temple_Devprayag.jpg",
     "deity": "Rama (Vishnu)",
     "tradition": "Vaishnava (Ramanandi)",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -2910,6 +2983,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Nandaprayag_Confluence.jpg",
     "deity": "Gopal (Krishna)",
     "tradition": "Vaishnava",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -2948,6 +3022,7 @@ export const uttarakhandTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Karnaprayag_Confluence.jpg",
     "deity": "Karna/Surya",
     "tradition": "Saura/Smarta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -2988,6 +3063,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Rahu/Shiva",
     "tradition": "Shaiva/Jyotish",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -3028,6 +3104,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Kal Bhairav (Shiva)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -3066,6 +3143,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Mosta (Shiva)",
     "tradition": "Folk",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "August-September.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -3106,6 +3184,7 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "deity": "Haryali Devi/Shiva",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Diwali.",
     "timings": "Open daily.",
     "dressCode": "Warm clothing.",
@@ -3128,5 +3207,1220 @@ export const uttarakhandTemples = [
         }
       ]
     }
+  },
+  {
+    "name": "Boodha Kedar Temple",
+    "city": "Tehri Garhwal",
+    "region": "Tehri Garhwal district",
+    "tags": [
+      "Ancient",
+      "Kedar Tradition",
+      "Garhwal"
+    ],
+    "story": "An old and revered Shiva temple in Garhwal, locally worshipped as a sacred Kedar site.",
+    "highlight": "Traditional Kedar worship in a quieter Himalayan setting.",
+    "deity": "Shiva (Boodha Kedar)",
+    "bestTime": "April to June, September to November.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest traditional attire recommended.",
+    "entryNotes": "Road access is seasonal; check local conditions in monsoon.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Regarded in local Garhwal tradition as an ancient Shiva kshetra tied to Kedar worship.",
+      "architecture": "Regional stone-temple style of the middle Himalayas.",
+      "visitorNotes": "A quieter pilgrimage compared to the main Char Dham route.",
+      "sources": [
+        {
+          "label": "Tehri Garhwal district",
+          "url": "https://en.wikipedia.org/wiki/Tehri_Garhwal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:40:00+05:30"
+  },
+  {
+    "name": "Ardhanarishwar Temple (Guptkashi)",
+    "city": "Guptkashi",
+    "region": "Rudraprayag district",
+    "tags": [
+      "Ardhanarishwar",
+      "Kedar Route",
+      "Shaiva"
+    ],
+    "story": "A revered shrine of Ardhanarishwar near the Kedarnath route, reflecting the union of Shiva and Shakti.",
+    "highlight": "Sacred stop on the Guptkashi–Kedarnath pilgrimage corridor.",
+    "deity": "Ardhanarishwar (Shiva-Shakti)",
+    "bestTime": "April to June, September to November.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Often visited along with Vishwanath Temple in Guptkashi.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Guptkashi is an important pre-Kedar halt with multiple Shiva shrines in local pilgrimage tradition.",
+      "architecture": "Classic Himalayan stone temple form.",
+      "visitorNotes": "Can be combined with nearby Guptkashi temple visits in one circuit.",
+      "sources": [
+        {
+          "label": "Guptkashi",
+          "url": "https://en.wikipedia.org/wiki/Guptkashi",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:40:00+05:30"
+  },
+  {
+    "name": "Rameshwar Mahadev Temple (Pithoragarh)",
+    "city": "Rameshwar",
+    "region": "Pithoragarh district",
+    "tags": [
+      "Confluence",
+      "Kumaon",
+      "Shaiva"
+    ],
+    "story": "A well-known Kumaon shrine dedicated to Shiva near a river confluence and old pilgrimage paths.",
+    "highlight": "Historic Shaiva temple in eastern Uttarakhand.",
+    "deity": "Shiva (Rameshwar)",
+    "bestTime": "October to April.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Accessible by road from Pithoragarh region.",
+    "rituals": [
+      "Daily puja",
+      "Rudrabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Makar Sankranti"
+    ],
+    "moreDetails": {
+      "history": "An established regional Shiva shrine on older Kumaon pilgrimage routes.",
+      "architecture": "Traditional Kumaoni temple style.",
+      "visitorNotes": "Best combined with nearby heritage temple visits.",
+      "sources": [
+        {
+          "label": "Pithoragarh district",
+          "url": "https://en.wikipedia.org/wiki/Pithoragarh_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:40:00+05:30"
+  },
+  {
+    "name": "Kankaleshwar Mahadev Temple",
+    "city": "Pauri",
+    "region": "Pauri Garhwal district",
+    "tags": [
+      "Hill Temple",
+      "Mahadev",
+      "Garhwal"
+    ],
+    "story": "A local hill shrine of Mahadev in the broader Pauri devotional landscape.",
+    "highlight": "Compact and serene Shiva worship site.",
+    "deity": "Shiva",
+    "bestTime": "Year-round.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Check local schedules on festival days.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Part of local Mahadev worship traditions in Pauri Garhwal.",
+      "architecture": "Simple Garhwali temple form.",
+      "visitorNotes": "Often visited by nearby residents for regular darshan.",
+      "sources": [
+        {
+          "label": "Pauri Garhwal district",
+          "url": "https://en.wikipedia.org/wiki/Pauri_Garhwal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyunkaleshwar_Mahadev.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kyunkaleshwar_Mahadev.jpg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:40:00+05:30"
+  },
+  {
+    "name": "Tarakund Mahadev Temple",
+    "city": "Tarakund",
+    "region": "Pauri Garhwal district",
+    "tags": [
+      "Mahadev",
+      "Garhwal",
+      "Local Pilgrimage"
+    ],
+    "story": "A local Mahadev shrine associated with village-level Shaiva worship in the Garhwal hills.",
+    "highlight": "Quiet mountain setting for Shiva devotees.",
+    "deity": "Shiva",
+    "bestTime": "October to April.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Road and weather conditions may vary in monsoon.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local devotional traditions.",
+      "architecture": "Regional hill-style shrine.",
+      "visitorNotes": "Plan with local guidance for access and timings.",
+      "sources": [
+        {
+          "label": "Pauri Garhwal district",
+          "url": "https://en.wikipedia.org/wiki/Pauri_Garhwal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:40:00+05:30"
+  },
+  {
+    "name": "Shiv Temple Group (Paithani)",
+    "city": "Paithani",
+    "region": "Pauri Garhwal district",
+    "tags": [
+      "Temple Group",
+      "Shaiva",
+      "Heritage"
+    ],
+    "story": "A cluster of local Shiva shrines in and around Paithani associated with longstanding regional worship.",
+    "highlight": "Multiple small Shaiva shrines in one circuit.",
+    "deity": "Shiva",
+    "bestTime": "Year-round.",
+    "timings": "Open daily; temple-wise timings vary.",
+    "dressCode": "Traditional attire preferred.",
+    "entryNotes": "Some shrines may have limited hours outside festival periods.",
+    "rituals": [
+      "Daily puja",
+      "Shravan offerings"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Village temple cluster tied to old Garhwal devotional circuits.",
+      "architecture": "Mixed regional forms with stone and masonry structures.",
+      "visitorNotes": "A suitable stop when traveling through Paithani region.",
+      "sources": [
+        {
+          "label": "Pauri Garhwal district",
+          "url": "https://en.wikipedia.org/wiki/Pauri_Garhwal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:40:00+05:30"
+  },
+  {
+    "name": "Shivalaya (Kukhar Gaon)",
+    "city": "Kukhar Gaon",
+    "region": "Pauri Garhwal district",
+    "tags": [
+      "Village Shrine",
+      "Shivalaya",
+      "Shaiva"
+    ],
+    "story": "A village Shivalaya dedicated to Shiva, serving as a regular local worship center.",
+    "highlight": "Grassroots Shaiva worship in rural Garhwal.",
+    "deity": "Shiva",
+    "bestTime": "Year-round.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Community-managed shrine; timings may be flexible.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Local devotional temple maintained by surrounding villages.",
+      "architecture": "Simple hill-village temple format.",
+      "visitorNotes": "Best visited respectfully during local puja windows.",
+      "sources": [
+        {
+          "label": "Pauri Garhwal district",
+          "url": "https://en.wikipedia.org/wiki/Pauri_Garhwal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:40:00+05:30"
+  },
+  {
+    "name": "Itharana Shiva Temple",
+    "city": "Itharana",
+    "region": "Almora district",
+    "tags": [
+      "Kumaon",
+      "Shiva",
+      "Local Heritage"
+    ],
+    "story": "A local Shiva temple in Kumaon with active village worship traditions.",
+    "highlight": "Regional Kumaoni Shaiva practice.",
+    "deity": "Shiva",
+    "bestTime": "October to April.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Local travel guidance recommended for first-time visitors.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Part of the wider network of Kumaon Shiva shrines.",
+      "architecture": "Traditional hill architecture.",
+      "visitorNotes": "May be paired with nearby Almora-region temples.",
+      "sources": [
+        {
+          "label": "Almora district",
+          "url": "https://en.wikipedia.org/wiki/Almora_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri_Mahadev_Mandir%2C_Itharna%2C_Almora%2C_Uttarakhand.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sri_Mahadev_Mandir,_Itharna,_Almora,_Uttarakhand.jpg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:40:00+05:30"
+  },
+  {
+    "name": "Leaning Shiva Temple (Rajpur)",
+    "city": "Rajpur",
+    "region": "Dehradun district",
+    "tags": [
+      "Rajpur",
+      "Mahadev",
+      "Local Landmark"
+    ],
+    "story": "A locally noted Shiva temple in the Rajpur area known for its distinct tilted profile.",
+    "highlight": "Distinctive leaning structure with active worship.",
+    "deity": "Shiva",
+    "bestTime": "Year-round.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Accessible from Dehradun city side routes.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Known in local devotional circuits around Rajpur and old Mussoorie road.",
+      "architecture": "Compact shrine with an unusual structural tilt.",
+      "visitorNotes": "Best visited in daylight hours.",
+      "sources": [
+        {
+          "label": "Dehradun district",
+          "url": "https://en.wikipedia.org/wiki/Dehradun_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:40:00+05:30"
+  },
+  {
+    "name": "Temple in Chakrata (Shiva)",
+    "city": "Chakrata",
+    "region": "Dehradun district",
+    "tags": [
+      "Chakrata",
+      "Shiva",
+      "Hill Shrine"
+    ],
+    "story": "A Shiva shrine in the Chakrata region connected to local mountain worship traditions.",
+    "highlight": "Shaiva worship in the Jaunsar-Bawar hill belt.",
+    "deity": "Shiva",
+    "bestTime": "March to June, September to November.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest and weather-appropriate clothing.",
+    "entryNotes": "Check road conditions before travel in heavy rains.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Part of region-specific hill worship customs in the Chakrata area.",
+      "architecture": "Small hill shrine style.",
+      "visitorNotes": "Local guidance is useful for exact location and timing.",
+      "sources": [
+        {
+          "label": "Chakrata",
+          "url": "https://en.wikipedia.org/wiki/Chakrata",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Temple_in_chakrata.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Temple_in_chakrata.jpg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:40:00+05:30"
+  },
+  {
+    "name": "Jatashankar Mahadev Temple (Nainital)",
+    "city": "Nainital",
+    "region": "Nainital district",
+    "tags": [
+      "Mahadev",
+      "Kumaon",
+      "Hill Shrine"
+    ],
+    "story": "A local Mahadev shrine in the Nainital region with regular community worship.",
+    "highlight": "Accessible hill-town Shiva temple in Kumaon.",
+    "deity": "Shiva",
+    "bestTime": "Year-round.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Check local darshan timings during peak season.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local devotional traditions in the Nainital belt.",
+      "architecture": "Regional hill-temple style.",
+      "visitorNotes": "Often visited by local devotees and travelers.",
+      "sources": [
+        {
+          "label": "Nainital district",
+          "url": "https://en.wikipedia.org/wiki/Nainital_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:55:00+05:30"
+  },
+  {
+    "name": "Gupteshwar Mahadev Temple (Munsiyari)",
+    "city": "Munsiyari",
+    "region": "Pithoragarh district",
+    "tags": [
+      "Mahadev",
+      "Kumaon",
+      "Mountain Shrine"
+    ],
+    "story": "A Shiva shrine associated with local high-altitude pilgrimage traditions near Munsiyari.",
+    "highlight": "Shaiva worship in a Himalayan frontier setting.",
+    "deity": "Shiva",
+    "bestTime": "April to June, September to October.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Warm and modest clothing recommended.",
+    "entryNotes": "Weather and road access can affect travel plans.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Part of local Kumaoni devotional practice around Munsiyari.",
+      "architecture": "Simple hill-shrine format.",
+      "visitorNotes": "Plan with local weather checks in advance.",
+      "sources": [
+        {
+          "label": "Munsiyari",
+          "url": "https://en.wikipedia.org/wiki/Munsiyari",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:55:00+05:30"
+  },
+  {
+    "name": "Nagnath Mahadev Temple (Barkot)",
+    "city": "Barkot",
+    "region": "Uttarkashi district",
+    "tags": [
+      "Nagnath",
+      "Mahadev",
+      "Yamunotri Route"
+    ],
+    "story": "A local Nagnath Mahadev shrine on the broader Uttarkashi-Barkot pilgrimage circuit.",
+    "highlight": "Shaiva stopover on the Yamunotri approach route.",
+    "deity": "Shiva (Nagnath)",
+    "bestTime": "April to June, September to November.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Useful halt for travelers in the Barkot sector.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Connected to regional Nag and Shaiva worship traditions.",
+      "architecture": "Small Himalayan shrine style.",
+      "visitorNotes": "Local guidance is recommended for exact location.",
+      "sources": [
+        {
+          "label": "Barkot",
+          "url": "https://en.wikipedia.org/wiki/Barkot",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:55:00+05:30"
+  },
+  {
+    "name": "Virupaksha Mahadev Temple (Joshimath)",
+    "city": "Joshimath",
+    "region": "Chamoli district",
+    "tags": [
+      "Virupaksha",
+      "Mahadev",
+      "Chamoli"
+    ],
+    "story": "A local Mahadev shrine in the Joshimath region serving pilgrims and residents.",
+    "highlight": "Shaiva darshan in a key Himalayan pilgrimage town.",
+    "deity": "Shiva (Virupaksha)",
+    "bestTime": "April to June, September to November.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Can be visited along with nearby pilgrimage landmarks.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Part of local Shaiva devotional continuity in Joshimath.",
+      "architecture": "Compact hill-temple style.",
+      "visitorNotes": "Best visited in clear-weather windows.",
+      "sources": [
+        {
+          "label": "Joshimath",
+          "url": "https://en.wikipedia.org/wiki/Joshimath",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:55:00+05:30"
+  },
+  {
+    "name": "Rudreshwar Mahadev Temple (Kotdwar)",
+    "city": "Kotdwar",
+    "region": "Pauri Garhwal district",
+    "tags": [
+      "Rudreshwar",
+      "Mahadev",
+      "Garhwal"
+    ],
+    "story": "A local Rudreshwar Mahadev shrine in the Kotdwar-Pauri devotional landscape.",
+    "highlight": "Accessible Shiva worship center for lower Garhwal travelers.",
+    "deity": "Shiva (Rudreshwar)",
+    "bestTime": "Year-round.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Check temple timings around major festivals.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Sustained by local temple traditions in the Kotdwar area.",
+      "architecture": "Regional North Indian temple form.",
+      "visitorNotes": "Often visited by local devotees throughout the week.",
+      "sources": [
+        {
+          "label": "Kotdwar",
+          "url": "https://en.wikipedia.org/wiki/Kotdwar",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:55:00+05:30"
+  },
+  {
+    "name": "Sirkot Mahadev Temple",
+    "city": "Tehri",
+    "region": "Tehri Garhwal district",
+    "tags": [
+      "Mahadev",
+      "Tehri",
+      "Hill Shrine"
+    ],
+    "story": "A Shiva shrine in the Tehri region linked with local village worship traditions.",
+    "highlight": "Traditional Garhwali Shiva worship.",
+    "deity": "Shiva",
+    "bestTime": "October to April.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Road and weather conditions may vary in monsoon.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Observed in local devotional circuits of Tehri Garhwal.",
+      "architecture": "Simple hill-shrine architecture.",
+      "visitorNotes": "A peaceful stop for regional pilgrims.",
+      "sources": [
+        {
+          "label": "Tehri Garhwal district",
+          "url": "https://en.wikipedia.org/wiki/Tehri_Garhwal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:55:00+05:30"
+  },
+  {
+    "name": "Aadi Kailash Shiva Shrine",
+    "city": "Dharchula",
+    "region": "Pithoragarh district",
+    "tags": [
+      "Aadi Kailash",
+      "Shaiva",
+      "High Himalaya"
+    ],
+    "story": "A Shiva-oriented high-Himalayan shrine tradition associated with the Aadi Kailash pilgrimage sector.",
+    "highlight": "Remote Shaiva reverence in the Kumaon Himalaya.",
+    "deity": "Shiva",
+    "bestTime": "May to October.",
+    "timings": "Seasonal access; local timings vary.",
+    "dressCode": "Warm high-altitude clothing required.",
+    "entryNotes": "Travel depends on permissions, weather, and route conditions.",
+    "rituals": [
+      "Seasonal puja"
+    ],
+    "festivals": [
+      "Shravan month observances"
+    ],
+    "moreDetails": {
+      "history": "Linked with trans-Himalayan Shaiva pilgrimage traditions in eastern Kumaon.",
+      "architecture": "Shrine traditions vary by route segment.",
+      "visitorNotes": "Plan logistics and acclimatization carefully.",
+      "sources": [
+        {
+          "label": "Dharchula",
+          "url": "https://en.wikipedia.org/wiki/Dharchula",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:55:00+05:30"
+  },
+  {
+    "name": "Mahadev Temple (Mana Village)",
+    "city": "Mana",
+    "region": "Chamoli district",
+    "tags": [
+      "Mana",
+      "Mahadev",
+      "Badrinath region"
+    ],
+    "story": "A local Shiva shrine in the Mana-Badrinath region connected to Himalayan pilgrimage culture.",
+    "highlight": "Shaiva stop near the upper Alaknanda pilgrimage zone.",
+    "deity": "Shiva",
+    "bestTime": "May to October.",
+    "timings": "Seasonal access; local timings vary.",
+    "dressCode": "Warm modest clothing recommended.",
+    "entryNotes": "High-altitude weather can change rapidly.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Part of local shrine traditions in the Mana–Badrinath belt.",
+      "architecture": "Small mountain-shrine format.",
+      "visitorNotes": "Combine with nearby seasonal pilgrimage visits.",
+      "sources": [
+        {
+          "label": "Mana village",
+          "url": "https://en.wikipedia.org/wiki/Mana,_Uttarakhand",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:55:00+05:30"
+  },
+  {
+    "name": "Bhairavnath Temple (Uttarkashi)",
+    "city": "Uttarkashi",
+    "region": "Uttarkashi district",
+    "tags": [
+      "Bhairavnath",
+      "Shaiva",
+      "Uttarkashi"
+    ],
+    "story": "A Bhairavnath shrine in Uttarkashi linked to fierce-form Shaiva worship traditions.",
+    "highlight": "Bhairava worship in a major Himalayan tirth town.",
+    "deity": "Bhairavnath (Shiva)",
+    "bestTime": "Year-round.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Can be visited with Kashi Vishwanath temple circuit in Uttarkashi.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Bhairava shrines traditionally accompany key Shaiva kshetras.",
+      "architecture": "Regional hill-temple style.",
+      "visitorNotes": "Most convenient in daytime temple hours.",
+      "sources": [
+        {
+          "label": "Uttarkashi",
+          "url": "https://en.wikipedia.org/wiki/Uttarkashi",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:55:00+05:30"
+  },
+  {
+    "name": "Mahadev Temple (Chamba, Tehri)",
+    "city": "Chamba",
+    "region": "Tehri Garhwal district",
+    "tags": [
+      "Chamba",
+      "Mahadev",
+      "Garhwal"
+    ],
+    "story": "A local Mahadev temple in Chamba (Tehri) with active community worship.",
+    "highlight": "Accessible Shiva shrine on Tehri travel routes.",
+    "deity": "Shiva",
+    "bestTime": "Year-round.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Festival days may have extended rituals.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Part of local temple life in Chamba, Tehri Garhwal.",
+      "architecture": "Simple Garhwali shrine style.",
+      "visitorNotes": "Best combined with nearby hill-temple visits.",
+      "sources": [
+        {
+          "label": "Chamba (Uttarakhand)",
+          "url": "https://en.wikipedia.org/wiki/Chamba,_Uttarakhand",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:55:00+05:30"
+  },
+  {
+    "name": "Daksheswar Mahadev Temple",
+    "city": "Kankhal",
+    "region": "Haridwar district",
+    "tags": [
+      "Mahadev",
+      "Haridwar",
+      "Shaiva"
+    ],
+    "story": "A major Shaiva shrine in Kankhal associated with the Daksha yajna legend and Mahadev worship.",
+    "highlight": "Key Shiva pilgrimage stop in Haridwar–Kankhal.",
+    "deity": "Shiva (Daksheswar Mahadev)",
+    "bestTime": "October to March; Mahashivratri period.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest traditional attire recommended.",
+    "entryNotes": "Can be visited with nearby Haridwar temple circuit.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "The temple is tied to the Daksha-Sati-Shiva narrative in regional tradition.",
+      "architecture": "North Indian temple style with expanded modern complex areas.",
+      "visitorNotes": "Heavy footfall on festival days.",
+      "sources": [
+        {
+          "label": "Daksheswar Mahadev Temple",
+          "url": "https://en.wikipedia.org/wiki/Daksheswar_Mahadev_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:10:00+05:30"
+  },
+  {
+    "name": "Rudreshwar Cave Temple",
+    "city": "Almora",
+    "region": "Almora district",
+    "tags": [
+      "Cave Shrine",
+      "Mahadev",
+      "Kumaon"
+    ],
+    "story": "A cave-associated Shiva shrine in the Almora region, revered for local Shaiva worship.",
+    "highlight": "Natural cave context and quiet devotional atmosphere.",
+    "deity": "Shiva (Rudreshwar)",
+    "bestTime": "October to April.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Approach paths may require local guidance.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Recognized in regional lists of Shiva shrines in Uttarakhand.",
+      "architecture": "Cave-linked shrine format with simple structures.",
+      "visitorNotes": "Carry water and footwear suitable for uneven approach paths.",
+      "sources": [
+        {
+          "label": "Rudreshwar, Uttarakhand",
+          "url": "https://en.wikipedia.org/wiki/Rudreshwar,_Uttarakhand",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:10:00+05:30"
+  },
+  {
+    "name": "Bindeshwar Mahadev (Binsar)",
+    "city": "Thalisain",
+    "region": "Pauri Garhwal district",
+    "tags": [
+      "Binsar",
+      "Mahadev",
+      "Garhwal"
+    ],
+    "story": "An ancient Bindeshwar/Binsar Mahadev tradition in the forested Garhwal region.",
+    "highlight": "Historic Shiva worship setting in dense Himalayan forest.",
+    "deity": "Shiva (Bindeshwar Mahadev)",
+    "bestTime": "March to June, September to November.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire and weather-suitable clothing.",
+    "entryNotes": "Route planning and local guidance recommended.",
+    "rituals": [
+      "Daily puja",
+      "Seasonal fairs"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Connected to longstanding Binsar Mahadev worship in Pauri Garhwal.",
+      "architecture": "Traditional stone temple style in mountain terrain.",
+      "visitorNotes": "Expect cooler climate due to elevation.",
+      "sources": [
+        {
+          "label": "Binsar Mahadev",
+          "url": "https://en.wikipedia.org/wiki/Binsar_Mahadev",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:10:00+05:30"
+  },
+  {
+    "name": "Pashupatinath Temple (Rishikesh)",
+    "city": "Muni Ki Reti",
+    "region": "Tehri Garhwal district",
+    "tags": [
+      "Pashupatinath",
+      "Rishikesh",
+      "Shaiva"
+    ],
+    "story": "A local Pashupatinath-dedicated Shiva shrine serving devotees in the Rishikesh-Muni Ki Reti area.",
+    "highlight": "City-accessible Pashupatinath form of Shiva worship.",
+    "deity": "Shiva (Pashupatinath)",
+    "bestTime": "Year-round.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Often visited alongside nearby ghat and temple circuits.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Part of local Shaiva devotional networks around Rishikesh.",
+      "architecture": "Urban shrine architecture with traditional motifs.",
+      "visitorNotes": "Morning and evening visits are typically less crowded.",
+      "sources": [
+        {
+          "label": "Rishikesh",
+          "url": "https://en.wikipedia.org/wiki/Rishikesh",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:10:00+05:30"
+  },
+  {
+    "name": "Doodhatoli Mahadev Temple",
+    "city": "Doodhatoli",
+    "region": "Pauri Garhwal district",
+    "tags": [
+      "Doodhatoli",
+      "Mahadev",
+      "Garhwal"
+    ],
+    "story": "A Shiva shrine linked to highland worship traditions in the Doodhatoli range.",
+    "highlight": "Remote mountain Mahadev temple setting.",
+    "deity": "Shiva",
+    "bestTime": "April to June, September to November.",
+    "timings": "Open daily; seasonal accessibility.",
+    "dressCode": "Warm and modest clothing.",
+    "entryNotes": "Terrain and weather can affect access.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Sustained by local Garhwali temple traditions.",
+      "architecture": "Simple hill shrine form.",
+      "visitorNotes": "Plan route and weather buffer days.",
+      "sources": [
+        {
+          "label": "Pauri Garhwal district",
+          "url": "https://en.wikipedia.org/wiki/Pauri_Garhwal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:10:00+05:30"
+  },
+  {
+    "name": "Pancheshwar Mahadev Temple",
+    "city": "Pancheshwar",
+    "region": "Champawat district",
+    "tags": [
+      "Pancheshwar",
+      "Mahadev",
+      "Kumaon"
+    ],
+    "story": "A revered Mahadev shrine in the Pancheshwar area of eastern Uttarakhand.",
+    "highlight": "Important regional Shiva devotion point in Kumaon.",
+    "deity": "Shiva (Pancheshwar Mahadev)",
+    "bestTime": "October to April.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Local routes can be narrow; travel planning advised.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Makar Sankranti"
+    ],
+    "moreDetails": {
+      "history": "Referenced in regional pilgrimage narratives of Kumaon.",
+      "architecture": "Local North Indian temple style.",
+      "visitorNotes": "Best visited with local travel updates.",
+      "sources": [
+        {
+          "label": "Champawat district",
+          "url": "https://en.wikipedia.org/wiki/Champawat_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:10:00+05:30"
+  },
+  {
+    "name": "Dronagiri Shiva Temple",
+    "city": "Dronagiri",
+    "region": "Chamoli district",
+    "tags": [
+      "Dronagiri",
+      "Shiva",
+      "High Himalaya"
+    ],
+    "story": "A local Shiva shrine tradition in the Dronagiri mountain region of Chamoli.",
+    "highlight": "High-altitude Shaiva worship in Chamoli.",
+    "deity": "Shiva",
+    "bestTime": "May to October.",
+    "timings": "Seasonal access; local timings vary.",
+    "dressCode": "Warm clothing and trekking-appropriate footwear.",
+    "entryNotes": "Check weather and road conditions beforehand.",
+    "rituals": [
+      "Seasonal puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Part of localized mountain shrine traditions.",
+      "architecture": "Small Himalayan shrine format.",
+      "visitorNotes": "Altitude conditions require planned travel.",
+      "sources": [
+        {
+          "label": "Dronagiri",
+          "url": "https://en.wikipedia.org/wiki/Dronagiri",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:10:00+05:30"
+  },
+  {
+    "name": "Siddhanath Mahadev Temple (Rudrapur)",
+    "city": "Rudrapur",
+    "region": "Udham Singh Nagar district",
+    "tags": [
+      "Siddhanath",
+      "Mahadev",
+      "Terai"
+    ],
+    "story": "A Siddhanath Mahadev shrine serving Shiva devotees in the Rudrapur-Terai region.",
+    "highlight": "Accessible Shaiva temple in the plains-hill transition zone.",
+    "deity": "Shiva (Siddhanath Mahadev)",
+    "bestTime": "Year-round.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Crowded during Mahashivratri and Shravan Mondays.",
+    "rituals": [
+      "Daily puja",
+      "Rudrabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Known in local Shiva worship traditions in Udham Singh Nagar.",
+      "architecture": "North Indian temple style.",
+      "visitorNotes": "Suitable for short urban pilgrimage visits.",
+      "sources": [
+        {
+          "label": "Rudrapur, Uttarakhand",
+          "url": "https://en.wikipedia.org/wiki/Rudrapur,_Uttarakhand",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:10:00+05:30"
+  },
+  {
+    "name": "Gaumukh Shivling View Shrine",
+    "city": "Gaumukh",
+    "region": "Uttarkashi district",
+    "tags": [
+      "Gaumukh",
+      "Shivling Peak",
+      "Pilgrimage"
+    ],
+    "story": "A devotional stop associated with Shiva reverence near the Gaumukh–Shivling peak pilgrimage route.",
+    "highlight": "Symbolic Shiva worship in a glacier-source landscape.",
+    "deity": "Shiva",
+    "bestTime": "May to October.",
+    "timings": "Seasonal route access.",
+    "dressCode": "High-altitude trekking gear required.",
+    "entryNotes": "Permit rules and trek regulations apply in the Gangotri National Park zone.",
+    "rituals": [
+      "Personal prayer",
+      "Mantra japa"
+    ],
+    "festivals": [
+      "Shravan month observances"
+    ],
+    "moreDetails": {
+      "history": "Linked to pilgrim traditions around the Bhagirathi source and Shivling massif.",
+      "architecture": "Not a large built complex; pilgrimage-point style worship.",
+      "visitorNotes": "For experienced high-altitude travelers only.",
+      "sources": [
+        {
+          "label": "Gaumukh",
+          "url": "https://en.wikipedia.org/wiki/Gaumukh",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "",
+    "credit": "",
+    "creditUrl": "",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:10:00+05:30"
   }
 ]

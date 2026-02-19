@@ -16,6 +16,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Mahakaleshwar_Temple,_Ujjain.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Pre-dawn for the signature aarti.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Traditional attire recommended.",
@@ -63,6 +64,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0121621_Kakanmath_temple,_Sihoniya_Madhya_Pradesh_026.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter mornings for clear light.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -116,6 +118,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kal_Bhairav_temple_Ujjain.jpg",
     "deity": "Shiva (Bhairav)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Early morning for quieter darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -163,6 +166,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Mangalnath_Ujjain.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Sunrise by the river.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -221,6 +225,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Ram_Ghat,_Ujjain_01.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Early morning during river rituals.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -285,6 +290,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Omkareshwar_Temple_01.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Early morning and evening for quieter darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest traditional attire recommended.",
@@ -354,6 +360,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Mamleshwar_Temple_Omkareshwar.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan by the Narmada bank.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest traditional attire recommended.",
@@ -413,6 +420,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhojeshwar_Temple,_Bhojpur.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for calmer darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -467,6 +475,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Pashupatinath_Temple_Mandsaur.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan by the river.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -522,6 +531,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Udaipur_Temple,_west_side.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for a quieter heritage walk.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -576,6 +586,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kandariya_Mahadeva_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning light for the carvings.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -631,6 +642,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Matangeshwar_Mahadev_Temple,_Khajuraho.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan while the shrine is most active.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -686,6 +698,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Vishvanatha_Temple,_Khajuraho.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning light for temple carvings.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -741,6 +754,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Duladeo-Temple,_Khajuraho.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for a quiet walk.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -795,6 +809,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Lalguan_Mahadev_Temple_Khajuraho.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for softer light on granite.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -849,6 +864,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0122121_5th-century_Bhumara_Shiva_Temple,_Bharkuleshwar_mandir,_Bhumra_Madhya_Pradesh_052.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for a quieter heritage walk.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -903,6 +919,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0122221_Chaturmukh_Mahadeva_temple,_Nachna_Madhya_Pradesh_038.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for a calm visit.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -957,6 +974,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0010122_Mahadeva_Temple,_Nohta_Madhya_Pradesh_079.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for quieter exploration.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1015,6 +1033,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Birsingpur_Gaivinath_Dham_Satna.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Sunday aarti and festival days.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1069,6 +1088,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0102521_Siddhanath_temple,_Siddheshwar_Mahadev_temple,_Nemawar,_Madhya_Pradesh_051.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan by the Narmada.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1123,6 +1143,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0102321_Ahilyeshwar_Mahadev_Temple,_Maheshwar_Madhya_Pradesh_033.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan and evening lamps.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1178,6 +1199,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Koteshwar_Temple,_Lanji_Madhya_Pradesh_023.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for a calm darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1233,6 +1255,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Sacred_Devotion_at_Jatashankar_Cave_02.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for a calmer cave darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1288,6 +1311,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Chauragarh,_Pachmarhi.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning climb for cooler weather.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1342,6 +1366,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0112521_Athkhamba_temple,_Gyaraspur,_Madhya_Pradesh_018.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for softer light on the ruins.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1396,6 +1421,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Vankhandeshwar_mahadev_bhind.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Monday aarti and evening darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1451,6 +1477,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Baba_Mandir,_Agar.png",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning or evening darshan for calmer crowds.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1508,6 +1535,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bandakpur_JageshwarNath_Temple.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan and festival days.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1566,6 +1594,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Panchmukhi_Mahadev_Temple,_Orchha_Fort_Madhya_Pradesh_014.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for a quieter fort walk.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1620,6 +1649,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kachnar_city_shiva_temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Early morning for quieter darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1663,6 +1693,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kundeshwar_temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits by the river.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1706,6 +1737,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0101022_Virateshwar_temple,_Sohagpur,_Madhya_Pradesh_037.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Cool-season mornings for heritage exploration.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1752,6 +1784,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0102621_Gauri_Somnath_temple,_Omkareswar_Madhya_Pradesh_040.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for island views.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1795,6 +1828,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0102321_Kashi_Vishweshwar_Mandir_Maheshwar_Madhya_Pradesh_019.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Evenings along the ghats.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1838,6 +1872,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Baneshwar_Temple,_Maheshwar_Madhya_Pradesh_033.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning boat rides for calm river views.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1880,6 +1915,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0102221_Mahakaleswar_temple_1,_Un,_Khargone_district,_Madhya_Pradesh_125.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning light for heritage photography.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1922,6 +1958,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0102221_Mahakaleswar_Mandir_number_2,_Un_Madhya_Pradesh_15.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for cooler weather.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1964,6 +2001,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0102221_Ballaleswar_temple,_Un_056.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning light for architectural details.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2006,6 +2044,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0102221_Nilkanthesvara_temple,_Un_Madhya_Pradesh_070.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for clearer light.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2048,6 +2087,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Mahua_Nagara_mandir,_Shiva_temple_number_2,_Madhya_Pradesh_064.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for heritage photography.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2090,6 +2130,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0111621_Shiva_temple,_Sesai_Sadak_Madhya_Pradesh_009.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for quiet heritage walks.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2136,6 +2177,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0010122_Shiva_temple,_Sakor,_Damoh_district,_Madhya_Pradesh_008.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning light for sculpture details.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2178,6 +2220,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0112421_Kutkeshwar_temple,_Badoh_Pathari_Madhya_Pradesh_012.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for cooler temperatures.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2220,6 +2263,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Mahadeva_temple,_Khajuraho_01.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning light in the Western Group.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2262,6 +2306,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0121821_Brahma_Temple,_Khajuraho_Madhya_Pradesh_001.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits by Khajur Sagar.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2308,6 +2353,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Shiv_Mandir_Raisen_Fort_(5).jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning fort walks for cooler weather.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2350,6 +2396,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Sukhanad_Neemuch_1.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Monsoon and winter for cooler cave visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2393,6 +2440,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Damru_Ghati_shivling_temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for a quieter valley walk.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2435,6 +2483,7 @@ export const madhyaPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:15th_Century_Bhainsdehi_Shiva_temple_Roof.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for heritage photography.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2474,6 +2523,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Traditional darshan and village-era stone shrine.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2499,6 +2549,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Rock-cut Shiva sanctums and weathered carvings.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2524,6 +2575,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Stone shrine with long-standing local worship.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2549,6 +2601,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Hilltop darshan within Mandav’s heritage zone.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2574,6 +2627,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Community temple with annual Mahashivratri observance.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2599,6 +2653,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Riverine setting and devotional visits.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2624,6 +2679,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Secluded darshan in a cave-like setting.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2649,6 +2705,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Shiva darshan by the river steps.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2674,6 +2731,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Cave sanctum reached by a forested trail.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2699,6 +2757,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Shiva darshan amid dense Satpura greenery.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2724,6 +2783,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Heritage shrine with a steady devotional rhythm.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2749,6 +2809,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Stone shrine with regional heritage character.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2774,6 +2835,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Daily puja and Mahashivratri gatherings.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2799,6 +2861,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Community-led aartis and festival darshan.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2824,6 +2887,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Cave-like sanctum and quiet worship.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2849,6 +2913,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Temple precinct visited during Mahashivratri.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2874,6 +2939,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Local darshan and annual fairs.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2899,6 +2965,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Stone temple with regional devotional following.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2924,6 +2991,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Quiet darshan in a wooded setting.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2949,6 +3017,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Traditional Shiva rituals and community festivals.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2974,6 +3043,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Bhairav darshan with devotional offerings.",
     "deity": "Shiva (Bhairav)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2999,6 +3069,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Shiva darshan along the ghats.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3024,6 +3095,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Stone shrine with long-standing worship.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3049,6 +3121,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Village-era shrine and ritual gatherings.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3074,6 +3147,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Shiva aarti and festive darshan.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3099,6 +3173,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Temple tradition tied to local worship circuits.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3124,6 +3199,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Fort complex darshan with Narmada views.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3149,6 +3225,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Fort pilgrimage with Shiva sanctum.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3174,6 +3251,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Pilgrimage stop amid seasonal cascades.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3199,6 +3277,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Traditional shrine with regional festivals.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3224,6 +3303,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Historic Shiva shrine within Kadwaya’s temple cluster.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3249,6 +3329,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Cave sanctum with natural stone formations.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3274,6 +3355,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Quiet darshan within a cave-like sanctum.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3299,6 +3381,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Shiva darshan in the forested pilgrim zone.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3324,6 +3407,7 @@ export const madhyaPradeshTemples = [
     "highlight": "Stone shrine with a calm heritage setting.",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan for calmer visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3334,5 +3418,735 @@ export const madhyaPradeshTemples = [
     "festivals": [
       "Mahashivratri"
     ]
+  },
+  {
+    "name": "Matangeshwar Temple",
+    "state": "Madhya Pradesh",
+    "city": "Khajuraho",
+    "region": "Chhatarpur District",
+    "tags": [
+      "Khajuraho",
+      "Living temple",
+      "Mahadev"
+    ],
+    "story": "Matangeshwar is an active Shiva temple in Khajuraho and remains a key living worship site among the heritage temple cluster.",
+    "highlight": "A living Shiva shrine in the Khajuraho temple complex.",
+    "isNew": true,
+    "deity": "Shiva (Matangeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March for temple visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Abhishekam",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Koteshwar Mahadev Temple (Morena)",
+    "state": "Madhya Pradesh",
+    "city": "Morena",
+    "region": "Morena District",
+    "tags": [
+      "Mahadev",
+      "Regional pilgrimage",
+      "Chambal belt"
+    ],
+    "story": "A regional Shiva shrine visited by devotees from the Chambal belt for regular worship and festival observances.",
+    "highlight": "Popular regional Mahadev pilgrimage point.",
+    "isNew": true,
+    "deity": "Shiva (Koteshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "Winter and Shravan period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Expect higher crowds on Mondays and festival days.",
+    "rituals": [
+      "Abhishekam",
+      "Monday puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ]
+  },
+  {
+    "name": "Kedareshwar Mahadev Temple (Ujjain)",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain District",
+    "tags": [
+      "Kedareshwar",
+      "Ujjain",
+      "Mahadev"
+    ],
+    "story": "A Shaiva temple in Ujjain associated with the wider Mahakal sacred circuit of the city.",
+    "highlight": "Part of Ujjain's deeply rooted Shaiva worship tradition.",
+    "isNew": true,
+    "deity": "Shiva (Kedareshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "Early morning darshan and Shivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Traditional or modest attire recommended.",
+    "entryNotes": "Can be combined with nearby Ujjain temple visits.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Siddheshwar Mahadev Temple (Nemawar)",
+    "state": "Madhya Pradesh",
+    "city": "Nemawar",
+    "region": "Dewas District",
+    "tags": [
+      "Narmada",
+      "Siddheshwar",
+      "Mahadev"
+    ],
+    "story": "A revered Shiva temple at Nemawar on the Narmada pilgrimage route with steady ritual activity throughout the year.",
+    "highlight": "Narmada-side Shiva worship in Nemawar.",
+    "isNew": true,
+    "deity": "Shiva (Siddheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and festival days.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Crowded during major Narmada parikrama periods.",
+    "rituals": [
+      "Narmada jal abhishek",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ]
+  },
+  {
+    "name": "Gupteshwar Mahadev Temple (Jabalpur)",
+    "state": "Madhya Pradesh",
+    "city": "Jabalpur",
+    "region": "Jabalpur District",
+    "tags": [
+      "Gupteshwar",
+      "Mahadev",
+      "Jabalpur"
+    ],
+    "story": "A well-known Mahadev shrine in the Jabalpur region, visited regularly for daily worship and Shravan rituals.",
+    "highlight": "Active Shiva worship center in Jabalpur.",
+    "isNew": true,
+    "deity": "Shiva (Gupteshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "Morning hours and Shravan month.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Local queues can increase on Mondays.",
+    "rituals": [
+      "Rudrabhishek",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ]
+  },
+  {
+    "name": "Nilkantheswar Temple (Udaypur, Vidisha)",
+    "state": "Madhya Pradesh",
+    "city": "Udaypur",
+    "region": "Vidisha District",
+    "tags": [
+      "Nilkantheswar",
+      "Heritage",
+      "Mahadev"
+    ],
+    "story": "A historic Shiva shrine in Udaypur (Vidisha), connected with central India's temple heritage landscape.",
+    "highlight": "Historic Shaiva worship in Vidisha region.",
+    "isNew": true,
+    "deity": "Shiva (Nilkantheswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "Winter for heritage visits.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Temple visit is best planned in daylight hours.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
+  },
+  {
+    "name": "Kedareswar Temple (Amarkantak)",
+    "state": "Madhya Pradesh",
+    "city": "Amarkantak",
+    "region": "Anuppur District",
+    "tags": [
+      "Kedareswar",
+      "Amarkantak",
+      "Mahadev"
+    ],
+    "story": "A Shiva shrine in Amarkantak's sacred landscape, frequented by devotees visiting the Narmada origin region.",
+    "highlight": "Mahadev darshan in the Amarkantak pilgrimage zone.",
+    "isNew": true,
+    "deity": "Shiva (Kedareswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March for comfortable pilgrimage.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Pairs well with Narmada-kund pilgrimage circuit.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ]
+  },
+  {
+    "name": "Achaleshwar Mahadev Temple (Raisen)",
+    "state": "Madhya Pradesh",
+    "city": "Raisen",
+    "region": "Raisen District",
+    "tags": [
+      "Achaleshwar",
+      "Mahadev",
+      "Regional shrine"
+    ],
+    "story": "A local Shiva temple in Raisen district with regular community worship and festival observances.",
+    "highlight": "Steady local Shaiva tradition and Monday worship.",
+    "isNew": true,
+    "deity": "Shiva (Achaleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "Winter and Shravan period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Busiest on Mondays and during Shivratri.",
+    "rituals": [
+      "Monday puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ]
+  },
+  {
+    "name": "Bateshwar Hindu Temples",
+    "state": "Madhya Pradesh",
+    "city": "Morena",
+    "region": "Bateshwar, Morena district",
+    "tags": [
+      "Shaiva",
+      "Temple Cluster",
+      "Heritage"
+    ],
+    "story": "Bateshwar is a restored cluster of early medieval temples in Morena, with many shrines dedicated to Shiva.",
+    "highlight": "Large Shiva-focused temple cluster in a sandstone valley.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Bateshwar_Temples.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:The_Bateshwar_Temples.jpg",
+    "isNew": true,
+    "deity": "Shiva (multiple shrines)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:58:33+05:30",
+    "bestTime": "October to March.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "ASi-protected heritage zone; verify local access before travel.",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri (local observance)"
+    ],
+    "moreDetails": {
+      "history": "The Bateshwar complex in Morena contains a large number of early medieval temples, with many associated with Shaiva worship traditions.",
+      "architecture": "North Indian nagara-style stone temples in clustered arrangement.",
+      "visitorNotes": "Carry water and visit during cooler daylight hours.",
+      "sources": [
+        {
+          "label": "Bateshwar Hindu temples, Madhya Pradesh",
+          "url": "https://en.wikipedia.org/wiki/Bateshwar_Hindu_temples,_Madhya_Pradesh",
+          "type": "Wikipedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bhuteshwar Mahadev Temple (Bateshwar)",
+    "state": "Madhya Pradesh",
+    "city": "Morena",
+    "region": "Bateshwar, Morena district",
+    "tags": [
+      "Shaiva",
+      "Bhuteshwar",
+      "Heritage"
+    ],
+    "story": "Bhuteshwar Mahadev is treated as the principal Shiva focus within the Bateshwar temple restoration landscape.",
+    "highlight": "Main Shiva shrine focus in the Bateshwar complex.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0121621_Batesara_Group_of_Temple%2C_Morena_Madhya_Pradesh_587.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:0121621_Batesara_Group_of_Temple,_Morena_Madhya_Pradesh_587.jpg",
+    "isNew": true,
+    "deity": "Shiva (Bhuteshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:58:33+05:30",
+    "bestTime": "October to March.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Best visited with the wider Bateshwar circuit.",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri (local observance)"
+    ],
+    "moreDetails": {
+      "history": "Bhuteshwar is recognized in local and heritage narratives as a key Shiva point in the Bateshwar temple complex.",
+      "architecture": "Sandstone shrine architecture within the restored temple group.",
+      "visitorNotes": "Site access and facilities are limited; plan accordingly.",
+      "sources": [
+        {
+          "label": "Bateshwar Hindu temples, Madhya Pradesh",
+          "url": "https://en.wikipedia.org/wiki/Bateshwar_Hindu_temples,_Madhya_Pradesh",
+          "type": "Wikipedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chausath Yogini Temple (Mitaoli)",
+    "state": "Madhya Pradesh",
+    "city": "Mitaoli",
+    "region": "Morena district",
+    "tags": [
+      "Shaiva",
+      "Yogini Tradition",
+      "Circular Temple"
+    ],
+    "story": "The Mitaoli Chausath Yogini complex is popularly known as Ekattarso Mahadeva and centers on a Shiva shrine in a circular layout.",
+    "highlight": "Circular colonnaded temple with central Shiva sanctum.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chausath_Yogini_Temple%2C_Mitaoli%2C_Morena_010.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Chausath_Yogini_Temple,_Mitaoli,_Morena_010.jpg",
+    "isNew": true,
+    "deity": "Shiva (central shrine) with Yogini tradition",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:58:33+05:30",
+    "bestTime": "October to March.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Open hilltop site; daytime visit is recommended.",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri (local observance)"
+    ],
+    "moreDetails": {
+      "history": "This circular temple is associated with the Chausath Yogini tradition and includes a central Shiva sanctum, with strong regional Shaiva linkages.",
+      "architecture": "Circular open-court plan with peripheral cells and central shrine.",
+      "visitorNotes": "Carry sun protection for daytime visits.",
+      "sources": [
+        {
+          "label": "Chausath Yogini Temple, Morena",
+          "url": "https://en.wikipedia.org/wiki/Chausath_Yogini_Temple,_Morena",
+          "type": "Wikipedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chausath Yogini Temple (Bhedaghat)",
+    "state": "Madhya Pradesh",
+    "city": "Jabalpur",
+    "region": "Bhedaghat, Jabalpur district",
+    "tags": [
+      "Shaiva",
+      "Yogini Tradition",
+      "Heritage"
+    ],
+    "story": "At Bhedaghat, the Chausath Yogini complex features a circular plan and a central shrine associated with Shiva-Parvati worship.",
+    "highlight": "Historic hilltop Yogini complex near Bhedaghat.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chausath_Yogini_temple_Bhedaghat.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Chausath_Yogini_temple_Bhedaghat.jpg",
+    "isNew": true,
+    "deity": "Shiva (with Parvati, central shrine)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:58:33+05:30",
+    "bestTime": "October to March.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Often combined with Bhedaghat and Marble Rocks visits.",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri (local observance)"
+    ],
+    "moreDetails": {
+      "history": "The Bhedaghat Chausath Yogini temple is among the better-known Yogini sites in central India and includes a central Shiva-oriented shrine.",
+      "architecture": "Circular temple courtyard with yogini cells around the perimeter.",
+      "visitorNotes": "Visit in cooler hours due exposed hilltop setting.",
+      "sources": [
+        {
+          "label": "Chausath Yogini Temple, Jabalpur",
+          "url": "https://en.wikipedia.org/wiki/Chausath_Yogini_Temple,_Jabalpur",
+          "type": "Wikipedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chausath Yogini Temple (Khajuraho)",
+    "state": "Madhya Pradesh",
+    "city": "Khajuraho",
+    "region": "Chhatarpur district",
+    "tags": [
+      "Shaiva",
+      "Yogini Tradition",
+      "Khajuraho"
+    ],
+    "story": "One of Khajuraho's earliest surviving temple structures, the Chausath Yogini complex is linked with Tantric-Shakta and Shaiva ritual traditions.",
+    "highlight": "Early Khajuraho-period open-air yogini shrine complex.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chausath_Yogini_temple%2C_Khajuraho.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Chausath_Yogini_temple,_Khajuraho.jpg",
+    "isNew": true,
+    "deity": "Shiva-associated Yogini tradition",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:58:33+05:30",
+    "bestTime": "October to March.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Part of Khajuraho heritage circuit.",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Not Available"
+    ],
+    "moreDetails": {
+      "history": "The Chausath Yogini temple at Khajuraho is among the oldest monuments in the site complex and is associated with early Tantric worship contexts connected to Shaiva streams.",
+      "architecture": "Open-air granite platform with surviving yogini cells.",
+      "visitorNotes": "Visit along with the western and eastern Khajuraho groups.",
+      "sources": [
+        {
+          "label": "Chausath Yogini Temple, Khajuraho",
+          "url": "https://en.wikipedia.org/wiki/Chausath_Yogini_Temple,_Khajuraho",
+          "type": "Wikipedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Javari Temple (Khajuraho)",
+    "state": "Madhya Pradesh",
+    "city": "Khajuraho",
+    "region": "Chhatarpur district",
+    "tags": [
+      "Khajuraho",
+      "Nagara",
+      "Shaiva"
+    ],
+    "story": "Javari Temple is a Khajuraho-era monument often discussed in the wider Shaiva-Vaishnava art context of the region.",
+    "highlight": "Elegant smaller-scale Khajuraho nagara temple form.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Javari_Temple%2C_Khajuraho_07.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:The_Javari_Temple,_Khajuraho_07.jpg",
+    "isNew": true,
+    "deity": "Shiva (tradition record varies by source)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:58:33+05:30",
+    "bestTime": "October to March.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Heritage monument visit; check ASI timings.",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Not Available"
+    ],
+    "moreDetails": {
+      "history": "Javari Temple is part of the Khajuraho monument group and is dated to the Chandela period.",
+      "architecture": "Classic Khajuraho-style spire and sculptural program.",
+      "visitorNotes": "Best visited with other nearby Khajuraho monuments.",
+      "sources": [
+        {
+          "label": "Javari Temple",
+          "url": "https://en.wikipedia.org/wiki/Javari_Temple",
+          "type": "Wikipedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nandi Temple (Khajuraho)",
+    "state": "Madhya Pradesh",
+    "city": "Khajuraho",
+    "region": "Chhatarpur district",
+    "tags": [
+      "Nandi",
+      "Khajuraho",
+      "Shaiva"
+    ],
+    "story": "The Nandi Temple in Khajuraho is a Shaiva-associated shrine aligned with the Shiva temple zone of the complex.",
+    "highlight": "Nandi shrine integrated into Khajuraho's Shiva worship landscape.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nandi_Temple_Khajuraho.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nandi_Temple_Khajuraho.jpg",
+    "isNew": true,
+    "deity": "Nandi (sacred bull of Shiva)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:58:33+05:30",
+    "bestTime": "October to March.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Usually covered with the main Khajuraho temple circuit.",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Not Available"
+    ],
+    "moreDetails": {
+      "history": "The Nandi Temple forms part of the ritual and architectural ensemble around Khajuraho's Shiva-oriented monuments.",
+      "architecture": "Small pavilion shrine with Nandi icon alignment.",
+      "visitorNotes": "Easy to include in a walking route inside Khajuraho complexes.",
+      "sources": [
+        {
+          "label": "Nandi Temple, Khajuraho India",
+          "url": "https://en.wikipedia.org/wiki/Nandi_Temple,_Khajuraho_India",
+          "type": "Wikipedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Teli Ka Mandir (Gwalior Fort)",
+    "state": "Madhya Pradesh",
+    "city": "Gwalior",
+    "region": "Gwalior Fort",
+    "tags": [
+      "Fort Temple",
+      "Heritage",
+      "Shaiva"
+    ],
+    "story": "Teli Ka Mandir at Gwalior Fort is an early high-towered temple linked by scholars to mixed Shaiva-Vaishnava iconographic traditions.",
+    "highlight": "Distinctive tall shikhara in the Gwalior Fort complex.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Teli_Ka_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Teli_Ka_Temple.jpg",
+    "isNew": true,
+    "deity": "Not Available",
+    "tradition": "Shaiva (scholarly attribution varies)",
+    "addedAt": "2026-02-19T22:58:33+05:30",
+    "bestTime": "October to March.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Fort-entry rules and timings apply.",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Not Available"
+    ],
+    "moreDetails": {
+      "history": "Teli Ka Mandir is one of Gwalior's most prominent early medieval temples and is often discussed for its unusual style and debated dedication.",
+      "architecture": "Mix of north and south Indian elements with a very high superstructure.",
+      "visitorNotes": "Visit with the wider Gwalior Fort heritage circuit.",
+      "sources": [
+        {
+          "label": "Teli Ka Mandir",
+          "url": "https://en.wikipedia.org/wiki/Teli_Ka_Mandir",
+          "type": "Wikipedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Udayagiri Cave 4 (Shiva Shrine)",
+    "state": "Madhya Pradesh",
+    "city": "Vidisha",
+    "region": "Udayagiri Caves",
+    "tags": [
+      "Cave Shrine",
+      "Gupta Era",
+      "Shaiva"
+    ],
+    "story": "Cave 4 at Udayagiri is noted for its Shaiva affiliation and is among the important early historical rock-cut sacred spaces in Vidisha.",
+    "highlight": "Early Shaiva cave shrine context from Gupta-era Udayagiri.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0112621_Cave_4%2C_Udayagiri_Caves_Vidisha_Madhya_Pradesh_050.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:0112621_Cave_4,_Udayagiri_Caves_Vidisha_Madhya_Pradesh_050.jpg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:58:33+05:30",
+    "bestTime": "October to March.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Monument-site rules apply; check ASI timings.",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Not Available"
+    ],
+    "moreDetails": {
+      "history": "The Udayagiri cave complex near Vidisha includes caves with major Vaishnava and Shaiva iconography from the Gupta period.",
+      "architecture": "Rock-cut cave architecture with sculptural panels and early shrine spaces.",
+      "visitorNotes": "Best explored with a guide for iconographic context.",
+      "sources": [
+        {
+          "label": "Udayagiri Caves",
+          "url": "https://en.wikipedia.org/wiki/Udayagiri_Caves",
+          "type": "Wikipedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Udayagiri Cave 6 (Sanakanika Shiva Shrine)",
+    "state": "Madhya Pradesh",
+    "city": "Vidisha",
+    "region": "Udayagiri Caves",
+    "tags": [
+      "Cave Shrine",
+      "Gupta Era",
+      "Shaiva"
+    ],
+    "story": "Udayagiri Cave 6 preserves early sculptural and inscriptional evidence connected with regional rulers and Shaiva sacred activity.",
+    "highlight": "Important Gupta-period cave with Shaiva association.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0112621_Cave_6%2C_Udayagiri_Caves_Vidisha_Madhya_Pradesh_029.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:0112621_Cave_6,_Udayagiri_Caves_Vidisha_Madhya_Pradesh_029.jpg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T22:58:33+05:30",
+    "bestTime": "October to March.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Part of the Udayagiri archaeological circuit.",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Not Available"
+    ],
+    "moreDetails": {
+      "history": "Cave 6 at Udayagiri is associated with early 5th-century inscriptions and the sacred cave landscape around Vidisha.",
+      "architecture": "Rock-cut chamber with historic sculptural context.",
+      "visitorNotes": "Combine visit with nearby Sanchi and Vidisha sites.",
+      "sources": [
+        {
+          "label": "Udayagiri Caves",
+          "url": "https://en.wikipedia.org/wiki/Udayagiri_Caves",
+          "type": "Wikipedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nachna Hindu Temples",
+    "state": "Madhya Pradesh",
+    "city": "Nachna",
+    "region": "Panna district",
+    "tags": [
+      "Shaiva",
+      "Heritage",
+      "Gupta Period"
+    ],
+    "story": "Nachna is an early temple site in Madhya Pradesh that includes the Chaumukhnath Shiva temple and related ancient shrine remains.",
+    "highlight": "Early North Indian temple architecture with Shaiva continuity.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva (Chaumukhnath tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "October to March.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Not Available"
+    ],
+    "moreDetails": {
+      "history": "Nachna is known for early historic temple remains and the Chaumukhnath shrine associated with Shiva worship.",
+      "architecture": "Early nagara-style experimentation in stone temple forms.",
+      "visitorNotes": "Site context is archaeological; check local access details before travel.",
+      "sources": [
+        {
+          "label": "Nachna Hindu temples",
+          "url": "https://en.wikipedia.org/wiki/Nachna_Hindu_temples",
+          "type": "Wikipedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Kala Bhairava Nath Swami Temple",
+    "state": "Madhya Pradesh",
+    "city": "Adegaon",
+    "region": "Seoni district",
+    "tags": [
+      "Bhairava",
+      "Shaiva",
+      "Pilgrimage"
+    ],
+    "story": "Shri Kala Bhairava Nath Swami Temple at Adegaon is a Bhairava-focused Shaiva shrine with active local devotional traditions.",
+    "highlight": "Regional Bhairava worship center in Seoni district.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva (Kala Bhairava)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "October to March.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Not Available"
+    ],
+    "moreDetails": {
+      "history": "The shrine is referenced as a dedicated Kala Bhairava Nath temple in Madhya Pradesh.",
+      "architecture": "Not Available",
+      "visitorNotes": "Verify local timings and access before planning visit.",
+      "sources": [
+        {
+          "label": "Shri Kala Bhairava Nath Swami Temple",
+          "url": "https://en.wikipedia.org/wiki/Shri_Kala_Bhairava_Nath_Swami_Temple",
+          "type": "Wikipedia"
+        }
+      ]
+    }
   }
-]
+];

@@ -16,6 +16,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Birds_view_of_Thyagaraja_Temple_Tiruvarur_India.jpg",
     "deity": "Shiva (Thyagaraja)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "April (Azhu Thair Chariot Festival).",
     "timings": "5:00 AM - 12:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional.",
@@ -49,6 +50,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Courtallam_,_Arulmigu_Thiru_Kuttralanathar_Temple_(58267).jpg",
     "deity": "Shiva (Kutralanathar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "June-September (Monsoon season).",
     "timings": "6:00 AM - 8:00 PM.",
     "dressCode": "Casual/Modest.",
@@ -81,6 +83,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Tiruvalangaduvadaaraneswarartemple2.jpg",
     "deity": "Shiva (Vataranyeswarar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter.",
     "timings": "6:00 AM - 8:00 PM.",
     "dressCode": "Traditional.",
@@ -113,6 +116,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Gopuram_of_Mayuranathaswami_Temple.jpg",
     "deity": "Shiva (Mayuranathar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "October-November (Thula Snanam).",
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Modest.",
@@ -145,6 +149,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Tiruvidaimaruthur.jpg",
     "deity": "Shiva (Mahalingaswamy)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter.",
     "timings": "6:00 AM - 1:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional.",
@@ -177,6 +182,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Vedaranyam17.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Masi Magam.",
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 8:30 PM.",
     "dressCode": "Modest.",
@@ -209,6 +215,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kayarohanaswami_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter.",
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional.",
@@ -241,6 +248,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhavani_sangameswarar_temple2.jpg",
     "deity": "Shiva (Sangameswarar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Aadi Perukku (August).",
     "timings": "6:00 AM - 1:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Modest.",
@@ -273,6 +281,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kodumudi_magudeswarar_temple4.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "All year.",
     "timings": "6:00 AM - 12:30 PM, 4:00 PM - 8:30 PM.",
     "dressCode": "Traditional.",
@@ -305,6 +314,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Avinashi_avinashiappar_temple2.jpg",
     "deity": "Shiva (Avinashiappar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "April-May (Chariot Festival).",
     "timings": "6:00 AM - 1:00 PM, 4:00 PM - 8:30 PM.",
     "dressCode": "Modest.",
@@ -337,6 +347,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Sivan_Temple_near_kanchipuram.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter.",
     "timings": "7:00 AM - 11:00 AM, 5:00 PM - 8:00 PM.",
     "dressCode": "Casual/Modest.",
@@ -369,6 +380,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Vridachaleswarar_gopuram.jpg",
     "deity": "Shiva (Vriddhagiriswarar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Masi Magam.",
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional.",
@@ -401,6 +413,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Pataleeswarar_Temple,_Cuddalore_(15966262253).jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Vaikasi Visakam.",
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Modest.",
@@ -433,6 +446,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Thiruvenkadu_temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Wednesdays.",
     "timings": "6:00 AM - 1:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional.",
@@ -465,6 +479,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kanjanur_Sukkiran_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Fridays.",
     "timings": "7:00 AM - 1:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Modest.",
@@ -497,6 +512,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Thirunageswaram_gopuram.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Sundays (Rahu Kaalam).",
     "timings": "6:00 AM - 1:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional.",
@@ -529,6 +545,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Virudhagiriswarar_temple_(10).jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter.",
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Modest.",
@@ -561,6 +578,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Tirukkarukavur2.jpg",
     "deity": "Shiva & Garbha Rakshambika",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter.",
     "timings": "6:00 AM - 1:00 PM, 4:00 PM - 8:00 PM.",
     "dressCode": "Traditional.",
@@ -593,6 +611,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Brahmapureeswarar_Temple,_Thiruppattur.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Mondays and Thursdays.",
     "timings": "7:00 AM - 12:00 PM, 4:00 PM - 8:00 PM.",
     "dressCode": "Traditional.",
@@ -625,6 +644,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Thyagarajar_temple,_Tiruvarur_(60).jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter.",
     "timings": "5:00 AM - 9:00 PM.",
     "dressCode": "Traditional.",
@@ -657,6 +677,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Thirukailaya_Parambarai_Thiruvavaduthurai_Adheenam_Guruparambarai.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter.",
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 8:30 PM.",
     "dressCode": "Traditional.",
@@ -689,6 +710,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Chennai_Kapaleeshwarar_Temple.jpg",
     "deity": "Shiva (Kapaleeshwarar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "March-April (Arubathimoovar Festival).",
     "timings": "5:00 AM - 12:00 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional attire encouraged.",
@@ -723,6 +745,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kailasanathar_Temple._Kanchipuram,_TamilNadu.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Maha Shivratri.",
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 7:00 PM.",
     "dressCode": "Modest.",
@@ -755,6 +778,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Darasuram,_Airavatesvara_Temple,_Entrance,_India.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter (Oct-Feb).",
     "timings": "6:00 AM - 8:00 PM.",
     "dressCode": "Casual.",
@@ -787,6 +811,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Gangaikonda_Cholapuram_Temple_entrance.jpg",
     "deity": "Shiva (Brihadeeswarar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter.",
     "timings": "6:00 AM - 8:00 PM.",
     "dressCode": "Casual.",
@@ -819,6 +844,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Arulmigu_Dhandayuthapani_Swamy_Temple_in_Palany_hill.jpg",
     "deity": "Murugan",
     "tradition": "Kaumaram/Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Thai Poosam (Jan-Feb).",
     "timings": "6:00 AM - 8:00 PM.",
     "dressCode": "Traditional attire mandatory.",
@@ -853,6 +879,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Arulmigu_Subramaniya_Swamy_Temple,_Tiruchendur.jpg",
     "deity": "Murugan",
     "tradition": "Kaumaram/Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Skanda Sashti (Oct-Nov).",
     "timings": "5:00 AM - 9:00 PM.",
     "dressCode": "Traditional.",
@@ -885,6 +912,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Golden_Temple,_Vellore,_India.jpg",
     "deity": "Mahalakshmi",
     "tradition": "Vaishnava",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "All year.",
     "timings": "8:00 AM - 8:00 PM.",
     "dressCode": "Traditional/Modest.",
@@ -917,6 +945,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Tirunelveli_Nellaiappar_Temple_1.jpg",
     "deity": "Shiva (Nellaiappar) & Gandhimathi Amman",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "June-July (Ani Car Festival).",
     "timings": "6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM.",
     "dressCode": "Traditional.",
@@ -949,6 +978,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Parthasarathy-Temple-Triplicane-Chennai-7.JPG",
     "deity": "Vishnu (Parthasarathy)",
     "tradition": "Vaishnava",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Vaikuntha Ekadashi.",
     "timings": "6:00 AM - 12:30 PM, 4:00 PM - 9:00 PM.",
     "dressCode": "Traditional.",
@@ -982,6 +1012,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kanchipuram_Kamakshi_Amman_Temple.jpg",
     "deity": "Kamakshi (Parvati)",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "February-March (Brahmmotsavam).",
     "timings": "5:30 AM - 12:30 PM, 4:00 PM - 8:30 PM.",
     "dressCode": "Traditional.",
@@ -1015,6 +1046,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Madurai_Meenakshi_Amman_Temple.jpg",
     "deity": "Meenakshi & Sundareswarar",
     "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "April (Chithirai Festival).",
     "timings": "5:00 AM - 12:30 PM, 4:00 PM - 10:00 PM.",
     "dressCode": "Strict traditional attire (Dhoti/Saree).",
@@ -1055,6 +1087,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Brihadisvara_Temple,_Thanjavur,_Tamil_Nadu,_India.jpg",
     "deity": "Shiva (Peruvudaiyar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter (Nov-Feb).",
     "timings": "6:00 AM - 12:30 PM, 4:00 PM - 8:30 PM.",
     "dressCode": "Modest attire.",
@@ -1095,6 +1128,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Rameswaram_Temple_Corridor.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "All year; early morning for holy bath.",
     "timings": "5:00 AM - 1:00 PM, 3:00 PM - 9:00 PM.",
     "dressCode": "Strict traditional dress code.",
@@ -1135,6 +1169,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Sri_Rangam_temple_near_Tiruchirapalli_1.jpg",
     "deity": "Vishnu (Ranganatha)",
     "tradition": "Vaishnava",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "December (Vaikuntha Ekadashi).",
     "timings": "6:00 AM - 9:00 PM (with breaks).",
     "dressCode": "Traditional attire mandatory for inner sanctum.",
@@ -1174,6 +1209,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Mamallapuram,_Shore_Temple,_India.jpg",
     "deity": "Shiva & Vishnu",
     "tradition": "Shaiva/Vaishnava",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter (Dec-Jan) for the Dance Festival.",
     "timings": "6:00 AM - 6:00 PM.",
     "dressCode": "Casual/Modest.",
@@ -1212,6 +1248,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Thillai_Nataraja_Temple_(Chidambaram_Nataraja_Temple).jpg",
     "deity": "Shiva (Nataraja)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "December (Arudhra Darisanam).",
     "timings": "6:00 AM - 12:00 PM, 5:00 PM - 10:00 PM.",
     "dressCode": "Traditional attire mandatory.",
@@ -1252,6 +1289,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Tiruvannamalai_arunachaleswarar_kovil.jpg",
     "deity": "Shiva (Arunachaleswarar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Full moon nights (Girivalam).",
     "timings": "5:00 AM - 9:00 PM (with breaks).",
     "dressCode": "Modest.",
@@ -1291,6 +1329,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Ekambareswarar_Temple_at_night_in_Kanchipuram_01.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "March-April (Panguni Uthiram).",
     "timings": "6:00 AM - 12:30 PM, 4:00 PM - 8:30 PM.",
     "dressCode": "Modest.",
@@ -1329,6 +1368,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:East_tower_of_Thiruvanaikaval_Jambukeswarar_temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter.",
     "timings": "6:00 AM - 1:00 PM, 3:00 PM - 8:30 PM.",
     "dressCode": "Traditional.",
@@ -1368,6 +1408,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Srikalahasti_temple_and_Hill.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "All year.",
     "timings": "6:00 AM - 9:00 PM.",
     "dressCode": "Traditional.",
@@ -1405,6 +1446,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Brihadeeswarar_Temple_thanjavur.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Sunset for dramatic shadows on the vimana.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Comfortable, modest attire.",
@@ -1452,6 +1494,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Chidambaram-Thillai_Nataraja_Temple-WUS02398.jpg",
     "deity": "Nataraja",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Early mornings or evenings for rituals.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Traditional attire recommended.",
@@ -1492,6 +1535,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Annamalaiyar_Temple_(6).jpg",
     "deity": "Arunachaleswarar",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Early morning or festival days.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1547,6 +1591,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Gangaikonda_Cholapuram-Temple-WUS02536.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning hours for calm darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1602,6 +1647,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kailasanathar_temple_Kanchipuram_(16).jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for quieter darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1656,6 +1702,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Thyagarajar_temple,_Tiruvarur_(60).jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for calmer darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1716,6 +1763,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Vaitheeswaran_Koil.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for peaceful darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1771,6 +1819,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Marundeeswarar_temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for calmer darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1826,6 +1875,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Samayapuram_Mariamman_Temple.jpg",
     "deity": "Samayapuram Mariamman",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Festival days and early mornings.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1865,6 +1915,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bannari_Amman_Temple.JPG",
     "deity": "Bannari",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Panguni festival season.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1904,6 +1955,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Inside_of_Masani_Amman_temple.jpg",
     "deity": "Masani Amman",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning or evening darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1943,6 +1995,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Angala_Parameswari_Temple_Deity.JPG",
     "deity": "Angala Parameswari",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Festival season and new moon days.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -1982,6 +2035,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Devikarumari_Amman_temple_Thiruverkadu3.JPG",
     "deity": "Karumariamman",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning or evening darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2021,6 +2075,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Vekkali_Amman_Temple_at_Evening.jpg",
     "deity": "Vekkali Amman",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Evening aarti hours.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2060,6 +2115,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Punnainallur_Mariamman_Entrance.jpg",
     "deity": "Mariamman",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning visits for calmer darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2099,6 +2155,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Adhiparasakthi.jpg",
     "deity": "Adhiparasakthi",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Full moon days and festival seasons.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2138,6 +2195,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:The_Kanyakumari_temple.jpg",
     "deity": "Kanya Kumari",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning or evening visits by the sea.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2177,6 +2235,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Arulmigu_Sri_Kalikambal.jpg",
     "deity": "Kalikambal (Kamakshi)",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Morning darshan and weekday visits.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2220,6 +2279,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Mondaikkadu_temple._tamil_nadu_-_panoramio.jpg",
     "deity": "Bhagavathi (Adi Parashakti)",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Maasi Kodai festival season.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2264,6 +2324,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Muttharammantemple.jpg",
     "deity": "Mutharamman",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Dasara festival season.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2308,6 +2369,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:KOTTAI_MARIAMMAN_TEMPLE,_SALEM_-_panoramio_(12).jpg",
     "deity": "Mariamman",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "July–August festival season.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2351,6 +2413,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Mangadu_kamatchiamman_temple.jpg",
     "deity": "Kamakshi (Parvati)",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Navratri and early morning darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2395,6 +2458,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Sankara_nainar_temple_gopuram.JPG",
     "deity": "Gomathi Amman",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Adi Tapasu festival season.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2439,6 +2503,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Ashtalakshmi_temple.jpg",
     "deity": "Ashtalakshmi",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Navratri and weekday mornings.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2483,6 +2548,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Thirukadaiyur_temple.JPG",
     "deity": "Abhirami (Parvati)",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Early mornings and festival days.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2526,6 +2592,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Koothanur_sarasvathitemple1.jpg",
     "deity": "Mahasaraswati",
     "tradition": "Shakta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Vijayadasami festival season.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2570,6 +2637,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Vellore_Fort_Jalakandeswarar_Temple.jpg",
     "deity": "Shiva (Jalakandeswarar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter months.",
     "timings": "Open daily; timings vary.",
     "dressCode": "Modest attire recommended.",
@@ -2608,6 +2676,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Thanumalayan_Temple.jpg",
     "deity": "Thanumalayan (Shiva/Vishnu/Brahma)",
     "tradition": "Shaiva/Smarta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "December-January.",
     "timings": "Open daily; timings vary.",
     "dressCode": "Traditional.",
@@ -2647,6 +2716,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Thiruvaiyaru_Aiyarappar_Temple.jpg",
     "deity": "Shiva (Aiyarappar/Panchanadeeswarar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "January-February.",
     "timings": "Open daily; timings vary.",
     "dressCode": "Traditional.",
@@ -2685,6 +2755,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Thirukazhukundram_1.JPG",
     "deity": "Shiva (Vedagiriswarar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter.",
     "timings": "Open daily; timings vary.",
     "dressCode": "Modest attire recommended.",
@@ -2723,6 +2794,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Thirumana_Mahotsavam_at_Sankaranarayanaswamy_temple,_Sankarankovil.jpg",
     "deity": "Sankaranarayanar (Shiva/Vishnu)",
     "tradition": "Shaiva/Smarta",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Festival season.",
     "timings": "Open daily; timings vary.",
     "dressCode": "Traditional.",
@@ -2761,6 +2833,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Ancient_temple_in_Ambasamudram.jpg",
     "deity": "Shiva (Papanasanathar)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Monsoon and winter.",
     "timings": "Open daily; timings vary.",
     "dressCode": "Modest attire recommended.",
@@ -2799,6 +2872,7 @@ export const tamilNaduTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Thiuvotriyur1.jpg",
     "deity": "Shiva (Thyagaraja)",
     "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
     "bestTime": "Winter.",
     "timings": "Open daily; timings vary.",
     "dressCode": "Traditional.",
@@ -2819,5 +2893,4097 @@ export const tamilNaduTemples = [
         }
       ]
     }
+  },
+  {
+    "name": "Abhaya Varadeeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Adirampattinam",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Abhaya Varadeeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Adirampattinam.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Abhaya Varadeeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Abhaya Varadeeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Abhaya_Varadeeswarar_Temple%2C_Adirampattinam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Abimukeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Abimukeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Abimukeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Abimukeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Abimukeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Adi Kumbeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Kumbakonam",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Adi Kumbeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Kumbakonam.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Adi Kumbeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Adi Kumbeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Adi_Kumbeswarar_Temple%2C_Kumbakonam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Agastisvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Koranattukarupur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Agastisvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Koranattukarupur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Agastisvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Agastisvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Agastisvarar_Temple%2C_Koranattukarupur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Agniswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Kanjanur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Agniswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Kanjanur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Agniswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Agniswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Agniswarar_Temple%2C_Kanjanur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Airavatesvara Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Airavatesvara Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Airavatesvara Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Airavatesvara Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Airavatesvara_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Airavateswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Maruthuvakudi",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Airavateswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Maruthuvakudi.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Airavateswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Airavateswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Airavateswarar_Temple%2C_Maruthuvakudi",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aiyarappar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Aiyarappar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Aiyarappar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Aiyarappar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Aiyarappar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Akasapureeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Akasapureeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Akasapureeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Akasapureeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Akasapureeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Akshayanathasamy Temple",
+    "state": "Tamil Nadu",
+    "city": "Tirumanthurai",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Akshayanathasamy Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Tirumanthurai.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Akshayanathasamy Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Akshayanathasamy Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Akshayanathasamy_Temple%2C_Tirumanthurai",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Alandurainathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Pullamangai",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Alandurainathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Pullamangai.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Alandurainathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Alandurainathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Alandurainathar_Temple%2C_Pullamangai",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amirthakadeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Amirthakadeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Amirthakadeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Amirthakadeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Amirthakadeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Apathsahayar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thirupazhanam",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Apathsahayar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thirupazhanam.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Apathsahayar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Apathsahayar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Apathsahayar_Temple%2C_Thirupazhanam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Arunachalesvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Ammapettai",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Arunachalesvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Ammapettai.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Arunachalesvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Arunachalesvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Arunachalesvarar_Temple%2C_Ammapettai",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Athmanatheswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Athmanatheswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Athmanatheswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Athmanatheswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Athmanatheswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Avudainathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Darasuram",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Avudainathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Darasuram.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Avudainathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Avudainathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Avudainathar_Temple%2C_Darasuram",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Banapuriswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Banapuriswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Banapuriswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Banapuriswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Banapuriswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bhairavesvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Cholapuram",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Bhairavesvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Cholapuram.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Bhairavesvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Bhairavesvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Bhairavesvarar_Temple%2C_Cholapuram",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chakravageswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Chakkarappalli",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Chakravageswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Chakkarappalli.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Chakravageswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Chakravageswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Chakravageswarar_Temple%2C_Chakkarappalli",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chandramouleesvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thazhamangai",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Chandramouleesvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thazhamangai.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Chandramouleesvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Chandramouleesvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Chandramouleesvarar_Temple%2C_Thazhamangai",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dayanidheeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Dayanidheeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Dayanidheeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Dayanidheeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Dayanidheeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Divyagnanesvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Koviladi",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Divyagnanesvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Koviladi.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Divyagnanesvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Divyagnanesvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Divyagnanesvarar_Temple%2C_Koviladi",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ekambeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Kumbakonam",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Ekambeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Kumbakonam.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Ekambeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Ekambeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Ekambeswarar_Temple%2C_Kumbakonam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Garbharakshambigai Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Garbharakshambigai Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Garbharakshambigai Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Garbharakshambigai Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Garbharakshambigai_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gauthameswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Gauthameswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Gauthameswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Gauthameswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Gauthameswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Harimukteesvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Ariyamangai",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Harimukteesvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Ariyamangai.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Harimukteesvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Harimukteesvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Harimukteesvarar_Temple%2C_Ariyamangai",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Innambur Ezhutharinathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Innambur Ezhutharinathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Innambur Ezhutharinathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Innambur Ezhutharinathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Innambur_Ezhutharinathar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Iravathesvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Nemam",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Iravathesvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Nemam.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Iravathesvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Iravathesvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Iravathesvarar_Temple%2C_Nemam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jambukesvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Nallichery",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Jambukesvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Nallichery.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Jambukesvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Jambukesvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Jambukesvarar_Temple%2C_Nallichery",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kabartheeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kabartheeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kabartheeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kabartheeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kabartheeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kailasanathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Melakaveri",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kailasanathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Melakaveri.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kailasanathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kailasanathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kailasanathar_Temple%2C_Melakaveri",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kailasanathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thandankorai",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kailasanathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thandankorai.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kailasanathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kailasanathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kailasanathar_Temple%2C_Thandankorai",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kailasanathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Tirumetrazhigai",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kailasanathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Tirumetrazhigai.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kailasanathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kailasanathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kailasanathar_Temple%2C_Tirumetrazhigai",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kailasanathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Udayalur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kailasanathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Udayalur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kailasanathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kailasanathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kailasanathar_Temple%2C_Udayalur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalahasteeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kalahasteeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kalahasteeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kalahasteeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kalahasteeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalyanasundaresar Temple",
+    "state": "Tamil Nadu",
+    "city": "Nallur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kalyanasundaresar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Nallur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kalyanasundaresar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kalyanasundaresar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kalyanasundaresar_Temple%2C_Nallur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kambatta Viswanathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kambatta Viswanathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kambatta Viswanathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kambatta Viswanathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kambatta_Viswanathar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kampaheswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thirubuvanam",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kampaheswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thirubuvanam.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kampaheswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kampaheswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kampaheswarar_Temple%2C_Thirubuvanam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kandeeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Kandiyur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kandeeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Kandiyur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kandeeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kandeeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kandeeswarar_Temple%2C_Kandiyur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kanthanathaswamy Temple",
+    "state": "Tamil Nadu",
+    "city": "Erakaram",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kanthanathaswamy Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Erakaram.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kanthanathaswamy Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kanthanathaswamy Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kanthanathaswamy_Temple%2C_Erakaram",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Karukudi Sargunalingeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Karukudi Sargunalingeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Karukudi Sargunalingeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Karukudi Sargunalingeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Karukudi_Sargunalingeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Karuvalarcheri Agastheeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Karuvalarcheri Agastheeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Karuvalarcheri Agastheeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Karuvalarcheri Agastheeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Karuvalarcheri_Agastheeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kasi Viswanathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Kumbakonam",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kasi Viswanathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Kumbakonam.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kasi Viswanathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kasi Viswanathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kasi_Viswanathar_Temple%2C_Kumbakonam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kasi Viswanathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Umayalpuram",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kasi Viswanathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Umayalpuram.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kasi Viswanathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kasi Viswanathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kasi_Viswanathar_Temple%2C_Umayalpuram",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kiruthivakesvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Sulamangalam",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kiruthivakesvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Sulamangalam.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kiruthivakesvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kiruthivakesvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kiruthivakesvarar_Temple%2C_Sulamangalam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kodeeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Kodeeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kodeeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Kodeeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kodeeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Korukkai Brahma Gnana Pureeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Korukkai Brahma Gnana Pureeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Korukkai Brahma Gnana Pureeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Korukkai Brahma Gnana Pureeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Korukkai_Brahma_Gnana_Pureeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Macchapurisvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Koyildevarayanpettai",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Macchapurisvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Koyildevarayanpettai.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Macchapurisvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Macchapurisvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Macchapurisvarar_Temple%2C_Koyildevarayanpettai",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahalingeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thiruvidaimarudur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Mahalingeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thiruvidaimarudur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Mahalingeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Mahalingeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Mahalingeswarar_Temple%2C_Thiruvidaimarudur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nageswaraswamy Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Nageswaraswamy Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Nageswaraswamy Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Nageswaraswamy Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Nageswaraswamy_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Natanapureesvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thantanthottam",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Natanapureesvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thantanthottam.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Natanapureesvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Natanapureesvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Natanapureesvarar_Temple%2C_Thantanthottam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Neyyadiappar Temple",
+    "state": "Tamil Nadu",
+    "city": "Tillaistanam",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Neyyadiappar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Tillaistanam.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Neyyadiappar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Neyyadiappar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Neyyadiappar_Temple%2C_Tillaistanam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Odhanavaneswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Tiruchotruturai",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Odhanavaneswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Tiruchotruturai.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Odhanavaneswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Odhanavaneswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Odhanavaneswarar_Temple%2C_Tiruchotruturai",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Padikasu Nathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Padikasu Nathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Padikasu Nathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Padikasu Nathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Padikasu_Nathar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Palaivananathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Palaivananathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Palaivananathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Palaivananathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Palaivananathar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Palunkanda Nathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Palunkanda Nathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Palunkanda Nathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Palunkanda Nathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Palunkanda_Nathar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Parasunathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Muzhaiyur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Parasunathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Muzhaiyur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Parasunathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Parasunathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Parasunathar_Temple%2C_Muzhaiyur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Paridiniyamam Parithiappar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Paridiniyamam Parithiappar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Paridiniyamam Parithiappar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Paridiniyamam Parithiappar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Paridiniyamam_Parithiappar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pasupatheesvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Pasupathikovil",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Pasupatheesvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Pasupathikovil.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Pasupatheesvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Pasupatheesvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Pasupatheesvarar_Temple%2C_Pasupathikovil",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pasupatheeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Aavoor",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Pasupatheeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Aavoor.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Pasupatheeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Pasupatheeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Pasupatheeswarar_Temple%2C_Aavoor",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pasupatiswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Pasupatiswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Pasupatiswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Pasupatiswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Pasupatiswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pazhayarai Vadathali",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Pazhayarai Vadathali is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Pazhayarai Vadathali is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Pazhayarai Vadathali (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Pazhayarai_Vadathali",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Podhu Aavudayar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Podhu Aavudayar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Podhu Aavudayar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Podhu Aavudayar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Podhu_Aavudayar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Prananadeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Prananadeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Prananadeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Prananadeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Prananadeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Puradhanavaneswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thiruchitrambalam",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Puradhanavaneswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thiruchitrambalam.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Puradhanavaneswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Puradhanavaneswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Puradhanavaneswarar_Temple%2C_Thiruchitrambalam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pushpavananathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Tiruppoonturutti",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Pushpavananathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Tiruppoonturutti.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Pushpavananathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Pushpavananathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Pushpavananathar_Temple%2C_Tiruppoonturutti",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ramalingaswami Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Ramalingaswami Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Ramalingaswami Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Ramalingaswami Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Ramalingaswami_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sakshinatheswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thiruppurambiyam",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Sakshinatheswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thiruppurambiyam.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Sakshinatheswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Sakshinatheswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Sakshinatheswarar_Temple%2C_Thiruppurambiyam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sakthivanesvara Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Sakthivanesvara Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Sakthivanesvara Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Sakthivanesvara Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Sakthivanesvara_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Saptha Stana Temples",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Saptha Stana Temples is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Saptha Stana Temples is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Saptha Stana Temples (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Saptha_Stana_Temples",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sarguna Lingeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Sarguna Lingeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Sarguna Lingeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Sarguna Lingeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Sarguna_Lingeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Satyagireeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Senganur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Satyagireeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Senganur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Satyagireeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Satyagireeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Satyagireeswarar_Temple%2C_Senganur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Semmininathar Karumbeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Semmininathar Karumbeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Semmininathar Karumbeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Semmininathar Karumbeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Semmininathar_Karumbeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddha Natheswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Siddha Natheswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Siddha Natheswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Siddha Natheswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Siddha_Natheswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sivagurunathaswamy Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Sivagurunathaswamy Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Sivagurunathaswamy Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Sivagurunathaswamy Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Sivagurunathaswamy_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sivanandeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Sivanandeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Sivanandeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Sivanandeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Sivanandeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sodasa Linga Mandapas",
+    "state": "Tamil Nadu",
+    "city": "Kumbakonam",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Sodasa Linga Mandapas is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Kumbakonam.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Sodasa Linga Mandapas is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Sodasa Linga Mandapas (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Sodasa_Linga_Mandapas%2C_Kumbakonam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Someswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Someswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Someswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Someswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sundaresvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Koranattukarupur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Sundaresvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Koranattukarupur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Sundaresvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Sundaresvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Sundaresvarar_Temple%2C_Koranattukarupur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sundaresvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Tiruloki",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Sundaresvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Tiruloki.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Sundaresvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Sundaresvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Sundaresvarar_Temple%2C_Tiruloki",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sundareswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Neikuppai",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Sundareswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Neikuppai.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Sundareswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Sundareswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Sundareswarar_Temple%2C_Neikuppai",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Thalikkulanathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Thalikkulanathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Thalikkulanathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thalikkulanathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Thalikkulanathar_Temple%2C_Thanjavur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Thanjavur Palace Devasthanam",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Thanjavur Palace Devasthanam is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Thanjavur Palace Devasthanam is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur Palace Devasthanam (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_Palace_Devasthanam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Thanjavur Sankaranarayanar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Thanjavur Sankaranarayanar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Thanjavur Sankaranarayanar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur Sankaranarayanar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_Sankaranarayanar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Thenkurangaduthurai Temple",
+    "state": "Tamil Nadu",
+    "city": "Aduthurai",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Thenkurangaduthurai Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Aduthurai.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Thenkurangaduthurai Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thenkurangaduthurai Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Thenkurangaduthurai_Temple%2C_Aduthurai",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Thenupuriswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Patteeswaram",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Thenupuriswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Patteeswaram.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Thenupuriswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thenupuriswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Thenupuriswarar_Temple%2C_Patteeswaram",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Thirukoteeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Thirukoteeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Thirukoteeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thirukoteeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Thirukoteeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Thirumeignanam Gnanaparameswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Thirumeignanam Gnanaparameswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Thirumeignanam Gnanaparameswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thirumeignanam Gnanaparameswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Thirumeignanam_Gnanaparameswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Thiruvisanallur Sivayoginathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Thiruvisanallur Sivayoginathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Thiruvisanallur Sivayoginathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thiruvisanallur Sivayoginathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Thiruvisanallur_Sivayoginathar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Thukkachi Abatsahayesvar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Thukkachi Abatsahayesvar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Thukkachi Abatsahayesvar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thukkachi Abatsahayesvar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Thukkachi_Abatsahayesvar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tirukkaanoor Semmeninathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Tirukkaanoor Semmeninathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Tirukkaanoor Semmeninathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Tirukkaanoor Semmeninathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Tirukkaanoor_Semmeninathar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tirukozhambiam Kokileswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Tirukozhambiam Kokileswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Tirukozhambiam Kokileswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Tirukozhambiam Kokileswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Tirukozhambiam_Kokileswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tirunageswaram Naganathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Tirunageswaram Naganathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Tirunageswaram Naganathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Tirunageswaram Naganathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Tirunageswaram_Naganathar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tirunarayur Ramanathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Tirunarayur Ramanathar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Tirunarayur Ramanathar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Tirunarayur Ramanathar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Tirunarayur_Ramanathar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tirunarayur Siddhanatheswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Tirunarayur Siddhanatheswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Tirunarayur Siddhanatheswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Tirunarayur Siddhanatheswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Tirunarayur_Siddhanatheswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tirundudevankudi Karkadeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Tirundudevankudi Karkadeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Tirundudevankudi Karkadeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Tirundudevankudi Karkadeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Tirundudevankudi_Karkadeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tiruneelakkudi Neelakandeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Tiruneelakkudi Neelakandeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Tiruneelakkudi Neelakandeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Tiruneelakkudi Neelakandeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Tiruneelakkudi_Neelakandeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tiruppanantaal Arunajadeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Tiruppanantaal Arunajadeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Tiruppanantaal Arunajadeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Tiruppanantaal Arunajadeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Tiruppanantaal_Arunajadeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tirupperumpuliyur Vyakrapureeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Tirupperumpuliyur Vyakrapureeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Tirupperumpuliyur Vyakrapureeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Tirupperumpuliyur Vyakrapureeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Tirupperumpuliyur_Vyakrapureeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tiruvaneshwar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Tiruvaneshwar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Tiruvaneshwar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Tiruvaneshwar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Tiruvaneshwar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vasishtesvarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Karunthittaikkudi",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Vasishtesvarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Karunthittaikkudi.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Vasishtesvarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Vasishtesvarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Vasishtesvarar_Temple%2C_Karunthittaikkudi",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vasishteswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thittai",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Vasishteswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thittai.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Vasishteswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Vasishteswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Vasishteswarar_Temple%2C_Thittai",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vedapuriswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thiruvedhikudi",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Vedapuriswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thiruvedhikudi.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Vedapuriswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Vedapuriswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Vedapuriswarar_Temple%2C_Thiruvedhikudi",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Veerabhadreswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Veerabhadreswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Veerabhadreswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Veerabhadreswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Veerabhadreswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vijayamangai Vijayanatheswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Vijayamangai Vijayanatheswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Vijayamangai Vijayanatheswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Vijayamangai Vijayanatheswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Vijayamangai_Vijayanatheswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vilwaneswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Vilwaneswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Vilwaneswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Vilwaneswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Vilwaneswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vyagrapureeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur District",
+    "tags": [
+      "Shaiva",
+      "Thanjavur district",
+      "Temple"
+    ],
+    "story": "Vyagrapureeswarar Temple is a Shiva temple in Thanjavur district with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Vyagrapureeswarar Temple is listed among Shiva temples in Thanjavur district, Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with regional variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Vyagrapureeswarar Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Vyagrapureeswarar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Adasa",
+    "state": "Maharashtra",
+    "city": "India",
+    "region": "Maharashtra",
+    "tags": [
+      "Shaiva",
+      "Maharashtra",
+      "Temple"
+    ],
+    "story": "Adasa is a Shiva temple in Maharashtra with active local worship traditions.",
+    "highlight": "Traditional Shiva worship at India.",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T15:18:12+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ]
   }
 ]
