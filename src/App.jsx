@@ -24,6 +24,9 @@ const ALL_CITIES = 'All Cities'
 const PAGE_SIZE = 12
 const SEARCH_PAGE_SIZE = 12
 const RECENT_PAGE_SIZE = 6
+const NEWLY_ADDED_PAGE_SIZE = 6
+const NEWLY_ADDED_LIMIT = 12
+const NOT_AVAILABLE_TEXT = 'Not Available'
 const MODES = {
   SHIVA: 'shiva',
   SHAKTI: 'shakti',
@@ -195,6 +198,10 @@ const copy = {
     cardsSection: {
       title: "Editor's Picks",
       subtitle: 'Handpicked temple stories and themed collections to read in depth.',
+    },
+    newlyAddedSection: {
+      title: 'Newly Added Temples',
+      subtitle: (count) => `${count} recently added temples.`,
     },
     searchSection: {
       title: 'Search results',
@@ -422,6 +429,10 @@ const copy = {
       title: 'संपादक चयन',
       subtitle: 'कहानी, अनुष्ठान और संदर्भ के साथ चुनी हुई मंदिर कथाएँ।',
     },
+    newlyAddedSection: {
+      title: 'नव जोड़े गए मंदिर',
+      subtitle: (count) => `${count} हाल ही में जोड़े गए मंदिर।`,
+    },
     searchSection: {
       title: 'खोज परिणाम',
       subtitle: (count) => `${count} मंदिर आपके फ़िल्टर से मिले।`,
@@ -559,6 +570,7 @@ function App() {
   const [currentPage, setCurrentPage] = useState(1)
   const [searchPage, setSearchPage] = useState(1)
   const [recentPage, setRecentPage] = useState(1)
+  const [newlyAddedPage, setNewlyAddedPage] = useState(1)
   const [activeTemple, setActiveTemple] = useState(null)
   const storyModalRef = useRef(null)
   const hasTrackedInitialPage = useRef(false)
@@ -682,6 +694,10 @@ function App() {
   useEffect(() => {
     setSearchPage(1)
   }, [selectedState, selectedCity, searchTerm, mode])
+
+  useEffect(() => {
+    setNewlyAddedPage(1)
+  }, [storyState, mode])
 
   useEffect(() => {
     document.documentElement.lang = language === 'hi' ? 'hi' : 'en'
@@ -821,6 +837,31 @@ function App() {
   const storyTemples = visibleTemples.filter(
     (item) => storyState === ALL_STATES || item.state === storyState
   )
+  const parseAddedAt = (value) => {
+    const ts = Date.parse(String(value || ''))
+    return Number.isFinite(ts) ? ts : 0
+  }
+  const formatAddedAt = (value) => {
+    const ts = parseAddedAt(value)
+    if (!ts) return language === 'hi' ? 'हाल ही में जोड़ा गया' : 'Added recently'
+    return new Intl.DateTimeFormat(language === 'hi' ? 'hi-IN' : 'en-IN', {
+      timeZone: 'Asia/Kolkata',
+      day: '2-digit',
+      month: 'short',
+      year: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit',
+      hour12: true,
+    }).format(new Date(ts))
+  }
+  const newlyAddedTemples = [...storyTemples]
+    .filter((item) => item.addedAt)
+    .sort((a, b) => {
+      const diff = parseAddedAt(b.addedAt) - parseAddedAt(a.addedAt)
+      if (diff !== 0) return diff
+      return String(a.name || '').localeCompare(String(b.name || ''))
+    })
+    .slice(0, NEWLY_ADDED_LIMIT)
   const displayedTemples = editorJourneyFilter
     ? storyTemples.filter((item) => matchesEditorJourney(item, editorJourneyFilter))
     : storyTemples
@@ -864,6 +905,10 @@ function App() {
     1,
     Math.ceil(recentItems.length / RECENT_PAGE_SIZE)
   )
+  const totalNewlyAddedPages = Math.max(
+    1,
+    Math.ceil(newlyAddedTemples.length / NEWLY_ADDED_PAGE_SIZE)
+  )
   const pagedTemples = displayedTemples.slice(
     (currentPage - 1) * PAGE_SIZE,
     currentPage * PAGE_SIZE
@@ -875,6 +920,10 @@ function App() {
   const pagedRecentItems = recentItems.slice(
     (recentPage - 1) * RECENT_PAGE_SIZE,
     recentPage * RECENT_PAGE_SIZE
+  )
+  const pagedNewlyAddedTemples = newlyAddedTemples.slice(
+    (newlyAddedPage - 1) * NEWLY_ADDED_PAGE_SIZE,
+    newlyAddedPage * NEWLY_ADDED_PAGE_SIZE
   )
 
   useEffect(() => {
@@ -894,6 +943,12 @@ function App() {
       setRecentPage(totalRecentPages)
     }
   }, [recentPage, totalRecentPages])
+
+  useEffect(() => {
+    if (newlyAddedPage > totalNewlyAddedPages) {
+      setNewlyAddedPage(totalNewlyAddedPages)
+    }
+  }, [newlyAddedPage, totalNewlyAddedPages])
 
   const slugify = (value) =>
     String(value || '')
@@ -1187,6 +1242,17 @@ function App() {
     return temple[key]
   }
 
+  const withNotAvailable = (value) => {
+    if (value === null || value === undefined) return NOT_AVAILABLE_TEXT
+    if (typeof value === 'string') {
+      const trimmed = value.trim()
+      return trimmed || NOT_AVAILABLE_TEXT
+    }
+    return value
+  }
+
+  const getTempleDetailText = (temple, key) => withNotAvailable(getTempleText(temple, key))
+
   const getTempleList = (temple, key) => {
     if (!temple) {
       return []
@@ -1199,13 +1265,13 @@ function App() {
 
   const detailCards = activeTemple
     ? [
-        { label: t.details.deity, value: getTempleText(activeTemple, 'deity') },
-        { label: t.details.tradition, value: getTempleText(activeTemple, 'tradition') },
-        { label: t.details.bestTime, value: getTempleText(activeTemple, 'bestTime') },
-        { label: t.details.timings, value: getTempleText(activeTemple, 'timings') },
-        { label: t.details.dressCode, value: getTempleText(activeTemple, 'dressCode') },
-        { label: t.details.entryNotes, value: getTempleText(activeTemple, 'entryNotes') },
-      ].filter((item) => item.value)
+        { label: t.details.deity, value: getTempleDetailText(activeTemple, 'deity') },
+        { label: t.details.tradition, value: getTempleDetailText(activeTemple, 'tradition') },
+        { label: t.details.bestTime, value: getTempleDetailText(activeTemple, 'bestTime') },
+        { label: t.details.timings, value: getTempleDetailText(activeTemple, 'timings') },
+        { label: t.details.dressCode, value: getTempleDetailText(activeTemple, 'dressCode') },
+        { label: t.details.entryNotes, value: getTempleDetailText(activeTemple, 'entryNotes') },
+      ]
     : []
   const ritualList = getTempleList(activeTemple, 'rituals')
   const festivalList = getTempleList(activeTemple, 'festivals')
@@ -1232,19 +1298,19 @@ function App() {
           }
           return `Darshan is available during open hours, with rituals such as ${ritualList.join(' · ')}.`
         })(),
-        seasonal: getTempleText(activeTemple, 'bestTime'),
-        visitorNotes: getTempleText(activeTemple, 'entryNotes'),
-        festivals: festivalList.length ? festivalList.join(' · ') : '',
+        seasonal: getTempleDetailText(activeTemple, 'bestTime'),
+        visitorNotes: getTempleDetailText(activeTemple, 'entryNotes'),
+        festivals: festivalList.length ? festivalList.join(' · ') : NOT_AVAILABLE_TEXT,
       }
     : {}
   const getMoreDetail = (key) => {
     if (!moreDetails) {
-      return moreFallbacks[key]
+      return withNotAvailable(moreFallbacks[key])
     }
     if (language === 'hi') {
-      return moreDetails[`${key}Hi`] ?? moreDetails[key] ?? moreFallbacks[key]
+      return withNotAvailable(moreDetails[`${key}Hi`] ?? moreDetails[key] ?? moreFallbacks[key])
     }
-    return moreDetails[key] ?? moreFallbacks[key]
+    return withNotAvailable(moreDetails[key] ?? moreFallbacks[key])
   }
   const moreBlocks = moreDetails
     ? [
@@ -1254,7 +1320,7 @@ function App() {
         { label: t.moreLabels.seasonal, value: getMoreDetail('seasonal') },
         { label: t.moreLabels.visitorNotes, value: getMoreDetail('visitorNotes') },
         { label: t.moreLabels.festivals, value: getMoreDetail('festivals') },
-      ].filter((item) => item.value)
+      ]
     : []
   const labelForState = (state) => (state === ALL_STATES ? t.panel.allStates : state)
   const labelForCity = (city) => (city === ALL_CITIES ? t.panel.allCities : city)
@@ -1793,6 +1859,76 @@ function App() {
             </section>
           ) : null}
 
+          {newlyAddedTemples.length ? (
+            <section className="cards" id="newly-added-temples">
+              <div className="section-header compact">
+                <h2>{t.newlyAddedSection.title}</h2>
+                <p>{t.newlyAddedSection.subtitle(newlyAddedTemples.length)}</p>
+              </div>
+              <div className="card-grid">
+                {pagedNewlyAddedTemples.map((temple, index) => {
+                  const imageSrc = temple.image ?? getPlaceholderImage(temple.name)
+                  const storyText = getTempleText(temple, 'story')
+                  const addedAtText = formatAddedAt(temple.addedAt)
+                  return (
+                    <article
+                      className="temple-card"
+                      key={`newly-added-${temple.name}-${index}`}
+                      style={{ '--delay': `${index * 60}ms` }}
+                    >
+                      <figure className="card-media">
+                        <img
+                          src={imageSrc}
+                          alt={`${getTempleText(temple, 'name')} in ${temple.city}`}
+                          loading="lazy"
+                          onError={(event) => {
+                            if (event.currentTarget.dataset.fallbackApplied) return
+                            event.currentTarget.dataset.fallbackApplied = '1'
+                            event.currentTarget.src = getPlaceholderImage(temple.name)
+                          }}
+                        />
+                        {temple.image && temple.creditUrl && temple.credit ? (
+                          <figcaption>
+                            <a href={temple.creditUrl} target="_blank" rel="noreferrer">
+                              {temple.credit}
+                            </a>
+                          </figcaption>
+                        ) : null}
+                      </figure>
+                      <div className="card-body">
+                        <div className="card-meta">
+                          <span className="card-location">
+                            <span className="location-dot" aria-hidden="true" />
+                            {temple.city}, {temple.state}
+                          </span>
+                          {getTempleText(temple, 'region') ? (
+                            <span className="card-region">{getTempleText(temple, 'region')}</span>
+                          ) : null}
+                          <span className="card-readtime">{addedAtText}</span>
+                        </div>
+                        <h3>{getTempleText(temple, 'name')}</h3>
+                        <p>{storyText}</p>
+                        <button
+                          className="card-action"
+                          type="button"
+                          onClick={() => openTempleStory(temple, 'newly_added')}
+                        >
+                          {t.readFullStory}
+                        </button>
+                      </div>
+                    </article>
+                  )
+                })}
+              </div>
+              {renderPagination(
+                newlyAddedPage,
+                totalNewlyAddedPages,
+                setNewlyAddedPage,
+                'newly_added'
+              )}
+            </section>
+          ) : null}
+
           <section className="cards" id="temple-cards">
             <div className="section-header">
               <h2>{t.cardsSection.title}</h2>
@@ -1956,18 +2092,14 @@ function App() {
                     </div>
                   </div>
                 ) : null}
-                {ritualList.length ? (
-                  <div className="story-section">
-                    <h3>{t.modal.rituals}</h3>
-                    <p>{ritualList.join(' · ')}</p>
-                  </div>
-                ) : null}
-                {festivalList.length ? (
-                  <div className="story-section">
-                    <h3>{t.modal.festivals}</h3>
-                    <p>{festivalList.join(' · ')}</p>
-                  </div>
-                ) : null}
+                <div className="story-section">
+                  <h3>{t.modal.rituals}</h3>
+                  <p>{ritualList.length ? ritualList.join(' · ') : NOT_AVAILABLE_TEXT}</p>
+                </div>
+                <div className="story-section">
+                  <h3>{t.modal.festivals}</h3>
+                  <p>{festivalList.length ? festivalList.join(' · ') : NOT_AVAILABLE_TEXT}</p>
+                </div>
                 <div className="story-section">
                   <h3>{t.modal.more}</h3>
                   {moreBlocks.length ? (

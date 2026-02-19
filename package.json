@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "check:duplicates": "node scripts/checkTempleDuplicates.mjs",
+    "add:temples": "node scripts/addTemples.mjs"
   },
   "dependencies": {
     "react": "^19.2.0",

@@ -23,5 +23,24 @@ If you are developing a production application, we recommend using TypeScript wi
    - Set `VITE_GA_ID` with your GA4 measurement ID.
 3. Validate quality gates:
    - `npm run lint`
+   - `npm run check:duplicates`
    - `npm run build`
 4. Preview production build locally: `npm run preview`
+
+## Temple Addition Pipeline
+
+To add temples with duplicate protection:
+
+1. Prepare incoming temples in JSON (`[]` or `{ "temples": [] }`).
+2. Run:
+
+   - `npm run add:temples -- src/data/temples/<stateFile>.js <exportName> <inputJsonPath>`
+
+Example:
+
+- `npm run add:temples -- src/data/temples/madhyaPradesh.js madhyaPradeshTemples /tmp/new-mp-temples.json`
+
+The script checks duplicates before insert and skips matches using:
+
+- strict key: `name + state + city`
+- loose key: normalized temple name + `state + city`
