@@ -632,12 +632,14 @@ function App() {
   const shouldLoadLocalData = !API_MODE_ENABLED || Boolean(apiStatus.error)
 
   useEffect(() => {
-    if (!shouldLoadLocalData || localTempleData.loaded || localTempleData.loading) {
+    if (!shouldLoadLocalData || localTempleData.loaded) {
       return
     }
 
     let active = true
-    setLocalTempleData((prev) => ({ ...prev, loading: true, error: '' }))
+    setLocalTempleData((prev) =>
+      prev.loading ? prev : { ...prev, loading: true, error: '' }
+    )
 
     loadLocalTempleModules()
       .then((payload) => {
@@ -663,7 +665,7 @@ function App() {
     return () => {
       active = false
     }
-  }, [shouldLoadLocalData, localTempleData.loaded, localTempleData.loading])
+  }, [shouldLoadLocalData, localTempleData.loaded])
 
   const shivaTempleData = localTempleData.shiva
   const shaktiTempleData = localTempleData.shakti
@@ -680,15 +682,30 @@ function App() {
     })
     return list
   }, [shaktiTempleData])
+  const shivaStates = useMemo(() => {
+    const present = new Set(
+      shivaTempleData
+        .map((temple) => temple?.state)
+        .filter(Boolean)
+    )
+    const prioritized = FOCUS_STATES.filter((state) => present.has(state))
+    const remaining = Array.from(present)
+      .filter((state) => !FOCUS_STATES.includes(state))
+      .sort((a, b) => a.localeCompare(b))
+    return [...prioritized, ...remaining]
+  }, [shivaTempleData])
   const activeStates = useMemo(() => {
     if (isShivaMode) {
-      return FOCUS_STATES
+      if (useServerData) {
+        return apiStates
+      }
+      return shivaStates
     }
     if (useServerData) {
       return apiStates
     }
     return shaktiStates
-  }, [isShivaMode, useServerData, apiStates, shaktiStates])
+  }, [isShivaMode, useServerData, apiStates, shaktiStates, shivaStates])
   const staticTempleData = useMemo(() => {
     if (!isShivaMode) {
       return shaktiTempleData
@@ -1544,9 +1561,12 @@ function App() {
   const clearFilters = () => {
     handleStateChange(ALL_STATES, 'dropdown')
     handleCityChange(ALL_CITIES)
+    setStoryState(ALL_STATES)
     setEditorJourneyFilter('')
     setSearchTerm('')
+    setCurrentPage(1)
     setSearchPage(1)
+    setNewlyAddedPage(1)
     trackAnalyticsEvent('filters_cleared', {
       active_page: activePage,
     })
