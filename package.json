@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "vite",
     "dev:api": "node scripts/templeApiServer.mjs",
+    "prestart": "node scripts/exportTempleStore.mjs",
+    "start": "node scripts/templeApiServer.mjs --host=0.0.0.0 --port=$PORT",
     "prestart:api": "node scripts/exportTempleStore.mjs",
     "start:api": "node scripts/templeApiServer.mjs --host=0.0.0.0 --port=$PORT",
     "build": "vite build",
