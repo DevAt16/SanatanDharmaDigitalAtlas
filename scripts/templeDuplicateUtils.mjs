@@ -23,9 +23,23 @@ export const normalizeText = (value) =>
     .trim()
     .replace(/\s+/g, ' ')
 
+const normalizeTempleToken = (token) => {
+  let next = token
+  next = next.replace(/^onkaresh/, 'omkaresh')
+  next = next.replace(/eshwara$/, 'eshwar')
+  next = next.replace(/ishwara$/, 'ishwar')
+  next = next.replace(/swara$/, 'swar')
+  next = next.replace(/natha$/, 'nath')
+  if (next.length > 5 && next.endsWith('a')) {
+    next = next.slice(0, -1)
+  }
+  return next
+}
+
 const normalizeNameLoose = (value) =>
   normalizeText(String(value ?? '').replace(/\([^)]*\)/g, ' '))
     .split(' ')
+    .map(normalizeTempleToken)
     .filter((part) => part && !COMMON_TEMPLE_WORDS.has(part))
     .join(' ')
 

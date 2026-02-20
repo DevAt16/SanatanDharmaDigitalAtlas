@@ -4148,5 +4148,5093 @@ export const madhyaPradeshTemples = [
         }
       ]
     }
+  },
+  {
+    "name": "Agastyeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Agastyeshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Guriheshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Guriheshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dudeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Dudeshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Damarukeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Damarukeshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Anadikalpeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Anadikalpeshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Swarnajaleshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Swarnajaleshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Trivishtapeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Trivishtapeshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kapaleshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Kapaleshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Swargadwareshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Swargadwareshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Karkotkeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Karkotkeshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Siddheshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Lokpaleshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Lokpaleshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Manokamaneshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Manokamaneshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kutumbeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Kutumbeshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Indradyumneshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Indradyumneshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ishaneshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Ishaneshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Apsareshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Apsareshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalakaleshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Kalakaleshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nagchandreshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Nagchandreshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pratihareshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Pratihareshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kukkuteshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Kukkuteshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Karkateshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Karkateshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Meghanadeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Meghanadeshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahalayeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Mahalayeshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mukteshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Mukteshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Someshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Anarkeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Anarkeshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jateshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Jateshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rameshwar Mahadev (Ujjain 84 Mahadev)",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Rameshwar Mahadev (Ujjain 84 Mahadev) is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chyavaneshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Chyavaneshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Khandeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Khandeshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pantaneshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Pantaneshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Anandeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Anandeshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kandhadeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Kandhadeshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Indreshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Indreshwar Mahadev is revered as one of the traditional 84 Mahadev shrines of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev pilgrimage circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional lists of Ujjain's 84 Mahadev include this shrine in the Mahakal-kshetra pilgrimage sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route and access details vary by neighborhood in Ujjain.",
+      "sources": [
+        {
+          "label": "84 Mahadevas list (Ujjain)",
+          "url": "https://hinduphilosophyholypilgrimage.blogspot.com/2013/01/holy-pilgrimage-temples-in-madhya_31.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Agasteshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Agasteshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Guheshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Guheshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dhundeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Dhundeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Damrookeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Damrookeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Swarnajalleshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Swarnajalleshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Trivishtpeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Trivishtpeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kapleshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Kapleshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Karkoteshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Karkoteshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mankamneshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Mankamneshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Indradumneshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Indradumneshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalkaleshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Kalkaleshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Meghnadeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Meghnadeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pathneshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Pathneshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kanthareshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Kanthareshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Markandeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Markandeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiveshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Shiveshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kusumeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Kusumeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Akrureshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Akrureshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kundeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Kundeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Lumpeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Lumpeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gangeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Gangeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Angareshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Angareshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Uttareshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Uttareshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Trilochaneshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Trilochaneshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vireshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Vireshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Noopureshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Noopureshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Abhayeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Abhayeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Prathakeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Prathakeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sthavareshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Sthavareshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shuleshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Shuleshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Omkareshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Omkareshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vishweshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Vishweshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Neelakantheshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Neelakantheshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Simheshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Simheshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Revanteshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Revanteshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ghanteshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Ghanteshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Prayageshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Prayageshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Saubhageshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Saubhageshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rupeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Rupeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sahastradanukeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Sahastradanukeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pasupateshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Pasupateshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Brahmeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Brahmeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jalpeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Jalpeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pishachmukteshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Pishachmukteshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sangameshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Sangameshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Durghateshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Durghateshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chandradityeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Chandradityeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Karmeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Karmeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rajathaleshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Rajathaleshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vadaleshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Vadaleshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aruneshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Aruneshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pushpadanteshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Pushpadanteshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Abhimukteshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Abhimukteshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hanumanteshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Hanumanteshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Swapneshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Swapneshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pingaleshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Pingaleshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kayavarohaneshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Kayavarohaneshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vilveshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Vilveshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Daddeshwar Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Daddeshwar Mahadev is counted in the traditional Chaurasi Mahadev (84 Mahadev) pilgrimage sequence of Ujjain.",
+    "highlight": "Part of Ujjain's historic 84 Mahadev circuit.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-19T23:42:39+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Ujjain Chaurasi Mahadev lists include this shrine in the Mahakal-kshetra devotional route.",
+      "architecture": "Not Available",
+      "visitorNotes": "Local route details vary by neighborhood and should be verified locally.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kameshwara Mahadeva",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Kameshwara Mahadeva is listed in traditional Chaurasi Mahadev (84 Mahadev) routes associated with Ujjain.",
+    "highlight": "One of the shrines in Ujjain's 84 Mahadev pilgrimage tradition.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-20T00:35:01+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Chaurasi Mahadev listings include this shrine in Ujjain's Mahakal-kshetra sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Verify exact local route and access on arrival in Ujjain.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nripareshwara Mahadeva",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Nripareshwara Mahadeva is listed in traditional Chaurasi Mahadev (84 Mahadev) routes associated with Ujjain.",
+    "highlight": "One of the shrines in Ujjain's 84 Mahadev pilgrimage tradition.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-20T00:35:01+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Chaurasi Mahadev listings include this shrine in Ujjain's Mahakal-kshetra sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Verify exact local route and access on arrival in Ujjain.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Prithukeshwara Mahadeva",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Prithukeshwara Mahadeva is listed in traditional Chaurasi Mahadev (84 Mahadev) routes associated with Ujjain.",
+    "highlight": "One of the shrines in Ujjain's 84 Mahadev pilgrimage tradition.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-20T00:35:01+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Chaurasi Mahadev listings include this shrine in Ujjain's Mahakal-kshetra sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Verify exact local route and access on arrival in Ujjain.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shrisiddheshwara Mahadeva",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Shrisiddheshwara Mahadeva is listed in traditional Chaurasi Mahadev (84 Mahadev) routes associated with Ujjain.",
+    "highlight": "One of the shrines in Ujjain's 84 Mahadev pilgrimage tradition.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-20T00:35:01+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Chaurasi Mahadev listings include this shrine in Ujjain's Mahakal-kshetra sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Verify exact local route and access on arrival in Ujjain.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Matangeshwara Mahadeva",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Matangeshwara Mahadeva is listed in traditional Chaurasi Mahadev (84 Mahadev) routes associated with Ujjain.",
+    "highlight": "One of the shrines in Ujjain's 84 Mahadev pilgrimage tradition.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-20T00:35:01+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Chaurasi Mahadev listings include this shrine in Ujjain's Mahakal-kshetra sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Verify exact local route and access on arrival in Ujjain.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Duddhareshwara Mahadeva",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Duddhareshwara Mahadeva is listed in traditional Chaurasi Mahadev (84 Mahadev) routes associated with Ujjain.",
+    "highlight": "One of the shrines in Ujjain's 84 Mahadev pilgrimage tradition.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-20T00:35:01+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Chaurasi Mahadev listings include this shrine in Ujjain's Mahakal-kshetra sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Verify exact local route and access on arrival in Ujjain.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Yageshwara Mahadeva",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Yageshwara Mahadeva is listed in traditional Chaurasi Mahadev (84 Mahadev) routes associated with Ujjain.",
+    "highlight": "One of the shrines in Ujjain's 84 Mahadev pilgrimage tradition.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-20T00:35:01+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Chaurasi Mahadev listings include this shrine in Ujjain's Mahakal-kshetra sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Verify exact local route and access on arrival in Ujjain.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Karabheshwara Mahadeva",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Karabheshwara Mahadeva is listed in traditional Chaurasi Mahadev (84 Mahadev) routes associated with Ujjain.",
+    "highlight": "One of the shrines in Ujjain's 84 Mahadev pilgrimage tradition.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-20T00:35:01+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Chaurasi Mahadev listings include this shrine in Ujjain's Mahakal-kshetra sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Verify exact local route and access on arrival in Ujjain.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bilkeshwara Mahadeva",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Bilkeshwara Mahadeva is listed in traditional Chaurasi Mahadev (84 Mahadev) routes associated with Ujjain.",
+    "highlight": "One of the shrines in Ujjain's 84 Mahadev pilgrimage tradition.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-20T00:35:01+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Chaurasi Mahadev listings include this shrine in Ujjain's Mahakal-kshetra sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Verify exact local route and access on arrival in Ujjain.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Durdureshwara Mahadeva",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Durdureshwara Mahadeva is listed in traditional Chaurasi Mahadev (84 Mahadev) routes associated with Ujjain.",
+    "highlight": "One of the shrines in Ujjain's 84 Mahadev pilgrimage tradition.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-20T00:35:01+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Chaurasi Mahadev listings include this shrine in Ujjain's Mahakal-kshetra sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Verify exact local route and access on arrival in Ujjain.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Swargadareshwara Mahadeva",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Swargadareshwara Mahadeva is listed in traditional Chaurasi Mahadev (84 Mahadev) routes associated with Ujjain.",
+    "highlight": "One of the shrines in Ujjain's 84 Mahadev pilgrimage tradition.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-20T00:35:01+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Chaurasi Mahadev listings include this shrine in Ujjain's Mahakal-kshetra sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Verify exact local route and access on arrival in Ujjain.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Indradhamneshwara Mahadeva",
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "region": "Ujjain 84 Mahadev Circuit",
+    "tags": [
+      "Shaiva",
+      "84 Mahadev",
+      "Ujjain"
+    ],
+    "story": "Indradhamneshwara Mahadeva is listed in traditional Chaurasi Mahadev (84 Mahadev) routes associated with Ujjain.",
+    "highlight": "One of the shrines in Ujjain's 84 Mahadev pilgrimage tradition.",
+    "image": "Not Available",
+    "credit": "Not Available",
+    "creditUrl": "Not Available",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-20T00:35:01+05:30",
+    "bestTime": "Shravan month and Mahashivratri period.",
+    "timings": "Not Available",
+    "dressCode": "Not Available",
+    "entryNotes": "Not Available",
+    "rituals": [
+      "Not Available"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Traditional Chaurasi Mahadev listings include this shrine in Ujjain's Mahakal-kshetra sequence.",
+      "architecture": "Not Available",
+      "visitorNotes": "Verify exact local route and access on arrival in Ujjain.",
+      "sources": [
+        {
+          "label": "Abodes of Shiva: Chaurasi Mahadev (Ujjain)",
+          "url": "https://koyil.com/chaurasimahadev.html",
+          "type": "Secondary source"
+        },
+        {
+          "label": "84 Mahadeva Temples (Ujjain)",
+          "url": "https://idslive.suhaniinfo.com/humara-mp/mp-ujjain/tourist-places/84-mahadeva-temples/",
+          "type": "Secondary source"
+        }
+      ]
+    }
   }
 ];

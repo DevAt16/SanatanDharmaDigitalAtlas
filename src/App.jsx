@@ -90,6 +90,44 @@ const PAGE_TRACKING_TITLES = {
   recent: 'Recent Discoveries',
   about: 'About',
 }
+const API_MODE_ENABLED = String(import.meta.env.VITE_USE_TEMPLE_API || '').toLowerCase() === 'true'
+const API_BASE_URL = String(import.meta.env.VITE_TEMPLE_API_BASE_URL || 'http://127.0.0.1:8787').replace(
+  /\/$/,
+  ''
+)
+const API_FETCH_LIMIT = 500
+
+const fetchAllTemplesFromApi = async (mode, signal) => {
+  const records = []
+  let offset = 0
+  let pages = 0
+
+  while (pages < 500) {
+    const params = new URLSearchParams({
+      mode,
+      limit: String(API_FETCH_LIMIT),
+      offset: String(offset),
+      sort: 'name_asc',
+    })
+
+    const response = await fetch(`${API_BASE_URL}/api/temples?${params.toString()}`, { signal })
+    if (!response.ok) {
+      throw new Error(`Temple API request failed (${response.status})`)
+    }
+    const payload = await response.json()
+    const items = Array.isArray(payload?.items) ? payload.items : []
+    records.push(...items)
+
+    if (!payload?.hasMore || items.length === 0) {
+      break
+    }
+
+    offset += Number(payload?.limit) || API_FETCH_LIMIT
+    pages += 1
+  }
+
+  return records
+}
 
 const copy = {
   en: {
@@ -577,10 +615,40 @@ function App() {
   const [modalImageSrc, setModalImageSrc] = useState('')
   const [isPortraitImage, setIsPortraitImage] = useState(false)
   const [auditStatus, setAuditStatus] = useState({ running: false, total: 0, done: 0 })
+  const [apiTemples, setApiTemples] = useState([])
+  const [apiStatus, setApiStatus] = useState({ loading: false, error: '' })
   const t = copy[language]
   const isAbout = activePage === 'about'
   const isRecent = activePage === 'recent'
   const isShivaMode = mode === MODES.SHIVA
+
+  useEffect(() => {
+    if (!API_MODE_ENABLED) {
+      return undefined
+    }
+
+    const controller = new AbortController()
+    const modeKey = isShivaMode ? MODES.SHIVA : MODES.SHAKTI
+
+    setApiStatus({ loading: true, error: '' })
+
+    fetchAllTemplesFromApi(modeKey, controller.signal)
+      .then((items) => {
+        setApiTemples(items)
+        setApiStatus({ loading: false, error: '' })
+      })
+      .catch((error) => {
+        if (controller.signal.aborted) return
+        setApiTemples([])
+        setApiStatus({
+          loading: false,
+          error: String(error?.message || 'Failed to load temple data from API'),
+        })
+      })
+
+    return () => controller.abort()
+  }, [isShivaMode])
+
   const shaktiStates = useMemo(() => {
     const seen = new Set()
     const list = []
@@ -596,7 +664,7 @@ function App() {
     () => (isShivaMode ? FOCUS_STATES : shaktiStates),
     [isShivaMode, shaktiStates]
   )
-  const baseTempleData = useMemo(() => {
+  const staticTempleData = useMemo(() => {
     if (!isShivaMode) {
       return shaktiTempleData
     }
@@ -605,6 +673,18 @@ function App() {
     }
     return templeData
   }, [isShivaMode, selectedState])
+  const baseTempleData = useMemo(() => {
+    if (!API_MODE_ENABLED) {
+      return staticTempleData
+    }
+    if (apiStatus.error) {
+      return staticTempleData
+    }
+    if (apiTemples.length > 0) {
+      return apiTemples
+    }
+    return staticTempleData
+  }, [staticTempleData, apiTemples, apiStatus.error])
   const safeTempleData = useMemo(
     () => baseTempleData.filter((item) => item && typeof item === 'object'),
     [baseTempleData]
@@ -866,6 +946,22 @@ function App() {
     ? storyTemples.filter((item) => matchesEditorJourney(item, editorJourneyFilter))
     : storyTemples
   const featuredTemple = displayedTemples[0] || null
+  const apiStatusText = (() => {
+    if (!API_MODE_ENABLED) return ''
+    if (apiStatus.loading) {
+      return language === 'hi'
+        ? 'API से मंदिर डेटा लोड किया जा रहा है...'
+        : 'Loading temple data from API...'
+    }
+    if (apiStatus.error) {
+      return language === 'hi'
+        ? 'API उपलब्ध नहीं है; स्थानीय डेटा पर वापस आए।'
+        : 'Temple API unavailable; using bundled dataset.'
+    }
+    return language === 'hi'
+      ? `Temple API मोड सक्रिय (${safeTempleData.length} रिकॉर्ड)`
+      : `Temple API mode active (${safeTempleData.length} records)`
+  })()
   const modeLabel = isShivaMode ? t.modeToggle.shiva : t.modeToggle.shakti
   const storyStateLabel = storyState === ALL_STATES ? t.labels.allStates : storyState
   const heroJourneyItems = t.heroJourneys?.items ?? []
@@ -1429,6 +1525,12 @@ function App() {
           </nav>
         </div>
       </div>
+
+      {API_MODE_ENABLED ? (
+        <div className={`api-sync-banner ${apiStatus.error ? 'error' : ''}`}>
+          {apiStatusText}
+        </div>
+      ) : null}
 
       {isAbout ? (
         <>

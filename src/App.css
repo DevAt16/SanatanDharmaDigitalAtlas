@@ -125,6 +125,25 @@
   padding: 16px 20px 0;
 }
 
+.api-sync-banner {
+  width: 100%;
+  max-width: 1080px;
+  margin: 8px auto 0;
+  padding: 8px 14px;
+  border-radius: 10px;
+  border: 1px solid rgba(15, 61, 92, 0.18);
+  background: rgba(15, 61, 92, 0.08);
+  color: var(--text-grey);
+  font-size: 0.8rem;
+  line-height: 1.35;
+}
+
+.api-sync-banner.error {
+  border-color: rgba(170, 43, 43, 0.25);
+  background: rgba(170, 43, 43, 0.08);
+  color: #6f1c1c;
+}
+
 .top-bar-actions {
   display: flex;
   align-items: center;
