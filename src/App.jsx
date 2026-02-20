@@ -1,7 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import './App.css'
-import { templeData, shaktiTempleData } from './data/temples'
-import { andhraPradeshTemples } from './data/temples/andhraPradesh'
 import { recentDiscoveries } from './data/recentDiscoveries'
 import { pickBestCommonsImage, searchCommonsImages } from './utils/commons'
 
@@ -30,9 +28,6 @@ const NOT_AVAILABLE_TEXT = 'Not Available'
 const MODES = {
   SHIVA: 'shiva',
   SHAKTI: 'shakti',
-}
-const STATE_TEMPLE_OVERRIDES = {
-  'Andhra Pradesh': andhraPradeshTemples,
 }
 const FOCUS_STATES = [
   'Madhya Pradesh',
@@ -95,38 +90,36 @@ const API_BASE_URL = String(import.meta.env.VITE_TEMPLE_API_BASE_URL || 'http://
   /\/$/,
   ''
 )
-const API_FETCH_LIMIT = 500
 
-const fetchAllTemplesFromApi = async (mode, signal) => {
-  const records = []
-  let offset = 0
-  let pages = 0
+const buildApiQuery = (paramsObject = {}) => {
+  const params = new URLSearchParams()
+  Object.entries(paramsObject).forEach(([key, value]) => {
+    if (value === undefined || value === null || value === '') return
+    params.set(key, String(value))
+  })
+  return params.toString()
+}
 
-  while (pages < 500) {
-    const params = new URLSearchParams({
-      mode,
-      limit: String(API_FETCH_LIMIT),
-      offset: String(offset),
-      sort: 'name_asc',
-    })
-
-    const response = await fetch(`${API_BASE_URL}/api/temples?${params.toString()}`, { signal })
-    if (!response.ok) {
-      throw new Error(`Temple API request failed (${response.status})`)
-    }
-    const payload = await response.json()
-    const items = Array.isArray(payload?.items) ? payload.items : []
-    records.push(...items)
-
-    if (!payload?.hasMore || items.length === 0) {
-      break
-    }
-
-    offset += Number(payload?.limit) || API_FETCH_LIMIT
-    pages += 1
+const fetchTempleApiJson = async (path, signal) => {
+  const response = await fetch(`${API_BASE_URL}${path}`, { signal })
+  if (!response.ok) {
+    throw new Error(`Temple API request failed (${response.status})`)
   }
+  return response.json()
+}
 
-  return records
+const loadLocalTempleModules = async () => {
+  const [templesModule, andhraModule] = await Promise.all([
+    import('./data/temples'),
+    import('./data/temples/andhraPradesh'),
+  ])
+  return {
+    shiva: Array.isArray(templesModule?.templeData) ? templesModule.templeData : [],
+    shakti: Array.isArray(templesModule?.shaktiTempleData) ? templesModule.shaktiTempleData : [],
+    andhra: Array.isArray(andhraModule?.andhraPradeshTemples)
+      ? andhraModule.andhraPradeshTemples
+      : [],
+  }
 }
 
 const copy = {
@@ -615,39 +608,66 @@ function App() {
   const [modalImageSrc, setModalImageSrc] = useState('')
   const [isPortraitImage, setIsPortraitImage] = useState(false)
   const [auditStatus, setAuditStatus] = useState({ running: false, total: 0, done: 0 })
-  const [apiTemples, setApiTemples] = useState([])
+  const [localTempleData, setLocalTempleData] = useState({
+    shiva: [],
+    shakti: [],
+    andhra: [],
+    loading: false,
+    loaded: false,
+    error: '',
+  })
   const [apiStatus, setApiStatus] = useState({ loading: false, error: '' })
+  const [apiStates, setApiStates] = useState([])
+  const [apiCities, setApiCities] = useState([])
+  const [apiStats, setApiStats] = useState({ temples: 0, states: 0, cities: 0, sources: 0 })
+  const [apiEditorData, setApiEditorData] = useState({ items: [], total: 0, loading: false })
+  const [apiSearchData, setApiSearchData] = useState({ items: [], total: 0, loading: false })
+  const [apiNewlyAddedData, setApiNewlyAddedData] = useState({ items: [], total: 0, loading: false })
   const t = copy[language]
   const isAbout = activePage === 'about'
   const isRecent = activePage === 'recent'
   const isShivaMode = mode === MODES.SHIVA
+  const modeKey = isShivaMode ? MODES.SHIVA : MODES.SHAKTI
+  const useServerData = API_MODE_ENABLED && !apiStatus.error
+  const shouldLoadLocalData = !API_MODE_ENABLED || Boolean(apiStatus.error)
 
   useEffect(() => {
-    if (!API_MODE_ENABLED) {
-      return undefined
+    if (!shouldLoadLocalData || localTempleData.loaded || localTempleData.loading) {
+      return
     }
 
-    const controller = new AbortController()
-    const modeKey = isShivaMode ? MODES.SHIVA : MODES.SHAKTI
+    let active = true
+    setLocalTempleData((prev) => ({ ...prev, loading: true, error: '' }))
 
-    setApiStatus({ loading: true, error: '' })
-
-    fetchAllTemplesFromApi(modeKey, controller.signal)
-      .then((items) => {
-        setApiTemples(items)
-        setApiStatus({ loading: false, error: '' })
-      })
-      .catch((error) => {
-        if (controller.signal.aborted) return
-        setApiTemples([])
-        setApiStatus({
+    loadLocalTempleModules()
+      .then((payload) => {
+        if (!active) return
+        setLocalTempleData({
+          shiva: payload.shiva,
+          shakti: payload.shakti,
+          andhra: payload.andhra,
           loading: false,
-          error: String(error?.message || 'Failed to load temple data from API'),
+          loaded: true,
+          error: '',
         })
       })
+      .catch((error) => {
+        if (!active) return
+        setLocalTempleData((prev) => ({
+          ...prev,
+          loading: false,
+          error: String(error?.message || 'Failed to load local temple data'),
+        }))
+      })
 
-    return () => controller.abort()
-  }, [isShivaMode])
+    return () => {
+      active = false
+    }
+  }, [shouldLoadLocalData, localTempleData.loaded, localTempleData.loading])
+
+  const shivaTempleData = localTempleData.shiva
+  const shaktiTempleData = localTempleData.shakti
+  const andhraTempleData = localTempleData.andhra
 
   const shaktiStates = useMemo(() => {
     const seen = new Set()
@@ -659,32 +679,30 @@ function App() {
       list.push(temple.state)
     })
     return list
-  }, [])
-  const activeStates = useMemo(
-    () => (isShivaMode ? FOCUS_STATES : shaktiStates),
-    [isShivaMode, shaktiStates]
-  )
+  }, [shaktiTempleData])
+  const activeStates = useMemo(() => {
+    if (isShivaMode) {
+      return FOCUS_STATES
+    }
+    if (useServerData) {
+      return apiStates
+    }
+    return shaktiStates
+  }, [isShivaMode, useServerData, apiStates, shaktiStates])
   const staticTempleData = useMemo(() => {
     if (!isShivaMode) {
       return shaktiTempleData
     }
-    if (selectedState !== ALL_STATES && STATE_TEMPLE_OVERRIDES[selectedState]) {
-      return STATE_TEMPLE_OVERRIDES[selectedState]
+    if (
+      selectedState !== ALL_STATES &&
+      selectedState === 'Andhra Pradesh' &&
+      andhraTempleData.length
+    ) {
+      return andhraTempleData
     }
-    return templeData
-  }, [isShivaMode, selectedState])
-  const baseTempleData = useMemo(() => {
-    if (!API_MODE_ENABLED) {
-      return staticTempleData
-    }
-    if (apiStatus.error) {
-      return staticTempleData
-    }
-    if (apiTemples.length > 0) {
-      return apiTemples
-    }
-    return staticTempleData
-  }, [staticTempleData, apiTemples, apiStatus.error])
+    return shivaTempleData
+  }, [isShivaMode, selectedState, shaktiTempleData, andhraTempleData, shivaTempleData])
+  const baseTempleData = staticTempleData
   const safeTempleData = useMemo(
     () => baseTempleData.filter((item) => item && typeof item === 'object'),
     [baseTempleData]
@@ -707,6 +725,13 @@ function App() {
   const statTemples = useMemo(() => visibleTemples, [visibleTemples])
 
   const templeStats = useMemo(() => {
+    if (useServerData && apiStats.temples) {
+      return {
+        temples: apiStats.temples,
+        cities: apiStats.cities,
+        states: apiStats.states,
+      }
+    }
     const statesSet = new Set(statTemples.map((item) => item.state))
     const citiesSet = new Set(statTemples.map((item) => item.city))
     return {
@@ -714,21 +739,31 @@ function App() {
       cities: citiesSet.size,
       states: statesSet.size,
     }
-  }, [statTemples])
+  }, [statTemples, useServerData, apiStats])
 
   const sourcedTemplesCount = useMemo(
-    () =>
-      statTemples.filter((item) => {
+    () => {
+      if (useServerData && Number.isFinite(apiStats.sources)) {
+        return apiStats.sources
+      }
+      return statTemples.filter((item) => {
         const details = item?.moreDetails
         if (!details) return false
         return Boolean(
           details.sources?.length || details.puranicSources?.length || details.folkloreSources?.length
         )
-      }).length,
-    [statTemples]
+      }).length
+    },
+    [statTemples, useServerData, apiStats]
   )
 
   const cities = useMemo(() => {
+    if (useServerData) {
+      const sorted = [...apiCities].sort((a, b) =>
+        a.localeCompare(b, language === 'hi' ? 'hi-IN' : 'en-IN')
+      )
+      return [ALL_CITIES, ...sorted]
+    }
     const pool =
       selectedState === ALL_STATES
         ? visibleTemples
@@ -737,7 +772,7 @@ function App() {
       a.localeCompare(b, language === 'hi' ? 'hi-IN' : 'en-IN')
     )
     return [ALL_CITIES, ...unique]
-  }, [selectedState, visibleTemples, language])
+  }, [selectedState, visibleTemples, language, useServerData, apiCities])
 
   useEffect(() => {
     if (!cities.includes(selectedCity)) {
@@ -758,10 +793,13 @@ function App() {
   }, [activeStates, storyState])
 
   useEffect(() => {
+    if (useServerData) {
+      return
+    }
     if (activeTemple && !visibleTemples.includes(activeTemple)) {
       setActiveTemple(null)
     }
-  }, [activeTemple, visibleTemples])
+  }, [activeTemple, visibleTemples, useServerData])
 
   useEffect(() => {
     setCurrentPage(1)
@@ -849,6 +887,200 @@ function App() {
     (stateFilterSource === 'dropdown' && selectedState !== ALL_STATES) ||
     selectedCity !== ALL_CITIES ||
     normalizedSearch.length > 0
+
+  useEffect(() => {
+    if (!API_MODE_ENABLED) {
+      return undefined
+    }
+
+    const controller = new AbortController()
+    setApiStatus({ loading: true, error: '' })
+
+    const query = buildApiQuery({ mode: modeKey })
+    fetchTempleApiJson(`/api/stats?${query}`, controller.signal)
+      .then((payload) => {
+        const total = Number(payload?.total) || 0
+        if (total === 0) {
+          setApiStatus({
+            loading: false,
+            error: 'Temple API returned 0 records. Run `npm run store:export` and restart `npm run dev:api`.',
+          })
+          return
+        }
+        setApiStats({
+          temples: total,
+          states: Number(payload?.states) || 0,
+          cities: Number(payload?.cities) || 0,
+          sources: Number(payload?.sourced) || 0,
+        })
+        setApiStatus({ loading: false, error: '' })
+      })
+      .catch((error) => {
+        if (controller.signal.aborted) return
+        setApiStatus({
+          loading: false,
+          error: String(error?.message || 'Temple API unavailable'),
+        })
+      })
+
+    return () => controller.abort()
+  }, [modeKey])
+
+  useEffect(() => {
+    if (!useServerData) {
+      return undefined
+    }
+
+    const controller = new AbortController()
+    const statesQuery = buildApiQuery({
+      mode: modeKey,
+    })
+    const citiesQuery = buildApiQuery({
+      mode: modeKey,
+      state: selectedState === ALL_STATES ? '' : selectedState,
+    })
+
+    Promise.all([
+      fetchTempleApiJson(`/api/facets?${statesQuery}`, controller.signal),
+      fetchTempleApiJson(`/api/facets?${citiesQuery}`, controller.signal),
+    ])
+      .then(([statesPayload, citiesPayload]) => {
+        const stateList = Array.isArray(statesPayload?.states) ? statesPayload.states : []
+        const cityList = Array.isArray(citiesPayload?.cities) ? citiesPayload.cities : []
+        setApiStates(stateList)
+        setApiCities(cityList)
+      })
+      .catch((error) => {
+        if (controller.signal.aborted) return
+        setApiStatus((prev) => ({
+          ...prev,
+          error: String(error?.message || 'Temple API unavailable'),
+        }))
+      })
+    return () => controller.abort()
+  }, [useServerData, modeKey, selectedState])
+
+  useEffect(() => {
+    if (!useServerData) {
+      return undefined
+    }
+
+    const controller = new AbortController()
+    setApiEditorData((prev) => ({ ...prev, loading: true }))
+    const query = buildApiQuery({
+      mode: modeKey,
+      state: storyState === ALL_STATES ? '' : storyState,
+      journey: editorJourneyFilter,
+      limit: PAGE_SIZE,
+      offset: (currentPage - 1) * PAGE_SIZE,
+      sort: 'name_asc',
+    })
+
+    fetchTempleApiJson(`/api/temples?${query}`, controller.signal)
+      .then((payload) => {
+        setApiEditorData({
+          items: Array.isArray(payload?.items) ? payload.items : [],
+          total: Number(payload?.total) || 0,
+          loading: false,
+        })
+      })
+      .catch((error) => {
+        if (controller.signal.aborted) return
+        setApiEditorData((prev) => ({ ...prev, loading: false }))
+        setApiStatus((prev) => ({
+          ...prev,
+          error: String(error?.message || 'Temple API unavailable'),
+        }))
+      })
+
+    return () => controller.abort()
+  }, [useServerData, modeKey, storyState, editorJourneyFilter, currentPage])
+
+  useEffect(() => {
+    if (!useServerData || !searchActive) {
+      setApiSearchData((prev) =>
+        prev.items.length || prev.total
+          ? { items: [], total: 0, loading: false }
+          : prev
+      )
+      return undefined
+    }
+
+    const controller = new AbortController()
+    setApiSearchData((prev) => ({ ...prev, loading: true }))
+    const query = buildApiQuery({
+      mode: modeKey,
+      state: selectedState === ALL_STATES ? '' : selectedState,
+      city: selectedCity === ALL_CITIES ? '' : selectedCity,
+      search: normalizedSearch,
+      limit: SEARCH_PAGE_SIZE,
+      offset: (searchPage - 1) * SEARCH_PAGE_SIZE,
+      sort: 'name_asc',
+    })
+
+    fetchTempleApiJson(`/api/temples?${query}`, controller.signal)
+      .then((payload) => {
+        setApiSearchData({
+          items: Array.isArray(payload?.items) ? payload.items : [],
+          total: Number(payload?.total) || 0,
+          loading: false,
+        })
+      })
+      .catch((error) => {
+        if (controller.signal.aborted) return
+        setApiSearchData((prev) => ({ ...prev, loading: false }))
+        setApiStatus((prev) => ({
+          ...prev,
+          error: String(error?.message || 'Temple API unavailable'),
+        }))
+      })
+
+    return () => controller.abort()
+  }, [
+    useServerData,
+    searchActive,
+    modeKey,
+    selectedState,
+    selectedCity,
+    normalizedSearch,
+    searchPage,
+  ])
+
+  useEffect(() => {
+    if (!useServerData) {
+      return undefined
+    }
+
+    const controller = new AbortController()
+    setApiNewlyAddedData((prev) => ({ ...prev, loading: true }))
+    const query = buildApiQuery({
+      mode: modeKey,
+      state: storyState === ALL_STATES ? '' : storyState,
+      limit: NEWLY_ADDED_LIMIT,
+      offset: 0,
+      sort: 'addedat_desc',
+    })
+
+    fetchTempleApiJson(`/api/temples?${query}`, controller.signal)
+      .then((payload) => {
+        setApiNewlyAddedData({
+          items: Array.isArray(payload?.items) ? payload.items : [],
+          total: Number(payload?.total) || 0,
+          loading: false,
+        })
+      })
+      .catch((error) => {
+        if (controller.signal.aborted) return
+        setApiNewlyAddedData((prev) => ({ ...prev, loading: false }))
+        setApiStatus((prev) => ({
+          ...prev,
+          error: String(error?.message || 'Temple API unavailable'),
+        }))
+      })
+
+    return () => controller.abort()
+  }, [useServerData, modeKey, storyState])
+
   const searchFilteredTemples = visibleTemples.filter((item) => {
     const matchState = selectedState === ALL_STATES || item.state === selectedState
     const matchCity = selectedCity === ALL_CITIES || item.city === selectedCity
@@ -945,10 +1177,22 @@ function App() {
   const displayedTemples = editorJourneyFilter
     ? storyTemples.filter((item) => matchesEditorJourney(item, editorJourneyFilter))
     : storyTemples
-  const featuredTemple = displayedTemples[0] || null
+  const effectiveDisplayedTemples = useServerData ? apiEditorData.items : displayedTemples
+  const effectiveDisplayedTotal = useServerData ? apiEditorData.total : displayedTemples.length
+  const effectiveSearchTemples = useServerData && searchActive ? apiSearchData.items : searchFilteredTemples
+  const effectiveSearchTotal = useServerData && searchActive ? apiSearchData.total : searchFilteredTemples.length
+  const effectiveNewlyAddedTemples = useServerData
+    ? apiNewlyAddedData.items.slice(0, NEWLY_ADDED_LIMIT)
+    : newlyAddedTemples
+  const featuredTemple = effectiveDisplayedTemples[0] || null
+  const apiBusy =
+    apiStatus.loading ||
+    apiEditorData.loading ||
+    apiSearchData.loading ||
+    apiNewlyAddedData.loading
   const apiStatusText = (() => {
     if (!API_MODE_ENABLED) return ''
-    if (apiStatus.loading) {
+    if (apiBusy) {
       return language === 'hi'
         ? 'API से मंदिर डेटा लोड किया जा रहा है...'
         : 'Loading temple data from API...'
@@ -959,8 +1203,8 @@ function App() {
         : 'Temple API unavailable; using bundled dataset.'
     }
     return language === 'hi'
-      ? `Temple API मोड सक्रिय (${safeTempleData.length} रिकॉर्ड)`
-      : `Temple API mode active (${safeTempleData.length} records)`
+      ? `Temple API मोड सक्रिय (${templeStats.temples.toLocaleString()} रिकॉर्ड)`
+      : `Temple API mode active (${templeStats.temples.toLocaleString()} records)`
   })()
   const modeLabel = isShivaMode ? t.modeToggle.shiva : t.modeToggle.shakti
   const storyStateLabel = storyState === ALL_STATES ? t.labels.allStates : storyState
@@ -992,32 +1236,33 @@ function App() {
     : []
   const featuredStoryCredit = featuredTemple?.credit || ''
   const featuredStoryCreditUrl = featuredTemple?.creditUrl || ''
-  const totalPages = Math.max(1, Math.ceil(displayedTemples.length / PAGE_SIZE))
-  const totalSearchPages = Math.max(
-    1,
-    Math.ceil(searchFilteredTemples.length / SEARCH_PAGE_SIZE)
-  )
+  const totalPages = Math.max(1, Math.ceil(effectiveDisplayedTotal / PAGE_SIZE))
+  const totalSearchPages = Math.max(1, Math.ceil(effectiveSearchTotal / SEARCH_PAGE_SIZE))
   const totalRecentPages = Math.max(
     1,
     Math.ceil(recentItems.length / RECENT_PAGE_SIZE)
   )
   const totalNewlyAddedPages = Math.max(
     1,
-    Math.ceil(newlyAddedTemples.length / NEWLY_ADDED_PAGE_SIZE)
+    Math.ceil(effectiveNewlyAddedTemples.length / NEWLY_ADDED_PAGE_SIZE)
   )
-  const pagedTemples = displayedTemples.slice(
-    (currentPage - 1) * PAGE_SIZE,
-    currentPage * PAGE_SIZE
-  )
-  const pagedSearchTemples = searchFilteredTemples.slice(
-    (searchPage - 1) * SEARCH_PAGE_SIZE,
-    searchPage * SEARCH_PAGE_SIZE
-  )
+  const pagedTemples = useServerData
+    ? effectiveDisplayedTemples
+    : displayedTemples.slice(
+        (currentPage - 1) * PAGE_SIZE,
+        currentPage * PAGE_SIZE
+      )
+  const pagedSearchTemples = useServerData && searchActive
+    ? effectiveSearchTemples
+    : searchFilteredTemples.slice(
+        (searchPage - 1) * SEARCH_PAGE_SIZE,
+        searchPage * SEARCH_PAGE_SIZE
+      )
   const pagedRecentItems = recentItems.slice(
     (recentPage - 1) * RECENT_PAGE_SIZE,
     recentPage * RECENT_PAGE_SIZE
   )
-  const pagedNewlyAddedTemples = newlyAddedTemples.slice(
+  const pagedNewlyAddedTemples = effectiveNewlyAddedTemples.slice(
     (newlyAddedPage - 1) * NEWLY_ADDED_PAGE_SIZE,
     newlyAddedPage * NEWLY_ADDED_PAGE_SIZE
   )
@@ -1893,7 +2138,7 @@ function App() {
             <section className="cards cards-search" id="search-results">
               <div className="section-header compact">
                 <h2>{t.searchSection.title}</h2>
-                <p aria-live="polite">{t.searchSection.subtitle(searchFilteredTemples.length)}</p>
+                <p aria-live="polite">{t.searchSection.subtitle(effectiveSearchTotal)}</p>
               </div>
               <div className="card-grid">
                 {pagedSearchTemples.map((temple, index) => {
@@ -1952,7 +2197,7 @@ function App() {
                 })}
               </div>
               {renderPagination(searchPage, totalSearchPages, setSearchPage, 'search')}
-              {searchFilteredTemples.length === 0 ? (
+              {effectiveSearchTotal === 0 ? (
                 <div className="empty-state">
                   <h3>{t.searchEmpty.title}</h3>
                   <p>{t.searchEmpty.body}</p>
@@ -1961,11 +2206,11 @@ function App() {
             </section>
           ) : null}
 
-          {newlyAddedTemples.length ? (
+          {effectiveNewlyAddedTemples.length ? (
             <section className="cards" id="newly-added-temples">
               <div className="section-header compact">
                 <h2>{t.newlyAddedSection.title}</h2>
-                <p>{t.newlyAddedSection.subtitle(newlyAddedTemples.length)}</p>
+                <p>{t.newlyAddedSection.subtitle(effectiveNewlyAddedTemples.length)}</p>
               </div>
               <div className="card-grid">
                 {pagedNewlyAddedTemples.map((temple, index) => {
@@ -2107,7 +2352,7 @@ function App() {
               })}
             </div>
             {renderPagination(currentPage, totalPages, setCurrentPage, 'temples')}
-            {displayedTemples.length === 0 ? (
+            {effectiveDisplayedTotal === 0 ? (
               <div className="empty-state">
                 <h3>{t.emptyState.title}</h3>
                 <p>{t.emptyState.body}</p>

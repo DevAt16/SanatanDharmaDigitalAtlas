@@ -41,6 +41,36 @@ const normalizeText = (value) =>
     .toLowerCase()
     .trim()
 
+const normalizeTempleKey = (value) =>
+  String(value || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '')
+
+const CANONICAL_JYOTIRLINGA_KEYS = new Set(
+  [
+    ['Somnath Temple', 'Gujarat', 'Prabhas Patan'],
+    ['Mallikarjuna Swamy Temple', 'Andhra Pradesh', 'Srisailam'],
+    ['Mahakaleshwar Temple', 'Madhya Pradesh', 'Ujjain'],
+    ['Omkareshwar Temple', 'Madhya Pradesh', 'Omkareshwar'],
+    ['Kedarnath Temple', 'Uttarakhand', 'Kedarnath'],
+    ['Bhimashankar Temple', 'Maharashtra', 'Bhimashankar'],
+    ['Kashi Vishwanath Temple', 'Uttar Pradesh', 'Varanasi'],
+    ['Trimbakeshwar Shiva Temple', 'Maharashtra', 'Trimbak'],
+    ['Baidyanath Jyotirlinga', 'Jharkhand', 'Deoghar'],
+    ['Nageshvara Jyotirlinga', 'Gujarat', 'Dwarka'],
+    ['Ramanathaswamy Temple', 'Tamil Nadu', 'Rameswaram'],
+    ['Grishneshwar Temple', 'Maharashtra', 'Verul'],
+  ].map(
+    ([name, state, city]) =>
+      `${normalizeTempleKey(name)}|${normalizeTempleKey(state)}|${normalizeTempleKey(city)}`
+  )
+)
+
+const isCanonicalJyotirlingaTemple = (item) => {
+  const key = `${normalizeTempleKey(item?.name)}|${normalizeTempleKey(item?.state)}|${normalizeTempleKey(item?.city)}`
+  return CANONICAL_JYOTIRLINGA_KEYS.has(key)
+}
+
 const toSearchBlob = (item) =>
   [
     item.name,
@@ -81,6 +111,7 @@ const readQueryFilters = (url) => ({
   state: normalizeText(url.searchParams.get('state')),
   city: normalizeText(url.searchParams.get('city')),
   search: normalizeText(url.searchParams.get('search')),
+  journey: normalizeText(url.searchParams.get('journey')),
   deity: normalizeText(url.searchParams.get('deity')),
   tradition: normalizeText(url.searchParams.get('tradition')),
   tag: normalizeText(url.searchParams.get('tag')),
@@ -94,6 +125,14 @@ const applyFilters = (pool, filters) =>
     if (filters.city && normalizeText(item.city) !== filters.city) return false
     if (filters.deity && normalizeText(item.deity) !== filters.deity) return false
     if (filters.tradition && normalizeText(item.tradition) !== filters.tradition) return false
+
+    if (filters.journey) {
+      if (filters.journey === 'jyotirlinga') {
+        if (!isCanonicalJyotirlingaTemple(item)) return false
+      } else if (!toSearchBlob(item).includes(filters.journey)) {
+        return false
+      }
+    }
 
     if (filters.tag) {
       const tags = Array.isArray(item.tags) ? item.tags : []
@@ -193,10 +232,18 @@ const server = http.createServer((req, res) => {
     const filtered = applyFilters(records, filters)
     const states = new Set(filtered.map((item) => item.state))
     const cities = new Set(filtered.map((item) => item.city))
+    const sourced = filtered.filter((item) => {
+      const details = item?.moreDetails
+      if (!details || typeof details !== 'object') return false
+      return Boolean(
+        details.sources?.length || details.puranicSources?.length || details.folkloreSources?.length
+      )
+    }).length
     toJson(res, 200, {
       total: filtered.length,
       states: states.size,
       cities: cities.size,
+      sourced,
       generatedAt: metadata?.generatedAt || null,
     })
     return
