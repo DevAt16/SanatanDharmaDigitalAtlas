@@ -1,2608 +1,822 @@
 export const gujaratTemples = [
-  {
-    "name": "Somnath Temple",
-    "state": "Gujarat",
-    "city": "Prabhas Patan",
-    "region": "Saurashtra Coast",
-    "tags": [
-      "Jyotirlinga",
-      "Coastal",
-      "Pilgrimage"
-    ],
-    "story": "A coastal jyotirlinga shrine where the Arabian Sea frames the journey into Prabhas Patan.",
-    "highlight": "Sea-facing darshan and the evening light over the temple complex.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Somnath%20Temple,%20Somnath.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Somnath_Temple,_Somnath.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Evenings along the coast and cooler winter months.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Expect larger crowds on major Shiva festival days.",
-    "rituals": [
-      "Abhishekam",
-      "Evening aarti"
-    ],
-    "festivals": [],
-    "moreDetails": {
-      "history": "Somnath stands on the Saurashtra coastline near Veraval and is among the most revered Shiva shrines in Gujarat.",
-      "architecture": "The current temple is a modern reconstruction that preserves a traditional shikhara-style profile at the historic site.",
-      "darshan": "Darshan centers on the jyotirlinga sanctum within the coastal complex.",
-      "seasonal": "Winter months bring the most comfortable weather for long temple walks.",
-      "visitorNotes": "Plan for security checks and queues during peak pilgrimage periods.",
-      "festivals": "Mahashivratri draws the largest annual gatherings.",
-      "sources": [
-        {
-          "label": "Somnath Temple",
-          "url": "https://en.wikipedia.org/wiki/Somnath_temple",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Nageshvara Jyotirlinga",
-    "state": "Gujarat",
-    "city": "Dwarka",
-    "region": "Devbhumi Dwarka",
-    "tags": [
-      "Jyotirlinga",
-      "Darukavana",
-      "Pilgrimage"
-    ],
-    "story": "A revered jyotirlinga shrine near Dwarka, central to the Nageshvara tradition of Shiva worship.",
-    "highlight": "The towering Shiva statue and the jyotirlinga sanctum.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nageshvara%20Jyotirlinga.JPG",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nageshvara_Jyotirlinga.JPG",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Early morning for calmer darshan in Dwarka.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Traditional attire preferred.",
-    "entryNotes": "Weekends and festival days see longer queues.",
-    "rituals": [
-      "Abhishekam",
-      "Daily puja"
-    ],
-    "festivals": [
-      "Mahashivratri"
-    ],
-    "moreDetails": {
-      "history": "Nageshvara is one of the twelve jyotirlinga shrines and is located in Devbhumi Dwarka district.",
-      "architecture": "The complex includes a large forecourt and a prominent Shiva statue near the sanctum.",
-      "darshan": "Pilgrims offer worship at the jyotirlinga within the main sanctum.",
-      "seasonal": "Shravan month and Mahashivratri are peak devotional periods.",
-      "visitorNotes": "Arrive early during festival months to avoid long waits.",
-      "festivals": "Mahashivratri is the most prominent celebration.",
-      "sources": [
-        {
-          "label": "Nageshvara Jyotirlinga",
-          "url": "https://en.wikipedia.org/wiki/Nageshvara_Jyotirlinga",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Bhadkeshwar Mahadev Temple",
-    "state": "Gujarat",
-    "city": "Dwarka",
-    "region": "Arabian Sea Coast",
-    "tags": [
-      "Sea-facing",
-      "Shravan",
-      "Shivratri"
-    ],
-    "story": "A sea-edge Shiva temple in Dwarka where tidal waters surround the sanctuary.",
-    "highlight": "The tide-washed approach and hillock-top sanctum.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhadkeshwar%20Mahadev%20Temple,%20Dwarka.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhadkeshwar_Mahadev_Temple,_Dwarka.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Early morning or sunset when the shoreline is calm.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Sea tides can surround the approach during monsoon months.",
-    "rituals": [
-      "Abhishekam",
-      "Daily puja"
-    ],
-    "festivals": [
-      "Mahashivratri"
-    ],
-    "moreDetails": {
-      "history": "The temple stands on a hillock by the sea in Dwarka, where tides periodically reach the temple precincts.",
-      "architecture": "The shrine is built on a small hillock with steps and a raised approach from the shoreline.",
-      "darshan": "Devotees worship the Shiva linga within the sea-facing sanctum.",
-      "seasonal": "June and July tides highlight the unique setting of the temple.",
-      "visitorNotes": "Plan visits around tide timings for the safest approach.",
-      "festivals": "Mahashivratri hosts the largest annual fair.",
-      "sources": [
-        {
-          "label": "Bhadkeshwar Mahadev",
-          "url": "https://devbhumidwarka.nic.in/tourist-place/bhadkeshwar-mahadev/",
-          "type": "District tourism"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Koteshwar Mahadev Temple",
-    "state": "Gujarat",
-    "city": "Koteshwar",
-    "region": "Kutch, Kori Creek",
-    "tags": [
-      "Coastal",
-      "Kutch",
-      "Heritage"
-    ],
-    "story": "An ancient Shiva temple near the mouth of Kori Creek, marking the western edge of Kutch.",
-    "highlight": "Sea-facing temple walls and the fortified enclosure.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Koteshwar%20Mahadev%20Temple,%20Kutch,%20Gujarat%201.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Koteshwar_Mahadev_Temple,_Kutch,_Gujarat_1.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Winter months for pleasant coastal weather.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "The temple sits close to tidal creeks; carry water for the remote approach.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [],
-    "moreDetails": {
-      "history": "Koteshwar is a small village in Kutch known for its ancient Shiva temple near the mouth of Kori Creek.",
-      "architecture": "The temple complex includes a fortified enclosure and stone shrine facing the sea.",
-      "darshan": "The Shiva linga is worshipped in the main sanctum within the coastal complex.",
-      "seasonal": "Cooler months make the long coastal drive more comfortable.",
-      "visitorNotes": "Combine with nearby Kutch heritage stops for a full-day circuit.",
-      "festivals": "Local Shivratri observances draw devotees from the region.",
-      "sources": [
-        {
-          "label": "Koteshwar, Kutch",
-          "url": "https://en.wikipedia.org/wiki/Koteshwar,_Kutch",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Rudra Mahalaya Temple",
-    "state": "Gujarat",
-    "city": "Siddhpur",
-    "region": "Patan district",
-    "tags": [
-      "Ruins",
-      "Chaulukya",
-      "Heritage"
-    ],
-    "story": "A historic Shaiva complex at Siddhpur, now known for its monumental ruins and torans.",
-    "highlight": "The surviving toran gateways of the ruined complex.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudra%20Mahalaya%20Temple%20in%20Siddhpur%2005.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Rudra_Mahalaya_Temple_in_Siddhpur_05.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Morning heritage walks in cooler months.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "This is a protected ruin; follow ASI guidelines.",
-    "rituals": [],
-    "festivals": [],
-    "moreDetails": {
-      "history": "Rudra Mahalaya (Rudramal) was a major Shaiva temple complex in Siddhpur built under the Chaulukyas and later ruined.",
-      "architecture": "The surviving torans showcase Maru-Gurjara craftsmanship and the original scale of the complex.",
-      "darshan": "Today visitors experience the remaining gateways and pillars of the former temple.",
-      "seasonal": "Winter is best for exploring the ruins comfortably.",
-      "visitorNotes": "Pair the visit with Siddhpur heritage walks nearby.",
-      "festivals": "Occasional local observances happen near the ruins.",
-      "sources": [
-        {
-          "label": "Rudra Mahalaya Temple",
-          "url": "https://en.wikipedia.org/wiki/Rudra_Mahalaya_Temple",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Galteshwar Temple",
-    "state": "Gujarat",
-    "city": "Sarnal",
-    "region": "Kheda district",
-    "tags": [
-      "River confluence",
-      "Chaulukya",
-      "Bhumija"
-    ],
-    "story": "A 12th-century Shiva temple at the Galta-Mahi river confluence near Dakor.",
-    "highlight": "Bhumija-style sanctum and riverbank setting.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Galteshwar%20Temple.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Galteshwar_Temple.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Morning hours for riverside light and cooler air.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "The temple is close to the river; take care during monsoon.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Mahashivratri"
-    ],
-    "moreDetails": {
-      "history": "Galteshwar is a 12th-century Shiva temple near Dakor in Kheda district.",
-      "architecture": "The temple is known for its bhumija-style sanctum and mandapa with Maru-Gurjara influence.",
-      "darshan": "The sanctum sits close to the river confluence, making riverside darshan a highlight.",
-      "seasonal": "Monsoon swells the river; winter offers easier access.",
-      "visitorNotes": "Combine darshan with a short stop at nearby Dakor.",
-      "festivals": "Mahashivratri brings the largest seasonal gatherings.",
-      "sources": [
-        {
-          "label": "Galteshwar Temple",
-          "url": "https://en.wikipedia.org/wiki/Galteshwar_Temple",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Hatkeshwar Mahadev Temple",
-    "state": "Gujarat",
-    "city": "Vadnagar",
-    "region": "Mehsana district",
-    "tags": [
-      "Solanki",
-      "Heritage",
-      "Vadnagar"
-    ],
-    "story": "A historic Shiva temple in Vadnagar celebrated for its Solanki-era craftsmanship.",
-    "highlight": "Intricate stonework and the spiritual heart of old Vadnagar.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hatkeshwar%20Mahadev%20Temple%20Vadnagar.JPG",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Hatkeshwar_Mahadev_Temple_Vadnagar.JPG",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Morning darshan before city traffic builds.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Traditional attire recommended.",
-    "entryNotes": "Temple sits in the historic core of Vadnagar.",
-    "rituals": [
-      "Daily puja",
-      "Evening aarti"
-    ],
-    "festivals": [
-      "Mahashivratri"
-    ],
-    "moreDetails": {
-      "history": "Hatkeshwar Mahadev Temple is a historic Shiva shrine in Vadnagar with Solanki-era craftsmanship.",
-      "architecture": "The temple is known for intricately carved stonework typical of medieval Gujarat.",
-      "darshan": "The sanctum remains a central devotional site for Vadnagar residents.",
-      "seasonal": "Cooler months make heritage walks around Vadnagar more pleasant.",
-      "visitorNotes": "Combine temple darshan with Vadnagar lake and heritage stops.",
-      "festivals": "Mahashivratri draws large local participation.",
-      "sources": [
-        {
-          "label": "Hatkeshwar Mahadev Temple (Vadnagar)",
-          "url": "https://www.prerana.education.gov.in/Hatkeshwar-Mahadev-Temple.html",
-          "type": "Government site"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Nilakantha Mahadeva Temple",
-    "state": "Gujarat",
-    "city": "Sunak",
-    "region": "Mehsana district",
-    "tags": [
-      "Nagara",
-      "ASI",
-      "Heritage"
-    ],
-    "story": "A historic Nagara-style Shiva temple in Sunak, near Unjha and Siddhpur.",
-    "highlight": "Carved mandapa and surviving Shaiva artwork.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/10th-century%20Nilakantha%20temple,%20Sunak%20Gujarat%20140.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:10th-century_Nilakantha_temple,_Sunak_Gujarat_140.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Morning visits for softer light on carvings.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "The temple is a protected monument; follow ASI guidance.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [],
-    "moreDetails": {
-      "history": "The Nilakantha Mahadeva temple is a historic Shiva shrine at Sunak, near Unjha in Mehsana district, and is protected as a monument.",
-      "architecture": "The temple follows Nagara-style design with a mandapa and carved architectural elements.",
-      "darshan": "Pilgrims visit the sanctum and mandapa to experience the surviving Shaiva artwork.",
-      "seasonal": "Winter months are best for long heritage walks in the region.",
-      "visitorNotes": "Combine with Siddhpur and Vadnagar heritage sites for a day circuit.",
-      "festivals": "Local Shiva observances are held during Shravan month.",
-      "sources": [
-        {
-          "label": "Nilakantha Mahadeva Temple, Sunak",
-          "url": "https://commons.wikimedia.org/wiki/File:10th-century_Nilakantha_temple,_Sunak_Gujarat_140.jpg",
-          "type": "Wikimedia Commons (heritage notes)"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Lakulish Temple (Kayavarohan)",
-    "state": "Gujarat",
-    "city": "Kayavarohan",
-    "region": "Vadodara district",
-    "tags": [
-      "Pashupata",
-      "Lakulish",
-      "Pilgrimage"
-    ],
-    "story": "A Shaiva pilgrimage center linked to Lakulish and the Pashupata tradition in Kayavarohan.",
-    "highlight": "The Lakulish shrine within the Kayavarohan temple complex.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lakulish_Shiv_Temple_-_Kayavarohan_-_Gujarat_-_DSC001.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Lakulish_Shiv_Temple_-_Kayavarohan_-_Gujarat_-_DSC001.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Early morning or evening aarti hours.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Kayavarohan is about 30 km from Vadodara; plan transport in advance.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Mahashivratri"
-    ],
-    "moreDetails": {
-      "history": "Kayavarohan is associated with Lakulish and is an important Shaiva pilgrimage site in Vadodara district.",
-      "architecture": "The temple complex includes the Lakulish shrine and supporting mandapas.",
-      "darshan": "Devotees worship Lakulish and Shiva in the primary sanctums.",
-      "seasonal": "Mahashivratri brings larger gatherings to the village.",
-      "visitorNotes": "Plan a short visit to the local museum for archaeological finds nearby.",
-      "festivals": "Mahashivratri is the primary annual celebration.",
-      "sources": [
-        {
-          "label": "Kayavarohan",
-          "url": "https://en.wikipedia.org/wiki/Kayavarohan",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Jasmalnathji Mahadev Temple",
-    "state": "Gujarat",
-    "city": "Asoda",
-    "region": "Mehsana district",
-    "tags": [
-      "Chaulukya",
-      "ASI",
-      "Panchayatana"
-    ],
-    "story": "A 12th-century Shiva temple at Asoda, known for its Chaulukya-era stonework.",
-    "highlight": "Panchayatana layout and carved torana remnants.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Asoda%20Shiva%20Temple.JPG",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Asoda_Shiva_Temple.JPG",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Morning hours for heritage photography.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Protected monument; be mindful of preservation rules.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [],
-    "moreDetails": {
-      "history": "Jasmalnathji Mahadev is a 12th-century Chaulukya-era temple at Asoda and an ASI-protected monument.",
-      "architecture": "The surviving sanctum and mandapa reflect Maru-Gurjara craftsmanship in a panchayatana layout.",
-      "darshan": "Darshan focuses on the central shrine and the preserved torana.",
-      "seasonal": "Winter is best for long heritage visits.",
-      "visitorNotes": "Carry water, as amenities near the site are limited.",
-      "festivals": "Local Shiva observances are held during Shravan.",
-      "sources": [
-        {
-          "label": "Jasmalnathji Mahadev Temple",
-          "url": "https://en.wikipedia.org/wiki/Jasmalnathji_Mahadev_Temple",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Nishkalank Mahadev Temple",
-    "state": "Gujarat",
-    "city": "Koliyak",
-    "region": "Bhavnagar coast",
-    "tags": [
-      "Tidal temple",
-      "Coastal",
-      "Pilgrimage"
-    ],
-    "story": "A tidal Shiva shrine near Koliyak that becomes accessible only during low tide.",
-    "highlight": "Low-tide darshan across the exposed seabed.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nishkalank%20Mahadev%20Mandir.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nishkalank_Mahadev_Mandir.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Low-tide windows, especially in cooler months.",
-    "timings": "Darshan depends on tide timings; check locally.",
-    "dressCode": "Practical, modest attire recommended for the tidal walk.",
-    "entryNotes": "Access is only possible during low tide.",
-    "rituals": [
-      "Daily puja",
-      "Tidal darshan"
-    ],
-    "festivals": [
-      "Mahashivratri",
-      "Navratri"
-    ],
-    "moreDetails": {
-      "history": "Nishkalank Mahadev is a Shiva temple near Koliyak in Bhavnagar district, known for its unique tidal access.",
-      "architecture": "The shrine sits within the intertidal zone rather than a conventional temple courtyard.",
-      "darshan": "Devotees walk on the seabed to reach the linga during low tide.",
-      "seasonal": "Low tide timings shift daily; winter brings more comfortable weather.",
-      "visitorNotes": "Check tide charts before planning your visit.",
-      "festivals": "Mahashivratri and Navratri are key pilgrimage periods.",
-      "sources": [
-        {
-          "label": "Nishkalank Mahadev Temple",
-          "url": "https://en.wikipedia.org/wiki/Nishkalank_Mahadev_Temple",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Stambheshwar Mahadev Temple",
-    "state": "Gujarat",
-    "city": "Kavi Kamboi",
-    "region": "Bharuch district",
-    "tags": [
-      "Tidal temple",
-      "Gulf of Khambhat",
-      "Pilgrimage"
-    ],
-    "story": "A coastal Shiva temple that submerges at high tide and reappears as the waters recede.",
-    "highlight": "Darshan timed to the rise and fall of the tide.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stambheshwar%20Mahadev%20Temple%20at%20Kamboi%20Gujarat%20India.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Stambheshwar_Mahadev_Temple_at_Kamboi_Gujarat_India.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Visit during low tide and cooler seasons.",
-    "timings": "Darshan depends on tide timings; check locally.",
-    "dressCode": "Modest attire recommended; expect wet approaches.",
-    "entryNotes": "The temple is submerged twice daily; plan around tide charts.",
-    "rituals": [
-      "Daily puja",
-      "Tidal darshan"
-    ],
-    "festivals": [
-      "Mahashivratri"
-    ],
-    "moreDetails": {
-      "history": "Stambheshwar Mahadev is a Shiva temple in Kavi Kamboi on the Gulf of Khambhat, known for its tidal submergence.",
-      "architecture": "The temple is a simple coastal shrine designed to withstand tidal conditions.",
-      "darshan": "Devotees time their visit so the linga is visible during low tide.",
-      "seasonal": "Low tide windows and cooler months are best for visits.",
-      "visitorNotes": "Check daily tide timings before arriving.",
-      "festivals": "Mahashivratri is a major pilgrimage period.",
-      "sources": [
-        {
-          "label": "Stambheshwar Mahadev",
-          "url": "https://en.wikipedia.org/wiki/Stambheshwar_Mahadev",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Kumbheshwar Mahadev Temple",
-    "state": "Gujarat",
-    "city": "Kumbhariya",
-    "region": "Banaskantha district",
-    "tags": [
-      "Heritage",
-      "Temple cluster",
-      "Maru-Gurjara"
-    ],
-    "story": "A historic Shiva temple near the famous Kumbhariya Jain temple cluster.",
-    "highlight": "Carved stonework and heritage precincts near Ambaji.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0081323%20Kumbheshvar%20Mahadev%20temple,%20Ambaji%20Kumbhariya%20Gujarat%20130.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:0081323_Kumbheshvar_Mahadev_temple,_Ambaji_Kumbhariya_Gujarat_130.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Morning heritage walks around the temple cluster.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Temples are close to Ambaji; expect pilgrim traffic on weekends.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [],
-    "moreDetails": {
-      "history": "Kumbhariya village hosts an ancient Shiva temple alongside medieval Jain temples, highlighting the shared sacred landscape.",
-      "architecture": "The Kumbheshwar Mahadev temple features carved stonework consistent with regional Maru-Gurjara traditions.",
-      "darshan": "Darshan is centered on the Shiva linga within the historic precinct.",
-      "seasonal": "Winter months offer comfortable walking weather.",
-      "visitorNotes": "Plan time for both the Shiva and Jain heritage temples nearby.",
-      "festivals": "Local Shiva observances accompany the larger Ambaji pilgrimage season.",
-      "sources": [
-        {
-          "label": "Kumbhariya, Banaskantha district",
-          "url": "https://en.wikipedia.org/wiki/Kumbhariya,_Banaskantha_district",
-          "type": "Encyclopedia"
+    {
+        "name": "Somnath Temple",
+        "state": "Gujarat",
+        "city": "Prabhas Patan",
+        "region": "Prabhas Patan, Gir Somnath district",
+        "tags": [
+            "Jyotirlinga",
+            "First Jyotirlinga",
+            "Coastal"
+        ],
+        "story": "Recognized as the first among the twelve Jyotirlingas...",
+        "highlight": "Stunning sea-facing architecture and the evening Light and Sound Show.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Somnath_Temple_Gujarat.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Somnath_Temple_Gujarat.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-21T17:33:04.389Z",
+        "bestTime": "October to March. Evening is best for Aarti and the Light & Sound show.",
+        "timings": "Open daily from 6:00 AM to 9:00 PM.",
+        "dressCode": "Strict traditional and modest dress code. Shorts and skirts are not allowed.",
+        "entryNotes": "High security. Electronics like mobile phones and cameras are strictly deposited outside.",
+        "rituals": [
+            "Pratha Aarti",
+            "Madhyahna Aarti",
+            "Sayam Aarti"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Kartik Purnima",
+            "Shravan Month"
+        ],
+        "moreDetails": {
+            "history": "Known as 'The Shrine Eternal', it was destroyed and rebuilt many times by Islamic invaders and Hindu kings respectively.",
+            "puranicView": "According to the Shiva Purana, the Moon God (Soma) built this temple in gold after Lord Shiva freed him from a curse of waning entirely.",
+            "puranicSources": [
+                {
+                    "label": "Shiva Purana",
+                    "url": "https://en.wikipedia.org/wiki/Shiva_Purana",
+                    "type": "Puranic literature"
+                }
+            ],
+            "sources": [
+                {
+                    "label": "Shree Somnath Trust",
+                    "url": "https://somnath.org/"
+                },
+                {
+                    "label": "Somnath Temple",
+                    "url": "https://en.wikipedia.org/wiki/Somnath_temple"
+                }
+            ],
+            "folkloreSources": []
         },
-        {
-          "label": "Kumbheshwar Mahadev Temple (Kumbhariya)",
-          "url": "https://commons.wikimedia.org/wiki/File:0081323_Kumbheshvar_Mahadev_temple,_Ambaji_Kumbhariya_Gujarat_130.jpg",
-          "type": "Wikimedia Commons (heritage notes)"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Takhteshwar Temple",
-    "state": "Gujarat",
-    "city": "Bhavnagar",
-    "region": "Gulf of Cambay overlook",
-    "tags": [
-      "Hilltop",
-      "Marble",
-      "City views"
-    ],
-    "story": "A hilltop Shiva temple in Bhavnagar known for marble architecture and panoramic views.",
-    "highlight": "Marble pillars and evening city vistas.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thakteshwar%20Bhavnagar.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Thakteshwar_Bhavnagar.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Late afternoon for sunset views.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Marble steps lead up to the temple; carry water on warmer days.",
-    "rituals": [
-      "Daily puja",
-      "Evening aarti"
-    ],
-    "festivals": [
-      "Mahashivratri"
-    ],
-    "moreDetails": {
-      "history": "Takhteshwar Temple in Bhavnagar is a hilltop Shiva shrine commissioned in the late 19th century.",
-      "architecture": "The temple is built in marble with 18 ornate pillars and a main hall before the sanctum.",
-      "darshan": "Visitors climb marble steps to reach the sanctum and open courtyards.",
-      "seasonal": "Winter and evening hours offer the best hilltop breeze.",
-      "visitorNotes": "Expect local crowds during weekends and festivals.",
-      "festivals": "Mahashivratri is the major annual celebration.",
-      "sources": [
-        {
-          "label": "Takhteshwar Temple, Bhavnagar",
-          "url": "https://www.gujarattourism.com/saurashtra/bhavnagar/takhteshwar-temple.html",
-          "type": "State tourism"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Bilnath Mahadev Temple",
-    "state": "Gujarat",
-    "city": "Bileshwar",
-    "region": "Porbandar district",
-    "tags": [
-      "Maitraka",
-      "Heritage",
-      "Stone temple"
-    ],
-    "story": "An ancient Shiva temple at Bileshwar known for early stone architecture and preserved carvings.",
-    "highlight": "Maitraka-era temple form and carved exterior walls.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/7th-century%20Bilnath%20Mahadev%20Temple,%20Bileshwar%20Porbandar%20Gujarat%20001.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:7th-century_Bilnath_Mahadev_Temple,_Bileshwar_Porbandar_Gujarat_001.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Morning hours for heritage walks.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "The temple is in a quiet village; plan transport accordingly.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [],
-    "moreDetails": {
-      "history": "Bilnath Mahadev is a historic Shiva temple at Bileshwar, noted for its antiquity in the region.",
-      "architecture": "The temple preserves early stone construction and carved exterior details.",
-      "darshan": "Devotees worship the Shiva linga in the main sanctum.",
-      "seasonal": "Winter visits are most comfortable.",
-      "visitorNotes": "Local village festivals can add to the experience.",
-      "festivals": "Mahashivratri is observed by local devotees.",
-      "sources": [
-        {
-          "label": "Bileshwar",
-          "url": "https://en.wikipedia.org/wiki/Bileshwar",
-          "type": "Encyclopedia"
+        "district": "Gir Somnath",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T14:18:07Z"
+    },
+    {
+        "name": "Nageshwar Jyotirlinga",
+        "state": "Gujarat",
+        "city": "Dwarka",
+        "region": "Near Dwarka, Devbhumi Dwarka district",
+        "tags": [
+            "Jyotirlinga",
+            "Lord of Serpents",
+            "Dwarka Shila"
+        ],
+        "story": "Located on the route between Gomti Dwarka and the Bait Dwarka Island, Nageshwar is believed to protect devotees from poisons and snake venom.",
+        "highlight": "The massive 25-meter (80-foot) tall seated statue of Lord Shiva outdoors.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shree_Nageshwar_Jyotirling_temple%2C_Dwarka%2C_Gujarat.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Shree_Nageshwar_Jyotirling_temple,_Dwarka,_Gujarat.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-21T17:33:04.389Z",
+        "bestTime": "November to February",
+        "timings": "Open daily",
+        "dressCode": "Traditional and modest attire.",
+        "entryNotes": "The actual lingam is underground.",
+        "rituals": [
+            "Abhishek",
+            "Aarti"
+        ],
+        "festivals": [
+            "Maha Shivaratri"
+        ],
+        "moreDetails": {
+            "history": "Historically revered, the temple complex features a unique Shivalinga carved from Dwarka Shila stone.",
+            "puranicView": "Legend states Shiva established this jyotirlinga to conquer the demon Daaruka and protect his devotee Supriya.",
+            "puranicSources": [
+                {
+                    "label": "Shiva Purana",
+                    "url": "Not Available",
+                    "type": "Puranic literature"
+                }
+            ],
+            "sources": [
+                {
+                    "label": "Nageshwar Jyotirlinga",
+                    "url": "https://en.wikipedia.org/wiki/Nageshwar_Jyotirlinga"
+                }
+            ],
+            "folkloreSources": []
         },
-        {
-          "label": "Bilnath Mahadev Temple, Bileshwar",
-          "url": "https://commons.wikimedia.org/wiki/Category:Bilnath_Mahadev_Temple,_Bileshwar",
-          "type": "Wikimedia Commons (heritage notes)"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Shiva Temple, Bavka",
-    "state": "Gujarat",
-    "city": "Bavka",
-    "region": "Dahod district",
-    "tags": [
-      "Panchayatana",
-      "ASI",
-      "Heritage"
-    ],
-    "story": "A ruined Chaulukya-era Shiva temple near Dahod, famed for its ornate stone carvings.",
-    "highlight": "Panchayatana layout and sculpted exterior walls.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bawka%20Shiva%20temple-%20dahod.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bawka_Shiva_temple-_dahod.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Morning heritage walks in cooler months.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "Protected monument; do not climb on fragile sections.",
-    "rituals": [],
-    "festivals": [],
-    "moreDetails": {
-      "history": "The Bavka Shiva temple dates to the 12th-13th century and is protected as an ASI monument.",
-      "architecture": "It is a Maru-Gurjara panchayatana temple complex with intricate carvings.",
-      "darshan": "Visitors experience the ruined central shrine and surviving sculpture panels.",
-      "seasonal": "Winter is best for heritage exploration.",
-      "visitorNotes": "The site is in a rural area; plan transport ahead.",
-      "festivals": "Local observances happen during Shravan.",
-      "sources": [
-        {
-          "label": "Shiva Temple, Bavka",
-          "url": "https://en.wikipedia.org/wiki/Shiva_Temple,_Bavka",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Shiva Temple, Kera",
-    "state": "Gujarat",
-    "city": "Kera",
-    "region": "Kutch district",
-    "tags": [
-      "Chaulukya",
-      "Earthquake heritage",
-      "Kutch"
-    ],
-    "story": "A historic Shiva temple near Bhuj known for its surviving spire after major earthquakes.",
-    "highlight": "Carved shikhara and resilient sanctum walls.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kera%20Shiva%20temple.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kera_Shiva_temple.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Morning visits before Kutch heat builds.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "The temple is partly in ruins; tread carefully.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Mahashivratri"
-    ],
-    "moreDetails": {
-      "history": "The Kera Shiva temple was built during the Chaulukya era and has survived major earthquakes.",
-      "architecture": "The surviving shikhara and carved stonework reflect medieval Kutch craftsmanship.",
-      "darshan": "Devotees worship the linga within the preserved sanctum.",
-      "seasonal": "Winter is the most comfortable season for Kutch visits.",
-      "visitorNotes": "Bhuj is the nearest major transport hub.",
-      "festivals": "Mahashivratri draws local devotees.",
-      "sources": [
-        {
-          "label": "Shiva temple, Kera",
-          "url": "https://en.wikipedia.org/wiki/Shiva_temple,_Kera",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Anteshwar Mahadev Temple",
-    "state": "Gujarat",
-    "city": "Anandpur Bhadla",
-    "region": "Surendranagar district",
-    "tags": [
-      "Chudasama",
-      "Hill temple",
-      "Heritage"
-    ],
-    "story": "A historic Shiva temple in Anandpur Bhadla linked to the Chudasama rulers.",
-    "highlight": "Elevated setting in the Thanga hills.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/12th-century%20Anteshwar%20Mahadev%20temple,%20Bhadia%20Anandpur%20Gujarat%20025.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:12th-century_Anteshwar_Mahadev_temple,_Bhadia_Anandpur_Gujarat_025.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Winter months for hill walks.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Modest attire recommended.",
-    "entryNotes": "The temple is in a rural hill setting; plan transport.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [],
-    "moreDetails": {
-      "history": "Anandpur Bhadla is known for the Anteshwar (Ananteshwar) Mahadev temple associated with the Chudasama period.",
-      "architecture": "The temple sits on a raised platform with remnants of historic stonework.",
-      "darshan": "Devotees worship Shiva in the main sanctum of the hill temple.",
-      "seasonal": "Winter is most comfortable for the hill approach.",
-      "visitorNotes": "Carry water and plan for limited facilities on site.",
-      "festivals": "Local fairs are held during Shravan.",
-      "sources": [
-        {
-          "label": "Anandpur Bhadla",
-          "url": "https://en.wikipedia.org/wiki/Anandpur_Bhadla",
-          "type": "Encyclopedia"
+        "district": "Devbhumi Dwarka",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T14:18:07Z"
+    },
+    {
+        "name": "Trinetreshwar Temple",
+        "state": "Gujarat",
+        "city": "Tarnetar",
+        "region": "Tarnetar, Surendranagar district",
+        "tags": [
+            "Tarnetar Fair",
+            "Swayamvara"
+        ],
+        "story": "Deeply connected to the Mahabharata and renowned for the vibrant Tarnetar Fair.",
+        "highlight": "The annual Tarnetar fair offering a glimpse into vibrant Gujarati rural life.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trinetreshwar_Temple.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Trinetreshwar_Temple.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-21T17:33:04.389Z",
+        "bestTime": "August to September during the fair.",
+        "timings": "Not Available",
+        "dressCode": "Not Available",
+        "entryNotes": "Surrounded by three sacred kunds.",
+        "rituals": [
+            "Not Available"
+        ],
+        "festivals": [
+            "Tarnetar Fair"
+        ],
+        "moreDetails": {
+            "history": "Built by King Mihir Bhoj of the Gurjara Pratihara Dynasty in the 8th century CE.",
+            "puranicView": "Believed to be the exact site where Arjuna won Draupadi in an archery contest.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Trinetreshwar Temple",
+                    "url": "https://en.wikipedia.org/wiki/Trinetreshwar_Temple"
+                }
+            ],
+            "folkloreSources": []
         },
-        {
-          "label": "Anteshwar Mahadev Temple (image notes)",
-          "url": "https://commons.wikimedia.org/wiki/File:12th-century_Anteshwar_Mahadev_temple,_Bhadia_Anandpur_Gujarat_025.jpg",
-          "type": "Wikimedia Commons"
-        }
-      ]
+        "district": "Surendranagar",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T14:18:07Z"
+    },
+    {
+        "name": "Nishkalank Mahadev Temple",
+        "state": "Gujarat",
+        "city": "Koliyak",
+        "region": "Koliyak, Bhavnagar district",
+        "tags": [
+            "Sea Temple",
+            "Pandavas",
+            "Disappearing Temple"
+        ],
+        "story": "Located into the Arabian Sea, this temple is accessible only during low tide.",
+        "highlight": "The temple completely submerges during high tide.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nishkalank_Mahadev_Mandir.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nishkalank_Mahadev_Mandir.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-21T17:33:04.389Z",
+        "bestTime": "August (Shravan month)",
+        "timings": "Dependent on the tides.",
+        "dressCode": "Traditional and modest attire.",
+        "entryNotes": "Check tide timings.",
+        "rituals": [
+            "Washing in Pandavas Kund"
+        ],
+        "festivals": [
+            "Bhadarvi Fair"
+        ],
+        "moreDetails": {
+            "history": "Believed to be established by the Pandavas after receiving guidance from Lord Krishna.",
+            "puranicView": "The Shivalingas here are swayambhu.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Nishkalank Mahadev Temple",
+                    "url": "https://en.wikipedia.org/wiki/Nishkalank_Mahadev_Temple"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Bhavnagar",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T14:18:07Z"
+    },
+    {
+        "name": "Stambheshwar Mahadev",
+        "state": "Gujarat",
+        "city": "Kavi Kamboi",
+        "region": "Kavi Kamboi, Bharuch district",
+        "tags": [
+            "Disappearing Temple",
+            "Gayab Mandir"
+        ],
+        "story": "Known as the 'Disappearing Shiva Temple', it submerges entirely into the Arabian Sea during high tide.",
+        "highlight": "Experiencing the natural 'Jal Abhishekam'.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stambheshwar_Mahadev_Temple_at_Kamboi_Gujarat_India.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Stambheshwar_Mahadev_Temple_at_Kamboi_Gujarat_India.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-21T17:33:04.389Z",
+        "bestTime": "Any time of year, check tides.",
+        "timings": "Depends entirely on high and low tides.",
+        "dressCode": "Not Available",
+        "entryNotes": "Strictly verify the tide timings.",
+        "rituals": [
+            "Not Available"
+        ],
+        "festivals": [
+            "Maha Shivaratri"
+        ],
+        "moreDetails": {
+            "history": "Roots tie deeply into mythology where Lord Kartikeya established the lingam.",
+            "puranicView": "Described in the Skanda Purana.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Stambheshwar Mahadev",
+                    "url": "https://en.wikipedia.org/wiki/Stambheshwar_Mahadev"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Bharuch",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T14:18:07Z"
+    },
+    {
+        "name": "Hatkeshwar Mahadev",
+        "state": "Gujarat",
+        "city": "Vadnagar",
+        "region": "Vadnagar, Mehsana district",
+        "tags": [
+            "Nagar Brahmins",
+            "Intricate Carvings"
+        ],
+        "story": "An exquisite 17th-century architectural marvel.",
+        "highlight": "Spectacular exterior carvings depicting the Mahabharata.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hatkeshwar_Temple_Vadnagar_Gujarat.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Hatkeshwar_Temple_Vadnagar_Gujarat.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-21T17:33:04.389Z",
+        "bestTime": "October to March",
+        "timings": "Open daily",
+        "dressCode": "Traditional and modest attire.",
+        "entryNotes": "Explore the surrounding complex.",
+        "rituals": [
+            "Not Available"
+        ],
+        "festivals": [
+            "Maha Shivaratri"
+        ],
+        "moreDetails": {
+            "history": "Built in the 17th century in the Indo-Saracenic tradition.",
+            "puranicView": "The swayambhu Shivalinga is believed to plunge deep into Patal Lok.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Gujarat Tourism: Hatkeshwar Mandir, Vadnagar",
+                    "url": "https://www.gujarattourism.com/north-zone/mehsana/hatkeshwar-mandir--vadnagar.html"
+                },
+                {
+                    "label": "Vadnagar",
+                    "url": "https://en.wikipedia.org/wiki/Vadnagar"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Mehsana",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T14:18:07Z"
+    },
+    {
+        "name": "Koteshwar Mahadev",
+        "state": "Gujarat",
+        "city": "Koteshwar (Narayan Sarovar)",
+        "region": "Kutch district",
+        "tags": [
+            "Shiva Temple",
+            "Gujarat"
+        ],
+        "story": "Koteshwar is a small village and the location of an ancient Shiva temple. It located near the mouth of Kori Creek, in the west of  Kutch district of Gujarat, India.\nIn past, the temple was almost entirely cut off from the mainland by tidal creeks but now is connected by road. Koteshwar Mahady is said to be the Bhairava of Hinglaj Mata residing at Hinglaj.",
+        "highlight": "Not Available",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Koteshwar_Mahadev_Temple%2C_Kutch%2C_Gujarat_1.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Koteshwar_Mahadev_Temple,_Kutch,_Gujarat_1.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-21T17:33:05.976Z",
+        "bestTime": "Not Available",
+        "timings": "Not Available",
+        "dressCode": "Not Available",
+        "entryNotes": "Not Available",
+        "rituals": [
+            "Not Available"
+        ],
+        "festivals": [
+            "Maha Shivaratri"
+        ],
+        "moreDetails": {
+            "history": "Koteshwar is a small village and the location of an ancient Shiva temple. It located near the mouth of Kori Creek, in the west of  Kutch district of Gujarat, India.\nIn past, the temple was almost entirely cut off from the mainland by tidal creeks but now is connected by road. Koteshwar Mahady is said to be the Bhairava of Hinglaj Mata residing at Hinglaj. The virtuous devotees are therefore recommended to visit Koteshwar after they have visited Hinglaj Mata.",
+            "puranicView": "Not Available",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Koteshwar, Kutch",
+                    "url": "https://en.wikipedia.org/wiki/Koteshwar,_Kutch"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Kutch",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T14:18:07Z"
+    },
+    {
+        "name": "Utkantheshwar Mahadev",
+        "state": "Gujarat",
+        "city": "Kapadvanj",
+        "region": "Kapadvanj taluka, Kheda district",
+        "tags": [
+            "Shiva Temple",
+            "Gujarat"
+        ],
+        "story": "Utkantheshwar Mahadev or Utkaá¹‡á¹­heÅ›vara MahÄdeva is a Shiva Temple in the Kapadvanj Taluka, Kheda district of Gujarat, India. and is located on the bank of Vatrak river.\nThe temple is described by Ali Muhammad Khan in the 18th century Persian text, Mirat-i-Ahmadi.",
+        "highlight": "Not Available",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UntkanteshwarM.JPG",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:UntkanteshwarM.JPG",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-21T17:33:07.704Z",
+        "bestTime": "Not Available",
+        "timings": "Not Available",
+        "dressCode": "Not Available",
+        "entryNotes": "Not Available",
+        "rituals": [
+            "Not Available"
+        ],
+        "festivals": [
+            "Maha Shivaratri"
+        ],
+        "moreDetails": {
+            "history": "Utkantheshwar Mahadev or Utkaá¹‡á¹­heÅ›vara MahÄdeva is a Shiva Temple in the Kapadvanj Taluka, Kheda district of Gujarat, India. and is located on the bank of Vatrak river.\nThe temple is described by Ali Muhammad Khan in the 18th century Persian text, Mirat-i-Ahmadi.",
+            "puranicView": "Not Available",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Utkanteshwar Mahadev",
+                    "url": "https://en.wikipedia.org/wiki/Utkanteshwar_Mahadev"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Kheda",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T14:18:07Z"
+    },
+    {
+        "name": "Vaijnath Mahadev",
+        "state": "Gujarat",
+        "city": "Asoda",
+        "region": "Vijapur taluka, Mehsana district",
+        "tags": [
+            "Shiva Temple",
+            "Gujarat"
+        ],
+        "story": "Jasmalnathji Mahadev Temple is a Hindu temple located at Asoda village in Vijapur Taluka, Mehsana district, Gujarat, India. It is locally known as Vaijnath Mahadev temple. The temple is dedicated to Shiva.",
+        "highlight": "Not Available",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jasmalnathji_Shiva_Temple%2C_Asoda%2C_Gujarat.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Jasmalnathji_Shiva_Temple,_Asoda,_Gujarat.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-21T17:33:08.142Z",
+        "bestTime": "Not Available",
+        "timings": "Not Available",
+        "dressCode": "Not Available",
+        "entryNotes": "Not Available",
+        "rituals": [
+            "Not Available"
+        ],
+        "festivals": [
+            "Maha Shivaratri"
+        ],
+        "moreDetails": {
+            "history": "Jasmalnathji Mahadev Temple is a Hindu temple located at Asoda village in Vijapur Taluka, Mehsana district, Gujarat, India. It is locally known as Vaijnath Mahadev temple. The temple is dedicated to Shiva. The temple is built in the 12th century. It consists of a sanctum; mandapa and torana, a porch.",
+            "puranicView": "Not Available",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Jasmalnathji Mahadev Temple",
+                    "url": "https://en.wikipedia.org/wiki/Jasmalnathji_Mahadev_Temple"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Mehsana",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T14:18:07Z"
+    },
+    {
+        "name": "Galteshwar Mahadev",
+        "state": "Gujarat",
+        "city": "Galteshwar (near Dakor)",
+        "region": "Kheda district",
+        "tags": [
+            "Shiva Temple",
+            "Gujarat"
+        ],
+        "story": "The Galteshwar is a Hindu temple dedicated to Shiva, located at Sarnal village near Dakor in Kheda district, Gujarat, India. The 12th century temple is unique in its style and of its period because it is built in central Indian Malwa style, bhumija, without influence of Paramara architecture and with influence of Gujarati Chaulukya architecture. It has a square garbhagriha (shrine proper) as well as octagonal mandapa (dancing hall).",
+        "highlight": "Not Available",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Galteshwar_Mahadev_Temple_Gujarat.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Galteshwar_Mahadev_Temple_Gujarat.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-21T17:33:10.290Z",
+        "bestTime": "Not Available",
+        "timings": "Not Available",
+        "dressCode": "Not Available",
+        "entryNotes": "Not Available",
+        "rituals": [
+            "Not Available"
+        ],
+        "festivals": [
+            "Maha Shivaratri"
+        ],
+        "moreDetails": {
+            "history": "The Galteshwar is a Hindu temple dedicated to Shiva, located at Sarnal village near Dakor in Kheda district, Gujarat, India. The 12th century temple is unique in its style and of its period because it is built in central Indian Malwa style, bhumija, without influence of Paramara architecture and with influence of Gujarati Chaulukya architecture. It has a square garbhagriha (shrine proper) as well as octagonal mandapa (dancing hall).",
+            "puranicView": "Not Available",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Galteshwar Temple",
+                    "url": "https://en.wikipedia.org/wiki/Galteshwar_Temple"
+                },
+                {
+                    "label": "District Kheda: Galteshwar Mahadev Temple",
+                    "url": "https://kheda.nic.in/tourist-place/galteshwar-mahadev-temple/"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Kheda",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T14:18:07Z"
+    },
+    {
+        "name": "Tadkeshwar Mahadev",
+        "state": "Gujarat",
+        "city": "Valsad",
+        "region": "Valsad district",
+        "tags": [
+            "Shiva Temple",
+            "Verified",
+            "Gujarat"
+        ],
+        "story": "Tadkeshwar Mahadev temple is a Hindu temple. It is located near Abrama town in Valsad district of the Indian state of Gujarat. The temple is on the bank of the Wanki river.\nThe temple is more than 800 years old, one of the oldest in Valsad District.",
+        "highlight": "Not Available",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tadkeshwar_Mahadev_Temple%2C_Valsad.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Tadkeshwar_Mahadev_Temple,_Valsad.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-21T17:39:41.669Z",
+        "bestTime": "Not Available",
+        "timings": "Not Available",
+        "dressCode": "Not Available",
+        "entryNotes": "Not Available",
+        "rituals": [
+            "Not Available"
+        ],
+        "festivals": [
+            "Maha Shivaratri"
+        ],
+        "moreDetails": {
+            "history": "Tadkeshwar Mahadev temple is a Hindu temple. It is located near Abrama town in Valsad district of the Indian state of Gujarat. The temple is on the bank of the Wanki river.\nThe temple is more than 800 years old, one of the oldest in Valsad District. It was designed to allow the sun to shine on the Shivlinga inside and has no ceiling. Therefore, it is known as \"Tadkeshwar\". The length of the Shivlinga is approximately 6 to 8 ft.\nOn the occasions of the Maha Shivaratri festival and Shravan Month, a fair take place nearby.",
+            "puranicView": "Not Available",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Tadkeshwar Mahadev Temple",
+                    "url": "https://en.wikipedia.org/wiki/Tadkeshwar_Mahadev_Temple"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Valsad",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T14:18:07Z"
+    },
+    {
+        "name": "Shiva Temple, Kera",
+        "state": "Gujarat",
+        "city": "Kera",
+        "region": "Kera village near Bhuj, Kutch district",
+        "tags": [
+            "Historic",
+            "Maru-Gurjara",
+            "Monument of National Importance"
+        ],
+        "story": "An early medieval Shiva temple in Kera, known for its surviving spire and sanctum despite major earthquake damage.",
+        "highlight": "Ruined but architecturally significant Kutch-era Shiva shrine.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruined_Shiva_Temple_Kera_Kutch_Gujarat.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Ruined_Shiva_Temple_Kera_Kutch_Gujarat.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-22T15:05:00Z",
+        "bestTime": "October to March.",
+        "timings": "Open site; visit in daylight hours.",
+        "dressCode": "Modest attire recommended.",
+        "entryNotes": "Heritage ruins; move carefully around fragile structures.",
+        "rituals": [
+            "Local Shiva worship"
+        ],
+        "festivals": [
+            "Mahashivratri"
+        ],
+        "moreDetails": {
+            "history": "The temple is generally dated between the 9th and 11th centuries and is associated with Chaulukya-era architecture in Kutch.",
+            "puranicView": "Revered locally as an ancient Shiva kshetra in Kutch.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Shiva temple, Kera",
+                    "url": "https://en.wikipedia.org/wiki/Shiva_temple,_Kera"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Kutch",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T15:05:00Z"
+    },
+    {
+        "name": "Shiva Temple, Bavka",
+        "state": "Gujarat",
+        "city": "Bavka",
+        "region": "Bavka village near Dahod, Dahod district",
+        "tags": [
+            "Historic",
+            "Panchayatana",
+            "Monument of National Importance"
+        ],
+        "story": "A medieval Shiva temple complex at Bavka, noted for rich stone carving and panchayatana planning.",
+        "highlight": "Known as the 'Khajuraho of Gujarat' for ornate sculptural work.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bawka.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Bawka.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-22T15:05:00Z",
+        "bestTime": "October to March.",
+        "timings": "Open site; visit in daylight hours.",
+        "dressCode": "Modest attire recommended.",
+        "entryNotes": "ASI-protected monument area.",
+        "rituals": [
+            "Local Shiva worship"
+        ],
+        "festivals": [
+            "Mahashivratri"
+        ],
+        "moreDetails": {
+            "history": "This temple in Dahod district is dated to the 12th-13th century and is recognized as an ASI monument.",
+            "puranicView": "Primarily known as a heritage-era Shiva shrine rather than a specific pan-Indian sthala purana center.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Shiva Temple, Bavka",
+                    "url": "https://en.wikipedia.org/wiki/Shiva_Temple,_Bavka"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Dahod",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T15:05:00Z"
+    },
+    {
+        "name": "Rudra Mahalaya Temple",
+        "state": "Gujarat",
+        "city": "Siddhpur",
+        "region": "Siddhpur, Patan district",
+        "tags": [
+            "Historic Ruins",
+            "Maru-Gurjara",
+            "Rudra"
+        ],
+        "story": "A major medieval Shiva temple complex at Siddhpur, today preserved in monumental ruins.",
+        "highlight": "Surviving toranas and pillars of one of Gujarat's most significant Shaiva heritage sites.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruins_of_the_Rudra_Mala_at_Siddhpur,_Gujarat,_retouched.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Ruins_of_the_Rudra_Mala_at_Siddhpur,_Gujarat,_retouched.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-22T15:05:00Z",
+        "bestTime": "October to March.",
+        "timings": "Open monument area; local timings may vary.",
+        "dressCode": "Modest attire recommended.",
+        "entryNotes": "This is a protected heritage complex with partially surviving structures.",
+        "rituals": [
+            "Occasional Shiva worship at associated local shrines"
+        ],
+        "festivals": [
+            "Mahashivratri"
+        ],
+        "moreDetails": {
+            "history": "Construction began in the 10th century and was completed in the 12th century under Chaulukya patronage; much of the complex was later destroyed.",
+            "puranicView": "The temple is associated with worship of Rudra, a form of Shiva.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Rudra Mahalaya Temple",
+                    "url": "https://en.wikipedia.org/wiki/Rudra_Mahalaya_Temple"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Patan",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T15:05:00Z"
+    },
+    {
+        "name": "Valinath Mahadev Temple",
+        "state": "Gujarat",
+        "city": "Tarabh",
+        "region": "Tarabh village, Visnagar taluka, Mehsana district",
+        "tags": [
+            "Contemporary Temple",
+            "Nagara Style",
+            "Mahadev"
+        ],
+        "story": "A major modern Shiva temple at Tarabh with a long local lineage and newly completed stone complex.",
+        "highlight": "Large new Nagara-style temple completed in 2024.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Valinath_Mahadev_temple,_Tarabh_23.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Valinath_Mahadev_temple,_Tarabh_23.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-22T15:05:00Z",
+        "bestTime": "October to March.",
+        "timings": "Open daily; check temple trust updates.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Can be crowded during major festivals and special events.",
+        "rituals": [
+            "Abhishek",
+            "Aarti"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan observances"
+        ],
+        "moreDetails": {
+            "history": "The current complex was completed in 2024 at Tarabh over an older sacred seat associated with Valinath Mahadev.",
+            "puranicView": "Local devotional tradition centers the site as an important regional Shiva dham.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Valinath Mahadev Temple",
+                    "url": "https://en.wikipedia.org/wiki/Valinath_Mahadev_Temple"
+                },
+                {
+                    "label": "Valinath Temple Official Website",
+                    "url": "https://valinath.com/"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Mehsana",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T15:05:00Z"
+    },
+    {
+        "name": "Roda Shiva Temple No. I",
+        "state": "Gujarat",
+        "city": "Raisingpura (Roda)",
+        "region": "Roda-Khed monument complex near Himmatnagar, Sabarkantha district",
+        "tags": [
+            "Roda Group",
+            "Early Medieval",
+            "ASI Monument"
+        ],
+        "story": "Temple No. I is one of the core Shiva shrines in the early medieval Roda group of temples.",
+        "highlight": "Important surviving Shiva shrine within the Roda archaeological complex.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roda_Temples-9.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Roda_Temples-9.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-22T15:05:00Z",
+        "bestTime": "October to March.",
+        "timings": "Open archaeological site; daytime visit recommended.",
+        "dressCode": "Modest attire recommended.",
+        "entryNotes": "Part of an ASI-protected multi-temple heritage cluster.",
+        "rituals": [
+            "Local Shiva worship"
+        ],
+        "festivals": [
+            "Mahashivratri"
+        ],
+        "moreDetails": {
+            "history": "The Roda group is dated to the 8th-9th centuries; Temple No. I is identified as a Shiva temple in the monument descriptions.",
+            "puranicView": "Regional Shaiva continuity is visible through the cluster's Shiva shrines.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Roda Group of Temples",
+                    "url": "https://en.wikipedia.org/wiki/Roda_Group_of_Temples"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Sabarkantha",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T15:05:00Z"
+    },
+    {
+        "name": "Roda Shiva Temple No. III",
+        "state": "Gujarat",
+        "city": "Raisingpura (Roda)",
+        "region": "Roda-Khed monument complex near Himmatnagar, Sabarkantha district",
+        "tags": [
+            "Roda Group",
+            "Early Medieval",
+            "ASI Monument"
+        ],
+        "story": "Temple No. III survives as one of the Shiva-dedicated shrines near Ladushah Kund in the Roda complex.",
+        "highlight": "Shiva shrine remains beside the historic kund and associated temple bases.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roda_Temples-13.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Roda_Temples-13.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-22T15:05:00Z",
+        "bestTime": "October to March.",
+        "timings": "Open archaeological site; daytime visit recommended.",
+        "dressCode": "Modest attire recommended.",
+        "entryNotes": "Located within a shared heritage zone with multiple temple remains.",
+        "rituals": [
+            "Local Shiva worship"
+        ],
+        "festivals": [
+            "Mahashivratri"
+        ],
+        "moreDetails": {
+            "history": "Roda's monument notes identify Temple No. III among surviving shrines around Ladushah Kund and dedicate it to Shiva.",
+            "puranicView": "The Roda cluster preserves a long-standing regional Shaiva sacred landscape.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Roda Group of Temples",
+                    "url": "https://en.wikipedia.org/wiki/Roda_Group_of_Temples"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Sabarkantha",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T15:05:00Z"
+    },
+    {
+        "name": "Roda Shiva Temple No. VII",
+        "state": "Gujarat",
+        "city": "Raisingpura (Roda)",
+        "region": "Roda-Khed monument complex near Himmatnagar, Sabarkantha district",
+        "tags": [
+            "Roda Group",
+            "Early Medieval",
+            "ASI Monument"
+        ],
+        "story": "Temple No. VII is the largest ruined shrine in the Roda complex and is also identified as a Shiva temple.",
+        "highlight": "Largest temple structure in the Roda group, with Shaiva association.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roda_Temples-21.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Roda_Temples-21.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-22T15:05:00Z",
+        "bestTime": "October to March.",
+        "timings": "Open archaeological site; daytime visit recommended.",
+        "dressCode": "Modest attire recommended.",
+        "entryNotes": "Heritage remains; terrain is uneven in parts.",
+        "rituals": [
+            "Local Shiva worship"
+        ],
+        "festivals": [
+            "Mahashivratri"
+        ],
+        "moreDetails": {
+            "history": "In site descriptions, Temple No. VII is described as a large ruined shrine also known as a Shiva temple.",
+            "puranicView": "Represents continuation of Shaiva worship in early medieval north Gujarat.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Roda Group of Temples",
+                    "url": "https://en.wikipedia.org/wiki/Roda_Group_of_Temples"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Sabarkantha",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-22T15:05:00Z"
     }
-  },
-  {
-    "name": "Valinath Mahadev Temple",
-    "state": "Gujarat",
-    "city": "Tarabh",
-    "region": "Mehsana district",
-    "tags": [
-      "Nagara",
-      "Modern temple",
-      "Tarabh"
-    ],
-    "story": "A modern Nagara-style Shiva temple in Tarabh, completed in the 2020s.",
-    "highlight": "Large pink-stone shikhara and expansive mandapa.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Valinath%20Mahadev%20temple,%20Tarabh.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Valinath_Mahadev_temple,_Tarabh.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Morning or evening darshan for cooler light.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Traditional attire preferred.",
-    "entryNotes": "Large gatherings are common during inauguration anniversaries.",
-    "rituals": [
-      "Daily puja",
-      "Abhishekam"
-    ],
-    "festivals": [
-      "Mahashivratri"
-    ],
-    "moreDetails": {
-      "history": "Valinath Mahadev Temple in Tarabh opened in 2024 and continues a long-standing local Shaiva tradition.",
-      "architecture": "The temple is built in Nagara style using pink stone and features multiple shikharas.",
-      "darshan": "Darshan focuses on the central linga in the main sanctum.",
-      "seasonal": "Winter months are most comfortable for extended visits.",
-      "visitorNotes": "Plan for traffic near major festivals and prana pratishtha anniversaries.",
-      "festivals": "Mahashivratri remains the primary annual celebration.",
-      "sources": [
-        {
-          "label": "Valinath Mahadev Temple",
-          "url": "https://en.wikipedia.org/wiki/Valinath_Mahadev_Temple",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Sarneshwar Temple",
-    "state": "Gujarat",
-    "city": "Polo Forest",
-    "region": "Vijaynagar, Sabarkantha",
-    "tags": [
-      "Forest",
-      "Heritage ruins",
-      "Sarneshwar"
-    ],
-    "story": "A forest-ensconced Shiva temple within the Polo Forest heritage cluster.",
-    "highlight": "Stone enclosure and surviving temple artwork in a wooded setting.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Polo%20Forest%20Temple%2012th%20century.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Polo_Forest_Temple_12th_century.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Monsoon and winter for lush forest scenery.",
-    "timings": "Open daily; timings vary by season.",
-    "dressCode": "Comfortable attire for forest walks.",
-    "entryNotes": "Carry insect repellent during monsoon months.",
-    "rituals": [],
-    "festivals": [],
-    "moreDetails": {
-      "history": "Sarneshwar is one of the historic temples in the Polo Forest complex, known for its surviving artwork.",
-      "architecture": "The temple includes a stone enclosure and two-storey shrine remnants with carved panels.",
-      "darshan": "Visitors experience the ruined sanctum within the forest setting.",
-      "seasonal": "Monsoon and winter are best for the forest environment.",
-      "visitorNotes": "Plan daylight visits, as services in the forest are limited.",
-      "festivals": "Local fairs may be organized during Shravan.",
-      "sources": [
-        {
-          "label": "Sarneshwar Temple, Polo Forest",
-          "url": "https://commons.wikimedia.org/wiki/Category:Sarneshwar_Temple,_Polo_Forest",
-          "type": "Wikimedia Commons (heritage notes)"
-        }
-      ]
-    }
-  },
-{
-    "name": "Ghela Somnath Mahadev",
-        "state": "Gujarat",
-            "city": "Jasdan",
-                "region": "Rajkot district",
-                    "tags": ["Historical", "River Ghela", "Somnath Replica"],
-                        "story": "A historic temple built by King Mularaja Solanki after he brought the original Somnath linga here to protect it.",
-                            "highlight": "The serene Ghela river setting and historical significance.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ghelo%20Somnaath%2001.JPG",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Ghelo_Somnaath_01.JPG",
-                                            "deity": "Shiva (Somnath)",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon for river flow.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "About 20km from Jasdan.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Shravan Mas"],
-                                                                            "moreDetails": {
-        "history": "Built in the 15th century to protect the deity from invaders.",
-            "architecture": "Traditional style.",
-                "visitorNotes": "Peaceful pilgrimage spot.",
-                    "sources": [{ "label": "Ghela Somnath", "url": "https://en.wikipedia.org/wiki/Ghela_Somnath_Mahadev", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Trinetreshwar Mahadev Temple",
-        "state": "Gujarat",
-            "city": "Tarnetar",
-                "region": "Surendranagar district",
-                    "tags": ["Tarnetar Fair", "Folk Culture", "Ancient"],
-                        "story": "Famous for the annual Tarnetar Fair, this temple is dedicated to the three-eyed Shiva.",
-                            "highlight": "The vibrant Tarnetar Fair held in Bhadrapad month.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trinetreshwar%20Temple.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Trinetreshwar_Temple.jpg",
-                                            "deity": "Shiva (Trinetreshwar)",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "During the fair (August-September).",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Colorful traditional attire during fair.",
-                                                                "entryNotes": "Huge crowds during the fair.",
-                                                                    "rituals": ["Flag hosting"],
-                                                                        "festivals": ["Tarnetar Fair"],
-                                                                            "moreDetails": {
-        "history": "Legend links it to Arjuna's Matsyavedh.",
-            "architecture": "Gurjara-Pratihara style.",
-                "visitorNotes": "Experience rural Gujarat culture.",
-                    "sources": [{ "label": "Tarnetar", "url": "https://en.wikipedia.org/wiki/Tarnetar", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Jadeshwar Mahadev Temple",
-        "state": "Gujarat",
-            "city": "Wankaner",
-                "region": "Morbi district",
-                    "tags": ["Swayambhu", "Hill temple", "Scenic"],
-                        "story": "Located amidst scenic hills near Wankaner, housing a swayambhu linga.",
-                            "highlight": "The hilly surroundings and peaceful atmosphere.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jadeshwar%20Mahadev%20Wankaner.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Jadeshwar_Mahadev_Wankaner.jpg",
-                                            "deity": "Shiva (Jadeshwar)",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Short climb required.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Shravan Mas"],
-                                                                            "moreDetails": {
-        "history": "Ancient hill shrine.",
-            "architecture": "Simple structure.",
-                "visitorNotes": "Popular picnic spot.",
-                    "sources": [{ "label": "Wankaner", "url": "https://en.wikipedia.org/wiki/Wankaner", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Rafaleshwar Mahadev Temple",
-        "state": "Gujarat",
-            "city": "Rafaleshwar",
-                "region": "Morbi district",
-                    "tags": ["Folklore", "Local", "Worship"],
-                        "story": "A prominent Shiva temple near Morbi, attracting devotees from the ceramic hub.",
-                            "highlight": "The large temple complex.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rafaleshwar%20Temple.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near Rafaleshwar railway station.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Local heritage.",
-            "architecture": "Traditional.",
-                "visitorNotes": "Important local shrine.",
-                    "sources": [{ "label": "Morbi", "url": "https://en.wikipedia.org/wiki/Morbi_district", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Bhavnath Mahadev Temple",
-        "state": "Gujarat",
-            "city": "Junagadh",
-                "region": "Girnar foothills",
-                    "tags": ["Girnar", "Naga Sadhus", "Maha Shivaratri"],
-                        "story": "Situated at the foot of Mount Girnar, famous for the Bhavnath Fair and gathering of Naga Sadhus.",
-                            "highlight": "The mystic atmosphere during the Bhavnath Fair.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhavnath_Mahadev.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhavnath_Mahadev.jpg",
-                                            "deity": "Shiva (Bhavnath)",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Mahashivratri for the fair.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Extremely crowded during fair.",
-                                                                    "rituals": ["Midnight aarti", "Mrigi Kund bath"],
-                                                                        "festivals": ["Bhavnath Fair"],
-                                                                            "moreDetails": {
-        "history": "Ancient site associated with Ashwatthama.",
-            "architecture": "Simple structure in a sacred landscape.",
-                "visitorNotes": "Base for Girnar trek.",
-                    "sources": [{ "label": "Bhavnath", "url": "https://en.wikipedia.org/wiki/Bhavnath", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Shoolpaneshwar Mahadev Temple",
-        "state": "Gujarat",
-            "city": "Gora",
-                "region": "Narmada district",
-                    "tags": ["Waterfall", "Narmada", "Relocated"],
-                        "story": "Original temple submerged by Sardar Sarovar Dam; the new temple at Gora continues the tradition near Shoolpaneshwar sanctuary.",
-                            "highlight": "The scenic Narmada surroundings.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoolpaneshwar%20Sanctuary.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva (Shoolpaneshwar)",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near Statue of Unity.",
-                                                                    "rituals": ["Narmada Aarti"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Ancient linga relocated.",
-            "architecture": "Modern.",
-                "visitorNotes": "Part of the Narmada circuit.",
-                    "sources": [{ "label": "Shoolpaneshwar", "url": "https://en.wikipedia.org/wiki/Shoolpaneshwar_Wildlife_Sanctuary", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Kuber Bhandari Temple",
-        "state": "Gujarat",
-            "city": "Chanod",
-                "region": "Vadodara district",
-                    "tags": ["Narmada", "Kuber", "Pilgrimage"],
-                        "story": "Located on the banks of Narmada at Chanod, believed to be where Kuber performed penance.",
-                            "highlight": "The high ghats and river view.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kuber%20Bhandari%20Temple.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Kuber_Bhandari_Temple.jpg",
-                                            "deity": "Shiva (Kubereshwar)",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Many steps to climb from the river.",
-                                                                    "rituals": ["Pitru Tarpan", "Abhishekam"],
-                                                                        "festivals": ["Amavasya"],
-                                                                            "moreDetails": {
-        "history": "Ancient pilgrimage site.",
-            "architecture": "River ghat style.",
-                "visitorNotes": "Chanod is known as Dakshin Prayag.",
-                    "sources": [{ "label": "Chanod", "url": "https://en.wikipedia.org/wiki/Chanod", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Rameshwar Mahadev Temple",
-        "state": "Gujarat",
-            "city": "Karnali",
-                "region": "Vadodara district",
-                    "tags": ["Triveni Sangam", "Ancient", "Boat ride"],
-                        "story": "At the confluence of Narmada, Orsang, and Saraswari rivers, a highly sacred spot.",
-                            "highlight": "The boat ride to the confluence temple.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Karnali%20Sangam.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva (Rameshwar)",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Boat access.",
-                                                                    "rituals": ["Sangam Snan"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Mythologically significant.",
-            "architecture": "Simple riverbank shrine.",
-                "visitorNotes": "Sacred bathing spot.",
-                    "sources": [{ "label": "Karnali", "url": "https://en.wikipedia.org/wiki/Karnali,_Gujarat", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Nareshwar Dham",
-        "state": "Gujarat",
-            "city": "Nareshwar",
-                "region": "Vadodara district",
-                    "tags": ["Rang Avadhoot", "Datta", "Narmada"],
-                        "story": "Famous for the Samadhi of Rang Avadhoot Maharaj and a Shiva temple on the Narmada bank.",
-                            "highlight": "The spiritual serenity and clean ghats.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nareshwar%20Temple.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nareshwar_Temple.jpg",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva/Datta",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Well-maintained complex.",
-                                                                    "rituals": ["Aarti", "Paduka Puja"],
-                                                                        "festivals": ["Datta Jayanti"],
-                                                                            "moreDetails": {
-        "history": "Modern spiritual center.",
-            "architecture": "Modern temple complex.",
-                "visitorNotes": "Peacocks roam freely here.",
-                    "sources": [{ "label": "Nareshwar", "url": "https://en.wikipedia.org/wiki/Vadodara", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Garudeshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Garudeshwar",
-                "region": "Narmada district",
-                    "tags": ["Datta", "Riverbank", "Statue of Unity"],
-                        "story": "Ancient temple on the northern bank of Narmada, associated with Vasudevanand Saraswati.",
-                            "highlight": "The ghats and proximity to Statue of Unity.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Garudeshwar%20Temple.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Garudeshwar_Temple.jpg",
-                                            "deity": "Shiva (Garudeshwar)",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near Kevadia.",
-                                                                    "rituals": ["Narmada Snan"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Site of Vasudevanand Saraswati's samadhi.",
-            "architecture": "Traditional.",
-                "visitorNotes": "Peaceful alternate to Statue of Unity crowds.",
-                    "sources": [{ "label": "Garudeshwar", "url": "https://en.wikipedia.org/wiki/Garudeshwar", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Utkanteshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Vatrak",
-                "region": "Kheda district",
-                    "tags": ["River Vatrak", "Hillock", "Camel fair"],
-                        "story": "Located on the banks of Vatrak river, famously known as 'Untadia Mahadev'.",
-                            "highlight": "The camel rides and riverbed activities.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Utkanteshwar%20Mahadev.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Utkanteshwar_Mahadev.jpg",
-                                            "deity": "Shiva (Utkanteshwar)",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon/Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Many steps to the river.",
-                                                                    "rituals": ["Mundan ceremony"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Ancient river shrine.",
-            "architecture": "Simple.",
-                "visitorNotes": "Popular for children's head tonsuring.",
-                    "sources": [{ "label": "Utkanteshwar", "url": "https://en.wikipedia.org/wiki/Kheda_district", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Sapteshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Arsodia",
-                "region": "Sabarkantha district",
-                    "tags": ["Legacy", "Saptarishi", "River"],
-                        "story": "Ancient temple group dedicated to the seven sages (Saptarishi) on the Sabarmati river bank.",
-                            "highlight": "The serene river bank and ancient ruins.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sapteshwar%20Temple.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near Idar.",
-                                                                    "rituals": ["Rishi Puja"],
-                                                                        "festivals": ["Rishi Panchami"],
-                                                                            "moreDetails": {
-        "history": "Dates back centuries.",
-            "architecture": "Nagara style elements.",
-                "visitorNotes": "Picnic spot.",
-                    "sources": [{ "label": "Sapteshwar", "url": "https://en.wikipedia.org/wiki/Sabarkantha_district", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Vireshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Polo Forest",
-                "region": "Sabarkantha district",
-                    "tags": ["Forest", "Trek", "Nature"],
-                        "story": "Hiddden in the Polo Forest, this ancient temple is surrounded by lush greenery and streams.",
-                            "highlight": "The forest trek to reach the temple.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Polo%20Forest%20Temple.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva (Vireshwar)",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon (for greenery).",
-                                                        "timings": "Daylight hours.",
-                                                            "dressCode": "Trekking attire.",
-                                                                "entryNotes": "Inside forest reserve.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Shravan"],
-                                                                            "moreDetails": {
-        "history": "15th century architecture.",
-            "architecture": "Stone temple.",
-                "visitorNotes": "Eco-tourism site.",
-                    "sources": [{ "label": "Polo Forest", "url": "https://en.wikipedia.org/wiki/Polo_Forest", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Gopnath Mahadev",
-        "state": "Gujarat",
-            "city": "Talaja",
-                "region": "Bhavnagar district",
-                    "tags": ["Coastal", "Narsinh Mehta", "Beach"],
-                        "story": "A coastal temple where the poet-saint Narsinh Mehta is said to have attained enlightenment.",
-                            "highlight": "The rocky beach and historical association.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gopnath_Mandir_Bhavnagar.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Gopnath_Mandir_Bhavnagar.jpg",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near Alang.",
-                                                                    "rituals": ["Bhajan"],
-                                                                        "festivals": ["Janmashtami"],
-                                                                            "moreDetails": {
-        "history": "Associated with Maitraka period.",
-            "architecture": "Coastal style.",
-                "visitorNotes": "Gopnath Beach is nearby.",
-                    "sources": [{ "label": "Gopnath", "url": "https://en.wikipedia.org/wiki/Gopnath_Beach", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Kileshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Barda Hills",
-                "region": "Jamnagar district",
-                    "tags": ["Hill station", "Pandavas", "Ruins"],
-                        "story": "Located high in the Barda Hills, believed to be a hiding place of the Pandavas.",
-                            "highlight": "The remote hill setting and ancient ruins.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kileshwar%20Temple%20Jamnagar%20Gujarat.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Kileshwar_Temple_Jamnagar_Gujarat.jpg",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon.",
-                                                        "timings": "Daylight hours.",
-                                                            "dressCode": "Trekking attire.",
-                                                                "entryNotes": "Remote location.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Shravan"],
-                                                                            "moreDetails": {
-        "history": "Ancient fortification ruins nearby.",
-            "architecture": "Hill temple.",
-                "visitorNotes": "Great for trekking.",
-                    "sources": [{ "label": "Barda Wildlife Sanctuary", "url": "https://en.wikipedia.org/wiki/Barda_Wildlife_Sanctuary", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Balkeshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Jamnagar",
-                "region": "Jamnagar district",
-                    "tags": ["City", "Lakhota Lake", "Heritage"],
-                        "story": "A prominent temple in Jamnagar city, known for its spiritual ambience.",
-                            "highlight": "City center location.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamnagar%20Temple.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Easily accessible.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Built by Jam rulers.",
-            "architecture": "Traditional.",
-                "visitorNotes": "Visit Lakhota lake nearby.",
-                    "sources": [{ "label": "Jamnagar", "url": "https://en.wikipedia.org/wiki/Jamnagar", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Kashi Vishwanath Temple",
-        "state": "Gujarat",
-            "city": "Jamnagar",
-                "region": "Jamnagar district",
-                    "tags": ["City", "Tradition", "Worship"],
-                        "story": "One of the oldest temples in Jamnagar, serving the local community.",
-                            "highlight": "Traditional architecture.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kashi%20Vishwanath%20Jamnagar.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Central location.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Historical city temple.",
-            "architecture": "Nagara style.",
-                "visitorNotes": "Peaceful.",
-                    "sources": [{ "label": "Jamnagar Temples", "url": "https://en.wikipedia.org/wiki/Jamnagar", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Bhidbhanjan Mahadev",
-        "state": "Gujarat",
-            "city": "Jamnagar",
-                "region": "Jamnagar district",
-                    "tags": ["Remover of Obstacles", "City", "Popular"],
-                        "story": "A highly revered temple believed to remove the obstacles (Bhid) of devotees.",
-                            "highlight": "The distinct architecture and silver work.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhidbhanjan%20Temple%20Jamnagar.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhidbhanjan_Temple_Jamnagar.jpg",
-                                            "deity": "Shiva (Bhidbhanjan)",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near Town Hall.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Shravan Mondays"],
-                                                                            "moreDetails": {
-        "history": "Built by Jam Rawal.",
-            "architecture": "Rajput style.",
-                "visitorNotes": "Must visit in Jamnagar.",
-                    "sources": [{ "label": "Bhidbhanjan", "url": "https://en.wikipedia.org/wiki/Jamnagar", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Tapkeshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Kutch",
-                "region": "Kutch district",
-                    "tags": ["Cave", "Hill", "Nature"],
-                        "story": "A scenic temple located in a hilly area where water drips (Tapak) on the linga.",
-                            "highlight": "The natural setting and dripping water.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kutch%20Landscape.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon/Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Trekking attire.",
-                                                                "entryNotes": "Remote access.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Local legend.",
-            "architecture": "Cave shrine.",
-                "visitorNotes": "Good for nature lovers.",
-                    "sources": [{ "label": "Kutch", "url": "https://en.wikipedia.org/wiki/Kutch_district", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Chakreshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Bhuj",
-                "region": "Kutch district",
-                    "tags": ["Lake", "City", "Heritage"],
-                        "story": "Located near Hamirsar Lake, an ancient temple overlooking the water.",
-                            "highlight": "The lake view.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hamirsar%20Lake%20Bhuj.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near Aina Mahal.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Associated with Rao of Kutch.",
-            "architecture": "Kutch style.",
-                "visitorNotes": "Walk around the lake.",
-                    "sources": [{ "label": "Bhuj", "url": "https://en.wikipedia.org/wiki/Bhuj", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Somnath Mahadev",
-        "state": "Gujarat",
-            "city": "Bilimora",
-                "region": "Navsari district",
-                    "tags": ["South Gujarat", "Town", "Worship"],
-                        "story": "A major Shiva temple in Bilimora, serving the southern Gujarat community.",
-                            "highlight": "The large annual fair.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Somnath%20Temple%20Bilimora.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva (Somnath)",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Accessible by train.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Somnath Fair"],
-                                                                            "moreDetails": {
-        "history": "Centuries old.",
-            "architecture": "Traditional.",
-                "visitorNotes": "Famous for the fair.",
-                    "sources": [{ "label": "Bilimora", "url": "https://en.wikipedia.org/wiki/Bilimora", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Kedareshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Bardoli",
-                "region": "Surat district",
-                    "tags": ["Sardar Patel", "Ashram", "History"],
-                        "story": "A historic temple in Bardoli, closely linked to the Sardar Patel Ashram and the freedom movement.",
-                            "highlight": "The peaceful ashram environment.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BKedar%20Guj1.JPG",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:BKedar_Guj1.JPG",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Combine with Ashram visit.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Site of Bardoli Satyagraha meetings.",
-            "architecture": "Simple.",
-                "visitorNotes": "Historical significance.",
-                    "sources": [{ "label": "Bardoli", "url": "https://en.wikipedia.org/wiki/Bardoli", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Siddhnath Mahadev",
-        "state": "Gujarat",
-            "city": "Bharuch",
-                "region": "Bharuch district",
-                    "tags": ["River Narmada", "Ancient", "Ghats"],
-                        "story": "An ancient temple on the Narmada ghats in Bharuch, overlooking the Golden Bridge.",
-                            "highlight": "River views and evening aarti.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bharuch%20Narmada%20Ghat.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near city center.",
-                                                                    "rituals": ["Narmada Pujan"],
-                                                                        "festivals": ["Shravan"],
-                                                                            "moreDetails": {
-        "history": "Ancient river port temple.",
-            "architecture": "Traditional.",
-                "visitorNotes": "Busy during evenings.",
-                    "sources": [{ "label": "Bharuch", "url": "https://en.wikipedia.org/wiki/Bharuch", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Nilkanth Mahadev",
-        "state": "Gujarat",
-            "city": "Mahuva",
-                "region": "Bhavnagar district",
-                    "tags": ["Coastal", "Town", "Local"],
-                        "story": "A revered Shiva temple in Mahuva, known for its vibrant local community support.",
-                            "highlight": "The temple architecture.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nilkanth%20Mahuva.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Central location.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Locally significant.",
-            "architecture": "Modern.",
-                "visitorNotes": "Visit during aarti.",
-                    "sources": [{ "label": "Mahuva", "url": "https://en.wikipedia.org/wiki/Mahuva,_Bhavnagar", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Bhutnath Mahadev",
-        "state": "Gujarat",
-            "city": "Mahuva",
-                "region": "Bhavnagar district",
-                    "tags": ["Beach", "Sea View", "Nature"],
-                        "story": "Located near the beach in Mahuva, offering a scenic spiritual retreat.",
-                            "highlight": "Proximity to the sea.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhutnath%20Mahuva.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Casual/Modest.",
-                                                                "entryNotes": "Near beach.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Shravan"],
-                                                                            "moreDetails": {
-        "history": "Old shrine.",
-            "architecture": "Coastal style.",
-                "visitorNotes": "Relaxing atmosphere.",
-                    "sources": [{ "label": "Bhutnath", "url": "https://en.wikipedia.org/wiki/Mahuva", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Bagdeshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Junagadh",
-                "region": "Junagadh district",
-                    "tags": ["Local", "Worship", "Heritage"],
-                        "story": "A well-known temple in Junagadh city.",
-                            "highlight": "Traditional rituals.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Junagadh%20Temples.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Easy access.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "City temple.",
-            "architecture": "Nagara style.",
-                "visitorNotes": "Community hub.",
-                    "sources": [{ "label": "Junagadh", "url": "https://en.wikipedia.org/wiki/Junagadh", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Banej Mahadev",
-        "state": "Gujarat",
-            "city": "Gir Forest",
-                "region": "Gir Somnath district",
-                    "tags": ["Forest", "Wildlife", "Remote"],
-                        "story": "Deep inside the Gir National Park, this temple is famous for the single voter who lived here.",
-                            "highlight": "The journey through the lion sanctuary.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gir%20Banej.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter (when forest is open).",
-                                                        "timings": "Daylight hours.",
-                                                            "dressCode": "Modest/Safari attire.",
-                                                                "entryNotes": "Forest permit required.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Mahant Bharatdas was the sole voter.",
-            "architecture": "Simple shrine.",
-                "visitorNotes": "Strict forest rules apply.",
-                    "sources": [{ "label": "Banej", "url": "https://en.wikipedia.org/wiki/Gir_National_Park", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Panchnath Mahadev",
-        "state": "Gujarat",
-            "city": "Rajkot",
-                "region": "Rajkot district",
-                    "tags": ["City", "Community", "Service"],
-                        "story": "A major temple in Rajkot city known for its medical and social services.",
-                            "highlight": "Community service activities.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Panchnath%20Rajkot.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Central location.",
-                                                                    "rituals": ["Aarti"],
-                                                                        "festivals": ["Shravan Mas"],
-                                                                            "moreDetails": {
-        "history": "Established for public welfare.",
-            "architecture": "Modern.",
-                "visitorNotes": "Has a hospital attached.",
-                    "sources": [{ "label": "Rajkot", "url": "https://en.wikipedia.org/wiki/Rajkot", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Ishwariya Mahadev",
-        "state": "Gujarat",
-            "city": "Rajkot",
-                "region": "Rajkot district",
-                    "tags": ["Hill", "Picnic", "Views"],
-                        "story": "A popular hilltop temple and picnic spot on the outskirts of Rajkot.",
-                            "highlight": "Panoramic views of the city.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ishwariya%20Temple.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon/Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Drive up the hill.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Shravan Fair"],
-                                                                            "moreDetails": {
-        "history": "Recreational and spiritual site.",
-            "architecture": "Hill temple.",
-                "visitorNotes": "Great for families.",
-                    "sources": [{ "label": "Ishwariya", "url": "https://en.wikipedia.org/wiki/Rajkot", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Ramnath Mahadev",
-        "state": "Gujarat",
-            "city": "Rajkot",
-                "region": "Rajkot district",
-                    "tags": ["River Aji", "History", "Fair"],
-                        "story": "Located on the banks of Aji River, venue for the famous Ramnath fair.",
-                            "highlight": "The riverbank setting.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramnath%20Rajkot.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon/Janmashtami.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Crowded during fairs.",
-                                                                    "rituals": ["River worship"],
-                                                                        "festivals": ["Ramnath Fair"],
-                                                                            "moreDetails": {
-        "history": "Historical significance.",
-            "architecture": "Traditional.",
-                "visitorNotes": "Cultural heart of Rajkot.",
-                    "sources": [{ "label": "Ramnath Para", "url": "https://en.wikipedia.org/wiki/Rajkot", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Koteshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Ambaji",
-                "region": "Banaskantha district",
-                    "tags": ["Saraswati Origin", "Hills", "Pilgrimage"],
-                        "story": "Near the source of the Vedic Saraswati river (mythological), close to Ambaji.",
-                            "highlight": "The gomukh (cow mouth) water source.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Koteshwar%20Ambaji.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near Kumbhariya.",
-                                                                    "rituals": ["Jal Abhishekam"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Ancient site.",
-            "architecture": "Hill shrine.",
-                "visitorNotes": "Sacred water spring.",
-                    "sources": [{ "label": "Ambaji", "url": "https://en.wikipedia.org/wiki/Ambaji", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Kamnath Mahadev",
-        "state": "Gujarat",
-            "city": "Amreli",
-                "region": "Amreli district",
-                    "tags": ["Dam", "Scenic", "Heritage"],
-                        "story": "Situated near the Kamnath Dam, offering a blend of spirituality and nature.",
-                            "highlight": "The dam view.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamnath%20Amreli.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Outskirts of Amreli.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Shravan"],
-                                                                            "moreDetails": {
-        "history": "Dates to Gaekwad era.",
-            "architecture": "Stone temple.",
-                "visitorNotes": "Picnic spot.",
-                    "sources": [{ "label": "Amreli", "url": "https://en.wikipedia.org/wiki/Amreli", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Bhimnath Mahadev",
-        "state": "Gujarat",
-            "city": "Barvala",
-                "region": "Botad district",
-                    "tags": ["Mahabharata", "Arjun", "Tree"],
-                        "story": "Legend says the linga was installed by Bhima; unique for being under a tree without a shikhara.",
-                            "highlight": "The ancient tree and open-air linga.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhimnath%20Mahadev.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Unique architecture.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Shravan"],
-                                                                            "moreDetails": {
-        "history": "Mahabharata era connection.",
-            "architecture": "No roof over linga.",
-                "visitorNotes": "Very sacred.",
-                    "sources": [{ "label": "Barvala", "url": "https://en.wikipedia.org/wiki/Barwala,_Gujarat", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Bhavnath Mahadev",
-        "state": "Gujarat",
-            "city": "Mahuva",
-                "region": "Bhavnagar district",
-                    "tags": ["Swayambhu", "Local", "Worship"],
-                        "story": "Another significant Shiva temple in the Mahuva region.",
-                            "highlight": "Local devotion.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahuva%20Temple.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Access via town.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Shravan"],
-                                                                            "moreDetails": {
-        "history": "Old shrine.",
-            "architecture": "Simple.",
-                "visitorNotes": "Community temple.",
-                    "sources": [{ "label": "Mahuva", "url": "https://en.wikipedia.org/wiki/Mahuva,_Bhavnagar", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Pingleshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Mandvi",
-                "region": "Kutch district",
-                    "tags": ["Beach", "Coastal", "Peaceful"],
-                        "story": "A serene temple on the beach near Mandvi, known for its golden sands.",
-                            "highlight": "Beachside location.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pingleshwar%20Mandvi.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest/Beach.",
-                                                                "entryNotes": "Remote beach.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Ancient coastal shrine.",
-            "architecture": "Simple.",
-                "visitorNotes": "Clean beach nearby.",
-                    "sources": [{ "label": "Mandvi", "url": "https://en.wikipedia.org/wiki/Mandvi", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Punvar Mahadev",
-        "state": "Gujarat",
-            "city": "Nakhatrana",
-                "region": "Kutch district",
-                    "tags": ["Ruins", "History", "Kutch"],
-                        "story": "Ancient ruins of a Shiva temple near Nakhatrana, showcasing historical Kutch architecture.",
-                            "highlight": "Archaeological significance.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Punvar%20Temple.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Daylight hours.",
-                                                            "dressCode": "Comfortable.",
-                                                                "entryNotes": "Partly ruined.",
-                                                                    "rituals": ["None"],
-                                                                        "festivals": [],
-                                                                            "moreDetails": {
-        "history": "10th century.",
-            "architecture": "Maru-Gurjara ruins.",
-                "visitorNotes": "For history buffs.",
-                    "sources": [{ "label": "Manjal", "url": "https://en.wikipedia.org/wiki/Nakhatrana", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Kotay Sun/Shiva Temple",
-        "state": "Gujarat",
-            "city": "Kotay",
-                "region": "Kutch district",
-                    "tags": ["Sun Temple", "Ruins", "ASI"],
-                        "story": "A 10th-century temple complex often identified with Sun or Shiva worship, famed for intricate carvings.",
-                            "highlight": "The carvings.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kotay%20Temple.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Kotay_Temple.jpg",
-                                            "deity": "Shiva/Surya",
-                                                "tradition": "Shaiva/Saura",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "ASI monument.",
-                                                                    "rituals": ["None"],
-                                                                        "festivals": [],
-                                                                            "moreDetails": {
-        "history": "Chaulukya era.",
-            "architecture": "Maru-Gurjara.",
-                "visitorNotes": "Near Bhuj.",
-                    "sources": [{ "label": "Kotay", "url": "https://en.wikipedia.org/wiki/Kotay", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Dhinodhar Temple",
-        "state": "Gujarat",
-            "city": "Nakhatrana",
-                "region": "Kutch district",
-                    "tags": ["Hill", "Dhoramnath", "Trek"],
-                        "story": "On top of Dhinodhar hill, dedicated to Dhoramnath (Kanphata Yogi) who stood on his head here.",
-                            "highlight": "Dhinodhar hill trek.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhinodhar%20Hill.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Dhinodhar_Hill.jpg",
-                                            "deity": "Shiva (Yogi)",
-                                                "tradition": "Nath Sampradaya",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Daylight hours.",
-                                                            "dressCode": "Trekking attire.",
-                                                                "entryNotes": "Steep climb.",
-                                                                    "rituals": ["Dhuni worship"],
-                                                                        "festivals": ["Navratri"],
-                                                                            "moreDetails": {
-        "history": "Nath sect origin.",
-            "architecture": "Hill shrine.",
-                "visitorNotes": "Panoramic view of Rann.",
-                    "sources": [{ "label": "Dhinodhar Hills", "url": "https://en.wikipedia.org/wiki/Dhinodhar_Hills", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Balaram Mahadev",
-        "state": "Gujarat",
-            "city": "Palanpur",
-                "region": "Banaskantha district",
-                    "tags": ["Forest", "River Balaram", "Palace"],
-                        "story": "Situated near Balaram Palace in the Balaram-Ambaji sanctuary.",
-                            "highlight": "The forest stream.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Balaram%20Mahadev.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near heritage hotel.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Shravan"],
-                                                                            "moreDetails": {
-        "history": "Royal patronage.",
-            "architecture": "Traditional.",
-                "visitorNotes": "Combine with Palace visit.",
-                    "sources": [{ "label": "Balaram Palace", "url": "https://en.wikipedia.org/wiki/Balaram_Palace", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Mukteshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Vadgam",
-                "region": "Banaskantha district",
-                    "tags": ["Dam", "River Saraswati", "Pandavas"],
-                        "story": "Located on the banks of Saraswati river near Mukteshwar Dam.",
-                            "highlight": "The dam and river setting.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mukteshwar%20Dam.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Scenic spot.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Janmashtami"],
-                                                                            "moreDetails": {
-        "history": "Pandava association legend.",
-            "architecture": "Simple.",
-                "visitorNotes": "Picnic destination.",
-                    "sources": [{ "label": "Vadgam", "url": "https://en.wikipedia.org/wiki/Vadgam", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Kedarnath Mahadev",
-        "state": "Gujarat",
-            "city": "Palanpur",
-                "region": "Banaskantha district",
-                    "tags": ["Hill", "Cave", "Trek"],
-                        "story": "A hilltop cave temple near Palanpur visited by Pandavas.",
-                            "highlight": "Cave setting.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kedarnath%20Palanpur.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon.",
-                                                        "timings": "Daylight hours.",
-                                                            "dressCode": "Trekking attire.",
-                                                                "entryNotes": "Requires climbing.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Mahabharata legend.",
-            "architecture": "Cave.",
-                "visitorNotes": "Adventure spiritual spot.",
-                    "sources": [{ "label": "Jessore Sloth Bear Sanctuary", "url": "https://en.wikipedia.org/wiki/Jessore_Sloth_Bear_Sanctuary", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Tadkeshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Valsad",
-                "region": "Valsad district",
-                    "tags": ["Open roof", "Sun", "Swayambhu"],
-                        "story": "A unique temple with no roof; the linga is exposed to the sun (Tadka).",
-                            "highlight": "The open-to-sky sanctum.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tadkeshwar_Mahadev_Temple%2C_Valsad.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Tadkeshwar_Mahadev_Temple,_Valsad.jpg",
-                                            "deity": "Shiva (Tadkeshwar)",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near Abrama.",
-                                                                    "rituals": ["Sun worship"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Found in bush clearance.",
-            "architecture": "Open roof.",
-                "visitorNotes": "Very peaceful.",
-                    "sources": [{ "label": "Valsad", "url": "https://en.wikipedia.org/wiki/Valsad", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Parnera Mahadev",
-        "state": "Gujarat",
-            "city": "Valsad",
-                "region": "Valsad district",
-                    "tags": ["Hill", "Fort", "History"],
-                        "story": "Located inside the Parnera Fort on a hill, overlooking Valsad city.",
-                            "highlight": "The fort ruins and panoramic view.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Parnera%20Hill.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon/Winter.",
-                                                        "timings": "Daylight hours.",
-                                                            "dressCode": "Trekking attire.",
-                                                                "entryNotes": "Moderate climb.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Navratri"],
-                                                                            "moreDetails": {
-        "history": "Maratha fort site.",
-            "architecture": "Hill shrine.",
-                "visitorNotes": "Historical trekking spot.",
-                    "sources": [{ "label": "Parnera Fort", "url": "https://en.wikipedia.org/wiki/Parnera_Hill", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Shukleshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Bharuch",
-                "region": "Bharuch district",
-                    "tags": ["Narmada", "Rishi", "Ancient"],
-                        "story": "Associated with Shukracharya, located on the banks of Narmada.",
-                            "highlight": "Ancient riverbank setting.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bharuch%20Temple.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near river.",
-                                                                    "rituals": ["Narmada aarti"],
-                                                                        "festivals": ["Shravan"],
-                                                                            "moreDetails": {
-        "history": "Mythological site.",
-            "architecture": "Simple.",
-                "visitorNotes": "Spiritual calm.",
-                    "sources": [{ "label": "Bharuch", "url": "https://en.wikipedia.org/wiki/Bharuch", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Vigneshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Polo Forest",
-                "region": "Sabarkantha district",
-                    "tags": ["Ruins", "Forest", "Heritage"],
-                        "story": "Part of the ancient Polo temple group, known for its intricate ruins.",
-                            "highlight": "Forest ruins photography.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Polo%20Ruins.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon.",
-                                                        "timings": "Daylight hours.",
-                                                            "dressCode": "Trekking attire.",
-                                                                "entryNotes": "Eco-tourism zone.",
-                                                                    "rituals": ["None"],
-                                                                        "festivals": [],
-                                                                            "moreDetails": {
-        "history": "15th century.",
-            "architecture": "Stone ruins.",
-                "visitorNotes": "Capture the mossy ruins in monsoon.",
-                    "sources": [{ "label": "Polo Forest", "url": "https://en.wikipedia.org/wiki/Polo_Forest", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Kaleshwari Mahadev",
-        "state": "Gujarat",
-            "city": "Lunavada",
-                "region": "Panchmahal district",
-                    "tags": ["Heritage", "Sculpture", "Group"],
-                        "story": "An archaeological site with a group of ancient temples and stepwells.",
-                            "highlight": "The stepwell and temple carvings.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaleshwari%20Group.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Heritage site.",
-                                                                    "rituals": ["Local fairs"],
-                                                                        "festivals": ["Janmashtami"],
-                                                                            "moreDetails": {
-        "history": "10th-16th century.",
-            "architecture": "Mixed style.",
-                "visitorNotes": "Rich in history.",
-                    "sources": [{ "label": "Kaleshwari", "url": "https://en.wikipedia.org/wiki/Kaleshwari_Group_of_Monuments", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Bhimnath Mahadev",
-        "state": "Gujarat",
-            "city": "Ahmedabad",
-                "region": "Paldi",
-                    "tags": ["City", "History", "River"],
-                        "story": "A historic temple near Vishala, associated with the Pandavas.",
-                            "highlight": "The serene atmosphere in the city.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ahmedabad%20Temple.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Easily accessible.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Ancient roots.",
-            "architecture": "Traditional.",
-                "visitorNotes": "Quiet spot.",
-                    "sources": [{ "label": "Ahmedabad", "url": "https://en.wikipedia.org/wiki/Ahmedabad", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Kameshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Ahmedabad",
-                "region": "Naranpura",
-                    "tags": ["City", "Community", "Modern"],
-                        "story": "A popular community temple in Naranpura.",
-                            "highlight": "Daily aarti participation.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kameshwar%20Ahmedabad.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Evening.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Residential area.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Shravan"],
-                                                                            "moreDetails": {
-        "history": "Modern establishment.",
-            "architecture": "Nagara style.",
-                "visitorNotes": "Community hub.",
-                    "sources": [{ "label": "Naranpura", "url": "https://en.wikipedia.org/wiki/Ahmedabad", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Chakudia Mahadev",
-        "state": "Gujarat",
-            "city": "Ahmedabad",
-                "region": "Rakhial",
-                    "tags": ["City", "Industrial", "Worship"],
-                        "story": "Located in the industrial belt, serving as a spiritual anchor for workers.",
-                            "highlight": "The devotion of daily workers.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chakudia%20Mahadev.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Year-round.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Busy area.",
-                                                                    "rituals": ["Monday puja"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Local prominence.",
-            "architecture": "Simple.",
-                "visitorNotes": "Vibrant during festivals.",
-                    "sources": [{ "label": "Rakhial", "url": "https://en.wikipedia.org/wiki/Ahmedabad", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Nilkanth Mahadev",
-        "state": "Gujarat",
-            "city": "Ahmedabad",
-                "region": "Asarwa",
-                    "tags": ["Stepwell", "History", "City"],
-                        "story": "Located near the Dada Harir Stepwell, combining heritage and spirituality.",
-                            "highlight": "Proximity to the stepwell.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dada%20Harir%20Stepwell.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Morning.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Visit stepwell too.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Shravan"],
-                                                                            "moreDetails": {
-        "history": "Historical precinct.",
-            "architecture": "Blend of styles.",
-                "visitorNotes": "Heritage walk stop.",
-                    "sources": [{ "label": "Dada Harir Stepwell", "url": "https://en.wikipedia.org/wiki/Dada_Harir_Stepwell", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Kardameshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Siddhpur",
-                "region": "Patan district",
-                    "tags": ["Matru Gaya", "Bindu Sarovar", "Sage Kardama"],
-                        "story": "At Bindu Sarovar, where Sage Kardama performed penance.",
-                            "highlight": "The sacred pond and rituals.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bindu%20Sarovar.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Kartik month.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Traditional.",
-                                                                "entryNotes": "Site for ancestral rites.",
-                                                                    "rituals": ["Matru Shraddh"],
-                                                                        "festivals": ["Kartik Purnima"],
-                                                                            "moreDetails": {
-        "history": "Mythological origin.",
-            "architecture": "Ghat temples.",
-                "visitorNotes": "Only place for Matru Shraddh.",
-                    "sources": [{ "label": "Siddhpur", "url": "https://en.wikipedia.org/wiki/Siddhpur", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Indreshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Dwarka",
-                "region": "Devbhumi Dwarka",
-                    "tags": ["Coastal", "Indra", "Worship"],
-                        "story": "An ancient temple in Dwarka dedicated to Shiva, established by Indra.",
-                            "highlight": "Quiet alternative to main Dwarkadhish temple.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Indreshwar%20Dwarka.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near coast.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Ancient legend.",
-            "architecture": "Stone temple.",
-                "visitorNotes": "Meditative spot.",
-                    "sources": [{ "label": "Dwarka", "url": "https://en.wikipedia.org/wiki/Dwarka", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Vrajvani Mahadev",
-        "state": "Gujarat",
-            "city": "Rapar",
-                "region": "Kutch district",
-                    "tags": ["Ahir", "Folklore", "Krishna"],
-                        "story": "Famous for the legend of 140 Ahir women who performed Sati hearing Krishna's flute.",
-                            "highlight": "Memorial stones and Shiva temple.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vrajvani%20Temple.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva/Vaishnava",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Janmashtami.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Traditional.",
-                                                                "entryNotes": "Remote location.",
-                                                                    "rituals": ["Memorial worship"],
-                                                                        "festivals": ["Janmashtami"],
-                                                                            "moreDetails": {
-        "history": "Folk history.",
-            "architecture": "Memorial cenotaphs.",
-                "visitorNotes": "Unique cultural site.",
-                    "sources": [{ "label": "Rapar", "url": "https://en.wikipedia.org/wiki/Rapar", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Siyot Caves Shiva Temple",
-        "state": "Gujarat",
-            "city": "Lakhpat",
-                "region": "Kutch district",
-                    "tags": ["Caves", "Buddhist", "Shaiva"],
-                        "story": "Ancient rock-cut caves originally Buddhist, later adapted for Shiva worship.",
-                            "highlight": "The rock-cut architecture.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Siyot%20Caves.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Daylight hours.",
-                                                            "dressCode": "Comfortable.",
-                                                                "entryNotes": "Archaeological site.",
-                                                                    "rituals": ["None"],
-                                                                        "festivals": [],
-                                                                            "moreDetails": {
-        "history": "1st century AD.",
-            "architecture": "Rock-cut.",
-                "visitorNotes": "Remote heritage.",
-                    "sources": [{ "label": "Siyot Caves", "url": "https://en.wikipedia.org/wiki/Siyot_Caves", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Chyavanreshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Sutrapada",
-                "region": "Gir Somnath district",
-                    "tags": ["Chyavan Rishi", "Coastal", "Mythology"],
-                        "story": "Associated with Sage Chyavan, located on the coast near the Sun Temple.",
-                            "highlight": "Coastal setting and mythology.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sutrapada%20Coast.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near Somnath.",
-                                                                    "rituals": ["Abhishekam"],
-                                                                        "festivals": ["Shravan"],
-                                                                            "moreDetails": {
-        "history": "Puranic association.",
-            "architecture": "Traditional.",
-                "visitorNotes": "Visit Sun temple nearby.",
-                    "sources": [{ "label": "Sutrapada", "url": "https://en.wikipedia.org/wiki/Sutrapada", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Kindreshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Kindar Kheda",
-                "region": "Porbandar district",
-                    "tags": ["Rural", "Worship", "Local"],
-                        "story": "A village temple serving the local community with deep devotion.",
-                            "highlight": "Rural tranquility.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Porbandar%20Village.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Quiet village.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Janmashtami"],
-                                                                            "moreDetails": {
-        "history": "Local heritage.",
-            "architecture": "Simple.",
-                "visitorNotes": "Experience village life.",
-                    "sources": [{ "label": "Porbandar", "url": "https://en.wikipedia.org/wiki/Porbandar_district", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Miroli Mahadev",
-        "state": "Gujarat",
-            "city": "Dascroi",
-                "region": "Ahmedabad district",
-                    "tags": ["River Sabarmati", "Rural", "Picnic"],
-                        "story": "Located on the banks of Sabarmati, a popular weekend spot for locals.",
-                            "highlight": "River bank picnic spots.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sabarmati%20River.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Monsoon/Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Casual/Modest.",
-                                                                "entryNotes": "River access.",
-                                                                    "rituals": ["Picnic/Puja"],
-                                                                        "festivals": ["Shravan"],
-                                                                            "moreDetails": {
-        "history": "Local shrine.",
-            "architecture": "Simple.",
-                "visitorNotes": "Weekend getaway.",
-                    "sources": [{ "label": "Dascroi", "url": "https://en.wikipedia.org/wiki/Dascroi", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Kalyaneshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Ahmedabad",
-                "region": "Vastrapur",
-                    "tags": ["Lake", "City", "Modern"],
-                        "story": "Near Vastrapur Lake, a modern temple visited by morning walkers.",
-                            "highlight": "Lake view.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vastrapur%20Lake.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Morning.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Casual.",
-                                                                "entryNotes": "Busy in mornings.",
-                                                                    "rituals": ["Morning aarti"],
-                                                                        "festivals": ["Shravan"],
-                                                                            "moreDetails": {
-        "history": "Modern.",
-            "architecture": "Contemporary.",
-                "visitorNotes": "Walk around lake.",
-                    "sources": [{ "label": "Vastrapur", "url": "https://en.wikipedia.org/wiki/Vastrapur", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Dhibheshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Khedbrahma",
-                "region": "Sabarkantha district",
-                    "tags": ["Brahma", "River", "Ancient"],
-                        "story": "Near the rare Brahma temple, Dhibheshwar is an ancient Shiva shrine nearby.",
-                            "highlight": "Proximity to Brahma temple.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Khedbrahma%20Temple.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Visit Brahma temple too.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Kartik Purnima"],
-                                                                            "moreDetails": {
-        "history": "Ancient connection.",
-            "architecture": "Stone temple.",
-                "visitorNotes": "Part of Brahma circuit.",
-                    "sources": [{ "label": "Khedbrahma", "url": "https://en.wikipedia.org/wiki/Khedbrahma", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Bhadra Mahadev",
-        "state": "Gujarat",
-            "city": "Ahmedabad",
-                "region": "Bhadra Fort",
-                    "tags": ["Fort", "City", "Heritage"],
-                        "story": "Within the Bhadra Fort complex, a historic shrine.",
-                            "highlight": "Fort history.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhadra%20Fort.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Historical area.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": [],
-                                                                            "moreDetails": {
-        "history": "Ahmed Shah era.",
-            "architecture": "Sultanate/Temple mix.",
-                "visitorNotes": "Busy marketplace.",
-                    "sources": [{ "label": "Bhadra Fort", "url": "https://en.wikipedia.org/wiki/Bhadra_Fort", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Unai Mahadev",
-        "state": "Gujarat",
-            "city": "Unai",
-                "region": "Navsari district",
-                    "tags": ["Hot springs", "Mata", "Healing"],
-                        "story": "Famous for the hot springs (Kund) and the Unai Mata temple, with a Shiva shrine.",
-                            "highlight": "Hot water springs.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Unai%20Mata%20Temple.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Bathing in kund allowed.",
-                                                                    "rituals": ["Holy bath"],
-                                                                        "festivals": ["Makar Sankranti"],
-                                                                            "moreDetails": {
-        "history": "Ramayana legend.",
-            "architecture": "Traditional.",
-                "visitorNotes": "Curative waters.",
-                    "sources": [{ "label": "Unai", "url": "https://en.wikipedia.org/wiki/Unai,_Gujarat", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Ratneshwar Mahadev",
-        "state": "Gujarat",
-            "city": "Jafrabad",
-                "region": "Amreli district",
-                    "tags": ["Coastal", "Cave", "Fishermen"],
-                        "story": "A coastal cave temple revered by the fishing community.",
-                            "highlight": "The sea view and cave.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jafrabad%20Coast.jpg",
-                                    "credit": "Representative Image",
-                                        "creditUrl": "",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Near harbor.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Narali Purnima"],
-                                                                            "moreDetails": {
-        "history": "Old coastal shrine.",
-            "architecture": "Cave/Simple.",
-                "visitorNotes": "Watch boat building nearby.",
-                    "sources": [{ "label": "Jafrabad", "url": "https://en.wikipedia.org/wiki/Jafrabad,_Amreli", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Gautameshwar Mahadev Temple",
-        "state": "Gujarat",
-            "city": "Sihor",
-                "region": "Bhavnagar district",
-                    "tags": ["Town", "Temple complex", "Local worship"],
-                        "story": "A Shiva temple complex in Sihor that serves local devotees.",
-                            "highlight": "Temple complex in the old town setting.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shree%20Gautameshwar%20Mahadev%20Temple%20complex-Sihor-Gujarat.JPG",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Shree_Gautameshwar_Mahadev_Temple_complex-Sihor-Gujarat.JPG",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Winter.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Within Sihor town.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "A local Shaiva temple complex in Sihor.",
-            "architecture": "Temple complex.",
-                "visitorNotes": "Easy to pair with a Sihor town visit.",
-                    "sources": [{ "label": "Sihor", "url": "https://en.wikipedia.org/wiki/Sihor", "type": "Encyclopedia" }]
-    }
-},
-{
-    "name": "Thapnath Mahadev Temple",
-        "state": "Gujarat",
-            "city": "Bhavnagar",
-                "region": "Gaurishankar Lake",
-                    "tags": ["Lakefront", "Local worship", "Shrine"],
-                        "story": "A Shiva shrine on the bank of Gaurishankar Lake in Bhavnagar.",
-                            "highlight": "Lakefront setting.",
-                                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thapnath%20Mahadev,%20Gaurishankar%20lake,%20Bhavnagar.jpg",
-                                    "credit": "Wikimedia Commons",
-                                        "creditUrl": "https://commons.wikimedia.org/wiki/File:Thapnath_Mahadev,_Gaurishankar_lake,_Bhavnagar.jpg",
-                                            "deity": "Shiva",
-                                                "tradition": "Shaiva",
-                                                "addedAt": "2026-02-19T15:18:12+05:30",
-                                                    "bestTime": "Evenings and cooler months.",
-                                                        "timings": "Open daily.",
-                                                            "dressCode": "Modest attire.",
-                                                                "entryNotes": "Lakefront access.",
-                                                                    "rituals": ["Daily puja"],
-                                                                        "festivals": ["Mahashivratri"],
-                                                                            "moreDetails": {
-        "history": "Local Bhavnagar shrine near Gaurishankar Lake.",
-            "architecture": "Small lakeside shrine.",
-                "visitorNotes": "Best visited around sunset with a lakefront walk.",
-                    "sources": [{ "label": "Bhavnagar", "url": "https://en.wikipedia.org/wiki/Bhavnagar", "type": "Encyclopedia" }]
-    }
-}
 ];

@@ -5,6 +5,7 @@ import {
   buildStrictKey,
   loadModule,
   normalizeText,
+  resolveDistrict,
 } from './templeDuplicateUtils.mjs'
 
 const printUsageAndExit = () => {
@@ -105,14 +106,22 @@ for (const rawTemple of incomingTemples) {
   if (!candidate.state && inferredState) {
     candidate.state = existingTemples[0]?.state
   }
+  if (!candidate.district) {
+    const inferredDistrict = resolveDistrict(candidate)
+    if (inferredDistrict) candidate.district = inferredDistrict
+  }
+  if (!candidate.city && candidate.district) {
+    candidate.city = candidate.district
+  }
 
-  const hasRequired = ['name', 'state', 'city'].every((field) =>
-    normalizeText(candidate[field])
+  const hasNameState = ['name', 'state'].every((field) => normalizeText(candidate[field]))
+  const hasCityOrDistrict = Boolean(
+    normalizeText(candidate.city) || normalizeText(candidate.district)
   )
-  if (!hasRequired) {
+  if (!hasNameState || !hasCityOrDistrict) {
     skipped.push({
       name: candidate.name || 'Unknown',
-      reason: 'missing_required_fields(name/state/city)',
+      reason: 'missing_required_fields(name/state + city_or_district)',
     })
     continue
   }
@@ -124,7 +133,7 @@ for (const rawTemple of incomingTemples) {
   if (strictDuplicate || looseDuplicate) {
     skipped.push({
       name: candidate.name,
-      reason: strictDuplicate ? 'duplicate_strict(name+state+city)' : 'duplicate_loose',
+      reason: strictDuplicate ? 'duplicate_strict(name+state+district+city)' : 'duplicate_loose',
     })
     continue
   }

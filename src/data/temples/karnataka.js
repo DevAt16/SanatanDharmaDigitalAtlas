@@ -177,7 +177,7 @@ export const karnatakaTemples = [
     }
   },
   {
-    "name": "Mahabaleshwar Temple",
+    "name": "Sri Mahabaleshwara Temple",
     "state": "Karnataka",
     "city": "Gokarna",
     "region": "Uttara Kannada district",
@@ -267,6 +267,384 @@ export const karnatakaTemples = [
           "label": "Karnataka Tourism: Murudeshwara",
           "url": "https://karnatakatourism.org/en/destinations/murudeshwara",
           "type": "State tourism"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Adi Gokarna Temple",
+    "state": "Karnataka",
+    "city": "Gokarna",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Gokarna",
+      "Coastal",
+      "Pilgrimage"
+    ],
+    "story": "An old Shaiva shrine in Gokarna associated with the wider Mahabaleshwara kshetra tradition.",
+    "highlight": "Traditional shrine architecture in the old temple quarter of Gokarna.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KW23-0751-Gokarna-AdiGokarna-Front1_3D.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:KW23-0751-Gokarna-AdiGokarna-Front1_3D.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T10:30:00+05:30",
+    "bestTime": "Early morning for quieter darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Follow local temple customs and queue systems.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Adi Gokarna is part of Gokarna's historic Shiva worship landscape in Uttara Kannada.",
+      "architecture": "Traditional coastal Karnataka temple features with a compact sanctum.",
+      "visitorNotes": "Can be visited along with the Mahabaleshwara temple circuit.",
+      "sources": [
+        {
+          "label": "Gokarna",
+          "url": "https://en.wikipedia.org/wiki/Gokarna,_Karnataka",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiva Cave Temple (Gogarbha)",
+    "state": "Karnataka",
+    "city": "Gokarna",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Cave",
+      "Gokarna",
+      "Shaiva"
+    ],
+    "story": "A cave-associated Shiva shrine connected with Gokarna's sacred trekking and temple routes.",
+    "highlight": "Rocky cave setting near the pilgrimage trails around Gokarna.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T10:30:00+05:30",
+    "bestTime": "Morning and late afternoon in dry season.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire and suitable footwear for cave approach.",
+    "entryNotes": "Terrain may be uneven; carry water and respect local guidance.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Gogarbha is traditionally associated with sacred cave spaces in the Gokarna pilgrim circuit.",
+      "architecture": "Natural cave space with a shrine focus rather than monumental architecture.",
+      "visitorNotes": "Best visited in daylight with local directions.",
+      "sources": [
+        {
+          "label": "Gokarna",
+          "url": "https://en.wikipedia.org/wiki/Gokarna,_Karnataka",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Maneshwara Temple",
+    "state": "Karnataka",
+    "city": "Gokarna",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Gokarna",
+      "Shaiva",
+      "Local shrine"
+    ],
+    "story": "A local Shiva shrine in the Gokarna temple landscape.",
+    "highlight": "Neighborhood mandir with regular Shiva worship.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T10:30:00+05:30",
+    "bestTime": "Morning puja hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional or modest attire recommended.",
+    "entryNotes": "Check with local caretakers for special puja timings.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravana Mondays"
+    ],
+    "moreDetails": {
+      "history": "Maneshwara is recognized locally as part of the wider Gokarna Shaiva network.",
+      "architecture": "Simple coastal temple layout focused on a Shiva linga sanctum.",
+      "visitorNotes": "Pair with nearby Gokarna shrines in one route.",
+      "sources": [
+        {
+          "label": "Uttara Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Uttara_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gautameshwara Temple",
+    "state": "Karnataka",
+    "city": "Gokarna",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Gokarna",
+      "Shaiva",
+      "Pilgrimage"
+    ],
+    "story": "A Shiva temple traditionally linked to the sacred geography around Gokarna.",
+    "highlight": "Historic-style local shrine in the Gokarna region.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T10:30:00+05:30",
+    "bestTime": "Early morning and evening aarti hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Observe local darshan queues during festival periods.",
+    "rituals": [
+      "Abhishekam",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Gautameshwara is part of the family of Shiva shrines associated with Gokarna's pilgrimage traditions.",
+      "architecture": "Traditional local temple form with a compact sanctum space.",
+      "visitorNotes": "Local transport and walkable lanes are the best way to cover nearby temples.",
+      "sources": [
+        {
+          "label": "Gokarna",
+          "url": "https://en.wikipedia.org/wiki/Gokarna,_Karnataka",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Indraeshwar Linga",
+    "state": "Karnataka",
+    "city": "Gokarna",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Linga shrine",
+      "Gokarna",
+      "Shaiva"
+    ],
+    "story": "A Shiva linga-centered shrine in the Gokarna sacred circuit.",
+    "highlight": "Linga darshan in a compact local temple setting.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T10:30:00+05:30",
+    "bestTime": "Morning puja window.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact location through local temple guides in Gokarna.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravana Mondays"
+    ],
+    "moreDetails": {
+      "history": "Indraeshwar is traditionally referenced as a linga node in Gokarna's Shiva worship context.",
+      "architecture": "Small shrine architecture centered on the linga.",
+      "visitorNotes": "Useful to combine with the main Mahabaleshwara darshan plan.",
+      "sources": [
+        {
+          "label": "Gokarna",
+          "url": "https://en.wikipedia.org/wiki/Gokarna,_Karnataka",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sagareshwar Temple",
+    "state": "Karnataka",
+    "city": "Gokarna",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Coastal",
+      "Gokarna",
+      "Shaiva"
+    ],
+    "story": "A coastal Shiva shrine associated with the sea-facing sacred routes around Gokarna.",
+    "highlight": "Sea-linked Shiva worship tradition in coastal Uttara Kannada.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T10:30:00+05:30",
+    "bestTime": "Sunrise and sunset hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Weather and tides can affect approach on some routes.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Sagareshwar shrines in the region are linked to coastal Shiva worship patterns.",
+      "architecture": "Simple shrine format with local coastal temple elements.",
+      "visitorNotes": "Combine with other Gokarna temples for a coastal Shaiva trail.",
+      "sources": [
+        {
+          "label": "Uttara Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Uttara_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalkaleshwar Temple",
+    "state": "Karnataka",
+    "city": "Gokarna",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Gokarna",
+      "Shaiva",
+      "Traditional"
+    ],
+    "story": "A traditional Shiva shrine in the Gokarna devotional landscape.",
+    "highlight": "Local temple worship with daily Shiva rituals.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T10:30:00+05:30",
+    "bestTime": "Morning darshan and evening aarti.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Local guidance is helpful for lane-based temple access.",
+    "rituals": [
+      "Abhishekam",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kalkaleshwar is listed among local Shiva shrines connected to Gokarna's temple ecosystem.",
+      "architecture": "Compact local temple style with a sanctum-centered layout.",
+      "visitorNotes": "Best visited as part of a multi-temple darshan sequence in town.",
+      "sources": [
+        {
+          "label": "Gokarna",
+          "url": "https://en.wikipedia.org/wiki/Gokarna,_Karnataka",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Veerabhadra Temple",
+    "state": "Karnataka",
+    "city": "Gokarna",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Veerabhadra",
+      "Gokarna",
+      "Shaiva"
+    ],
+    "story": "A Veerabhadra shrine tied to Shaiva worship traditions in and around Gokarna.",
+    "highlight": "Fierce-form Shiva worship in a local temple setting.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Veerabhadra (Shiva)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T10:30:00+05:30",
+    "bestTime": "Evening aarti hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm local festival schedule in advance.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Veerabhadra worship in coastal Karnataka is part of the broader Shaiva tradition.",
+      "architecture": "Small regional temple format with a deity-focused sanctum.",
+      "visitorNotes": "Pair with Mahabaleshwara and nearby shrines for a complete circuit.",
+      "sources": [
+        {
+          "label": "Veerabhadra",
+          "url": "https://en.wikipedia.org/wiki/Veerabhadra",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Umamaheshwar Temple",
+    "state": "Karnataka",
+    "city": "Gokarna",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Uma-Maheshwara",
+      "Gokarna",
+      "Shaiva"
+    ],
+    "story": "A Shiva-Parvati shrine identified in the Gokarna temple tradition.",
+    "highlight": "Uma-Maheshwara form worship in a coastal pilgrimage town.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Uma-Maheshwara",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T10:30:00+05:30",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Respect local temple etiquette and priest instructions.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Karthika month observances"
+    ],
+    "moreDetails": {
+      "history": "Umamaheshwar shrines represent Shiva and Parvati together in the classical Shaiva framework.",
+      "architecture": "Local temple style with a sanctum-centric worship layout.",
+      "visitorNotes": "Suitable to include in an on-foot Gokarna temple trail.",
+      "sources": [
+        {
+          "label": "Gokarna",
+          "url": "https://en.wikipedia.org/wiki/Gokarna,_Karnataka",
+          "type": "Encyclopedia"
         }
       ]
     }
@@ -954,7 +1332,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Talakadu",
     "region": "Mysuru district",
-    "tags": ["Pancha Linga", "Sand Dunes", "Ancient"],
+    "tags": [
+      "Pancha Linga",
+      "Sand Dunes",
+      "Ancient"
+    ],
     "story": "Part of the sacred Pancha Linga Darshana, buried under sand dunes and excavated.",
     "highlight": "Excavated granite structure amidst sand.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vaidyanatheshwara_Temple_(7727168374).jpg",
@@ -967,13 +1349,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Walking on sand required.",
-    "rituals": ["Abhishekam"],
-    "festivals": ["Pancha Linga Darshana"],
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Pancha Linga Darshana"
+    ],
     "moreDetails": {
       "history": "Ganga and Chola dynasties.",
       "architecture": "Dravidian.",
       "visitorNotes": "Visit all five lingas.",
-      "sources": [{ "label": "Talakadu", "url": "https://en.wikipedia.org/wiki/Talakadu", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Talakadu",
+          "url": "https://en.wikipedia.org/wiki/Talakadu",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -981,12 +1373,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Talakadu",
     "region": "Mysuru district",
-    "tags": ["Pancha Linga", "Sand", "Mythology"],
+    "tags": [
+      "Pancha Linga",
+      "Sand",
+      "Mythology"
+    ],
     "story": "One of the five lingas of Talakadu, notable for the linga changing color during the day.",
     "highlight": "Color changing linga legend.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pathaleshwara_Temple_Talakadu.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -994,13 +1390,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Near Vaidyanatheshwara.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Mahashivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
     "moreDetails": {
       "history": "Ancient origins.",
       "architecture": "Simplistic stone structure.",
       "visitorNotes": "Part of the circuit.",
-      "sources": [{ "label": "Talakadu", "url": "https://en.wikipedia.org/wiki/Talakadu", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Talakadu",
+          "url": "https://en.wikipedia.org/wiki/Talakadu",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1008,12 +1414,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Talakadu",
     "region": "Mysuru district",
-    "tags": ["Pancha Linga", "Ganga Dynasty", "Heritage"],
+    "tags": [
+      "Pancha Linga",
+      "Ganga Dynasty",
+      "Heritage"
+    ],
     "story": "Dedicated to Maruleshwara, constructed by the Ganga dynasty, part of the Pancha Linga circuit.",
     "highlight": "Massive Shiva Linga.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maruleshwara_Temple_Talakadu.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1021,13 +1431,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Sand dunes setting.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Kartika Somavara"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Kartika Somavara"
+    ],
     "moreDetails": {
       "history": "Ganga period.",
       "architecture": "Ganga style.",
       "visitorNotes": "Serene atmosphere.",
-      "sources": [{ "label": "Talakadu", "url": "https://en.wikipedia.org/wiki/Talakadu", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Talakadu",
+          "url": "https://en.wikipedia.org/wiki/Talakadu",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1035,12 +1455,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Talakadu",
     "region": "Mysuru district",
-    "tags": ["Pancha Linga", "Secluded", "Nature"],
+    "tags": [
+      "Pancha Linga",
+      "Secluded",
+      "Nature"
+    ],
     "story": "Ideally located a bit away from the main group, offering a quiet spot for checking the Pancha Linga list.",
     "highlight": "Quiet seclusion.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arkeshwara_Temple_Talakadu.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1048,13 +1472,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Short walk.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Mahashivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
     "moreDetails": {
       "history": "Chola influence.",
       "architecture": "Dravidian.",
       "visitorNotes": "Don't miss this outlier.",
-      "sources": [{ "label": "Talakadu", "url": "https://en.wikipedia.org/wiki/Talakadu", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Talakadu",
+          "url": "https://en.wikipedia.org/wiki/Talakadu",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1062,12 +1496,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Talakadu",
     "region": "Mysuru district",
-    "tags": ["Pancha Linga", "Hilltop", "View"],
+    "tags": [
+      "Pancha Linga",
+      "Hilltop",
+      "View"
+    ],
     "story": "Located on a small hillock, completing the Pancha Linga Darshana.",
     "highlight": "Hilltop location.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mallikarjuna_Temple_Talakadu.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1075,13 +1513,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Climb required.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Mahashivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
     "moreDetails": {
       "history": "Vijayanagara influence.",
       "architecture": "Stone temple.",
       "visitorNotes": "Great view of Cauvery.",
-      "sources": [{ "label": "Talakadu", "url": "https://en.wikipedia.org/wiki/Talakadu", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Talakadu",
+          "url": "https://en.wikipedia.org/wiki/Talakadu",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1089,12 +1537,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Mudukuthore",
     "region": "Mysuru district",
-    "tags": ["Pancha Linga", "Hill", "Cauvery"],
+    "tags": [
+      "Pancha Linga",
+      "Hill",
+      "Cauvery"
+    ],
     "story": "Often visited with Talakadu, situated on Somagiri hill overlooking the Cauvery river.",
     "highlight": "Panoramic river view.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mudukuthore_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1102,13 +1554,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Steps or road access.",
-    "rituals": ["Jathra"],
-    "festivals": ["Mudukuthore Jathra"],
+    "rituals": [
+      "Jathra"
+    ],
+    "festivals": [
+      "Mudukuthore Jathra"
+    ],
     "moreDetails": {
       "history": "Local legend of Arjuna.",
       "architecture": "Dravidian style.",
       "visitorNotes": "Scenic spot.",
-      "sources": [{ "label": "Mudukuthore", "url": "https://en.wikipedia.org/wiki/Mudukuthore", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Mudukuthore",
+          "url": "https://en.wikipedia.org/wiki/Mudukuthore",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1116,7 +1578,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "MM Hills",
     "region": "Chamarajanagar district",
-    "tags": ["Tribal", "Forest", "Pilgrimage"],
+    "tags": [
+      "Tribal",
+      "Forest",
+      "Pilgrimage"
+    ],
     "story": "A major pilgrimage center in the forest hills, dedicated to Lord Mahadeshwara.",
     "highlight": "The Lad Khan (Tiger) vahana and forest setting.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Malaya_Mahadeshwara_temple.jpg",
@@ -1129,13 +1595,24 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Winding ghat roads.",
-    "rituals": ["Huli Vahana seye"],
-    "festivals": ["Mahashivratri", "Diwali"],
+    "rituals": [
+      "Huli Vahana seye"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Diwali"
+    ],
     "moreDetails": {
       "history": "15th century saint.",
       "architecture": "Modern complex.",
       "visitorNotes": "Very crowded on holidays.",
-      "sources": [{ "label": "Male Mahadeshwara Hills", "url": "https://en.wikipedia.org/wiki/Male_Mahadeshwara_Hills", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Male Mahadeshwara Hills",
+          "url": "https://en.wikipedia.org/wiki/Male_Mahadeshwara_Hills",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1143,7 +1620,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Yediyur",
     "region": "Tumakuru district",
-    "tags": ["Lingayat", "Samadhi", "Pilgrimage"],
+    "tags": [
+      "Lingayat",
+      "Samadhi",
+      "Pilgrimage"
+    ],
     "story": "The Samadhi temple of the great saint Tontada Siddalinga, a center for Lingayat worship.",
     "highlight": "Samadhi shrine.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yediyur_Siddalingeshwara_Temple.jpg",
@@ -1156,13 +1637,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Highway stop.",
-    "rituals": ["Dasoha (Food)"],
-    "festivals": ["Jatre"],
+    "rituals": [
+      "Dasoha (Food)"
+    ],
+    "festivals": [
+      "Jatre"
+    ],
     "moreDetails": {
       "history": "15th century saint.",
       "architecture": "Dravidian style.",
       "visitorNotes": "Free food served.",
-      "sources": [{ "label": "Yediyur Siddalingeshwara", "url": "https://en.wikipedia.org/wiki/Yediyur_Siddalingeshwara_Temple", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Yediyur Siddalingeshwara",
+          "url": "https://en.wikipedia.org/wiki/Yediyur_Siddalingeshwara_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1170,7 +1661,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Dobbaspet",
     "region": "Bengaluru Rural district",
-    "tags": ["Hill", "Cave", "Trekking"],
+    "tags": [
+      "Hill",
+      "Cave",
+      "Trekking"
+    ],
     "story": "A hill shaped like a Shiva Linga, with a cave temple dedicated to Gangadhareshwara.",
     "highlight": "Ghee turning to butter miracle.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shivagange_Temple.jpg",
@@ -1183,13 +1678,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Comfortable/Modest.",
     "entryNotes": "Steep climb.",
-    "rituals": ["Abhishekam"],
-    "festivals": ["Sankranti"],
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Sankranti"
+    ],
     "moreDetails": {
       "history": "Hoysala/Vijayanagara.",
       "architecture": "Cave temple.",
       "visitorNotes": "Beware of monkeys.",
-      "sources": [{ "label": "Shivagange", "url": "https://en.wikipedia.org/wiki/Shivagange", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Shivagange",
+          "url": "https://en.wikipedia.org/wiki/Shivagange",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1197,7 +1702,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Avani",
     "region": "Kolar district",
-    "tags": ["Nolamba", "Ramayana", "Heritage"],
+    "tags": [
+      "Nolamba",
+      "Ramayana",
+      "Heritage"
+    ],
     "story": "Known as the Gaya of the South, this temple complex dates back to the Nolamba dynasty.",
     "highlight": "Nolamba architecture.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramalingeshwara_group_of_temples_(rear_view_of_shrines)_at_Avani.JPG",
@@ -1210,13 +1719,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Climb uphill for Sita shrine.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Mahashivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
     "moreDetails": {
       "history": "10th century Nolamba.",
       "architecture": "Dravidian/Nolamba.",
       "visitorNotes": "Rich history spot.",
-      "sources": [{ "label": "Avani, Kolar", "url": "https://en.wikipedia.org/wiki/Avani,_Kolar", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Avani, Kolar",
+          "url": "https://en.wikipedia.org/wiki/Avani,_Kolar",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1224,7 +1743,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Kolar",
     "region": "Kolar district",
-    "tags": ["Chola", "Vijayanagara", "Carving"],
+    "tags": [
+      "Chola",
+      "Vijayanagara",
+      "Carving"
+    ],
     "story": "A magnificent example of Vijayanagara architecture built over an earlier Chola shrine.",
     "highlight": "Intricate carvings on the mukha mantapa.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/View_from_the_rear_of_the_Someshwara_Temple_at_Kolar.jpg",
@@ -1237,13 +1760,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "City center.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Mahashivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
     "moreDetails": {
       "history": "14th century.",
       "architecture": "Vijayanagara style.",
       "visitorNotes": "Admire the pillar reliefs.",
-      "sources": [{ "label": "Someshwara Temple, Kolar", "url": "https://en.wikipedia.org/wiki/Someshwara_Temple,_Kolar", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Someshwara Temple, Kolar",
+          "url": "https://en.wikipedia.org/wiki/Someshwara_Temple,_Kolar",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1251,12 +1784,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Nandi Hills",
     "region": "Chikkaballapura district",
-    "tags": ["Chola", "Hilltop", "View"],
+    "tags": [
+      "Chola",
+      "Hilltop",
+      "View"
+    ],
     "story": "Perched atop Nandi Hills, built by the Cholas, offering spiritual solace with a view.",
     "highlight": "Hilltop location and Chola architecture.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yoganandishwara_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1264,13 +1801,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Modest attire.",
     "entryNotes": "Inside Nandi Hills park.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Shivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
     "moreDetails": {
       "history": "Chola period.",
       "architecture": "Dravidian.",
       "visitorNotes": "Combine with Bhoganandishwara below.",
-      "sources": [{ "label": "Nandi Hills", "url": "https://en.wikipedia.org/wiki/Nandi_Hills,_India", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Nandi Hills",
+          "url": "https://en.wikipedia.org/wiki/Nandi_Hills,_India",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1278,7 +1825,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Pattadakal",
     "region": "Bagalkot district",
-    "tags": ["UNESCO", "Chalukya", "Masterpiece"],
+    "tags": [
+      "UNESCO",
+      "Chalukya",
+      "Masterpiece"
+    ],
     "story": "The largest and most sophisticated temple in Pattadakal, built by Queen Lokamahadevi.",
     "highlight": "Intricate narratives carved on pillars.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Virupaksha_Temple,_Pattadakal,_Karnataka.jpg",
@@ -1291,13 +1842,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Available for tourists.",
     "entryNotes": "Ticketed monument.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Pattadakal Dance Festival"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Pattadakal Dance Festival"
+    ],
     "moreDetails": {
       "history": "8th century CE.",
       "architecture": "Dravidian style.",
       "visitorNotes": "UNESCO World Heritage Site.",
-      "sources": [{ "label": "Pattadakal", "url": "https://en.wikipedia.org/wiki/Pattadakal", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Pattadakal",
+          "url": "https://en.wikipedia.org/wiki/Pattadakal",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1305,7 +1866,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Pattadakal",
     "region": "Bagalkot district",
-    "tags": ["Oldest", "Chalukya", "Heritage"],
+    "tags": [
+      "Oldest",
+      "Chalukya",
+      "Heritage"
+    ],
     "story": "The oldest temple in the Pattadakal group, initiated by King Vijayaditya.",
     "highlight": "Simple yet majestic Dravidian structure.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sangameshwara_Temple_Pattadakal_14.JPG",
@@ -1318,13 +1883,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Modest attire.",
     "entryNotes": "Part of Pattadakal complex.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Pattadakal Festival"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Pattadakal Festival"
+    ],
     "moreDetails": {
       "history": "8th century.",
       "architecture": "Dravidian.",
       "visitorNotes": "Incomplete but grand.",
-      "sources": [{ "label": "Pattadakal", "url": "https://en.wikipedia.org/wiki/Pattadakal", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Pattadakal",
+          "url": "https://en.wikipedia.org/wiki/Pattadakal",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1332,7 +1907,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Pattadakal",
     "region": "Bagalkot district",
-    "tags": ["Curvilinear", "Nagara", "Heritage"],
+    "tags": [
+      "Curvilinear",
+      "Nagara",
+      "Heritage"
+    ],
     "story": "A fine example of Nagara (North Indian) style architecture in the Chalukyan capital.",
     "highlight": "Curvilinear shikhara.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/8th_century_Galaganatha_temple,_Pattadakal_monuments_Karnataka_1.jpg",
@@ -1345,13 +1924,21 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Modest attire.",
     "entryNotes": "Beside the river.",
-    "rituals": ["Daily puja"],
+    "rituals": [
+      "Daily puja"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "8th century.",
       "architecture": "Nagara style.",
       "visitorNotes": "Notice the style contrast.",
-      "sources": [{ "label": "Pattadakal", "url": "https://en.wikipedia.org/wiki/Pattadakal", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Pattadakal",
+          "url": "https://en.wikipedia.org/wiki/Pattadakal",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1359,7 +1946,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Pattadakal",
     "region": "Bagalkot district",
-    "tags": ["Fusion", "Ramayana", "Heritage"],
+    "tags": [
+      "Fusion",
+      "Ramayana",
+      "Heritage"
+    ],
     "story": "Located slightly away from the main group, showing a fusion of Nagara and Dravidian styles.",
     "highlight": "Ramayana reliefs on walls.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Papanatha_temple_at_Pattadakal.jpg",
@@ -1372,13 +1963,21 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Modest attire.",
     "entryNotes": "Walking path.",
-    "rituals": ["Daily puja"],
+    "rituals": [
+      "Daily puja"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "8th century.",
       "architecture": "Vesara style.",
       "visitorNotes": "Walk along the river bank.",
-      "sources": [{ "label": "Pattadakal", "url": "https://en.wikipedia.org/wiki/Pattadakal", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Pattadakal",
+          "url": "https://en.wikipedia.org/wiki/Pattadakal",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1386,7 +1985,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Badami",
     "region": "Bagalkot district",
-    "tags": ["Cave", "Nataraja", "Chalukya"],
+    "tags": [
+      "Cave",
+      "Nataraja",
+      "Chalukya"
+    ],
     "story": "The first cave in the Badami complex, dedicated to Shiva with a magnificent Nataraja sculpture.",
     "highlight": "18-armed Nataraja.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Badami_Cave_1_Nataraja.jpg",
@@ -1399,13 +2002,21 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Comfortable shoe/attire.",
     "entryNotes": "Climb steps.",
-    "rituals": ["None (Monument)"],
+    "rituals": [
+      "None (Monument)"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "6th century.",
       "architecture": "Rock-cut.",
       "visitorNotes": "Stunning start to cave tour.",
-      "sources": [{ "label": "Badami Cave Temples", "url": "https://en.wikipedia.org/wiki/Badami_Cave_Temples", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Badami Cave Temples",
+          "url": "https://en.wikipedia.org/wiki/Badami_Cave_Temples",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1413,7 +2024,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Aihole",
     "region": "Bagalkot district",
-    "tags": ["Oldest", "Prototype", "Heritage"],
+    "tags": [
+      "Oldest",
+      "Prototype",
+      "Heritage"
+    ],
     "story": "One of the oldest temples, originally a hall, later dedicated to Shiva; named after a Muslim commander who stayed here.",
     "highlight": "Experimental roof design.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lad_Khan_Temple_Aihole.jpg",
@@ -1426,13 +2041,21 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Casual/Modest.",
     "entryNotes": "Heritage site.",
-    "rituals": ["None (Monument)"],
+    "rituals": [
+      "None (Monument)"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "5th century.",
       "architecture": "Early Chalukya.",
       "visitorNotes": "Cradle of temple architecture.",
-      "sources": [{ "label": "Aihole", "url": "https://en.wikipedia.org/wiki/Aihole", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Aihole",
+          "url": "https://en.wikipedia.org/wiki/Aihole",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1440,7 +2063,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Kudalasangama",
     "region": "Bagalkot district",
-    "tags": ["Lingayat", "Basavanna", "Confluence"],
+    "tags": [
+      "Lingayat",
+      "Basavanna",
+      "Confluence"
+    ],
     "story": "The aikya mantapa (samadhi) of Basavanna, located at the confluence of Krishna and Malaprabha rivers.",
     "highlight": "River confluence and Samadhi.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kudalasangama_temple.jpg",
@@ -1453,13 +2080,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Pilgrimage center.",
-    "rituals": ["Lingayat rites"],
-    "festivals": ["Basava Jayanti"],
+    "rituals": [
+      "Lingayat rites"
+    ],
+    "festivals": [
+      "Basava Jayanti"
+    ],
     "moreDetails": {
       "history": "12th century saint.",
       "architecture": "Chalukyan style.",
       "visitorNotes": "Spiritual heart of Lingayatism.",
-      "sources": [{ "label": "Kudalasangama", "url": "https://en.wikipedia.org/wiki/Kudalasangama", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Kudalasangama",
+          "url": "https://en.wikipedia.org/wiki/Kudalasangama",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1467,12 +2104,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Basavakalyan",
     "region": "Bidar district",
-    "tags": ["Lingayat", "History", "Fort"],
+    "tags": [
+      "Lingayat",
+      "History",
+      "Fort"
+    ],
     "story": "Center of the Sharana movement led by Basavanna in the 12th century.",
     "highlight": "Historical significance.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basavakalyan_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
     "deity": "Shiva (Basaveshwara)",
     "tradition": "Lingayat",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1480,13 +2121,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Visit Fort nearby.",
-    "rituals": ["Vachana recitation"],
-    "festivals": ["Basava Jayanti"],
+    "rituals": [
+      "Vachana recitation"
+    ],
+    "festivals": [
+      "Basava Jayanti"
+    ],
     "moreDetails": {
       "history": "Kalachuri capital.",
       "architecture": "Later Chalukya.",
       "visitorNotes": "Experience the Vachana heritage.",
-      "sources": [{ "label": "Basavakalyan", "url": "https://en.wikipedia.org/wiki/Basavakalyan", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Basavakalyan",
+          "url": "https://en.wikipedia.org/wiki/Basavakalyan",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1494,7 +2145,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Chaudayyadanapura",
     "region": "Haveri district",
-    "tags": ["Jakkanachari", "Carving", "River Tungabhadra"],
+    "tags": [
+      "Jakkanachari",
+      "Carving",
+      "River Tungabhadra"
+    ],
     "story": "A hidden gem of Chalukyan architecture on the Tungabhadra banks, known for exquisite filigree work.",
     "highlight": "Detailed stone carvings.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chaudayyadanapura_Mukteshwara_temple_11.jpg",
@@ -1507,13 +2162,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Modest attire.",
     "entryNotes": "Offbeat location.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Mahashivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
     "moreDetails": {
       "history": "11th century.",
       "architecture": "Western Chalukya.",
       "visitorNotes": "Quiet and beautiful.",
-      "sources": [{ "label": "Mukteshwara Temple", "url": "https://en.wikipedia.org/wiki/Mukteshwara_Temple,_Chaudayyadanapura", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Mukteshwara Temple",
+          "url": "https://en.wikipedia.org/wiki/Mukteshwara_Temple,_Chaudayyadanapura",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1521,12 +2186,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Bidar",
     "region": "Bidar district",
-    "tags": ["Rama", "Pond", "Pilgrimage"],
+    "tags": [
+      "Rama",
+      "Pond",
+      "Pilgrimage"
+    ],
     "story": "Believed to be installed by Lord Rama on his return from Lanka to wash away sins (Papnash).",
     "highlight": "Natural spring pond.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bidar_Fort_Entrance.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1534,13 +2203,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Near Bidar city.",
-    "rituals": ["Abhishekam"],
-    "festivals": ["Mahashivratri"],
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
     "moreDetails": {
       "history": "Ancient legend.",
       "architecture": "Simple structure.",
       "visitorNotes": "Serene valley setting.",
-      "sources": [{ "label": "Bidar Tourism", "url": "https://bidar.nic.in/en/tourism/", "type": "District tourism" }]
+      "sources": [
+        {
+          "label": "Bidar Tourism",
+          "url": "https://bidar.nic.in/en/tourism/",
+          "type": "District tourism"
+        }
+      ]
     }
   },
   {
@@ -1548,7 +2227,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Kalaburagi",
     "region": "Kalaburagi district",
-    "tags": ["Lingayat", "Saint", "Samadhi"],
+    "tags": [
+      "Lingayat",
+      "Saint",
+      "Samadhi"
+    ],
     "story": "Dedicated to the 18th-century saint Sharana Basaveshwara, a key figure in the Lingayat tradition.",
     "highlight": "Silver covered pillars and intricate carvings.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sharana_Basaveshwara_Temple_Gulbarga.jpg",
@@ -1561,13 +2244,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "City center.",
-    "rituals": ["Dasoha"],
-    "festivals": ["Jatre"],
+    "rituals": [
+      "Dasoha"
+    ],
+    "festivals": [
+      "Jatre"
+    ],
     "moreDetails": {
       "history": "18th century.",
       "architecture": "Islamic influence (domes).",
       "visitorNotes": "Spectacular during Jatre.",
-      "sources": [{ "label": "Kalaburagi", "url": "https://en.wikipedia.org/wiki/Kalaburagi", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Kalaburagi",
+          "url": "https://en.wikipedia.org/wiki/Kalaburagi",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1575,7 +2268,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Sagara",
     "region": "Shivamogga district",
-    "tags": ["Keladi Nayaka", "Heritage", "Carving"],
+    "tags": [
+      "Keladi Nayaka",
+      "Heritage",
+      "Carving"
+    ],
     "story": "A masterful example of Keladi Nayaka architecture, built with a mix of Hoysala and Dravidian styles.",
     "highlight": "Intricate wooden carvings.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keladi_%26_Ikkeri_temple,_Sagara.jpg",
@@ -1588,13 +2285,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Heritage village.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Mahashivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
     "moreDetails": {
       "history": "16th century.",
       "architecture": "Keladi style.",
       "visitorNotes": "Visit the museum nearby.",
-      "sources": [{ "label": "Keladi", "url": "https://en.wikipedia.org/wiki/Keladi", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Keladi",
+          "url": "https://en.wikipedia.org/wiki/Keladi",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1602,7 +2309,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Sagara",
     "region": "Shivamogga district",
-    "tags": ["Keladi Nayaka", "Granite", "Large"],
+    "tags": [
+      "Keladi Nayaka",
+      "Granite",
+      "Large"
+    ],
     "story": "A grand granite temple built by the Keladi rulers, blending Vijayanagara and Hoysala elements.",
     "highlight": "Massive Nandi in front.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_dravidian_style_sikhara_from_the_rear_of_the_Aghoreshwara_temple_at_Ikkeri.jpg",
@@ -1615,13 +2326,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Near Keladi.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Shivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
     "moreDetails": {
       "history": "16th century.",
       "architecture": "Mixed style.",
       "visitorNotes": "Impressive scale.",
-      "sources": [{ "label": "Ikkeri", "url": "https://en.wikipedia.org/wiki/Ikkeri", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Ikkeri",
+          "url": "https://en.wikipedia.org/wiki/Ikkeri",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1629,7 +2350,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Sringeri",
     "region": "Chikkamagaluru district",
-    "tags": ["Zodiac", "Architecture", "Matha"],
+    "tags": [
+      "Zodiac",
+      "Architecture",
+      "Matha"
+    ],
     "story": "A unique temple built over the samadhi of Vidyashankara Tirtha, famous for its 12 zodiac pillars.",
     "highlight": "Zodiac pillars align with the sun.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sringeri_Vidyashankara_temple.jpg",
@@ -1642,13 +2367,24 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Strict traditional attire.",
     "entryNotes": "Photography restricted inside.",
-    "rituals": ["Chandramoulishwara Puja"],
-    "festivals": ["Navaratri", "Shivratri"],
+    "rituals": [
+      "Chandramoulishwara Puja"
+    ],
+    "festivals": [
+      "Navaratri",
+      "Shivratri"
+    ],
     "moreDetails": {
       "history": "14th century.",
       "architecture": "Hoysala-Dravidian fusion.",
       "visitorNotes": "Feed fish in Tunga river.",
-      "sources": [{ "label": "Sringeri Sharada Peetham", "url": "https://en.wikipedia.org/wiki/Sringeri_Sharada_Peetham", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Sringeri Sharada Peetham",
+          "url": "https://en.wikipedia.org/wiki/Sringeri_Sharada_Peetham",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1656,7 +2392,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Kalasa",
     "region": "Chikkamagaluru district",
-    "tags": ["Dakshina Kashi", "Agastya", "Hill"],
+    "tags": [
+      "Dakshina Kashi",
+      "Agastya",
+      "Hill"
+    ],
     "story": "Considered the Kashi of the South, associated with Sage Agastya halting the Vindhyas.",
     "highlight": "Scenic hill town setting.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Entrance_to_Kalaseshwara_temple_at_Kalasa,_Karnataka_state.jpg",
@@ -1669,13 +2409,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Base for Horanadu.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Girija Kalyana"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Girija Kalyana"
+    ],
     "moreDetails": {
       "history": "Ancient legend.",
       "architecture": "Mixed.",
       "visitorNotes": "Stop en route to Horanadu.",
-      "sources": [{ "label": "Kalasa", "url": "https://en.wikipedia.org/wiki/Kalasa", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Kalasa",
+          "url": "https://en.wikipedia.org/wiki/Kalasa",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1683,12 +2433,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Kigga",
     "region": "Chikkamagaluru district",
-    "tags": ["Rain", "Ramayana", "Heritage"],
+    "tags": [
+      "Rain",
+      "Ramayana",
+      "Heritage"
+    ],
     "story": "Dedicated to Sage Rishyasringa (an incarnation of Shiva/associated with rain), whose yajna brought rain to Ayodhya.",
     "highlight": "Ancient carved pillars.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kigga_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
     "deity": "Shiva (Rishyasringa)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1696,13 +2450,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Near Sringeri.",
-    "rituals": ["Rain prayers"],
-    "festivals": ["Car festival"],
+    "rituals": [
+      "Rain prayers"
+    ],
+    "festivals": [
+      "Car festival"
+    ],
     "moreDetails": {
       "history": "7th century inscription.",
       "architecture": "Alpa-vimana.",
       "visitorNotes": "Very scenic drive.",
-      "sources": [{ "label": "Kigga", "url": "https://en.wikipedia.org/wiki/Kigga", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Kigga",
+          "url": "https://en.wikipedia.org/wiki/Kigga",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1710,12 +2474,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Balehonnur",
     "region": "Chikkamagaluru district",
-    "tags": ["Pancha Peetha", "Veerashaiva", "River Bhadra"],
+    "tags": [
+      "Pancha Peetha",
+      "Veerashaiva",
+      "River Bhadra"
+    ],
     "story": "One of the five main peethas of Veerashaivism, located on the banks of River Bhadra.",
     "highlight": "Veerashaiva heritage center.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rambhapuri_Peetha.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
     "deity": "Shiva (Renukacharya)",
     "tradition": "Veerashaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1723,13 +2491,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Spiritual center.",
-    "rituals": ["Matha rites"],
-    "festivals": ["Dasara"],
+    "rituals": [
+      "Matha rites"
+    ],
+    "festivals": [
+      "Dasara"
+    ],
     "moreDetails": {
       "history": "Ancient lineage.",
       "architecture": "Modern complex.",
       "visitorNotes": "Beautiful river spot.",
-      "sources": [{ "label": "Rambhapuri Peetha", "url": "https://en.wikipedia.org/wiki/Rambhapuri_Peetha", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Rambhapuri Peetha",
+          "url": "https://en.wikipedia.org/wiki/Rambhapuri_Peetha",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1737,7 +2515,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Arsikere",
     "region": "Hassan district",
-    "tags": ["Hoysala", "Stellate", "Dome"],
+    "tags": [
+      "Hoysala",
+      "Stellate",
+      "Dome"
+    ],
     "story": "A gem of Hoysala architecture known for its unique 16-pointed star plan and domed ceiling.",
     "highlight": "Intricate star-shaped plan.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Le_temple_Kalameshwara_(Arsikere,_Inde)_(14388091487).jpg",
@@ -1750,13 +2532,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Heritage site.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Shivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
     "moreDetails": {
       "history": "13th century.",
       "architecture": "Hoysala.",
       "visitorNotes": "Architectural marvel.",
-      "sources": [{ "label": "Ishvara Temple", "url": "https://en.wikipedia.org/wiki/Ishvara_Temple,_Arsikere", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Ishvara Temple",
+          "url": "https://en.wikipedia.org/wiki/Ishvara_Temple,_Arsikere",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1764,7 +2556,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Harnhalli",
     "region": "Hassan district",
-    "tags": ["Hoysala", "Lakshmi Narasimha", "Heritage"],
+    "tags": [
+      "Hoysala",
+      "Lakshmi Narasimha",
+      "Heritage"
+    ],
     "story": "A twin temple complex (with Lakshmi Narasimha nearby) built in 1235 AD by the Hoysalas.",
     "highlight": "Twin temple architecture.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Someshwara_Temple_Harnhalli.jpg",
@@ -1777,13 +2573,21 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Quiet village.",
-    "rituals": ["Daily puja"],
+    "rituals": [
+      "Daily puja"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "1235 AD.",
       "architecture": "Hoysala Trikuta.",
       "visitorNotes": "Visit both temples.",
-      "sources": [{ "label": "Harnhalli", "url": "https://en.wikipedia.org/wiki/Harnhalli", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Harnhalli",
+          "url": "https://en.wikipedia.org/wiki/Harnhalli",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1791,7 +2595,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Koravangala",
     "region": "Hassan district",
-    "tags": ["Hoysala", "Carving", "Heritage"],
+    "tags": [
+      "Hoysala",
+      "Carving",
+      "Heritage"
+    ],
     "story": "Built to celebrate the coronation of King Ballala II, featuring fine sculptures.",
     "highlight": "Celebratory architecture.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_Bucesvara_temple_at_Koravangala_from_eastern_entrance.jpg",
@@ -1804,13 +2612,21 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Near Hassan.",
-    "rituals": ["Daily puja"],
+    "rituals": [
+      "Daily puja"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "1173 AD.",
       "architecture": "Hoysala.",
       "visitorNotes": "Well preserved.",
-      "sources": [{ "label": "Koravangala", "url": "https://en.wikipedia.org/wiki/Koravangala", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Koravangala",
+          "url": "https://en.wikipedia.org/wiki/Koravangala",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1818,7 +2634,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Mosale",
     "region": "Hassan district",
-    "tags": ["Hoysala", "Twin Temple", "Heritage"],
+    "tags": [
+      "Hoysala",
+      "Twin Temple",
+      "Heritage"
+    ],
     "story": "Standing beside the Chennakeshava temple, forming an elegant twin complex of Shiva and Vishnu.",
     "highlight": "Identical twin temples.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nageshswara_%26_Chenna_Kesava_Temple_-_Mosale.jpg",
@@ -1831,13 +2651,21 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Beautiful village setting.",
-    "rituals": ["Daily puja"],
+    "rituals": [
+      "Daily puja"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "1200 AD.",
       "architecture": "Hoysala ekakuta.",
       "visitorNotes": "Perfect symmetry.",
-      "sources": [{ "label": "Mosale", "url": "https://en.wikipedia.org/wiki/Mosale", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Mosale",
+          "url": "https://en.wikipedia.org/wiki/Mosale",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1845,7 +2673,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Annigeri",
     "region": "Dharwad district",
-    "tags": ["Kalyani Chalukya", "Black Stone", "Pillars"],
+    "tags": [
+      "Kalyani Chalukya",
+      "Black Stone",
+      "Pillars"
+    ],
     "story": "A prototype for later Hoysala temples, built in black soapstone by the Western Chalukyas.",
     "highlight": "76 pillars in the hall.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/11th_century_Amritesvara_temple,_Annigeri,_Karnataka_India_-_95.jpg",
@@ -1858,13 +2690,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Heritage town.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Car festival"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Car festival"
+    ],
     "moreDetails": {
       "history": "1050 AD.",
       "architecture": "Kalyani Chalukya.",
       "visitorNotes": "Precursor to Hoysala style.",
-      "sources": [{ "label": "Annigeri", "url": "https://en.wikipedia.org/wiki/Annigeri", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Annigeri",
+          "url": "https://en.wikipedia.org/wiki/Annigeri",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1872,7 +2714,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Bankapura",
     "region": "Haveri district",
-    "tags": ["Chalukya", "Fort", "Peacock"],
+    "tags": [
+      "Chalukya",
+      "Fort",
+      "Peacock"
+    ],
     "story": "Located inside a fort which is also a peacock sanctuary, known for its superfine pillars.",
     "highlight": "Peacock sanctuary setting.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nagareshwara_Temple_Bankapura.jpg",
@@ -1885,13 +2731,21 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Inside fort.",
-    "rituals": ["Daily puja"],
+    "rituals": [
+      "Daily puja"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "11th century.",
       "architecture": "Chalukya.",
       "visitorNotes": "Spot peacocks.",
-      "sources": [{ "label": "Bankapura", "url": "https://en.wikipedia.org/wiki/Bankapura", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Bankapura",
+          "url": "https://en.wikipedia.org/wiki/Bankapura",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1899,7 +2753,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Hangal",
     "region": "Haveri district",
-    "tags": ["Chalukya", "Dome", "Lotus"],
+    "tags": [
+      "Chalukya",
+      "Dome",
+      "Lotus"
+    ],
     "story": "Famous for its massive domed ceiling carved into a lotus, a masterpiece of Chalukyan art.",
     "highlight": "Lotus ceiling.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_view_from_the_entrance_of_the_Tarakeshwara_temple_at_Hangal.JPG",
@@ -1912,13 +2770,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Must look up at ceiling.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Mahashivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
     "moreDetails": {
       "history": "12th century.",
       "architecture": "Kalyani Chalukya.",
       "visitorNotes": "Photography allowed.",
-      "sources": [{ "label": "Hangal", "url": "https://en.wikipedia.org/wiki/Hangal", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Hangal",
+          "url": "https://en.wikipedia.org/wiki/Hangal",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1926,7 +2794,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Dambal",
     "region": "Gadag district",
-    "tags": ["Stellate", "Chalukya", "Unique"],
+    "tags": [
+      "Stellate",
+      "Chalukya",
+      "Unique"
+    ],
     "story": "Remarkable for its 24-pointed stellate plan, creating a complex and rhythmic exterior.",
     "highlight": "24-pointed star plan.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/12th_century_Dodda_Basappa_temple,_Dambal,_Karnataka_India_-_40.jpg",
@@ -1939,13 +2811,21 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Heritage site.",
-    "rituals": ["Daily puja"],
+    "rituals": [
+      "Daily puja"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "12th century.",
       "architecture": "Kalyani Chalukya.",
       "visitorNotes": "Architectural gem.",
-      "sources": [{ "label": "Dambal", "url": "https://en.wikipedia.org/wiki/Dambal", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Dambal",
+          "url": "https://en.wikipedia.org/wiki/Dambal",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1953,7 +2833,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Harihara",
     "region": "Davangere district",
-    "tags": ["Harihara", "Fusion", "River Tungabhadra"],
+    "tags": [
+      "Harihara",
+      "Fusion",
+      "River Tungabhadra"
+    ],
     "story": "Dedicated to the combined form of Vishnu (Hari) and Shiva (Hara), symbolizing unity.",
     "highlight": "Harihara deity form.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri_Harihareshwara_Temple.jpg",
@@ -1966,13 +2850,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Riverside.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Car festival"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Car festival"
+    ],
     "moreDetails": {
       "history": "1223 AD.",
       "architecture": "Hoysala.",
       "visitorNotes": "Unique iconography.",
-      "sources": [{ "label": "Harihara", "url": "https://en.wikipedia.org/wiki/Harihara", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Harihara",
+          "url": "https://en.wikipedia.org/wiki/Harihara",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -1980,12 +2874,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Udupi",
     "region": "Udupi district",
-    "tags": ["Udupi", "Opposite Krishna", "Tradition"],
+    "tags": [
+      "Udupi",
+      "Opposite Krishna",
+      "Tradition"
+    ],
     "story": "Devotees visiting Udupi Krishna are expected to visit this Shiva temple first.",
     "highlight": "Ritual precedence over Krishna temple.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chandramoulishwara_Udupi.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1993,13 +2891,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Opposite Krishna Matha.",
-    "rituals": ["First visit rule"],
-    "festivals": ["Paryaya"],
+    "rituals": [
+      "First visit rule"
+    ],
+    "festivals": [
+      "Paryaya"
+    ],
     "moreDetails": {
       "history": "Ancient connection.",
       "architecture": "Kerala-Tulu style.",
       "visitorNotes": "Start your Udupi tour here.",
-      "sources": [{ "label": "Udupi", "url": "https://en.wikipedia.org/wiki/Udupi", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Udupi",
+          "url": "https://en.wikipedia.org/wiki/Udupi",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2007,7 +2915,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Subramanya",
     "region": "Dakshina Kannada district",
-    "tags": ["Serpent", "Subramanya", "Shiva"],
+    "tags": [
+      "Serpent",
+      "Subramanya",
+      "Shiva"
+    ],
     "story": "A major Subramanya temple where Shiva is also worshipped, famous for Sarpa Dosha pooja.",
     "highlight": "Sarpa Samskara rituals.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kukke_Subramanya_Temple.jpg",
@@ -2020,13 +2932,24 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire (Men shirtless).",
     "entryNotes": "Very strict dress code.",
-    "rituals": ["Ashlesha Bali", "Sarpa Samskara"],
-    "festivals": ["Champa Shashti"],
+    "rituals": [
+      "Ashlesha Bali",
+      "Sarpa Samskara"
+    ],
+    "festivals": [
+      "Champa Shashti"
+    ],
     "moreDetails": {
       "history": "Ancient mythology.",
       "architecture": "Kerala style.",
       "visitorNotes": "Book poojas in advance.",
-      "sources": [{ "label": "Kukke Subramanya", "url": "https://en.wikipedia.org/wiki/Kukke_Subramanya_Temple", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Kukke Subramanya",
+          "url": "https://en.wikipedia.org/wiki/Kukke_Subramanya_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2034,7 +2957,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Kollur",
     "region": "Udupi district",
-    "tags": ["Shakti", "Shiva", "Kodachadri"],
+    "tags": [
+      "Shakti",
+      "Shiva",
+      "Kodachadri"
+    ],
     "story": "Dedicated to Devi Mookambika, but the swayambhu linga here represents both Shiva and Shakti.",
     "highlight": "Jyotirlinga line division.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kollur_Mookambika_Temple.jpg",
@@ -2047,13 +2974,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Queue for darshan.",
-    "rituals": ["Kashaya Theertha"],
-    "festivals": ["Navaratri"],
+    "rituals": [
+      "Kashaya Theertha"
+    ],
+    "festivals": [
+      "Navaratri"
+    ],
     "moreDetails": {
       "history": "Adi Shankara legacy.",
       "architecture": "Kerala style.",
       "visitorNotes": "Visit Kodachadri hills too.",
-      "sources": [{ "label": "Kollur Mookambika", "url": "https://en.wikipedia.org/wiki/Mookambika_Temple,_Kollur", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Kollur Mookambika",
+          "url": "https://en.wikipedia.org/wiki/Mookambika_Temple,_Kollur",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2061,7 +2998,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Yana",
     "region": "Uttara Kannada district",
-    "tags": ["Rock Formation", "Nature", "Trek"],
+    "tags": [
+      "Rock Formation",
+      "Nature",
+      "Trek"
+    ],
     "story": "Located below massive black limestone rock formations (Mohini and Bhairaveshwara), a geological wonder.",
     "highlight": "Massive monolithic rocks.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yana_Rocks.jpg",
@@ -2074,13 +3015,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Casual/Sporty.",
     "entryNotes": "Trek through forest.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Shivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
     "moreDetails": {
       "history": "Local legend.",
       "architecture": "Natural cave.",
       "visitorNotes": "Unique geological site.",
-      "sources": [{ "label": "Yana", "url": "https://en.wikipedia.org/wiki/Yana,_India", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Yana",
+          "url": "https://en.wikipedia.org/wiki/Yana,_India",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2088,12 +3039,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Sirsi",
     "region": "Uttara Kannada district",
-    "tags": ["River Shalmala", "Lingas", "Nature"],
+    "tags": [
+      "River Shalmala",
+      "Lingas",
+      "Nature"
+    ],
     "story": "Thousands of Shiva Lingas carved on rocks in the riverbed of Shalmala, visible when water levels drop.",
     "highlight": "Riverbed carvings.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sahasralinga_Sirsi.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2101,13 +3056,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Casual/Modest.",
     "entryNotes": "Natural site.",
-    "rituals": ["River bath"],
-    "festivals": ["Mahashivratri"],
+    "rituals": [
+      "River bath"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
     "moreDetails": {
       "history": "17th century.",
       "architecture": "Rock carvings.",
       "visitorNotes": "Walk carefully on slippery rocks.",
-      "sources": [{ "label": "Sahasralinga", "url": "https://en.wikipedia.org/wiki/Sahasralinga", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Sahasralinga",
+          "url": "https://en.wikipedia.org/wiki/Sahasralinga",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2115,7 +3080,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Hubballi",
     "region": "Dharwad district",
-    "tags": ["Chalukya", "Heritage", "Lake"],
+    "tags": [
+      "Chalukya",
+      "Heritage",
+      "Lake"
+    ],
     "story": "A 900-year-old Chalukyan temple dedicated to Chandramoulishwara, located near Unkal Lake.",
     "highlight": "Preserved Chalukyan architecture.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chandramoulishwara_Temple_Unkal.jpg",
@@ -2128,13 +3097,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Near Unkal Lake.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Mahashivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
     "moreDetails": {
       "history": "11th century.",
       "architecture": "Kalyani Chalukya.",
       "visitorNotes": "Visit during sunset.",
-      "sources": [{ "label": "Hubballi", "url": "https://en.wikipedia.org/wiki/Hubballi", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Hubballi",
+          "url": "https://en.wikipedia.org/wiki/Hubballi",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2142,12 +3121,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Badami",
     "region": "Bagalkot district",
-    "tags": ["Early Chalukya", "Triad", "Heritage"],
+    "tags": [
+      "Early Chalukya",
+      "Triad",
+      "Heritage"
+    ],
     "story": "One of the earliest temples in Badami, dedicated to the holy triad of Brahma, Vishnu, and Shiva.",
     "highlight": "Early Chalukyan experimentation.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jambulingeshwara_Temple_Badami.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2155,13 +3138,21 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Modest attire.",
     "entryNotes": "Hidden gem in town.",
-    "rituals": ["Daily puja"],
+    "rituals": [
+      "Daily puja"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "7th century.",
       "architecture": "Early Chalukya.",
       "visitorNotes": "Often overlooked.",
-      "sources": [{ "label": "Badami", "url": "https://en.wikipedia.org/wiki/Badami", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Badami",
+          "url": "https://en.wikipedia.org/wiki/Badami",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2169,7 +3160,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Kuruvatti",
     "region": "Ballari district",
-    "tags": ["Chalukya", "Nandi", "Carving"],
+    "tags": [
+      "Chalukya",
+      "Nandi",
+      "Carving"
+    ],
     "story": "Known for its exquisite lathe-turned pillars and a monolithic Nandi.",
     "highlight": "Monolithic Nandi.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mallikarjuna_Temple_Kuruvatti.jpg",
@@ -2182,13 +3177,21 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Remote location.",
-    "rituals": ["Daily puja"],
+    "rituals": [
+      "Daily puja"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "11th century.",
       "architecture": "Western Chalukya.",
       "visitorNotes": "Architectural masterpiece.",
-      "sources": [{ "label": "Kuruvatti", "url": "https://en.wikipedia.org/wiki/Kuruvatti", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Kuruvatti",
+          "url": "https://en.wikipedia.org/wiki/Kuruvatti",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2196,7 +3199,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Haveri",
     "region": "Haveri district",
-    "tags": ["Chalukya", "Sculpture", "Deities"],
+    "tags": [
+      "Chalukya",
+      "Sculpture",
+      "Deities"
+    ],
     "story": "A 12th-century temple famous for its wall sculptures depicting various deities.",
     "highlight": "Wall panel sculptures.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Siddheshwara_Temple_Haveri.jpg",
@@ -2209,13 +3216,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Well maintained.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Mahashivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
     "moreDetails": {
       "history": "11th century.",
       "architecture": "Western Chalukya.",
       "visitorNotes": "Photographer's delight.",
-      "sources": [{ "label": "Haveri", "url": "https://en.wikipedia.org/wiki/Haveri", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Haveri",
+          "url": "https://en.wikipedia.org/wiki/Haveri",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2223,7 +3240,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Lakshmeshwara",
     "region": "Gadag district",
-    "tags": ["Heritage", "Stepwell", "Poetry"],
+    "tags": [
+      "Heritage",
+      "Stepwell",
+      "Poetry"
+    ],
     "story": "Associated with the poet Adikavi Pampa who wrote his epics here.",
     "highlight": "Somanatheswara idol.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Someshwara_Temple_Lakshmeshwara.jpg",
@@ -2236,13 +3257,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Historic town.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Mahashivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
     "moreDetails": {
       "history": "11th century.",
       "architecture": "Kalyani Chalukya.",
       "visitorNotes": "Rich literary history.",
-      "sources": [{ "label": "Lakshmeshwara", "url": "https://en.wikipedia.org/wiki/Lakshmeshwara", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Lakshmeshwara",
+          "url": "https://en.wikipedia.org/wiki/Lakshmeshwara",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2250,7 +3281,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Hampi",
     "region": "Vijayanagara district",
-    "tags": ["Monolith", "Shiva", "Submerged"],
+    "tags": [
+      "Monolith",
+      "Shiva",
+      "Submerged"
+    ],
     "story": "A massive monolithic Shiva Linga partially submerged in water, revered by peasants (Badva).",
     "highlight": "Largest monolithic Linga in Hampi.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Badavi_Linga.jpg",
@@ -2263,13 +3298,21 @@ export const karnatakaTemples = [
     "timings": "Daylight hours.",
     "dressCode": "Casual/Modest.",
     "entryNotes": "Next to Narasimha statue.",
-    "rituals": ["None (Monument)"],
+    "rituals": [
+      "None (Monument)"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "Vijayanagara era.",
       "architecture": "Monolithic.",
       "visitorNotes": "Iconic photo spot.",
-      "sources": [{ "label": "Hampi", "url": "https://en.wikipedia.org/wiki/Hampi", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Hampi",
+          "url": "https://en.wikipedia.org/wiki/Hampi",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2277,7 +3320,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Hampi",
     "region": "Vijayanagara district",
-    "tags": ["Underground", "Water", "Mystery"],
+    "tags": [
+      "Underground",
+      "Water",
+      "Mystery"
+    ],
     "story": "A Shiva temple located below ground level, often filled with water.",
     "highlight": "Sunken sanctum.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Underground_Temple_Hampi.jpg",
@@ -2290,13 +3337,21 @@ export const karnatakaTemples = [
     "timings": "Daylight hours.",
     "dressCode": "Casual/Modest.",
     "entryNotes": "Can be flooded.",
-    "rituals": ["None (Monument)"],
+    "rituals": [
+      "None (Monument)"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "14th century.",
       "architecture": "Vijayanagara.",
       "visitorNotes": "Unique subterranean design.",
-      "sources": [{ "label": "Hampi", "url": "https://en.wikipedia.org/wiki/Hampi", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Hampi",
+          "url": "https://en.wikipedia.org/wiki/Hampi",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2304,7 +3359,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Hampi",
     "region": "Vijayanagara district",
-    "tags": ["Hill", "Sunset", "Groups"],
+    "tags": [
+      "Hill",
+      "Sunset",
+      "Groups"
+    ],
     "story": "A cluster of pre-Vijayanagara Shiva temples on Hemakuta Hill, offering stunning sunset views.",
     "highlight": "Sunset point amongst temples.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hemakuta_Hill_Temples.jpg",
@@ -2317,13 +3376,21 @@ export const karnatakaTemples = [
     "timings": "Daylight hours.",
     "dressCode": "Casual/Modest.",
     "entryNotes": "Easy climb.",
-    "rituals": ["None (Monument)"],
+    "rituals": [
+      "None (Monument)"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "9th-14th century.",
       "architecture": "Kadamba/Early Vijayanagara.",
       "visitorNotes": "Best view of Virupaksha.",
-      "sources": [{ "label": "Hampi", "url": "https://en.wikipedia.org/wiki/Hampi", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Hampi",
+          "url": "https://en.wikipedia.org/wiki/Hampi",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2331,7 +3398,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Hampi",
     "region": "Vijayanagara district",
-    "tags": ["Huge", "Veerabhadra", "Cult"],
+    "tags": [
+      "Huge",
+      "Veerabhadra",
+      "Cult"
+    ],
     "story": "Houses a gigantic image of Veerabhadra, the fierce form of Shiva.",
     "highlight": "Massive Veerabhadra idol.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hampi_-_Uddana_Veerabhadra_Temple_-_Reliefs.jpg",
@@ -2344,13 +3415,21 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Near Chandikesvara.",
-    "rituals": ["Daily puja"],
+    "rituals": [
+      "Daily puja"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "1545 AD.",
       "architecture": "Vijayanagara.",
       "visitorNotes": "Still under worship.",
-      "sources": [{ "label": "Hampi", "url": "https://en.wikipedia.org/wiki/Hampi", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Hampi",
+          "url": "https://en.wikipedia.org/wiki/Hampi",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2358,12 +3437,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Anegundi",
     "region": "Koppal district",
-    "tags": ["Ramayana", "Cave", "River"],
+    "tags": [
+      "Ramayana",
+      "Cave",
+      "River"
+    ],
     "story": "The spot where Rama is believed to have met Sugriva and shot Vali.",
     "highlight": "Cave with Rama's footprints and Shiva shrine.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chintamani_Temple_Anegundi.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva/Rama",
     "tradition": "Smarta",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2371,13 +3454,21 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Casual/Modest.",
     "entryNotes": "Riverside.",
-    "rituals": ["Daily puja"],
+    "rituals": [
+      "Daily puja"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "Ancient legend.",
       "architecture": "Cave/Rock-cut.",
       "visitorNotes": "Historical spot.",
-      "sources": [{ "label": "Anegundi", "url": "https://en.wikipedia.org/wiki/Anegundi", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Anegundi",
+          "url": "https://en.wikipedia.org/wiki/Anegundi",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2385,12 +3476,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Ganagapura",
     "region": "Kalaburagi district",
-    "tags": ["Dattatreya", "Trimurti", "River Bhima"],
+    "tags": [
+      "Dattatreya",
+      "Trimurti",
+      "River Bhima"
+    ],
     "story": "A major pilgrimage site dedicated to Dattatreya (Trimurti form), closely linked to Shiva worship.",
     "highlight": "Sangama rituals.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ganagapura_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
     "deity": "Dattatreya (Shiva)",
     "tradition": "Smarta",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2398,13 +3493,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Crowded with pilgrims.",
-    "rituals": ["Madhukari"],
-    "festivals": ["Datta Jayanti"],
+    "rituals": [
+      "Madhukari"
+    ],
+    "festivals": [
+      "Datta Jayanti"
+    ],
     "moreDetails": {
       "history": "Narasimha Saraswati legacy.",
       "architecture": "Modern complex.",
       "visitorNotes": "Spiritual healing center.",
-      "sources": [{ "label": "Ganagapura", "url": "https://en.wikipedia.org/wiki/Ganagapura", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Ganagapura",
+          "url": "https://en.wikipedia.org/wiki/Ganagapura",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2412,12 +3517,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Bengaluru",
     "region": "Bengaluru Urban district",
-    "tags": ["Cave", "City", "Meditation"],
+    "tags": [
+      "Cave",
+      "City",
+      "Meditation"
+    ],
     "story": "An ancient cave temple discovered recently, housing a Shiva Linga and Devi shrine.",
     "highlight": "Cave meditation hall.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hulimavu_Cave_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2425,13 +3534,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Modest attire.",
     "entryNotes": "Inside city limits.",
-    "rituals": ["Meditation"],
-    "festivals": ["Shivratri"],
+    "rituals": [
+      "Meditation"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
     "moreDetails": {
       "history": "Unclear origins.",
       "architecture": "Cave.",
       "visitorNotes": "Quiet spot amidst chaos.",
-      "sources": [{ "label": "Hulimavu Cave Temple", "url": "https://en.wikipedia.org/wiki/Hulimavu_Cave_Temple", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Hulimavu Cave Temple",
+          "url": "https://en.wikipedia.org/wiki/Hulimavu_Cave_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2439,7 +3558,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Bengaluru",
     "region": "Malleswaram",
-    "tags": ["City", "History", "Nandi"],
+    "tags": [
+      "City",
+      "History",
+      "Nandi"
+    ],
     "story": "The temple that gave Malleswaram its name, originally built in a forest (Kadu).",
     "highlight": "Nandi Teertha (water from Nandi's mouth).",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kadu_Malleshwara_Temple.jpg",
@@ -2452,13 +3575,24 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Heart of Malleswaram.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Shivratri", "Kadalekai Parishe"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri",
+      "Kadalekai Parishe"
+    ],
     "moreDetails": {
       "history": "17th century Venkoji.",
       "architecture": "Dravidian.",
       "visitorNotes": "Visit Dakshinamukha Nandi nearby.",
-      "sources": [{ "label": "Malleswaram", "url": "https://en.wikipedia.org/wiki/Malleswaram", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Malleswaram",
+          "url": "https://en.wikipedia.org/wiki/Malleswaram",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2466,7 +3600,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Bengaluru",
     "region": "Bengaluru Urban district",
-    "tags": ["Ganga", "Inscription", "Bengaluru History"],
+    "tags": [
+      "Ganga",
+      "Inscription",
+      "Bengaluru History"
+    ],
     "story": "One of the oldest temples in Bengaluru (9th century), containing the first inscription mentioning 'Bengaluru'.",
     "highlight": "First 'Bengaluru' inscription.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Begur_Nageshwara_Temple.jpg",
@@ -2479,26 +3617,40 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Heritage site.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Shivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
     "moreDetails": {
       "history": "9th century Ganga.",
       "architecture": "Ganga style.",
       "visitorNotes": "Historical landmark.",
-      "sources": [{ "label": "Begur, Bangalore", "url": "https://en.wikipedia.org/wiki/Begur,_Bangalore", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Begur, Bangalore",
+          "url": "https://en.wikipedia.org/wiki/Begur,_Bangalore",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
-    "name": "Dhareshwara Temple",
+    "name": "Dhareshwar Temple",
     "state": "Karnataka",
     "city": "Kumta",
     "region": "Uttara Kannada district",
-    "tags": ["Pancha Kshetras", "Coastal", "Gokarna"],
+    "tags": [
+      "Pancha Kshetras",
+      "Coastal",
+      "Gokarna"
+    ],
     "story": "One of the five Atma Linga kshetras (along with Gokarna, Murudeshwar, etc.).",
     "highlight": "Part of the Pancha Kshetra circuit.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhareshwara_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2506,26 +3658,40 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Coastal drive.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Shivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
     "moreDetails": {
       "history": "Ancient legend.",
       "architecture": "Coastal style.",
       "visitorNotes": "Less crowded than Gokarna.",
-      "sources": [{ "label": "Kumta", "url": "https://en.wikipedia.org/wiki/Kumta", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Kumta",
+          "url": "https://en.wikipedia.org/wiki/Kumta",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
-    "name": "Gunavante Temple",
+    "name": "Gunavanteshwar Temple",
     "state": "Karnataka",
     "city": "Honnavar",
     "region": "Uttara Kannada district",
-    "tags": ["Pancha Kshetras", "Coastal", "Heritage"],
+    "tags": [
+      "Pancha Kshetras",
+      "Coastal",
+      "Heritage"
+    ],
     "story": "Another of the five Atma Linga temples, where Ravana dropped a piece of the covering box.",
     "highlight": "Mythological significance.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gunavante_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2533,26 +3699,40 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Near Honnavar.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Shivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
     "moreDetails": {
       "history": "Ancient.",
       "architecture": "Coastal.",
       "visitorNotes": "Complete the circuit.",
-      "sources": [{ "label": "Honnavar", "url": "https://en.wikipedia.org/wiki/Honnavar", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Honnavar",
+          "url": "https://en.wikipedia.org/wiki/Honnavar",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
-    "name": "Shejjeshwar Temple",
+    "name": "Sajjeshwar Temple",
     "state": "Karnataka",
     "city": "Karwar",
     "region": "Uttara Kannada district",
-    "tags": ["Pancha Kshetras", "Coastal", "Karwar"],
+    "tags": [
+      "Pancha Kshetras",
+      "Coastal",
+      "Karwar"
+    ],
     "story": "The final of the five Atma Linga kshetras, located near Karwar.",
     "highlight": "Coastal temple trail.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shejjeshwar_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2560,13 +3740,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Near Goa border.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Shivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Shivratri"
+    ],
     "moreDetails": {
       "history": "Ancient.",
       "architecture": "Coastal.",
       "visitorNotes": "Scenic location.",
-      "sources": [{ "label": "Karwar", "url": "https://en.wikipedia.org/wiki/Karwar", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Karwar",
+          "url": "https://en.wikipedia.org/wiki/Karwar",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2574,12 +3764,16 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Kundapura",
     "region": "Udupi district",
-    "tags": ["River Kubja", "Lingam", "Cave"],
+    "tags": [
+      "River Kubja",
+      "Lingam",
+      "Cave"
+    ],
     "story": "Located on the banks of River Kubja, where the Goddess is worshipped along with a special Linga.",
     "highlight": "Suparsha Cave nearby.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamalashile_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
     "deity": "Brahmi Durgaparameshwari/Shiva",
     "tradition": "Shakta/Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2587,13 +3781,23 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Visit the cave.",
-    "rituals": ["Salaam Pooja (Tipu Sultan)"],
-    "festivals": ["Navaratri"],
+    "rituals": [
+      "Salaam Pooja (Tipu Sultan)"
+    ],
+    "festivals": [
+      "Navaratri"
+    ],
     "moreDetails": {
       "history": "Ancient myth.",
       "architecture": "Kerala-Tulu.",
       "visitorNotes": "Unique cave experience.",
-      "sources": [{ "label": "Kamalashile", "url": "https://en.wikipedia.org/wiki/Kamalashile", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Kamalashile",
+          "url": "https://en.wikipedia.org/wiki/Kamalashile",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2601,7 +3805,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Mysuru",
     "region": "Mysuru district",
-    "tags": ["Mysore Palace", "Fort", "Heritage"],
+    "tags": [
+      "Mysore Palace",
+      "Fort",
+      "Heritage"
+    ],
     "story": "Located inside the Mysore Palace Fort, dedicated to the three-eyed Shiva.",
     "highlight": "Royal temple within the palace complex.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trinesvaraswamy_Temple_Mysore.jpg",
@@ -2614,13 +3822,24 @@ export const karnatakaTemples = [
     "timings": "Open daily.",
     "dressCode": "Traditional attire.",
     "entryNotes": "Inside Palace grounds.",
-    "rituals": ["Daily puja"],
-    "festivals": ["Dasara", "Shivratri"],
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Dasara",
+      "Shivratri"
+    ],
     "moreDetails": {
       "history": "Wodeyar patronage.",
       "architecture": "Dravidian.",
       "visitorNotes": "Combine with Palace tour.",
-      "sources": [{ "label": "Mysore Palace", "url": "https://en.wikipedia.org/wiki/Mysore_Palace", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Mysore Palace",
+          "url": "https://en.wikipedia.org/wiki/Mysore_Palace",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   },
   {
@@ -2628,7 +3847,11 @@ export const karnatakaTemples = [
     "state": "Karnataka",
     "city": "Chikkamagaluru",
     "region": "Chikkamagaluru district",
-    "tags": ["Highest Peak", "Trek", "View"],
+    "tags": [
+      "Highest Peak",
+      "Trek",
+      "View"
+    ],
     "story": "Perched on the highest peak in Karnataka, offering breathtaking views and spiritual solitude.",
     "highlight": "Highest temple in the state.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mullayanagiri_Shiva_Temple.jpg",
@@ -2641,13 +3864,21 @@ export const karnatakaTemples = [
     "timings": "Daylight hours.",
     "dressCode": "Casual/Warm clothing.",
     "entryNotes": "Drive + Steps.",
-    "rituals": ["Daily puja"],
+    "rituals": [
+      "Daily puja"
+    ],
     "festivals": [],
     "moreDetails": {
       "history": "Modern shrine on ancient spot.",
       "architecture": "Simple.",
       "visitorNotes": "Windy and cold.",
-      "sources": [{ "label": "Mullayanagiri", "url": "https://en.wikipedia.org/wiki/Mullayanagiri", "type": "Encyclopedia" }]
+      "sources": [
+        {
+          "label": "Mullayanagiri",
+          "url": "https://en.wikipedia.org/wiki/Mullayanagiri",
+          "type": "Encyclopedia"
+        }
+      ]
     }
   }
 ];

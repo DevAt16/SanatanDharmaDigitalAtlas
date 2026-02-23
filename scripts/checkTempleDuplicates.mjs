@@ -29,6 +29,7 @@ for (const fileName of files) {
         index: index + 1,
         name: temple.name || 'Unknown',
         city: temple.city || 'Unknown',
+        district: temple.district || 'Unknown',
         state: temple.state || 'Unknown',
       }
 
@@ -48,7 +49,9 @@ for (const fileName of files) {
 
     for (const records of looseMap.values()) {
       if (records.length <= 1) continue
-      const uniqueStrict = new Set(records.map((r) => `${r.name}|${r.city}|${r.state}`))
+      const uniqueStrict = new Set(
+        records.map((r) => `${r.name}|${r.city}|${r.district}|${r.state}`)
+      )
       if (uniqueStrict.size > 1) looseWarnings.push(records)
     }
   }
@@ -62,7 +65,7 @@ if (strictIssues.length === 0) {
     console.log(`\n[Strict ${groupIndex + 1}]`)
     group.forEach((record) => {
       console.log(
-        `- ${record.name} | ${record.city}, ${record.state} (${record.file} -> ${record.exportName}[${record.index}])`
+        `- ${record.name} | ${record.city}, ${record.district}, ${record.state} (${record.file} -> ${record.exportName}[${record.index}])`
       )
     })
   })
@@ -74,7 +77,7 @@ if (looseWarnings.length) {
     console.log(`\n[Loose ${groupIndex + 1}]`)
     group.forEach((record) => {
       console.log(
-        `- ${record.name} | ${record.city}, ${record.state} (${record.file} -> ${record.exportName}[${record.index}])`
+        `- ${record.name} | ${record.city}, ${record.district}, ${record.state} (${record.file} -> ${record.exportName}[${record.index}])`
       )
     })
   })

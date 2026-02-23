@@ -23,6 +23,20 @@ export const normalizeText = (value) =>
     .trim()
     .replace(/\s+/g, ' ')
 
+const parseDistrictFromRegion = (region) => {
+  const text = String(region ?? '')
+  if (!text) return ''
+  const match = text.match(/([A-Za-z .'-]+?)\s+district\b/i)
+  if (!match || !match[1]) return ''
+  return normalizeText(match[1])
+}
+
+export const resolveDistrict = (temple) =>
+  normalizeText(temple?.district) || parseDistrictFromRegion(temple?.region)
+
+const resolveLocality = (temple) =>
+  normalizeText(temple?.city || temple?.town || temple?.village)
+
 const normalizeTempleToken = (token) => {
   let next = token
   next = next.replace(/^onkaresh/, 'omkaresh')
@@ -47,14 +61,16 @@ export const buildStrictKey = (temple) =>
   [
     normalizeText(temple?.name),
     normalizeText(temple?.state),
-    normalizeText(temple?.city),
+    resolveDistrict(temple),
+    resolveLocality(temple),
   ].join('|')
 
 export const buildLooseKey = (temple) =>
   [
     normalizeNameLoose(temple?.name),
     normalizeText(temple?.state),
-    normalizeText(temple?.city),
+    resolveDistrict(temple),
+    resolveLocality(temple),
   ].join('|')
 
 export const loadModule = async (absolutePath) => {

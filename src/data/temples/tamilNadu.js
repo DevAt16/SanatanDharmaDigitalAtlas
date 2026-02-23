@@ -6985,5 +6985,1552 @@ export const tamilNaduTemples = [
     "festivals": [
       "Mahashivratri"
     ]
+  },
+  {
+    "name": "Sri Brihadeeswarar Temple (The Big Temple - the absolute macro-center)",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur city, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Brihadeeswarar",
+      "UNESCO"
+    ],
+    "story": "Sri Brihadeeswarar Temple (The Big Temple - the absolute macro-center) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brihadeeswarar_Temple_03.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Brihadeeswarar_Temple_03.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Sri Brihadeeswarar Temple (The Big Temple - the absolute macro-center) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sri%20Brihadeeswarar%20Temple%20(The%20Big%20Temple%20-%20the%20absolute%20macro-center)%20Thanjavur%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Airavatesvara Temple (Darasuram)",
+    "state": "Tamil Nadu",
+    "city": "Darasuram",
+    "region": "Darasuram, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Darasuram",
+      "Airavatesvara"
+    ],
+    "story": "Airavatesvara Temple (Darasuram) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Darasuram.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/12th_century_Airavatesvara_Temple_at_Darasuram,_dedicated_to_Shiva,_built_by_the_Chola_king_Rajaraja_II_Tamil_Nadu_India_(5).jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:12th_century_Airavatesvara_Temple_at_Darasuram,_dedicated_to_Shiva,_built_by_the_Chola_king_Rajaraja_II_Tamil_Nadu_India_(5).jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Airavatesvara Temple (Darasuram) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Airavatesvara%20Temple%20(Darasuram)%20Darasuram%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Aiyarappar Temple (Thiruvaiyaru)",
+    "state": "Tamil Nadu",
+    "city": "Thiruvaiyaru",
+    "region": "Thiruvaiyaru, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Thiruvaiyaru",
+      "Aiyarappar"
+    ],
+    "story": "Aiyarappar Temple (Thiruvaiyaru) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Thiruvaiyaru.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aiyarappar_koyil_in_Thiruvaiyaru.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Aiyarappar_koyil_in_Thiruvaiyaru.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Aiyarappar Temple (Thiruvaiyaru) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Aiyarappar%20Temple%20(Thiruvaiyaru)%20Thiruvaiyaru%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Kampaheswarar Temple (Thirubuvanam)",
+    "state": "Tamil Nadu",
+    "city": "Thirubuvanam",
+    "region": "Thirubuvanam, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Thirubuvanam",
+      "Kampaheswarar"
+    ],
+    "story": "Kampaheswarar Temple (Thirubuvanam) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Thirubuvanam.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kampaheswarar_Temple.JPG",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kampaheswarar_Temple.JPG",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kampaheswarar Temple (Thirubuvanam) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kampaheswarar%20Temple%20(Thirubuvanam)%20Thirubuvanam%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Mahalingeswarar Temple (Thiruvidaimarudur)",
+    "state": "Tamil Nadu",
+    "city": "Thiruvidaimarudur",
+    "region": "Thiruvidaimarudur, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Thiruvidaimarudur",
+      "Mahalingeswarar"
+    ],
+    "story": "Mahalingeswarar Temple (Thiruvidaimarudur) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Thiruvidaimarudur.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thiruvidaimarudur1.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Thiruvidaimarudur1.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Mahalingeswarar Temple (Thiruvidaimarudur) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahalingeswarar%20Temple%20(Thiruvidaimarudur)%20Thiruvidaimarudur%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Nageshwaraswamy Temple (Kumbakonam)",
+    "state": "Tamil Nadu",
+    "city": "Kumbakonam",
+    "region": "Kumbakonam, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Kumbakonam",
+      "Nageshwaraswamy"
+    ],
+    "story": "Nageshwaraswamy Temple (Kumbakonam) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Kumbakonam.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Nageshwaraswamy Temple (Kumbakonam) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nageshwaraswamy%20Temple%20(Kumbakonam)%20Kumbakonam%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Adi Kumbeswarar Temple (Kumbakonam)",
+    "state": "Tamil Nadu",
+    "city": "Kumbakonam",
+    "region": "Kumbakonam, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Kumbakonam",
+      "Adi Kumbeswarar"
+    ],
+    "story": "Adi Kumbeswarar Temple (Kumbakonam) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Kumbakonam.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adi_Kumbeswarar_Temple,_Kumbakonam_ttkcvrvb122k23iph_(163).jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Adi_Kumbeswarar_Temple,_Kumbakonam_ttkcvrvb122k23iph_(163).jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Adi Kumbeswarar Temple (Kumbakonam) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Adi%20Kumbeswarar%20Temple%20(Kumbakonam)%20Kumbakonam%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Apatsahayeswarar Temple (Alangudi)",
+    "state": "Tamil Nadu",
+    "city": "Alangudi",
+    "region": "Alangudi, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Alangudi",
+      "Apatsahayeswarar"
+    ],
+    "story": "Apatsahayeswarar Temple (Alangudi) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Alangudi.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Apatsahayeswarar Temple (Alangudi) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Apatsahayeswarar%20Temple%20(Alangudi)%20Alangudi%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Agniswarar Temple (Kanjanur)",
+    "state": "Tamil Nadu",
+    "city": "Kanjanur",
+    "region": "Kanjanur, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Kanjanur",
+      "Agniswarar"
+    ],
+    "story": "Agniswarar Temple (Kanjanur) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Kanjanur.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanjanur_Sukkiran_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kanjanur_Sukkiran_Temple.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Agniswarar Temple (Kanjanur) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Agniswarar%20Temple%20(Kanjanur)%20Kanjanur%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Patteeshwarar Temple (Patteeswaram)",
+    "state": "Tamil Nadu",
+    "city": "Patteeswaram",
+    "region": "Patteeswaram, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Patteeswaram",
+      "Patteeshwarar"
+    ],
+    "story": "Patteeshwarar Temple (Patteeswaram) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Patteeswaram.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Patteeshwarar Temple (Patteeswaram) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Patteeshwarar%20Temple%20(Patteeswaram)%20Patteeswaram%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Garbharakshambigai Temple (Thirukarukavur)",
+    "state": "Tamil Nadu",
+    "city": "Thirukarukavur",
+    "region": "Thirukarukavur, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Thirukarukavur",
+      "Garbharakshambigai"
+    ],
+    "story": "Garbharakshambigai Temple (Thirukarukavur) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Thirukarukavur.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Garbharakshambigai Temple (Thirukarukavur) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Garbharakshambigai%20Temple%20(Thirukarukavur)%20Thirukarukavur%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Vasishteswarar Temple (Thittai)",
+    "state": "Tamil Nadu",
+    "city": "Thittai",
+    "region": "Thittai, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Thittai",
+      "Vasishteswarar"
+    ],
+    "story": "Vasishteswarar Temple (Thittai) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Thittai.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thittai1.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Thittai1.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Vasishteswarar Temple (Thittai) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Vasishteswarar%20Temple%20(Thittai)%20Thittai%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Sakshinatheswarar Temple (Thiruppurambiyam)",
+    "state": "Tamil Nadu",
+    "city": "Thiruppurambiyam",
+    "region": "Thiruppurambiyam, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Thiruppurambiyam",
+      "Sakshinatheswarar"
+    ],
+    "story": "Sakshinatheswarar Temple (Thiruppurambiyam) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Thiruppurambiyam.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sakshinathar_temple_Thirupurambiyam_(1)_02.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sakshinathar_temple_Thirupurambiyam_(1)_02.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Sakshinatheswarar Temple (Thiruppurambiyam) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sakshinatheswarar%20Temple%20(Thiruppurambiyam)%20Thiruppurambiyam%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Kasi Viswanathar Temple (Kumbakonam)",
+    "state": "Tamil Nadu",
+    "city": "Kumbakonam",
+    "region": "Kumbakonam, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Kumbakonam",
+      "Kasi Viswanathar"
+    ],
+    "story": "Kasi Viswanathar Temple (Kumbakonam) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Kumbakonam.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kasi_Viswanathar_Temple,_Kumbakonam_ttkcvrvb122k23iph_(106).jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kasi_Viswanathar_Temple,_Kumbakonam_ttkcvrvb122k23iph_(106).jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kasi Viswanathar Temple (Kumbakonam) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kasi%20Viswanathar%20Temple%20(Kumbakonam)%20Kumbakonam%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Thanjapurishwarar Temple (Thanjavur City)",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "region": "Thanjavur city, Thanjavur district",
+    "tags": [
+      "Thanjavur",
+      "Thanjapurishwarar",
+      "Shiva"
+    ],
+    "story": "Thanjapurishwarar Temple (Thanjavur City) is a Shiva temple in the Thanjavur sacred landscape.",
+    "highlight": "Traditional Shiva worship at Thanjavur.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside temple areas.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Thanjapurishwarar Temple (Thanjavur City) is listed in the Thanjavur-region Shiva temple circuit of Tamil Nadu.",
+      "architecture": "Dravidian temple architecture with local variation.",
+      "visitorNotes": "Check local opening times before planning your visit.",
+      "sources": [
+        {
+          "label": "Thanjavur district",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Thanjapurishwarar%20Temple%20(Thanjavur%20City)%20Thanjavur%20Tamil%20Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Thanjavur",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Sri Meenakshi Sundareswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Madurai",
+    "region": "Madurai city, Madurai district",
+    "tags": [
+      "Madurai",
+      "Pancha Sabhai",
+      "Sundareswarar",
+      "Meenakshi",
+      "Nataraja",
+      "Dravidian"
+    ],
+    "story": "The iconic temple of Madurai enshrines Shiva as Sundareswarar and Parvati as Meenakshi. The Velli Ambalam (Silver Hall) within the complex is one of the five Pancha Sabhai where Shiva performed his cosmic dance as Nataraja.",
+    "highlight": "The Velli Ambalam Nataraja shrine and the grand Sundareswarar sanctum at the heart of one of India's most magnificent Dravidian temple complexes.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madurai_Meenakshi_Amman_Temple_from_top.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Madurai_Meenakshi_Amman_Temple_from_top.jpg",
+    "deity": "Shiva (Sundareswarar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March; Chithirai Festival in April–May.",
+    "timings": "5:00 AM - 12:30 PM, 4:00 PM - 9:30 PM.",
+    "dressCode": "Traditional attire; men must wear dhoti inside the sanctum.",
+    "entryNotes": "Non-Hindus may not be permitted into the main sanctum. Camera fees apply.",
+    "rituals": [
+      "Kala Puja",
+      "Abhishekam",
+      "Alankaram",
+      "Thiruvanandal"
+    ],
+    "festivals": [
+      "Chithirai Festival",
+      "Mahashivratri",
+      "Aadi Pooram",
+      "Navarathri"
+    ],
+    "moreDetails": {
+      "history": "One of the most ancient temples of Tamil Nadu, rebuilt in its present form primarily during the Nayak period (16th–17th centuries). The Velli Ambalam is counted among the Pancha Sabhai — five sacred halls of Shiva's cosmic dance.",
+      "architecture": "Exemplary Dravidian architecture with 14 gopurams, the tallest reaching 51.9 metres. The complex covers 6 hectares and houses over 33,000 sculptures.",
+      "visitorNotes": "One of the most visited pilgrimage sites in India. The Velli Ambalam Nataraja is a highlight within the complex.",
+      "festivals": "The Chithirai Festival celebrating the divine marriage of Meenakshi and Sundareswarar draws millions of devotees annually.",
+      "sources": [
+        {
+          "label": "Meenakshi Amman Temple",
+          "url": "https://en.wikipedia.org/wiki/Meenakshi_Amman_Temple",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Meenakshi+Sundareswarar+Temple+Madurai+Tamil+Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Madurai",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Immayilum Nanmai Tharuvar Temple",
+    "state": "Tamil Nadu",
+    "city": "Madurai",
+    "region": "Madurai city, Madurai district",
+    "tags": [
+      "Madurai",
+      "West-facing Shiva",
+      "Unique",
+      "Rare iconography"
+    ],
+    "story": "A structurally unique temple in Madurai where Shiva is depicted facing west — a rare and sacred orientation associated with liberation. This makes it a distinctive node in the Madurai Shiva pilgrimage circuit.",
+    "highlight": "The rare west-facing Shiva shrine, an unusual and auspicious iconographic arrangement found nowhere else in the Madurai sacred landscape.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Immayilum Nanmai Tharuvar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside the temple.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Pradosham"
+    ],
+    "moreDetails": {
+      "history": "A notable temple in the Madurai Shiva kshetra known for its unique west-facing icon of Shiva, considered highly auspicious in the Shaiva tradition.",
+      "architecture": "Traditional Dravidian style with a compact sanctum.",
+      "visitorNotes": "A lesser-known but spiritually significant site for devotees completing the Madurai Shiva temple circuit.",
+      "sources": [
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Immayilum+Nanmai+Tharuvar+Temple+Madurai+Tamil+Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Madurai",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Aadhi Sokkanathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Madurai",
+    "region": "Simmakkal, Madurai district",
+    "tags": [
+      "Madurai",
+      "Simmakkal",
+      "Sokkanathar"
+    ],
+    "story": "The Aadhi Sokkanathar Temple at Simmakkal is one of the Shiva shrines forming the sacred Madurai Shiva kshetra. Sokkanathar is a form of Shiva widely venerated across the Madurai region.",
+    "highlight": "An ancient Shiva shrine at Simmakkal, a key junction area in Madurai's sacred urban landscape.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Aadhi Sokkanathar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside the temple.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Panguni Uthiram"
+    ],
+    "moreDetails": {
+      "history": "Part of the ancient Shiva temple network in Madurai, centred on the Meenakshi Sundareswarar complex.",
+      "architecture": "Traditional Dravidian temple style.",
+      "visitorNotes": "Located at Simmakkal, easily accessible within Madurai city.",
+      "sources": [
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Aadhi+Sokkanathar+Temple+Simmakkal+Madurai+Tamil+Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Madurai",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Thiruvaappudaiyar Temple",
+    "state": "Tamil Nadu",
+    "city": "Madurai",
+    "region": "Sellur, Madurai district",
+    "tags": [
+      "Madurai",
+      "Sellur",
+      "Paadal Petra Sthalams",
+      "Tevaram"
+    ],
+    "story": "The Thiruvaappudaiyar Temple at Sellur is a Paadal Petra Sthalams — a temple glorified in the Tevaram hymns by the Nayanmars. Shiva is worshipped here as Thiruvaappudaiyar, and the shrine holds a place of honour in Madurai's sacred landscape.",
+    "highlight": "A Paadal Petra Sthalams glorified in the Tevaram, situated in the Sellur locality of Madurai.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Thiruvaappudaiyar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside the temple.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam",
+      "Tevaram recitation"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Skanda Sashti"
+    ],
+    "moreDetails": {
+      "history": "A Paadal Petra Sthalams of the Madurai region sung in the Tevaram, the sacred hymns of the Tamil Shaiva Nayanmars.",
+      "architecture": "Traditional Dravidian architecture with gopuram.",
+      "visitorNotes": "Located in the Sellur area of Madurai city.",
+      "sources": [
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Thiruvaappudaiyar+Temple+Sellur+Madurai+Tamil+Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Madurai",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Muktheeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Madurai",
+    "region": "Vandiyur Teppakulam, Madurai district",
+    "tags": [
+      "Madurai",
+      "Vandiyur",
+      "Teppakulam",
+      "Muktheeswarar"
+    ],
+    "story": "Located near the famous Vandiyur Mariamman Teppakulam tank, the Muktheeswarar Temple is a Shiva shrine that forms part of the sacred Madurai pilgrimage circuit. The tank is one of the largest in Tamil Nadu and is associated with the grand float festival.",
+    "highlight": "A Shiva shrine near the spectacular Vandiyur Teppakulam, one of Tamil Nadu's largest temple tanks.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Muktheeswarar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March; Thai Pongal float festival season.",
+    "timings": "Open daily; timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "The Vandiyur Teppakulam area is a major landmark; the temple is located nearby.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Teppam (Float Festival)"
+    ],
+    "moreDetails": {
+      "history": "A Shiva temple in the Vandiyur area, closely associated with the Vandiyur Teppakulam built by the Nayak rulers in the 17th century.",
+      "architecture": "Traditional Dravidian temple style.",
+      "visitorNotes": "Visit during the Thai float festival season for a spectacular experience at the nearby Teppakulam.",
+      "sources": [
+        {
+          "label": "Vandiyur Mariamman Teppakulam",
+          "url": "https://en.wikipedia.org/wiki/Vandiyur_Mariamman_Teppakulam",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Muktheeswarar+Temple+Vandiyur+Madurai+Tamil+Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Madurai",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Edaganathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thiruvedagam",
+    "region": "Thiruvedagam, Madurai district",
+    "tags": [
+      "Madurai",
+      "Paadal Petra Sthalams",
+      "Tevaram",
+      "Thiruvedagam"
+    ],
+    "story": "The Edaganathar Temple at Thiruvedagam is a Paadal Petra Sthalams glorified in the Tevaram hymns. Located on the outskirts of Madurai, it is one of the significant ancient Shiva temples of the region.",
+    "highlight": "An ancient Paadal Petra Sthalams on the Madurai Shiva circuit, sung in the Tevaram by the saint poets.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiruvedagam2.JPG",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Tiruvedagam2.JPG",
+    "deity": "Shiva (Edaganathar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Located at Thiruvedagam, a short distance from central Madurai.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam",
+      "Tevaram recitation"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Panguni Uthiram"
+    ],
+    "moreDetails": {
+      "history": "A Paadal Petra Sthalams of the Madurai region, glorified in the Tevaram hymns of the Nayanmars.",
+      "architecture": "Traditional Dravidian architecture.",
+      "visitorNotes": "Thiruvedagam is a village near Madurai accessible by road.",
+      "sources": [
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Edaganathar+Temple+Thiruvedagam+Madurai+Tamil+Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Madurai",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Thirumarainathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thiruvadavur",
+    "region": "Thiruvadavur, Madurai district",
+    "tags": [
+      "Madurai",
+      "Thiruvadavur",
+      "Manikkavacakar",
+      "Paadal Petra Sthalams"
+    ],
+    "story": "Thiruvadavur is the birthplace of the great saint-poet Manikkavacakar, author of the Thiruvasagam. The Thirumarainathar Temple here is a Paadal Petra Sthalams and holds deep significance for Shaiva devotees as the home shrine of one of the greatest Tamil Shiva bhaktas.",
+    "highlight": "Birthplace of saint Manikkavacakar, composer of the Thiruvasagam — one of the most sublime works of Tamil devotional literature.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiruvathavur_tirumarainathar_temple6.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Tiruvathavur_tirumarainathar_temple6.jpg",
+    "deity": "Shiva (Thirumarainathar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Located at Thiruvadavur, near Madurai.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam",
+      "Thiruvasagam recitation"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Manikkavacakar Jayanti"
+    ],
+    "moreDetails": {
+      "history": "Thiruvadavur is renowned as the birthplace of Manikkavacakar (9th century), the Pandya minister-turned-saint who composed the Thiruvasagam. The temple is a Paadal Petra Sthalams.",
+      "architecture": "Traditional Dravidian temple architecture.",
+      "visitorNotes": "A significant pilgrimage stop for devotees of Manikkavacakar on the Madurai Shiva circuit.",
+      "sources": [
+        {
+          "label": "Manikkavacakar",
+          "url": "https://en.wikipedia.org/wiki/Manikkavacakar",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Thirumarainathar+Temple+Thiruvadavur+Madurai+Tamil+Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Madurai",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Kasi Viswanathar Temple (Madurai City)",
+    "state": "Tamil Nadu",
+    "city": "Madurai",
+    "region": "Madurai city, Madurai district",
+    "tags": [
+      "Madurai",
+      "Kasi Viswanathar",
+      "Shiva"
+    ],
+    "story": "The Kasi Viswanathar Temple in Madurai city is a Shiva shrine bearing the sacred name of the presiding deity of Kashi (Varanasi). It forms part of the Madurai Shiva temple network and is a revered place of worship for city residents.",
+    "highlight": "A city-centre Shiva shrine linking Madurai's sacred geography to the holy city of Kashi through the name and form of Kasi Viswanathar.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Kasi Viswanathar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Footwear is not allowed inside the temple.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Pradosham"
+    ],
+    "moreDetails": {
+      "history": "A Shiva temple in Madurai city dedicated to Kasi Viswanathar, part of the extended Madurai Shiva pilgrimage circuit.",
+      "architecture": "Traditional Dravidian temple architecture.",
+      "visitorNotes": "Located within Madurai city, convenient for pilgrims visiting the Meenakshi Sundareswarar complex.",
+      "sources": [
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kasi+Viswanathar+Temple+Madurai+Tamil+Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Madurai",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Masi Veedhi Sokkanathar Temple",
+    "state": "Tamil Nadu",
+    "city": "Madurai",
+    "region": "Masi Street, Madurai district",
+    "tags": [
+      "Madurai",
+      "Masi Street",
+      "Sokkanathar"
+    ],
+    "story": "Located on the sacred Masi Veedhi (Masi Street) — one of the major circumambulatory streets encircling the Meenakshi Sundareswarar Temple — this Sokkanathar shrine is an integral part of Madurai's concentric sacred geography.",
+    "highlight": "A Shiva shrine on the sacred Masi Veedhi, the outermost circumambulatory road of the Madurai temple complex.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Sokkanathar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T17:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Located on Masi Street, one of the concentric circumambulatory roads around the Meenakshi Sundareswarar Temple.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Panguni Uthiram"
+    ],
+    "moreDetails": {
+      "history": "Masi Veedhi is the outermost sacred circumambulatory street of Madurai. The Sokkanathar shrine here forms part of the mandala of Shiva temples defining the sacred boundaries of the city.",
+      "architecture": "Traditional Dravidian shrine architecture.",
+      "visitorNotes": "Pilgrims performing pradakshina of the Meenakshi Sundareswarar Temple pass this shrine on the Masi Veedhi route.",
+      "sources": [
+        {
+          "label": "Meenakshi Amman Temple",
+          "url": "https://en.wikipedia.org/wiki/Meenakshi_Amman_Temple",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Masi+Veedhi+Sokkanathar+Temple+Madurai+Tamil+Nadu",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Madurai",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
+  },
+  {
+    "name": "Sri Ramanathaswamy Jyotirlinga (The macro-center)",
+    "state": "Tamil Nadu",
+    "city": "Rameswaram",
+    "region": "Rameswaram, Ramanathapuram district",
+    "tags": [
+      "Rameswaram",
+      "Jyotirlinga",
+      "Char Dham"
+    ],
+    "story": "Sri Ramanathaswamy Jyotirlinga (The macro-center) is a major Shiva temple node on Pamban Island.",
+    "highlight": "Iconic long pillared corridors and jyotirlinga worship traditions.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramanathaswamy_Temple_Rameswaram_(2).jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ramanathaswamy_Temple_Rameswaram_(2).jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T22:30:00+05:30",
+    "bestTime": "October to March; pre-dawn darshan is popular.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Traditional/modest attire recommended.",
+    "entryNotes": "Pilgrims often complete theertha snanam sequence before darshan.",
+    "rituals": [
+      "Mani darshanam",
+      "Theertha snanam",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Thirukalyanam"
+    ],
+    "moreDetails": {
+      "history": "Ramanathaswamy Temple is one of the most important Shaiva pilgrimage centers in southern India.",
+      "architecture": "Long pillared corridors, multiple theerthams, and layered mandapa architecture.",
+      "visitorNotes": "Check temple-specific darshan windows before travel planning.",
+      "sources": [
+        {
+          "label": "Rameswaram HRCE Temple",
+          "url": "https://rameswaram.hrce.tn.gov.in/",
+          "type": "Temple administration"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Ramanathaswamy%20Temple%20Rameswaram",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ramanathapuram",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T22:30:00+05:30"
+  },
+  {
+    "name": "Sri Viswanathar Sannidhi (The Kashi Lingam node, structurally distinct within the complex)",
+    "state": "Tamil Nadu",
+    "city": "Rameswaram",
+    "region": "Inside Ramanathaswamy Temple complex, Rameswaram",
+    "tags": [
+      "Rameswaram",
+      "Sannidhi",
+      "Kashi Lingam"
+    ],
+    "story": "Sri Viswanathar Sannidhi is a Shiva sub-shrine node within the wider Ramanathaswamy temple complex.",
+    "highlight": "A focused sannidhi darshan tradition linked with the larger Rameswaram pilgrimage circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T22:30:00+05:30",
+    "bestTime": "Early morning and non-peak darshan hours.",
+    "timings": "Follows Ramanathaswamy temple darshan schedule.",
+    "dressCode": "Traditional/modest attire recommended.",
+    "entryNotes": "This is an internal sannidhi; queue flow follows the main complex protocol.",
+    "rituals": [
+      "Daily puja",
+      "Archana"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Viswanathar worship is traditionally integrated into the Rameswaram ritual sequence.",
+      "architecture": "Sub-shrine architecture integrated with the larger corridor-based complex.",
+      "visitorNotes": "Confirm internal sannidhi access sequence at the temple counter.",
+      "sources": [
+        {
+          "label": "Rameswaram HRCE Temple",
+          "url": "https://rameswaram.hrce.tn.gov.in/",
+          "type": "Temple administration"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Ramanathaswamy%20Temple%20Rameswaram",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ramanathapuram",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T22:30:00+05:30"
+  },
+  {
+    "name": "Mangalanathaswamy Temple (Uthirakosamangai - an incredibly ancient, heavy-gravity Emerald Lingam node located just off the island)",
+    "state": "Tamil Nadu",
+    "city": "Uthirakosamangai",
+    "region": "Uthirakosamangai, Ramanathapuram district",
+    "tags": [
+      "Uthirakosamangai",
+      "Mangalanathaswamy",
+      "Emerald Lingam"
+    ],
+    "story": "Mangalanathaswamy Temple at Uthirakosamangai is an ancient Shaiva center known in regional tradition for emerald-linga worship connections.",
+    "highlight": "Historic Uthirakosamangai temple campus and strong local Shaiva ritual continuity.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uthirakosamangai_Temple_(1).jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Uthirakosamangai_Temple_(1).jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T22:30:00+05:30",
+    "bestTime": "October to February and major Shiva festival periods.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Festival schedules can change; verify locally on arrival.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Margazhi observances"
+    ],
+    "moreDetails": {
+      "history": "Uthirakosamangai is counted among historically significant Shiva worship centers in Ramanathapuram district.",
+      "architecture": "Dravidian temple layout with layered mandapas and sculptural program.",
+      "visitorNotes": "Plan for local transport as options may be limited late evening.",
+      "sources": [
+        {
+          "label": "Wikimedia Commons: Uthirakosamangai Temple",
+          "url": "https://commons.wikimedia.org/wiki/File:Uthirakosamangai_Temple_(1).jpg",
+          "type": "Image source"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Uthirakosamangai%20Temple",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ramanathapuram",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T22:30:00+05:30"
+  },
+  {
+    "name": "Adhi Ratneswarar Temple (Thiruvadanai)",
+    "state": "Tamil Nadu",
+    "city": "Thiruvadanai",
+    "region": "Thiruvadanai, Ramanathapuram district",
+    "tags": [
+      "Thiruvadanai",
+      "Adhi Ratneswarar",
+      "Shaiva"
+    ],
+    "story": "Adhi Ratneswarar Temple in Thiruvadanai is an established Shiva shrine in the Ramanathapuram sacred circuit.",
+    "highlight": "Traditional Shaiva worship at Thiruvadanai with a long-standing local temple lineage.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thiruvadanai_(1).jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Thiruvadanai_(1).jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T22:30:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Check local puja slots before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Thiruvadanai is known for its Shaiva temple heritage within Ramanathapuram district.",
+      "architecture": "Traditional Dravidian features with local stonework and mandapa elements.",
+      "visitorNotes": "Local guidance is useful for navigating temple timings and festival days.",
+      "sources": [
+        {
+          "label": "Wikimedia Commons: Thiruvadanai",
+          "url": "https://commons.wikimedia.org/wiki/File:Thiruvadanai_(1).jpg",
+          "type": "Image source"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Thiruvadanai%20Temple",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ramanathapuram",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T22:30:00+05:30"
+  },
+  {
+    "name": "Naganathaswamy Temple (Ramanathapuram)",
+    "state": "Tamil Nadu",
+    "city": "Nainarkoil",
+    "region": "Nainarkoil, Ramanathapuram district",
+    "tags": [
+      "Nainarkoil",
+      "Naganathaswamy",
+      "Shaiva"
+    ],
+    "story": "Naganathaswamy Temple is a Shiva worship center in Ramanathapuram district, commonly associated with Nainarkoil.",
+    "highlight": "Regional Shaiva worship traditions with festival processional heritage.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%AE%A8%E0%AE%BE%E0%AE%95%E0%AE%A8%E0%AE%BE%E0%AE%A4_%E0%AE%9A%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%AE%E0%AE%BF_%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%95%E0%AE%BE%E0%AE%B3%E0%AF%88_%E0%AE%B5%E0%AE%BE%E0%AE%95%E0%AE%A9%E0%AE%AE%E0%AF%8D.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:%E0%AE%A8%E0%AE%BE%E0%AE%95%E0%AE%A8%E0%AE%BE%E0%AE%A4_%E0%AE%9A%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%AE%E0%AE%BF_%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%95%E0%AE%BE%E0%AE%B3%E0%AF%88_%E0%AE%B5%E0%AE%BE%E0%AE%95%E0%AE%A9%E0%AE%AE%E0%AF%8D.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T22:30:00+05:30",
+    "bestTime": "October to March and temple festival periods.",
+    "timings": "Open daily; timings vary by temple and season.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "The available Commons image is a documented temple vahana artifact from this shrine's festival context.",
+    "rituals": [
+      "Daily puja",
+      "Festival processions"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Nainarkoil is linked with Naganatha/Naganathaswamy worship traditions in Ramanathapuram district.",
+      "architecture": "Temple traditions include processional arts and ritual vehicles.",
+      "visitorNotes": "Verify local festival calendar for special darshan days.",
+      "sources": [
+        {
+          "label": "Wikimedia Commons file description (Naganatha Swamy Temple, Nainarkovil)",
+          "url": "https://commons.wikimedia.org/wiki/File:%E0%AE%A8%E0%AE%BE%E0%AE%95%E0%AE%A8%E0%AE%BE%E0%AE%A4_%E0%AE%9A%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%AE%E0%AE%BF_%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%95%E0%AE%BE%E0%AE%B3%E0%AF%88_%E0%AE%B5%E0%AE%BE%E0%AE%95%E0%AE%A9%E0%AE%AE%E0%AF%8D.jpg",
+          "type": "Image source"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nainarkoil%20Naganathaswamy%20Temple",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ramanathapuram",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T22:30:00+05:30"
+  },
+  {
+    "name": "Thiru Uthirakosamangai Cave Temple",
+    "state": "Tamil Nadu",
+    "city": "Uthirakosamangai",
+    "region": "Uthirakosamangai area, Ramanathapuram district",
+    "tags": [
+      "Uthirakosamangai",
+      "Cave Temple",
+      "Shaiva"
+    ],
+    "story": "Thiru Uthirakosamangai Cave Temple is a local Shiva cave-shrine node referenced within the broader Uthirakosamangai sacred landscape.",
+    "highlight": "Localized cave-shrine style worship associated with the Uthirakosamangai Shaiva area.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T22:30:00+05:30",
+    "bestTime": "October to March and Mahashivratri period.",
+    "timings": "Open daily; timings vary by local shrine practice.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Local route guidance is recommended as cave-shrine access can be less formalized.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "This entry captures a localized cave-temple worship node in the Uthirakosamangai circuit.",
+      "architecture": "Smaller-scale cave-shrine typology compared with major structural temples.",
+      "visitorNotes": "Confirm exact local access and timings before travel.",
+      "sources": [
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Uthirakosamangai%20Cave%20Temple",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ramanathapuram",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T22:30:00+05:30"
+  },
+  {
+    "name": "Spatika Lingam Sannidhi (A highly specific crystalline node inside the main corridor)",
+    "state": "Tamil Nadu",
+    "city": "Rameswaram",
+    "region": "Inside Ramanathaswamy Temple corridor zone, Rameswaram",
+    "tags": [
+      "Rameswaram",
+      "Spatika Lingam",
+      "Sannidhi"
+    ],
+    "story": "Spatika Lingam Sannidhi is a specific crystalline-lingam worship node in the Ramanathaswamy temple ritual environment.",
+    "highlight": "Focused sannidhi worship tied to early-morning abhishekam traditions.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T22:30:00+05:30",
+    "bestTime": "Early morning puja window.",
+    "timings": "Follows Ramanathaswamy temple darshan schedule.",
+    "dressCode": "Traditional/modest attire recommended.",
+    "entryNotes": "This is an internal sannidhi; access sequence follows the main temple protocol.",
+    "rituals": [
+      "Spatika linga abhishekam",
+      "Archana"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Spatika-lingam worship is preserved within select Shaiva ritual contexts at major temple complexes.",
+      "architecture": "Internal sannidhi setting integrated into corridor-led movement patterns.",
+      "visitorNotes": "Confirm current abhishekam ticketing/queue details locally.",
+      "sources": [
+        {
+          "label": "Rameswaram HRCE Temple",
+          "url": "https://rameswaram.hrce.tn.gov.in/",
+          "type": "Temple administration"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Ramanathaswamy%20Temple%20Rameswaram",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ramanathapuram",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T22:30:00+05:30"
   }
-]
+];

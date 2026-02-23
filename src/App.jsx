@@ -85,6 +85,19 @@ const PAGE_TRACKING_TITLES = {
   recent: 'Recent Discoveries',
   about: 'About',
 }
+const DEFAULT_PAGE = 'temples'
+const normalizeRoutePath = (pathname = '/') => {
+  const normalized = String(pathname || '').replace(/\/+$/, '')
+  return normalized || '/'
+}
+const resolvePageFromPath = (pathname = '/') => {
+  const normalized = normalizeRoutePath(pathname)
+  if (normalized === '/') return DEFAULT_PAGE
+  const match = Object.entries(PAGE_TRACKING_PATHS).find(
+    ([, routePath]) => normalized === routePath || normalized.startsWith(`${routePath}/`)
+  )
+  return match ? match[0] : DEFAULT_PAGE
+}
 const API_MODE_ENABLED = String(import.meta.env.VITE_USE_TEMPLE_API || '').toLowerCase() === 'true'
 const API_BASE_URL = String(import.meta.env.VITE_TEMPLE_API_BASE_URL || 'http://127.0.0.1:8787').replace(
   /\/$/,
@@ -171,6 +184,8 @@ const copy = {
       stateLabel: 'State',
       cityLabel: 'City',
       storyStateLabel: 'Story section state',
+      showStoryStateFilter: 'Story-state filter',
+      hideStoryStateFilter: 'Hide story-state filter',
       deityLabel: 'Deity',
       traditionLabel: 'Tradition',
       festivalLabel: 'Festival',
@@ -590,12 +605,15 @@ const copy = {
 
 function App() {
   const [language, _setLanguage] = useState('en')
-  const [activePage, setActivePage] = useState('temples')
+  const [activePage, setActivePage] = useState(() =>
+    typeof window !== 'undefined' ? resolvePageFromPath(window.location.pathname) : DEFAULT_PAGE
+  )
   const [selectedState, setSelectedState] = useState(ALL_STATES)
   const [selectedCity, setSelectedCity] = useState(ALL_CITIES)
   const [searchTerm, setSearchTerm] = useState('')
   const [editorJourneyFilter, setEditorJourneyFilter] = useState('')
   const [storyState, setStoryState] = useState(ALL_STATES)
+  const [showStoryFilter, setShowStoryFilter] = useState(false)
   const [stateFilterSource, setStateFilterSource] = useState('dropdown')
   const [mode, _setMode] = useState(MODES.SHIVA)
   const [currentPage, setCurrentPage] = useState(1)
@@ -604,6 +622,8 @@ function App() {
   const [newlyAddedPage, setNewlyAddedPage] = useState(1)
   const [activeTemple, setActiveTemple] = useState(null)
   const storyModalRef = useRef(null)
+  const storyCloseButtonRef = useRef(null)
+  const lastFocusedElementRef = useRef(null)
   const hasTrackedInitialPage = useRef(false)
   const [modalImageSrc, setModalImageSrc] = useState('')
   const [isPortraitImage, setIsPortraitImage] = useState(false)
@@ -856,22 +876,82 @@ function App() {
   }, [activePage])
 
   useEffect(() => {
+    if (typeof window === 'undefined') return undefined
+
+    const handlePopState = () => {
+      setActivePage(resolvePageFromPath(window.location.pathname))
+      setActiveTemple(null)
+    }
+
+    window.addEventListener('popstate', handlePopState)
+    return () => window.removeEventListener('popstate', handlePopState)
+  }, [])
+
+  useEffect(() => {
     if (!activeTemple) {
       return undefined
+    }
+
+    if (typeof document !== 'undefined') {
+      lastFocusedElementRef.current = document.activeElement
     }
 
     const handleKeyDown = (event) => {
       if (event.key === 'Escape') {
         setActiveTemple(null)
+        return
+      }
+      if (event.key !== 'Tab' || !storyModalRef.current) {
+        return
+      }
+
+      const focusableElements = Array.from(
+        storyModalRef.current.querySelectorAll(
+          'a[href], button:not([disabled]), textarea:not([disabled]), input:not([disabled]), select:not([disabled]), [tabindex]:not([tabindex="-1"])'
+        )
+      ).filter(
+        (element) =>
+          element instanceof HTMLElement && element.getAttribute('aria-hidden') !== 'true'
+      )
+
+      if (!focusableElements.length) {
+        event.preventDefault()
+        storyModalRef.current.focus()
+        return
+      }
+
+      const firstElement = focusableElements[0]
+      const lastElement = focusableElements[focusableElements.length - 1]
+      const activeElement = document.activeElement
+
+      if (event.shiftKey) {
+        if (activeElement === firstElement || !storyModalRef.current.contains(activeElement)) {
+          event.preventDefault()
+          lastElement.focus()
+        }
+        return
+      }
+
+      if (activeElement === lastElement) {
+        event.preventDefault()
+        firstElement.focus()
       }
     }
 
     document.addEventListener('keydown', handleKeyDown)
     document.body.style.overflow = 'hidden'
+    window.requestAnimationFrame(() => {
+      storyCloseButtonRef.current?.focus()
+    })
 
     return () => {
       document.removeEventListener('keydown', handleKeyDown)
       document.body.style.overflow = ''
+      const previousFocus = lastFocusedElementRef.current
+      if (previousFocus && typeof previousFocus.focus === 'function') {
+        previousFocus.focus()
+      }
+      lastFocusedElementRef.current = null
     }
   }, [activeTemple])
 
@@ -1518,9 +1598,15 @@ function App() {
   }
 
   const switchPage = (page) => {
-    setActivePage(page)
+    const nextPage = PAGE_TRACKING_PATHS[page] ? page : DEFAULT_PAGE
+    setActivePage(nextPage)
     setActiveTemple(null)
     if (typeof window !== 'undefined') {
+      const nextPath = PAGE_TRACKING_PATHS[nextPage] || PAGE_TRACKING_PATHS[DEFAULT_PAGE]
+      const currentPath = normalizeRoutePath(window.location.pathname)
+      if (currentPath !== nextPath) {
+        window.history.pushState({ page: nextPage }, '', nextPath)
+      }
       window.scrollTo({ top: 0, behavior: 'smooth' })
     }
   }
@@ -1562,6 +1648,7 @@ function App() {
     handleStateChange(ALL_STATES, 'dropdown')
     handleCityChange(ALL_CITIES)
     setStoryState(ALL_STATES)
+    setShowStoryFilter(false)
     setEditorJourneyFilter('')
     setSearchTerm('')
     setCurrentPage(1)
@@ -1769,6 +1856,7 @@ function App() {
             <button
               className={`top-nav-link ${activePage === 'temples' ? 'active' : ''}`}
               type="button"
+              aria-current={activePage === 'temples' ? 'page' : undefined}
               onClick={() => switchPage('temples')}
             >
               {t.nav.temples}
@@ -1776,6 +1864,7 @@ function App() {
             <button
               className={`top-nav-link ${activePage === 'recent' ? 'active' : ''}`}
               type="button"
+              aria-current={activePage === 'recent' ? 'page' : undefined}
               onClick={() => switchPage('recent')}
             >
               {t.nav.recent}
@@ -1783,6 +1872,7 @@ function App() {
             <button
               className={`top-nav-link ${activePage === 'about' ? 'active' : ''}`}
               type="button"
+              aria-current={activePage === 'about' ? 'page' : undefined}
               onClick={() => switchPage('about')}
             >
               {t.nav.about}
@@ -2111,22 +2201,36 @@ function App() {
                   />
                 </label>
 
-                <label className="input-group" htmlFor="story-state">
-                  <span className="sr-only">{t.panel.storyStateLabel}</span>
-                  <select
-                    id="story-state"
-                    value={storyState}
-                    onChange={(event) => handleStoryStateChange(event.target.value)}
-                    aria-label={t.panel.storyStateLabel}
-                  >
-                    {[ALL_STATES, ...activeStates].map((state) => (
-                      <option key={state} value={state}>
-                        {state === ALL_STATES ? t.labels.allStates : state}
-                      </option>
-                    ))}
-                  </select>
-                  <i className="fa-solid fa-chevron-down input-icon" aria-hidden="true" />
-                </label>
+                <button
+                  className="ghost story-filter-toggle"
+                  type="button"
+                  aria-expanded={showStoryFilter}
+                  aria-controls="story-state-controls"
+                  onClick={() => setShowStoryFilter((previousValue) => !previousValue)}
+                >
+                  {showStoryFilter
+                    ? t.panel.hideStoryStateFilter || 'Hide story-state filter'
+                    : t.panel.showStoryStateFilter || 'Story-state filter'}
+                </button>
+
+                {showStoryFilter ? (
+                  <label className="input-group" htmlFor="story-state" id="story-state-controls">
+                    <span className="sr-only">{t.panel.storyStateLabel}</span>
+                    <select
+                      id="story-state"
+                      value={storyState}
+                      onChange={(event) => handleStoryStateChange(event.target.value)}
+                      aria-label={t.panel.storyStateLabel}
+                    >
+                      {[ALL_STATES, ...activeStates].map((state) => (
+                        <option key={state} value={state}>
+                          {state === ALL_STATES ? t.labels.allStates : state}
+                        </option>
+                      ))}
+                    </select>
+                    <i className="fa-solid fa-chevron-down input-icon" aria-hidden="true" />
+                  </label>
+                ) : null}
 
                 <button
                   className="ghost hero-clear-btn"
@@ -2396,11 +2500,13 @@ function App() {
             role="dialog"
             aria-modal="true"
             aria-labelledby="story-title"
+            tabIndex={-1}
             onClick={(event) => event.stopPropagation()}
           >
             <button
               className="story-close"
               type="button"
+              ref={storyCloseButtonRef}
               onClick={() => setActiveTemple(null)}
               aria-label={t.modal.close}
             >

@@ -1,210 +1,5 @@
 export const uttarakhandTemples = [
   {
-    "name": "Kedarnath Temple",
-    "state": "Uttarakhand",
-    "city": "Kedarnath",
-    "region": "Rudraprayag district",
-    "tags": [
-      "Jyotirlinga",
-      "Panch Kedar",
-      "Char Dham",
-      "Himalayas"
-    ],
-    "story": "One of the twelve Jyotirlingas and the highest among them, located near the Mandakini river.",
-    "highlight": "Highest Jyotirlinga set amidst snow-capped peaks.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kedarnath_temple_Uttarakhand.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kedarnath_temple_Uttarakhand.jpg",
-    "deity": "Shiva (Kedareshwar)",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "May to June, September to October.",
-    "timings": "Open daily (May-Oct).",
-    "dressCode": "Warm clothing recommended.",
-    "entryNotes": "Accessible via trek or helicopter.",
-    "rituals": [
-      "Abhishekam",
-      "Aarti"
-    ],
-    "festivals": [
-      "Maha Shivaratri"
-    ],
-    "moreDetails": {
-      "history": "Pandava era legends.",
-      "architecture": "Katyuri style.",
-      "visitorNotes": "Requires medical fitness for trek.",
-      "sources": [
-        {
-          "label": "Kedarnath",
-          "url": "https://en.wikipedia.org/wiki/Kedarnath_Temple",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Tungnath Temple",
-    "state": "Uttarakhand",
-    "city": "Chopta",
-    "region": "Rudraprayag district",
-    "tags": [
-      "Panch Kedar",
-      "Highest Shiva Temple",
-      "Trek"
-    ],
-    "story": "The highest Shiva temple in the world, one of the Panch Kedars where Shiva's arms appeared.",
-    "highlight": "Highest Shiva temple in the world.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tungnath_temple_Rudrprayag.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Tungnath_temple_Rudrprayag.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "May to November.",
-    "timings": "Open daily.",
-    "dressCode": "Warm clothing.",
-    "entryNotes": "3.5 km trek from Chopta.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Shivratri"
-    ],
-    "moreDetails": {
-      "history": "Ancient Pandava legend.",
-      "architecture": "North Indian style.",
-      "visitorNotes": "Stunning views of Chandrashila peak.",
-      "sources": [
-        {
-          "label": "Tungnath",
-          "url": "https://en.wikipedia.org/wiki/Tungnath",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Rudranath Temple",
-    "state": "Uttarakhand",
-    "city": "Gopeshwar",
-    "region": "Chamoli district",
-    "tags": [
-      "Panch Kedar",
-      "Face of Shiva",
-      "Trek"
-    ],
-    "story": "The place where Shiva's face (mukha) appeared; involves a tough trek through alpine meadows.",
-    "highlight": "Worship of Shiva's face.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudranath_Temple.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Rudranath_Temple.jpg",
-    "deity": "Shiva (Rudranath)",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "May to October.",
-    "timings": "Open daily.",
-    "dressCode": "Trekking gear.",
-    "entryNotes": "Hard trek from Sagar village.",
-    "rituals": [
-      "Pitru Tarpan"
-    ],
-    "festivals": [
-      "Raksha Bandhan"
-    ],
-    "moreDetails": {
-      "history": "Pandava legend.",
-      "architecture": "Rock temple.",
-      "visitorNotes": "Known for Bugyals (meadows).",
-      "sources": [
-        {
-          "label": "Rudranath",
-          "url": "https://en.wikipedia.org/wiki/Rudranath",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Madhyamaheshwar Temple",
-    "state": "Uttarakhand",
-    "city": "Ukhimath",
-    "region": "Rudraprayag district",
-    "tags": [
-      "Panch Kedar",
-      "Navel of Shiva",
-      "Meadows"
-    ],
-    "story": "Where the navel (nabhi) of Shiva fell; surrounded by scenic meadows.",
-    "highlight": "Navel worship.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madhyamaheshwar_Temple.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Madhyamaheshwar_Temple.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "May to October.",
-    "timings": "Open daily.",
-    "dressCode": "Trekking gear.",
-    "entryNotes": "Trek from Ransi.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [],
-    "moreDetails": {
-      "history": "Pandava legend.",
-      "architecture": "North Indian style.",
-      "visitorNotes": "Beautiful view of Chaukhamba.",
-      "sources": [
-        {
-          "label": "Madhyamaheshwar",
-          "url": "https://en.wikipedia.org/wiki/Madhyamaheshwar",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Kalpeshwar Temple",
-    "state": "Uttarakhand",
-    "city": "Urgam Valley",
-    "region": "Chamoli district",
-    "tags": [
-      "Panch Kedar",
-      "Hair of Shiva",
-      "Year-round"
-    ],
-    "story": "The only Panch Kedar temple accessible throughout the year; Shiva's hair (jata) is worshipped here.",
-    "highlight": "Worship of Jata (Hair).",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalpeshwar_Temple.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kalpeshwar_Temple.jpg",
-    "deity": "Shiva (Jateshwar)",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Year-round.",
-    "timings": "Open daily.",
-    "dressCode": "Casual.",
-    "entryNotes": "Short walk from road head.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [
-      "Shivratri"
-    ],
-    "moreDetails": {
-      "history": "Pandava legend.",
-      "architecture": "Cave temple.",
-      "visitorNotes": "Scenic valley location.",
-      "sources": [
-        {
-          "label": "Kalpeshwar",
-          "url": "https://en.wikipedia.org/wiki/Kalpeshwar",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
     "name": "Bagnath Temple",
     "state": "Uttarakhand",
     "city": "Bageshwar",
@@ -500,9 +295,9 @@ export const uttarakhandTemples = [
     ],
     "story": "A cave temple where water naturally drips (tapak) on the Shiva Linga; associated with Dronacharya.",
     "highlight": "Dripping water on Linga.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tapkeshwar_Mahadev_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Tapkeshwar_Mahadev_Temple.jpg",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -624,9 +419,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Where Goddess Parvati performed penance to win Shiva, eating only Bel leaves.",
     "highlight": "Peaceful forest setting in city.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bilkeshwar_Mahadev_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bilkeshwar_Mahadev_Temple.jpg",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -646,47 +441,6 @@ export const uttarakhandTemples = [
         {
           "label": "Haridwar",
           "url": "https://en.wikipedia.org/wiki/Haridwar",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Gopinath Temple",
-    "state": "Uttarakhand",
-    "city": "Gopeshwar",
-    "region": "Chamoli district",
-    "tags": [
-      "Trident",
-      "Winter Seat",
-      "Himavat"
-    ],
-    "story": "Ancient temple housing a slightly bent trident believed to be thrown by Shiva at Kamadeva.",
-    "highlight": "Bent Trident.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gopinath_Temple_Gopeshwar.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gopinath_Temple_Gopeshwar.jpg",
-    "deity": "Shiva (Gopinath)",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Year-round.",
-    "timings": "Open daily.",
-    "dressCode": "Traditional.",
-    "entryNotes": "Winter seat of Rudranath.",
-    "rituals": [
-      "Winter puja for Rudranath"
-    ],
-    "festivals": [
-      "Shivratri"
-    ],
-    "moreDetails": {
-      "history": "9th-11th century.",
-      "architecture": "Nagara style.",
-      "visitorNotes": "Historical importance.",
-      "sources": [
-        {
-          "label": "Gopeshwar",
-          "url": "https://en.wikipedia.org/wiki/Gopeshwar",
           "type": "Encyclopedia"
         }
       ]
@@ -728,86 +482,6 @@ export const uttarakhandTemples = [
         {
           "label": "Triyuginarayan Temple",
           "url": "https://en.wikipedia.org/wiki/Triyuginarayan_Temple",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Vishwanath Temple, Guptkashi",
-    "state": "Uttarakhand",
-    "city": "Guptkashi",
-    "region": "Rudraprayag district",
-    "tags": [
-      "Pandava",
-      "Manikarnika",
-      "Confidential"
-    ],
-    "story": "Where Shiva hid from the Pandavas; famous for the Manikarnika Kund.",
-    "highlight": "Manikarnika Kund.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vishwanath_Temple_Guptkashi.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Vishwanath_Temple_Guptkashi.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Year-round.",
-    "timings": "Open daily.",
-    "dressCode": "Traditional.",
-    "entryNotes": "En route to Kedarnath.",
-    "rituals": [
-      "Daily puja"
-    ],
-    "festivals": [],
-    "moreDetails": {
-      "history": "Ancient.",
-      "architecture": "Nagara/Wood.",
-      "visitorNotes": "Stopover for Yatra.",
-      "sources": [
-        {
-          "label": "Guptkashi",
-          "url": "https://en.wikipedia.org/wiki/Guptkashi",
-          "type": "Encyclopedia"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Omkareshwar Temple, Ukhimath",
-    "state": "Uttarakhand",
-    "city": "Ukhimath",
-    "region": "Rudraprayag district",
-    "tags": [
-      "Winter Seat",
-      "Kedarnath",
-      "Usha"
-    ],
-    "story": "The winter seat of Lord Kedarnath and Madhyamaheshwar when the main temples are closed.",
-    "highlight": "Winter worship of Kedarnath.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Omkareshwar_Temple_Ukhimath.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Omkareshwar_Temple_Ukhimath.jpg",
-    "deity": "Shiva (Omkareshwar)",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Winter (for Kedarnath doli).",
-    "timings": "Open daily.",
-    "dressCode": "Traditional.",
-    "entryNotes": "Beautiful view of Himalayas.",
-    "rituals": [
-      "Winter puja"
-    ],
-    "festivals": [
-      "Maha Shivaratri"
-    ],
-    "moreDetails": {
-      "history": "Ancient.",
-      "architecture": "Nagara.",
-      "visitorNotes": "Vibrant during winter.",
-      "sources": [
-        {
-          "label": "Ukhimath",
-          "url": "https://en.wikipedia.org/wiki/Ukhimath",
           "type": "Encyclopedia"
         }
       ]
@@ -866,9 +540,9 @@ export const uttarakhandTemples = [
     ],
     "story": "A serene Shiva temple surrounded by dense forests, revered by locals.",
     "highlight": "Tranquil forest setting.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bindeshwar_Mahadev.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bindeshwar_Mahadev.jpg",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -948,9 +622,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Built by Raja Som Chand in the picturesque Someshwar valley.",
     "highlight": "Constructed by founder of Chand dynasty.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Someshwar_Mahadev.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Someshwar_Mahadev.jpg",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1072,9 +746,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Another major Golu Devta shrine located near the Sainik School, offering views of Bhimtal.",
     "highlight": "Scenic location and bells.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ghorakhal_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ghorakhal_Temple.jpg",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
     "deity": "Golu Devta (Shiva)",
     "tradition": "Folk/Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1111,9 +785,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Houses a massive Shiva Linga, believed to be increasing in size.",
     "highlight": "Huge Linga.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Moteshwar_Mahadev.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Moteshwar_Mahadev.jpg",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1152,9 +826,9 @@ export const uttarakhandTemples = [
     ],
     "story": "One of the temples claimed to be the Bhimashankar Jyotirlinga (located in the Dakini forests legend).",
     "highlight": "Jyotirlinga controversy site.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhimshankar_Kashipur.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhimshankar_Kashipur.jpg",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1275,9 +949,9 @@ export const uttarakhandTemples = [
     ],
     "story": "A revered shrine located on a hilltop near Satpuli, known for its tranquil atmosphere.",
     "highlight": "Hilltop solitude.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ekeshwar_Mahadev.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ekeshwar_Mahadev.jpg",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1316,9 +990,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Surrounded by thick deodar forests; where Demon Tarakasur meditated.",
     "highlight": "Dense forest and bell offerings.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tarkeshwar_Mahadev.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Tarkeshwar_Mahadev.jpg",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1398,9 +1072,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Located at a high altitude (2100m), offering majestic views of Nanda Devi and Panchachuli.",
     "highlight": "Trek and Snow views.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhwaj_Temple_Pithoragarh.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Dhwaj_Temple_Pithoragarh.jpg",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
     "deity": "Shiva/Jayanti",
     "tradition": "Shaiva/Shakta",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1437,9 +1111,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Known for a large Shivlinga and mentioned in the Skanda Purana.",
     "highlight": "Mythological importance.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thal_Kedar.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Thal_Kedar.jpg",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1478,9 +1152,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Believed to be built by Nakula and Sahadeva of the Pandavas.",
     "highlight": "Khajuraho-style architecture.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nakuleshwar_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nakuleshwar_Temple.jpg",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1519,9 +1193,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Built by Arjuna during the Pandava exile.",
     "highlight": "Pandava connection.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arjuneshwar_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Arjuneshwar_Temple.jpg",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1558,9 +1232,9 @@ export const uttarakhandTemples = [
     ],
     "story": "One of the many Nag (Snake) temples in the region, dedicated to Shiva as the lord of snakes.",
     "highlight": "Tea gardens and Himalayan view.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Berinag_Mandir.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Berinag_Mandir.jpg",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
     "deity": "Shiva (Nag Devta)",
     "tradition": "Shaiva/Naga",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1599,9 +1273,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Dedicated to the White Snake God (Dhauli Nag), offering protection to villagers.",
     "highlight": "Nag worship.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhaulinag_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Dhaulinag_Temple.jpg",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
     "deity": "Shiva (Nag)",
     "tradition": "Naga",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1640,9 +1314,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Another significant Nag temple, representing the hooded snake.",
     "highlight": "Snake cult heritage.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Temples_of_Uttarakhand.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Temples_of_Uttarakhand.jpg",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva (Nag)",
     "tradition": "Naga",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1681,9 +1355,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Dedicated to Vasuki Nag, the king of serpents who adorns Shiva's neck.",
     "highlight": "Vasuki worship.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bashukinag_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bashukinag_Temple.jpg",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva (Vasuki)",
     "tradition": "Naga",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1722,9 +1396,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Dedicated to the black cobra (Kaliya), subdued by Krishna but worshipped as Shiva's devotee.",
     "highlight": "Kaliya worship.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalinag_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kalinag_Temple.jpg",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
     "deity": "Shiva (Kaliya)",
     "tradition": "Naga",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1763,9 +1437,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Worship of the Pingala Nag, another major serpent deity in Kumaon.",
     "highlight": "Local Nag deity.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pingalnag_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Pingalnag_Temple.jpg",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva (Nag)",
     "tradition": "Naga",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1804,9 +1478,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Located where seven streams meet, associated with the Saptarishis.",
     "highlight": "Seven streams confluence.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sapteshwar_Mahadev.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sapteshwar_Mahadev.jpg",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1845,9 +1519,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Dedicated to a prince who became a folk deity after a tragic love story; worshipped as Shiva bhakt.",
     "highlight": "Folk legend.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gangnath_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gangnath_Temple.jpg",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
     "deity": "Gangnath (Shiva)",
     "tradition": "Folk",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1884,9 +1558,9 @@ export const uttarakhandTemples = [
     ],
     "story": "A small cave shrine dedicated to Shiva in the Ankeri forest.",
     "highlight": "Secluded cave.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ankeri_Mahadev.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ankeri_Mahadev.jpg",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -1964,9 +1638,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Located near the Ramganga river with a cascading waterfall nearby.",
     "highlight": "Riverside setting.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudreshwar_Mahadev_Almora.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Rudreshwar_Mahadev_Almora.jpg",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2046,9 +1720,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Located on a hilltop (Kurmanchal) where Vishnu's Kurma avatar appeared; dedicated to Shiva.",
     "highlight": "Panoramic views of Champawat.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kranteshwar_Mahadev.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kranteshwar_Mahadev.jpg",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2087,9 +1761,9 @@ export const uttarakhandTemples = [
     ],
     "story": "A cave temple discovered after a devotee had a vision; believed to be ancient.",
     "highlight": "Cave meditation.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patal_Rudreshwar.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Patal_Rudreshwar.jpg",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2292,9 +1966,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Where Sage Agastya meditated; famous for the annual fair and helicopter services to Kedarnath.",
     "highlight": "Sage Agastya's seat.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Agastyamuni_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Agastyamuni_Temple.jpg",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
     "deity": "Agastyeshwar (Shiva)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2333,9 +2007,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Where Rama offered lotus flowers to Shiva; childless couples stand vigil all night on Vaikunth Chaturdashi.",
     "highlight": "Standing vigil tradition.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamleshwar_Mahadev.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kamleshwar_Mahadev.jpg",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2415,9 +2089,9 @@ export const uttarakhandTemples = [
     ],
     "story": "The older Jageshwar temple located uphill, offering panoramic views of the Himalayas.",
     "highlight": "Precursor to main complex.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vridh_Jageshwar.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Vridh_Jageshwar.jpg",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2575,9 +2249,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Located south of Kedarnath temple, dedicated to Bhairava, the guardian of the valley during winter.",
     "highlight": "Guardian deity of Kedarnath.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhairavnath_Temple_Kedarnath.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhairavnath_Temple_Kedarnath.jpg",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
     "deity": "Bhairav (Shiva)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2656,9 +2330,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Dedicated to Haidakhan Babaji, considered a Mahavatar of Shiva; magnificent views of Nanda Devi.",
     "highlight": "Spiritual lineage.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Haidakhan_Babaji_Ashram_Ranikhet.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Haidakhan_Babaji_Ashram_Ranikhet.jpg",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
     "deity": "Haidakhan Babaji (Shiva)",
     "tradition": "Yogic",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2739,9 +2413,9 @@ export const uttarakhandTemples = [
     ],
     "story": "A natural limestone cave formation resembling a Shiva Linga, located on the Dehradun-Mussoorie road.",
     "highlight": "Natural cave linga.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prakateshwar_Mahadev.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Prakateshwar_Mahadev.jpg",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2780,9 +2454,9 @@ export const uttarakhandTemples = [
     ],
     "story": "Where Lakshman performed penance; historically significant for saints and sages.",
     "highlight": "Spiritual heritage.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tapovan_Rishikesh.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Tapovan_Rishikesh.jpg",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
     "deity": "Shiva/Rama",
     "tradition": "Smarta",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2819,9 +2493,9 @@ export const uttarakhandTemples = [
     ],
     "story": "A 13-storey temple on the banks of Ganga, housing shrines for many deities including Shiva.",
     "highlight": "13-storey structure.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tera_Manzil_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Tera_Manzil_Temple.jpg",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
     "deity": "All Deities (Shiva)",
     "tradition": "Smarta",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -2858,9 +2532,9 @@ export const uttarakhandTemples = [
     ],
     "story": "An ancient cave on the banks of Ganga where Sage Vashishta meditated; houses a Shiva Linga.",
     "highlight": "Ancient meditation cave.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vashishta_Gufa.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Vashishta_Gufa.jpg",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -3068,9 +2742,9 @@ export const uttarakhandTemples = [
     ],
     "story": "The only Rahu temple in North India; Shiva is worshipped here to appease Rahu.",
     "highlight": "Rare Rahu temple.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paithani_Rahu_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Paithani_Rahu_Temple.jpg",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
     "deity": "Rahu/Shiva",
     "tradition": "Shaiva/Jyotish",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -3109,9 +2783,9 @@ export const uttarakhandTemples = [
     ],
     "story": "A hilltop temple dedicated to Kal Bhairav (Shiva's fierce form), the guardian of the region.",
     "highlight": "Hilltop views.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhairav_Garhi_Lansdowne.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhairav_Garhi_Lansdowne.jpg",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
     "deity": "Kal Bhairav (Shiva)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -3148,9 +2822,9 @@ export const uttarakhandTemples = [
     ],
     "story": "A highly revered local temple known for its grand fair and panoramic Himalayan views.",
     "highlight": "Mostamanu Fair.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mostamanu_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Mostamanu_Temple.jpg",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
     "deity": "Mosta (Shiva)",
     "tradition": "Folk",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -3189,9 +2863,9 @@ export const uttarakhandTemples = [
     ],
     "story": "A powerful Shakti shrine located at 1400m altitude, with a Shiva temple nearby.",
     "highlight": "High altitude setting.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Haryali_Devi_Temple.jpg",
-    "credit": "Representative Image",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Haryali_Devi_Temple.jpg",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
     "deity": "Haryali Devi/Shiva",
     "tradition": "Shakta",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -4432,5 +4106,388 @@ export const uttarakhandTemples = [
     "creditUrl": "",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T23:10:00+05:30"
+  },
+  {
+    "name": "Shri Kedarnath Jyotirlinga Temple (The absolute macro-center; representing the hump)",
+    "state": "Uttarakhand",
+    "city": "Kedarnath",
+    "region": "Kedarnath valley, Rudraprayag district",
+    "tags": [
+      "Jyotirlinga",
+      "Panch Kedar",
+      "Kedarnath"
+    ],
+    "story": "Shri Kedarnath Jyotirlinga Temple is the principal Panch Kedar node, where Shiva is worshipped in the hump form.",
+    "highlight": "Primary Kedarnath sanctum and the central high-Himalaya Shaiva pilgrimage axis.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kedarnath_temple_Uttarakhand.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kedarnath_temple_Uttarakhand.jpg",
+    "deity": "Shiva (Kedareshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T23:55:00+05:30",
+    "bestTime": "May to June and September to October.",
+    "timings": "Seasonal opening; daily temple timings vary.",
+    "dressCode": "Warm and modest attire recommended.",
+    "entryNotes": "Trek and weather conditions affect access windows.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Kapat Opening Ceremony"
+    ],
+    "moreDetails": {
+      "history": "Kedarnath is one of the twelve jyotirlinga shrines and the foremost temple in the Panch Kedar tradition.",
+      "architecture": "Classical Himalayan stone temple style with a prominent sanctum and mandapa sequence.",
+      "visitorNotes": "High-altitude preparation and advance planning are strongly recommended.",
+      "sources": [
+        {
+          "label": "Kedarnath Temple",
+          "url": "https://en.wikipedia.org/wiki/Kedarnath_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tungnath Temple (The highest Shiva temple on the planet; representing the arms)",
+    "state": "Uttarakhand",
+    "city": "Chopta",
+    "region": "Tungnath ridge, Rudraprayag district",
+    "tags": [
+      "Panch Kedar",
+      "Tungnath",
+      "High Altitude"
+    ],
+    "story": "Tungnath is revered as the highest Shiva temple in the world and the Panch Kedar node where Shiva's arms are worshipped.",
+    "highlight": "High-altitude darshan above Chopta with a direct Panch Kedar lineage.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tungnath_-_Highest_Siva_Temple,_Rudraprayag.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Tungnath_-_Highest_Siva_Temple,_Rudraprayag.jpg",
+    "deity": "Shiva (Tungnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T23:55:00+05:30",
+    "bestTime": "May to November.",
+    "timings": "Seasonal opening; daily timings vary.",
+    "dressCode": "Warm trekking clothing recommended.",
+    "entryNotes": "Final approach requires a mountain trek from Chopta.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Tungnath is one of the five Panch Kedar temples linked with the Pandava legend cycle.",
+      "architecture": "Compact stone shrine architecture adapted to extreme elevation.",
+      "visitorNotes": "Check trail and weather conditions before departure.",
+      "sources": [
+        {
+          "label": "Tungnath",
+          "url": "https://en.wikipedia.org/wiki/Tungnath",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rudranath Temple (A highly remote node requiring a heavy trek; representing the face)",
+    "state": "Uttarakhand",
+    "city": "Gopeshwar",
+    "region": "Rudranath area, Chamoli district",
+    "tags": [
+      "Panch Kedar",
+      "Rudranath",
+      "Remote Trek"
+    ],
+    "story": "Rudranath is a remote Panch Kedar shrine where Shiva's face is worshipped after a demanding mountain trek.",
+    "highlight": "One of the toughest Panch Kedar approaches with a strong ascetic-pilgrimage character.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudranath_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Rudranath_Temple.jpg",
+    "deity": "Shiva (Rudranath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T23:55:00+05:30",
+    "bestTime": "May to October.",
+    "timings": "Seasonal opening; local timings vary.",
+    "dressCode": "Trekking gear and warm layers recommended.",
+    "entryNotes": "Long trekking routes require advance logistics and weather caution.",
+    "rituals": [
+      "Darshan",
+      "Pitru tarpan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Annual local mela"
+    ],
+    "moreDetails": {
+      "history": "Rudranath is one of the Panch Kedar temples associated with Shiva's mukha manifestation.",
+      "architecture": "Stone temple form embedded in alpine landscape.",
+      "visitorNotes": "Route conditions vary significantly by season and snowfall.",
+      "sources": [
+        {
+          "label": "Rudranath",
+          "url": "https://en.wikipedia.org/wiki/Rudranath",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Madhyamaheshwar Temple (Representing the navel)",
+    "state": "Uttarakhand",
+    "city": "Ransi",
+    "region": "Madhyamaheshwar valley, Rudraprayag district",
+    "tags": [
+      "Panch Kedar",
+      "Madhyamaheshwar",
+      "Navel Form"
+    ],
+    "story": "Madhyamaheshwar is the Panch Kedar shrine where Shiva's navel form is worshipped in a high meadow setting.",
+    "highlight": "Nabhi form worship with dramatic Himalayan backdrop and seasonal pilgrimage route.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madhyamaheshwar_Temple,_Uttarakhand.JPG",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Madhyamaheshwar_Temple,_Uttarakhand.JPG",
+    "deity": "Shiva (Madhyamaheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T23:55:00+05:30",
+    "bestTime": "May to October.",
+    "timings": "Seasonal opening; local timings vary.",
+    "dressCode": "Warm and trekking-suitable attire recommended.",
+    "entryNotes": "The final segment requires a steep trek.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Madhyamaheshwar is one of the core Panch Kedar nodes in the Kedarnath ritual geography.",
+      "architecture": "Himalayan stone-temple typology with small sacred precinct.",
+      "visitorNotes": "Carry essential supplies and verify route status before travel.",
+      "sources": [
+        {
+          "label": "Madhyamaheshwar",
+          "url": "https://en.wikipedia.org/wiki/Madhyamaheshwar",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalpeshwar Temple (Representing the matted locks; the only node in this circuit accessible year-round)",
+    "state": "Uttarakhand",
+    "city": "Urgam Valley",
+    "region": "Kalpeshwar, Chamoli district",
+    "tags": [
+      "Panch Kedar",
+      "Kalpeshwar",
+      "Year-round Access"
+    ],
+    "story": "Kalpeshwar is the Panch Kedar temple associated with Shiva's matted locks (jata) and is accessible throughout the year.",
+    "highlight": "Only year-round accessible Panch Kedar shrine.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalpeshwar_Mahadev,_Kalpnath_temple,_Panch_Kedar_Uttarakhand.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kalpeshwar_Mahadev,_Kalpnath_temple,_Panch_Kedar_Uttarakhand.jpg",
+    "deity": "Shiva (Kalpeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T23:55:00+05:30",
+    "bestTime": "Year-round; post-monsoon is especially comfortable.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire; warm layers in winter.",
+    "entryNotes": "Road and short walk access are generally available year-round.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan observances"
+    ],
+    "moreDetails": {
+      "history": "Kalpeshwar is traditionally identified as the Panch Kedar manifestation of Shiva's jata.",
+      "architecture": "Small cave-linked Himalayan shrine form.",
+      "visitorNotes": "Often combined with Urgam valley pilgrimage circuit visits.",
+      "sources": [
+        {
+          "label": "Kalpeshwar",
+          "url": "https://en.wikipedia.org/wiki/Kalpeshwar",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vishwanath Temple (Guptkashi - a massive foundational node before the final ascents)",
+    "state": "Uttarakhand",
+    "city": "Guptkashi",
+    "region": "Guptkashi, Rudraprayag district",
+    "tags": [
+      "Guptkashi",
+      "Vishwanath",
+      "Kedar Route"
+    ],
+    "story": "Vishwanath Temple in Guptkashi is a major foundational Shiva node for pilgrims before higher Kedarnath ascents.",
+    "highlight": "Primary Guptkashi Shiva halt in the pre-Kedarnath pilgrimage corridor.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Vishwanath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T23:55:00+05:30",
+    "bestTime": "April to June and September to November.",
+    "timings": "Open daily; timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Usually visited before moving toward higher-altitude Kedar sectors.",
+    "rituals": [
+      "Daily puja",
+      "Rudrabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Guptkashi is a longstanding Kedar-route settlement with important Shiva worship continuity.",
+      "architecture": "North Indian mandir style with regional Garhwal adaptations.",
+      "visitorNotes": "A practical staging point for altitude transition and logistics.",
+      "sources": [
+        {
+          "label": "Guptkashi",
+          "url": "https://en.wikipedia.org/wiki/Guptkashi",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Omkareshwar Temple (Ukhimath - the vital winter seat where the Kedarnath and Madhyamaheshwar energies are temporarily shifted)",
+    "state": "Uttarakhand",
+    "city": "Ukhimath",
+    "region": "Ukhimath, Rudraprayag district",
+    "tags": [
+      "Omkareshwar",
+      "Ukhimath",
+      "Winter Seat"
+    ],
+    "story": "Omkareshwar Temple at Ukhimath serves as the winter seat for Kedarnath and Madhyamaheshwar traditions when high-altitude temples close.",
+    "highlight": "Core winter-transfer worship node of the Kedarnath-Madhyamaheshwar lineage.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/005232023_Omkareshwar_temple,_Ukhimath_Uttarakhand_007.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:005232023_Omkareshwar_temple,_Ukhimath_Uttarakhand_007.jpg",
+    "deity": "Shiva (Omkareshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T23:55:00+05:30",
+    "bestTime": "Winter and shoulder seasons.",
+    "timings": "Open daily; timings vary.",
+    "dressCode": "Modest attire and warm layers in winter.",
+    "entryNotes": "Important during winter doli season when upper shrines are closed.",
+    "rituals": [
+      "Winter puja",
+      "Doli-associated rituals"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Seasonal doli ceremonies"
+    ],
+    "moreDetails": {
+      "history": "Ukhimath is the recognized winter worship center for multiple Kedar-linked deities.",
+      "architecture": "Traditional Himalayan temple form with regional stone and wood elements.",
+      "visitorNotes": "Winter visits provide direct access to seasonal ritual transitions.",
+      "sources": [
+        {
+          "label": "Ukhimath",
+          "url": "https://en.wikipedia.org/wiki/Ukhimath",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Makkumath Temple (The winter seat of Tungnath)",
+    "state": "Uttarakhand",
+    "city": "Makku",
+    "region": "Makku village, Rudraprayag district",
+    "tags": [
+      "Makkumath",
+      "Tungnath",
+      "Winter Seat"
+    ],
+    "story": "Makkumath Temple is the winter seat associated with Tungnath in the Panch Kedar seasonal worship cycle.",
+    "highlight": "Key winter-transfer node for Tungnath-linked worship continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T23:55:00+05:30",
+    "bestTime": "Winter and early spring.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire; warm clothing in winter.",
+    "entryNotes": "Local verification is advised for seasonal ritual dates.",
+    "rituals": [
+      "Winter puja",
+      "Doli rituals"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Makku village is traditionally linked with Tungnath's winter worship cycle.",
+      "architecture": "Village-temple Himalayan style.",
+      "visitorNotes": "Coordinate local transport and ritual schedule in advance.",
+      "sources": [
+        {
+          "label": "Chopta-Tungnath region",
+          "url": "https://en.wikipedia.org/wiki/Tungnath",
+          "type": "Regional reference"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gopinath Temple (Gopeshwar - an ancient node featuring a massive, unmovable metallic trident)",
+    "state": "Uttarakhand",
+    "city": "Gopeshwar",
+    "region": "Gopeshwar, Chamoli district",
+    "tags": [
+      "Gopinath",
+      "Gopeshwar",
+      "Trident"
+    ],
+    "story": "Gopinath Temple in Gopeshwar is an ancient Shiva node known for its large metallic trident tradition.",
+    "highlight": "Historic temple precinct with the famed giant trident feature.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gopinath_Temple,_Gopeshwar,_District_Chamoli.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gopinath_Temple,_Gopeshwar,_District_Chamoli.jpg",
+    "deity": "Shiva (Gopinath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T23:55:00+05:30",
+    "bestTime": "Year-round; post-monsoon and winter are popular.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Often combined with broader Chamoli Shaiva circuit visits.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Gopeshwar's Gopinath Temple is a major historical Shiva site in Chamoli district.",
+      "architecture": "Ancient Himalayan temple style with stone mandir form and associated sacred artifacts.",
+      "visitorNotes": "The trident is a key icon for pilgrims and heritage visitors.",
+      "sources": [
+        {
+          "label": "Gopeshwar",
+          "url": "https://en.wikipedia.org/wiki/Gopeshwar",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
   }
-]
+];

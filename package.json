@@ -14,6 +14,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "check:duplicates": "node scripts/checkTempleDuplicates.mjs",
+    "validate:state": "node scripts/validateTempleDataset.mjs",
+    "validate:mp": "node scripts/validateTempleDataset.mjs src/data/temples/madhyaPradesh.js madhyaPradeshTemples --shiva-only",
     "add:temples": "node scripts/addTemples.mjs",
     "store:export": "node scripts/exportTempleStore.mjs",
     "store:ingest": "node scripts/ingestTempleStore.mjs"
