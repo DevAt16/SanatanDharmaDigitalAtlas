@@ -295,7 +295,7 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-22T13:34:37Z"
   },
   {
-    "name": "Mamleshwar Temple",
+    "name": "Shri Mamleshwar Jyotirlinga (Amreshwar)",
     "state": "Madhya Pradesh",
     "city": "Omkareshwar",
     "region": "Southern Bank, Narmada River",
@@ -1739,7 +1739,7 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-22T13:34:37Z"
   },
   {
-    "name": "Gauri Somnath Temple (Omkareshwar)",
+    "name": "Gauri Somnath Temple",
     "state": "Madhya Pradesh",
     "city": "Omkareshwar",
     "region": "Mandhata Island, Khandwa District",
@@ -4714,5 +4714,360 @@ export const madhyaPradeshTemples = [
     "district": "Ujjain",
     "verificationStatus": "verified",
     "lastVerifiedAt": "2026-02-23T11:05:00Z"
+  },
+  {
+    "name": "Shri Omkareshwar Jyotirlinga (Omkar Mandhata)",
+    "state": "Madhya Pradesh",
+    "city": "Omkareshwar",
+    "region": "Mandhata Island, Narmada River",
+    "tags": [
+      "Jyotirlinga",
+      "Omkareshwar",
+      "Mandhata Island"
+    ],
+    "story": "One of the twelve jyotirlingas, this shrine anchors the Omkareshwar island pilgrimage on the Narmada.",
+    "highlight": "Main jyotirlinga darshan on Omkar Mandhata island.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0102621%20Omkareswar%20Jyothirlinga%20temple,%20Mandhata%20Madhya%20Pradesh%20005.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:0102621_Omkareswar_Jyothirlinga_temple,_Mandhata_Madhya_Pradesh_005.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T20:30:00+05:30",
+    "bestTime": "Early morning darshan and evening Narmada aarti.",
+    "timings": "Open daily; timings vary by season and festival queues.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Bridge access and queue management can vary on peak pilgrimage days.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month",
+      "Narmada Jayanti"
+    ],
+    "moreDetails": {
+      "history": "Omkareshwar is traditionally counted among the twelve jyotirlinga shrines and forms the core temple of Mandhata island.",
+      "architecture": "River-island temple complex with multi-level mandapa movement and ghat-linked access.",
+      "visitorNotes": "Many pilgrims combine this darshan with Mamleshwar on the southern bank.",
+      "sources": [
+        {
+          "label": "Khandwa district: Omkareshwar",
+          "url": "https://khandwa.nic.in/en/tourist-place/omkareshwar/",
+          "type": "Government tourism"
+        },
+        {
+          "label": "Commons file: Omkareswar Jyotirlinga temple",
+          "url": "https://commons.wikimedia.org/wiki/File:0102621_Omkareswar_Jyothirlinga_temple,_Mandhata_Madhya_Pradesh_005.jpg",
+          "type": "Image source"
+        }
+      ]
+    },
+    "district": "Khandwa",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T15:00:00Z"
+  },
+  {
+    "name": "Kedareshwar Temple",
+    "state": "Madhya Pradesh",
+    "city": "Omkareshwar",
+    "region": "Mandhata Island, Khandwa district",
+    "tags": [
+      "Omkareshwar",
+      "Mandhata Island",
+      "Kedareshwar"
+    ],
+    "story": "A Shiva shrine in the Omkareshwar temple circuit on Mandhata island.",
+    "highlight": "Part of the inner Omkareshwar island darshan route.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kedareswar%20Temple,%20Omkareswar%20Madhya%20Pradesh%20068.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kedareswar_Temple,_Omkareswar_Madhya_Pradesh_068.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T20:30:00+05:30",
+    "bestTime": "Morning hours during the island parikrama.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Often visited with Gauri Somnath and Siddhanath in one circuit.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Kedareshwar is one of the Shiva shrines associated with the Omkareshwar-Mandhata sacred cluster.",
+      "architecture": "Stone temple remains and restored elements typical of the island's heritage shrines.",
+      "visitorNotes": "Pair this stop with the upper-plateau temple route in cooler hours.",
+      "sources": [
+        {
+          "label": "Khandwa district: Omkareshwar",
+          "url": "https://khandwa.nic.in/en/tourist-place/omkareshwar/",
+          "type": "Government tourism"
+        },
+        {
+          "label": "Commons file: Kedareswar Temple, Omkareswar",
+          "url": "https://commons.wikimedia.org/wiki/File:Kedareswar_Temple,_Omkareswar_Madhya_Pradesh_068.jpg",
+          "type": "Image source"
+        }
+      ]
+    },
+    "district": "Khandwa",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T15:00:00Z"
+  },
+  {
+    "name": "Shree Siddhanath Temple",
+    "state": "Madhya Pradesh",
+    "city": "Omkareshwar",
+    "region": "Mandhata Island, Khandwa district",
+    "tags": [
+      "Siddhanath",
+      "Omkareshwar",
+      "Heritage"
+    ],
+    "story": "A historic Shiva temple in the Omkareshwar area known for sculptural remains and elevated setting.",
+    "highlight": "Heritage Shiva shrine in the Mandhata island circuit.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0102621%20Siddheshwara%20temple,%20Siddhanatha,%20Omkareswar%20Madhya%20Pradesh%20492.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:0102621_Siddheshwara_temple,_Siddhanatha,_Omkareswar_Madhya_Pradesh_492.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T20:30:00+05:30",
+    "bestTime": "Morning to late afternoon for heritage exploration.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "The heritage zone includes stone paths and steps.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Siddhanath is part of the historic Shaiva architecture associated with Omkareshwar Mandhata.",
+      "architecture": "Nagara-influenced stone work and carved fragments remain key visual features.",
+      "visitorNotes": "Visit in daylight to appreciate sculptural details.",
+      "sources": [
+        {
+          "label": "Khandwa district: Omkareshwar",
+          "url": "https://khandwa.nic.in/en/tourist-place/omkareshwar/",
+          "type": "Government tourism"
+        },
+        {
+          "label": "Commons file: Siddheshwara temple, Siddhanatha",
+          "url": "https://commons.wikimedia.org/wiki/File:0102621_Siddheshwara_temple,_Siddhanatha,_Omkareswar_Madhya_Pradesh_492.jpg",
+          "type": "Image source"
+        }
+      ]
+    },
+    "district": "Khandwa",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T15:00:00Z"
+  },
+  {
+    "name": "Rinmukteshwar Temple",
+    "state": "Madhya Pradesh",
+    "city": "Omkareshwar",
+    "region": "Omkareshwar temple circuit, Khandwa district",
+    "tags": [
+      "Rinmukteshwar",
+      "Omkareshwar",
+      "Shaiva"
+    ],
+    "story": "A Shiva shrine referenced in Omkareshwar's broader temple circuit.",
+    "highlight": "Local circuit temple associated with debt-release worship traditions.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T20:30:00+05:30",
+    "bestTime": "Morning and evening darshan slots.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and timings before visit.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Rinmukteshwar is recognized in local Shaiva worship traditions linked with Omkareshwar pilgrimage.",
+      "architecture": "Smaller mandir architecture in the wider temple complex setting.",
+      "visitorNotes": "Best covered as part of a multi-temple Omkareshwar route.",
+      "sources": [
+        {
+          "label": "Khandwa district: Omkareshwar",
+          "url": "https://khandwa.nic.in/en/tourist-place/omkareshwar/",
+          "type": "Government tourism"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Rinmukteshwar%20Temple%20Omkareshwar%20Khandwa",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Khandwa",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T15:00:00Z"
+  },
+  {
+    "name": "Vrihadeshwar Temple",
+    "state": "Madhya Pradesh",
+    "city": "Omkareshwar",
+    "region": "Omkareshwar temple circuit, Khandwa district",
+    "tags": [
+      "Vrihadeshwar",
+      "Omkareshwar",
+      "Shaiva"
+    ],
+    "story": "A Shiva shrine identified in Omkareshwar's local temple network.",
+    "highlight": "Traditional Omkareshwar-circuit Shiva worship.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T20:30:00+05:30",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Exact approach can vary by local route and season.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Vrihadeshwar is included in local Omkareshwar Shaiva temple references.",
+      "architecture": "Compact regional temple form within the Omkareshwar sacred zone.",
+      "visitorNotes": "Check with local priests or guides for current darshan slot details.",
+      "sources": [
+        {
+          "label": "Khandwa district: Omkareshwar",
+          "url": "https://khandwa.nic.in/en/tourist-place/omkareshwar/",
+          "type": "Government tourism"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Vrihadeshwar%20Temple%20Omkareshwar%20Khandwa",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Khandwa",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T15:00:00Z"
+  },
+  {
+    "name": "Mahakaleshwar Temple (Omkareshwar Complex)",
+    "state": "Madhya Pradesh",
+    "city": "Omkareshwar",
+    "region": "Omkareshwar temple circuit, Khandwa district",
+    "tags": [
+      "Mahakaleshwar",
+      "Omkareshwar",
+      "Shaiva"
+    ],
+    "story": "A Mahakaleshwar shrine within the larger Omkareshwar temple complex tradition.",
+    "highlight": "Secondary Mahakaleshwar darshan point in the Omkareshwar cluster.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T20:30:00+05:30",
+    "bestTime": "Morning and evening puja timings.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Visit as part of a full Omkareshwar temple-parikrama route.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Mahakaleshwar-named shrines are part of the multi-shrine Shaiva worship pattern in Omkareshwar.",
+      "architecture": "Local temple architecture with sanctum-centered Shiva worship.",
+      "visitorNotes": "Cross-check exact temple point with on-ground signage.",
+      "sources": [
+        {
+          "label": "Khandwa district: Omkareshwar",
+          "url": "https://khandwa.nic.in/en/tourist-place/omkareshwar/",
+          "type": "Government tourism"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahakaleshwar%20Temple%20Omkareshwar%20Khandwa",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Khandwa",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T15:00:00Z"
+  },
+  {
+    "name": "Govindeshwar Temple",
+    "state": "Madhya Pradesh",
+    "city": "Omkareshwar",
+    "region": "Omkareshwar temple circuit, Khandwa district",
+    "tags": [
+      "Govindeshwar",
+      "Omkareshwar",
+      "Shaiva"
+    ],
+    "story": "A Shiva shrine in the Omkareshwar sacred circuit associated with local pilgrim routes.",
+    "highlight": "Local darshan node in the Omkareshwar temple network.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T20:30:00+05:30",
+    "bestTime": "Morning darshan before main-circuit rush.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local route details and temple timings at Omkareshwar.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Govindeshwar is listed among Shiva worship points visited in Omkareshwar pilgrim circuits.",
+      "architecture": "Traditional small-scale temple architecture.",
+      "visitorNotes": "Works best in a combined visit with nearby Omkareshwar shrines.",
+      "sources": [
+        {
+          "label": "Khandwa district: Omkareshwar",
+          "url": "https://khandwa.nic.in/en/tourist-place/omkareshwar/",
+          "type": "Government tourism"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Govindeshwar%20Temple%20Omkareshwar%20Khandwa",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Khandwa",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-23T15:00:00Z"
   }
 ];
