@@ -1,6 +1,6 @@
 export const jharkhandTemples = [
     {
-        "name": "Baidyanath Jyotirlinga",
+        "name": "Baba Baidyanath Jyotirlinga Temple",
         "state": "Jharkhand",
         "city": "Deoghar",
         "region": "Deoghar district",
@@ -16,7 +16,7 @@ export const jharkhandTemples = [
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Sacred_Pond_-_Baidyanath_Dham_Temple_Complex_-_Deoghar.jpg",
         "deity": "Shiva (Baidyanath)",
         "tradition": "Shaiva",
-        "addedAt": "2026-02-19T15:18:12+05:30",
+        "addedAt": "2026-02-23T01:56:00+05:30",
         "bestTime": "Shravan (July-Aug).",
         "timings": "4:00 AM - 9:00 PM",
         "dressCode": "Traditional preferred.",
@@ -46,7 +46,7 @@ export const jharkhandTemples = [
         }
     },
     {
-        "name": "Basukinath Temple",
+        "name": "Baba Basukinath Dham",
         "state": "Jharkhand",
         "city": "Basukinath",
         "region": "Dumka district",
@@ -62,7 +62,7 @@ export const jharkhandTemples = [
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Baba_Basukinath_Temple_complex_at_Basukinath%2C_Jharkhand_02.jpg",
         "deity": "Shiva (Nageshvara)",
         "tradition": "Shaiva",
-        "addedAt": "2026-02-19T15:18:12+05:30",
+        "addedAt": "2026-02-23T02:10:00+05:30",
         "bestTime": "Shravan.",
         "timings": "Open daily.",
         "dressCode": "Casual.",
@@ -106,7 +106,7 @@ export const jharkhandTemples = [
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Pahari_Mandir_-_Ranchi_Hill_9242.JPG",
         "deity": "Shiva",
         "tradition": "Shaiva",
-        "addedAt": "2026-02-19T15:18:12+05:30",
+        "addedAt": "2026-02-23T02:02:00+05:30",
         "bestTime": "Winter/Shivratri.",
         "timings": "Sunrise to Sunset.",
         "dressCode": "Casual.",
@@ -356,7 +356,7 @@ export const jharkhandTemples = [
         }
     },
     {
-        "name": "Trikut Pahar Temple",
+        "name": "Trikuteshwarnath Temple",
         "state": "Jharkhand",
         "city": "Deoghar",
         "region": "Deoghar district",
@@ -372,7 +372,7 @@ export const jharkhandTemples = [
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Trikut_pahar.jpg",
         "deity": "Shiva (Trikutachal)",
         "tradition": "Shaiva",
-        "addedAt": "2026-02-19T15:18:12+05:30",
+        "addedAt": "2026-02-23T01:57:00+05:30",
         "bestTime": "Winter.",
         "timings": "Daylight hours.",
         "dressCode": "Casual.",
@@ -394,6 +394,190 @@ export const jharkhandTemples = [
                 {
                     "label": "Deoghar",
                     "url": "https://deoghar.nic.in/tourist-place/trikut-pahar/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Baiju Temple",
+        "state": "Jharkhand",
+        "city": "Deoghar",
+        "region": "Deoghar district",
+        "tags": [
+            "Baidyanath tradition",
+            "Legend",
+            "Shaiva"
+        ],
+        "story": "A Shiva shrine in Deoghar associated with the Baiju/Baiju Bawra devotional tradition linked to Baba Baidyanath.",
+        "highlight": "Part of the wider Baidyanath pilgrimage narrative.",
+        "image": "/temples/temple-01.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-01.svg",
+        "deity": "Shiva (Baiju tradition)",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T01:58:00+05:30",
+        "bestTime": "Shravan and Maha Shivaratri.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional preferred.",
+        "entryNotes": "Usually visited as part of the Deoghar Shiva circuit.",
+        "rituals": [
+            "Jalabhishek",
+            "Belpatra offering"
+        ],
+        "festivals": [
+            "Shravani Mela",
+            "Maha Shivaratri"
+        ],
+        "moreDetails": {
+            "history": "The shrine is tied to local oral traditions around the Baiju-Baidyanath devotional stream.",
+            "architecture": "Local temple architecture.",
+            "darshan": "Often combined with Baidyanath Dham visits.",
+            "seasonal": "Heavy footfall during Shravan.",
+            "visitorNotes": "Plan early-morning darshan in peak pilgrimage season.",
+            "festivals": "Shravan and Shivaratri are key observances.",
+            "sources": [
+                {
+                    "label": "Deoghar district tourism",
+                    "url": "https://deoghar.nic.in/tourist-place/baba-baidyanath-temple/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Harila Jori Shiva Temple",
+        "state": "Jharkhand",
+        "city": "Deoghar",
+        "region": "Deoghar district",
+        "tags": [
+            "Harila Jori",
+            "Pilgrimage",
+            "Shaiva"
+        ],
+        "story": "A Shiva temple site at Harila Jori in the Deoghar sacred geography, visited by Baidyanath pilgrims.",
+        "highlight": "Local Shaiva shrine connected to the Deoghar yatra belt.",
+        "image": "/temples/temple-02.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-02.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T01:59:00+05:30",
+        "bestTime": "Shravan and winter mornings.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional preferred.",
+        "entryNotes": "Commonly covered in Deoghar pilgrimage routes.",
+        "rituals": [
+            "Jal offering",
+            "Rudra path"
+        ],
+        "festivals": [
+            "Shravani Mela",
+            "Maha Shivaratri"
+        ],
+        "moreDetails": {
+            "history": "Harila Jori is preserved in local pilgrimage memory around Baidyanath Dham.",
+            "architecture": "Small regional shrine style.",
+            "darshan": "Devotees usually include it in multi-stop Deoghar darshan.",
+            "seasonal": "Shravan sees peak pilgrim movement.",
+            "visitorNotes": "Expect heavier queues in Shravan Mondays.",
+            "festivals": "Shravan month and Shivaratri are major periods.",
+            "sources": [
+                {
+                    "label": "Deoghar district",
+                    "url": "https://deoghar.nic.in/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kundeshwari Temple",
+        "state": "Jharkhand",
+        "city": "Deoghar",
+        "region": "Deoghar district",
+        "tags": [
+            "Kundeshwari",
+            "Shaiva",
+            "Local shrine"
+        ],
+        "story": "A Kundeshwari temple in Deoghar district associated with the local Shiva worship tradition.",
+        "highlight": "Local Deoghar temple stop in the Shiva circuit.",
+        "image": "/temples/temple-03.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-03.svg",
+        "deity": "Shiva (Kundeshwar/Kundeshwari tradition)",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T02:00:00+05:30",
+        "bestTime": "Maha Shivaratri and Shravan month.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional preferred.",
+        "entryNotes": "Part of regional Deoghar worship routes.",
+        "rituals": [
+            "Abhishek",
+            "Aarti"
+        ],
+        "festivals": [
+            "Maha Shivaratri",
+            "Shravan Somvar"
+        ],
+        "moreDetails": {
+            "history": "Kundeshwari worship is maintained through local temple practices in the Deoghar region.",
+            "architecture": "Traditional local shrine format.",
+            "darshan": "Usually calm outside major festival days.",
+            "seasonal": "Festival attendance rises in Shravan.",
+            "visitorNotes": "Prefer morning visits for shorter lines.",
+            "festivals": "Shivaratri and Shravan Mondays are significant.",
+            "sources": [
+                {
+                    "label": "Deoghar district",
+                    "url": "https://deoghar.nic.in/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mansarovar Shiva Temple",
+        "state": "Jharkhand",
+        "city": "Deoghar",
+        "region": "Deoghar district",
+        "tags": [
+            "Mansarovar",
+            "Baidyanath circuit",
+            "Shaiva"
+        ],
+        "story": "A Mansarovar-area Shiva temple in Deoghar, visited as part of the Baidyanath pilgrimage zone.",
+        "highlight": "Mansarovar-linked Shiva darshan near Deoghar's core sacred circuit.",
+        "image": "/temples/temple-04.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-04.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T02:01:00+05:30",
+        "bestTime": "Early morning and Shravan period.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional preferred.",
+        "entryNotes": "Combine with nearby Baidyanath temple visits.",
+        "rituals": [
+            "Jalabhishek",
+            "Daily aarti"
+        ],
+        "festivals": [
+            "Shravani Mela",
+            "Maha Shivaratri"
+        ],
+        "moreDetails": {
+            "history": "Mansarovar in Deoghar is part of the expanded sacred geography around Baba Baidyanath Dham.",
+            "architecture": "Local shrine architecture.",
+            "darshan": "Frequently visited as an auxiliary stop in the Deoghar circuit.",
+            "seasonal": "Shravan draws the largest pilgrim turnout.",
+            "visitorNotes": "Visit early in the day during peak months.",
+            "festivals": "Shravan and Shivaratri observances are prominent.",
+            "sources": [
+                {
+                    "label": "Deoghar district tourism",
+                    "url": "https://deoghar.nic.in/tourist-place/baba-baidyanath-temple/",
                     "type": "Government"
                 }
             ]
@@ -620,7 +804,7 @@ export const jharkhandTemples = [
         }
     },
     {
-        "name": "Maluti Temples",
+        "name": "Maluti Shiva Temples",
         "state": "Jharkhand",
         "city": "Maluti",
         "region": "Dumka district",
@@ -636,7 +820,7 @@ export const jharkhandTemples = [
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Maluti_Temples._Maluti.jpg",
         "deity": "Shiva (Maulishwar)",
         "tradition": "Shaiva/Tantric",
-        "addedAt": "2026-02-19T15:18:12+05:30",
+        "addedAt": "2026-02-23T02:12:00+05:30",
         "bestTime": "Winter.",
         "timings": "Open daily.",
         "dressCode": "Casual.",
@@ -3445,10 +3629,10 @@ export const jharkhandTemples = [
         }
     },
     {
-        "name": "Sureshwar Mahadev Temple",
+        "name": "Sureshwar Mahadev Mandir",
         "state": "Jharkhand",
-        "city": "Chutia (Ranchi)",
-        "region": "Ranchi district",
+        "city": "Ranchi",
+        "region": "Chutia, Ranchi district",
         "tags": [
             "108-ft Temple",
             "Modern Landmark",
@@ -3456,12 +3640,12 @@ export const jharkhandTemples = [
         ],
         "story": "A modern 108-foot-high Shivling-shaped temple in Chutia, built over a decade and consecrated in 2022.",
         "highlight": "108-foot temple structure.",
-        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiva_Linga_Varanasi.jpg",
-        "credit": "Wikimedia Commons (Representational)",
-        "creditUrl": "https://commons.wikimedia.org/wiki/File:Shiva_Linga_Varanasi.jpg",
+        "image": "/temples/temple-05.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-05.svg",
         "deity": "Shiva",
         "tradition": "Shaiva",
-        "addedAt": "2026-02-19T15:18:12+05:30",
+        "addedAt": "2026-02-23T02:03:00+05:30",
         "bestTime": "Mahashivratri / Shravan.",
         "timings": "Open daily.",
         "dressCode": "Traditional preferred.",
@@ -3489,10 +3673,10 @@ export const jharkhandTemples = [
         }
     },
     {
-        "name": "Marsili Pahad Shiv Temple",
+        "name": "Marasili Pahad Shiv Mandir",
         "state": "Jharkhand",
-        "city": "Namkum (Ranchi)",
-        "region": "Ranchi district",
+        "city": "Ranchi",
+        "region": "Namkum, Ranchi district",
         "tags": [
             "Hilltop",
             "Local Shrine",
@@ -3500,12 +3684,12 @@ export const jharkhandTemples = [
         ],
         "story": "A hilltop Shiva temple in Namkum, known for large crowds during Shravan Somvar and Mahashivratri.",
         "highlight": "Hilltop darshan during Shravan.",
-        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mandar_Hill.jpg",
-        "credit": "Wikimedia Commons (Representational Hill)",
-        "creditUrl": "https://commons.wikimedia.org/wiki/File:Mandar_Hill.jpg",
+        "image": "/temples/temple-06.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-06.svg",
         "deity": "Shiva",
         "tradition": "Shaiva",
-        "addedAt": "2026-02-19T15:18:12+05:30",
+        "addedAt": "2026-02-23T02:04:00+05:30",
         "bestTime": "Shravan.",
         "timings": "Daylight hours.",
         "dressCode": "Casual.",
@@ -3529,6 +3713,236 @@ export const jharkhandTemples = [
                     "label": "Times of India",
                     "url": "https://timesofindia.indiatimes.com/city/ranchi/devotees-throng-temples-since-crack-of-dawn/articleshow/122449921.cms",
                     "type": "News"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kurtiya Pahad Shiv Mandir",
+        "state": "Jharkhand",
+        "city": "Ranchi",
+        "region": "Ranchi district",
+        "tags": [
+            "Hilltop",
+            "Local Shrine",
+            "Shaiva"
+        ],
+        "story": "A hilltop Shiva shrine in Ranchi district known in local worship circuits as Kurtiya Pahad Shiv Mandir.",
+        "highlight": "Hill darshan in the Ranchi urban-periphery belt.",
+        "image": "/temples/temple-01.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-01.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T02:05:00+05:30",
+        "bestTime": "Shravan month and Mahashivratri.",
+        "timings": "Daylight hours; local timings vary.",
+        "dressCode": "Traditional preferred.",
+        "entryNotes": "Expect short uphill access near the shrine.",
+        "rituals": [
+            "Jalabhishek",
+            "Aarti"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan Somvar"
+        ],
+        "moreDetails": {
+            "history": "The shrine is part of Ranchi's local neighborhood Shiva worship tradition.",
+            "architecture": "Small hill shrine format.",
+            "darshan": "Usually busiest on Mondays and festival dates.",
+            "seasonal": "Monsoon and winter are preferred by devotees.",
+            "visitorNotes": "Use morning slots for easier darshan.",
+            "festivals": "Mahashivratri and Shravan observances are the main draws.",
+            "sources": [
+                {
+                    "label": "Ranchi district",
+                    "url": "https://ranchi.nic.in/tourist-places/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Swarnarekha Dham Shri Shiv Mandir",
+        "state": "Jharkhand",
+        "city": "Ranchi",
+        "region": "Swarnarekha belt, Ranchi district",
+        "tags": [
+            "Swarnarekha",
+            "Riverbank",
+            "Shaiva"
+        ],
+        "story": "A Shiva temple in Ranchi's Swarnarekha river belt, visited for regular Mahadev worship and river-linked rituals.",
+        "highlight": "Swarnarekha-side Shiva darshan.",
+        "image": "/temples/temple-02.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-02.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T02:06:00+05:30",
+        "bestTime": "Morning darshan and Shravan month.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional preferred.",
+        "entryNotes": "Best visited in daytime for easier access.",
+        "rituals": [
+            "Jal offering",
+            "Rudrabhishek"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan Somvar"
+        ],
+        "moreDetails": {
+            "history": "Swarnarekha riverbank shrines form an important part of Ranchi's local Shiva tradition.",
+            "architecture": "Local shrine architecture.",
+            "darshan": "Commonly visited by neighborhood devotees.",
+            "seasonal": "Shravan sees the highest devotional turnout.",
+            "visitorNotes": "Crowds increase significantly on Mondays in Shravan.",
+            "festivals": "Mahashivratri and Shravan are key periods.",
+            "sources": [
+                {
+                    "label": "Ranchi district",
+                    "url": "https://ranchi.nic.in/tourist-places/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ghaghari Shiva Temple",
+        "state": "Jharkhand",
+        "city": "Ranchi",
+        "region": "Ranchi district",
+        "tags": [
+            "Local Temple",
+            "Mahadev",
+            "Shaiva"
+        ],
+        "story": "A local Shiva shrine in Ranchi district known as Ghaghari Shiva Temple.",
+        "highlight": "Community-led Shiva worship in Ranchi.",
+        "image": "/temples/temple-03.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-03.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T02:07:00+05:30",
+        "bestTime": "Mahashivratri and Mondays.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional preferred.",
+        "entryNotes": "Part of Ranchi district local temple network.",
+        "rituals": [
+            "Abhishek",
+            "Evening aarti"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan Somvar"
+        ],
+        "moreDetails": {
+            "history": "Maintained through local devotional continuity in the Ranchi area.",
+            "architecture": "Small regional shrine.",
+            "darshan": "Steady local footfall through the week.",
+            "seasonal": "Peak attendance during Shravan.",
+            "visitorNotes": "Weekday mornings are usually less crowded.",
+            "festivals": "Mahashivratri is the major annual observance.",
+            "sources": [
+                {
+                    "label": "Ranchi district",
+                    "url": "https://ranchi.nic.in/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Shiva Temple Dhurwa",
+        "state": "Jharkhand",
+        "city": "Ranchi",
+        "region": "Dhurwa, Ranchi district",
+        "tags": [
+            "Dhurwa",
+            "Urban Shrine",
+            "Shaiva"
+        ],
+        "story": "A Shiva temple in the Dhurwa area of Ranchi with active daily worship.",
+        "highlight": "Dhurwa neighborhood Shiva darshan.",
+        "image": "/temples/temple-04.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-04.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T02:08:00+05:30",
+        "bestTime": "Morning and evening aarti.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional preferred.",
+        "entryNotes": "Located in Dhurwa locality.",
+        "rituals": [
+            "Jalabhishek",
+            "Aarti"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "Dhurwa temple worship is part of Ranchi's urban Shaiva devotional fabric.",
+            "architecture": "Neighborhood shrine format.",
+            "darshan": "Regular local turnout, especially on Mondays.",
+            "seasonal": "Shravan period is most crowded.",
+            "visitorNotes": "Prefer early visits during festival weeks.",
+            "festivals": "Mahashivratri and Shravan are major observance windows.",
+            "sources": [
+                {
+                    "label": "Ranchi",
+                    "url": "https://en.wikipedia.org/wiki/Ranchi",
+                    "type": "Encyclopedia"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Shiva Temple Bariatu",
+        "state": "Jharkhand",
+        "city": "Ranchi",
+        "region": "Bariatu, Ranchi district",
+        "tags": [
+            "Bariatu",
+            "Urban Temple",
+            "Shaiva"
+        ],
+        "story": "A Shiva temple in Bariatu, Ranchi, serving daily neighborhood worship.",
+        "highlight": "Bariatu area Mahadev shrine.",
+        "image": "/temples/temple-05.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-05.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T02:09:00+05:30",
+        "bestTime": "Morning darshan and Mondays.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional preferred.",
+        "entryNotes": "Located in Bariatu locality, Ranchi.",
+        "rituals": [
+            "Abhishek",
+            "Daily puja"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan Somvar"
+        ],
+        "moreDetails": {
+            "history": "Bariatu's Shiva worship reflects Ranchi's living urban temple tradition.",
+            "architecture": "Compact neighborhood temple structure.",
+            "darshan": "Steady local footfall with peaks on Mondays.",
+            "seasonal": "Shravan month draws larger crowds.",
+            "visitorNotes": "Festival evenings can be busy.",
+            "festivals": "Mahashivratri and Shravan Mondays are key observances.",
+            "sources": [
+                {
+                    "label": "Ranchi",
+                    "url": "https://en.wikipedia.org/wiki/Ranchi",
+                    "type": "Encyclopedia"
                 }
             ]
         }
@@ -3622,7 +4036,7 @@ export const jharkhandTemples = [
         }
     },
     {
-        "name": "Baba Sumeshwar Nath Temple",
+        "name": "Baba Sumeshwarnath Temple",
         "state": "Jharkhand",
         "city": "Saraiyahat",
         "region": "Dumka district",
@@ -3638,7 +4052,7 @@ export const jharkhandTemples = [
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Shiva_Linga_Varanasi.jpg",
         "deity": "Shiva",
         "tradition": "Shaiva",
-        "addedAt": "2026-02-19T15:18:12+05:30",
+        "addedAt": "2026-02-23T02:11:00+05:30",
         "bestTime": "Mahashivratri.",
         "timings": "Open daily.",
         "dressCode": "Traditional preferred.",
@@ -3705,6 +4119,98 @@ export const jharkhandTemples = [
                 {
                     "label": "Dumka",
                     "url": "https://dumka.nic.in/places-of-interest/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tatloi Shiva Temple",
+        "state": "Jharkhand",
+        "city": "Tatloi",
+        "region": "Dumka district",
+        "tags": [
+            "Hot spring",
+            "Shiva",
+            "Pilgrimage"
+        ],
+        "story": "A Shiva temple at Tatloi in Dumka district, associated with the local hot-spring pilgrimage landscape.",
+        "highlight": "Tatloi Shiva darshan with nearby geothermal spring setting.",
+        "image": "/temples/temple-01.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-01.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T02:13:00+05:30",
+        "bestTime": "Winter and Mahashivratri.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional preferred.",
+        "entryNotes": "Tatloi area in Dumka district.",
+        "rituals": [
+            "Jalabhishek",
+            "Daily puja"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "Tatloi is a known sacred-natural site in Dumka district with continued Shiva worship traditions.",
+            "architecture": "Local shrine architecture.",
+            "darshan": "Commonly visited by regional devotees.",
+            "seasonal": "Higher footfall in Shravan and Shivaratri period.",
+            "visitorNotes": "Plan daytime visits for easier local access.",
+            "festivals": "Mahashivratri and Shravan observances are key.",
+            "sources": [
+                {
+                    "label": "Dumka district",
+                    "url": "https://dumka.nic.in/places-of-interest/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Bhandeshwar Nath Mahadev Temple",
+        "state": "Jharkhand",
+        "city": "Dumka",
+        "region": "Dumka district",
+        "tags": [
+            "Mahadev",
+            "Local Temple",
+            "Shaiva"
+        ],
+        "story": "A Bhandeshwar Nath Mahadev temple in Dumka district, serving the local Shaiva devotional community.",
+        "highlight": "Bhandeshwar Nath Mahadev darshan in Dumka.",
+        "image": "/temples/temple-02.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-02.svg",
+        "deity": "Shiva (Bhandeshwar Nath)",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T02:14:00+05:30",
+        "bestTime": "Mahashivratri and Shravan month.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional preferred.",
+        "entryNotes": "Dumka district local temple route.",
+        "rituals": [
+            "Abhishek",
+            "Aarti"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan Somvar"
+        ],
+        "moreDetails": {
+            "history": "Bhandeshwar Nath worship continues through local temple traditions in Dumka district.",
+            "architecture": "Regional shrine format.",
+            "darshan": "Regular local footfall throughout the week.",
+            "seasonal": "Most crowded during Shravan and Shivaratri.",
+            "visitorNotes": "Morning darshan is typically less crowded.",
+            "festivals": "Mahashivratri is the principal annual festival.",
+            "sources": [
+                {
+                    "label": "Dumka district",
+                    "url": "https://dumka.nic.in/",
                     "type": "Government"
                 }
             ]

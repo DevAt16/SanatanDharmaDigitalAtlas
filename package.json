@@ -17,10 +17,13 @@
     "validate:state": "node scripts/validateTempleDataset.mjs",
     "validate:mp": "node scripts/validateTempleDataset.mjs src/data/temples/madhyaPradesh.js madhyaPradeshTemples --shiva-only",
     "add:temples": "node scripts/addTemples.mjs",
+    "stamp:addedat": "node scripts/stampAddedAt.mjs",
+    "images:wikimedia": "node scripts/fetchWikimediaImages.mjs",
     "store:export": "node scripts/exportTempleStore.mjs",
     "store:ingest": "node scripts/ingestTempleStore.mjs"
   },
   "dependencies": {
+    "@ishubhamx/panchangam-js": "^2.2.2",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },

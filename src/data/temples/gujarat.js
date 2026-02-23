@@ -1,6 +1,6 @@
 export const gujaratTemples = [
     {
-        "name": "Somnath Temple",
+        "name": "Shree Somnath Jyotirlinga Temple",
         "state": "Gujarat",
         "city": "Prabhas Patan",
         "region": "Prabhas Patan, Gir Somnath district",
@@ -16,7 +16,7 @@ export const gujaratTemples = [
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Somnath_Temple_Gujarat.jpg",
         "deity": "Shiva",
         "tradition": "Shaiva",
-        "addedAt": "2026-02-21T17:33:04.389Z",
+        "addedAt": "2026-02-23T12:53:30+05:30",
         "bestTime": "October to March. Evening is best for Aarti and the Light & Sound show.",
         "timings": "Open daily from 6:00 AM to 9:00 PM.",
         "dressCode": "Strict traditional and modest dress code. Shorts and skirts are not allowed.",
@@ -56,6 +56,544 @@ export const gujaratTemples = [
         "district": "Gir Somnath",
         "verificationStatus": "verified",
         "lastVerifiedAt": "2026-02-22T14:18:07Z"
+    },
+    {
+        "name": "Old Somnath Mandir (Ahilyabai Temple)",
+        "state": "Gujarat",
+        "city": "Prabhas Patan",
+        "region": "Somnath complex area, Prabhas Patan, Gir Somnath district",
+        "tags": [
+            "Somnath Circuit",
+            "Ahilyabai Holkar",
+            "Historic Shrine"
+        ],
+        "story": "This older shrine near Somnath is associated with the Ahilyabai-era revival phase of worship at Prabhas Patan.",
+        "highlight": "Historic Ahilyabai-era temple node within the Somnath sacred area.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Somanatha%27s%20Rani%20Ahilyabai%20Temple.JPG",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Somanatha%27s_Rani_Ahilyabai_Temple.JPG",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:53:30+05:30",
+        "bestTime": "Morning darshan and evening temple circuit visits.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Often visited along with the main Somnath Jyotirlinga temple.",
+        "rituals": [
+            "Daily puja",
+            "Abhishek"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "The Ahilyabai temple is identified as the older Somnath shrine linked with post-medieval restoration traditions.",
+            "puranicView": "Local tradition keeps it integrated with Somnath's wider jyotirlinga pilgrimage practice.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Commons file: Somanatha's Rani Ahilyabai Temple",
+                    "url": "https://commons.wikimedia.org/wiki/File:Somanatha%27s_Rani_Ahilyabai_Temple.JPG"
+                },
+                {
+                    "label": "Somnath Temple",
+                    "url": "https://en.wikipedia.org/wiki/Somnath_temple"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Gir Somnath",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T17:10:00Z"
+    },
+    {
+        "name": "Veneshwar Mahadev Temple",
+        "state": "Gujarat",
+        "city": "Prabhas Patan",
+        "region": "Somnath temple circuit, Prabhas Patan, Gir Somnath district",
+        "tags": [
+            "Somnath Circuit",
+            "Mahadev",
+            "Prabhas Patan"
+        ],
+        "story": "A Shiva shrine counted among the local Somnath-Prabhas temple circuit points.",
+        "highlight": "Local darshan stop within the Somnath pilgrimage grid.",
+        "image": "/temples/temple-01.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-01.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:53:30+05:30",
+        "bestTime": "Morning and evening darshan windows.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Verify exact local location and darshan hours before visit.",
+        "rituals": [
+            "Daily puja"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan Somvar"
+        ],
+        "moreDetails": {
+            "history": "Veneshwar Mahadev is referenced in local Somnath-area Shaiva worship routes.",
+            "puranicView": "Observed as part of the larger Somnath devotional landscape.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Somnath Trust",
+                    "url": "https://somnath.org/"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Veneshwar%20Mahadev%20Temple%20Somnath"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Gir Somnath",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T17:10:00Z"
+    },
+    {
+        "name": "Bhidbhanjan Mahadev Temple",
+        "state": "Gujarat",
+        "city": "Prabhas Patan",
+        "region": "Somnath temple circuit, Prabhas Patan, Gir Somnath district",
+        "tags": [
+            "Somnath Circuit",
+            "Bhidbhanjan",
+            "Mahadev"
+        ],
+        "story": "A Shiva shrine worshipped by local devotees in the Somnath-Prabhas sacred belt.",
+        "highlight": "Traditional local Shiva worship in the Somnath area.",
+        "image": "/temples/temple-02.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-02.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:53:30+05:30",
+        "bestTime": "Morning darshan.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Check local guidance for current route and timings.",
+        "rituals": [
+            "Daily puja",
+            "Jal abhishek"
+        ],
+        "festivals": [
+            "Mahashivratri"
+        ],
+        "moreDetails": {
+            "history": "Bhidbhanjan Mahadev is recognized in local Somnath temple naming traditions.",
+            "puranicView": "Regarded as one of the Shiva worship points in the broader Prabhas kshetra.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Somnath Trust",
+                    "url": "https://somnath.org/"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Bhidbhanjan%20Mahadev%20Temple%20Somnath"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Gir Somnath",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T17:10:00Z"
+    },
+    {
+        "name": "Kamnath Mahadev Mandir",
+        "state": "Gujarat",
+        "city": "Prabhas Patan",
+        "region": "Somnath temple circuit, Prabhas Patan, Gir Somnath district",
+        "tags": [
+            "Somnath Circuit",
+            "Kamnath",
+            "Mahadev"
+        ],
+        "story": "A local Mahadev shrine in the Somnath pilgrimage network.",
+        "highlight": "Somnath-circuit Shiva mandir for regular daily worship.",
+        "image": "/temples/temple-03.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-03.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:53:30+05:30",
+        "bestTime": "Morning and evening aarti periods.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Temple details may vary seasonally; confirm locally.",
+        "rituals": [
+            "Daily puja"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "Kamnath Mahadev is part of the local cluster of Somnath-area Shiva shrines.",
+            "puranicView": "Treated as a regional Shaiva worship point connected to the Somnath dham tradition.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Somnath Trust",
+                    "url": "https://somnath.org/"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Kamnath%20Mahadev%20Mandir%20Somnath"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Gir Somnath",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T17:10:00Z"
+    },
+    {
+        "name": "Shree Shashibhushan Mahadev Temple",
+        "state": "Gujarat",
+        "city": "Prabhas Patan",
+        "region": "Somnath temple circuit, Prabhas Patan, Gir Somnath district",
+        "tags": [
+            "Somnath Circuit",
+            "Shashibhushan",
+            "Mahadev"
+        ],
+        "story": "A Shiva temple linked with the sacred Prabhas-Somnath worship geography.",
+        "highlight": "Traditional Somnath-area Mahadev shrine.",
+        "image": "/temples/temple-04.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-04.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:53:30+05:30",
+        "bestTime": "Morning darshan.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Best visited as part of a multi-temple Somnath route.",
+        "rituals": [
+            "Daily puja",
+            "Abhishek"
+        ],
+        "festivals": [
+            "Mahashivratri"
+        ],
+        "moreDetails": {
+            "history": "Shashibhushan Mahadev is cited among local Shiva temples around the Somnath region.",
+            "puranicView": "The shrine follows Shaiva ritual patterns connected to Prabhas Patan traditions.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Somnath Trust",
+                    "url": "https://somnath.org/"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Shashibhushan%20Mahadev%20Temple%20Somnath"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Gir Somnath",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T17:10:00Z"
+    },
+    {
+        "name": "Rudreshwar Mahadev Temple",
+        "state": "Gujarat",
+        "city": "Prabhas Patan",
+        "region": "Somnath temple circuit, Prabhas Patan, Gir Somnath district",
+        "tags": [
+            "Somnath Circuit",
+            "Rudreshwar",
+            "Mahadev"
+        ],
+        "story": "A Rudra-form Shiva shrine within the Somnath area pilgrimage circuit.",
+        "highlight": "Rudra-upasana focused Shiva mandir near Somnath.",
+        "image": "/temples/temple-05.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-05.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:53:30+05:30",
+        "bestTime": "Morning and evening darshan.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Verify local darshan schedule in advance.",
+        "rituals": [
+            "Daily puja"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan Somvar"
+        ],
+        "moreDetails": {
+            "history": "Rudreshwar Mahadev is part of the local Somnath-Prabhas Shiva temple landscape.",
+            "puranicView": "The deity form aligns with Rudra-oriented Shaiva worship practices.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Somnath Trust",
+                    "url": "https://somnath.org/"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Rudreshwar%20Mahadev%20Temple%20Somnath"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Gir Somnath",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T17:10:00Z"
+    },
+    {
+        "name": "Avadhuteshwar Temple",
+        "state": "Gujarat",
+        "city": "Prabhas Patan",
+        "region": "Somnath temple circuit, Prabhas Patan, Gir Somnath district",
+        "tags": [
+            "Somnath Circuit",
+            "Avadhuteshwar",
+            "Shaiva"
+        ],
+        "story": "A Shiva temple identified in Somnath's broader sacred circuit around Prabhas Patan.",
+        "highlight": "Local Avadhuteshwar Shiva darshan point.",
+        "image": "/temples/temple-06.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-06.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:53:30+05:30",
+        "bestTime": "Morning darshan.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Please verify exact location locally.",
+        "rituals": [
+            "Daily puja"
+        ],
+        "festivals": [
+            "Mahashivratri"
+        ],
+        "moreDetails": {
+            "history": "Avadhuteshwar is known in local Somnath-area temple-route references.",
+            "puranicView": "Observed as a Shaiva shrine in the Prabhas sacred geography.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Somnath Trust",
+                    "url": "https://somnath.org/"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Avadhuteshwar%20Temple%20Somnath"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Gir Somnath",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T17:10:00Z"
+    },
+    {
+        "name": "Siddheshwar Mahadev Mandir",
+        "state": "Gujarat",
+        "city": "Prabhas Patan",
+        "region": "Somnath temple circuit, Prabhas Patan, Gir Somnath district",
+        "tags": [
+            "Somnath Circuit",
+            "Siddheshwar",
+            "Mahadev"
+        ],
+        "story": "A Siddheshwar Shiva shrine within the traditional Somnath pilgrimage spread.",
+        "highlight": "Local Shiva darshan for Somnath pilgrims.",
+        "image": "/temples/temple-01.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-01.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:53:30+05:30",
+        "bestTime": "Morning and evening puja periods.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Check local signage or guide support for exact temple point.",
+        "rituals": [
+            "Daily puja"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "Siddheshwar Mahadev is part of Somnath area's network of Shiva shrines.",
+            "puranicView": "Its local worship pattern follows mainstream Shaiva observances.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Somnath Trust",
+                    "url": "https://somnath.org/"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Siddheshwar%20Mahadev%20Mandir%20Somnath"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Gir Somnath",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T17:10:00Z"
+    },
+    {
+        "name": "Thuthiya Mahadev Temple",
+        "state": "Gujarat",
+        "city": "Prabhas Patan",
+        "region": "Somnath temple circuit, Prabhas Patan, Gir Somnath district",
+        "tags": [
+            "Somnath Circuit",
+            "Thuthiya",
+            "Mahadev"
+        ],
+        "story": "A local Shiva temple in the Somnath-Prabhas devotional landscape.",
+        "highlight": "Neighborhood Mahadev darshan stop in the Somnath belt.",
+        "image": "/temples/temple-02.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-02.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:53:30+05:30",
+        "bestTime": "Morning darshan.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Verify exact lane-level location locally.",
+        "rituals": [
+            "Daily puja"
+        ],
+        "festivals": [
+            "Mahashivratri"
+        ],
+        "moreDetails": {
+            "history": "Thuthiya Mahadev is identified in local Somnath-area temple references.",
+            "puranicView": "The shrine remains part of the ongoing Shaiva devotional route in Prabhas Patan.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Somnath Trust",
+                    "url": "https://somnath.org/"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Thuthiya%20Mahadev%20Temple%20Somnath"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Gir Somnath",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T17:10:00Z"
+    },
+    {
+        "name": "Shri Japeshwar Tapeshwar Mahadev",
+        "state": "Gujarat",
+        "city": "Prabhas Patan",
+        "region": "Somnath temple circuit, Prabhas Patan, Gir Somnath district",
+        "tags": [
+            "Somnath Circuit",
+            "Japeshwar",
+            "Tapeshwar"
+        ],
+        "story": "A Shiva shrine known in local Somnath temple-route traditions by the Japeshwar-Tapeshwar name.",
+        "highlight": "Dual-name Mahadev shrine in the Prabhas sacred circuit.",
+        "image": "/temples/temple-03.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-03.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:53:30+05:30",
+        "bestTime": "Morning and evening darshan.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Consult local temple guides for exact placement in the Somnath route.",
+        "rituals": [
+            "Daily puja"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan Somvar"
+        ],
+        "moreDetails": {
+            "history": "Japeshwar-Tapeshwar Mahadev is retained in local Somnath-area naming and worship lists.",
+            "puranicView": "The shrine follows Shaiva worship continuity tied to the Somnath kshetra.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Somnath Trust",
+                    "url": "https://somnath.org/"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Japeshwar%20Tapeshwar%20Mahadev%20Somnath"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Gir Somnath",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T17:10:00Z"
+    },
+    {
+        "name": "Bhimnath Mahadev",
+        "state": "Gujarat",
+        "city": "Prabhas Patan",
+        "region": "Somnath temple circuit, Prabhas Patan, Gir Somnath district",
+        "tags": [
+            "Somnath Circuit",
+            "Bhimnath",
+            "Mahadev"
+        ],
+        "story": "A Shiva shrine associated with Bhimnath worship in the Somnath-Prabhas religious landscape.",
+        "highlight": "Local Bhimnath Mahadev darshan in the Somnath zone.",
+        "image": "/temples/temple-04.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-04.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:53:30+05:30",
+        "bestTime": "Morning darshan.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Check local route details during high-pilgrim days.",
+        "rituals": [
+            "Daily puja"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "Bhimnath Mahadev is listed in local Somnath-area Shiva temple naming traditions.",
+            "puranicView": "The shrine remains part of the broader Somnath Shaiva devotional circuit.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Somnath Trust",
+                    "url": "https://somnath.org/"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Bhimnath%20Mahadev%20Somnath"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Gir Somnath",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T17:10:00Z"
     },
     {
         "name": "Nageshwar Jyotirlinga",
@@ -107,6 +645,626 @@ export const gujaratTemples = [
         "district": "Devbhumi Dwarka",
         "verificationStatus": "verified",
         "lastVerifiedAt": "2026-02-22T14:18:07Z"
+    },
+    {
+        "name": "Bhadkeshwar Mahadev Temple",
+        "state": "Gujarat",
+        "city": "Dwarka",
+        "region": "Arabian Sea coast, Dwarka, Devbhumi Dwarka district",
+        "tags": [
+            "Coastal",
+            "Dwarka Circuit",
+            "Tidal Access"
+        ],
+        "story": "Bhadkeshwar Mahadev is a sea-facing Shiva temple in Dwarka, visited as part of the local Shaiva pilgrimage circuit.",
+        "highlight": "Darshan with a rocky shoreline backdrop and changing tide conditions.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhadkeshwar%20Mahadev%20Temple,%20Dwarka.jpg",
+        "credit": "Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhadkeshwar_Mahadev_Temple,_Dwarka.jpg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:57:25+05:30",
+        "bestTime": "October to March, especially early morning and evening.",
+        "timings": "Open daily; timings vary by season and local administration.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Approach conditions can vary during high tides and rough sea weather.",
+        "rituals": [
+            "Daily puja",
+            "Aarti"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "Bhadkeshwar is a prominent Shiva shrine on Dwarka's coast and is widely visited by devotees and pilgrims.",
+            "puranicView": "Local Shaiva tradition treats this temple as a key Mahadev stop within the Dwarka sacred geography.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Commons file: Bhadkeshwar Mahadev Temple, Dwarka",
+                    "url": "https://commons.wikimedia.org/wiki/File:Bhadkeshwar_Mahadev_Temple,_Dwarka.jpg"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Bhadkeshwar%20Mahadev%20Temple%20Dwarka"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Devbhumi Dwarka",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T07:27:30Z"
+    },
+    {
+        "name": "Nilkanth Mahadev Temple",
+        "state": "Gujarat",
+        "city": "Dwarka",
+        "region": "Dwarka town area, Devbhumi Dwarka district",
+        "tags": [
+            "Mahadev",
+            "Dwarka Circuit",
+            "Local Shrine"
+        ],
+        "story": "Nilkanth Mahadev Temple is a Shiva shrine in Dwarka's local temple network and is visited by residents and yatris.",
+        "highlight": "Local Shaiva worship node in the Dwarka pilgrimage zone.",
+        "image": "/temples/temple-02.svg",
+        "credit": "",
+        "creditUrl": "",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:57:25+05:30",
+        "bestTime": "Morning and evening darshan.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Confirm exact local darshan timings on arrival.",
+        "rituals": [
+            "Daily puja",
+            "Abhishek"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "The temple functions as a neighborhood Mahadev shrine within Dwarka's larger religious landscape.",
+            "puranicView": "The Nilkanth form of Shiva is traditionally associated with protection and penance in Shaiva worship.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Nilkanth%20Mahadev%20Temple%20Dwarka"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Devbhumi Dwarka",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T07:27:30Z"
+    },
+    {
+        "name": "Rin Mukteshwar Mahadev",
+        "state": "Gujarat",
+        "city": "Dwarka",
+        "region": "Dwarka temple belt, Devbhumi Dwarka district",
+        "tags": [
+            "Mahadev",
+            "Rin Mukti",
+            "Dwarka Circuit"
+        ],
+        "story": "Rin Mukteshwar Mahadev is revered as a Shiva shrine where devotees pray for relief from burdens and karmic debts.",
+        "highlight": "A focused local shrine for Rin-mukti prayers in Dwarka.",
+        "image": "/temples/temple-05.svg",
+        "credit": "",
+        "creditUrl": "",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:57:25+05:30",
+        "bestTime": "Morning puja hours.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Often visited along with nearby Dwarka Shiva temples.",
+        "rituals": [
+            "Daily puja",
+            "Rudrabhishek"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "Rin Mukteshwar worship is part of the broader Shiva devotional practice across western India.",
+            "puranicView": "Shaiva tradition associates Rin-mukti worship with Lord Shiva's grace and release from distress.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Rin%20Mukteshwar%20Mahadev%20Dwarka"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Devbhumi Dwarka",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T07:27:30Z"
+    },
+    {
+        "name": "Indreshwar Mahadev Temple",
+        "state": "Gujarat",
+        "city": "Dwarka",
+        "region": "Dwarka town area, Devbhumi Dwarka district",
+        "tags": [
+            "Mahadev",
+            "Dwarka Circuit",
+            "Local Shrine"
+        ],
+        "story": "Indreshwar Mahadev Temple is a Shiva temple in Dwarka's devotional circuit and is frequented for daily worship.",
+        "highlight": "Traditional local Mahadev darshan within the Dwarka sacred cluster.",
+        "image": "/temples/temple-06.svg",
+        "credit": "",
+        "creditUrl": "",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T12:57:25+05:30",
+        "bestTime": "Morning and evening aarti hours.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Temple visits are often combined with nearby Dwarka shrines.",
+        "rituals": [
+            "Daily puja",
+            "Aarti"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "Indreshwar Mahadev is part of Dwarka's neighborhood Shiva worship tradition.",
+            "puranicView": "Local Shaiva worship treats Indreshwar as one of the Mahadev nodes within the Dwarka temple route.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Indreshwar%20Mahadev%20Temple%20Dwarka"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Devbhumi Dwarka",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T07:27:30Z"
+    },
+    {
+        "name": "Bhavnath Mahadev Mandir",
+        "state": "Gujarat",
+        "city": "Junagadh",
+        "region": "Bhavnath Taleti, Girnar foothills, Junagadh district",
+        "tags": [
+            "Girnar",
+            "Taleti",
+            "Maha Shivaratri Mela"
+        ],
+        "story": "Bhavnath Mahadev at Girnar Taleti is a central Shaiva shrine of Junagadh and a major gathering point during the Shivaratri fair.",
+        "highlight": "The main Shaiva anchor at the base of the Girnar sacred hill circuit.",
+        "image": "/temples/temple-01.svg",
+        "credit": "",
+        "creditUrl": "",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T13:02:55+05:30",
+        "bestTime": "Early morning darshan; Maha Shivaratri period for the annual fair.",
+        "timings": "Open daily; timings vary during festival periods.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "High pilgrim footfall during Girnar and Shivaratri festivities.",
+        "rituals": [
+            "Daily puja",
+            "Abhishek",
+            "Festival aarti"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "Bhavnath Mahadev is an established Shaiva shrine at Girnar Taleti and a key ritual node in Junagadh's pilgrimage geography.",
+            "puranicView": "Girnar's sacred landscape traditions place Bhavnath as a powerful Mahadev seat at the hill's base.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Bhavnath Taleti",
+                    "url": "https://en.wikipedia.org/wiki/Bhavnath_Taleti"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Bhavnath%20Mahadev%20Mandir%20Junagadh"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Junagadh",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T07:32:55Z"
+    },
+    {
+        "name": "Jatashankar Mahadev Temple",
+        "state": "Gujarat",
+        "city": "Junagadh",
+        "region": "Girnar hill zone, Junagadh district",
+        "tags": [
+            "Girnar",
+            "Cave Shrine",
+            "Natural Stream"
+        ],
+        "story": "Jatashankar Mahadev is revered as a cave-linked Shiva node in the Girnar range, associated with flowing natural water at the shrine.",
+        "highlight": "A cave-style Girnar Mahadev node integrated with a natural water flow.",
+        "image": "/temples/temple-02.svg",
+        "credit": "",
+        "creditUrl": "",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T13:02:55+05:30",
+        "bestTime": "Morning hours; post-monsoon for easier access.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Terrain can be uneven in parts of the Girnar path network.",
+        "rituals": [
+            "Daily puja",
+            "Jal abhishek"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "Jatashankar is part of the wider Junagadh-Girnar Shaiva temple tradition.",
+            "puranicView": "The cave-and-water setting aligns with longstanding ascetic Shaiva worship motifs.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Jatashankar%20Mahadev%20Temple%20Girnar%20Junagadh"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Junagadh",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T07:32:55Z"
+    },
+    {
+        "name": "Brahmeshwar Mahadev",
+        "state": "Gujarat",
+        "city": "Junagadh",
+        "region": "Girnar pilgrimage circuit, Junagadh district",
+        "tags": [
+            "Girnar",
+            "Mahadev",
+            "Pilgrimage Circuit"
+        ],
+        "story": "Brahmeshwar Mahadev is counted among the Shiva shrines linked with the Girnar yatra tradition.",
+        "highlight": "One of the classical Mahadev nodes associated with Girnar's sacred route.",
+        "image": "/temples/temple-03.svg",
+        "credit": "",
+        "creditUrl": "",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T13:02:55+05:30",
+        "bestTime": "Morning darshan and cooler months.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Visit planning is advised when combining multiple Girnar shrines in one route.",
+        "rituals": [
+            "Daily puja",
+            "Abhishek"
+        ],
+        "festivals": [
+            "Mahashivratri"
+        ],
+        "moreDetails": {
+            "history": "Brahmeshwar is traditionally listed among notable Mahadev stops in the Girnar region.",
+            "puranicView": "Girnar's sacred landscape includes multiple Shiva focal points honored through local yatra practice.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Girnar temples overview",
+                    "url": "https://www.pravase.co.in/2024/07/visit-girnar-and-see-girnars-5-main.html"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Brahmeshwar%20Mahadev%20Girnar%20Junagadh"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Junagadh",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T07:32:55Z"
+    },
+    {
+        "name": "Mukteshwar Mahadev",
+        "state": "Gujarat",
+        "city": "Junagadh",
+        "region": "Girnar pilgrimage circuit, Junagadh district",
+        "tags": [
+            "Girnar",
+            "Mukti Tradition",
+            "Mahadev"
+        ],
+        "story": "Mukteshwar Mahadev is revered within the Girnar circuit where devotees seek Shiva's grace for spiritual liberation.",
+        "highlight": "A Girnar Shaiva node associated with mukti-oriented worship.",
+        "image": "/temples/temple-04.svg",
+        "credit": "",
+        "creditUrl": "",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T13:02:55+05:30",
+        "bestTime": "Morning darshan; winter season for comfortable pilgrimage.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Often covered along with nearby Girnar shrines in the same trip.",
+        "rituals": [
+            "Daily puja",
+            "Abhishek"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "Mukteshwar Mahadev appears in local Girnar temple-route listings and pilgrimage narratives.",
+            "puranicView": "Mukteshwar worship reflects Shiva's role as the giver of liberation in Shaiva theology.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Girnar temples overview",
+                    "url": "https://www.pravase.co.in/2024/07/visit-girnar-and-see-girnars-5-main.html"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Mukteshwar%20Mahadev%20Girnar%20Junagadh"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Junagadh",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T07:32:55Z"
+    },
+    {
+        "name": "Mankameshwar Mahadev",
+        "state": "Gujarat",
+        "city": "Junagadh",
+        "region": "Junagadh-Girnar temple zone, Junagadh district",
+        "tags": [
+            "Mankamna",
+            "Mahadev",
+            "Junagadh"
+        ],
+        "story": "Mankameshwar Mahadev is worshipped as a Shiva shrine where devotees offer prayers for fulfillment of vows.",
+        "highlight": "A devotional Mahadev node tied to wish-fulfillment prayer traditions.",
+        "image": "/temples/temple-05.svg",
+        "credit": "",
+        "creditUrl": "",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T13:02:55+05:30",
+        "bestTime": "Morning and evening darshan.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Best visited with the wider Girnar-Junagadh temple circuit.",
+        "rituals": [
+            "Daily puja",
+            "Rudrabhishek"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "Mankameshwar Mahadev is recognized in local Junagadh pilgrimage references.",
+            "puranicView": "In Shaiva devotion, Mankameshwar worship emphasizes sankalp and fulfillment through Shiva's grace.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Girnar temples overview",
+                    "url": "https://www.pravase.co.in/2024/07/visit-girnar-and-see-girnars-5-main.html"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Mankameshwar%20Mahadev%20Junagadh"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Junagadh",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T07:32:55Z"
+    },
+    {
+        "name": "Vastrapatheshwar Mahadev",
+        "state": "Gujarat",
+        "city": "Junagadh",
+        "region": "Girnar Ropeway Road area, Bhavnath Taleti, Junagadh district",
+        "tags": [
+            "Girnar",
+            "Taleti",
+            "Mahadev"
+        ],
+        "story": "Vastrapatheshwar Mahadev is a well-known Shiva shrine in the Girnar Taleti area near the Junagadh pilgrimage approach routes.",
+        "highlight": "A prominently located Mahadev stop near the Girnar access corridor.",
+        "image": "/temples/temple-06.svg",
+        "credit": "",
+        "creditUrl": "",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T13:02:55+05:30",
+        "bestTime": "Morning and sunset darshan windows.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Commonly included with Bhavnath and Girnar foothill temple visits.",
+        "rituals": [
+            "Daily puja",
+            "Aarti"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "The temple is an active Shaiva site in the Bhavnath-Girnar foothill cluster.",
+            "puranicView": "Regional Girnar tradition integrates Vastrapatheshwar into local Shiva pilgrimage practice.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Vastrapatheshwar%20Mahadev%20Girnar%20Junagadh"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Junagadh",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T07:32:55Z"
+    },
+    {
+        "name": "Dudheswar Mahadev",
+        "state": "Gujarat",
+        "city": "Junagadh",
+        "region": "Junagadh-Girnar temple zone, Junagadh district",
+        "tags": [
+            "Mahadev",
+            "Girnar Circuit",
+            "Junagadh"
+        ],
+        "story": "Dudheswar Mahadev is a Shiva shrine included in the wider Junagadh-Girnar devotional network.",
+        "highlight": "A traditional Mahadev node visited within local Shaiva routes.",
+        "image": "/temples/temple-01.svg",
+        "credit": "",
+        "creditUrl": "",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T13:02:55+05:30",
+        "bestTime": "Morning darshan hours.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Local guidance may help for precise route sequencing across Girnar shrines.",
+        "rituals": [
+            "Daily puja",
+            "Abhishek"
+        ],
+        "festivals": [
+            "Mahashivratri"
+        ],
+        "moreDetails": {
+            "history": "Dudheswar is listed among local Junagadh/Girnar Shiva temple references.",
+            "puranicView": "The shrine is part of the multipoint Shaiva pilgrimage ecology of the Girnar region.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "Girnar temples overview",
+                    "url": "https://www.pravase.co.in/2024/07/visit-girnar-and-see-girnars-5-main.html"
+                },
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Dudheswar%20Mahadev%20Junagadh"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Junagadh",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T07:32:55Z"
+    },
+    {
+        "name": "Muchkund Mahadev",
+        "state": "Gujarat",
+        "city": "Junagadh",
+        "region": "Junagadh region, Girnar influence zone, Junagadh district",
+        "tags": [
+            "Mahadev",
+            "Junagadh",
+            "Local Tradition"
+        ],
+        "story": "Muchkund Mahadev is revered in local Shaiva worship circles of the Junagadh region.",
+        "highlight": "A traditional local Shiva shrine connected with regional devotional practice.",
+        "image": "/temples/temple-02.svg",
+        "credit": "",
+        "creditUrl": "",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T13:02:55+05:30",
+        "bestTime": "Morning and evening darshan.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Temple naming may appear as Muchkund/Muchukund in local usage.",
+        "rituals": [
+            "Daily puja"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "The shrine is known through local temple-route references in the broader Junagadh context.",
+            "puranicView": "Mahadev worship at such local nodes is integrated into the layered Girnar devotional ecosystem.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Muchkund%20Mahadev%20Junagadh"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Junagadh",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T07:32:55Z"
+    },
+    {
+        "name": "Shree Siddheshwar Mahadev",
+        "state": "Gujarat",
+        "city": "Junagadh",
+        "region": "Junagadh-Girnar temple zone, Junagadh district",
+        "tags": [
+            "Siddheshwar",
+            "Mahadev",
+            "Junagadh"
+        ],
+        "story": "Shree Siddheshwar Mahadev is a Shiva shrine in the Junagadh region visited in local Shaiva worship routes.",
+        "highlight": "A Siddheshwar-form Mahadev node in the Junagadh sacred landscape.",
+        "image": "/temples/temple-03.svg",
+        "credit": "",
+        "creditUrl": "",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-23T13:02:55+05:30",
+        "bestTime": "Morning darshan and evening aarti hours.",
+        "timings": "Open daily; local timings vary.",
+        "dressCode": "Traditional and modest attire recommended.",
+        "entryNotes": "Useful to combine with other Girnar foothill and Junagadh shrines.",
+        "rituals": [
+            "Daily puja",
+            "Aarti"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month"
+        ],
+        "moreDetails": {
+            "history": "Siddheshwar worship has longstanding presence across Gujarat's Shaiva tradition, including Junagadh routes.",
+            "puranicView": "The Siddheshwar form symbolizes accomplished spiritual power in Shiva worship.",
+            "puranicSources": [],
+            "sources": [
+                {
+                    "label": "OpenStreetMap search",
+                    "url": "https://www.openstreetmap.org/search?query=Siddheshwar%20Mahadev%20Junagadh"
+                }
+            ],
+            "folkloreSources": []
+        },
+        "district": "Junagadh",
+        "verificationStatus": "verified",
+        "lastVerifiedAt": "2026-02-23T07:32:55Z"
     },
     {
         "name": "Trinetreshwar Temple",

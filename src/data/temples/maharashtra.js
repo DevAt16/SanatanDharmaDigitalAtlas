@@ -11,9 +11,9 @@ export const maharashtraTemples = [
     ],
     "story": "Cave 16 of Ellora, carved from a single rock from top to bottom. It is considered one of the most remarkable cave temples in the world.",
     "highlight": "The largest monolithic rock-cut structure in the world.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kailasa_temple_Ellora_caves.jpg/640px-Kailasa_temple_Ellora_caves.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kailasa_temple_Ellora.jpg",
     "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kailasa_temple_Ellora_caves.jpg",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kailasa_temple_Ellora.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -265,23 +265,23 @@ export const maharashtraTemples = [
     }
   },
   {
-    "name": "Nilkantheshwar (Pune)",
+    "name": "Neelkanteshwar Temple",
     "state": "Maharashtra",
     "city": "Pune",
-    "region": "Panshet Backwaters",
+    "region": "Kondhur Hills, near Panshet",
     "tags": [
       "Hilltop",
       "Views",
       "Dam"
     ],
-    "story": "A hilltop temple offering panoramic views of the Panshet and Varasgaon dams, built recently but popular for its location.",
-    "highlight": "The breathtaking view of the backwaters.",
+    "story": "A high-altitude Shiva shrine near Kondhur, approached through a trek route above the Panshet landscape.",
+    "highlight": "Hilltop darshan around 900m elevation with wide valley views.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nilkantheshwar_Panshet.jpg/640px-Nilkantheshwar_Panshet.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Nilkantheshwar_Panshet.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:47:00+05:30",
     "bestTime": "Monsoon.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -293,12 +293,12 @@ export const maharashtraTemples = [
       "Mahashivratri"
     ],
     "moreDetails": {
-      "history": "Modern construction.",
-      "architecture": "Functional.",
-      "darshan": "Scenic.",
-      "seasonal": "Monsoon is green and misty.",
-      "visitorNotes": "Great one-day trip from Pune.",
-      "festivals": "Shivratri.",
+      "history": "Neelkanteshwar worship in this hill zone is part of the wider Shaiva tradition around Pune district's western ranges.",
+      "architecture": "Hilltop temple layout with open viewing points and approach paths through elevated terrain.",
+      "darshan": "Darshan is combined with panoramic viewpoints across the backwater and valley belt.",
+      "seasonal": "Post-monsoon and winter offer clearer visibility with safer trekking conditions.",
+      "visitorNotes": "Carry water and plan travel in daylight due to hill-road conditions.",
+      "festivals": "Mahashivratri and Shravan Mondays see peak local attendance.",
       "sources": [
         {
           "label": "Panshet",
@@ -2035,7 +2035,7 @@ export const maharashtraTemples = [
     }
   },
   {
-    "name": "Kapaleshwar Temple",
+    "name": "Kapleshwar Mahadev Mandir",
     "state": "Maharashtra",
     "city": "Nashik",
     "region": "Godavari Bank, Panchavati",
@@ -2044,14 +2044,14 @@ export const maharashtraTemples = [
       "Ancient",
       "Godavari"
     ],
-    "story": "A unique Shiva temple where there is no Nandi statue facing the Linga, as Nandi is considered a Guru here.",
-    "highlight": "The absence of Nandi.",
+    "story": "A unique Shiva temple in Nashik where no Nandi idol stands before the linga, a rare tradition in Shaiva worship.",
+    "highlight": "The no-Nandi shrine geometry at Panchavati.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kapaleshwar_Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kapaleshwar_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:32:00+05:30",
     "bestTime": "All year.",
     "timings": "Open daily.",
     "dressCode": "Modest.",
@@ -2256,7 +2256,7 @@ export const maharashtraTemples = [
     }
   },
   {
-    "name": "Someshwar Temple",
+    "name": "Someshwar Mahadev Temple",
     "state": "Maharashtra",
     "city": "Nashik",
     "region": "Gangapur Road",
@@ -2265,14 +2265,14 @@ export const maharashtraTemples = [
       "Boating",
       "Picnic"
     ],
-    "story": "A popular Shiva temple on the banks of the Godavari, known for its pleasant climate and boating facilities.",
-    "highlight": "Riverside location and Dudhsagar waterfall nearby.",
+    "story": "A riverside Shiva temple on the Godavari in Nashik, known for steady local worship and seasonal pilgrim footfall.",
+    "highlight": "Godavari bank darshan and the nearby Dudhsagar area.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Someshwar_mandir,nashik.JPG",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Someshwar_mandir,nashik.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:33:00+05:30",
     "bestTime": "Monsoon.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -2300,7 +2300,7 @@ export const maharashtraTemples = [
     }
   },
   {
-    "name": "Trimbakeshwar Shiva Temple",
+    "name": "Shri Trimbakeshwar Jyotirlinga",
     "state": "Maharashtra",
     "city": "Trimbak",
     "region": "Brahmagiri Hills, Nashik",
@@ -2309,14 +2309,14 @@ export const maharashtraTemples = [
       "Godavari",
       "Peshwa Era"
     ],
-    "story": "A jyotirlinga shrine in Trimbak where the Godavari begins and the three-faced linga represents the Trimurti.",
-    "highlight": "Three-faced linga and the Brahmagiri pilgrim circuit.",
+    "story": "The jyotirlinga shrine of Trimbak, revered as a primary Shaiva macro-center where the Godavari source tradition begins.",
+    "highlight": "Three-faced linga tradition with Brahmagiri and Kushavarta pilgrimage circuit.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trimbakeshwar_Shiva_Temple_Gopuram.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Trimbakeshwar_Shiva_Temple_Gopuram.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:31:00+05:30",
     "bestTime": "Early morning; Shravan Mondays for devotional ambience.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest traditional attire recommended.",
@@ -2351,7 +2351,7 @@ export const maharashtraTemples = [
     }
   },
   {
-    "name": "Bhimashankar Temple",
+    "name": "Shri Bhimashankar Jyotirlinga",
     "state": "Maharashtra",
     "city": "Bhimashankar",
     "region": "Sahyadri Hills, Pune district",
@@ -2360,14 +2360,14 @@ export const maharashtraTemples = [
       "Sahyadri",
       "Nagara"
     ],
-    "story": "A forested jyotirlinga shrine in the Sahyadris, revered as the source region of the Bhima River.",
-    "highlight": "Nagara-style sanctum and the Portuguese bell in the temple complex.",
+    "story": "The Bhimashankar Jyotirlinga is the primary Shaiva macro-center in this forested Sahyadri circuit.",
+    "highlight": "Jyotirlinga sanctum, Sahyadri setting, and heritage temple bell.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhimashankar_temple.JPG",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhimashankar_temple.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:40:00+05:30",
     "bestTime": "Monsoon greenery and cool winter mornings.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2389,7 +2389,7 @@ export const maharashtraTemples = [
       "festivals": "Mahashivratri and Shravan month rituals draw major crowds.",
       "sources": [
         {
-          "label": "Bhimashankar Temple",
+          "label": "Shri Bhimashankar Jyotirlinga",
           "url": "https://en.wikipedia.org/wiki/Bhimashankar_Temple",
           "type": "Encyclopedia"
         },
@@ -2646,7 +2646,7 @@ export const maharashtraTemples = [
     }
   },
   {
-    "name": "Gondeshwar Temple",
+    "name": "Gondeshwar Temple (Sinnar)",
     "state": "Maharashtra",
     "city": "Sinnar",
     "region": "Nashik district",
@@ -2655,14 +2655,14 @@ export const maharashtraTemples = [
       "Yadava",
       "Panchayatana"
     ],
-    "story": "An 11th-12th century Bhumija Shiva temple with a panchayatana complex in Sinnar.",
-    "highlight": "Five-shrine layout and basalt carvings.",
+    "story": "An 11th-12th century Bhumija Shaivite complex at Sinnar, just outside Nashik city limits.",
+    "highlight": "Panchayatana layout and preserved Yadava-era stonework.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gondeshwar_temple,_Sinnar.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Gondeshwar_temple,_Sinnar.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:34:00+05:30",
     "bestTime": "Winter months for heritage walks.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2690,6 +2690,261 @@ export const maharashtraTemples = [
     }
   },
   {
+    "name": "Nilkantheshwar Temple",
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "region": "Goda Ghat, Panchavati",
+    "tags": [
+      "Goda Ghat",
+      "Panchavati",
+      "Ancient"
+    ],
+    "story": "A Shiva shrine at Goda Ghat in the old Nashik core, frequented by riverfront pilgrims.",
+    "highlight": "Temple presence along the sacred Godavari ghats.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nilkantheshwar%20mandir%20goda%20ghat%20nashik.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nilkantheshwar_mandir_goda_ghat_nashik.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T00:35:00+05:30",
+    "bestTime": "Morning and evening ghat hours.",
+    "timings": "Open daily; timings vary by local schedule.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Approach via Panchavati and Goda Ghat lanes.",
+    "rituals": [
+      "Abhishekam",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "The shrine is associated with the old Goda Ghat ritual circuit in Nashik.",
+      "architecture": "Traditional local temple form integrated with the riverfront zone.",
+      "darshan": "Best visited around regular aarti intervals on the ghat.",
+      "seasonal": "Shravan and major bathing days bring higher footfall.",
+      "visitorNotes": "Expect congestion around Ramkund and adjoining ghat roads.",
+      "festivals": "Mahashivratri and Shravan Somvar are major observances.",
+      "sources": [
+        {
+          "label": "Wikimedia: Nilkantheshwar mandir goda ghat nashik",
+          "url": "https://commons.wikimedia.org/wiki/File:Nilkantheshwar_mandir_goda_ghat_nashik.jpg",
+          "type": "Wikimedia Commons"
+        },
+        {
+          "label": "Nashik",
+          "url": "https://en.wikipedia.org/wiki/Nashik",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kedareshwar Temple",
+    "state": "Maharashtra",
+    "city": "Trimbak",
+    "region": "Near Kushavarta Kund, Trimbak",
+    "tags": [
+      "Kushavarta",
+      "Trimbak",
+      "Pilgrimage"
+    ],
+    "story": "A Kedareshwar Mahadev shrine near Kushavarta Kund in Trimbak, linked to the core Godavari-origin pilgrimage circuit.",
+    "highlight": "Kushavarta-adjacent darshan node in Trimbak.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carvings%20at%20Kedareswara%20Mahadev%20Mandir%20near%20Kusavarta%20kund,%20Nashik.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Carvings_at_Kedareswara_Mahadev_Mandir_near_Kusavarta_kund,_Nashik.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T00:36:00+05:30",
+    "bestTime": "Early morning in Trimbak.",
+    "timings": "Open daily; timings vary by local schedule.",
+    "dressCode": "Traditional attire preferred.",
+    "entryNotes": "Commonly visited with Trimbakeshwar and Kushavarta Kund.",
+    "rituals": [
+      "Abhishekam",
+      "Kund parikrama"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Kedareshwar worship is part of the wider Trimbak sacred geography around Kushavarta.",
+      "architecture": "Stone carvings around the shrine indicate continuous ritual use.",
+      "darshan": "Typically included in local Trimbak temple circuits.",
+      "seasonal": "Pilgrim movement increases during Shravan and Kumbh-linked periods.",
+      "visitorNotes": "Plan darshan early to avoid peak queue windows.",
+      "festivals": "Mahashivratri and Shravan Somvar draw local devotees.",
+      "sources": [
+        {
+          "label": "Wikimedia: Kedareswara Mahadev Mandir near Kusavarta",
+          "url": "https://commons.wikimedia.org/wiki/File:Carvings_at_Kedareswara_Mahadev_Mandir_near_Kusavarta_kund,_Nashik.jpg",
+          "type": "Wikimedia Commons"
+        },
+        {
+          "label": "Kushavart Tirtha - Nashik District",
+          "url": "https://nashik.gov.in/en/tourist-place/kushavart-tirtha-trimbakeshwar/",
+          "type": "Government tourism"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiv Jata Mandir",
+    "state": "Maharashtra",
+    "city": "Trimbak",
+    "region": "Brahmagiri Hill, Trimbak",
+    "tags": [
+      "Brahmagiri",
+      "Hill Shrine",
+      "Godavari Origin Tradition"
+    ],
+    "story": "A hill shrine on Brahmagiri linked to the local tradition of Shiva's jata and the origin narrative of the Godavari.",
+    "highlight": "High-elevation darshan on the Brahmagiri route.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T00:37:00+05:30",
+    "bestTime": "Clear-weather mornings.",
+    "timings": "Daytime access; timings vary by season and route conditions.",
+    "dressCode": "Comfortable modest attire for uphill walking.",
+    "entryNotes": "Access involves a climb on Brahmagiri routes.",
+    "rituals": [
+      "Hill darshan",
+      "Pradakshina"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "The shrine is part of the extended sacred landscape around Trimbak and Brahmagiri.",
+      "architecture": "Small hill shrine format aligned with trekking-pilgrimage practice.",
+      "darshan": "Often paired with Trimbakeshwar and nearby kund visits.",
+      "seasonal": "Monsoon routes can be slippery; winter visibility is clearer.",
+      "visitorNotes": "Carry water and use suitable footwear for the climb.",
+      "festivals": "Shravan observances increase pilgrim movement on the hill routes.",
+      "sources": [
+        {
+          "label": "Trimbakeshwar Shiva Temple",
+          "url": "https://en.wikipedia.org/wiki/Trimbakeshwar_Shiva_Temple",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Kushavart Tirtha - Nashik District",
+          "url": "https://nashik.gov.in/en/tourist-place/kushavart-tirtha-trimbakeshwar/",
+          "type": "Government tourism"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rameshwar Mahadev Mandir",
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "region": "Nashik city",
+    "tags": [
+      "Shaiva",
+      "City Shrine",
+      "Traditional Worship"
+    ],
+    "story": "A Rameshwar Mahadev shrine within Nashik's Shaiva worship network.",
+    "highlight": "Local Shiva worship in the Nashik urban temple circuit.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T00:38:00+05:30",
+    "bestTime": "Morning and evening aarti hours.",
+    "timings": "Open daily; timings vary by local schedule.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm local darshan timings on arrival.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Rameshwar-named Shiva shrines are an established part of regional Shaiva practice.",
+      "architecture": "Local temple architecture with regular neighborhood worship patterns.",
+      "darshan": "Best experienced during daily aarti intervals.",
+      "seasonal": "Festival Mondays and Mahashivratri draw larger gatherings.",
+      "visitorNotes": "Early visits are typically less crowded.",
+      "festivals": "Mahashivratri and Shravan are key periods.",
+      "sources": [
+        {
+          "label": "Nashik",
+          "url": "https://en.wikipedia.org/wiki/Nashik",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Maharashtra Tourism - Temples",
+          "url": "https://staging.maharashtratourism.gov.in/tourist-intrests/temples/",
+          "type": "State tourism"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mukteshwar Mahadev",
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "region": "Nashik city",
+    "tags": [
+      "Shaiva",
+      "Mahadev",
+      "Local Temple"
+    ],
+    "story": "A Mukteshwar Mahadev shrine in Nashik, visited as part of the city's Shiva temple circuit.",
+    "highlight": "Shaiva darshan within Nashik's temple network.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T00:39:00+05:30",
+    "bestTime": "Morning darshan hours.",
+    "timings": "Open daily; timings vary by local schedule.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Check local notice board for festival-day timing changes.",
+    "rituals": [
+      "Abhishekam",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Mukteshwar worship is part of the wider Mahadev tradition in Nashik.",
+      "architecture": "Typical neighborhood temple structure for daily worship.",
+      "darshan": "Routine daily puja with increased footfall on Mondays.",
+      "seasonal": "Shravan month sees the highest devotional activity.",
+      "visitorNotes": "Plan weekday mornings for a calmer visit.",
+      "festivals": "Mahashivratri and Shravan are key observance periods.",
+      "sources": [
+        {
+          "label": "Nashik",
+          "url": "https://en.wikipedia.org/wiki/Nashik",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Maharashtra Tourism - Temples",
+          "url": "https://staging.maharashtratourism.gov.in/tourist-intrests/temples/",
+          "type": "State tourism"
+        }
+      ]
+    }
+  },
+  {
     "name": "Bhuleshwar Temple",
     "state": "Maharashtra",
     "city": "Yawat",
@@ -2699,14 +2954,14 @@ export const maharashtraTemples = [
       "Protected monument",
       "8th century"
     ],
-    "story": "A hilltop Shiva temple famed for its carvings and the fort-top setting near Yawat.",
-    "highlight": "Basalt carvings and panoramic fort views.",
+    "story": "A major Yadava-period Shaiva hill temple near Yawat, known for its sculpted basalt architecture.",
+    "highlight": "13th-century hilltop shrine geometry and extensive stone carvings.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhuleshwar_Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhuleshwar_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:45:00+05:30",
     "bestTime": "Monsoon greenery and winter mornings.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -2718,7 +2973,7 @@ export const maharashtraTemples = [
       "Mahashivratri"
     ],
     "moreDetails": {
-      "history": "Bhuleshwar Temple is an 8th-century Shiva shrine and a protected monument near Pune.",
+      "history": "Bhuleshwar Temple is a medieval Yadava-era Shiva shrine and protected monument near Pune.",
       "architecture": "Basalt stone construction with classical carvings and sculpted panels.",
       "darshan": "The sanctum houses the Shiva linga, reached via a hilltop approach.",
       "seasonal": "Monsoon and winter visits are most comfortable.",
@@ -2734,7 +2989,7 @@ export const maharashtraTemples = [
     }
   },
   {
-    "name": "Pataleshwar Caves",
+    "name": "Pataleshwar Cave Temple",
     "state": "Maharashtra",
     "city": "Pune",
     "region": "Shivajinagar",
@@ -2743,14 +2998,14 @@ export const maharashtraTemples = [
       "Rashtrakuta",
       "Nandi Mandapa"
     ],
-    "story": "An 8th-century rock-cut Shaiva cave temple with a circular Nandi mandapa.",
-    "highlight": "Monolithic mandapa and historic cave sanctums.",
+    "story": "An 8th-century monolithic rock-cut Shiva shrine located in central Shivajinagar, Pune.",
+    "highlight": "Single-rock excavation with circular Nandi mandapa.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pataleshwar_cave_temple.JPG",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Pataleshwar_cave_temple.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:43:00+05:30",
     "bestTime": "Weekday mornings for quiet darshan.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Comfortable attire recommended.",
@@ -2770,7 +3025,7 @@ export const maharashtraTemples = [
       "festivals": "Mahashivratri is the key annual observance.",
       "sources": [
         {
-          "label": "Pataleshwar Caves, Pune",
+          "label": "Pataleshwar Cave Temple, Pune",
           "url": "https://en.wikipedia.org/wiki/Pataleshwar_Caves,_Pune",
           "type": "Encyclopedia"
         }
@@ -3133,7 +3388,7 @@ export const maharashtraTemples = [
     }
   },
   {
-    "name": "Omkareshwar Temple, Pune",
+    "name": "Shree Omkareshwar Temple",
     "state": "Maharashtra",
     "city": "Pune",
     "region": "Shaniwar Peth, Mutha River",
@@ -3149,7 +3404,7 @@ export const maharashtraTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Omkareshwar_Mandir_Pune.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:44:00+05:30",
     "bestTime": "Morning darshan and winter evenings.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
@@ -3179,6 +3434,363 @@ export const maharashtraTemples = [
           "label": "Pune Heritage: Omkareshwar Temple",
           "url": "https://puneheritage.defindia.org/omkareshwar-temple/",
           "type": "Heritage documentation"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gupt Bhimashankar",
+    "state": "Maharashtra",
+    "city": "Bhimashankar",
+    "region": "Bhimashankar Wildlife Sanctuary, Pune district",
+    "tags": [
+      "Forest Shrine",
+      "Waterfall",
+      "Bedrock Linga"
+    ],
+    "story": "A natural Shivalinga formation carved into bedrock below a forest waterfall in the Bhimashankar region.",
+    "highlight": "Raw cave-forest setting with waterfall-fed Shiva worship.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T00:41:00+05:30",
+    "bestTime": "Post-monsoon and winter mornings.",
+    "timings": "Daytime access; timings vary by weather and trail condition.",
+    "dressCode": "Modest attire with trekking footwear.",
+    "entryNotes": "Forest path and wet rocks require caution.",
+    "rituals": [
+      "Jal abhishek",
+      "Forest darshan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Gupt Bhimashankar is part of the oral pilgrimage circuit around the main Bhimashankar jyotirlinga landscape.",
+      "architecture": "Natural rock formation rather than a formal built temple mandapa.",
+      "darshan": "Pilgrims reach the linga through a forested approach below waterfall flow zones.",
+      "seasonal": "Trail access is most reliable after heavy monsoon periods recede.",
+      "visitorNotes": "Use local guidance for route safety in slippery terrain.",
+      "festivals": "Visited alongside Bhimashankar during Shravan and Shivratri pilgrimages.",
+      "sources": [
+        {
+          "label": "Bhimashankar Temple",
+          "url": "https://en.wikipedia.org/wiki/Bhimashankar_Temple",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Maharashtra Tourism: Bhimashankar",
+          "url": "https://www.maharashtratourism.gov.in/",
+          "type": "State tourism"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Panchgadi Mahadev Temple",
+    "state": "Maharashtra",
+    "city": "Bhimashankar",
+    "region": "Bhimashankar hill circuit, Pune district",
+    "tags": [
+      "Hill Shrine",
+      "Pilgrimage",
+      "Shaiva"
+    ],
+    "story": "A Shiva shrine on the Bhimashankar pilgrimage circuit, visited with nearby forest temples.",
+    "highlight": "Linked-stop darshan in the Bhimashankar hill network.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T00:42:00+05:30",
+    "bestTime": "Winter and clear monsoon-break days.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Often covered with Bhimashankar circuit routes.",
+    "rituals": [
+      "Abhishekam",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Panchgadi Mahadev is maintained as a regional Shiva worship stop in the greater Bhimashankar belt.",
+      "architecture": "Small-scale local temple architecture suited to hill-route pilgrims.",
+      "darshan": "Usually visited as a secondary darshan point after the main jyotirlinga.",
+      "seasonal": "Pilgrim footfall rises sharply during Shravan and Shivratri windows.",
+      "visitorNotes": "Confirm access with local temple volunteers in peak rain periods.",
+      "festivals": "Mahashivratri and Shravan Mondays are the major observance times.",
+      "sources": [
+        {
+          "label": "Bhimashankar Temple",
+          "url": "https://en.wikipedia.org/wiki/Bhimashankar_Temple",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Pune District",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwar Temple (Baner)",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "region": "Baner, Ram Nadi bank",
+    "tags": [
+      "Riverside",
+      "Baner",
+      "Urban Shrine"
+    ],
+    "story": "A Shiva temple in Baner located near the Ram Nadi, serving a long-standing local worship community.",
+    "highlight": "Ram Nadi-side darshan within Pune city limits.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Someshwar_Temple%2C_Pune_%2824282%29.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Someshwar_Temple,_Pune_(24282).jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T00:46:00+05:30",
+    "bestTime": "Morning and evening aarti hours.",
+    "timings": "Open daily; timings vary by local schedule.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Access through Baner internal roads; weekends can be busy.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Someshwar worship in Baner is part of Pune's broader Shiva temple tradition along old settlement corridors.",
+      "architecture": "Neighborhood temple form with a compact sanctum and ritual courtyard.",
+      "darshan": "Most devotees visit during morning puja and Monday evening aarti.",
+      "seasonal": "Shravan month sees increased local participation.",
+      "visitorNotes": "Early visits reduce queue times on Mondays.",
+      "festivals": "Mahashivratri and Shravan Somvar are primary observances.",
+      "sources": [
+        {
+          "label": "Baner, Pune",
+          "url": "https://en.wikipedia.org/wiki/Baner,_Pune",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Pune",
+          "url": "https://en.wikipedia.org/wiki/Pune",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nageshwar Temple (Somwar Peth)",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "region": "Somwar Peth",
+    "tags": [
+      "Somwar Peth",
+      "Historic Core",
+      "Shaiva"
+    ],
+    "story": "A traditional Shiva temple in Somwar Peth, counted among the old worship nodes of Pune's core settlement.",
+    "highlight": "Historic peth-area Shiva darshan in central Pune.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nageshwar_Temple%2C_Pune.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nageshwar_Temple,_Pune.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T00:48:00+05:30",
+    "bestTime": "Morning darshan and Monday evenings.",
+    "timings": "Open daily; timings vary by local schedule.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Located in dense old-city lanes with limited parking.",
+    "rituals": [
+      "Abhishekam",
+      "Rudra path"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Nageshwar worship has remained active in Pune's peth tradition for generations.",
+      "architecture": "Compact urban temple architecture adapted to narrow lane access.",
+      "darshan": "Regular devotees attend morning puja and weekly Monday rituals.",
+      "seasonal": "Festival months and Mondays carry heavier footfall.",
+      "visitorNotes": "Prefer walk-in approach due to limited vehicle access.",
+      "festivals": "Mahashivratri and Shravan Mondays are major observances.",
+      "sources": [
+        {
+          "label": "Pune",
+          "url": "https://en.wikipedia.org/wiki/Pune",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Somwar Peth",
+          "url": "https://en.wikipedia.org/wiki/Peth_(Pune)",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kedareshwar Temple (Kasba Peth)",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "region": "Kasba Peth",
+    "tags": [
+      "Kasba Peth",
+      "Traditional",
+      "Shaiva"
+    ],
+    "story": "A Kedareshwar Mahadev shrine in Kasba Peth, part of the old Pune Shaiva worship grid.",
+    "highlight": "Old-city peth lineage temple dedicated to Kedareshwar.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kedareshwar_Temple%2C_Pune.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kedareshwar_Temple,_Pune.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T00:49:00+05:30",
+    "bestTime": "Early morning and evening aarti.",
+    "timings": "Open daily; timings vary by local schedule.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Situated in Kasba Peth's inner lanes.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Kedareshwar worship in Kasba Peth is linked to Pune's long-standing neighborhood temple ecosystem.",
+      "architecture": "Traditional city-temple form with compact mandapa and sanctum.",
+      "darshan": "Darshan is steady throughout the day with peak Monday attendance.",
+      "seasonal": "Shravan and Mahashivratri are the most active periods.",
+      "visitorNotes": "Plan on foot for the last approach in peth lanes.",
+      "festivals": "Mahashivratri and Shravan observances are prominent.",
+      "sources": [
+        {
+          "label": "Peth areas of Pune",
+          "url": "https://en.wikipedia.org/wiki/Peth_(Pune)",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Pune",
+          "url": "https://en.wikipedia.org/wiki/Pune",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vruddheshwar Mahadev Temple",
+    "state": "Maharashtra",
+    "city": "Bhimashankar",
+    "region": "Bhimashankar forest route, Pune district",
+    "tags": [
+      "Forest Route",
+      "Mahadev",
+      "Pilgrimage"
+    ],
+    "story": "A Vruddheshwar Mahadev shrine on the extended Bhimashankar pilgrimage route through forested terrain.",
+    "highlight": "Quiet Shaiva darshan outside the core jyotirlinga queue zone.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T00:50:00+05:30",
+    "bestTime": "Winter and clear-weather mornings.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Route conditions vary during monsoon.",
+    "rituals": [
+      "Abhishekam",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Vruddheshwar Mahadev is counted among lesser-known Shaiva stops in the Bhimashankar devotional belt.",
+      "architecture": "Small temple structure suited to low-volume forest-route pilgrimage.",
+      "darshan": "Darshan is usually calm except during peak Shiva festivals.",
+      "seasonal": "Winter and post-monsoon are most convenient for approach.",
+      "visitorNotes": "Check trail and road updates before starting.",
+      "festivals": "Mahashivratri and Shravan Mondays draw the highest turnout.",
+      "sources": [
+        {
+          "label": "Bhimashankar Temple",
+          "url": "https://en.wikipedia.org/wiki/Bhimashankar_Temple",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Pune District",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jambhuldev Shiva Temple",
+    "state": "Maharashtra",
+    "city": "Mulshi",
+    "region": "Mulshi forest belt, Pune district",
+    "tags": [
+      "Forest Temple",
+      "Stone Masonry",
+      "Mulshi"
+    ],
+    "story": "An old stone Shiva shrine in the Mulshi forest zone, associated with rustic dry-masonry construction traditions.",
+    "highlight": "Remote forest darshan and heritage-style stone shrine character.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T00:51:00+05:30",
+    "bestTime": "Post-monsoon and winter.",
+    "timings": "Daytime access; local timings vary.",
+    "dressCode": "Modest attire and trekking footwear recommended.",
+    "entryNotes": "Remote approach through forest roads/tracks.",
+    "rituals": [
+      "Abhishekam",
+      "Forest puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Jambhuldev is preserved in local memory as an old forest Shiva node in the Mulshi region.",
+      "architecture": "Dry-masonry style stone construction with compact shrine form.",
+      "darshan": "Usually visited by small devotional groups rather than large city crowds.",
+      "seasonal": "Monsoon access can be difficult; post-monsoon is preferred.",
+      "visitorNotes": "Travel with local route guidance for remote sections.",
+      "festivals": "Mahashivratri remains the principal annual observance.",
+      "sources": [
+        {
+          "label": "Mulshi taluka",
+          "url": "https://en.wikipedia.org/wiki/Mulshi_taluka",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Pune District",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
         }
       ]
     }

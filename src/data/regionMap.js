@@ -1,0 +1,51 @@
+export const REGIONS = [
+  {
+    id: 'north',
+    label: 'North India',
+    labelHi: 'उत्तर भारत',
+    states: [
+      'Uttar Pradesh',
+      'Uttarakhand',
+      'Rajasthan',
+      'Bihar',
+      'Jharkhand',
+      'Haryana',
+      'Himachal Pradesh',
+      'Punjab',
+      'Jammu & Kashmir',
+    ],
+  },
+  {
+    id: 'south',
+    label: 'South India',
+    labelHi: 'दक्षिण भारत',
+    states: ['Tamil Nadu', 'Karnataka', 'Andhra Pradesh', 'Telangana', 'Kerala'],
+  },
+  {
+    id: 'west',
+    label: 'West India',
+    labelHi: 'पश्चिम भारत',
+    states: ['Maharashtra', 'Gujarat', 'Goa', 'Madhya Pradesh', 'Chhattisgarh'],
+  },
+  {
+    id: 'east',
+    label: 'East India',
+    labelHi: 'पूर्व भारत',
+    states: ['West Bengal', 'Odisha', 'Assam', 'Bihar'],
+  },
+  {
+    id: 'northeast',
+    label: 'Northeast India',
+    labelHi: 'पूर्वोत्तर भारत',
+    states: [
+      'Assam',
+      'Tripura',
+      'Arunachal Pradesh',
+      'Manipur',
+      'Meghalaya',
+      'Nagaland',
+      'Mizoram',
+      'Sikkim',
+    ],
+  },
+]
