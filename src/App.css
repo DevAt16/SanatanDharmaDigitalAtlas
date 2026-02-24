@@ -4048,3 +4048,70 @@ section.stories-section {
     padding: 0.75rem;
   }
 }
+
+/* ─── Bottom Navigation (mobile only) ─────────────────────────────────────── */
+.bottom-nav {
+  display: none;
+}
+
+@media (max-width: 640px) {
+  .top-nav { display: none; }
+
+  .bottom-nav {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 200;
+    background: var(--surface-0, #fdfbf7);
+    border-top: 1px solid var(--border-soft);
+    height: 60px;
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+    box-shadow: 0 -2px 12px rgba(0, 0, 0, 0.06);
+  }
+
+  .bottom-nav-item {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    font-size: 0.6rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 6px 4px;
+    cursor: pointer;
+    transition: color 0.15s ease;
+  }
+  .bottom-nav-item i { font-size: 1.1rem; }
+  .bottom-nav-item.active { color: var(--ember); }
+  .bottom-nav-item:hover { color: var(--ember); }
+
+  /* Push content up so it's not hidden behind bottom nav */
+  .stories-section,
+  .about-page,
+  .recent-page,
+  .circuits-page,
+  .map-page {
+    padding-bottom: 72px;
+  }
+}
+
+/* ─── Modal drag handle (mobile swipe indicator) ───────────────────────────── */
+.modal-drag-handle {
+  width: 40px;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--border-soft);
+  margin: 0 auto 16px;
+  flex-shrink: 0;
+}
+@media (min-width: 641px) {
+  .modal-drag-handle { display: none; }
+}

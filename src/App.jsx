@@ -1743,13 +1743,20 @@ function App() {
         const temple = queue.shift()
         if (!temple) continue
 
+        const imageValue = String(temple?.image || '').trim()
+        const usesDefaultImage = placeholderImages.includes(imageValue)
         const suspect = isSuspiciousImage(temple)
         const probe = await probeImage(temple.image)
-        const needsReview = suspect || !probe.ok
+        const needsReview = usesDefaultImage || suspect || !probe.ok
         if (needsReview) {
           const query = `${String(temple.name || '')
             .replace(/[()]/g, '')
             .trim()} ${String(temple.city || '').trim()} temple`
+          const status = !probe.ok
+            ? `broken:${probe.reason}`
+            : usesDefaultImage
+              ? 'default:image'
+              : 'suspicious'
 
           try {
             const candidates = await searchCommonsImages(query, 10)
@@ -1758,7 +1765,7 @@ function App() {
               name: temple.name,
               city: temple.city,
               oldImage: temple.image || '',
-              status: probe.ok ? 'suspicious' : `broken:${probe.reason}`,
+              status,
               query,
               suggestedImage: best?.imageUrl || '',
               suggestedCreditUrl: best?.filePageUrl || '',
@@ -1770,7 +1777,7 @@ function App() {
               name: temple.name,
               city: temple.city,
               oldImage: temple.image || '',
-              status: probe.ok ? 'suspicious' : `broken:${probe.reason}`,
+              status,
               query,
               error: String(error?.message || error),
             })
@@ -3267,6 +3274,54 @@ function App() {
           </div>
         </div>
       ) : null}
+
+      <nav className="bottom-nav" aria-label={t.nav.label}>
+        <button
+          className={`bottom-nav-item${activePage === 'temples' ? ' active' : ''}`}
+          type="button"
+          aria-current={activePage === 'temples' ? 'page' : undefined}
+          onClick={() => switchPage('temples')}
+        >
+          <i className="fa-solid fa-om" aria-hidden="true" />
+          <span>{t.nav.temples}</span>
+        </button>
+        <button
+          className={`bottom-nav-item${activePage === 'recent' ? ' active' : ''}`}
+          type="button"
+          aria-current={activePage === 'recent' ? 'page' : undefined}
+          onClick={() => switchPage('recent')}
+        >
+          <i className="fa-solid fa-star" aria-hidden="true" />
+          <span>{t.nav.recent}</span>
+        </button>
+        <button
+          className={`bottom-nav-item${activePage === 'circuits' ? ' active' : ''}`}
+          type="button"
+          aria-current={activePage === 'circuits' ? 'page' : undefined}
+          onClick={() => switchPage('circuits')}
+        >
+          <i className="fa-solid fa-fire" aria-hidden="true" />
+          <span>{t.nav.circuits}</span>
+        </button>
+        <button
+          className={`bottom-nav-item${activePage === 'map' ? ' active' : ''}`}
+          type="button"
+          aria-current={activePage === 'map' ? 'page' : undefined}
+          onClick={() => switchPage('map')}
+        >
+          <i className="fa-solid fa-map" aria-hidden="true" />
+          <span>{t.nav.map}</span>
+        </button>
+        <button
+          className={`bottom-nav-item${activePage === 'about' ? ' active' : ''}`}
+          type="button"
+          aria-current={activePage === 'about' ? 'page' : undefined}
+          onClick={() => switchPage('about')}
+        >
+          <i className="fa-solid fa-circle-info" aria-hidden="true" />
+          <span>{t.nav.about}</span>
+        </button>
+      </nav>
 
     </div>
   )
