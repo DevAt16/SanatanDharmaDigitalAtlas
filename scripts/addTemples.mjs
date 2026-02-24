@@ -8,6 +8,21 @@ import {
   resolveDistrict,
 } from './templeDuplicateUtils.mjs'
 
+const IST_OFFSET_MS = 5.5 * 60 * 60 * 1000
+const pad2 = (value) => String(value).padStart(2, '0')
+const toIstIso = (date) => {
+  const istDate = new Date(date.getTime() + IST_OFFSET_MS)
+  const year = istDate.getUTCFullYear()
+  const month = pad2(istDate.getUTCMonth() + 1)
+  const day = pad2(istDate.getUTCDate())
+  const hours = pad2(istDate.getUTCHours())
+  const minutes = pad2(istDate.getUTCMinutes())
+  const seconds = pad2(istDate.getUTCSeconds())
+  return `${year}-${month}-${day}T${hours}:${minutes}:${seconds}+05:30`
+}
+const getCurrentIstIso = (offsetSeconds = 0) =>
+  toIstIso(new Date(Date.now() + offsetSeconds * 1000))
+
 const printUsageAndExit = () => {
   console.error(
     'Usage: node scripts/addTemples.mjs <state-file> <export-name> <input-json>'
@@ -136,6 +151,12 @@ for (const rawTemple of incomingTemples) {
       reason: strictDuplicate ? 'duplicate_strict(name+state+district+city)' : 'duplicate_loose',
     })
     continue
+  }
+
+  // Always stamp inserted records with the current IST add-time.
+  candidate.addedAt = getCurrentIstIso(added.length)
+  if (candidate.isNew === undefined) {
+    candidate.isNew = true
   }
 
   nextTemples.push(candidate)

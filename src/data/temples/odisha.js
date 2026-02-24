@@ -16,7 +16,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Lingaraj_Temple_Bhubaneswar.jpg",
     "deity": "Harihara (Shiva/Vishnu)",
     "tradition": "Shaiva/Vaishnava",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:52:00+05:30",
     "bestTime": "Shivratri.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -43,7 +43,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Mukteshvara Temple",
+    "name": "Mukteswara Temple",
     "state": "Odisha",
     "city": "Bhubaneswar",
     "region": "Khordha district",
@@ -59,7 +59,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Mukteshvara_Temple,_Bhubaneswar.jpg",
     "deity": "Shiva (Mukteshvara)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:53:00+05:30",
     "bestTime": "Mukteswar Dance Festival (Jan).",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -100,7 +100,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Rajarani_Temple_01.jpg",
     "deity": "Shiva (Historical connection)",
     "tradition": "Shaiva (Artistic)",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:29:00+05:30",
     "bestTime": "Rajarani Music Festival (Jan).",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -125,7 +125,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Parasuramesvara Temple",
+    "name": "Parasurameswara Temple",
     "state": "Odisha",
     "city": "Bhubaneswar",
     "region": "Khordha district",
@@ -141,7 +141,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Parasuramesvara_Temple_-_Lingam.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva (Pasupata)",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:54:00+05:30",
     "bestTime": "June-July (Parasurami Ashtami).",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -182,7 +182,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Brahmeswara_temple_Bhubaneswar_(1).jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:55:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -223,7 +223,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:BHASKARESWAR_TEMPLE,_BHUBANESWAR,_ODISHA.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:56:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -264,7 +264,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Megheswar_Temple_Bhubaneswar.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:57:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -305,7 +305,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Yameshwar_Temple%2C_Bhubaneswar%2C_Khordha%2C_Odisha%2C_India_(2016).jpg",
     "deity": "Shiva (Yameshwar)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:58:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -346,7 +346,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kapilesvara_temple_(6).jpg",
     "deity": "Shiva (Kapilesvara)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:29:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -412,7 +412,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Siddheswara Temple",
+    "name": "Siddhesvara Temple",
     "state": "Odisha",
     "city": "Bhubaneswar",
     "region": "Khordha district",
@@ -428,7 +428,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250609_064243183_Siddheswara_Temple_and_Mukteswara_Temple_Bhubaneswar,_Odisha_02.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T00:59:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -469,7 +469,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kedareswara_Deula,_Bhubaneswar,_Odisha.jpg",
     "deity": "Shiva (Kedar)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:00:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -494,7 +494,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Rameswar Temple",
+    "name": "Rameswara Temple",
     "state": "Odisha",
     "city": "Bhubaneswar",
     "region": "Khordha district",
@@ -510,7 +510,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Rameswar_Temple%2C_Bbsr_-_1.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:01:00+05:30",
     "bestTime": "Ashokashtami (April).",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -851,7 +851,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Lokanatha Temple",
+    "name": "Shree Lokanatha Temple",
     "state": "Odisha",
     "city": "Puri",
     "region": "Puri district",
@@ -867,7 +867,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Lokanath_temple.jpeg",
     "deity": "Shiva (Lokanatha)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:02:00+05:30",
     "bestTime": "Pankoddhar Ekadashi.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -909,7 +909,7 @@ export const odishaTemples = [
     "creditUrl": "/temples/temple-05.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:03:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -934,7 +934,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Markandeshwar Temple (Puri)",
+    "name": "Markandeshwar Temple",
     "state": "Odisha",
     "city": "Puri",
     "region": "Puri district",
@@ -950,7 +950,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Markandeshwar_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:04:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -991,7 +991,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kap%C4%81lamochana_Siva_Temple_(Top_view).jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:05:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1014,6 +1014,102 @@ export const odishaTemples = [
     }
   },
   {
+    "name": "Nilakantheswar Temple",
+    "state": "Odisha",
+    "city": "Puri",
+    "region": "Puri district",
+    "tags": [
+      "Shaiva",
+      "Puri",
+      "Traditional"
+    ],
+    "story": "A Shiva shrine in the Puri sacred grid, locally worshipped as Nilakantheswar Mahadev.",
+    "highlight": "Traditional Puri Shaiva darshan setting.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Nilakantheswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:06:00+05:30",
+    "bestTime": "Morning and evening puja hours.",
+    "timings": "Open daily; timings vary by local schedule.",
+    "dressCode": "Traditional attire preferred.",
+    "entryNotes": "Part of local Puri temple circuit.",
+    "rituals": [
+      "Abhishekam",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Nilakantheswar worship in Puri is linked to the broader Shaiva traditions of the Jagannath region.",
+      "architecture": "Regional Odia temple form with a compact sanctum.",
+      "visitorNotes": "Often visited along with other Shiva shrines in the town.",
+      "sources": [
+        {
+          "label": "Puri",
+          "url": "https://en.wikipedia.org/wiki/Puri",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "List of temples in Puri",
+          "url": "https://en.wikipedia.org/wiki/Puri",
+          "type": "Reference"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Visvanath Temple",
+    "state": "Odisha",
+    "city": "Puri",
+    "region": "Puri district",
+    "tags": [
+      "Shaiva",
+      "Visvanath",
+      "Puri"
+    ],
+    "story": "A Visvanath Shiva shrine in Puri associated with the town's long-standing Shaiva worship tradition.",
+    "highlight": "Local Shiva temple in Puri's sacred settlement.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Visvanath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:08:00+05:30",
+    "bestTime": "Early morning darshan.",
+    "timings": "Open daily; timings vary by local schedule.",
+    "dressCode": "Traditional attire preferred.",
+    "entryNotes": "Usually visited with nearby Puri temple circuit stops.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Maha Shivaratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Visvanath devotion in Puri reflects the city's multi-shrine Shaiva network.",
+      "architecture": "Traditional local shrine format.",
+      "visitorNotes": "Check local timings during festival weeks.",
+      "sources": [
+        {
+          "label": "Puri",
+          "url": "https://en.wikipedia.org/wiki/Puri",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Odisha Tourism",
+          "url": "https://odishatourism.gov.in/content/tourism/en.html",
+          "type": "Government tourism"
+        }
+      ]
+    }
+  },
+  {
     "name": "Dhabaleswar Temple",
     "state": "Odisha",
     "city": "Cuttack",
@@ -1030,7 +1126,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Dhabaleswara_temple_Cuttack_Odisha.jpg",
     "deity": "Shiva (Dhabaleswar)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:29:00+05:30",
     "bestTime": "Kartik Purnima.",
     "timings": "Open daily (Boat access).",
     "dressCode": "Casual.",
@@ -1050,6 +1146,334 @@ export const odishaTemples = [
         {
           "label": "Dhabaleswar",
           "url": "https://en.wikipedia.org/wiki/Dhabaleswar",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Paramahansanath Temple",
+    "state": "Odisha",
+    "city": "Cuttack",
+    "region": "Cuttack district",
+    "tags": [
+      "Shaiva",
+      "Traditional",
+      "Cuttack"
+    ],
+    "story": "A Paramahansanath Shiva shrine in Cuttack district, maintained through local Shaiva worship traditions.",
+    "highlight": "Traditional Mahadev darshan in the Cuttack temple circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Paramahansanath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:30:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan month.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Within Cuttack district temple routes.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Paramahansanath worship continues as part of Cuttack's local Shiva temple network.",
+      "architecture": "Regional Odisha shrine form.",
+      "visitorNotes": "Morning darshan is generally quieter.",
+      "sources": [
+        {
+          "label": "Cuttack district",
+          "url": "https://en.wikipedia.org/wiki/Cuttack_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chateshwar Temple",
+    "state": "Odisha",
+    "city": "Cuttack",
+    "region": "Cuttack district",
+    "tags": [
+      "Mahadev",
+      "Shaiva",
+      "District shrine"
+    ],
+    "story": "Chateshwar Temple is a Shiva shrine in Cuttack district with regular community worship.",
+    "highlight": "Community-led Mahadev worship in Cuttack.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chateswar%20Temple%20at%20Kisinapur.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Chateswar_Temple_at_Kisinapur.jpg",
+    "deity": "Shiva (Chateshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:31:00+05:30",
+    "bestTime": "Maha Shivaratri and Mondays.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Cuttack district local access roads.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Chateshwar is preserved in local Shaiva practice across the Cuttack region.",
+      "architecture": "Simple local temple architecture.",
+      "visitorNotes": "Check local timings during festival weeks.",
+      "sources": [
+        {
+          "label": "Cuttack",
+          "url": "https://en.wikipedia.org/wiki/Cuttack",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bira Bhadreswar Temple",
+    "state": "Odisha",
+    "city": "Cuttack",
+    "region": "Cuttack district",
+    "tags": [
+      "Bhadreswar",
+      "Shaiva",
+      "Traditional"
+    ],
+    "story": "A Bira Bhadreswar Shiva temple in Cuttack district, visited for daily and festival worship.",
+    "highlight": "Bhadreswar-form Shiva worship in Cuttack.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Bhadreswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:32:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan Somvar.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Part of Cuttack district temple network.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Bhadreswar worship has strong local continuity in Odisha's Shaiva traditions.",
+      "architecture": "Regional shrine construction style.",
+      "visitorNotes": "Plan early visits on Mondays.",
+      "sources": [
+        {
+          "label": "Cuttack district",
+          "url": "https://en.wikipedia.org/wiki/Cuttack_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Gadagadeshwar Temple",
+    "state": "Odisha",
+    "city": "Cuttack",
+    "region": "Cuttack district",
+    "tags": [
+      "Gadagadeshwar",
+      "Mahadev",
+      "Shaiva"
+    ],
+    "story": "Shree Gadagadeshwar Temple is a Shiva shrine in the Cuttack region with regular local devotional activity.",
+    "highlight": "Cuttack-based Gadagadeshwar Mahadev darshan.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Gadagadeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:34:00+05:30",
+    "bestTime": "Maha Shivaratri and festival Mondays.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Cuttack district local route.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Gadagadeshwar worship is part of Cuttack's community-level Shaiva tradition.",
+      "architecture": "Traditional local shrine profile.",
+      "visitorNotes": "Best visited during morning puja.",
+      "sources": [
+        {
+          "label": "Cuttack",
+          "url": "https://en.wikipedia.org/wiki/Cuttack",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Uttareswar Temple",
+    "state": "Odisha",
+    "city": "Cuttack",
+    "region": "Cuttack district",
+    "tags": [
+      "Uttareswar",
+      "Shaiva",
+      "Heritage"
+    ],
+    "story": "A Cuttack-district Uttareswar Shiva shrine in the local devotional network.",
+    "highlight": "Traditional Uttareswar Mahadev worship.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uttareswar%20Temple.JPG",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Uttareswar_Temple.JPG",
+    "deity": "Shiva (Uttareswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:35:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan month.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Cuttack district temple area.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Uttareswar worship appears across Odisha; this entry tracks the Cuttack district temple listing.",
+      "architecture": "Local Odisha temple style.",
+      "visitorNotes": "Local festival calendars can affect timings.",
+      "sources": [
+        {
+          "label": "Cuttack district",
+          "url": "https://en.wikipedia.org/wiki/Cuttack_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sri Lakheswar Mahadev Temple",
+    "state": "Odisha",
+    "city": "Cuttack",
+    "region": "Cuttack district",
+    "tags": [
+      "Lakheswar",
+      "Mahadev",
+      "Shaiva"
+    ],
+    "story": "A Sri Lakheswar Mahadev shrine in Cuttack district with regular Shaiva worship.",
+    "highlight": "Lakheswar-form Mahadev temple in Cuttack.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Lakheswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:36:00+05:30",
+    "bestTime": "Maha Shivaratri and Mondays.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Cuttack district local shrine route.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Lakheswar worship traditions are established across Odisha's Shiva temple network.",
+      "architecture": "Regional shrine structure.",
+      "visitorNotes": "Check local timings before travel.",
+      "sources": [
+        {
+          "label": "Cuttack",
+          "url": "https://en.wikipedia.org/wiki/Cuttack",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aadia Mahadev Temple",
+    "state": "Odisha",
+    "city": "Cuttack",
+    "region": "Cuttack district",
+    "tags": [
+      "Aadia",
+      "Mahadev",
+      "Shaiva"
+    ],
+    "story": "Aadia Mahadev Temple is a local Shiva shrine in the Cuttack district temple circuit.",
+    "highlight": "District-level Aadia Mahadev worship.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Aadia Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:37:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan month.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Cuttack district local temple access.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Aadia Mahadev worship continues in local Cuttack Shaiva practices.",
+      "architecture": "Simple regional temple format.",
+      "visitorNotes": "Weekday mornings are less crowded.",
+      "sources": [
+        {
+          "label": "Cuttack district",
+          "url": "https://en.wikipedia.org/wiki/Cuttack_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tribeniswar Temple",
+    "state": "Odisha",
+    "city": "Cuttack",
+    "region": "Cuttack district",
+    "tags": [
+      "Tribeniswar",
+      "Shiva",
+      "Shaiva"
+    ],
+    "story": "Tribeniswar Temple is a Shiva shrine in Cuttack district associated with local Mahadev worship traditions.",
+    "highlight": "Tribeniswar Mahadev darshan in Cuttack district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Tribeniswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:38:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan Mondays.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Part of Cuttack district temple routes.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Tribeniswar worship is preserved in local Shaiva devotional practice.",
+      "architecture": "Traditional local shrine style.",
+      "visitorNotes": "Verify local festival-day schedule before travel.",
+      "sources": [
+        {
+          "label": "Cuttack district",
+          "url": "https://en.wikipedia.org/wiki/Cuttack_district",
           "type": "Encyclopedia"
         }
       ]
@@ -1097,7 +1521,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Sobhaneswar Temple",
+    "name": "Sovaneswara Mahadev Temple",
     "state": "Odisha",
     "city": "Niali",
     "region": "Cuttack district",
@@ -1113,7 +1537,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Sobhaneswar_Temple_Niali.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:33:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -1303,7 +1727,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Chandaneshwar Temple",
+    "name": "Chandaneswar Shiva Temple",
     "state": "Odisha",
     "city": "Balasore",
     "region": "Balasore district",
@@ -1319,7 +1743,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Chandaneswar_Temple_Balasore.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva (Folk)",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:39:00+05:30",
     "bestTime": "April (Chaitra).",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -1360,7 +1784,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Panchalingeswara_Temple_Nilagiri_Baleswar.jpg",
     "deity": "Shiva (Panchalingeswar)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:40:00+05:30",
     "bestTime": "Winter.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -1426,7 +1850,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Bhushandeswar Temple",
+    "name": "Bhusandeswar Shiva Temple",
     "state": "Odisha",
     "city": "Bhograi",
     "region": "Balasore district",
@@ -1442,7 +1866,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhusandeswar.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:41:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -1673,7 +2097,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Beleswar Temple",
+    "name": "Beleswar Mahadev Temple",
     "state": "Odisha",
     "city": "Puri",
     "region": "Puri district",
@@ -1689,7 +2113,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:BeleswarTemple.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:07:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -1712,7 +2136,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Huma Temple",
+    "name": "Leaning Temple of Huma (Bimaleswar Temple)",
     "state": "Odisha",
     "city": "Sambalpur",
     "region": "Sambalpur district",
@@ -1728,7 +2152,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Huma%2C_Sambalpur.jpg",
     "deity": "Shiva (Bimaleswar)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:19:00+05:30",
     "bestTime": "Shivratri.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -1747,6 +2171,745 @@ export const odishaTemples = [
         {
           "label": "Huma",
           "url": "https://en.wikipedia.org/wiki/Leaning_Temple_of_Huma",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gudeswar Shiva Temple",
+    "state": "Odisha",
+    "city": "Sambalpur",
+    "region": "Sambalpur district",
+    "tags": [
+      "Shiva",
+      "Regional Shrine",
+      "Shaiva"
+    ],
+    "story": "A local Shiva shrine in Sambalpur district, worshipped as Gudeswar Mahadev.",
+    "highlight": "Traditional Shaiva worship in the Sambalpur temple circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Gudeswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:20:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan month.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Part of local Sambalpur darshan routes.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Gudeswar worship continues as part of local Shaiva traditions in western Odisha.",
+      "architecture": "Regional Odisha temple style.",
+      "visitorNotes": "Morning darshan is usually less crowded.",
+      "sources": [
+        {
+          "label": "Sambalpur district",
+          "url": "https://en.wikipedia.org/wiki/Sambalpur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Budharaja Shiva Temple",
+    "state": "Odisha",
+    "city": "Sambalpur",
+    "region": "Budharaja, Sambalpur district",
+    "tags": [
+      "Hill Shrine",
+      "Budharaja",
+      "Shaiva"
+    ],
+    "story": "A Shiva temple in the Budharaja area of Sambalpur, visited by local devotees year-round.",
+    "highlight": "Hill-side Budharaja Shaiva darshan.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:21:00+05:30",
+    "bestTime": "Early mornings and Maha Shivaratri.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Accessible from Sambalpur city side routes.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Budharaja's Shiva worship reflects long-standing local Shaiva devotion in Sambalpur.",
+      "architecture": "Local shrine architecture.",
+      "visitorNotes": "Festival days are busier than regular weekdays.",
+      "sources": [
+        {
+          "label": "Sambalpur",
+          "url": "https://en.wikipedia.org/wiki/Sambalpur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mandhata Baba Temple (Maneswar)",
+    "state": "Odisha",
+    "city": "Maneswar",
+    "region": "Sambalpur district",
+    "tags": [
+      "Maneswar",
+      "Baba shrine",
+      "Shaiva"
+    ],
+    "story": "A Shiva shrine in Maneswar associated with Mandhata Baba worship traditions.",
+    "highlight": "Maneswar-area Mahadev temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mandhata Baba)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:22:00+05:30",
+    "bestTime": "Maha Shivaratri and local fair days.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Located in the Maneswar block area.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Mandhata Baba temple worship is part of the Shaiva network in Sambalpur's rural belt.",
+      "architecture": "Simple regional temple form.",
+      "visitorNotes": "Local guidance helps on festival-day access routes.",
+      "sources": [
+        {
+          "label": "Sambalpur district",
+          "url": "https://en.wikipedia.org/wiki/Sambalpur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gokarneswar Shiva Temple",
+    "state": "Odisha",
+    "city": "Ganjam",
+    "region": "Ganjam district",
+    "tags": [
+      "Gokarneswar",
+      "Shaiva",
+      "Traditional"
+    ],
+    "story": "A Gokarneswar Shiva shrine in Ganjam district, maintained through long-standing local worship.",
+    "highlight": "Traditional Gokarneswar Mahadev darshan in Ganjam.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Gokarneswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:47:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan month.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Part of local Ganjam temple routes.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Gokarneswar worship is part of Ganjam's regional Shaiva devotional landscape.",
+      "architecture": "Regional Odisha shrine style.",
+      "visitorNotes": "Morning darshan is generally less crowded.",
+      "sources": [
+        {
+          "label": "Ganjam district",
+          "url": "https://en.wikipedia.org/wiki/Ganjam_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Somanath Mahadev Temple",
+    "state": "Odisha",
+    "city": "Ganjam",
+    "region": "Ganjam district",
+    "tags": [
+      "Somanath",
+      "Mahadev",
+      "Shaiva"
+    ],
+    "story": "A Somanath Mahadev shrine in Ganjam district with active community worship.",
+    "highlight": "Somanath-form Shiva worship in southern Odisha.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Somanath Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:48:00+05:30",
+    "bestTime": "Maha Shivaratri and Monday darshan.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Located within Ganjam district temple circuit.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Somanath worship in Ganjam reflects enduring local Shaiva practice.",
+      "architecture": "Simple regional temple profile.",
+      "visitorNotes": "Confirm local opening windows during festival periods.",
+      "sources": [
+        {
+          "label": "Ganjam",
+          "url": "https://en.wikipedia.org/wiki/Ganjam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jhadeswar Shiva Temple",
+    "state": "Odisha",
+    "city": "Ganjam",
+    "region": "Ganjam district",
+    "tags": [
+      "Jhadeswar",
+      "Shiva",
+      "District shrine"
+    ],
+    "story": "A Jhadeswar Shiva shrine in Ganjam district with regular local Mahadev worship.",
+    "highlight": "Ganjam Jhadeswar Shiva darshan.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Jhadeswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:49:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan month.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Part of local Ganjam temple network.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Jhadeswar worship is represented in multiple Odisha districts; this record tracks the Ganjam shrine.",
+      "architecture": "Traditional local shrine architecture.",
+      "visitorNotes": "Weekday mornings are usually quieter.",
+      "sources": [
+        {
+          "label": "Ganjam district",
+          "url": "https://en.wikipedia.org/wiki/Ganjam_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mukteswar Shiva Temple",
+    "state": "Odisha",
+    "city": "Ganjam",
+    "region": "Ganjam district",
+    "tags": [
+      "Mukteswar",
+      "Shiva",
+      "Shaiva"
+    ],
+    "story": "Mukteswar Shiva Temple in Ganjam district is a local center of Shaiva devotion.",
+    "highlight": "Local Mukteswar Mahadev worship in Ganjam.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Mukteswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:50:00+05:30",
+    "bestTime": "Maha Shivaratri and Mondays.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Ganjam district local access.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Mukteswar worship traditions are widespread in Odisha; this entry corresponds to a Ganjam listing.",
+      "architecture": "Regional shrine design.",
+      "visitorNotes": "Check local timings during Shravan.",
+      "sources": [
+        {
+          "label": "Ganjam district",
+          "url": "https://en.wikipedia.org/wiki/Ganjam_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kaleshwar Mahadev Temple",
+    "state": "Odisha",
+    "city": "Ganjam",
+    "region": "Ganjam district",
+    "tags": [
+      "Kaleshwar",
+      "Mahadev",
+      "Shaiva"
+    ],
+    "story": "A Kaleshwar Mahadev temple in Ganjam district with sustained local devotional worship.",
+    "highlight": "Kaleshwar Mahadev darshan in Ganjam.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Kaleshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:51:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan Somvar.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Part of district-level temple routes.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Kaleshwar Mahadev worship continues through local temple traditions in Ganjam district.",
+      "architecture": "Simple local temple construction.",
+      "visitorNotes": "Visit during early morning for smoother darshan.",
+      "sources": [
+        {
+          "label": "Ganjam",
+          "url": "https://en.wikipedia.org/wiki/Ganjam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwar Mahadev Temple",
+    "state": "Odisha",
+    "city": "Ganjam",
+    "region": "Ganjam district",
+    "tags": [
+      "Siddheshwar",
+      "Mahadev",
+      "Shaiva"
+    ],
+    "story": "A Siddheshwar Mahadev temple in Ganjam district, visited for regular Shiva worship.",
+    "highlight": "Siddheshwar Mahadev shrine in Ganjam.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Siddheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:52:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan month.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "District-level local shrine.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwar worship is strongly rooted in Odisha's Shaiva traditions, including Ganjam district.",
+      "architecture": "Regional temple form.",
+      "visitorNotes": "Festival days see higher queues.",
+      "sources": [
+        {
+          "label": "Ganjam district",
+          "url": "https://en.wikipedia.org/wiki/Ganjam_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dhabaleswar Mahadev Temple",
+    "state": "Odisha",
+    "city": "Ganjam",
+    "region": "Ganjam district",
+    "tags": [
+      "Dhabaleswar",
+      "Mahadev",
+      "Shaiva"
+    ],
+    "story": "A Dhabaleswar Mahadev temple listing for Ganjam district in the local Shiva worship network.",
+    "highlight": "Ganjam Dhabaleswar Mahadev darshan.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Dhabaleswar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:53:00+05:30",
+    "bestTime": "Maha Shivaratri and Mondays.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Ganjam district local temple route.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Dhabaleswar devotion appears in multiple districts; this record represents the Ganjam listing.",
+      "architecture": "Regional shrine architecture.",
+      "visitorNotes": "Verify timings locally on major festival days.",
+      "sources": [
+        {
+          "label": "Ganjam",
+          "url": "https://en.wikipedia.org/wiki/Ganjam",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Khandeswar Shiva Temple",
+    "state": "Odisha",
+    "city": "Ganjam",
+    "region": "Ganjam district",
+    "tags": [
+      "Khandeswar",
+      "Shiva",
+      "Shaiva"
+    ],
+    "story": "Khandeswar Shiva Temple in Ganjam district serves as a local Mahadev worship center.",
+    "highlight": "Khandeswar Mahadev temple in Ganjam.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Khandeswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:54:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan Somvar.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "District-level local temple route.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Khandeswar worship remains part of community Shaiva devotion in Ganjam district.",
+      "architecture": "Traditional local shrine structure.",
+      "visitorNotes": "Prefer morning visits for lower crowd levels.",
+      "sources": [
+        {
+          "label": "Ganjam district",
+          "url": "https://en.wikipedia.org/wiki/Ganjam_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nilakantheswar Shiva Temple",
+    "state": "Odisha",
+    "city": "Ganjam",
+    "region": "Ganjam district",
+    "tags": [
+      "Nilakantheswar",
+      "Shiva",
+      "Shaiva"
+    ],
+    "story": "A Nilakantheswar Shiva shrine in Ganjam district within the regional Shaiva devotional network.",
+    "highlight": "Nilakantheswar-form Shiva worship in Ganjam.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nilakantheswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:55:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan month.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Ganjam district temple circuit.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Nilakantheswar devotion in Odisha extends across multiple districts; this record captures the Ganjam listing.",
+      "architecture": "Regional Odisha shrine format.",
+      "visitorNotes": "Check local festival timing notices before visiting.",
+      "sources": [
+        {
+          "label": "Ganjam district",
+          "url": "https://en.wikipedia.org/wiki/Ganjam_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Balunkeswar Temple",
+    "state": "Odisha",
+    "city": "Sambalpur",
+    "region": "Sambalpur district",
+    "tags": [
+      "Balunkeswar",
+      "Mahadev",
+      "Shaiva"
+    ],
+    "story": "A Balunkeswar Mahadev shrine in Sambalpur's local Shiva temple circuit.",
+    "highlight": "Traditional Balunkeswar Shiva darshan in Sambalpur.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Balunkeswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:23:00+05:30",
+    "bestTime": "Maha Shivaratri and Mondays.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Within Sambalpur district temple routes.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Balunkeswar worship appears in multiple Odisha districts; this record tracks the Sambalpur shrine.",
+      "architecture": "Local shrine architecture.",
+      "visitorNotes": "Confirm exact local timings on Mondays.",
+      "sources": [
+        {
+          "label": "Sambalpur district",
+          "url": "https://en.wikipedia.org/wiki/Sambalpur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kedarnath Shiva Temple",
+    "state": "Odisha",
+    "city": "Sambalpur",
+    "region": "Sambalpur district",
+    "tags": [
+      "Kedarnath",
+      "Mahadev",
+      "Local Temple"
+    ],
+    "story": "A Kedarnath-named Shiva shrine serving devotees in the Sambalpur region.",
+    "highlight": "Kedarnath-form Mahadev worship in western Odisha.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Kedarnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:24:00+05:30",
+    "bestTime": "Shravan and Maha Shivaratri.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "District-level local shrine.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Kedarnath Mahadev worship in Sambalpur is part of the broader Shaiva temple landscape.",
+      "architecture": "Traditional local temple structure.",
+      "visitorNotes": "Morning visits are generally calmer.",
+      "sources": [
+        {
+          "label": "Sambalpur",
+          "url": "https://en.wikipedia.org/wiki/Sambalpur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Baidyanath Temple",
+    "state": "Odisha",
+    "city": "Sambalpur",
+    "region": "Sambalpur district",
+    "tags": [
+      "Baidyanath",
+      "Shiva",
+      "Shaiva"
+    ],
+    "story": "A Baidyanath Shiva shrine in Sambalpur district, distinct from other Odisha Baidyanath-linked sites.",
+    "highlight": "Sambalpur Baidyanath Mahadev worship.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Baidyanath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:25:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan Mondays.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Sambalpur district shrine route.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Baidyanath worship is widespread in Odisha; this entry corresponds to the Sambalpur listing.",
+      "architecture": "Local temple architecture.",
+      "visitorNotes": "Plan around Monday devotional crowds.",
+      "sources": [
+        {
+          "label": "Sambalpur district",
+          "url": "https://en.wikipedia.org/wiki/Sambalpur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Swapneswar Temple",
+    "state": "Odisha",
+    "city": "Sambalpur",
+    "region": "Sambalpur district",
+    "tags": [
+      "Swapneswar",
+      "Dream tradition",
+      "Shaiva"
+    ],
+    "story": "A Sambalpur Shiva shrine associated with Swapneswar worship tradition.",
+    "highlight": "Swapneswar Mahadev in the Sambalpur temple circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Swapneswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:26:00+05:30",
+    "bestTime": "Maha Shivaratri and early mornings.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Sambalpur district local shrine.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Swapneswar worship appears in multiple Odisha districts; this entry tracks Sambalpur's listing.",
+      "architecture": "Simple regional temple form.",
+      "visitorNotes": "Verify local schedule on festival days.",
+      "sources": [
+        {
+          "label": "Sambalpur district",
+          "url": "https://en.wikipedia.org/wiki/Sambalpur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Visweswar Temple",
+    "state": "Odisha",
+    "city": "Sambalpur",
+    "region": "Sambalpur district",
+    "tags": [
+      "Visweswar",
+      "Mahadev",
+      "Shaiva"
+    ],
+    "story": "A Visweswar Mahadev shrine in Sambalpur district with regular local worship.",
+    "highlight": "Visweswar Shiva darshan in western Odisha.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Visweswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:27:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan month.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Part of Sambalpur city/district darshan routes.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Visweswar worship forms part of the broader Shaiva devotional geography in Sambalpur.",
+      "architecture": "Traditional local shrine architecture.",
+      "visitorNotes": "Weekday mornings are typically quieter.",
+      "sources": [
+        {
+          "label": "Sambalpur",
+          "url": "https://en.wikipedia.org/wiki/Sambalpur",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nilakantheswar Temple",
+    "state": "Odisha",
+    "city": "Sambalpur",
+    "region": "Sambalpur district",
+    "tags": [
+      "Nilakantheswar",
+      "Shiva",
+      "Shaiva"
+    ],
+    "story": "A Nilakantheswar Mahadev shrine in Sambalpur's Shiva temple network.",
+    "highlight": "Nilakantheswar form of Shiva worship in Sambalpur district.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nilakantheswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:28:00+05:30",
+    "bestTime": "Maha Shivaratri and Mondays.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Sambalpur district local temple circuit.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Nilakantheswar devotion in Sambalpur aligns with long-standing regional Shaiva practices.",
+      "architecture": "Regional Odisha shrine profile.",
+      "visitorNotes": "Check local announcements during festival periods.",
+      "sources": [
+        {
+          "label": "Sambalpur district",
+          "url": "https://en.wikipedia.org/wiki/Sambalpur_district",
           "type": "Encyclopedia"
         }
       ]
@@ -1794,7 +2957,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Kapilash Temple",
+    "name": "Chandrashekhar Mahadev Temple",
     "state": "Odisha",
     "city": "Dhenkanal",
     "region": "Dhenkanal district",
@@ -1810,7 +2973,7 @@ export const odishaTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kapilash_temple.jpg",
     "deity": "Shiva (Chandrasekhar)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:09:00+05:30",
     "bestTime": "Shivratri (Jagar).",
     "timings": "Open daily.",
     "dressCode": "Casual/Trekking.",
@@ -2081,7 +3244,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Astasambhu (Kualo)",
+    "name": "Astasambhu Temple",
     "state": "Odisha",
     "city": "Kamakhyanagar",
     "region": "Dhenkanal district",
@@ -2097,7 +3260,7 @@ export const odishaTemples = [
     "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva (Kanakeswar)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:12:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -2116,6 +3279,334 @@ export const odishaTemples = [
         {
           "label": "Kualo",
           "url": "https://en.wikipedia.org/wiki/Kualo_Rameswar_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Naganatheswar Shiva Temple",
+    "state": "Odisha",
+    "city": "Dhenkanal",
+    "region": "Dhenkanal district",
+    "tags": [
+      "Naga worship",
+      "Shaiva",
+      "Traditional"
+    ],
+    "story": "A Dhenkanal Shiva shrine where Naganatheswar is worshipped in the local Shaiva tradition.",
+    "highlight": "Local Naganatha-linked Shiva worship.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Naganatheswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:10:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Part of Dhenkanal local temple circuit.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "The temple is maintained as a long-standing local Shiva worship site in Dhenkanal district.",
+      "architecture": "Regional Odisha temple form.",
+      "visitorNotes": "Verify local darshan timings on festival days.",
+      "sources": [
+        {
+          "label": "Dhenkanal district",
+          "url": "https://en.wikipedia.org/wiki/Dhenkanal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sapteshwar Mahadev Temple",
+    "state": "Odisha",
+    "city": "Dhenkanal",
+    "region": "Dhenkanal district",
+    "tags": [
+      "Mahadev",
+      "Shaiva",
+      "Regional shrine"
+    ],
+    "story": "Sapteshwar Mahadev Temple serves as an active Shiva worship center in Dhenkanal district.",
+    "highlight": "Traditional Mahadev darshan.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Sapteshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:11:00+05:30",
+    "bestTime": "Maha Shivaratri and Mondays in Shravan.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Within Dhenkanal district temple routes.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Sapteshwar worship reflects long-standing Mahadev devotion in the district.",
+      "architecture": "Local Kalinga-influenced style.",
+      "visitorNotes": "Morning darshan is usually less crowded.",
+      "sources": [
+        {
+          "label": "Dhenkanal district",
+          "url": "https://en.wikipedia.org/wiki/Dhenkanal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Annakoteshwara Shiva Temple",
+    "state": "Odisha",
+    "city": "Dhenkanal",
+    "region": "Dhenkanal district",
+    "tags": [
+      "Annakoteshwara",
+      "Shiva",
+      "District shrine"
+    ],
+    "story": "A Shaiva temple in Dhenkanal where Shiva is revered as Annakoteshwara.",
+    "highlight": "Annakoteshwara-form Shiva worship.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Annakoteshvara%20Temple,%20Latadeipur,%20Dhenkanal.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Annakoteshvara_Temple,_Latadeipur,_Dhenkanal.jpg",
+    "deity": "Shiva (Annakoteshwara)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:13:00+05:30",
+    "bestTime": "Maha Shivaratri season.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Dhenkanal district location.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Annakoteshwara worship is part of local Shaiva practice in Odisha's inland temple belt.",
+      "architecture": "Simple regional temple structure.",
+      "visitorNotes": "Confirm special puja timings on Mondays.",
+      "sources": [
+        {
+          "label": "Dhenkanal district",
+          "url": "https://en.wikipedia.org/wiki/Dhenkanal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Paschimeswar Temple",
+    "state": "Odisha",
+    "city": "Dhenkanal",
+    "region": "Dhenkanal district",
+    "tags": [
+      "Paschimeswar",
+      "Shaiva",
+      "Local heritage"
+    ],
+    "story": "Paschimeswar Temple is a local Shiva shrine in Dhenkanal's traditional devotional circuit.",
+    "highlight": "District-level Shiva heritage worship.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:14:00+05:30",
+    "bestTime": "Winter and Shivaratri period.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Best visited in daytime.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Paschimeswar has continued as a community-led Shiva worship space in Dhenkanal district.",
+      "architecture": "Local Odisha shrine style.",
+      "visitorNotes": "Check local holiday crowds before travel.",
+      "sources": [
+        {
+          "label": "Dhenkanal district",
+          "url": "https://en.wikipedia.org/wiki/Dhenkanal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Buddheswar Temple",
+    "state": "Odisha",
+    "city": "Dhenkanal",
+    "region": "Dhenkanal district",
+    "tags": [
+      "Buddheswar",
+      "Mahadev",
+      "Shaiva"
+    ],
+    "story": "Buddheswar Temple is an active Shiva shrine in Dhenkanal district with daily local worship.",
+    "highlight": "Regular Mahadev worship by local devotees.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Buddheswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:15:00+05:30",
+    "bestTime": "Shivaratri and Shravan Mondays.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "In Dhenkanal district.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Buddheswar worship remains part of the broader Shiva devotional network in the region.",
+      "architecture": "Traditional shrine architecture.",
+      "visitorNotes": "Early-morning darshan is typically quieter.",
+      "sources": [
+        {
+          "label": "Dhenkanal district",
+          "url": "https://en.wikipedia.org/wiki/Dhenkanal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sikhereswar Temple",
+    "state": "Odisha",
+    "city": "Dhenkanal",
+    "region": "Dhenkanal district",
+    "tags": [
+      "Sikhereswar",
+      "Shiva",
+      "Pilgrimage"
+    ],
+    "story": "Sikhereswar Temple is revered as a Shiva pilgrimage stop in Dhenkanal district.",
+    "highlight": "Traditional Sikhereswar Mahadev worship.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sikhareswar%20Temple%20Baldiabandha%20Dhenkanal%20Odiha%20India.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sikhareswar_Temple_Baldiabandha_Dhenkanal_Odiha_India.jpg",
+    "deity": "Shiva (Sikhereswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:16:00+05:30",
+    "bestTime": "Maha Shivaratri and cooler months.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "District-level temple route.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Sikhereswar is locally preserved within Dhenkanal's Shaiva devotional landscape.",
+      "architecture": "Regional Odisha temple profile.",
+      "visitorNotes": "Local guidance helps for exact approach roads.",
+      "sources": [
+        {
+          "label": "Dhenkanal district",
+          "url": "https://en.wikipedia.org/wiki/Dhenkanal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kamalang Shiv Temple",
+    "state": "Odisha",
+    "city": "Kamalang",
+    "region": "Dhenkanal district",
+    "tags": [
+      "Kamalang",
+      "Shiva",
+      "Village temple"
+    ],
+    "story": "Kamalang Shiv Temple is a local Shiva shrine serving devotees in the Kamalang area of Dhenkanal district.",
+    "highlight": "Village-centered Shiva darshan.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:17:00+05:30",
+    "bestTime": "Shravan month and Shivaratri.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Located in Kamalang area, Dhenkanal district.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "The shrine is part of village-level Shaiva continuity in Dhenkanal.",
+      "architecture": "Simple local temple construction.",
+      "visitorNotes": "Check local road conditions during monsoon.",
+      "sources": [
+        {
+          "label": "Dhenkanal district",
+          "url": "https://en.wikipedia.org/wiki/Dhenkanal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Daudeswar Temple",
+    "state": "Odisha",
+    "city": "Dhenkanal",
+    "region": "Dhenkanal district",
+    "tags": [
+      "Daudeswar",
+      "Mahadev",
+      "Shaiva"
+    ],
+    "story": "Daudeswar Temple is a Dhenkanal Shiva shrine known for regular community-led worship.",
+    "highlight": "Local Mahadev temple in Dhenkanal district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Daudeswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:18:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Part of Dhenkanal district temple network.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Daudeswar worship continues through local temple traditions in Dhenkanal.",
+      "architecture": "Traditional regional shrine style.",
+      "visitorNotes": "Visit in morning for easier darshan.",
+      "sources": [
+        {
+          "label": "Dhenkanal district",
+          "url": "https://en.wikipedia.org/wiki/Dhenkanal_district",
           "type": "Encyclopedia"
         }
       ]
@@ -2243,7 +3734,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Bateswar Temple",
+    "name": "Bateshwar Shiva Temple",
     "state": "Odisha",
     "city": "Ganjam",
     "region": "Ganjam district",
@@ -2259,7 +3750,7 @@ export const odishaTemples = [
     "creditUrl": "/temples/temple-06.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:46:00+05:30",
     "bestTime": "Winter.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -3058,7 +4549,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Maninageswar Temple",
+    "name": "Maninageswar Shiva Temple",
     "state": "Odisha",
     "city": "Bardhanpur",
     "region": "Balasore district",
@@ -3074,7 +4565,7 @@ export const odishaTemples = [
     "creditUrl": "/temples/temple-03.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:42:00+05:30",
     "bestTime": "Shivratri.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
@@ -3099,7 +4590,7 @@ export const odishaTemples = [
     }
   },
   {
-    "name": "Baneswar Temple",
+    "name": "Baneswar Shiva Temple",
     "state": "Odisha",
     "city": "Balisahi",
     "region": "Balasore district",
@@ -3115,7 +4606,7 @@ export const odishaTemples = [
     "creditUrl": "/temples/temple-05.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T01:43:00+05:30",
     "bestTime": "Shivratri.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
@@ -3134,6 +4625,88 @@ export const odishaTemples = [
         {
           "label": "Balasore",
           "url": "https://en.wikipedia.org/wiki/Balasore_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jhadeswar Mahadev Temple",
+    "state": "Odisha",
+    "city": "Balasore",
+    "region": "Balasore district",
+    "tags": [
+      "Mahadev",
+      "Shaiva",
+      "Local shrine"
+    ],
+    "story": "Jhadeswar Mahadev Temple is a Shiva shrine in Balasore district with active local worship.",
+    "highlight": "Traditional Mahadev darshan in Balasore.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Jhadeswar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:44:00+05:30",
+    "bestTime": "Maha Shivaratri and Shravan month.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Part of Balasore local temple routes.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Jhadeswar Mahadev worship is sustained through local temple traditions in Balasore district.",
+      "architecture": "Regional Odisha shrine style.",
+      "visitorNotes": "Morning visits are generally calmer.",
+      "sources": [
+        {
+          "label": "Balasore district",
+          "url": "https://en.wikipedia.org/wiki/Balasore_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gargeswar Mahadev Temple",
+    "state": "Odisha",
+    "city": "Balasore",
+    "region": "Balasore district",
+    "tags": [
+      "Mahadev",
+      "Shaiva",
+      "District temple"
+    ],
+    "story": "Gargeswar Mahadev Temple is a Balasore Shiva shrine with regular devotional worship.",
+    "highlight": "Balasore district Gargeswar Mahadev darshan.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Gargeswar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T01:45:00+05:30",
+    "bestTime": "Maha Shivaratri and Mondays.",
+    "timings": "Open daily.",
+    "dressCode": "Traditional.",
+    "entryNotes": "Balasore district temple area.",
+    "rituals": [
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Maha Shivaratri"
+    ],
+    "moreDetails": {
+      "history": "Gargeswar Mahadev worship forms part of Balasore's local Shaiva devotional circuit.",
+      "architecture": "Traditional local temple form.",
+      "visitorNotes": "Check local announcements during festival periods.",
+      "sources": [
+        {
+          "label": "Balasore",
+          "url": "https://en.wikipedia.org/wiki/Balasore",
           "type": "Encyclopedia"
         }
       ]

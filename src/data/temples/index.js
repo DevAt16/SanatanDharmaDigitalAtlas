@@ -19,6 +19,7 @@ import { assamTemples } from './assam.js'
 import { telenganaTemples } from './telengana.js'
 import { chattisgarhTemples } from './chattisgarh.js'
 import { haryanaTemples } from './haryana.js'
+import { jammuKashmirTemples } from './jammuKashmir.js'
 import { madhyaPradeshShaktiTemples } from './madhyaPradesh-shakti.js'
 import { rajasthanShaktiTemples } from './rajasthan-shakti.js'
 import { uttarPradeshShaktiTemples } from './uttarPradesh-shakti.js'
@@ -45,7 +46,8 @@ export const templeData = [
   ...chattisgarhTemples,
   ...telenganaTemples,
   ...arunachalPradeshTemples,
-  ...haryanaTemples
+  ...haryanaTemples,
+  ...jammuKashmirTemples
 ]
 
 export const shaktiTempleData = [

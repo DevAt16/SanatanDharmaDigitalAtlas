@@ -1,6 +1,6 @@
 export const uttarPradeshTemples = [
   {
-    "name": "Kashi Vishwanath Temple",
+    "name": "Shri Kashi Vishwanath Jyotirlinga",
     "state": "Uttar Pradesh",
     "city": "Varanasi",
     "region": "Varanasi district",
@@ -43,7 +43,7 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Kaal Bhairav Temple",
+    "name": "Kaal Bhairav Mandir",
     "state": "Uttar Pradesh",
     "city": "Varanasi",
     "region": "Varanasi district",
@@ -85,7 +85,7 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Mrityunjay Mahadev Temple",
+    "name": "Mrityunjay Mahadev Mandir",
     "state": "Uttar Pradesh",
     "city": "Varanasi",
     "region": "Varanasi district",
@@ -126,7 +126,7 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Tilbhandeshwar Mahadev",
+    "name": "Tilbhandeshwar Mahadev Mandir",
     "state": "Uttar Pradesh",
     "city": "Varanasi",
     "region": "Varanasi district",
@@ -168,7 +168,7 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Kedareshwar Temple",
+    "name": "Shri Kedareshwar Mahadev (Kedar Ghat)",
     "state": "Uttar Pradesh",
     "city": "Varanasi",
     "region": "Varanasi district",
@@ -250,7 +250,7 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Ratneshwar Mahadev",
+    "name": "Ratneshwar Mahadev Mandir",
     "state": "Uttar Pradesh",
     "city": "Varanasi",
     "region": "Varanasi district",
@@ -289,7 +289,7 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Markandey Mahadev Temple",
+    "name": "Markandey Mahadev Mandir (Kaithi)",
     "state": "Uttar Pradesh",
     "city": "Kaithi",
     "region": "Varanasi district",
@@ -331,7 +331,7 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Shool Tankeshwar Temple",
+    "name": "Shooltankeshwar Mahadev Mandir",
     "state": "Uttar Pradesh",
     "city": "Varanasi",
     "region": "Varanasi district",
@@ -413,7 +413,7 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Omkareshwar Temple",
+    "name": "Omkareshwar Mahadev Mandir",
     "state": "Uttar Pradesh",
     "city": "Varanasi",
     "region": "Varanasi district",
@@ -454,7 +454,7 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Trilochan Mahadev",
+    "name": "Trilochan Mahadev Mandir",
     "state": "Uttar Pradesh",
     "city": "Varanasi",
     "region": "Varanasi district",
@@ -571,7 +571,7 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Batuk Bhairav Temple",
+    "name": "Batuk Bhairav Mandir",
     "state": "Uttar Pradesh",
     "city": "Varanasi",
     "region": "Varanasi district",
@@ -770,7 +770,7 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Kameshwar Mahadev",
+    "name": "Kameshwar Mahadev Mandir",
     "state": "Uttar Pradesh",
     "city": "Varanasi",
     "region": "Varanasi district",
@@ -804,6 +804,102 @@ export const uttarPradeshTemples = [
           "label": "Varanasi",
           "url": "https://en.wikipedia.org/wiki/Varanasi",
           "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gauri Kedareshwar Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "region": "Kedar Ghat area, Varanasi district",
+    "tags": [
+      "Kedar Ghat",
+      "Gauri",
+      "Shaiva-Shakta"
+    ],
+    "story": "A Kashi shrine linked to the Kedareshwar sacred zone, where worship of Shiva is paired with reverence to Devi Gauri.",
+    "highlight": "A Gauri-Kedareshwar devotional node near the Kedar Ghat temple belt.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva and Gauri",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T13:09:26+05:30",
+    "bestTime": "Early morning darshan and evening ghat hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional/Modest.",
+    "entryNotes": "Best combined with Kedar Ghat and nearby Kashi shrine visits.",
+    "rituals": [
+      "Daily puja",
+      "Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Part of the wider Kedareshwar-focused worship landscape in old Kashi.",
+      "architecture": "Traditional Kashi shrine style.",
+      "visitorNotes": "Local temple naming can vary slightly across neighborhoods.",
+      "sources": [
+        {
+          "label": "Kedar Ghat",
+          "url": "https://en.wikipedia.org/wiki/Kedar_Ghat",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gauri%20Kedareshwar%20Mandir%20Varanasi",
+          "type": "Map index"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dharmeshwar Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "region": "Kashi temple network, Varanasi district",
+    "tags": [
+      "Mahadev",
+      "Kashi",
+      "Local Shrine"
+    ],
+    "story": "Dharmeshwar Mahadev is revered as a traditional Shiva shrine within Kashi's layered neighborhood pilgrimage circuit.",
+    "highlight": "A local Mahadev node connected to Kashi's daily Shaiva worship rhythm.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T13:09:26+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional/Modest.",
+    "entryNotes": "Confirm exact lane/location details locally before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Rudrabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Dharmeshwar worship is part of Kashi's dense and interlinked temple tradition.",
+      "architecture": "Traditional local shrine layout.",
+      "visitorNotes": "Often visited with nearby ghat and inner-city Shiva temples.",
+      "sources": [
+        {
+          "label": "Varanasi",
+          "url": "https://en.wikipedia.org/wiki/Varanasi",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dharmeshwar%20Mahadev%20Mandir%20Varanasi",
+          "type": "Map index"
         }
       ]
     }
@@ -5850,7 +5946,7 @@ export const uttarPradeshTemples = [
     "creditUrl": "/temples/temple-01.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
@@ -5901,7 +5997,7 @@ export const uttarPradeshTemples = [
     "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
@@ -5952,7 +6048,7 @@ export const uttarPradeshTemples = [
     "creditUrl": "/temples/temple-03.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
@@ -6003,7 +6099,7 @@ export const uttarPradeshTemples = [
     "creditUrl": "/temples/temple-04.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
@@ -6054,7 +6150,7 @@ export const uttarPradeshTemples = [
     "creditUrl": "/temples/temple-05.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
@@ -6105,7 +6201,7 @@ export const uttarPradeshTemples = [
     "creditUrl": "/temples/temple-06.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
@@ -6156,7 +6252,7 @@ export const uttarPradeshTemples = [
     "creditUrl": "/temples/temple-01.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
@@ -6207,7 +6303,7 @@ export const uttarPradeshTemples = [
     "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
@@ -6258,7 +6354,7 @@ export const uttarPradeshTemples = [
     "creditUrl": "/temples/temple-03.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
@@ -6309,7 +6405,7 @@ export const uttarPradeshTemples = [
     "creditUrl": "/temples/temple-04.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
@@ -6360,7 +6456,7 @@ export const uttarPradeshTemples = [
     "creditUrl": "/temples/temple-05.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
@@ -6411,7 +6507,7 @@ export const uttarPradeshTemples = [
     "creditUrl": "/temples/temple-06.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
@@ -6462,7 +6558,7 @@ export const uttarPradeshTemples = [
     "creditUrl": "/temples/temple-01.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
@@ -6513,7 +6609,7 @@ export const uttarPradeshTemples = [
     "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
@@ -6559,12 +6655,12 @@ export const uttarPradeshTemples = [
     ],
     "story": "Mahakal Bhairav Temple is a Shiva temple in the Jhansi district devotional circuit.",
     "highlight": "Local Shiva worship and regular jal abhishek traditions.",
-    "image": "/temples/temple-03.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-03.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaal%20Bhairav%E2%80%99s%20Upasak%20at%20Ujjain%E2%80%99s%20Mahakal%20Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kaal_Bhairav%E2%80%99s_Upasak_at_Ujjain%E2%80%99s_Mahakal_Temple.jpg",
     "deity": "Shiva (Bhairav)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T10:45:00Z",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Mahashivratri and Shravan month.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",

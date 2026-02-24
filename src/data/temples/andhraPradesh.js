@@ -303,6 +303,312 @@ export const andhraPradeshTemples = [
     }
   },
   {
+    "name": "Chaturmukeshwara Temple",
+    "state": "Andhra Pradesh",
+    "city": "Srikalahasti",
+    "region": "Srikalahasti temple region, Chittoor district",
+    "tags": [
+      "Shaiva",
+      "Local Shrine",
+      "Srikalahasti Circuit"
+    ],
+    "story": "Chaturmukeshwara Temple is a Shiva shrine associated with the wider Srikalahasti devotional grid.",
+    "highlight": "A traditional local Mahadev node within the Srikalahasti temple landscape.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva (Chaturmukeshwara)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T13:24:24+05:30",
+    "bestTime": "Morning and evening darshan hours.",
+    "timings": "Open daily; timings vary locally.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Best covered with other Srikalahasti sub-shrines in one route.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Kartika Masam"
+    ],
+    "moreDetails": {
+      "history": "The shrine is part of local Shaiva worship continuity in the Srikalahasti area.",
+      "architecture": "Regional temple style with active local worship patterns.",
+      "visitorNotes": "Confirm local lane-level directions and darshan timings on arrival.",
+      "sources": [
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Chaturmukeshwara%20Temple%20Srikalahasti",
+          "type": "Map search"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Manikanteshwara Shrine",
+    "state": "Andhra Pradesh",
+    "city": "Srikalahasti",
+    "region": "Srikalahasti temple region, Chittoor district",
+    "tags": [
+      "Shaiva",
+      "Manikanteshwara",
+      "Srikalahasti Circuit"
+    ],
+    "story": "Manikanteshwara Shrine is a local Shiva worship node in the extended Srikalahasti sacred zone.",
+    "highlight": "A compact shrine tied to Srikalahasti's layered Shaiva pilgrimage pattern.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva (Manikanteshwara)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T13:24:24+05:30",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; timings vary locally.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Temple name spelling can vary as Manikanteswara/Manikanteshwara.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local devotional practice in the Srikalahasti region.",
+      "architecture": "Small shrine architecture typical of regional Shaiva temples.",
+      "visitorNotes": "Local guidance is useful for exact approach routes.",
+      "sources": [
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Manikanteshwara%20Shrine%20Srikalahasti",
+          "type": "Map search"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sahasra Linga Temple",
+    "state": "Andhra Pradesh",
+    "city": "Srikalahasti",
+    "region": "Srikalahasti temple region, Chittoor district",
+    "tags": [
+      "Sahasra Linga",
+      "Shaiva",
+      "Srikalahasti Circuit"
+    ],
+    "story": "Sahasra Linga Temple is a Shiva shrine associated with multi-linga devotional symbolism in the Srikalahasti area.",
+    "highlight": "A distinctive lingam-focused Shaiva stop in the local temple network.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T13:24:24+05:30",
+    "bestTime": "Morning and pradosham hours.",
+    "timings": "Open daily; timings vary locally.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Often visited with the main Kalahasteeswara temple circuit.",
+    "rituals": [
+      "Abhishekam",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Pradosham"
+    ],
+    "moreDetails": {
+      "history": "The temple is known in local lists of Srikalahasti-region Shiva shrines.",
+      "architecture": "Regional shrine format with lingam-centric worship.",
+      "visitorNotes": "Check local priest timings before planning detailed ritual visits.",
+      "sources": [
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sahasra%20Linga%20Temple%20Srikalahasti",
+          "type": "Map search"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sri Kasi Viswanatha Swamy Temple",
+    "state": "Andhra Pradesh",
+    "city": "Srikalahasti",
+    "region": "Srikalahasti temple region, Chittoor district",
+    "tags": [
+      "Kasi Viswanatha",
+      "Shaiva",
+      "Srikalahasti Circuit"
+    ],
+    "story": "Sri Kasi Viswanatha Swamy Temple is a Shiva shrine in Srikalahasti, reflecting the Kashi-Viswanatha devotional form in regional worship.",
+    "highlight": "A Kasi-Viswanatha form shrine integrated into local Shaiva pilgrimage patterns.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SRI%20KASI%20VISWANATHA%20SWAMY%20TEMPLE%2C%20SALEM%20-%20panoramio.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:SRI_KASI_VISWANATHA_SWAMY_TEMPLE,_SALEM_-_panoramio.jpg",
+    "deity": "Shiva (Kasi Viswanatha)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T13:24:24+05:30",
+    "bestTime": "Morning darshan and festival days.",
+    "timings": "Open daily; timings vary locally.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Typically visited as part of Srikalahasti town temple circuits.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Kasi Viswanatha-form worship is reflected in several regional Shaiva temples, including this local node.",
+      "architecture": "Traditional regional shrine structure.",
+      "visitorNotes": "Check local signage for exact shrine entrance and puja schedule.",
+      "sources": [
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sri%20Kasi%20Viswanatha%20Swamy%20Temple%20Srikalahasti",
+          "type": "Map search"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sri Mukeshwara Swamy Temple",
+    "state": "Andhra Pradesh",
+    "city": "Srikalahasti",
+    "region": "Srikalahasti temple region, Chittoor district",
+    "tags": [
+      "Mukeshwara",
+      "Shaiva",
+      "Srikalahasti Circuit"
+    ],
+    "story": "Sri Mukeshwara Swamy Temple is a local Shiva shrine in Srikalahasti's extended devotional grid.",
+    "highlight": "A traditional Mukeshwara-form shrine for daily Shaiva worship.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva (Mukeshwara)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T13:24:24+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; timings vary locally.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Local neighborhood guidance may be needed for precise location.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Kartika Masam"
+    ],
+    "moreDetails": {
+      "history": "The shrine is preserved in regional Srikalahasti worship traditions.",
+      "architecture": "Local temple architecture with active daily rituals.",
+      "visitorNotes": "Best visited along with nearby Srikalahasti shrines.",
+      "sources": [
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sri%20Mukeshwara%20Swamy%20Temple%20Srikalahasti",
+          "type": "Map search"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Veyilingala Kona Temple",
+    "state": "Andhra Pradesh",
+    "city": "Srikalahasti",
+    "region": "Veyilingala Kona hill zone, Chittoor district",
+    "tags": [
+      "Hill Shrine",
+      "Kona",
+      "Shaiva"
+    ],
+    "story": "Veyilingala Kona Temple is a hill-linked Shiva shrine in the Srikalahasti region known for its rugged devotional setting.",
+    "highlight": "Hill approach and valley views around the Veyilingala Kona temple corridor.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Veyilingala%20Kona,%20Chittoor%20district%20Andhra%20Pradesh%20India.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Veyilingala_Kona,_Chittoor_district_Andhra_Pradesh_India.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T13:24:24+05:30",
+    "bestTime": "October to February and early daylight hours.",
+    "timings": "Open daily; access timing may vary by route conditions.",
+    "dressCode": "Traditional/modest attire with suitable walking footwear.",
+    "entryNotes": "Route conditions can vary seasonally; local guidance recommended.",
+    "rituals": [
+      "Daily puja",
+      "Hill darshan"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Veyilingala Kona is documented in local Chittoor hill-temple worship references.",
+      "architecture": "Hill-shrine format integrated with natural terrain.",
+      "visitorNotes": "Plan for terrain and weather before visiting.",
+      "sources": [
+        {
+          "label": "Wikimedia Commons: Veyilingala Kona",
+          "url": "https://commons.wikimedia.org/wiki/File:Veyilingala_Kona,_Chittoor_district_Andhra_Pradesh_India.jpg",
+          "type": "Image source"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Veyilingala%20Kona%20Temple",
+          "type": "Map search"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bhakta Kannappa Temple (Kannabeshwara)",
+    "state": "Andhra Pradesh",
+    "city": "Srikalahasti",
+    "region": "Kannappa Hill, Srikalahasti, Chittoor district",
+    "tags": [
+      "Kannappa Nayanar",
+      "Hill Shrine",
+      "Shaiva Bhakti"
+    ],
+    "story": "Bhakta Kannappa Temple commemorates the intense devotion of Kannappa Nayanar and forms a key bhakti node in Srikalahasti.",
+    "highlight": "Hill shrine linked with the legend of Kannappa's eye-offering devotion to Shiva.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Entrance%20of%20Bhakta%20Kannappa%20Temple,%20Srikalahasti.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Entrance_of_Bhakta_Kannappa_Temple,_Srikalahasti.jpg",
+    "deity": "Shiva (Kannabeshwara / Kalahasteeswara tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-23T13:24:24+05:30",
+    "bestTime": "Morning hours and cooler season months.",
+    "timings": "Open daily; timings vary locally.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Often visited with the main Srikalahasteeswara temple.",
+    "rituals": [
+      "Daily puja",
+      "Kannappa devotion prayers"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Kannappa remembrance observances"
+    ],
+    "moreDetails": {
+      "history": "The temple is linked with the famed Shaiva devotee Kannappa Nayanar in Srikalahasti tradition.",
+      "architecture": "Hill-side shrine layout with steps and viewpoint segments.",
+      "visitorNotes": "Allow extra time for hill approach and descent.",
+      "sources": [
+        {
+          "label": "Wikimedia Commons: Bhakta Kannappa Temple",
+          "url": "https://commons.wikimedia.org/wiki/File:Entrance_of_Bhakta_Kannappa_Temple,_Srikalahasti.jpg",
+          "type": "Image source"
+        },
+        {
+          "label": "Srikalahasti Temple",
+          "url": "https://en.wikipedia.org/wiki/Srikalahasti_temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
     "name": "Sri Yaganti Uma Maheshwara Temple",
     "state": "Andhra Pradesh",
     "city": "Yaganti",
@@ -1142,7 +1448,7 @@ export const andhraPradeshTemples = [
     }
   },
   {
-    "name": "Parasurameswara Swamy Temple",
+    "name": "Gudimallam Parasurameswara Temple (A highly ancient, structurally unique 2nd-century BCE node located just outside the core grid)",
     "state": "Andhra Pradesh",
     "city": "Gudimallam",
     "region": "Chittoor district",
@@ -1152,13 +1458,13 @@ export const andhraPradeshTemples = [
       "Unique Iconography"
     ],
     "story": "Housing one of the oldest known Shiva lingas in the world (2nd-3rd century BCE), depicting Shiva in a realistic hunter form.",
-    "highlight": "The ancient, realistic Phallic Linga with a standing Shiva figure purely carved on it.",
+    "highlight": "A highly ancient and structurally unique 2nd-century BCE Shiva node with the iconic Gudimallam linga form.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Parasurameswara_Swamy_Shiva_temple_Gudimallam%2C_ancient_Shiva_Linga%2C_Yarpedu%2C_Chittoor_Andhra_Pradesh_-_10.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Parasurameswara_Swamy_Shiva_temple_Gudimallam,_ancient_Shiva_Linga,_Yarpedu,_Chittoor_Andhra_Pradesh_-_10.jpg",
     "deity": "Shiva (Parasurameswara)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-23T13:24:24+05:30",
     "bestTime": "October to March.",
     "timings": "Open daily.",
     "dressCode": "Modest attire.",
@@ -3539,7 +3845,7 @@ export const andhraPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Srisailam-temple-entrance.jpg",
     "deity": "Shiva (Mallikarjuna)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T23:30:00+05:30",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "October to February and Mahashivratri period.",
     "timings": "Open daily; timings vary by darshan and seva slots.",
     "dressCode": "Traditional/modest attire recommended.",
@@ -3588,7 +3894,7 @@ export const andhraPradeshTemples = [
     "creditUrl": "/temples/temple-01.svg",
     "deity": "Shiva (Sikhareswara)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T23:30:00+05:30",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "October to February for clear hill visibility.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest attire and suitable footwear for hill terrain.",
@@ -3636,7 +3942,7 @@ export const andhraPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Htakeswaram-sreesailam.jpg",
     "deity": "Shiva (Hatakeswara)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T23:30:00+05:30",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "October to February; avoid heavy rain days.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest attire recommended.",
@@ -3683,7 +3989,7 @@ export const andhraPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Divine_shiva_lingam_at_akka_mahadevi_caves.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T23:30:00+05:30",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "Post-monsoon to winter, when boat access is generally steadier.",
     "timings": "Access depends on river-boat schedules and local conditions.",
     "dressCode": "Modest attire with practical cave-safe footwear.",
@@ -3730,7 +4036,7 @@ export const andhraPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Sri_Umamaheswara_Temple,_UmamaheswaraM(Achampet).jpg",
     "deity": "Shiva (Umamaheswara)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T23:30:00+05:30",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "October to February.",
     "timings": "Open daily; timings vary by local administration.",
     "dressCode": "Traditional/modest attire recommended.",
@@ -3777,7 +4083,7 @@ export const andhraPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Tripurantakam-Prakasam-Sri-Tripurantakeswara-Swamy-Temple-2.jpg",
     "deity": "Shiva (Tripurantakeswara)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T23:30:00+05:30",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "October to March.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Traditional/modest attire recommended.",
@@ -3825,7 +4131,7 @@ export const andhraPradeshTemples = [
     "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva (Siddheswara)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T23:30:00+05:30",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "October to February.",
     "timings": "Open daily; timings vary locally.",
     "dressCode": "Modest attire recommended.",
@@ -3872,7 +4178,7 @@ export const andhraPradeshTemples = [
     "creditUrl": "https://commons.wikimedia.org/wiki/File:7th_century_Bala_Brahma_Temple,_Navabrahma_group,_Alampur,_Telangana_India_-_4.jpg",
     "deity": "Shiva (Bala Brahmeswara)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T23:30:00+05:30",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "October to February and Mahashivratri period.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Traditional/modest attire recommended.",
@@ -3919,7 +4225,7 @@ export const andhraPradeshTemples = [
     "creditUrl": "/temples/temple-03.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-23T23:30:00+05:30",
+    "addedAt": "2026-02-23T12:53:30+05:30",
     "bestTime": "October to February; daylight visits are recommended.",
     "timings": "Access and worship timings vary by local route conditions.",
     "dressCode": "Modest attire with suitable trekking footwear.",
