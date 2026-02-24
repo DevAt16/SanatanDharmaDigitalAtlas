@@ -331,9 +331,9 @@ export const chattisgarhTemples = [
       ]
     },
     "state": "Chhattisgarh",
-    "image": "/temples/temple-04.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-04.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/5th_-_7th_century_Shiva_Linga_in_square_star_shaped_garbha_griya_Baleshwar_Shiva_temple%2C_Sirpur_Hindu_monuments_Chhattisgarh.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:5th_-_7th_century_Shiva_Linga_in_square_star_shaped_garbha_griya_Baleshwar_Shiva_temple,_Sirpur_Hindu_monuments_Chhattisgarh.jpg",
     "tradition": "Shaiva",
     "addedAt": "2026-02-23T16:53:20+05:30"
   },
@@ -542,9 +542,9 @@ export const chattisgarhTemples = [
       ]
     },
     "state": "Chhattisgarh",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0012723_Karneshwar_Mahadev_temple%2C_Sihawa_Dhamtari_Chhattisgarh_201.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:0012723_Karneshwar_Mahadev_temple,_Sihawa_Dhamtari_Chhattisgarh_201.jpg",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
     "tradition": "Shaiva",
     "addedAt": "2026-02-23T17:01:00+05:30"
   },
@@ -799,9 +799,9 @@ export const chattisgarhTemples = [
       ]
     },
     "state": "Chhattisgarh",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0010822_Deokirari_Shiva_temple%2C_Kirari_Godhi%2C_Chhattisgarh_083.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:0010822_Deokirari_Shiva_temple,_Kirari_Godhi,_Chhattisgarh_083.jpg",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
     "tradition": "Shaiva",
     "addedAt": "2026-02-23T17:06:00+05:30"
   },
@@ -885,9 +885,9 @@ export const chattisgarhTemples = [
       ]
     },
     "state": "Chhattisgarh",
-    "image": "/temples/temple-03.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-03.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shri%20Shri%20Nikle%20Mahadev%20Mandir.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Shri_Shri_Nikle_Mahadev_Mandir.jpg",
     "tradition": "Shaiva",
     "addedAt": "2026-02-23T17:06:40+05:30"
   },
@@ -1013,9 +1013,9 @@ export const chattisgarhTemples = [
       ]
     },
     "state": "Chhattisgarh",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/012_01_2022_Barsur_Battisa_Temple_Chattisgarh_016.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:012_01_2022_Barsur_Battisa_Temple_Chattisgarh_016.jpg",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
     "tradition": "Shaiva",
     "addedAt": "2026-02-23T17:20:00+05:30"
   },
@@ -1310,9 +1310,9 @@ export const chattisgarhTemples = [
       ]
     },
     "state": "Chhattisgarh",
-    "image": "/temples/temple-05.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-05.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ganiyari%20Shiva%20temple%20Chhattisgarh%20Oct%202022%20-%2015.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ganiyari_Shiva_temple_Chhattisgarh_Oct_2022_-_15.jpg",
     "tradition": "Shaiva",
     "addedAt": "2026-02-23T16:35:00+05:30"
   },
@@ -1352,9 +1352,9 @@ export const chattisgarhTemples = [
       ]
     },
     "state": "Chhattisgarh",
-    "image": "/temples/temple-06.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-06.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0010822%20Deokirari%20Shiva%20temple,%20Kirari%20Godhi,%20Chhattisgarh%20083.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:0010822_Deokirari_Shiva_temple,_Kirari_Godhi,_Chhattisgarh_083.jpg",
     "tradition": "Shaiva",
     "addedAt": "2026-02-23T16:36:00+05:30"
   },
@@ -1565,9 +1565,9 @@ export const chattisgarhTemples = [
       ]
     },
     "state": "Chhattisgarh",
-    "image": "/temples/temple-05.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-05.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0012823%20Shiva%20temple,%20Ghumadpal%20Chhattisgarh%20058.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:0012823_Shiva_temple,_Ghumadpal_Chhattisgarh_058.jpg",
     "tradition": "Shaiva",
     "addedAt": "2026-02-23T16:41:00+05:30"
   },
@@ -1690,9 +1690,9 @@ export const chattisgarhTemples = [
       ]
     },
     "state": "Chhattisgarh",
-    "image": "/temples/temple-02.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-02.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Singhaigudi%20Shiv%20temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Singhaigudi_Shiv_temple.jpg",
     "tradition": "Shaiva",
     "addedAt": "2026-02-23T16:44:00+05:30"
   },
