@@ -46,29 +46,28 @@ const normalizeTempleKey = (value) =>
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '')
 
-const CANONICAL_JYOTIRLINGA_KEYS = new Set(
-  [
-    ['Somnath Temple', 'Gujarat', 'Prabhas Patan'],
-    ['Mallikarjuna Swamy Temple', 'Andhra Pradesh', 'Srisailam'],
-    ['Mahakaleshwar Temple', 'Madhya Pradesh', 'Ujjain'],
-    ['Omkareshwar Temple', 'Madhya Pradesh', 'Omkareshwar'],
-    ['Kedarnath Temple', 'Uttarakhand', 'Kedarnath'],
-    ['Bhimashankar Temple', 'Maharashtra', 'Bhimashankar'],
-    ['Kashi Vishwanath Temple', 'Uttar Pradesh', 'Varanasi'],
-    ['Trimbakeshwar Shiva Temple', 'Maharashtra', 'Trimbak'],
-    ['Baidyanath Jyotirlinga', 'Jharkhand', 'Deoghar'],
-    ['Nageshvara Jyotirlinga', 'Gujarat', 'Dwarka'],
-    ['Ramanathaswamy Temple', 'Tamil Nadu', 'Rameswaram'],
-    ['Grishneshwar Temple', 'Maharashtra', 'Verul'],
-  ].map(
-    ([name, state, city]) =>
-      `${normalizeTempleKey(name)}|${normalizeTempleKey(state)}|${normalizeTempleKey(city)}`
-  )
-)
+// Match by tag + state/city — robust against name variations across data sources
+const CANONICAL_JYOTIRLINGA_LOCATIONS = new Set([
+  'gujarat|prabhaspatan',       // Somnath
+  'andhrapradesh|srisailam',    // Mallikarjuna
+  'madhyapradesh|ujjain',       // Mahakaleshwar
+  'madhyapradesh|omkareshwar',  // Omkareshwar
+  'uttarakhand|kedarnath',      // Kedarnath
+  'maharashtra|bhimashankar',   // Bhimashankar
+  'uttarpradesh|varanasi',      // Kashi Vishwanath
+  'maharashtra|trimbak',        // Trimbakeshwar
+  'jharkhand|deoghar',          // Baidyanath
+  'gujarat|dwarka',             // Nageshvara
+  'tamilnadu|rameswaram',       // Ramanathaswamy
+  'maharashtra|verul',          // Grishneshwar
+])
 
 const isCanonicalJyotirlingaTemple = (item) => {
-  const key = `${normalizeTempleKey(item?.name)}|${normalizeTempleKey(item?.state)}|${normalizeTempleKey(item?.city)}`
-  return CANONICAL_JYOTIRLINGA_KEYS.has(key)
+  const tags = Array.isArray(item?.tags) ? item.tags : []
+  const hasTag = tags.some((t) => normalizeTempleKey(t) === 'jyotirlinga')
+  if (!hasTag) return false
+  const locationKey = `${normalizeTempleKey(item?.state)}|${normalizeTempleKey(item?.city)}`
+  return CANONICAL_JYOTIRLINGA_LOCATIONS.has(locationKey)
 }
 
 const toSearchBlob = (item) =>

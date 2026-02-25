@@ -60,26 +60,22 @@ const normalizeTempleKey = (value) =>
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '')
 
-const CANONICAL_JYOTIRLINGA_KEYS = new Set(
-  [
-    ['Somnath Temple', 'Gujarat', 'Prabhas Patan'],
-    ['Mallikarjuna Swamy Temple', 'Andhra Pradesh', 'Srisailam'],
-    ['Mahakaleshwar Temple', 'Madhya Pradesh', 'Ujjain'],
-    ['Omkareshwar Temple', 'Madhya Pradesh', 'Omkareshwar'],
-    ['Kedarnath Temple', 'Uttarakhand', 'Kedarnath'],
-    ['Bhimashankar Temple', 'Maharashtra', 'Bhimashankar'],
-    ['Kashi Vishwanath Temple', 'Uttar Pradesh', 'Varanasi'],
-    ['Shri Kashi Vishwanath Jyotirlinga', 'Uttar Pradesh', 'Varanasi'],
-    ['Trimbakeshwar Shiva Temple', 'Maharashtra', 'Trimbak'],
-    ['Baidyanath Jyotirlinga', 'Jharkhand', 'Deoghar'],
-    ['Nageshvara Jyotirlinga', 'Gujarat', 'Dwarka'],
-    ['Ramanathaswamy Temple', 'Tamil Nadu', 'Rameswaram'],
-    ['Grishneshwar Temple', 'Maharashtra', 'Verul'],
-  ].map(
-    ([name, state, city]) =>
-      `${normalizeTempleKey(name)}|${normalizeTempleKey(state)}|${normalizeTempleKey(city)}`
-  )
-)
+// 12 canonical Jyotirlinga locations — match by tag + state/city instead of name
+// because JS data files use different temple name formats than the API data store
+const CANONICAL_JYOTIRLINGA_LOCATIONS = new Set([
+  'gujarat|prabhaspatan',       // Somnath
+  'andhrapradesh|srisailam',    // Mallikarjuna
+  'madhyapradesh|ujjain',       // Mahakaleshwar
+  'madhyapradesh|omkareshwar',  // Omkareshwar
+  'uttarakhand|kedarnath',      // Kedarnath
+  'maharashtra|bhimashankar',   // Bhimashankar
+  'uttarpradesh|varanasi',      // Kashi Vishwanath
+  'maharashtra|trimbak',        // Trimbakeshwar
+  'jharkhand|deoghar',          // Baidyanath
+  'gujarat|dwarka',             // Nageshvara
+  'tamilnadu|rameswaram',       // Ramanathaswamy
+  'maharashtra|verul',          // Grishneshwar
+])
 const PAGE_TRACKING_PATHS = {
   temples: '/temples',
   recent: '/recent-discoveries',
@@ -709,6 +705,8 @@ function App() {
   const storyModalRef = useRef(null)
   const storyCloseButtonRef = useRef(null)
   const lastFocusedElementRef = useRef(null)
+  const touchStartYRef = useRef(0)
+  const swipeDyRef = useRef(0)
   const hasTrackedInitialPage = useRef(false)
   const safeTempleDataRef = useRef([])
   const deeplinkHandled = useRef(false)
@@ -1052,24 +1050,34 @@ function App() {
     if (match) openTempleStory(match, 'deeplink')
   }, [safeTempleData]) // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Update document.title and OG meta when modal opens/closes
+  // Update document.title, OG meta, Twitter meta and canonical when modal opens/closes
   useEffect(() => {
     if (typeof document === 'undefined') return
     const setMeta = (attr, val, content) =>
       document.querySelector(`meta[${attr}="${val}"]`)?.setAttribute('content', content)
+    const canonical = document.getElementById('canonical')
     if (activeTemple) {
       const slug = slugify(`${activeTemple.name}-${activeTemple.city}-${activeTemple.state}`)
+      const templeUrl = `${window.location.origin}/temple/${slug}`
       document.title = `${activeTemple.name} — Jai Bhole Nath`
       setMeta('property', 'og:title', `${activeTemple.name} — Jai Bhole Nath`)
       setMeta('property', 'og:description', `${activeTemple.city}, ${activeTemple.state}`)
-      setMeta('property', 'og:url', `${window.location.origin}/temple/${slug}`)
+      setMeta('property', 'og:url', templeUrl)
       if (activeTemple.image) setMeta('property', 'og:image', activeTemple.image)
+      setMeta('name', 'twitter:title', `${activeTemple.name} — Jai Bhole Nath`)
+      setMeta('name', 'twitter:description', `${activeTemple.city}, ${activeTemple.state}`)
+      if (activeTemple.image) setMeta('name', 'twitter:image', activeTemple.image)
+      if (canonical) canonical.setAttribute('href', templeUrl)
     } else {
       document.title = 'Jai Bhole Nath'
       setMeta('property', 'og:title', 'Jai Bhole Nath — Sacred Temples of India')
       setMeta('property', 'og:description', 'Discover sacred Shiva and Shakti temples across India.')
       setMeta('property', 'og:url', window.location.origin)
       setMeta('property', 'og:image', `${window.location.origin}/og-image.png`)
+      setMeta('name', 'twitter:title', 'Jai Bhole Nath — Sacred Temples of India')
+      setMeta('name', 'twitter:description', 'Discover sacred Shiva and Shakti temples across India.')
+      setMeta('name', 'twitter:image', `${window.location.origin}/og-image.png`)
+      if (canonical) canonical.setAttribute('href', window.location.origin)
     }
   }, [activeTemple])
 
@@ -1390,8 +1398,12 @@ function App() {
   }
 
   const isCanonicalJyotirlingaTemple = (item) => {
-    const key = `${normalizeTempleKey(item?.name)}|${normalizeTempleKey(item?.state)}|${normalizeTempleKey(item?.city)}`
-    return CANONICAL_JYOTIRLINGA_KEYS.has(key)
+    const hasTag = Array.isArray(item?.tags) && item.tags.some(
+      (t) => normalizeTempleKey(t) === 'jyotirlinga'
+    )
+    if (!hasTag) return false
+    const locationKey = `${normalizeTempleKey(item?.state)}|${normalizeTempleKey(item?.city)}`
+    return CANONICAL_JYOTIRLINGA_LOCATIONS.has(locationKey)
   }
 
   const matchesEditorJourney = (item, term) => {
@@ -1904,6 +1916,40 @@ function App() {
   const navigateToMapState = (stateName) => {
     handleStateChange(stateName, 'map')
     switchPage('temples')
+  }
+
+  const handleModalTouchStart = (e) => {
+    touchStartYRef.current = e.touches[0].clientY
+    swipeDyRef.current = 0
+    if (storyModalRef.current) {
+      storyModalRef.current.style.transition = 'none'
+    }
+  }
+
+  const handleModalTouchMove = (e) => {
+    const dy = e.touches[0].clientY - touchStartYRef.current
+    if (dy <= 0) return
+    swipeDyRef.current = dy
+    if (storyModalRef.current) {
+      storyModalRef.current.style.transform = `translateY(${dy}px)`
+      storyModalRef.current.style.opacity = String(Math.max(0.5, 1 - dy / 300))
+    }
+  }
+
+  const handleModalTouchEnd = () => {
+    const dy = swipeDyRef.current
+    if (storyModalRef.current) {
+      storyModalRef.current.style.transition = 'transform 0.25s ease, opacity 0.25s ease'
+    }
+    if (dy > 100) {
+      setActiveTemple(null)
+    } else {
+      if (storyModalRef.current) {
+        storyModalRef.current.style.transform = 'translateY(0)'
+        storyModalRef.current.style.opacity = '1'
+      }
+    }
+    swipeDyRef.current = 0
   }
 
   const handleShare = async () => {
@@ -3058,7 +3104,11 @@ function App() {
             aria-labelledby="story-title"
             tabIndex={-1}
             onClick={(event) => event.stopPropagation()}
+            onTouchStart={handleModalTouchStart}
+            onTouchMove={handleModalTouchMove}
+            onTouchEnd={handleModalTouchEnd}
           >
+            <div className="modal-drag-handle" aria-hidden="true" />
             <div className="story-modal-actions">
               <button
                 className={`story-visited${isTempleVisited(activeTemple) ? ' is-visited' : ''}`}
