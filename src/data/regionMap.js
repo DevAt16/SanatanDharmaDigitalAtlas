@@ -7,8 +7,6 @@ export const REGIONS = [
       'Uttar Pradesh',
       'Uttarakhand',
       'Rajasthan',
-      'Bihar',
-      'Jharkhand',
       'Haryana',
       'Himachal Pradesh',
       'Punjab',
@@ -31,7 +29,7 @@ export const REGIONS = [
     id: 'east',
     label: 'East India',
     labelHi: 'पूर्व भारत',
-    states: ['West Bengal', 'Odisha', 'Assam', 'Bihar'],
+    states: ['West Bengal', 'Odisha', 'Jharkhand', 'Bihar'],
   },
   {
     id: 'northeast',

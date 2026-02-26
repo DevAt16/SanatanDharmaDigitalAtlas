@@ -10072,58 +10072,6 @@ export const tamilNaduTemples = [
     "lastVerifiedAt": "2026-02-23T17:00:00+05:30"
   },
   {
-    "name": "Sri Ramanathaswamy Jyotirlinga (The macro-center)",
-    "state": "Tamil Nadu",
-    "city": "Rameswaram",
-    "region": "Rameswaram, Ramanathapuram district",
-    "tags": [
-      "Rameswaram",
-      "Jyotirlinga",
-      "Char Dham"
-    ],
-    "story": "Sri Ramanathaswamy Jyotirlinga (The macro-center) is a major Shiva temple node on Pamban Island.",
-    "highlight": "Iconic long pillared corridors and jyotirlinga worship traditions.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramanathaswamy_Temple_Rameswaram_(2).jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ramanathaswamy_Temple_Rameswaram_(2).jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-23T12:53:30+05:30",
-    "bestTime": "October to March; pre-dawn darshan is popular.",
-    "timings": "Open daily; timings vary by temple and season.",
-    "dressCode": "Traditional/modest attire recommended.",
-    "entryNotes": "Pilgrims often complete theertha snanam sequence before darshan.",
-    "rituals": [
-      "Mani darshanam",
-      "Theertha snanam",
-      "Abhishekam"
-    ],
-    "festivals": [
-      "Mahashivratri",
-      "Thirukalyanam"
-    ],
-    "moreDetails": {
-      "history": "Ramanathaswamy Temple is one of the most important Shaiva pilgrimage centers in southern India.",
-      "architecture": "Long pillared corridors, multiple theerthams, and layered mandapa architecture.",
-      "visitorNotes": "Check temple-specific darshan windows before travel planning.",
-      "sources": [
-        {
-          "label": "Rameswaram HRCE Temple",
-          "url": "https://rameswaram.hrce.tn.gov.in/",
-          "type": "Temple administration"
-        },
-        {
-          "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Ramanathaswamy%20Temple%20Rameswaram",
-          "type": "Map search"
-        }
-      ]
-    },
-    "district": "Ramanathapuram",
-    "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-23T22:30:00+05:30"
-  },
-  {
     "name": "Sri Viswanathar Sannidhi (The Kashi Lingam node, structurally distinct within the complex)",
     "state": "Tamil Nadu",
     "city": "Rameswaram",

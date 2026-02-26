@@ -142,7 +142,7 @@ export const haryanaTemples = [
     }
   },
   {
-    "name": "Bhuteshwar Temple",
+    "name": "Bhuteshwar Mahadev Temple",
     "state": "Haryana",
     "city": "Jind",
     "region": "Jind district",
@@ -151,8 +151,8 @@ export const haryanaTemples = [
       "48 Kos",
       "Historic"
     ],
-    "story": "A historic Shiva temple in Jind, often identified with Bhuteshwar, and associated with the Rani Talab precinct.",
-    "highlight": "Temple with large surrounding water body context.",
+    "story": "A historic Shiva temple in Jind, associated with the Rani Talab precinct and regarded as one of the district's most important Shaiva anchors.",
+    "highlight": "Primary Jind Shaiva node in the Rani Talab sacred landscape.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RaniTalab.png",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:RaniTalab.png",
@@ -379,7 +379,7 @@ export const haryanaTemples = [
     }
   },
   {
-    "name": "Saketri Shiv Mandir",
+    "name": "Saketri Shiva Temple (Mahadev Temple)",
     "state": "Haryana",
     "city": "Saketri",
     "region": "Panchkula district",
@@ -388,8 +388,8 @@ export const haryanaTemples = [
       "Panchkula",
       "Regional Pilgrimage"
     ],
-    "story": "A prominent Shiva temple in Saketri with major annual Shivratri attendance from Haryana, Punjab, Himachal and Chandigarh region.",
-    "highlight": "Large Shivratri congregation.",
+    "story": "A highly resonant Shiva temple at the foothills near Saketri, known for strong regional pilgrimage continuity and a stable hill-plain transition energy in the Panchkula sector.",
+    "highlight": "Primary Saketri Mahadev stabilization node for Panchkula's urban-forest edge.",
     "image": null,
     "credit": "",
     "creditUrl": "",
@@ -609,7 +609,7 @@ export const haryanaTemples = [
     }
   },
   {
-    "name": "Dhosi Hill Shiva Temple",
+    "name": "Dhosi Hill (Chyavan Rishi Ashram) Shiva Node",
     "state": "Haryana",
     "city": "Kultajpur (Narnaul side)",
     "region": "Mahendragarh district",
@@ -618,14 +618,14 @@ export const haryanaTemples = [
       "Aravalli",
       "Ancient"
     ],
-    "story": "Dhosi Hill is a major ancient sacred landscape with a Shiva temple on the crater-level plateau, visited by pilgrims and trekkers.",
-    "highlight": "Shiva shrine within extinct-volcanic hill pilgrimage circuit.",
+    "story": "Dhosi Hill is a major sacred volcanic landscape linked with Chyavan Rishi traditions, where Shiva shrines on and around the crater edge function as high-altitude transmitters for the wider Mahendragarh belt.",
+    "highlight": "Primary high-transmitter Shiva anchor on the extinct-volcanic Dhosi ridge.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ancient_Shiva_Temple_at_Dhosi_Hill%2C_Chyvan_Rishi_Ashram.JPG",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Ancient_Shiva_Temple_at_Dhosi_Hill%2C_Chyvan_Rishi_Ashram.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-25T16:52:23+05:30",
     "bestTime": "October-March / Somvati Amavasya.",
     "timings": "Daylight hours.",
     "dressCode": "Trek-friendly modest attire.",
@@ -947,7 +947,7 @@ export const haryanaTemples = [
     }
   },
   {
-    "name": "Bagheshwar (Shiv) Temple Baghot",
+    "name": "Bagot (Baghot) Shiva Temple",
     "state": "Haryana",
     "city": "Baghot",
     "region": "Mahendragarh district",
@@ -956,14 +956,14 @@ export const haryanaTemples = [
       "Shivratri Fair",
       "Kawar Yatra"
     ],
-    "story": "A prominent Shiva shrine in Baghot, noted in Mahendragarh district records as a major regional place of worship.",
-    "highlight": "Large Shivratri and Sawan-linked devotional gatherings.",
+    "story": "A major Shiva temple in Baghot, known for very high Shravan-cycle footfall and regional Kanwariya movement, functioning as a key devotional routing node in the district.",
+    "highlight": "High-traffic Kanwariya and Shravan collector node for Mahendragarh sector.",
     "image": null,
     "credit": "",
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-25T16:52:23+05:30",
     "bestTime": "Shravan / Mahashivratri.",
     "timings": "Open daily.",
     "dressCode": "Modest attire preferred.",
@@ -1089,7 +1089,7 @@ export const haryanaTemples = [
     }
   },
   {
-    "name": "Modawala (Shiv) Temple",
+    "name": "Modawala Mahadev Temple (Mahendragarh City)",
     "state": "Haryana",
     "city": "Narnaul",
     "region": "Mahendragarh district",
@@ -1098,14 +1098,14 @@ export const haryanaTemples = [
       "Shiva Lingam",
       "Local Fair"
     ],
-    "story": "A key Shiva temple on the Narnaul-Rewari road, listed among important religious places in Mahendragarh district.",
-    "highlight": "Known local Shiva shrine with annual fair tradition.",
+    "story": "A highly active Shiva temple on the Narnaul-Rewari corridor, serving as a primary urban anchoring shrine for the Mahendragarh district headquarters zone.",
+    "highlight": "Primary urban grounding node for Mahendragarh city-grid flow.",
     "image": null,
     "credit": "",
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-25T16:52:23+05:30",
     "bestTime": "Raksha Bandhan fair / Mahashivratri.",
     "timings": "Open daily.",
     "dressCode": "Modest attire preferred.",
@@ -1291,7 +1291,7 @@ export const haryanaTemples = [
     }
   },
   {
-    "name": "Bamanwas Shiva Temple (Baba Rameshwar Dass Complex)",
+    "name": "Baba Rameshwar Das Shivalaya (Bamanwas)",
     "state": "Haryana",
     "city": "Bamanwas",
     "region": "Mahendragarh district",
@@ -1300,14 +1300,14 @@ export const haryanaTemples = [
       "Nandi",
       "Temple Complex"
     ],
-    "story": "Within the Baba Rameshwar Dass temple premises at Bamanwas, district records describe a dedicated Shiva temple with a large Shivling and Nandi image.",
-    "highlight": "Noted for its large Shiva iconography within a major devotional complex.",
+    "story": "A quiet but highly resonant Shiva node within the Bamanwas Baba Rameshwar Das temple complex, with dedicated Shivling-Nandi worship and long-running hill-edge devotional continuity.",
+    "highlight": "Steady Siddha-style baseline anchor for southern rural Mahendragarh sub-grids.",
     "image": null,
     "credit": "",
     "creditUrl": "",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-25T16:52:23+05:30",
     "bestTime": "Ram Navami fair period / Mahashivratri.",
     "timings": "Open daily.",
     "dressCode": "Modest attire preferred.",
@@ -3912,6 +3912,1313 @@ export const haryanaTemples = [
         {
           "label": "Gurugram District Portal",
           "url": "https://gurugram.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bhadrakali Temple Shiva Node",
+    "state": "Haryana",
+    "city": "Kurukshetra",
+    "region": "Kurukshetra district",
+    "tags": [
+      "Bhadrakali Complex",
+      "Shiva Node",
+      "Shaiva-Shakta"
+    ],
+    "story": "Within the Bhadrakali temple complex, this Shiva node provides a balancing Shaiva anchor alongside the site's strong Shakti worship tradition.",
+    "highlight": "Dual-resonance Shaiva-Shakta stop in the Kurukshetra pilgrimage grid.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva-Shakta",
+    "addedAt": "2026-02-25T16:38:43+05:30",
+    "bestTime": "Mahashivratri, Navratri, and cooler months.",
+    "timings": "Open daily; local temple schedule applies.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Inside/near the Bhadrakali pilgrimage complex in Kurukshetra.",
+    "rituals": [
+      "Jalabhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Navratri"
+    ],
+    "moreDetails": {
+      "history": "Locally visited as the Shaiva complement to one of Kurukshetra's major Shakti centers.",
+      "architecture": "Regional temple-complex shrine architecture.",
+      "darshan": "Regular darshan with peak turnout in festival windows.",
+      "seasonal": "Most comfortable from October to March.",
+      "visitorNotes": "Can be combined with Sthaneshwar and Brahma Sarovar circuits.",
+      "festivals": "High footfall around Shivratri and Navratri.",
+      "sources": [
+        {
+          "label": "Kurukshetra Attractions",
+          "url": "https://kurukshetra.gov.in/kurukshetraattractions/",
+          "type": "Government"
+        },
+        {
+          "label": "48 Kos Kurukshetra",
+          "url": "https://kurukshetra.gov.in/48-kos-kurukshetra-tirth/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ban Ganga (Narakatari) Shiva Node",
+    "state": "Haryana",
+    "city": "Narakatari",
+    "region": "Kurukshetra district",
+    "tags": [
+      "Ban Ganga",
+      "Narakatari",
+      "Water Node"
+    ],
+    "story": "This Kurukshetra tirth is linked with the Arjuna-Bhishma legend of an earth-pierced spring, with a Shiva shrine anchored to the continuously flowing sacred water tradition.",
+    "highlight": "Hydro-linked Shiva node in the Narakatari sacred belt.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:38:43+05:30",
+    "bestTime": "October to March; major tirth dates.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Narakatari area, Kurukshetra district.",
+    "rituals": [
+      "Jal offering",
+      "Shiva puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Local Kurukshetra tirth observances"
+    ],
+    "moreDetails": {
+      "history": "Maintained in the regional tirth tradition as a Ban Ganga-associated sacred point tied to Mahabharata-era memory.",
+      "architecture": "Shrine-kund style sacred setting with water-centric ritual flow.",
+      "darshan": "Active local worship site with seasonal pilgrim increases.",
+      "seasonal": "Post-monsoon to spring is generally best for visits.",
+      "visitorNotes": "Best covered as part of the wider Kurukshetra circuit.",
+      "festivals": "Shivratri and peak tirth windows draw more devotees.",
+      "sources": [
+        {
+          "label": "48 Kos Kurukshetra",
+          "url": "https://kurukshetra.gov.in/48-kos-kurukshetra-tirth/",
+          "type": "Government"
+        },
+        {
+          "label": "Kurukshetra Attractions",
+          "url": "https://kurukshetra.gov.in/kurukshetraattractions/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kamal Nabhi Shiva Shrine",
+    "state": "Haryana",
+    "city": "Kurukshetra",
+    "region": "Kurukshetra district",
+    "tags": [
+      "Kamal Nabhi",
+      "Brahma Sarovar Zone",
+      "Shiva Shrine"
+    ],
+    "story": "A localized Shiva shrine in the Brahma Sarovar pilgrimage zone, visited as a steady devotional anchor amid major festival and eclipse crowds.",
+    "highlight": "Important stabilizing Shiva stop near the high-footfall Brahma Sarovar precinct.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:38:43+05:30",
+    "bestTime": "October to March; eclipse and mela dates for pilgrimage context.",
+    "timings": "Open daily; timings vary by local management.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Near Brahma Sarovar, Kurukshetra.",
+    "rituals": [
+      "Shiva puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Kurukshetra mela and eclipse gatherings"
+    ],
+    "moreDetails": {
+      "history": "Connected to the broader Brahma Sarovar sacred geography and ongoing local Shaiva worship.",
+      "architecture": "Regional shrine form embedded in a larger pilgrimage complex.",
+      "darshan": "Frequented by local devotees and circuit pilgrims.",
+      "seasonal": "Footfall rises sharply on major bathing and eclipse dates.",
+      "visitorNotes": "Combine with Sarveshwar Mahadev and nearby tirth points.",
+      "festivals": "Festival cadence follows Kurukshetra's pilgrimage calendar.",
+      "sources": [
+        {
+          "label": "Brahma Sarovar Gallery",
+          "url": "https://kurukshetra.gov.in/gallery/braham-sarovar/",
+          "type": "Government"
+        },
+        {
+          "label": "Kurukshetra Attractions",
+          "url": "https://kurukshetra.gov.in/kurukshetraattractions/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gyarah Rudri Shiva Temple",
+    "state": "Haryana",
+    "city": "Kaithal",
+    "region": "Kaithal district",
+    "tags": [
+      "Gyarah Rudri",
+      "11 Lingams",
+      "Mahabharata Tradition"
+    ],
+    "story": "A major Shaiva anchor in Kaithal tradition, associated with Arjuna's penance narrative and the worship of eleven Rudra lingams in one ritual field.",
+    "highlight": "Primary multi-lingam Shaiva anchor of Kaithal's Chhoti Kashi matrix.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Gyarah Rudri Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:41:26+05:30",
+    "bestTime": "Mahashivratri, Shravan, and October-March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Within Kaithal urban pilgrimage circuit.",
+    "rituals": [
+      "Rudrabhishek",
+      "Jalabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Preserved in local Kaithal tradition as a high-value Rudra worship site with Mahabharata-era devotional linkage.",
+      "architecture": "Regional North Indian shrine pattern organized around multi-linga worship.",
+      "darshan": "Steady local darshan with strong festival spikes.",
+      "seasonal": "Most comfortable in cooler months; heavy footfall in Shravan.",
+      "visitorNotes": "Plan early visits on Mondays and major Shaiva dates.",
+      "festivals": "Shivratri and Shravan are the principal observance windows.",
+      "sources": [
+        {
+          "label": "Kaithal District Portal",
+          "url": "https://kaithal.gov.in/tourist-place/",
+          "type": "Government"
+        },
+        {
+          "label": "Kaithal (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Kaithal",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Khandeshwar Mahadev Temple",
+    "state": "Haryana",
+    "city": "Kaithal",
+    "region": "Kaithal district",
+    "tags": [
+      "Khandeshwar",
+      "Ancient Temple",
+      "Urban Anchor"
+    ],
+    "story": "An old and grounded Shiva shrine in Kaithal's temple fabric, remembered as one of the steady baseline anchors in the district's active devotional network.",
+    "highlight": "Ancient baseline resonance point in Kaithal city.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Khandeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:41:26+05:30",
+    "bestTime": "Year-round; October-March preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Kaithal city zone; usually visited with nearby Shiva shrines.",
+    "rituals": [
+      "Abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan"
+    ],
+    "moreDetails": {
+      "history": "Recognized in local worship memory as an older structural Shaiva node of Kaithal.",
+      "architecture": "Traditional regional masonry temple profile.",
+      "darshan": "Regular community temple with daily ritual continuity.",
+      "seasonal": "Festive crowd concentration in Shravan and Shivratri.",
+      "visitorNotes": "Morning darshan is typically calmer.",
+      "festivals": "Main peaks align with Shaiva annual cycle.",
+      "sources": [
+        {
+          "label": "Kaithal District Portal",
+          "url": "https://kaithal.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Old Khanda Mahadev",
+    "state": "Haryana",
+    "city": "Kaithal",
+    "region": "Kaithal district",
+    "tags": [
+      "Old Khanda",
+      "Historic Shrine",
+      "Kaithal"
+    ],
+    "story": "A historic and weathered Shiva node in Kaithal that preserves an older devotional layer of the district and links present-day worship to deep regional antiquity.",
+    "highlight": "Historic grounding rod connecting modern Kaithal to older Kurukshetra-region memory.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Khanda Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:41:26+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "In older Kaithal settlement belt; local guidance may help first-time visitors.",
+    "rituals": [
+      "Jalabhishek",
+      "Deep daan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local tradition as an old Shaiva worship point with long devotional continuity.",
+      "architecture": "Aged regional shrine character with incremental restoration over time.",
+      "darshan": "Primarily local devotees with increased festival movement.",
+      "seasonal": "Cooler months are generally preferred for longer visits.",
+      "visitorNotes": "Pair with nearby Kaithal Shaiva circuit sites.",
+      "festivals": "Shivratri and Shravan remain the strongest ritual windows.",
+      "sources": [
+        {
+          "label": "Kaithal District Portal",
+          "url": "https://kaithal.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pundri (Pundarik Tirtha) Shiva Node",
+    "state": "Haryana",
+    "city": "Pundri",
+    "region": "Kaithal district",
+    "tags": [
+      "Pundri",
+      "Pundarik Tirtha",
+      "Sarovar Node"
+    ],
+    "story": "A pond-linked Shiva tirtha in Pundri where local tradition centers on a long-lived sacred water body and a stable Shiva worship loop synchronized with the sarovar ecology.",
+    "highlight": "Hydro-cooled Shiva node on the Pundarik tirtha axis.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:41:26+05:30",
+    "bestTime": "October to March and major tirth dates.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Pundri tirtha zone in Kaithal district.",
+    "rituals": [
+      "Jalabhishek",
+      "Sarovar-side tirtha puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Pundri is preserved in regional sacred geography as an old tirtha settlement with continuous Shiva worship associations.",
+      "architecture": "Temple-and-pond devotional landscape.",
+      "darshan": "Pilgrim movement is highest on ritual bathing and Shaiva dates.",
+      "seasonal": "Pleasant in winter; monsoon access depends on local conditions.",
+      "visitorNotes": "Best visited with local tirtha guidance.",
+      "festivals": "Combined tirtha and Shaiva observance calendar.",
+      "sources": [
+        {
+          "label": "Kaithal District Portal",
+          "url": "https://kaithal.gov.in/tourist-place/",
+          "type": "Government"
+        },
+        {
+          "label": "Pundri (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Pundri",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amkeshwar Mahadev",
+    "state": "Haryana",
+    "city": "Kaithal",
+    "region": "Kaithal district",
+    "tags": [
+      "Amkeshwar",
+      "Chhoti Kashi",
+      "Urban Shrine"
+    ],
+    "story": "A key community-facing Shiva temple in Kaithal, known for consistent daily worship and its role in balancing high-traffic devotional movement across the city grid.",
+    "highlight": "High-traffic urban anchor in Kaithal's Chhoti Kashi network.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Amkeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:41:26+05:30",
+    "bestTime": "Year-round; festival dates are most active.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Kaithal city temple belt.",
+    "rituals": [
+      "Abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Recorded in local devotional circuits as a regularly active Mahadev shrine in Kaithal.",
+      "architecture": "Regional urban temple profile with continuous worship flow.",
+      "darshan": "Daily local darshan with notable festival spikes.",
+      "seasonal": "Crowded in Shravan and Shivratri periods.",
+      "visitorNotes": "Expect higher queues on Mondays and festival evenings.",
+      "festivals": "Shivratri and Shravan are major worship windows.",
+      "sources": [
+        {
+          "label": "Kaithal District Portal",
+          "url": "https://kaithal.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gauri Shankar Temple",
+    "state": "Haryana",
+    "city": "Bhiwani",
+    "region": "Bhiwani district",
+    "tags": [
+      "Gauri Shankar",
+      "Shiva-Parvati",
+      "Urban Anchor"
+    ],
+    "story": "A major Shiva-Parvati temple in Bhiwani, remembered for detailed carvings and its role as a central stabilizing Shaiva anchor in the city's devotional network.",
+    "highlight": "Primary Shiva-Parvati anchor for the Bhiwani city grid.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva-Parvati (Gauri Shankar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:44:26+05:30",
+    "bestTime": "October to March, Mahashivratri, and Shravan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Located in/near Bhiwani city temple belt.",
+    "rituals": [
+      "Jalabhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local memory as one of Bhiwani's key Shaiva urban anchors.",
+      "architecture": "Regional North Indian temple form with carved iconographic detailing.",
+      "darshan": "High local attendance on Mondays and major Shaiva dates.",
+      "seasonal": "Comfortable visit window is post-monsoon through spring.",
+      "visitorNotes": "Best visited early on high-footfall days.",
+      "festivals": "Shivratri and Shravan remain the strongest crowd cycles.",
+      "sources": [
+        {
+          "label": "Bhiwani District Portal",
+          "url": "https://bhiwani.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jogi Wala Shivalaya",
+    "state": "Haryana",
+    "city": "Bhiwani",
+    "region": "Bhiwani district",
+    "tags": [
+      "Jogi Wala",
+      "Nath Tradition",
+      "Ancient Shrine"
+    ],
+    "story": "An old Shiva shrine in Bhiwani associated in local tradition with yogic and Nath-linked devotional lineages, known as a deeply grounded Shaiva node.",
+    "highlight": "Ancient high-gravity Shiva anchor with Nath-sampradaya associations.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:44:26+05:30",
+    "bestTime": "Year-round; cooler months preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Local Bhiwani sacred circuit site.",
+    "rituals": [
+      "Rudrabhishek",
+      "Meditative darshan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Preserved as an old yogic-Shaiva worship point in district devotional narratives.",
+      "architecture": "Regional shrine profile with older ritual continuity.",
+      "darshan": "Steady local devotion, with higher movement in Shaiva festival windows.",
+      "seasonal": "Festival attendance peaks in Shravan and Shivratri period.",
+      "visitorNotes": "Local guidance is helpful for first-time visitors.",
+      "festivals": "Aligned with annual Shaiva observances.",
+      "sources": [
+        {
+          "label": "Bhiwani District Portal",
+          "url": "https://bhiwani.gov.in/tourist-place/",
+          "type": "Government"
+        },
+        {
+          "label": "Nath (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Nath",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Prachin Mahadev Temple (Devsar Dham nearby)",
+    "state": "Haryana",
+    "city": "Bhiwani",
+    "region": "Bhiwani district",
+    "tags": [
+      "Prachin Mahadev",
+      "Devsar Dham",
+      "Shaiva-Shakta Interface"
+    ],
+    "story": "An old Shiva shrine in the Devsar Dham devotional landscape, regarded as a grounding Shaiva stabilizer for the surrounding high-intensity Shakti pilgrimage zone.",
+    "highlight": "Pashupata stabilizer node around the Devsar Dham pilgrimage corridor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva-Shakta",
+    "addedAt": "2026-02-25T16:44:26+05:30",
+    "bestTime": "October to March and festival periods.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Near Devsar Dham pilgrimage zone; route conditions can vary.",
+    "rituals": [
+      "Abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Navratri period visits"
+    ],
+    "moreDetails": {
+      "history": "Embedded in the wider hill-and-plains devotional matrix of southern Bhiwani routes.",
+      "architecture": "Traditional shrine profile with locally maintained ritual continuity.",
+      "darshan": "Visited by both local and circuit pilgrims.",
+      "seasonal": "Footfall rises during combined Shaiva and Shakta festival cycles.",
+      "visitorNotes": "Often combined with nearby hill-temple routes.",
+      "festivals": "Peak windows align with Shivratri and regional mela dates.",
+      "sources": [
+        {
+          "label": "Bhiwani District Portal",
+          "url": "https://bhiwani.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nandishwar Mahadev",
+    "state": "Haryana",
+    "city": "Bhiwani",
+    "region": "Bhiwani district",
+    "tags": [
+      "Nandishwar",
+      "Nandi",
+      "Meditative Shrine"
+    ],
+    "story": "A quiet Shiva shrine centered on Nandi-linked devotional focus, known in local worship circles as a calm and steady meditative anchor.",
+    "highlight": "Focused Nandi-frequency Shiva node for contemplative worship.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Nandishwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:44:26+05:30",
+    "bestTime": "Year-round; mornings and evenings preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Local Bhiwani worship circuit.",
+    "rituals": [
+      "Jalabhishek",
+      "Nandi-focused offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Retained in community devotional memory as a steady Shaiva anchor.",
+      "architecture": "Small-to-medium regional shrine profile.",
+      "darshan": "Moderate daily flow with local regulars.",
+      "seasonal": "Crowd intensity increases during Shravan.",
+      "visitorNotes": "Suited for quieter darshan windows.",
+      "festivals": "Shivratri and Shravan are the key observance periods.",
+      "sources": [
+        {
+          "label": "Bhiwani District Portal",
+          "url": "https://bhiwani.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Khaki Baba Shivalaya",
+    "state": "Haryana",
+    "city": "Bhiwani",
+    "region": "Bhiwani district",
+    "tags": [
+      "Khaki Baba",
+      "Old City",
+      "Historic Shrine"
+    ],
+    "story": "A historic old-city Shiva shrine in Bhiwani with long-standing local worship continuity and a weathered heritage character tied to earlier settlement layers.",
+    "highlight": "Historic local anchor for Bhiwani's old-city devotional sectors.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:44:26+05:30",
+    "bestTime": "October to March; festival days for full ritual context.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Old Bhiwani city sectors; verify lane access in advance.",
+    "rituals": [
+      "Aarti",
+      "Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Linked to long-running neighborhood-level Shaiva practice in Bhiwani.",
+      "architecture": "Older city-shrine character with local maintenance layers.",
+      "darshan": "Community-driven daily worship with festival surges.",
+      "seasonal": "Pleasant and accessible in cooler months.",
+      "visitorNotes": "Best visited alongside other Bhiwani city temples.",
+      "festivals": "Shivratri and Shravan are key annual peaks.",
+      "sources": [
+        {
+          "label": "Bhiwani District Portal",
+          "url": "https://bhiwani.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Somnath Mahadev (Pandu-Pindara)",
+    "state": "Haryana",
+    "city": "Pindara",
+    "region": "Jind district",
+    "tags": [
+      "Pandu-Pindara",
+      "Somnath Mahadev",
+      "Somvati Amavasya"
+    ],
+    "story": "A major Shiva node in the Pandu-Pindara tirtha landscape, strongly associated with ancestral rites and Somvati Amavasya observances in local Mahabharata-linked tradition.",
+    "highlight": "Lineage-reset and ancestral-cleansing Shaiva anchor in the Pindara tirtha zone.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Somnath Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:46:49+05:30",
+    "bestTime": "Somvati Amavasya, Mahashivratri, and October-March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "In the Pandu-Pindara ritual belt near Jind.",
+    "rituals": [
+      "Pind daan support rituals",
+      "Jalabhishek"
+    ],
+    "festivals": [
+      "Somvati Amavasya",
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Pandu-Pindara is a well-established tirtha center where Shiva worship is interwoven with ancestral offerings.",
+      "architecture": "Regional shrine-and-tirtha setting with water-linked ritual movement.",
+      "darshan": "Significant pilgrim turnout on no-moon and Shraddha-oriented dates.",
+      "seasonal": "High movement around major ritual calendars.",
+      "visitorNotes": "Plan early arrival on Somvati Amavasya dates.",
+      "festivals": "Peak activity on Somvati Amavasya and Shivratri.",
+      "sources": [
+        {
+          "label": "Haryana Tourism - Pindara",
+          "url": "https://haryanatourism.gov.in/places_of_interest/pindara/",
+          "type": "Government"
+        },
+        {
+          "label": "Pindara Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Pindara_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jayanti Devi Temple Shiva Node",
+    "state": "Haryana",
+    "city": "Jind",
+    "region": "Jind district",
+    "tags": [
+      "Jayanti Devi",
+      "Shaiva-Shakta",
+      "Pandava Tradition"
+    ],
+    "story": "In the Jayanti Devi devotional landscape, Shiva shrines function as grounding Shaiva nodes that balance the high-intensity Shakti focus of the site.",
+    "highlight": "Dual-resonance Shaiva-Shakta stabilization node in the Jind sacred network.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva-Shakta",
+    "addedAt": "2026-02-25T16:46:49+05:30",
+    "bestTime": "Navratri, Mahashivratri, and cooler months.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Jind district sacred circuit; confirm local temple schedule.",
+    "rituals": [
+      "Shiva puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Navratri",
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local tradition as part of a blended Shakti-Shaiva worship ecosystem.",
+      "architecture": "Regional temple-complex shrine pattern.",
+      "darshan": "Higher footfall during Shakti and Shaiva festival periods.",
+      "seasonal": "Best visited outside peak summer.",
+      "visitorNotes": "Can be paired with Bhuteshwar and Pindara routes.",
+      "festivals": "Navratri and Shivratri are key windows.",
+      "sources": [
+        {
+          "label": "Jind District Portal",
+          "url": "https://jind.gov.in/places-of-interest/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ramrai (Parshuram Tirtha) Shiva Node",
+    "state": "Haryana",
+    "city": "Ramrai",
+    "region": "Jind district",
+    "tags": [
+      "Ramrai",
+      "Parshuram Tirtha",
+      "Tirtha-Kund"
+    ],
+    "story": "A strong tirtha-linked Shiva node in the Ramrai sacred zone, associated in local memory with Parshuram traditions and old kund-centered ritual geographies.",
+    "highlight": "High-intensity Parshuram-tirtha Shaiva anchor in Jind district.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:46:49+05:30",
+    "bestTime": "October-March and major tirtha dates.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Ramrai area, Jind district.",
+    "rituals": [
+      "Jalabhishek",
+      "Tirtha puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Local tirtha observances"
+    ],
+    "moreDetails": {
+      "history": "Sustained through local Parshuram-tirtha worship memory and regional pilgrimage movement.",
+      "architecture": "Shrine-kund ritual layout in a traditional tirtha setting.",
+      "darshan": "Moderate-to-high local turnout during sacred calendar peaks.",
+      "seasonal": "Most comfortable in winter and spring.",
+      "visitorNotes": "Verify route/access conditions during monsoon periods.",
+      "festivals": "Shivratri and local tirtha fairs are peak dates.",
+      "sources": [
+        {
+          "label": "Jind District Portal",
+          "url": "https://jind.gov.in/places-of-interest/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Asvini Kumara Tirtha (Assan)",
+    "state": "Haryana",
+    "city": "Assan",
+    "region": "Jind district",
+    "tags": [
+      "Asvini Kumara",
+      "Healing Tirtha",
+      "Assan"
+    ],
+    "story": "A tirtha-linked Shiva node associated with restorative and healing traditions in local memory, aligned with the Asvini Kumara motif of medicinal and rejuvenative balance.",
+    "highlight": "Cooling, healing-oriented Shaiva tirtha node in the Assan belt.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:46:49+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Assan tirtha area in Jind district; confirm local guidance.",
+    "rituals": [
+      "Shiva puja",
+      "Jal offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Known in local ritual geography as a healing-associated tirtha marker with Shaiva continuity.",
+      "architecture": "Regional shrine profile in a tirtha-linked setting.",
+      "darshan": "Community-led daily worship with festival surges.",
+      "seasonal": "Cooler months preferred for extended visits.",
+      "visitorNotes": "Best planned with nearby Jind tirtha nodes.",
+      "festivals": "Main observance windows follow annual Shaiva rhythm.",
+      "sources": [
+        {
+          "label": "Jind District Portal",
+          "url": "https://jind.gov.in/places-of-interest/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pinjore (Bhima Devi) Temple Complex",
+    "state": "Haryana",
+    "city": "Pinjore",
+    "region": "Panchkula district",
+    "tags": [
+      "Bhima Devi Complex",
+      "Archaeology",
+      "Shaiva-Shakta"
+    ],
+    "story": "A major archaeological temple complex in Pinjore, dated broadly to the 8th-12th century period, preserving historic stone-carved Shaiva layers within a larger sacred matrix.",
+    "highlight": "Primary historic-architectural grounding anchor for the Panchkula valley.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (within Bhima Devi complex)",
+    "tradition": "Shaiva-Shakta",
+    "addedAt": "2026-02-25T16:49:28+05:30",
+    "bestTime": "October to March.",
+    "timings": "Daylight hours; local archaeological access rules apply.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Pinjore heritage zone, Panchkula district.",
+    "rituals": [
+      "Heritage darshan",
+      "Shaiva offerings at active shrines"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Regional fair periods"
+    ],
+    "moreDetails": {
+      "history": "Known as one of north India's significant medieval temple-ruin concentrations with layered Shaiva iconography.",
+      "architecture": "Stone temple remains with high-detail carvings in a protected archaeological setting.",
+      "darshan": "Mixed heritage and devotional visitors.",
+      "seasonal": "Best visited in cooler months for full site walkthrough.",
+      "visitorNotes": "Combine with nearby Pinjore-Yadavindra garden and Panchkula shrine circuit.",
+      "festivals": "Higher devotional movement around Shivratri.",
+      "sources": [
+        {
+          "label": "Bhima Devi Temple Complex (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Bhima_Devi_Temple_Complex,_Pinjore",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Panchkula District Portal",
+          "url": "https://panchkula.gov.in/tourist-places/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mansa Devi Complex Shiva Shrines",
+    "state": "Haryana",
+    "city": "Panchkula",
+    "region": "Panchkula district",
+    "tags": [
+      "Mansa Devi Complex",
+      "Shaiva-Shakta",
+      "Hill Shrine Network"
+    ],
+    "story": "Within the Mansa Devi pilgrimage ecosystem, associated Shiva shrines provide key Shaiva balancing nodes that support the larger hilltop Shakti flow.",
+    "highlight": "Critical Shaiva balancing layer for the high-footfall Mansa Devi complex.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva-Shakta",
+    "addedAt": "2026-02-25T16:49:28+05:30",
+    "bestTime": "Navratri, Mahashivratri, and October-March.",
+    "timings": "Open daily; follows local complex timings.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "In/near Mansa Devi temple complex, Panchkula.",
+    "rituals": [
+      "Shiva puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Navratri",
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Shaiva components of the Mansa Devi sacred landscape continue to serve as balancing ritual points.",
+      "architecture": "Regional hill-temple complex architecture.",
+      "darshan": "Very high pilgrim volume during Navratri and major Mondays.",
+      "seasonal": "Peak crowd cycles in festival windows.",
+      "visitorNotes": "Visit early to avoid crowd concentration.",
+      "festivals": "Navratri and Shivratri drive the main influx.",
+      "sources": [
+        {
+          "label": "Mansa Devi (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Mata_Mansa_Devi_Mandir",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Panchkula District Portal",
+          "url": "https://panchkula.gov.in/tourist-places/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Morni Hills Hidden Nodes",
+    "state": "Haryana",
+    "city": "Morni",
+    "region": "Panchkula district",
+    "tags": [
+      "Morni Hills",
+      "Gupt Shiva Markers",
+      "Forest Nodes"
+    ],
+    "story": "A composite entry for lesser-documented Shiva markers in the Morni hill belt, representing forest-shielded hilltop and valley nodes in the Ghaggar basin landscape.",
+    "highlight": "Raw, high-altitude Shaiva transmission points in Haryana's only hill-station zone.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:49:28+05:30",
+    "bestTime": "October to March and post-monsoon.",
+    "timings": "Daylight visits recommended.",
+    "dressCode": "Modest, trek-friendly attire.",
+    "entryNotes": "Morni Hills routes can vary by weather; local confirmation recommended.",
+    "rituals": [
+      "Local puja",
+      "Seasonal offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These nodes survive mostly through local oral continuity and low-footprint worship patterns.",
+      "architecture": "Small shrine markers and natural rock-linked worship points.",
+      "darshan": "Primarily local and seasonal devotional movement.",
+      "seasonal": "Access may be impacted in heavy monsoon windows.",
+      "visitorNotes": "Prefer guided/locally informed routing.",
+      "festivals": "Higher activity on Shivratri and Shravan dates.",
+      "sources": [
+        {
+          "label": "Morni Hills (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Morni",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Panchkula District Portal",
+          "url": "https://panchkula.gov.in/tourist-places/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nada Sahib Sub-Grid",
+    "state": "Haryana",
+    "city": "Panchkula",
+    "region": "Panchkula district",
+    "tags": [
+      "Nada Sahib",
+      "Riverbank",
+      "Interfaith Sacred Zone"
+    ],
+    "story": "A riverbank sacred sub-grid around Nada Sahib where local Shaiva markers and stone-linga traditions persist alongside the area's broader pilgrimage significance.",
+    "highlight": "Steady river-synced baseline Shaiva node in the Panchkula plains belt.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:49:28+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local shrine timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Nada Sahib riverbank zone; combine with nearby Panchkula circuits.",
+    "rituals": [
+      "Jal offerings",
+      "Shiva puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local ritual continuity ties this area to long-running river-linked sacred practice patterns.",
+      "architecture": "Small shrine and riverbank worship structures.",
+      "darshan": "Regular local worship with periodic pilgrim surges.",
+      "seasonal": "River conditions vary seasonally.",
+      "visitorNotes": "Use local guidance for exact shrine points.",
+      "festivals": "Main peaks align with the annual Shaiva calendar.",
+      "sources": [
+        {
+          "label": "Nada Sahib Gurudwara (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Nada_Sahib",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Panchkula District Portal",
+          "url": "https://panchkula.gov.in/tourist-places/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Asthal Bohar Math",
+    "state": "Haryana",
+    "city": "Asthal Bohar (Rohtak)",
+    "region": "Rohtak district",
+    "tags": [
+      "Nath Sampradaya",
+      "Baba Mastnath",
+      "Math"
+    ],
+    "story": "A major Nath-sect monastic complex in the Rohtak region, revived in later centuries and known for deep yogic-Shaiva continuity centered around the Asthal Bohar lineage.",
+    "highlight": "Primary Nath-linked Shaiva motherboard for the Rohtak sector.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Math tradition)",
+    "tradition": "Shaiva-Nath",
+    "addedAt": "2026-02-25T16:52:23+05:30",
+    "bestTime": "October to March and major Shaiva observance dates.",
+    "timings": "Open daily; timings vary by complex section.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Asthal Bohar area near Rohtak city.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Nath lineage observances"
+    ],
+    "moreDetails": {
+      "history": "Recognized as one of the key Nath institutions of north India with strong Shaiva-yogic heritage.",
+      "architecture": "Monastic complex layout with temple nodes and lineage-centric spaces.",
+      "darshan": "Regular devotees plus festival-period pilgrim spikes.",
+      "seasonal": "Most comfortable in cooler months.",
+      "visitorNotes": "Best visited with enough time for both temple and math precincts.",
+      "festivals": "Shivratri and lineage events attract larger gatherings.",
+      "sources": [
+        {
+          "label": "Asthal Bohar (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Asthal_Bohar",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Rohtak District Portal",
+          "url": "https://rohtak.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiv Mandir, Kiloi",
+    "state": "Haryana",
+    "city": "Kiloi",
+    "region": "Rohtak district",
+    "tags": [
+      "Kiloi",
+      "High Footfall",
+      "Mahashivratri"
+    ],
+    "story": "A prominent regional Shiva temple in Kiloi with very strong festival attendance and deep local devotional continuity in the Rohtak district grid.",
+    "highlight": "Major people's-grid Shiva anchor for the Kiloi-Rohtak belt.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:52:23+05:30",
+    "bestTime": "Mahashivratri, Shravan, and October-March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Kiloi area, Rohtak district.",
+    "rituals": [
+      "Jalabhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Maintained through long-running community worship and seasonal mela-like gatherings.",
+      "architecture": "Regional temple form with active ritual throughput.",
+      "darshan": "Very high turnout during festival windows.",
+      "seasonal": "Shravan and Shivratri are peak periods.",
+      "visitorNotes": "Arrive early on major Mondays and Shivratri.",
+      "festivals": "Shivratri remains the principal high-density event.",
+      "sources": [
+        {
+          "label": "Rohtak District Portal",
+          "url": "https://rohtak.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tilyar Lake Shiva Shrines",
+    "state": "Haryana",
+    "city": "Rohtak",
+    "region": "Rohtak district",
+    "tags": [
+      "Tilyar Lake",
+      "Water Node",
+      "Urban Edge"
+    ],
+    "story": "A composite entry for Shiva markers around the Tilyar lake precinct, representing water-cooled devotional points that stabilize the urban-recreational landscape.",
+    "highlight": "Hydro-cooled Shaiva baseline around the Tilyar water body.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:52:23+05:30",
+    "bestTime": "October to March and early mornings year-round.",
+    "timings": "Daylight visits recommended.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Tilyar Lake area, Rohtak city outskirts.",
+    "rituals": [
+      "Local puja",
+      "Jal offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrine points are preserved in local devotional flow around the historic waterbody zone.",
+      "architecture": "Small shrine profiles integrated into a lakefront setting.",
+      "darshan": "Moderate local movement; higher during festival days.",
+      "seasonal": "Post-monsoon and winter are most comfortable.",
+      "visitorNotes": "Pair with other central Rohtak shrine visits.",
+      "festivals": "Main peaks align with annual Shaiva dates.",
+      "sources": [
+        {
+          "label": "Tilyar Lake (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Tilyar_Lake",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Rohtak District Portal",
+          "url": "https://rohtak.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Durga Bhawan Shiva Node",
+    "state": "Haryana",
+    "city": "Rohtak",
+    "region": "Rohtak district",
+    "tags": [
+      "Durga Bhawan",
+      "Shaiva-Shakta",
+      "Urban Anchor"
+    ],
+    "story": "A high-traffic inner-city devotional node where Shiva worship functions as a daily stabilizing anchor within a larger urban temple ecosystem.",
+    "highlight": "Central urban Shaiva anchor for Rohtak's residential and commercial grid.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva-Shakta",
+    "addedAt": "2026-02-25T16:52:23+05:30",
+    "bestTime": "Year-round; mornings/evenings preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Rohtak city center devotional zone.",
+    "rituals": [
+      "Abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Navratri-linked visits"
+    ],
+    "moreDetails": {
+      "history": "Sustained through continuous city-level devotional activity.",
+      "architecture": "Urban temple-complex format with mixed worship streams.",
+      "darshan": "Steady daily darshan with periodic high crowd density.",
+      "seasonal": "Festival windows produce peak throughput.",
+      "visitorNotes": "Visit outside rush hours for smoother darshan.",
+      "festivals": "Shivratri is the main Shaiva peak date.",
+      "sources": [
+        {
+          "label": "Rohtak District Portal",
+          "url": "https://rohtak.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gaukaran Tank Shiva Shrines",
+    "state": "Haryana",
+    "city": "Rohtak",
+    "region": "Rohtak district",
+    "tags": [
+      "Gaukaran Tank",
+      "Water Tradition",
+      "Purification Rites"
+    ],
+    "story": "An old tank-side sacred pocket in Rohtak where small Shiva shrines preserve ritual purification traditions linked to water-based devotional practice.",
+    "highlight": "Historic cleansing-frequency Shaiva nodes in a tank-centered ritual environment.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:52:23+05:30",
+    "bestTime": "October to March; ritual dates vary locally.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "In older Rohtak tank-temple zone; confirm exact local access.",
+    "rituals": [
+      "Snan-linked worship",
+      "Jalabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Represents continuity of local water-shrine purification practices in the district.",
+      "architecture": "Small shrine clusters around a historic tank setting.",
+      "darshan": "Community-level worship with periodic festival clustering.",
+      "seasonal": "Most accessible in non-monsoon windows.",
+      "visitorNotes": "Best covered with local route support.",
+      "festivals": "Shivratri and Shravan remain the key observances.",
+      "sources": [
+        {
+          "label": "Rohtak District Portal",
+          "url": "https://rohtak.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Madhogarh Fort Shiva Shrines",
+    "state": "Haryana",
+    "city": "Madhogarh",
+    "region": "Mahendragarh district",
+    "tags": [
+      "Madhogarh Fort",
+      "Hilltop Shrines",
+      "Sentinel Nodes"
+    ],
+    "story": "Shiva shrines associated with the Madhogarh fort ridge represent high-altitude sentinel nodes in the Mahendragarh frontier landscape, linked with older defensive-sacred hill usage.",
+    "highlight": "Strategic high-altitude Shaiva transmitter overseeing the Rajasthan-border transition zone.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:52:23+05:30",
+    "bestTime": "October to March and clear-weather days.",
+    "timings": "Daylight visits recommended; local access varies.",
+    "dressCode": "Modest, outdoor-friendly attire.",
+    "entryNotes": "Fort-hill approach can be route-sensitive; confirm locally before travel.",
+    "rituals": [
+      "Local puja",
+      "Seasonal offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local tradition preserves these shrines as part of older fort-linked sacred usage in the Mahendragarh belt.",
+      "architecture": "Small fort-edge shrine forms and rock-linked worship points.",
+      "darshan": "Moderate local devotional movement with festival spikes.",
+      "seasonal": "Avoid heavy monsoon windows for easier access.",
+      "visitorNotes": "Best covered with regional route guidance.",
+      "festivals": "Highest turnout during Shivratri windows.",
+      "sources": [
+        {
+          "label": "Mahendragarh District Portal",
+          "url": "https://mahendragarh.gov.in/religious-places/",
           "type": "Government"
         }
       ]

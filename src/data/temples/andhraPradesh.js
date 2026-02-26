@@ -3829,55 +3829,6 @@ export const andhraPradeshTemples = [
     }
   },
   {
-    "name": "Sri Mallikarjuna Swamy Jyotirlinga (The absolute macro-center)",
-    "state": "Andhra Pradesh",
-    "city": "Srisailam",
-    "region": "Nallamala Hills, Srisailam, Nandyal district",
-    "tags": [
-      "Jyotirlinga",
-      "Srisailam",
-      "Nallamala"
-    ],
-    "story": "Sri Mallikarjuna Swamy Jyotirlinga is the central Shaiva node of Srisailam, one of the twelve jyotirlinga shrines.",
-    "highlight": "The principal Mallikarjuna sanctum with hilltop temple architecture and deep pilgrimage continuity.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Srisailam-temple-entrance.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Srisailam-temple-entrance.jpg",
-    "deity": "Shiva (Mallikarjuna)",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-23T12:53:30+05:30",
-    "bestTime": "October to February and Mahashivratri period.",
-    "timings": "Open daily; timings vary by darshan and seva slots.",
-    "dressCode": "Traditional/modest attire recommended.",
-    "entryNotes": "Queue timing can vary heavily on festival and weekend days.",
-    "rituals": [
-      "Abhishekam",
-      "Darshan",
-      "Mahamangal harathi"
-    ],
-    "festivals": [
-      "Mahashivratri",
-      "Karthika Masam"
-    ],
-    "moreDetails": {
-      "history": "Srisailam's Mallikarjuna shrine is revered as a jyotirlinga and has long-standing inscriptional and literary references.",
-      "architecture": "Large Dravidian complex in the Nallamala hill zone with multiple sub-shrines and gateways.",
-      "visitorNotes": "Combine temple visit with nearby view points and river-access pilgrimage routes.",
-      "sources": [
-        {
-          "label": "Mallikarjuna Jyotirlinga",
-          "url": "https://en.wikipedia.org/wiki/Mallikarjuna_Jyotirlinga",
-          "type": "Encyclopedia"
-        },
-        {
-          "label": "Srisaila Devasthanam",
-          "url": "https://www.srisailadevasthanam.org/",
-          "type": "Temple administration"
-        }
-      ]
-    }
-  },
-  {
     "name": "Sikhareswara Swamy Temple (Anchored on the highest peak of the Nallamala hills; visually confirming the main temple from this node is a core structural requirement)",
     "state": "Andhra Pradesh",
     "city": "Srisailam",

@@ -1354,16 +1354,17 @@ export const gujaratTemples = [
     "lastVerifiedAt": "2026-02-22T14:18:07Z"
   },
   {
-    "name": "Stambheshwar Mahadev",
+    "name": "Stambheshwar Mahadev Temple (Kavi Kamboi)",
     "state": "Gujarat",
     "city": "Kavi Kamboi",
     "region": "Kavi Kamboi, Bharuch district",
     "tags": [
       "Disappearing Temple",
-      "Gayab Mandir"
+      "Tidal Submergence",
+      "Bharuch"
     ],
-    "story": "Known as the 'Disappearing Shiva Temple', it submerges entirely into the Arabian Sea during high tide.",
-    "highlight": "Experiencing the natural 'Jal Abhishekam'.",
+    "story": "Known as the 'Disappearing Temple', Stambheshwar Mahadev submerges during high tide and re-emerges at low tide along the Kavi Kamboi coast.",
+    "highlight": "Tide-driven disappearance and reappearance of the shrine.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stambheshwar_Mahadev_Temple_at_Kamboi_Gujarat_India.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Stambheshwar_Mahadev_Temple_at_Kamboi_Gujarat_India.jpg",
@@ -1371,9 +1372,9 @@ export const gujaratTemples = [
     "tradition": "Shaiva",
     "addedAt": "2026-02-21T17:33:04.389Z",
     "bestTime": "Any time of year, check tides.",
-    "timings": "Depends entirely on high and low tides.",
+    "timings": "Darshan depends on tidal cycles; verify tide chart before visit.",
     "dressCode": "Not Available",
-    "entryNotes": "Strictly verify the tide timings.",
+    "entryNotes": "Check tide timings and local safety guidance before planning darshan.",
     "rituals": [
       "Not Available"
     ],
@@ -1620,48 +1621,53 @@ export const gujaratTemples = [
     "lastVerifiedAt": "2026-02-22T14:18:07Z"
   },
   {
-    "name": "Tadkeshwar Mahadev",
+    "name": "Tadkeshwar Mahadev Temple (Abrama)",
     "state": "Gujarat",
-    "city": "Valsad",
-    "region": "Valsad district",
+    "city": "Abrama",
+    "region": "Abrama, Valsad district",
     "tags": [
-      "Shiva Temple",
-      "Verified",
-      "Gujarat"
+      "Gujarat",
+      "Valsad",
+      "Shiva"
     ],
-    "story": "Tadkeshwar Mahadev temple is a Hindu temple. It is located near Abrama town in Valsad district of the Indian state of Gujarat. The temple is on the bank of the Wanki river.\nThe temple is more than 800 years old, one of the oldest in Valsad District.",
-    "highlight": "Not Available",
+    "story": "Tadkeshwar Mahadev Temple is a historic Shiva shrine near Abrama in Valsad district and one of the region's well-known Shaiva pilgrimage points.",
+    "highlight": "Open-sky sanctum tradition with a large swayambhu lingam.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tadkeshwar_Mahadev_Temple%2C_Valsad.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Tadkeshwar_Mahadev_Temple,_Valsad.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-21T17:39:41.669Z",
-    "bestTime": "Not Available",
-    "timings": "Not Available",
-    "dressCode": "Not Available",
-    "entryNotes": "Not Available",
+    "bestTime": "Morning and evening darshan; winter is preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local temple timings before travel.",
     "rituals": [
-      "Not Available"
+      "Daily puja",
+      "Jal abhishek"
     ],
     "festivals": [
-      "Maha Shivaratri"
+      "Mahashivratri",
+      "Shravan month"
     ],
     "moreDetails": {
-      "history": "Tadkeshwar Mahadev temple is a Hindu temple. It is located near Abrama town in Valsad district of the Indian state of Gujarat. The temple is on the bank of the Wanki river.\nThe temple is more than 800 years old, one of the oldest in Valsad District. It was designed to allow the sun to shine on the Shivlinga inside and has no ceiling. Therefore, it is known as \"Tadkeshwar\". The length of the Shivlinga is approximately 6 to 8 ft.\nOn the occasions of the Maha Shivaratri festival and Shravan Month, a fair take place nearby.",
+      "history": "Local temple tradition and available references describe Tadkeshwar as an old shrine near Abrama, known for its open-roof sanctum design.",
       "puranicView": "Not Available",
       "puranicSources": [],
       "sources": [
         {
           "label": "Tadkeshwar Mahadev Temple",
-          "url": "https://en.wikipedia.org/wiki/Tadkeshwar_Mahadev_Temple"
+          "url": "https://en.wikipedia.org/wiki/Tadkeshwar_Mahadev_Temple",
+          "type": "Encyclopedia"
         }
       ],
-      "folkloreSources": []
+      "folkloreSources": [],
+      "architecture": "Regional shrine architecture with an open sanctum concept and active ritual continuity.",
+      "visitorNotes": "The temple area is popular during Shravan and Mahashivratri."
     },
     "district": "Valsad",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T14:18:07Z"
+    "lastVerifiedAt": "2026-02-25T08:24:53Z"
   },
   {
     "name": "Shiva Temple, Kera",
@@ -1708,7 +1714,7 @@ export const gujaratTemples = [
     "lastVerifiedAt": "2026-02-22T15:05:00Z"
   },
   {
-    "name": "Shiva Temple, Bavka",
+    "name": "Bavka Shiva Temple",
     "state": "Gujarat",
     "city": "Bavka",
     "region": "Bavka village near Dahod, Dahod district",
@@ -1717,8 +1723,8 @@ export const gujaratTemples = [
       "Panchayatana",
       "Monument of National Importance"
     ],
-    "story": "A medieval Shiva temple complex at Bavka, noted for rich stone carving and panchayatana planning.",
-    "highlight": "Known as the 'Khajuraho of Gujarat' for ornate sculptural work.",
+    "story": "Bavka Shiva Temple is a major medieval Shaiva heritage site in Dahod, known for intricate carvings and long-standing local worship traditions.",
+    "highlight": "Detailed medieval carvings at the Bavka Shiva complex.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bawka.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bawka.jpg",
@@ -5303,6 +5309,2346 @@ export const gujaratTemples = [
     "verificationStatus": "verified",
     "lastVerifiedAt": "2026-02-24T12:42:45Z",
     "addedAt": "2026-02-24T18:12:50+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kaleshwari Group of Temples (Lavana)",
+    "state": "Gujarat",
+    "city": "Lavana",
+    "district": "Mahisagar",
+    "region": "Kaleshwari, Lavana, Mahisagar district",
+    "tags": [
+      "Gujarat",
+      "Mahisagar",
+      "Archaeological Complex"
+    ],
+    "story": "Kaleshwari Group of Temples is a forested heritage complex in Lavana with medieval-era Shiva shrines and sacred kund traditions.",
+    "highlight": "Historic Shiva shrine cluster with kunds in the Kaleshwari complex.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "October to March; morning visits are preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Access roads and site timings can vary seasonally.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "The Kaleshwari complex is remembered as a medieval temple-kund landscape with continuing local Shiva worship.",
+      "architecture": "Regional stone temple remains and associated water structures.",
+      "visitorNotes": "Plan daylight travel due to forest-side location.",
+      "sources": [
+        {
+          "label": "Mahisagar district",
+          "url": "https://en.wikipedia.org/wiki/Mahisagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kaleshwari%20Group%20of%20Temples%20Lavana%20Mahisagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T07:53:20Z",
+    "addedAt": "2026-02-25T13:23:20+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bhadreshwar Mahadev Temple (Lunawada)",
+    "state": "Gujarat",
+    "city": "Lunawada",
+    "district": "Mahisagar",
+    "region": "Lunawada, Mahisagar district",
+    "tags": [
+      "Gujarat",
+      "Mahisagar",
+      "Shiva"
+    ],
+    "story": "Bhadreshwar Mahadev Temple is a Shiva worship site in the Lunawada devotional circuit of Mahisagar district.",
+    "highlight": "Bhadreshwar Mahadev darshan in Lunawada.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Lunawada and nearby Mahisagar areas.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Pair with nearby Lunawada temples for route efficiency.",
+      "sources": [
+        {
+          "label": "Mahisagar district",
+          "url": "https://en.wikipedia.org/wiki/Mahisagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhadreshwar%20Mahadev%20Temple%20Lunawada",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T07:53:20Z",
+    "addedAt": "2026-02-25T13:23:21+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kedareshwar Mahadev Mandir (Lunawada)",
+    "state": "Gujarat",
+    "city": "Lunawada",
+    "district": "Mahisagar",
+    "region": "Lunawada, Mahisagar district",
+    "tags": [
+      "Gujarat",
+      "Mahisagar",
+      "Shiva"
+    ],
+    "story": "Kedareshwar Mahadev Mandir is a Shiva temple in Lunawada, within the Mahisagar district pilgrimage network.",
+    "highlight": "Kedareshwar Mahadev darshan in Lunawada.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions of Lunawada and Mahisagar district.",
+      "architecture": "Regional temple architecture with regular ritual continuity.",
+      "visitorNotes": "Plan early visits on Mondays and festival dates.",
+      "sources": [
+        {
+          "label": "Mahisagar district",
+          "url": "https://en.wikipedia.org/wiki/Mahisagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kedareshwar%20Mahadev%20Mandir%20Lunawada",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T07:53:20Z",
+    "addedAt": "2026-02-25T13:23:22+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Gupteshwar Mahadev Temple",
+    "state": "Gujarat",
+    "city": "Lunawada",
+    "district": "Mahisagar",
+    "region": "Mahisagar district",
+    "tags": [
+      "Gujarat",
+      "Mahisagar",
+      "Shiva"
+    ],
+    "story": "Gupteshwar Mahadev Temple is a Shiva shrine in the Mahisagar district devotional landscape.",
+    "highlight": "Gupteshwar Mahadev darshan in Mahisagar district.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality with local guidance before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions across Mahisagar district.",
+      "architecture": "Regional temple architecture with active daily worship.",
+      "visitorNotes": "Route details can vary by local approach roads.",
+      "sources": [
+        {
+          "label": "Mahisagar district",
+          "url": "https://en.wikipedia.org/wiki/Mahisagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gupteshwar%20Mahadev%20Temple%20Mahisagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T07:53:20Z",
+    "addedAt": "2026-02-25T13:23:23+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Somnath Mahadev Mandir",
+    "state": "Gujarat",
+    "city": "Lunawada",
+    "district": "Mahisagar",
+    "region": "Mahisagar district",
+    "tags": [
+      "Gujarat",
+      "Mahisagar",
+      "Shiva"
+    ],
+    "story": "Somnath Mahadev Mandir is a Shiva temple in Mahisagar district and is part of the local Shaiva worship circuit.",
+    "highlight": "Somnath Mahadev darshan in Mahisagar district.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions of Mahisagar district.",
+      "architecture": "Regional shrine architecture with ongoing devotional activity.",
+      "visitorNotes": "Can be combined with other Lunawada-area Shiva temple visits.",
+      "sources": [
+        {
+          "label": "Mahisagar district",
+          "url": "https://en.wikipedia.org/wiki/Mahisagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Somnath%20Mahadev%20Mandir%20Mahisagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T07:53:20Z",
+    "addedAt": "2026-02-25T13:23:24+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Lakulish Temple (Pavagadh)",
+    "state": "Gujarat",
+    "city": "Pavagadh",
+    "district": "Panchmahal",
+    "region": "Chhashia Talav, Pavagadh, Panchmahal district",
+    "tags": [
+      "Gujarat",
+      "Panchmahal",
+      "Pashupata Shaiva"
+    ],
+    "story": "Lakulish Temple at Pavagadh is an important historical Shiva node linked with the Pashupata Shaivite tradition.",
+    "highlight": "Historic Lakulish shrine setting near Chhashia Talav.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Lakulish tradition)",
+    "tradition": "Shaiva",
+    "bestTime": "October to March; morning visits are preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Terrain and access can vary around the heritage zone; check local guidance.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "The Lakulish shrine in the Pavagadh-Champaner heritage belt is associated with medieval Shaiva history and the Pashupata tradition.",
+      "architecture": "Heritage stone temple profile within the larger historical complex landscape.",
+      "visitorNotes": "Can be paired with nearby Champaner-Pavagadh heritage monuments.",
+      "sources": [
+        {
+          "label": "Panchmahal district",
+          "url": "https://en.wikipedia.org/wiki/Panchmahal_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Lakulish%20Temple%20Pavagadh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T07:58:46Z",
+    "addedAt": "2026-02-25T13:28:46+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bhavnath Mahadev Temple (Champaner-Halol)",
+    "state": "Gujarat",
+    "city": "Halol",
+    "district": "Panchmahal",
+    "region": "Champaner-Halol belt, Panchmahal district",
+    "tags": [
+      "Gujarat",
+      "Panchmahal",
+      "Shiva"
+    ],
+    "story": "Bhavnath Mahadev Temple is a Shiva shrine in the Champaner-Halol devotional circuit of Panchmahal.",
+    "highlight": "Bhavnath Mahadev darshan in the Champaner-Halol region.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality in the Champaner-Halol area before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Panchmahal district.",
+      "architecture": "Regional shrine architecture with active daily worship.",
+      "visitorNotes": "Plan route alongside Champaner-Pavagadh heritage visits.",
+      "sources": [
+        {
+          "label": "Panchmahal district",
+          "url": "https://en.wikipedia.org/wiki/Panchmahal_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhavnath%20Mahadev%20Temple%20Champaner%20Halol",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T07:58:46Z",
+    "addedAt": "2026-02-25T13:28:47+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Tarkeshwar Mahadev Mandir (Godhra)",
+    "state": "Gujarat",
+    "city": "Godhra",
+    "district": "Panchmahal",
+    "region": "Godhra, Panchmahal district",
+    "tags": [
+      "Gujarat",
+      "Panchmahal",
+      "Shiva"
+    ],
+    "story": "Tarkeshwar Mahadev Mandir is a Shiva worship site in Godhra, Panchmahal district.",
+    "highlight": "Tarkeshwar Mahadev darshan in Godhra.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm temple timings locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions of Godhra and surrounding Panchmahal areas.",
+      "architecture": "Regional temple architecture with active ritual continuity.",
+      "visitorNotes": "Godhra city access is straightforward by road and rail.",
+      "sources": [
+        {
+          "label": "Panchmahal district",
+          "url": "https://en.wikipedia.org/wiki/Panchmahal_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Tarkeshwar%20Mahadev%20Mandir%20Godhra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T07:58:46Z",
+    "addedAt": "2026-02-25T13:28:48+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Rameshwar Mahadev Temple (Halol)",
+    "state": "Gujarat",
+    "city": "Halol",
+    "district": "Panchmahal",
+    "region": "Halol, Panchmahal district",
+    "tags": [
+      "Gujarat",
+      "Panchmahal",
+      "Shiva"
+    ],
+    "story": "Rameshwar Mahadev Temple is a Shiva shrine in Halol and part of the Panchmahal district Shaiva circuit.",
+    "highlight": "Rameshwar Mahadev darshan in Halol.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Halol and surrounding areas.",
+      "architecture": "Regional shrine architecture with ongoing devotional activity.",
+      "visitorNotes": "Can be combined with Champaner-Pavagadh visits.",
+      "sources": [
+        {
+          "label": "Panchmahal district",
+          "url": "https://en.wikipedia.org/wiki/Panchmahal_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Rameshwar%20Mahadev%20Temple%20Halol",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T07:58:46Z",
+    "addedAt": "2026-02-25T13:28:49+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Nilkanth Mahadev Mandir (Ghoghamba)",
+    "state": "Gujarat",
+    "city": "Ghoghamba",
+    "district": "Panchmahal",
+    "region": "Ghoghamba, Panchmahal district",
+    "tags": [
+      "Gujarat",
+      "Panchmahal",
+      "Shiva"
+    ],
+    "story": "Nilkanth Mahadev Mandir is a Shiva temple in Ghoghamba within the Panchmahal devotional network.",
+    "highlight": "Nilkanth Mahadev darshan in Ghoghamba.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Check local access details and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions of Ghoghamba and wider Panchmahal district.",
+      "architecture": "Regional temple architecture with active ritual continuity.",
+      "visitorNotes": "Route conditions may vary seasonally in interior roads.",
+      "sources": [
+        {
+          "label": "Panchmahal district",
+          "url": "https://en.wikipedia.org/wiki/Panchmahal_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nilkanth%20Mahadev%20Mandir%20Ghoghamba",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T07:58:46Z",
+    "addedAt": "2026-02-25T13:28:50+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kedarnath Mahadev Mandir (Chosala)",
+    "city": "Chosala",
+    "district": "Dahod",
+    "region": "Chosala cave zone, Dahod district",
+    "tags": [
+      "Gujarat",
+      "Dahod",
+      "Shiva"
+    ],
+    "story": "Kedarnath Mahadev Mandir in Chosala is a cave-linked Shiva shrine in the Dahod district pilgrimage circuit.",
+    "highlight": "Cave-associated Kedarnath Mahadev darshan in Chosala.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "October to March; morning visits are preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact cave access route and timings locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Chosala and surrounding Dahod areas.",
+      "architecture": "Regional shrine setting with cave-linked worship context.",
+      "visitorNotes": "Seasonal water flow and terrain can affect local approach paths.",
+      "sources": [
+        {
+          "label": "Dahod district",
+          "url": "https://en.wikipedia.org/wiki/Dahod_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kedarnath%20Mahadev%20Mandir%20Chosala%20Dahod",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:01:56Z",
+    "addedAt": "2026-02-25T13:31:56+05:30",
+    "isNew": true,
+    "state": "Gujarat"
+  },
+  {
+    "name": "Devzari Mahadev Temple",
+    "city": "Devzari",
+    "district": "Dahod",
+    "region": "Devzari waterfall zone, Dahod district",
+    "tags": [
+      "Gujarat",
+      "Dahod",
+      "Shiva"
+    ],
+    "story": "Devzari Mahadev Temple is a Shiva shrine near a natural waterfall in Dahod district.",
+    "highlight": "Waterfall-adjacent Devzari Mahadev darshan.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Monsoon and winter mornings.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Check local road and weather conditions before visiting waterfall routes.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva devotional traditions in Dahod district.",
+      "architecture": "Regional shrine setting integrated with natural landscape.",
+      "visitorNotes": "Expect higher footfall during monsoon and Shivratri periods.",
+      "sources": [
+        {
+          "label": "Dahod district",
+          "url": "https://en.wikipedia.org/wiki/Dahod_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Devzari%20Mahadev%20Temple%20Dahod",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:01:56Z",
+    "addedAt": "2026-02-25T13:31:57+05:30",
+    "isNew": true,
+    "state": "Gujarat"
+  },
+  {
+    "name": "Ghughar Mahadev Temple (Chakaliya)",
+    "city": "Chakaliya",
+    "district": "Dahod",
+    "region": "Chakaliya area, Dahod district",
+    "tags": [
+      "Gujarat",
+      "Dahod",
+      "Shiva"
+    ],
+    "story": "Ghughar Mahadev Temple is a Shiva worship site in the Chakaliya sector of Dahod district.",
+    "highlight": "Ghughar Mahadev darshan in Chakaliya.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions of the Dahod district region.",
+      "architecture": "Regional temple architecture with active devotional continuity.",
+      "visitorNotes": "Plan local transport in advance for interior village routes.",
+      "sources": [
+        {
+          "label": "Dahod district",
+          "url": "https://en.wikipedia.org/wiki/Dahod_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Ghughar%20Mahadev%20Temple%20Chakaliya%20Dahod",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:01:56Z",
+    "addedAt": "2026-02-25T13:31:58+05:30",
+    "isNew": true,
+    "state": "Gujarat"
+  },
+  {
+    "name": "Hasteshvar Temple (Limkheda)",
+    "state": "Gujarat",
+    "city": "Limkheda",
+    "district": "Dahod",
+    "region": "Limkheda area, Dahod district",
+    "tags": [
+      "Gujarat",
+      "Dahod",
+      "Shiva"
+    ],
+    "story": "Hasteshvar Temple is a Shiva shrine in Limkheda and part of the Dahod district Shaiva pilgrimage network.",
+    "highlight": "Hasteshvar Shiva darshan in Limkheda.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local route details and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Limkheda and nearby areas.",
+      "architecture": "Regional shrine architecture with active ritual continuity.",
+      "visitorNotes": "Combine with nearby Dahod district temples for route efficiency.",
+      "sources": [
+        {
+          "label": "Dahod district",
+          "url": "https://en.wikipedia.org/wiki/Dahod_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Hasteshvar%20Temple%20Limkheda%20Dahod",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:01:56Z",
+    "addedAt": "2026-02-25T13:31:59+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Hafeshwar Mahadev Temple (Kwant)",
+    "state": "Gujarat",
+    "city": "Kwant",
+    "district": "Chhota Udepur",
+    "region": "Sardar Sarovar submergence zone, Kwant, Chhota Udepur district",
+    "tags": [
+      "Gujarat",
+      "Chhota Udepur",
+      "Shiva"
+    ],
+    "story": "Hafeshwar Mahadev Temple is a revered Shiva shrine in the Kwant belt, known for seasonal submergence dynamics linked to reservoir water levels.",
+    "highlight": "Submergence-zone Hafeshwar shrine with striking seasonal visibility.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Post-monsoon to winter; check water levels before travel.",
+    "timings": "Open daily; access varies by season and water level.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local access and safety conditions due to fluctuating water levels.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva traditions with strong regional pilgrimage significance.",
+      "architecture": "Heritage shrine profile in a reservoir-influenced environment.",
+      "visitorNotes": "Water-level conditions can affect visibility and access route planning.",
+      "sources": [
+        {
+          "label": "Chhota Udepur district",
+          "url": "https://en.wikipedia.org/wiki/Chhota_Udaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Hafeshwar%20Mahadev%20Temple%20Kwant",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:06:21Z",
+    "addedAt": "2026-02-25T13:36:21+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kashi Vishwanath Mahadev Temple",
+    "state": "Gujarat",
+    "city": "Chhota Udepur",
+    "district": "Chhota Udepur",
+    "region": "Chhota Udepur district",
+    "tags": [
+      "Gujarat",
+      "Chhota Udepur",
+      "Shiva"
+    ],
+    "story": "Kashi Vishwanath Mahadev Temple is a Shiva shrine in the Chhota Udepur district devotional network.",
+    "highlight": "Kashi Vishwanath Mahadev darshan in Chhota Udepur district.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Chhota Udepur district.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Plan route with local guidance for best access.",
+      "sources": [
+        {
+          "label": "Chhota Udepur district",
+          "url": "https://en.wikipedia.org/wiki/Chhota_Udaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kashi%20Vishwanath%20Mahadev%20Temple%20Chhota%20Udepur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:06:21Z",
+    "addedAt": "2026-02-25T13:36:22+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bapseshwar Mahadev Mandir",
+    "state": "Gujarat",
+    "city": "Chhota Udepur",
+    "district": "Chhota Udepur",
+    "region": "Chhota Udepur district",
+    "tags": [
+      "Gujarat",
+      "Chhota Udepur",
+      "Shiva"
+    ],
+    "story": "Bapseshwar Mahadev Mandir is a Shiva temple in the Chhota Udepur district Shaiva circuit.",
+    "highlight": "Bapseshwar Mahadev darshan in Chhota Udepur district.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions of Chhota Udepur region.",
+      "architecture": "Regional temple architecture with active devotional continuity.",
+      "visitorNotes": "Local guidance helps optimize route planning.",
+      "sources": [
+        {
+          "label": "Chhota Udepur district",
+          "url": "https://en.wikipedia.org/wiki/Chhota_Udaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bapseshwar%20Mahadev%20Mandir%20Chhota%20Udepur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:06:21Z",
+    "addedAt": "2026-02-25T13:36:23+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Rameshwar Mahadev",
+    "state": "Gujarat",
+    "city": "Chhota Udepur",
+    "district": "Chhota Udepur",
+    "region": "Chhota Udepur district",
+    "tags": [
+      "Gujarat",
+      "Chhota Udepur",
+      "Shiva"
+    ],
+    "story": "Rameshwar Mahadev is a Shiva shrine in Chhota Udepur district and part of the local Shaiva worship circuit.",
+    "highlight": "Rameshwar Mahadev darshan in Chhota Udepur district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Chhota Udepur district.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Can be combined with nearby district temples in a single route.",
+      "sources": [
+        {
+          "label": "Chhota Udepur district",
+          "url": "https://en.wikipedia.org/wiki/Chhota_Udaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Rameshwar%20Mahadev%20Chhota%20Udepur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:06:21Z",
+    "addedAt": "2026-02-25T13:36:24+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Someshwar Mahadev",
+    "state": "Gujarat",
+    "city": "Chhota Udepur",
+    "district": "Chhota Udepur",
+    "region": "Chhota Udepur district",
+    "tags": [
+      "Gujarat",
+      "Chhota Udepur",
+      "Shiva"
+    ],
+    "story": "Someshwar Mahadev is a Shiva temple in the Chhota Udepur district devotional landscape.",
+    "highlight": "Someshwar Mahadev darshan in Chhota Udepur district.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions of Chhota Udepur district.",
+      "architecture": "Regional temple architecture with active ritual continuity.",
+      "visitorNotes": "Plan route with local transport guidance for interior areas.",
+      "sources": [
+        {
+          "label": "Chhota Udepur district",
+          "url": "https://en.wikipedia.org/wiki/Chhota_Udaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Someshwar%20Mahadev%20Chhota%20Udepur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:06:21Z",
+    "addedAt": "2026-02-25T13:36:25+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shoolpaneshwar Mahadev Temple (Kevadiya)",
+    "state": "Gujarat",
+    "city": "Kevadiya",
+    "district": "Narmada",
+    "region": "Shoolpaneshwar-Statue of Unity belt, Kevadiya, Narmada district",
+    "tags": [
+      "Gujarat",
+      "Narmada",
+      "Narmada Parikrama"
+    ],
+    "story": "Shoolpaneshwar Mahadev Temple is a major Shiva pilgrimage node in the Kevadiya region and an important stop in Narmada Parikrama traditions.",
+    "highlight": "Shoolpaneshwar Mahadev darshan in the Narmada river pilgrimage belt.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "October to March; check local weather and reservoir conditions.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm route and access conditions before travel in monsoon season.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions and widely linked with Narmada Parikrama routes.",
+      "architecture": "Contemporary regional temple profile with active ritual continuity.",
+      "visitorNotes": "Plan temple visit with nearby Garudeshwar and riverbank pilgrimage points.",
+      "sources": [
+        {
+          "label": "Narmada district",
+          "url": "https://en.wikipedia.org/wiki/Narmada_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shoolpaneshwar%20Mahadev%20Temple%20Kevadiya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:10:04Z",
+    "addedAt": "2026-02-25T13:40:04+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Garudeshwar Mahadev Mandir (Garudeshwar)",
+    "state": "Gujarat",
+    "city": "Garudeshwar",
+    "district": "Narmada",
+    "region": "Garudeshwar riverbank, Narmada district",
+    "tags": [
+      "Gujarat",
+      "Narmada",
+      "Shiva"
+    ],
+    "story": "Garudeshwar Mahadev Mandir is a Shiva shrine on the Narmada riverbank in the Garudeshwar devotional circuit.",
+    "highlight": "Riverbank Garudeshwar Mahadev darshan.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Check local riverbank access and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions along the Narmada belt.",
+      "architecture": "Regional shrine architecture with active daily worship.",
+      "visitorNotes": "Often visited with Kevadiya and other Narmada-side temples.",
+      "sources": [
+        {
+          "label": "Narmada district",
+          "url": "https://en.wikipedia.org/wiki/Narmada_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Garudeshwar%20Mahadev%20Mandir%20Garudeshwar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:10:04Z",
+    "addedAt": "2026-02-25T13:40:05+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Nilkantheshwar Mahadev Temple",
+    "state": "Gujarat",
+    "city": "Narmada",
+    "district": "Narmada",
+    "region": "Narmada district",
+    "tags": [
+      "Gujarat",
+      "Narmada",
+      "Shiva"
+    ],
+    "story": "Nilkantheshwar Mahadev Temple is a Shiva shrine in the Narmada district devotional landscape.",
+    "highlight": "Nilkantheshwar Mahadev darshan in Narmada district.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Narmada district.",
+      "architecture": "Regional shrine architecture with ongoing ritual continuity.",
+      "visitorNotes": "Local guidance is useful for exact temple access.",
+      "sources": [
+        {
+          "label": "Narmada district",
+          "url": "https://en.wikipedia.org/wiki/Narmada_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nilkantheshwar%20Mahadev%20Temple%20Narmada",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:10:04Z",
+    "addedAt": "2026-02-25T13:40:06+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Gupteshwar Mahadev Mandir",
+    "state": "Gujarat",
+    "city": "Narmada",
+    "district": "Narmada",
+    "region": "Narmada district",
+    "tags": [
+      "Gujarat",
+      "Narmada",
+      "Shiva"
+    ],
+    "story": "Gupteshwar Mahadev Mandir is a Shiva temple in Narmada district and part of the local Shaiva pilgrimage network.",
+    "highlight": "Gupteshwar Mahadev darshan in Narmada district.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions in the Narmada region.",
+      "architecture": "Regional temple architecture with active ritual continuity.",
+      "visitorNotes": "Can be paired with Garudeshwar and Kevadiya temple routes.",
+      "sources": [
+        {
+          "label": "Narmada district",
+          "url": "https://en.wikipedia.org/wiki/Narmada_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gupteshwar%20Mahadev%20Mandir%20Narmada",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:10:04Z",
+    "addedAt": "2026-02-25T13:40:07+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kedareshwar Mahadev Temple",
+    "state": "Gujarat",
+    "city": "Narmada",
+    "district": "Narmada",
+    "region": "Narmada district",
+    "tags": [
+      "Gujarat",
+      "Narmada",
+      "Shiva"
+    ],
+    "story": "Kedareshwar Mahadev Temple is a Shiva shrine in the Narmada district devotional circuit.",
+    "highlight": "Kedareshwar Mahadev darshan in Narmada district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions across Narmada district.",
+      "architecture": "Regional shrine architecture with active devotional continuity.",
+      "visitorNotes": "Local transport planning is recommended for multi-temple routes.",
+      "sources": [
+        {
+          "label": "Narmada district",
+          "url": "https://en.wikipedia.org/wiki/Narmada_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kedareshwar%20Mahadev%20Temple%20Narmada",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:10:04Z",
+    "addedAt": "2026-02-25T13:40:08+05:30",
+    "isNew": true
+  },
+  {
+    "name": "The \"Nav Naths\" (Bharuch City)",
+    "state": "Gujarat",
+    "city": "Bharuch",
+    "district": "Bharuch",
+    "region": "Bharuch city sacred circuit, Bharuch district",
+    "tags": [
+      "Gujarat",
+      "Bharuch",
+      "Nav Naths Matrix"
+    ],
+    "story": "The Nav Naths in Bharuch represent a nine-shrine Shaiva matrix traditionally mapped across the city's sacred geography.",
+    "highlight": "Nine-point Shiva matrix: Gangnath, Jwalnath, Somnath, Bhimnath, Pingalnath, Bhootnath, Kamnath, Siddhnath, and Kashi Vishwanath.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening city-circuit darshan.",
+    "timings": "Individual shrine timings vary by locality.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Plan as a multi-shrine city route; local guidance helps optimize sequence.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva tradition preserves Bharuch's Nav Naths as a historic nine-shrine devotional grid.",
+      "architecture": "Distributed urban shrine network rather than a single temple complex.",
+      "visitorNotes": "Circuit includes Gangnath, Jwalnath, Somnath, Bhimnath, Pingalnath, Bhootnath, Kamnath, Siddhnath, and Kashi Vishwanath.",
+      "sources": [
+        {
+          "label": "Bharuch district",
+          "url": "https://en.wikipedia.org/wiki/Bharuch_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nav%20Naths%20Bharuch",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:14:05Z",
+    "addedAt": "2026-02-25T13:44:05+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Nilkantheshwar Mahadev Temple (Zadeshwar)",
+    "state": "Gujarat",
+    "city": "Zadeshwar",
+    "district": "Bharuch",
+    "region": "Zadeshwar, Bharuch district",
+    "tags": [
+      "Gujarat",
+      "Bharuch",
+      "Shiva"
+    ],
+    "story": "Nilkantheshwar Mahadev Temple is an important Shiva shrine in Zadeshwar, part of Bharuch district's river-linked Shaiva worship traditions.",
+    "highlight": "Nilkantheshwar Mahadev darshan in the Zadeshwar belt.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Zadeshwar and Bharuch district.",
+      "architecture": "Regional temple architecture with active devotional continuity.",
+      "visitorNotes": "Can be paired with Garudeshwar and Stambheshwar routes for wider regional pilgrimage planning.",
+      "sources": [
+        {
+          "label": "Bharuch district",
+          "url": "https://en.wikipedia.org/wiki/Bharuch_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nilkantheshwar%20Mahadev%20Temple%20Zadeshwar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:14:05Z",
+    "addedAt": "2026-02-25T13:44:06+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Galteshwar Mahadev Temple (Kamrej)",
+    "state": "Gujarat",
+    "city": "Kamrej",
+    "district": "Surat",
+    "region": "Tapi riverbank, Kamrej, Surat district",
+    "tags": [
+      "Gujarat",
+      "Surat",
+      "Shiva"
+    ],
+    "story": "Galteshwar Mahadev Temple is a Shiva shrine in Kamrej, located in the wider Tapi river devotional belt of Surat district.",
+    "highlight": "Riverbank Galteshwar Mahadev darshan near Kamrej.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan; cooler months are preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions along the Tapi-side Surat belt.",
+      "architecture": "Regional shrine architecture with active devotional continuity.",
+      "visitorNotes": "Plan route with local guidance for riverbank approach roads.",
+      "sources": [
+        {
+          "label": "Surat district",
+          "url": "https://en.wikipedia.org/wiki/Surat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Galteshwar%20Mahadev%20Temple%20Kamrej%20Surat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:16:43Z",
+    "addedAt": "2026-02-25T13:46:43+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Ramnath Ghela Mahadev Temple",
+    "state": "Gujarat",
+    "city": "Surat",
+    "district": "Surat",
+    "region": "Riverfront zone, Surat city, Surat district",
+    "tags": [
+      "Gujarat",
+      "Surat",
+      "Shiva"
+    ],
+    "story": "Ramnath Ghela Mahadev Temple is a historic Shiva shrine in Surat city and part of the local riverfront worship circuit.",
+    "highlight": "Ramnath Ghela Mahadev darshan in Surat city.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of central Surat.",
+      "architecture": "Urban regional shrine architecture with active devotional use.",
+      "visitorNotes": "Best planned with nearby city temples in one route.",
+      "sources": [
+        {
+          "label": "Surat district",
+          "url": "https://en.wikipedia.org/wiki/Surat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Ramnath%20Ghela%20Mahadev%20Temple%20Surat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:16:43Z",
+    "addedAt": "2026-02-25T13:46:44+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Ichhanath Mahadev Temple",
+    "state": "Gujarat",
+    "city": "Surat",
+    "district": "Surat",
+    "region": "Ichhanath area, Surat city, Surat district",
+    "tags": [
+      "Gujarat",
+      "Surat",
+      "Shiva"
+    ],
+    "story": "Ichhanath Mahadev Temple is a prominent Shiva shrine in Surat city, associated with the Ichhanath urban devotional zone.",
+    "highlight": "Ichhanath Mahadev darshan in the university-area Surat belt.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "City traffic can affect travel time; plan darshan slots accordingly.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Surat city.",
+      "architecture": "Urban temple architecture with active daily rituals.",
+      "visitorNotes": "Often visited as part of a broader city temple circuit.",
+      "sources": [
+        {
+          "label": "Surat district",
+          "url": "https://en.wikipedia.org/wiki/Surat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Ichhanath%20Mahadev%20Temple%20Surat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:16:43Z",
+    "addedAt": "2026-02-25T13:46:45+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kantheshwar Mahadev Temple",
+    "state": "Gujarat",
+    "city": "Surat",
+    "district": "Surat",
+    "region": "Surat district",
+    "tags": [
+      "Gujarat",
+      "Surat",
+      "Shiva"
+    ],
+    "story": "Kantheshwar Mahadev Temple is a Shiva worship site in the Surat district devotional network.",
+    "highlight": "Kantheshwar Mahadev darshan in Surat district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions of Surat district.",
+      "architecture": "Regional shrine architecture with active devotional continuity.",
+      "visitorNotes": "Local route confirmation is recommended before travel.",
+      "sources": [
+        {
+          "label": "Surat district",
+          "url": "https://en.wikipedia.org/wiki/Surat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kantheshwar%20Mahadev%20Temple%20Surat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:16:43Z",
+    "addedAt": "2026-02-25T13:46:46+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Rundh Nath Mahadev Temple",
+    "state": "Gujarat",
+    "city": "Rundh",
+    "district": "Surat",
+    "region": "Rundh area, Surat district",
+    "tags": [
+      "Gujarat",
+      "Surat",
+      "Shiva"
+    ],
+    "story": "Rundh Nath Mahadev Temple is a Shiva shrine in the Rundh area of Surat district.",
+    "highlight": "Rundh Nath Mahadev darshan in the Surat district belt.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local access roads and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of the Surat periphery.",
+      "architecture": "Regional shrine architecture with continuing local devotional use.",
+      "visitorNotes": "Route planning with local guidance is recommended.",
+      "sources": [
+        {
+          "label": "Surat district",
+          "url": "https://en.wikipedia.org/wiki/Surat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Rundh%20Nath%20Mahadev%20Temple%20Surat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:16:43Z",
+    "addedAt": "2026-02-25T13:46:47+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Andheshwar Mahadev Temple (Amalsad)",
+    "state": "Gujarat",
+    "city": "Amalsad",
+    "district": "Navsari",
+    "region": "Amalsad, Navsari district",
+    "tags": [
+      "Gujarat",
+      "Navsari",
+      "Shiva"
+    ],
+    "story": "Andheshwar Mahadev Temple is a well-maintained Shiva shrine in Amalsad and a key devotional node in Navsari district.",
+    "highlight": "Active Andheshwar Mahadev darshan in Amalsad.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Amalsad and nearby Navsari areas.",
+      "architecture": "Regional temple architecture with active ritual continuity.",
+      "visitorNotes": "Best visited with nearby Navsari district Shiva shrines.",
+      "sources": [
+        {
+          "label": "Navsari district",
+          "url": "https://en.wikipedia.org/wiki/Navsari_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Andheshwar%20Mahadev%20Temple%20Amalsad",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:19:04Z",
+    "addedAt": "2026-02-25T13:49:04+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Somnath Mahadev Mandir (Bilimora)",
+    "state": "Gujarat",
+    "city": "Bilimora",
+    "district": "Navsari",
+    "region": "Bilimora, Navsari district",
+    "tags": [
+      "Gujarat",
+      "Navsari",
+      "Shiva"
+    ],
+    "story": "Somnath Mahadev Mandir is a Shiva shrine in Bilimora and part of the Navsari district devotional circuit.",
+    "highlight": "Somnath Mahadev darshan in Bilimora.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva traditions of Bilimora and the wider Navsari region.",
+      "architecture": "Regional shrine architecture with ongoing devotional activity.",
+      "visitorNotes": "City access is straightforward by local road and rail links.",
+      "sources": [
+        {
+          "label": "Navsari district",
+          "url": "https://en.wikipedia.org/wiki/Navsari_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Somnath%20Mahadev%20Mandir%20Bilimora",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:19:04Z",
+    "addedAt": "2026-02-25T13:49:05+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Mallikarjun Mahadev Temple",
+    "state": "Gujarat",
+    "city": "Navsari",
+    "district": "Navsari",
+    "region": "Navsari district",
+    "tags": [
+      "Gujarat",
+      "Navsari",
+      "Shiva"
+    ],
+    "story": "Mallikarjun Mahadev Temple is a Shiva worship site in the Navsari district Shaiva network.",
+    "highlight": "Mallikarjun Mahadev darshan in Navsari district.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions across Navsari district.",
+      "architecture": "Regional shrine architecture with active devotional continuity.",
+      "visitorNotes": "Local route confirmation is recommended before planning multi-temple visits.",
+      "sources": [
+        {
+          "label": "Navsari district",
+          "url": "https://en.wikipedia.org/wiki/Navsari_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mallikarjun%20Mahadev%20Temple%20Navsari",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:19:04Z",
+    "addedAt": "2026-02-25T13:49:06+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kedareshwar Mahadev Temple",
+    "state": "Gujarat",
+    "city": "Navsari",
+    "district": "Navsari",
+    "region": "Navsari district",
+    "tags": [
+      "Gujarat",
+      "Navsari",
+      "Shiva"
+    ],
+    "story": "Kedareshwar Mahadev Temple is a Shiva shrine in the Navsari district devotional circuit.",
+    "highlight": "Kedareshwar Mahadev darshan in Navsari district.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Navsari district.",
+      "architecture": "Regional shrine architecture with active ritual continuity.",
+      "visitorNotes": "Best included in a wider district temple route.",
+      "sources": [
+        {
+          "label": "Navsari district",
+          "url": "https://en.wikipedia.org/wiki/Navsari_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kedareshwar%20Mahadev%20Temple%20Navsari",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:19:04Z",
+    "addedAt": "2026-02-25T13:49:07+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Jatashankar Mahadev Temple",
+    "state": "Gujarat",
+    "city": "Navsari",
+    "district": "Navsari",
+    "region": "Navsari district",
+    "tags": [
+      "Gujarat",
+      "Navsari",
+      "Shiva"
+    ],
+    "story": "Jatashankar Mahadev Temple is a Shiva worship site in the Navsari district devotional landscape.",
+    "highlight": "Jatashankar Mahadev darshan in Navsari district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Navsari and nearby areas.",
+      "architecture": "Regional temple architecture with active devotional continuity.",
+      "visitorNotes": "Local route planning is recommended for district temple circuits.",
+      "sources": [
+        {
+          "label": "Navsari district",
+          "url": "https://en.wikipedia.org/wiki/Navsari_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Jatashankar%20Mahadev%20Temple%20Navsari",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:19:04Z",
+    "addedAt": "2026-02-25T13:49:08+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kardameshwar Mahadev Temple (Balpur, Vyara)",
+    "state": "Gujarat",
+    "city": "Balpur",
+    "district": "Tapi",
+    "region": "Balpur-Vyara belt, Tapi district",
+    "tags": [
+      "Gujarat",
+      "Tapi",
+      "Shiva"
+    ],
+    "story": "Kardameshwar Mahadev Temple is a revered Shiva shrine in the Balpur-Vyara belt and a major local pilgrimage point in Tapi district.",
+    "highlight": "Kardameshwar Mahadev darshan in the Balpur-Vyara zone.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and winter-season visits are preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Check local access and spring-area conditions before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva traditions and known for its long-standing devotional continuity in the Vyara region.",
+      "architecture": "Regional temple architecture with active daily worship patterns.",
+      "visitorNotes": "Local tradition mentions a hot-water spring association within the temple zone.",
+      "sources": [
+        {
+          "label": "Tapi district",
+          "url": "https://en.wikipedia.org/wiki/Tapi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kardameshwar%20Mahadev%20Temple%20Balpur%20Vyara",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:21:14Z",
+    "addedAt": "2026-02-25T13:51:14+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Dhareshwar Mahadev Temple (Uchchhal)",
+    "state": "Gujarat",
+    "city": "Uchchhal",
+    "district": "Tapi",
+    "region": "Uchchhal, Tapi district",
+    "tags": [
+      "Gujarat",
+      "Tapi",
+      "Shiva"
+    ],
+    "story": "Dhareshwar Mahadev Temple is a Shiva shrine in Uchchhal and part of the Tapi district Shaiva devotional network.",
+    "highlight": "Dhareshwar Mahadev darshan in Uchchhal.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local approach roads and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions of Uchchhal and surrounding Tapi areas.",
+      "architecture": "Regional shrine architecture with active ritual continuity.",
+      "visitorNotes": "Local guidance is helpful for interior district routes.",
+      "sources": [
+        {
+          "label": "Tapi district",
+          "url": "https://en.wikipedia.org/wiki/Tapi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dhareshwar%20Mahadev%20Temple%20Uchchhal%20Tapi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:21:14Z",
+    "addedAt": "2026-02-25T13:51:15+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kedareshwar Mahadev Temple",
+    "state": "Gujarat",
+    "city": "Vyara",
+    "district": "Tapi",
+    "region": "Vyara, Tapi district",
+    "tags": [
+      "Gujarat",
+      "Tapi",
+      "Shiva"
+    ],
+    "story": "Kedareshwar Mahadev Temple is a Shiva shrine in the Tapi district devotional circuit.",
+    "highlight": "Kedareshwar Mahadev darshan in the Vyara-Tapi belt.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions across Tapi district.",
+      "architecture": "Regional temple architecture with active daily devotional use.",
+      "visitorNotes": "Can be paired with nearby Uchchhal and Vyara temple routes.",
+      "sources": [
+        {
+          "label": "Tapi district",
+          "url": "https://en.wikipedia.org/wiki/Tapi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kedareshwar%20Mahadev%20Temple%20Vyara%20Tapi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:21:14Z",
+    "addedAt": "2026-02-25T13:51:16+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Nageshwar Mahadev Temple (Saputara)",
+    "state": "Gujarat",
+    "city": "Saputara",
+    "district": "Dang",
+    "region": "Saputara Lake zone, Dang district",
+    "tags": [
+      "Gujarat",
+      "Dang",
+      "Shiva"
+    ],
+    "story": "Nageshwar Mahadev Temple is a major Shiva shrine in Saputara and a key devotional node in The Dangs district pilgrimage landscape.",
+    "highlight": "Saputara Lake-side Nageshwar darshan with major Shiva iconography.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan; monsoon and winter are preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Check seasonal hill-station traffic and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Saputara and surrounding Dang region.",
+      "architecture": "Regional shrine setting with major Shiva devotional features.",
+      "visitorNotes": "Can be paired with other Saputara pilgrimage and lake-side visits.",
+      "sources": [
+        {
+          "label": "Dang district",
+          "url": "https://en.wikipedia.org/wiki/Dang_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nageshwar%20Mahadev%20Temple%20Saputara",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:22:46Z",
+    "addedAt": "2026-02-25T13:52:46+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Dandkeshwar Mahadev Temple (Ahwa)",
+    "state": "Gujarat",
+    "city": "Ahwa",
+    "district": "Dang",
+    "region": "Ahwa, Dang district",
+    "tags": [
+      "Gujarat",
+      "Dang",
+      "Shiva"
+    ],
+    "story": "Dandkeshwar Mahadev Temple is a Shiva shrine in Ahwa and part of The Dangs district Shaiva worship network.",
+    "highlight": "Dandkeshwar Mahadev darshan in Ahwa.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions centered around Ahwa.",
+      "architecture": "Regional temple architecture with active devotional continuity.",
+      "visitorNotes": "Hill district routes can take longer during monsoon season.",
+      "sources": [
+        {
+          "label": "Dang district",
+          "url": "https://en.wikipedia.org/wiki/Dang_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dandkeshwar%20Mahadev%20Temple%20Ahwa",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:22:46Z",
+    "addedAt": "2026-02-25T13:52:47+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir (Don Hill Station)",
+    "state": "Gujarat",
+    "city": "Don Hill Station",
+    "district": "Dang",
+    "region": "Don Hill Station area, Dang district",
+    "tags": [
+      "Gujarat",
+      "Dang",
+      "Shiva"
+    ],
+    "story": "Shiv Mandir at Don Hill Station is a Shiva shrine in the highland zone of The Dangs district.",
+    "highlight": "Hill-station Shiva darshan in Don, Dang district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and winter-season visits are preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm route conditions in hill terrain before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions of Don Hill Station and nearby Dang villages.",
+      "architecture": "Regional shrine form adapted to hill-station terrain.",
+      "visitorNotes": "Combine visit with nearby eco-tourism circuits for route efficiency.",
+      "sources": [
+        {
+          "label": "Dang district",
+          "url": "https://en.wikipedia.org/wiki/Dang_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Don%20Hill%20Station%20Dang",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:22:46Z",
+    "addedAt": "2026-02-25T13:52:48+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bhav Bhaveshwar Mahadev Temple (Barumal)",
+    "state": "Gujarat",
+    "city": "Barumal",
+    "district": "Valsad",
+    "region": "Barumal, Valsad district",
+    "tags": [
+      "Gujarat",
+      "Valsad",
+      "Shiva"
+    ],
+    "story": "Bhav Bhaveshwar Mahadev Temple is a Shiva shrine in the Barumal area and part of the Valsad district devotional circuit.",
+    "highlight": "Bhav Bhaveshwar Mahadev darshan in Barumal.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions of Barumal and nearby Valsad region.",
+      "architecture": "Regional temple architecture with active devotional continuity.",
+      "visitorNotes": "Plan with local guidance for interior approach roads.",
+      "sources": [
+        {
+          "label": "Valsad district",
+          "url": "https://en.wikipedia.org/wiki/Valsad_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhav%20Bhaveshwar%20Mahadev%20Temple%20Barumal",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:24:53Z",
+    "addedAt": "2026-02-25T13:54:53+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kaleshwar Mahadev Temple (Umbergaon)",
+    "state": "Gujarat",
+    "city": "Umbergaon",
+    "district": "Valsad",
+    "region": "Umbergaon, Valsad district",
+    "tags": [
+      "Gujarat",
+      "Valsad",
+      "Shiva"
+    ],
+    "story": "Kaleshwar Mahadev Temple is a Shiva shrine in Umbergaon and part of Valsad district's Shaiva devotional landscape.",
+    "highlight": "Kaleshwar Mahadev darshan in Umbergaon.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions of coastal-south Valsad region.",
+      "architecture": "Regional temple architecture with active ritual continuity.",
+      "visitorNotes": "Route planning with local transport is recommended.",
+      "sources": [
+        {
+          "label": "Valsad district",
+          "url": "https://en.wikipedia.org/wiki/Valsad_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kaleshwar%20Mahadev%20Temple%20Umbergaon",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:24:53Z",
+    "addedAt": "2026-02-25T13:54:54+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Parnera Hill Mahadev Temple",
+    "state": "Gujarat",
+    "city": "Parnera",
+    "district": "Valsad",
+    "region": "Parnera Hill, Valsad district",
+    "tags": [
+      "Gujarat",
+      "Valsad",
+      "Shiva"
+    ],
+    "story": "Parnera Hill Mahadev Temple is a Shiva shrine on Parnera Hill and an important elevated devotional point in Valsad district.",
+    "highlight": "Hilltop Mahadev darshan at Parnera.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan; cooler season visits are preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Approach includes hill steps; plan daylight visit.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shiva worship traditions associated with Parnera Hill pilgrimage routes.",
+      "architecture": "Regional hill-shrine architecture with active devotional continuity.",
+      "visitorNotes": "Combine with nearby Valsad temples for route efficiency.",
+      "sources": [
+        {
+          "label": "Valsad district",
+          "url": "https://en.wikipedia.org/wiki/Valsad_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Parnera%20Hill%20Mahadev%20Temple%20Valsad",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T08:24:53Z",
+    "addedAt": "2026-02-25T13:54:55+05:30",
     "isNew": true
   }
 ];

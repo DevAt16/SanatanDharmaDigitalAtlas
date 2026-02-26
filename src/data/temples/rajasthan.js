@@ -3561,9 +3561,9 @@ export const rajasthanTemples = [
     "city": "Shiwar",
     "region": "Sawai Madhopur district",
     "tags": [
-      "Jyotirlinga",
       "Pilgrimage",
-      "Sawai Madhopur"
+      "Sawai Madhopur",
+      "Jyotirlinga Claim"
     ],
     "story": "A Shiva temple at Shiwar, revered locally as a jyotirlinga shrine in Rajasthan.",
     "highlight": "Shiva shrine at Shiwar with long-standing jyotirlinga tradition.",

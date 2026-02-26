@@ -5,22 +5,22 @@ export const uttarakhandTemples = [
     "city": "Bageshwar",
     "region": "Bageshwar district",
     "tags": [
-      "Confluence",
-      "Tiger",
-      "Uttarayani"
+      "Kinetic Reset Node",
+      "Sarayu Gomti Sangam",
+      "Almora Sync"
     ],
-    "story": "Situated at the confluence of Saryu and Gomti rivers; Shiva appeared here as a tiger (Bag) to Sage Markandeya.",
-    "highlight": "Confluence location.",
+    "story": "A high-intensity confluence anchor at the Sarayu-Gomti meeting point, where Shaiva worship at Bagnath is deeply synced with both Bageshwar and the wider Almora-Kumaon pilgrimage flow.",
+    "highlight": "Confluence-driven moksha gateway node for the greater Kumaon grid.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bagnath_Temple_Bageshwar.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bagnath_Temple_Bageshwar.jpg",
     "deity": "Bagnath (Shiva)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "January (Uttarayani).",
+    "bestTime": "October to March; peak flow during Uttarayani and Shivratri.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
-    "entryNotes": "River bank.",
+    "entryNotes": "At the river confluence ghats in Bageshwar town.",
     "rituals": [
       "Aarti"
     ],
@@ -29,9 +29,9 @@ export const uttarakhandTemples = [
       "Shivratri"
     ],
     "moreDetails": {
-      "history": "Chand dynasty.",
-      "architecture": "Nagara style.",
-      "visitorNotes": "Attend the famous fair.",
+      "history": "Historically associated with Chand-era patronage and older confluence worship lineages of the central Kumaon belt.",
+      "architecture": "Classical Nagara profile adapted to river-confluence topography.",
+      "visitorNotes": "Best paired with sangam darshan timings and local fair windows.",
       "sources": [
         {
           "label": "Bagnath Temple",
@@ -83,27 +83,27 @@ export const uttarakhandTemples = [
     }
   },
   {
-    "name": "Jageshwar Mahadev Temple",
+    "name": "Jageshwar Dham",
     "state": "Uttarakhand",
     "city": "Jageshwar",
     "region": "Almora district",
     "tags": [
-      "Jyotirlinga",
-      "Deodar Forest",
-      "Cluster"
+      "Master Frequency Hub",
+      "124 Temples",
+      "Nagesh Tradition"
     ],
-    "story": "The main temple in the Jageshwar cluster, often considered the 8th Jyotirlinga (Nagesh) in the region.",
-    "highlight": "Deodar forest setting.",
+    "story": "The apex Shaiva complex of Almora, Jageshwar Dham is a dense temple matrix traditionally counted as more than a hundred shrines and associated in many local lineages with an early Nagesh Jyotirlinga current.",
+    "highlight": "Main Kumaon motherboard node for preserved high-density Shaiva architecture.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jageshwar_Mahadev_Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Jageshwar_Mahadev_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Monsoon.",
+    "bestTime": "March to June and September to November; monsoon for lush forest atmosphere.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
-    "entryNotes": "ASI monument.",
+    "entryNotes": "Protected temple complex in the deodar valley; allow time for full cluster circuit.",
     "rituals": [
       "Parthiv Puja"
     ],
@@ -111,9 +111,9 @@ export const uttarakhandTemples = [
       "Jageshwar Monsoon Festival"
     ],
     "moreDetails": {
-      "history": "Katyuri and Chand dynasties.",
-      "architecture": "Nagara style.",
-      "visitorNotes": "Over 100 temples in the cluster.",
+      "history": "The Jageshwar valley complex developed through Katyuri-Chand periods and remains one of the most important continuous Shaiva heritage cores in Kumaon.",
+      "architecture": "Multi-shrine stone Nagara matrix across a compact sacred valley layout.",
+      "visitorNotes": "Plan a longer stay to cover the primary and satellite shrines including Dandeshwar and Mrityunjaya.",
       "sources": [
         {
           "label": "Jageshwar",
@@ -144,7 +144,7 @@ export const uttarakhandTemples = [
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
-    "entryNotes": "Same complex as Jageshwar Mahadev.",
+    "entryNotes": "Same complex as Jageshwar Dham.",
     "rituals": [
       "Mahamrityunjaya Jaap"
     ],
@@ -165,35 +165,35 @@ export const uttarakhandTemples = [
     }
   },
   {
-    "name": "Dandeshwar Temple",
+    "name": "Dandeshwar Mahadev",
     "state": "Uttarakhand",
     "city": "Jageshwar",
     "region": "Almora district",
     "tags": [
-      "Largest",
-      "Rock God",
-      "Jageshwar"
+      "Vertical Sentinel",
+      "Natural Rock Linga",
+      "Upstream Node"
     ],
-    "story": "Situated slightly upstream from the main cluster, housing a natural rock linga.",
-    "highlight": "Natural rock linga.",
+    "story": "Situated upstream from the core Jageshwar group, Dandeshwar Mahadev is known for a massive naturally formed linga and acts as a heavy-load sentinel before the flow enters the main Jageshwar matrix.",
+    "highlight": "Vertical processor node for high-intensity mountain-frequency inflow.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dandeshwar_Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Dandeshwar_Temple.jpg",
     "deity": "Shiva (Dandeshwar)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Year-round.",
+    "bestTime": "March to June and September to November.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
-    "entryNotes": "Short walk from main group.",
+    "entryNotes": "Short upstream extension from the main Jageshwar temple circuit.",
     "rituals": [
       "Daily puja"
     ],
     "festivals": [],
     "moreDetails": {
-      "history": "Katyuri era.",
-      "architecture": "Tallest shikhara in group.",
-      "visitorNotes": "Quieter than main complex.",
+      "history": "Part of the larger Jageshwar sacred corridor with strong early-medieval Kumaoni Shaiva continuity.",
+      "architecture": "Tall shikhara mass and large linga profile in classical stone build.",
+      "visitorNotes": "Visit in the same circuit as Jageshwar Dham for full contextual understanding.",
       "sources": [
         {
           "label": "Jageshwar",
@@ -204,17 +204,17 @@ export const uttarakhandTemples = [
     }
   },
   {
-    "name": "Patal Bhuvaneshwar",
+    "name": "Patal Bhuvaneshwar (Adjacent Transition)",
     "state": "Uttarakhand",
     "city": "Gangolihat",
     "region": "Pithoragarh district",
     "tags": [
-      "Cave",
-      "Limestone",
-      "Mystery"
+      "Deep Earth Cave",
+      "Almora Gangolihat Route",
+      "Subterranean Core"
     ],
-    "story": "A limestone cave temple believed to house 33 crore gods, with fascinating stalactite formations.",
-    "highlight": "Cave formations resembling deities.",
+    "story": "A major limestone cave shrine on the Almora-Gangolihat transition belt, where naturally formed stalactite-stalagmite structures sustain a deep subterranean Shaiva current.",
+    "highlight": "Subterranean transition node linked to the wider Almora pilgrimage logic.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Patal_Bhuvaneshwar_Cave.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Patal_Bhuvaneshwar_Cave.jpg",
@@ -224,15 +224,15 @@ export const uttarakhandTemples = [
     "bestTime": "Year-round.",
     "timings": "Open daily (Daylight).",
     "dressCode": "Casual/Comfortable.",
-    "entryNotes": "Narrow cave entrance; crawl required.",
+    "entryNotes": "Steep and narrow cave descent; physical caution required.",
     "rituals": [
       "Cave Darshan"
     ],
     "festivals": [],
     "moreDetails": {
-      "history": "Ancient legend.",
-      "architecture": "Natural cave.",
-      "visitorNotes": "Not for claustrophobics.",
+      "history": "Preserved in long-running Himalayan cave-worship narratives with strong Shaiva framing.",
+      "architecture": "Natural karst cave architecture with ritualized passage movement.",
+      "visitorNotes": "Carry non-slip footwear and avoid peak crowd hours inside the cave passage.",
       "sources": [
         {
           "label": "Patal Bhuvaneshwar",
@@ -243,27 +243,27 @@ export const uttarakhandTemples = [
     }
   },
   {
-    "name": "Kashi Vishwanath Temple",
+    "name": "Kashi Vishwanath Temple (Uttarkashi)",
     "state": "Uttarakhand",
     "city": "Uttarkashi",
     "region": "Uttarkashi district",
     "tags": [
-      "Ganges",
-      "Uttar Kashi",
-      "Trishul"
+      "District Motherboard",
+      "Bhagirathi",
+      "Ancient Trishul"
     ],
-    "story": "The most important temple in Uttarkashi, housing a massive trident (Trishul) with inscriptions.",
-    "highlight": "Ancient Shakti Stambh (Trident).",
+    "story": "The principal Shiva anchor of Uttarkashi on the Bhagirathi corridor, traditionally seen as the northern mirror of the Kashi grid and renowned for its massive ancient trident.",
+    "highlight": "Primary spiritual router of Uttarkashi with a monumental trishul-antennic identity.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kashi_Vishwanath_Temple_Uttarkashi.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kashi_Vishwanath_Temple_Uttarkashi.jpg",
     "deity": "Shiva (Vishwanath)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Year-round.",
+    "bestTime": "Year-round; April to June and September to November are preferred.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
-    "entryNotes": "Town center.",
+    "entryNotes": "Located in Uttarkashi town near the Bhagirathi flow corridor.",
     "rituals": [
       "Evening Aarti"
     ],
@@ -271,9 +271,9 @@ export const uttarakhandTemples = [
       "Magh Mela"
     ],
     "moreDetails": {
-      "history": "Ancient.",
-      "architecture": "Katyuri style.",
-      "visitorNotes": "Gateway to Gangotri.",
+      "history": "A long-standing Shaiva center in the upper Bhagirathi valley with enduring pilgrimage continuity.",
+      "architecture": "North Indian Himalayan temple profile with the iconic freestanding trident feature.",
+      "visitorNotes": "Usually combined with upper-valley circuits toward Gangotri and nearby Uttarkashi shrines.",
       "sources": [
         {
           "label": "Uttarkashi",
@@ -284,27 +284,27 @@ export const uttarakhandTemples = [
     }
   },
   {
-    "name": "Tapkeshwar Mahadev Temple",
+    "name": "Tapkeshwar Mahadev",
     "state": "Uttarakhand",
     "city": "Dehradun",
     "region": "Dehradun district",
     "tags": [
-      "Cave",
-      "Drona",
-      "Water"
+      "Continuous Abhishek Node",
+      "Cave Seepage",
+      "Doon Valley"
     ],
-    "story": "A cave temple where water naturally drips (tapak) on the Shiva Linga; associated with Dronacharya.",
-    "highlight": "Dripping water on Linga.",
+    "story": "Tapkeshwar Mahadev is the primary Dehradun Shiva cave anchor where mountain seepage continuously drips over the lingam, sustaining an uninterrupted abhishek flow.",
+    "highlight": "Continuous-water cave node that stabilizes the wider Doon Valley Shaiva circuit.",
     "image": "/temples/temple-05.svg",
     "credit": "",
     "creditUrl": "/temples/temple-05.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Shivratri.",
+    "bestTime": "Year-round; peak flow during Mahashivratri and Shravan.",
     "timings": "Open daily.",
-    "dressCode": "Casual.",
-    "entryNotes": "River side.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Cave-temple approach near the city stream corridor.",
     "rituals": [
       "Jal Abhishek"
     ],
@@ -312,9 +312,9 @@ export const uttarakhandTemples = [
       "Shivratri Mela"
     ],
     "moreDetails": {
-      "history": "Mahabharata era.",
-      "architecture": "Cave/Modern.",
-      "visitorNotes": "Very popular in Dehradun.",
+      "history": "Maintained in local tradition as an old cave-linked Shaiva seat in Dehradun.",
+      "architecture": "Natural cave plus expanded modern temple precinct.",
+      "visitorNotes": "Expect heavy crowds on Mondays, Mahashivratri, and Shravan days.",
       "sources": [
         {
           "label": "Tapkeshwar",
@@ -325,27 +325,27 @@ export const uttarakhandTemples = [
     }
   },
   {
-    "name": "Neelkanth Mahadev Temple",
+    "name": "Neelkanth Mahadev",
     "state": "Uttarakhand",
     "city": "Rishikesh",
     "region": "Pauri Garhwal district",
     "tags": [
-      "Poison",
-      "Manikoot",
-      "Pilgrimage"
+      "Apex Transmitter",
+      "Halahala",
+      "Healing Node"
     ],
-    "story": "Located where Shiva consumed the Halahala poison, turning his throat blue (Neelkanth).",
-    "highlight": "Mythological significance.",
+    "story": "Perched above the Rishikesh valley belt, Neelkanth Mahadev marks the Halahala-transmutation narrative and functions as the region's highest-intensity Shiva healing transmitter.",
+    "highlight": "Primary emotional-transmutation node for the Rishikesh tri-district vortex corridor.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Neelkanth_Mahadev_Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Neelkanth_Mahadev_Temple.jpg",
     "deity": "Shiva (Neelkanth)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Shravan Month.",
+    "bestTime": "Year-round; Shravan and Mahashivratri are peak periods.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
-    "entryNotes": "Mountaintop.",
+    "entryNotes": "Hill-route access from Rishikesh with steep approach segments.",
     "rituals": [
       "Kanwar Yatra"
     ],
@@ -354,9 +354,9 @@ export const uttarakhandTemples = [
       "Shravan Mela"
     ],
     "moreDetails": {
-      "history": "Ancient legend.",
-      "architecture": "Dravidian style shikara (Modern).",
-      "visitorNotes": "Can be crowded during Shravan.",
+      "history": "Linked to the Samudra Manthan poison episode and long-standing Garhwal pilgrimage traditions.",
+      "architecture": "Prominent hill-temple complex with modern expansions around the original sacred core.",
+      "visitorNotes": "Expect high footfall during Shravan, Mondays, and festival windows.",
       "sources": [
         {
           "label": "Neelkanth Mahadev",
@@ -372,19 +372,19 @@ export const uttarakhandTemples = [
     "city": "Kankhal",
     "region": "Haridwar district",
     "tags": [
-      "Sati",
-      "Yajna",
-      "Haridwar"
+      "Daksha Yajna",
+      "Origin Reset Node",
+      "Kankhal"
     ],
-    "story": "The site of Daksha Prajapati's yajna and Sati's self-immolation.",
-    "highlight": "Daksha Yajna Kund.",
+    "story": "The Kankhal shrine marks the sacred landscape of the Daksha Yajna narrative, where Shiva's fierce Virabhadra current intersects with the ritual order of the material world.",
+    "highlight": "Primary historical motherboard node for the Haridwar district circuit.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Daksha_Mahadev_Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Daksha_Mahadev_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Shravan.",
+    "bestTime": "October to March and Mahashivratri period.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
     "entryNotes": "Near Haridwar.",
@@ -395,9 +395,9 @@ export const uttarakhandTemples = [
       "Shivratri"
     ],
     "moreDetails": {
-      "history": "Ancient legend.",
+      "history": "Sustained through the Daksha-Sati-Shiva narrative and long-running Kankhal worship traditions.",
       "architecture": "Modern.",
-      "visitorNotes": "Includes Sati Kund.",
+      "visitorNotes": "Visit with nearby Sati Kund and Kankhal temple points.",
       "sources": [
         {
           "label": "Daksha Mahadev",
@@ -413,30 +413,30 @@ export const uttarakhandTemples = [
     "city": "Haridwar",
     "region": "Haridwar district",
     "tags": [
-      "Parvati",
-      "Penance",
-      "Wooded"
+      "Bilwa Parvat",
+      "Parvati Penance",
+      "Forest Aura"
     ],
-    "story": "Where Goddess Parvati performed penance to win Shiva, eating only Bel leaves.",
-    "highlight": "Peaceful forest setting in city.",
+    "story": "A forest-shielded shrine in the Bilwa Parvat valley associated with Parvati's tapasya traditions, known for a focused and quiet Shaiva frequency away from high-traffic ghat zones.",
+    "highlight": "High-vibration forest-aura Mahadev node within Haridwar city limits.",
     "image": "/temples/temple-02.svg",
     "credit": "",
     "creditUrl": "/temples/temple-02.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Year-round.",
+    "bestTime": "Year-round, especially early mornings.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
-    "entryNotes": "Short walk from station.",
+    "entryNotes": "Valley-side approach near Bilwa Parvat; short uphill walk.",
     "rituals": [
       "Bel Patra offering"
     ],
     "festivals": [],
     "moreDetails": {
-      "history": "Ancient.",
+      "history": "Preserved in local tradition as a Parvati-penance linked Shiva shrine.",
       "architecture": "Simple.",
-      "visitorNotes": "Serene spot.",
+      "visitorNotes": "Prefer quieter morning visits for meditative darshan.",
       "sources": [
         {
           "label": "Haridwar",
@@ -570,27 +570,27 @@ export const uttarakhandTemples = [
     }
   },
   {
-    "name": "Mukteshwar Dham",
+    "name": "Mukteshwar Mahadev",
     "state": "Uttarakhand",
     "city": "Mukteshwar",
     "region": "Nainital district",
     "tags": [
-      "Hill Station",
-      "View",
-      "Demon"
+      "Vertical Titan",
+      "Mukti",
+      "Kumaon Ridge"
     ],
-    "story": "Where Shiva killed a demon and granted him salvation (Mukti); offers Nanda Devi views.",
-    "highlight": "Himalayan panoramic views.",
+    "story": "A high-altitude Mukteshwar ridge shrine associated with liberation-focused Shiva worship, positioned as a major Kumaon vertical signal point overlooking the greater Himalayan line.",
+    "highlight": "Apex Nainital district Mahadev anchor with broad Nanda Devi range views.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mukteshwar_Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Mukteshwar_Temple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Year-round.",
+    "bestTime": "March to June and September to November.",
     "timings": "Open daily.",
     "dressCode": "Casual/Warm.",
-    "entryNotes": "Resulted in town name.",
+    "entryNotes": "Hilltop approach with stair climb; weather can shift quickly.",
     "rituals": [
       "Daily puja"
     ],
@@ -598,13 +598,13 @@ export const uttarakhandTemples = [
       "Shivratri"
     ],
     "moreDetails": {
-      "history": "350 years old.",
-      "architecture": "Hill style.",
-      "visitorNotes": "Chauli Ki Jali nearby.",
+      "history": "The temple is widely described as around 350 years old and central to Mukteshwar's Shaiva identity.",
+      "architecture": "Traditional hill-shrine format on an elevated ridge profile.",
+      "visitorNotes": "Combine with Chauli Ki Jali and plan for fog/wind conditions in shoulder seasons.",
       "sources": [
         {
-          "label": "Mukteshwar",
-          "url": "https://en.wikipedia.org/wiki/Mukteshwar",
+          "label": "Mukteshwar Temple",
+          "url": "https://en.wikipedia.org/wiki/Mukteshwar_Mahadev_Temple",
           "type": "Encyclopedia"
         }
       ]
@@ -616,22 +616,22 @@ export const uttarakhandTemples = [
     "city": "Someshwar",
     "region": "Almora district",
     "tags": [
+      "Lunar Cooled",
       "Chand Dynasty",
-      "Valley",
-      "River"
+      "Kosi Sai Valley"
     ],
-    "story": "Built by Raja Som Chand in the picturesque Someshwar valley.",
-    "highlight": "Constructed by founder of Chand dynasty.",
+    "story": "A gentle valley anchor in Someshwar associated with Chand-era patronage and riverine agricultural life, carrying a steady lunar-paced Shaiva rhythm for the Almora plains-hill transition.",
+    "highlight": "Life-cycle stabilizer node for the Kosi-Sai river valley sub-grid.",
     "image": "/temples/temple-04.svg",
     "credit": "",
     "creditUrl": "/temples/temple-04.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Year-round.",
+    "bestTime": "October to March and post-monsoon months.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
-    "entryNotes": "Fertile valley location.",
+    "entryNotes": "Set in a fertile valley belt; easy to combine with nearby Almora routes.",
     "rituals": [
       "Daily puja"
     ],
@@ -639,9 +639,9 @@ export const uttarakhandTemples = [
       "Shivratri"
     ],
     "moreDetails": {
-      "history": "Chand dynasty.",
-      "architecture": "Nagara.",
-      "visitorNotes": "Scenic drive.",
+      "history": "Linked to the Som Chand-era regional state formation and enduring local agrarian Shaiva traditions.",
+      "architecture": "Regional Nagara profile adapted to valley settlement context.",
+      "visitorNotes": "Good year-round access, with quieter darshan outside festival peaks.",
       "sources": [
         {
           "label": "Someshwar, Uttarakhand",
@@ -861,22 +861,22 @@ export const uttarakhandTemples = [
     "city": "Bhimtal",
     "region": "Nainital district",
     "tags": [
-      "Lake",
-      "Bhima",
-      "Dam"
+      "Hydrological Motherboard",
+      "Bhima Legend",
+      "Bhimtal Lake"
     ],
-    "story": "Located on the banks of Bhimtal lake, built by Bhima during the Pandava exile.",
-    "highlight": "Lakeside location.",
+    "story": "A core Bhimtal lakefront Shaiva node linked in local tradition to Bhima, where the lake's thermal mass and water presence shape a stable devotional environment through seasonal shifts.",
+    "highlight": "Primary hydrological Mahadev anchor on the Bhimtal lakeshore.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhimeshwar_Mahadev_Temple_Bhimtal.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhimeshwar_Mahadev_Temple_Bhimtal.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Year-round.",
+    "bestTime": "Year-round, especially October to April.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
-    "entryNotes": "Next to the dam.",
+    "entryNotes": "Located near Bhimtal lake and embankment pathways.",
     "rituals": [
       "Daily puja"
     ],
@@ -884,13 +884,184 @@ export const uttarakhandTemples = [
       "Shivratri"
     ],
     "moreDetails": {
-      "history": "Pandava legend/Chand dynasty.",
-      "architecture": "Kumaoni.",
-      "visitorNotes": "Boating nearby.",
+      "history": "Sustained in local memory through Pandava-associated Bhima narratives and long-running lake-town worship.",
+      "architecture": "Regional Kumaoni temple style with lakeside placement.",
+      "visitorNotes": "Can be paired with other Bhimtal and Bhowali circuit stops.",
       "sources": [
         {
-          "label": "Bhimtal",
+          "label": "Bhimeshwar Mahadev Temple, Bhimtal",
           "url": "https://en.wikipedia.org/wiki/Bhimtal",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Garjiya Devi Complex Shiva Node",
+    "state": "Uttarakhand",
+    "city": "Garjiya",
+    "region": "Nainital district",
+    "tags": [
+      "River Island",
+      "Shiva Shakti",
+      "Kosi"
+    ],
+    "story": "Within the Garjiya Devi pilgrimage complex, the Shiva shrine on the high Kosi rock functions as the grounding complement to the Shakti current, with continuous river acoustics shaping a kinetic prayer field.",
+    "highlight": "Kosi river-island style Shiva grounding node in the Garjiya complex.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (complex-integrated shrine)",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-02-25T20:45:00+05:30",
+    "bestTime": "October to March and post-monsoon.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Located on the Ramnagar-Kosi route; check river conditions in monsoon.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Navratri-linked observances"
+    ],
+    "moreDetails": {
+      "history": "Maintained in the local Garjiya pilgrimage stream as a linked Shiva support node.",
+      "architecture": "River-bank/rock-based shrine integration within a larger temple complex.",
+      "visitorNotes": "Expect crowd spillover from Garjiya Devi festival days.",
+      "sources": [
+        {
+          "label": "Garjiya Devi Temple",
+          "url": "https://en.wikipedia.org/wiki/Garjiya_Devi_Temple",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pashan Devi Shiva Markers",
+    "state": "Uttarakhand",
+    "city": "Nainital",
+    "region": "Nainital district",
+    "tags": [
+      "Lithic Interface",
+      "Naini Lake",
+      "Rock Shrine"
+    ],
+    "story": "A rock-integrated Shiva marker belt around the Pashan Devi sector where worship is tied to the exposed lithic profile of the Nainital valley edge.",
+    "highlight": "Stone-integrated Shiva markers on the Naini Lake rim.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (rock-integrated markers)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:45:01+05:30",
+    "bestTime": "Year-round; mornings are calmer.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Best visited in combination with the Naini lake circuit.",
+    "rituals": [
+      "Daily offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Linked to local hill-town stone-shrine worship traditions.",
+      "architecture": "Rock-face and small shrine markers integrated with natural terrain.",
+      "visitorNotes": "Watch footing on wet stone surfaces during monsoon.",
+      "sources": [
+        {
+          "label": "Nainital district",
+          "url": "https://en.wikipedia.org/wiki/Nainital_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Koteshwar Mahadev (Near Bhowali)",
+    "state": "Uttarakhand",
+    "city": "Bhowali",
+    "region": "Nainital district",
+    "tags": [
+      "Cave Resonance",
+      "Deep Earth",
+      "Bhowali"
+    ],
+    "story": "A cave-associated Mahadev node in the Bhowali belt where sheltered terrain and reduced urban noise support quiet, deep-focus Shaiva practice.",
+    "highlight": "Cave-resonance Shiva filter node for the Bhowali-Nainital corridor.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Koteshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:45:02+05:30",
+    "bestTime": "October to April.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Access may include short cave-side approach; verify local directions.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained as part of the wider Bhowali hill-shrine devotional network.",
+      "architecture": "Natural cave context with small shrine infrastructure.",
+      "visitorNotes": "Carry a torch if local lighting is limited.",
+      "sources": [
+        {
+          "label": "Bhowali",
+          "url": "https://en.wikipedia.org/wiki/Bhowali",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Karkotak Nag Temple Shiva Node",
+    "state": "Uttarakhand",
+    "city": "Nainital",
+    "region": "Karkotak hill, Nainital district",
+    "tags": [
+      "Atmospheric Sentinel",
+      "Karkotak Hill",
+      "Eco Balance"
+    ],
+    "story": "A Karkotak hilltop Shiva-linked sentinel in the regional temple ecology, traditionally tied to weather-cycle prayers and mountain climate harmony.",
+    "highlight": "Atmospheric and ecological monitoring node in the upper Nainital hill belt.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (linked hill shrine node)",
+    "tradition": "Shaiva/Folk",
+    "addedAt": "2026-02-25T20:45:03+05:30",
+    "bestTime": "March to June and September to November.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest and weather-appropriate clothing.",
+    "entryNotes": "Hill hike access; check trail conditions before travel.",
+    "rituals": [
+      "Daily offerings",
+      "Seasonal hill prayers"
+    ],
+    "festivals": [
+      "Nag Panchami",
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Preserved in local hill worship routes with Nag-Shiva associations.",
+      "architecture": "Simple hilltop shrine profile.",
+      "visitorNotes": "Weather can change rapidly on ridge routes.",
+      "sources": [
+        {
+          "label": "Nainital district",
+          "url": "https://en.wikipedia.org/wiki/Nainital_district",
           "type": "Encyclopedia"
         }
       ]
@@ -2163,12 +2334,12 @@ export const uttarakhandTemples = [
     "city": "Almora",
     "region": "Almora district",
     "tags": [
-      "Sun God",
-      "Rare",
-      "Trek"
+      "Dual Sync Node",
+      "Solar Core",
+      "Shiva Cooling Ground"
     ],
-    "story": "A rare Sun temple (second only to Konark) housing an old Shiva idol as well. Located on a steep hill.",
-    "highlight": "Architectural grandeur.",
+    "story": "A rare high-altitude Saura complex where associated Shiva markers and shrines provide grounding balance to the strong solar ritual axis of Katarmal.",
+    "highlight": "Solar-Shaiva dual synchronization point in Almora's heritage belt.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Katarmal_Sun_Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Katarmal_Sun_Temple.jpg",
@@ -2178,7 +2349,7 @@ export const uttarakhandTemples = [
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
-    "entryNotes": "Short hike.",
+    "entryNotes": "Short hill approach; carry water and plan daylight visit.",
     "rituals": [
       "Surya Namaskar"
     ],
@@ -2186,7 +2357,49 @@ export const uttarakhandTemples = [
     "moreDetails": {
       "history": "9th century Katyuri.",
       "architecture": "Nagara.",
-      "visitorNotes": "Stunning location.",
+      "visitorNotes": "Best visited as a combined solar and Shaiva heritage stop.",
+      "sources": [
+        {
+          "label": "Katarmal",
+          "url": "https://en.wikipedia.org/wiki/Katarmal",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Katarmal Shiva Node",
+    "state": "Uttarakhand",
+    "city": "Almora",
+    "region": "Almora district",
+    "tags": [
+      "Dual Sync Node",
+      "Shiva Cooling Ground",
+      "Katarmal"
+    ],
+    "story": "A Shiva-linked balancing node in the Katarmal heritage zone, interpreted as the grounding counterpart to the high solar intensity of the Sun Temple complex.",
+    "highlight": "Shaiva stabilizer integrated with Katarmal's solar architecture field.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (integrated shrine markers)",
+    "tradition": "Shaiva/Saura",
+    "addedAt": "2026-02-25T21:15:00+05:30",
+    "bestTime": "October to April.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Usually visited along with Katarmal Sun Temple routes.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Makar Sankranti",
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Preserved in local understanding as part of the broader Katarmal sacred field where multiple traditions overlap.",
+      "architecture": "Small shrine-marker typology around a major early-medieval temple zone.",
+      "visitorNotes": "Treat as a linked heritage node rather than a standalone large complex.",
       "sources": [
         {
           "label": "Katarmal",
@@ -2697,7 +2910,7 @@ export const uttarakhandTemples = [
       "Mahamrityunjaya",
       "Shaiva"
     ],
-    "story": "Part of the broader Jageshwar sacred complex, this shrine is associated with Shiva’s Mrityunjaya form and traditional mantra worship.",
+    "story": "Part of the broader Jageshwar sacred complex, this shrine is associated with Shiva's Mrityunjaya form and traditional mantra worship.",
     "highlight": "Mahamrityunjaya form of Shiva in Jageshwar region.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lord_Shiva_Mritunjaya_Temple_Jageshwar_Almora.jpg",
     "credit": "Wikimedia Commons",
@@ -3772,6 +3985,198 @@ export const uttarakhandTemples = [
     "addedAt": "2026-02-19T23:10:00+05:30"
   },
   {
+    "name": "Gauri Shankar Mahadev (Near Chandi Devi)",
+    "city": "Haridwar",
+    "region": "Neel Parvat foothill, Haridwar district",
+    "tags": [
+      "Gauri Shankar",
+      "Neel Parvat",
+      "Shakti Balanced"
+    ],
+    "story": "A Shiva node near the Chandi Devi approach zone that stabilizes the transition between mountain-ascent pilgrimage routes and the river-plains devotional current.",
+    "highlight": "Handshake transmitter between Shiva and Devi frequencies in the Haridwar hill-river interface.",
+    "deity": "Shiva (Gauri Shankar Mahadev)",
+    "bestTime": "October to March; early morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Near Chandi Devi routes; check ropeway/trek timings before visit.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained as a balancing Shiva marker in the Chandi Devi pilgrimage belt.",
+      "architecture": "Regional foothill shrine profile with active local worship.",
+      "visitorNotes": "Combine with Chandi Devi and nearby Haridwar hill-route temples.",
+      "sources": [
+        {
+          "label": "Haridwar district",
+          "url": "https://haridwar.nic.in/",
+          "type": "District portal"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gauri%20Shankar%20Mahadev%20Haridwar%20Chandi%20Devi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:15:00+05:30"
+  },
+  {
+    "name": "Daridra Bhanjan Mahadev",
+    "city": "Haridwar",
+    "region": "Ganga bank zone, Haridwar district",
+    "tags": [
+      "Data Cleansing",
+      "Resolution",
+      "Ganga Bank"
+    ],
+    "story": "A Ganga-side Shiva shrine associated with resolution-oriented worship, where pilgrims perform reset-style prayers before onward Himalayan journeys.",
+    "highlight": "Emotional and spiritual filtering node in the Haridwar riverfront matrix.",
+    "deity": "Shiva (Daridra Bhanjan Mahadev)",
+    "bestTime": "Morning and evening river-aarti windows.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Best approached through local ghat routes.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Known in local Haridwar worship routes as a Shiva reset-point near the Ganga belt.",
+      "architecture": "River-adjacent shrine form.",
+      "visitorNotes": "Prefer non-peak hours for quieter darshan.",
+      "sources": [
+        {
+          "label": "Haridwar district",
+          "url": "https://haridwar.nic.in/",
+          "type": "District portal"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Daridra%20Bhanjan%20Mahadev%20Haridwar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:15:01+05:30"
+  },
+  {
+    "name": "Sureshvari Devi Complex Shiva Node",
+    "city": "Haridwar",
+    "region": "Rajaji forest boundary, Haridwar district",
+    "tags": [
+      "Bio Resonance",
+      "Forest Sentinel",
+      "Shiva Shakti"
+    ],
+    "story": "A Shiva-linked sentinel node in the Sureshvari Devi complex corridor near Rajaji forest edges, where devotional flow remains strongly coupled with living forest ecology.",
+    "highlight": "Raw forest-biome Shaiva signal acting as an eastern firewall for Haridwar.",
+    "deity": "Shiva (complex-integrated shrine)",
+    "bestTime": "October to March; daylight visits.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Forest-edge route; verify access permissions and timings.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Navratri-linked local observances"
+    ],
+    "moreDetails": {
+      "history": "Sustained as a mixed Shiva-Shakti worship point near the Rajaji landscape.",
+      "architecture": "Complex-format hill-forest shrine layout.",
+      "visitorNotes": "Respect wildlife zone guidelines and local instructions.",
+      "sources": [
+        {
+          "label": "Rajaji National Park",
+          "url": "https://en.wikipedia.org/wiki/Rajaji_National_Park",
+          "type": "Location reference"
+        },
+        {
+          "label": "Haridwar district",
+          "url": "https://haridwar.nic.in/",
+          "type": "District portal"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-02-25T20:15:02+05:30"
+  },
+  {
+    "name": "Tilbhandeshwar Mahadev",
+    "city": "Haridwar",
+    "region": "Haridwar district",
+    "tags": [
+      "Growth Logic",
+      "Tilbhandeshwar",
+      "Self Expanding"
+    ],
+    "story": "A locally revered Shiva shrine where oral tradition maintains that the lingam expands subtly over time, symbolizing dynamic and non-static sacred growth.",
+    "highlight": "Self-expanding frequency motif in the Haridwar Shaiva network.",
+    "deity": "Shiva (Tilbhandeshwar Mahadev)",
+    "bestTime": "Year-round; mornings are typically calmer.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Check exact locality marker before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local logs as a growth-tradition Mahadev shrine.",
+      "architecture": "Regional shrine form with active local rituals.",
+      "visitorNotes": "Can be combined with Haridwar inner-city Shiva circuit.",
+      "sources": [
+        {
+          "label": "Haridwar district",
+          "url": "https://haridwar.nic.in/",
+          "type": "District portal"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Tilbhandeshwar%20Mahadev%20Haridwar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "state": "Uttarakhand",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:15:03+05:30"
+  },
+  {
     "name": "Rudreshwar Cave Temple",
     "city": "Almora",
     "region": "Almora district",
@@ -4066,21 +4471,21 @@ export const uttarakhandTemples = [
     "addedAt": "2026-02-19T23:10:00+05:30"
   },
   {
-    "name": "Gaumukh Shivling View Shrine",
-    "city": "Gaumukh",
+    "name": "Gangotri Mahadev Shrines",
+    "city": "Gangotri",
     "region": "Uttarkashi district",
     "tags": [
+      "Glacial Interface",
       "Gaumukh",
-      "Shivling Peak",
-      "Pilgrimage"
+      "Ice Stabilizer"
     ],
-    "story": "A devotional stop associated with Shiva reverence near the Gaumukh–Shivling peak pilgrimage route.",
-    "highlight": "Symbolic Shiva worship in a glacier-source landscape.",
+    "story": "Shiva shrines in the Gangotri-Gaumukh corridor function as glacial-interface nodes where source-ice and river-flow transitions are ritually stabilized through Shaiva worship.",
+    "highlight": "High-purity glacier-to-river transition nodes in the Bhagirathi source belt.",
     "deity": "Shiva",
     "bestTime": "May to October.",
     "timings": "Seasonal route access.",
     "dressCode": "High-altitude trekking gear required.",
-    "entryNotes": "Permit rules and trek regulations apply in the Gangotri National Park zone.",
+    "entryNotes": "Permit and route regulations apply for Gaumukh-side access within Gangotri National Park.",
     "rituals": [
       "Personal prayer",
       "Mantra japa"
@@ -4089,14 +4494,19 @@ export const uttarakhandTemples = [
       "Shravan month observances"
     ],
     "moreDetails": {
-      "history": "Linked to pilgrim traditions around the Bhagirathi source and Shivling massif.",
-      "architecture": "Not a large built complex; pilgrimage-point style worship.",
-      "visitorNotes": "For experienced high-altitude travelers only.",
+      "history": "Connected to longstanding source-pilgrimage traditions around Gangotri and Gaumukh in the upper Bhagirathi valley.",
+      "architecture": "A distributed set of small shrines and pilgrimage markers rather than one large single complex.",
+      "visitorNotes": "Weather, altitude, and permit compliance should be planned carefully before travel.",
       "sources": [
+        {
+          "label": "Gangotri",
+          "url": "https://en.wikipedia.org/wiki/Gangotri",
+          "type": "Location reference"
+        },
         {
           "label": "Gaumukh",
           "url": "https://en.wikipedia.org/wiki/Gaumukh",
-          "type": "Encyclopedia"
+          "type": "Location reference"
         }
       ]
     },
@@ -4193,27 +4603,27 @@ export const uttarakhandTemples = [
     }
   },
   {
-    "name": "Rudranath Temple (A highly remote node requiring a heavy trek; representing the face)",
+    "name": "Rudranath Temple",
     "state": "Uttarakhand",
     "city": "Gopeshwar",
     "region": "Rudranath area, Chamoli district",
     "tags": [
       "Panch Kedar",
       "Rudranath",
-      "Remote Trek"
+      "Face of Shiva"
     ],
-    "story": "Rudranath is a remote Panch Kedar shrine where Shiva's face is worshipped after a demanding mountain trek.",
-    "highlight": "One of the toughest Panch Kedar approaches with a strong ascetic-pilgrimage character.",
+    "story": "Rudranath is the Panch Kedar shrine of Shiva's mukha (face), set in high alpine terrain where deep forest and meadow routes create a strongly meditative pilgrimage field.",
+    "highlight": "High-altitude natural-interface Panch Kedar node with deeply contemplative mountain resonance.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudranath_Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Rudranath_Temple.jpg",
     "deity": "Shiva (Rudranath)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-23T12:53:30+05:30",
-    "bestTime": "May to October.",
+    "bestTime": "June to September (weather window), with local variation by snowfall.",
     "timings": "Seasonal opening; local timings vary.",
     "dressCode": "Trekking gear and warm layers recommended.",
-    "entryNotes": "Long trekking routes require advance logistics and weather caution.",
+    "entryNotes": "Long mountain trek required; route and weather verification is essential.",
     "rituals": [
       "Darshan",
       "Pitru tarpan"
@@ -4225,7 +4635,7 @@ export const uttarakhandTemples = [
     "moreDetails": {
       "history": "Rudranath is one of the Panch Kedar temples associated with Shiva's mukha manifestation.",
       "architecture": "Stone temple form embedded in alpine landscape.",
-      "visitorNotes": "Route conditions vary significantly by season and snowfall.",
+      "visitorNotes": "Plan acclimatization, local guide support, and shelter points in advance.",
       "sources": [
         {
           "label": "Rudranath",
@@ -4278,7 +4688,7 @@ export const uttarakhandTemples = [
     }
   },
   {
-    "name": "Kalpeshwar Temple (Representing the matted locks; the only node in this circuit accessible year-round)",
+    "name": "Kalpeshwar Mahadev",
     "state": "Uttarakhand",
     "city": "Urgam Valley",
     "region": "Kalpeshwar, Chamoli district",
@@ -4287,8 +4697,8 @@ export const uttarakhandTemples = [
       "Kalpeshwar",
       "Year-round Access"
     ],
-    "story": "Kalpeshwar is the Panch Kedar temple associated with Shiva's matted locks (jata) and is accessible throughout the year.",
-    "highlight": "Only year-round accessible Panch Kedar shrine.",
+    "story": "Kalpeshwar Mahadev is the Panch Kedar shrine of Shiva's jata (matted locks), located in Urgam valley and continuously accessible across all seasons.",
+    "highlight": "Ever-open Panch Kedar baseline node for year-round Chamoli Shaiva continuity.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalpeshwar_Mahadev,_Kalpnath_temple,_Panch_Kedar_Uttarakhand.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kalpeshwar_Mahadev,_Kalpnath_temple,_Panch_Kedar_Uttarakhand.jpg",
@@ -4298,7 +4708,7 @@ export const uttarakhandTemples = [
     "bestTime": "Year-round; post-monsoon is especially comfortable.",
     "timings": "Open daily.",
     "dressCode": "Modest attire; warm layers in winter.",
-    "entryNotes": "Road and short walk access are generally available year-round.",
+    "entryNotes": "Reached via Urgam valley route with short walk access in most seasons.",
     "rituals": [
       "Daily puja",
       "Abhishekam"
@@ -4310,7 +4720,7 @@ export const uttarakhandTemples = [
     "moreDetails": {
       "history": "Kalpeshwar is traditionally identified as the Panch Kedar manifestation of Shiva's jata.",
       "architecture": "Small cave-linked Himalayan shrine form.",
-      "visitorNotes": "Often combined with Urgam valley pilgrimage circuit visits.",
+      "visitorNotes": "Useful as an all-season pilgrimage anchor when upper Kedar routes are closed.",
       "sources": [
         {
           "label": "Kalpeshwar",
@@ -4448,27 +4858,27 @@ export const uttarakhandTemples = [
     }
   },
   {
-    "name": "Gopinath Temple (Gopeshwar - an ancient node featuring a massive, unmovable metallic trident)",
+    "name": "Gopeshwar (Gopinath Temple)",
     "state": "Uttarakhand",
     "city": "Gopeshwar",
     "region": "Gopeshwar, Chamoli district",
     "tags": [
       "Gopinath",
       "Gopeshwar",
-      "Trident"
+      "Ancient Trishul"
     ],
-    "story": "Gopinath Temple in Gopeshwar is an ancient Shiva node known for its large metallic trident tradition.",
-    "highlight": "Historic temple precinct with the famed giant trident feature.",
+    "story": "The Gopinath Temple at Gopeshwar is the key Chamoli urban Shiva anchor, known for its giant ancient trident traditionally described as a resilient, non-rusting sacred alloy marker.",
+    "highlight": "Primary Chamoli valley motherboard with a monumental trishul-antennic identity.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gopinath_Temple,_Gopeshwar,_District_Chamoli.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Gopinath_Temple,_Gopeshwar,_District_Chamoli.jpg",
     "deity": "Shiva (Gopinath)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-23T12:53:30+05:30",
-    "bestTime": "Year-round; post-monsoon and winter are popular.",
+    "bestTime": "Year-round; October to April is generally comfortable.",
     "timings": "Open daily.",
     "dressCode": "Modest attire recommended.",
-    "entryNotes": "Often combined with broader Chamoli Shaiva circuit visits.",
+    "entryNotes": "Central Gopeshwar node; commonly paired with wider Chamoli circuit travel.",
     "rituals": [
       "Daily puja",
       "Abhishekam"
@@ -4478,13 +4888,611 @@ export const uttarakhandTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Gopeshwar's Gopinath Temple is a major historical Shiva site in Chamoli district.",
-      "architecture": "Ancient Himalayan temple style with stone mandir form and associated sacred artifacts.",
-      "visitorNotes": "The trident is a key icon for pilgrims and heritage visitors.",
+      "history": "Gopinath at Gopeshwar has long functioned as a historic district-level Shiva center in Chamoli's pilgrimage map.",
+      "architecture": "Ancient Himalayan stone shrine profile with iconic trident artifact presence.",
+      "visitorNotes": "Allocate time for both the shrine and trishul viewing in the temple precinct.",
       "sources": [
         {
           "label": "Gopeshwar",
           "url": "https://en.wikipedia.org/wiki/Gopeshwar",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ardhanarishwar Temple (Joshimath)",
+    "state": "Uttarakhand",
+    "city": "Joshimath",
+    "region": "Chamoli district",
+    "tags": [
+      "Balance Logic",
+      "Shiva Shakti Fusion",
+      "Joshimath Junction"
+    ],
+    "story": "An Ardhanarishwar shrine in Joshimath positioned near key route transitions toward Badrinath and Hemkund, interpreted as a balancing Shiva-Shakti fusion point for the upper Alaknanda corridor.",
+    "highlight": "Junction stabilizer node for high-velocity pilgrimage flow in the Joshimath sector.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Ardhanarishwar (Shiva-Shakti)",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-02-25T21:45:00+05:30",
+    "bestTime": "April to June and September to November.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest and weather-appropriate attire recommended.",
+    "entryNotes": "Useful stop while transiting upper Chamoli pilgrimage routes.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Navratri-linked observances"
+    ],
+    "moreDetails": {
+      "history": "Joshimath preserves multiple Shaiva and Vaishnava lineages; Ardhanarishwar worship represents a local balance tradition.",
+      "architecture": "Regional Himalayan shrine form within a town-temple setting.",
+      "visitorNotes": "Check route advisories in winter and monsoon before travel.",
+      "sources": [
+        {
+          "label": "Joshimath",
+          "url": "https://en.wikipedia.org/wiki/Joshimath",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bhavishya Badri Shiva Markers",
+    "state": "Uttarakhand",
+    "city": "Subhain",
+    "region": "Near Bhavishya Badri, Chamoli district",
+    "tags": [
+      "Time Keeper",
+      "Sapta Badri Interface",
+      "Prophetic Node"
+    ],
+    "story": "Around the Bhavishya Badri sacred zone, Shiva-linked markers are treated as time-keeping stabilizers in a future-cycle Himalayan transition tradition.",
+    "highlight": "Prophetic-cycle Shaiva interface within the Bhavishya Badri mountain corridor.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (marker shrines)",
+    "tradition": "Shaiva/Vaishnava interface",
+    "addedAt": "2026-02-25T21:45:01+05:30",
+    "bestTime": "May to June and September to October.",
+    "timings": "Daylight access; local conditions vary.",
+    "dressCode": "Trekking-appropriate modest clothing.",
+    "entryNotes": "Access usually involves hill-route trekking from the Joshimath belt.",
+    "rituals": [
+      "Local offerings",
+      "Meditative darshan"
+    ],
+    "festivals": [],
+    "moreDetails": {
+      "history": "Bhavishya Badri appears in wider Badri pilgrimage traditions; associated Shaiva markers persist in local route practice.",
+      "architecture": "Small mountain shrine-marker typology.",
+      "visitorNotes": "Route guidance and weather checks are essential before attempting the trail.",
+      "sources": [
+        {
+          "label": "Panch Badri",
+          "url": "https://en.wikipedia.org/wiki/Panch_Badri",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nandaprayag Shiva Node",
+    "state": "Uttarakhand",
+    "city": "Nandaprayag",
+    "region": "Chamoli district",
+    "tags": [
+      "Hydro Sync",
+      "Alaknanda Nandakini",
+      "Confluence"
+    ],
+    "story": "A Shaiva confluence node at Nandaprayag where the Alaknanda and Nandakini rivers meet, carrying a kinetic cleansing identity in the upper Garhwal flow system.",
+    "highlight": "High-velocity prayag reset node before downstream valley transitions.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:45:02+05:30",
+    "bestTime": "October to April; monsoon visits require caution.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confluence-side access; follow local safety guidance near river edges.",
+    "rituals": [
+      "Jal offering",
+      "Confluence prayers"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan observances"
+    ],
+    "moreDetails": {
+      "history": "Nandaprayag is one of the traditional Himalayan confluence towns in the Alaknanda pilgrimage corridor.",
+      "architecture": "Confluence-side shrine pattern with local Garhwali adaptations.",
+      "visitorNotes": "Best combined with other Chamoli prayag and Joshimath-route visits.",
+      "sources": [
+        {
+          "label": "Nandaprayag",
+          "url": "https://en.wikipedia.org/wiki/Nandaprayag",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwar Mahadev (Uttarkashi Town)",
+    "state": "Uttarakhand",
+    "city": "Uttarkashi",
+    "region": "Uttarkashi district",
+    "tags": [
+      "Lunar Cooled",
+      "Urban Anchor",
+      "Bhagirathi Valley"
+    ],
+    "story": "A Someshwar Mahadev node in Uttarkashi town that provides a rhythmic stabilizing Shaiva baseline for day-to-day district worship.",
+    "highlight": "Gentle urban stabilizer balancing the high-intensity upper mountain circuits.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Someshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T22:10:00+05:30",
+    "bestTime": "Year-round.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Within the Uttarkashi town pilgrimage circuit.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained as part of Uttarkashi's town-level Shaiva continuity alongside major Vishwanath worship.",
+      "architecture": "Regional town-temple style.",
+      "visitorNotes": "Usually visited as a complementary stop to Kashi Vishwanath (Uttarkashi).",
+      "sources": [
+        {
+          "label": "Uttarkashi",
+          "url": "https://en.wikipedia.org/wiki/Uttarkashi",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Markandeya Rishi Shiva Node",
+    "state": "Uttarakhand",
+    "city": "Uttarkashi",
+    "region": "Uttarkashi district",
+    "tags": [
+      "Resilience Anchor",
+      "Rishi Tradition",
+      "Longevity"
+    ],
+    "story": "A quiet valley-linked Shiva node associated with Markandeya rishi traditions and contemplative yogic practice in the Uttarkashi sector.",
+    "highlight": "Silent longevity-oriented transmitter in the inner valley practice network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Markandeya-linked shrine)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T22:10:01+05:30",
+    "bestTime": "April to June and September to November.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Local route guidance may be needed for exact shrine access.",
+    "rituals": [
+      "Meditative japa",
+      "Daily offerings"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Connected in local interpretation to sage-Markandeya themes of resilience and time-mastery.",
+      "architecture": "Small regional shrine profile.",
+      "visitorNotes": "Preferred for quieter visits away from peak pilgrimage flow.",
+      "sources": [
+        {
+          "label": "Uttarkashi district",
+          "url": "https://en.wikipedia.org/wiki/Uttarkashi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Lakheshwar Mahadev",
+    "state": "Uttarakhand",
+    "city": "Uttarkashi",
+    "region": "Southern Uttarkashi sub-grid",
+    "tags": [
+      "Legacy Processor",
+      "Pandava Tradition",
+      "Deep Time"
+    ],
+    "story": "Lakheshwar Mahadev is preserved in local legacy narratives as an old warrior-era Shiva node that anchors southern Uttarkashi's grounded devotional belt.",
+    "highlight": "Earth-shielded legacy node carrying Mahabharata-linked memory currents.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Lakheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T22:10:02+05:30",
+    "bestTime": "Year-round.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Best visited with local guidance for exact approach roads.",
+    "rituals": [
+      "Daily puja",
+      "Rudrabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Held in local oral tradition as an older Uttarkashi Shaiva point with epic-era associations.",
+      "architecture": "Simple Himalayan stone-shrine pattern.",
+      "visitorNotes": "Rural road and seasonal access checks are advised.",
+      "sources": [
+        {
+          "label": "Uttarkashi district",
+          "url": "https://en.wikipedia.org/wiki/Uttarkashi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Yamunotri Shiva Markers",
+    "state": "Uttarakhand",
+    "city": "Yamunotri",
+    "region": "Uttarkashi district",
+    "tags": [
+      "Western Sentinel",
+      "Thermal Kinetic",
+      "Source Zone"
+    ],
+    "story": "Shiva markers in the Yamunotri source corridor serve as sentinel nodes at the western edge of Uttarkashi, shaped by both glacial flow and nearby geothermal spring dynamics.",
+    "highlight": "Warm-cold source-loop nodes interfacing river origin and thermal spring fields.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (source-corridor markers)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T22:10:03+05:30",
+    "bestTime": "May to October (seasonal access window).",
+    "timings": "Seasonal route access; local timings vary.",
+    "dressCode": "Trekking-suitable modest clothing.",
+    "entryNotes": "Route conditions depend on weather and seasonal opening schedules.",
+    "rituals": [
+      "Source prayers",
+      "Jal and thermal-kund offerings"
+    ],
+    "festivals": [
+      "Yamunotri opening season",
+      "Shravan observances"
+    ],
+    "moreDetails": {
+      "history": "Part of broader Yamunotri source-pilgrimage practice with integrated Shaiva observances.",
+      "architecture": "Small route-side shrine-marker typology in a high-altitude environment.",
+      "visitorNotes": "Coordinate with official Yamunotri route advisories before travel.",
+      "sources": [
+        {
+          "label": "Yamunotri",
+          "url": "https://en.wikipedia.org/wiki/Yamunotri",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Santala Devi Complex Shiva Node",
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "region": "Dehradun district",
+    "tags": [
+      "Sentinel Node",
+      "Hilltop Shiva Shakti",
+      "Nun River Belt"
+    ],
+    "story": "In the Santala Devi hill complex, Shiva markers function as elevated Pashupata stabilizers for the northern Dehradun zone.",
+    "highlight": "High-altitude signal booster and firewall node above the city basin.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (complex-integrated shrine markers)",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-02-25T22:35:00+05:30",
+    "bestTime": "October to April; clear-weather mornings preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest and trekking-suitable attire recommended.",
+    "entryNotes": "Hill approach route; verify local trail and weather conditions.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Navratri-linked observances"
+    ],
+    "moreDetails": {
+      "history": "Part of a larger hill-shrine worship tradition where Shiva and Shakti observances coexist.",
+      "architecture": "Hilltop complex layout with smaller integrated shrine points.",
+      "visitorNotes": "Prefer daytime visits and local route confirmation before ascent.",
+      "sources": [
+        {
+          "label": "Dehradun district",
+          "url": "https://en.wikipedia.org/wiki/Dehradun_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Prithvi Nath Mahadev",
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "region": "Saharanpur Road corridor, Dehradun district",
+    "tags": [
+      "Urban Grounding Rod",
+      "Earth Core",
+      "Transport Corridor"
+    ],
+    "story": "Prithvi Nath Mahadev is regarded as one of Dehradun's older urban Shiva anchors, associated with a deep grounding frequency in the city's high-traffic belt.",
+    "highlight": "Historic earth-core stabilizer for central commercial and transit sectors.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Prithvi Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T22:35:01+05:30",
+    "bestTime": "Year-round.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Located in the Dehradun urban road network; best visited off peak hours.",
+    "rituals": [
+      "Daily puja",
+      "Rudrabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Known in city-level devotional circuits as a longstanding Shiva site in the Dehradun plain-hill interface.",
+      "architecture": "Urban mandir structure with regional North Indian shrine elements.",
+      "visitorNotes": "Traffic around approach roads can be heavy during peak city hours.",
+      "sources": [
+        {
+          "label": "Dehradun",
+          "url": "https://en.wikipedia.org/wiki/Dehradun",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dat Kali Temple Shiva Shrines",
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "region": "Shivalik gateway, Dehradun district",
+    "tags": [
+      "Inbound Filter",
+      "Gateway Node",
+      "Shivalik Entrance"
+    ],
+    "story": "At the Dat Kali gateway corridor into the Doon Valley, associated Shiva shrines function as filter nodes for incoming pilgrimage flow from the plains.",
+    "highlight": "Entry-gate cleansing and stabilization node at the valley threshold.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (gateway-linked shrines)",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-02-25T22:35:02+05:30",
+    "bestTime": "Year-round; morning and evening windows are common.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Located near the valley entrance route; road traffic can be dense.",
+    "rituals": [
+      "Daily offerings",
+      "Travel-blessing prayers"
+    ],
+    "festivals": [
+      "Navratri",
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Gateway worship in this corridor combines strong Kali devotion with complementary Shiva presence.",
+      "architecture": "Roadside hill-foot complex with attached shrine markers.",
+      "visitorNotes": "Use designated parking and caution near highway movement.",
+      "sources": [
+        {
+          "label": "Dehradun district",
+          "url": "https://en.wikipedia.org/wiki/Dehradun_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Virbhadra Temple",
+    "state": "Uttarakhand",
+    "city": "Rishikesh",
+    "region": "Rishikesh corridor (Dehradun-Tehri-Pauri interface)",
+    "tags": [
+      "Fierce Energy",
+      "Protective Guardian",
+      "South Corridor"
+    ],
+    "story": "In the Virbhadra sector of greater Rishikesh, this Shiva node carries the protective fierce-form current associated with Virabhadra traditions.",
+    "highlight": "Southern guardian node for the Rishikesh-Haridwar flow axis.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Virabhadra-linked shrine)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T23:05:00+05:30",
+    "bestTime": "Year-round.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Urban-route accessible in the Virbhadra-Rishikesh belt.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva practice as a fierce-energy protective node in the lower Rishikesh approach zone.",
+      "architecture": "Regional urban-temple format.",
+      "visitorNotes": "Commonly visited with nearby Rishikesh ghat and temple circuits.",
+      "sources": [
+        {
+          "label": "Rishikesh",
+          "url": "https://en.wikipedia.org/wiki/Rishikesh",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwar Mahadev (Triveni Ghat)",
+    "state": "Uttarakhand",
+    "city": "Rishikesh",
+    "region": "Triveni Ghat, Rishikesh",
+    "tags": [
+      "River Sync",
+      "Triveni",
+      "Data Cleansing"
+    ],
+    "story": "A Someshwar Mahadev anchor at Triveni Ghat where the Ganga flow and Triveni confluence tradition support continuous cleansing-oriented ritual practice.",
+    "highlight": "Primary river-refresh and pre-aarti cleansing node in the Rishikesh city grid.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Someshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T23:05:01+05:30",
+    "bestTime": "Year-round; sunrise and pre-evening-aarti windows are common.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest ghat/temple attire recommended.",
+    "entryNotes": "Located in the Triveni Ghat belt; crowd density rises near evening aarti.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti-linked prayers"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Tied to Triveni Ghat's confluence-based ritual landscape in Rishikesh.",
+      "architecture": "Ghat-adjacent shrine typology within dense urban pilgrimage movement.",
+      "visitorNotes": "Best visited with coordinated ghat timing and local crowd flow awareness.",
+      "sources": [
+        {
+          "label": "Triveni Ghat",
+          "url": "https://en.wikipedia.org/wiki/Triveni_Ghat",
+          "type": "Location reference"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bhootnath Temple",
+    "state": "Uttarakhand",
+    "city": "Rishikesh",
+    "region": "Swarg Ashram hill belt, Rishikesh",
+    "tags": [
+      "Multi Level Sentinel",
+      "Signal Repeater",
+      "Swarg Ashram"
+    ],
+    "story": "A multi-storey Shiva temple behind Swarg Ashram that operates as an elevated distribution node between hill energy and the ashram-meditation corridor.",
+    "highlight": "Hilltop repeater node linking mountain current with riverfront ashram zones.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Bhootnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T23:05:02+05:30",
+    "bestTime": "Year-round; mornings and clear-weather days preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Hill climb from the Swarg Ashram side routes.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Long-standing Rishikesh temple presence connected to the Swarg Ashram devotional ecosystem.",
+      "architecture": "Multi-level temple structure designed for stepped hill-terrace access.",
+      "visitorNotes": "Good viewpoint zone; combine with nearby ashram sector visits.",
+      "sources": [
+        {
+          "label": "Rishikesh",
+          "url": "https://en.wikipedia.org/wiki/Rishikesh",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chandreshwar Mahadev",
+    "state": "Uttarakhand",
+    "city": "Rishikesh",
+    "region": "Central Rishikesh",
+    "tags": [
+      "Lunar Logic",
+      "Rhythm Telemetry",
+      "Urban Meditative"
+    ],
+    "story": "A central Rishikesh Shiva node associated with lunar-cycle aligned worship and steady meditative rhythm for the yoga-practice community.",
+    "highlight": "City-core lunar-cycle stabilizer for the Rishikesh practice network.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Chandreshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T23:05:03+05:30",
+    "bestTime": "Year-round.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Accessible from core city lanes in the Rishikesh municipal area.",
+    "rituals": [
+      "Daily puja",
+      "Somvar observances"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local town-level worship circuits with strong Monday and lunar-tithi observance patterns.",
+      "architecture": "Compact urban shrine format.",
+      "visitorNotes": "Good for short darshan during central-city temple rounds.",
+      "sources": [
+        {
+          "label": "Rishikesh",
+          "url": "https://en.wikipedia.org/wiki/Rishikesh",
           "type": "Encyclopedia"
         }
       ]

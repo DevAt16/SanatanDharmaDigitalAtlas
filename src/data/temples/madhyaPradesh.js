@@ -295,14 +295,14 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-22T13:34:37Z"
   },
   {
-    "name": "Shri Mamleshwar Jyotirlinga (Amreshwar)",
+    "name": "Shri Mamleshwar Temple (Amreshwar)",
     "state": "Madhya Pradesh",
     "city": "Omkareshwar",
     "region": "Southern Bank, Narmada River",
     "tags": [
-      "Jyotirlinga",
       "Narmada",
-      "Omkareshwar"
+      "Omkareshwar",
+      "Jyotirlinga Claim"
     ],
     "story": "The southern-bank shrine paired with Omkareshwar for jyotirlinga darshan.",
     "highlight": "Riverside darshan and the twin-shrine circuit.",
@@ -358,17 +358,17 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-22T13:34:37Z"
   },
   {
-    "name": "Bhojeshwar Mahadev Temple",
+    "name": "Bhojpur Temple (Bhojeshwar Mahadev)",
     "state": "Madhya Pradesh",
     "city": "Bhojpur",
     "region": "Raisen District",
     "tags": [
-      "Paramara",
-      "Unfinished",
-      "Shiva Linga"
+      "High Voltage Motherboard",
+      "Unfinished Circuit",
+      "Monolithic Linga"
     ],
-    "story": "An unfinished 11th-century Shiva temple famed for its giant lingam.",
-    "highlight": "Massive monolithic lingam and unfinished stonework.",
+    "story": "Commissioned in the age of King Bhoja, this monumental yet unfinished temple enshrines one of India's largest monolithic Shivalingas and preserves an unusually raw open-circuit architectural energy.",
+    "highlight": "A towering vertical Shiva transmitter centered on a colossal single-stone lingam.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhojeshwar%20Temple,%20Bhojpur.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhojeshwar_Temple,_Bhojpur.jpg",
@@ -4799,58 +4799,6 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-23T10:00:00Z"
   },
   {
-    "name": "Shri Mahakaleshwar Jyotirlinga",
-    "state": "Madhya Pradesh",
-    "city": "Ujjain",
-    "region": "Ujjain city, Ujjain district",
-    "tags": [
-      "Ujjain",
-      "Jyotirlinga",
-      "Mahakaleshwar"
-    ],
-    "story": "Shri Mahakaleshwar Jyotirlinga is a Shiva temple in Ujjain's sacred Shaiva landscape.",
-    "highlight": "Ujjain-based Shiva worship with regular abhishek rituals.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahakaleshwar%20Temple,%20Ujjain.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Mahakaleshwar_Temple,_Ujjain.jpg",
-    "isNew": true,
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-23T20:50:20+05:30",
-    "bestTime": "Mahashivratri and Shravan month.",
-    "timings": "Open daily; local timings vary.",
-    "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Verify local darshan timings and route details before visit.",
-    "rituals": [
-      "Daily puja",
-      "Jal abhishek"
-    ],
-    "festivals": [
-      "Mahashivratri",
-      "Shravan Somvar"
-    ],
-    "moreDetails": {
-      "history": "Listed as a Shiva temple in Ujjain city, Ujjain district.",
-      "architecture": "Traditional neighborhood temple architecture.",
-      "visitorNotes": "Morning and evening darshan are generally preferred.",
-      "sources": [
-        {
-          "label": "Ujjain district",
-          "url": "https://en.wikipedia.org/wiki/Ujjain_district",
-          "type": "District reference"
-        },
-        {
-          "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Shri%20Mahakaleshwar%20Jyotirlinga%20Ujjain%20Ujjain",
-          "type": "Map search"
-        }
-      ]
-    },
-    "district": "Ujjain",
-    "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-23T11:05:00Z"
-  },
-  {
     "name": "Shree Chandradityeshwar Mahadev",
     "state": "Madhya Pradesh",
     "city": "Ujjain",
@@ -8300,7 +8248,7 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-23T04:15:00Z"
   },
   {
-    "name": "Shiv Mandir (Raisen Fort)",
+    "name": "Raisen Fort Shiva Temple",
     "state": "Madhya Pradesh",
     "city": "Raisen",
     "region": "Raisen Fort, Raisen district",
@@ -8309,8 +8257,8 @@ export const madhyaPradeshTemples = [
       "Raisen Fort",
       "Shaiva"
     ],
-    "story": "Shiv Mandir at Raisen Fort is a Shiva shrine in the historic fort complex of Raisen.",
-    "highlight": "Fort-top Shiva darshan in the Raisen hill-fort setting.",
+    "story": "Perched atop Raisen Fort, this Shiva shrine functions as a sentinel highland node in the district's fort-and-plain sacred matrix.",
+    "highlight": "Invincible fort-height Shiva marker overlooking the Betwa-region plains.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiv%20Mandir%20Raisen%20Fort%20(2).jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Shiv_Mandir_Raisen_Fort_(2).jpg",
@@ -8352,17 +8300,17 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-23T04:15:10Z"
   },
   {
-    "name": "Someshwar Mahadev Temple",
+    "name": "Someshwar Dham (Sanchi-adjacent)",
     "state": "Madhya Pradesh",
-    "city": "Raisen",
-    "region": "Raisen district",
+    "city": "Near Sanchi (Raisen side)",
+    "region": "Sanchi-adjacent knowledge corridor, Raisen district",
     "tags": [
       "Raisen",
       "Someshwar",
-      "Mahadev"
+      "Knowledge Interface"
     ],
-    "story": "Someshwar Mahadev Temple is a Shiva temple in the Raisen district devotional network.",
-    "highlight": "Someshwar-form Shiva worship in Raisen.",
+    "story": "Someshwar Dham serves as a Shaiva stabilizing node in the Sanchi-adjacent landscape, balancing contemplative heritage zones with active transformation-centered worship.",
+    "highlight": "Knowledge-interface Shiva node in the Sanchi-Raisen sacred belt.",
     "image": "/temples/temple-05.svg",
     "credit": "",
     "creditUrl": "/temples/temple-05.svg",
@@ -8383,7 +8331,7 @@ export const madhyaPradeshTemples = [
       "Shravan Somvar"
     ],
     "moreDetails": {
-      "history": "Maintained as a Shiva temple in local Raisen-area worship tradition.",
+      "history": "Maintained as a Shiva temple in local Raisen-area worship tradition near the Sanchi cultural zone.",
       "architecture": "Regional shrine profile with active sanctum rituals.",
       "visitorNotes": "Morning visits are generally less crowded.",
       "sources": [
@@ -8402,6 +8350,109 @@ export const madhyaPradeshTemples = [
     "district": "Raisen",
     "verificationStatus": "verified",
     "lastVerifiedAt": "2026-02-23T04:15:20Z"
+  },
+  {
+    "name": "Bhimbetka Pre-Sutra Shrines",
+    "state": "Madhya Pradesh",
+    "city": "Bhimbetka",
+    "district": "Raisen",
+    "region": "Bhimbetka rock shelters, Raisen district",
+    "tags": [
+      "Raisen",
+      "Bhimbetka",
+      "Primordial Shiva"
+    ],
+    "story": "Within the Bhimbetka rock-shelter landscape, natural stone forms and early sacred markers are locally read as primordial Shiva expressions in a deep-time pre-classical ritual environment.",
+    "highlight": "Sub-acoustic pre-historic sacred memory node in the Bhimbetka shelter zone.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "isNew": true,
+    "deity": "Shiva (primordial marker forms)",
+    "tradition": "Shaiva/Pre-classical sacred landscape",
+    "addedAt": "2026-02-25T20:05:00+05:30",
+    "bestTime": "Morning and cooler daylight hours.",
+    "timings": "Open daily; ASI/site timings vary.",
+    "dressCode": "Modest attire recommended for sacred site visits.",
+    "entryNotes": "Treat as a sacred-heritage landscape entry; follow protected-site rules.",
+    "rituals": [
+      "Darshan",
+      "Meditative observation"
+    ],
+    "festivals": [
+      "Mahashivratri (regional observance)"
+    ],
+    "moreDetails": {
+      "history": "Bhimbetka preserves one of the oldest known human cultural landscapes in central India, with layered sacred interpretations over time.",
+      "architecture": "Natural rock shelters with symbolic sacred reading in later traditions.",
+      "visitorNotes": "Respect archaeology restrictions and avoid touching protected surfaces.",
+      "sources": [
+        {
+          "label": "Bhimbetka Rock Shelters",
+          "url": "https://en.wikipedia.org/wiki/Bhimbetka_rock_shelters",
+          "type": "Heritage reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhimbetka%20Raisen",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T14:35:00Z"
+  },
+  {
+    "name": "Betwa Riverbank Nodes",
+    "state": "Madhya Pradesh",
+    "city": "Betwa border belt (Raisen-Vidisha)",
+    "district": "Raisen",
+    "region": "Betwa riverbank transition zone near Vidisha border",
+    "tags": [
+      "Raisen",
+      "Betwa",
+      "Liquid Cooling"
+    ],
+    "story": "A cluster entry for Shiva shrines along the Betwa-side transition belt near Raisen-Vidisha routes, where river-flow rituals provide a cooling counterbalance to plateau heat.",
+    "highlight": "River-linked heat-sink Shaiva nodes in the Betwa border corridor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "isNew": true,
+    "deity": "Shiva (riverbank shrine cluster)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:05:01+05:30",
+    "bestTime": "Morning and post-monsoon months.",
+    "timings": "Open daily; individual shrine timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Cluster entry; verify exact shrine coordinates locally.",
+    "rituals": [
+      "Jal abhishek",
+      "Riverbank darshan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Betwa-side Shaiva worship persists through distributed local shrine networks near district edges.",
+      "architecture": "Mixed small-shrine riverbank architecture.",
+      "visitorNotes": "Check seasonal river conditions before travel.",
+      "sources": [
+        {
+          "label": "Raisen district",
+          "url": "https://en.wikipedia.org/wiki/Raisen_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Betwa%20Raisen%20Shiva%20Temple",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T14:35:00Z"
   },
   {
     "name": "Madagan Shiv Temple",
@@ -9600,14 +9651,15 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-23T04:20:00Z"
   },
   {
-    "name": "Ardhanarishwar Jyotirlinga (Mohgaon Haveli)",
+    "name": "Ardhanarishwar Temple (Mohgaon Haveli)",
     "state": "Madhya Pradesh",
     "city": "Mohgaon Haveli",
     "region": "Mohgaon Haveli, Chhindwara district",
     "tags": [
       "Chhindwara",
       "Mohgaon Haveli",
-      "Ardhanarishwar"
+      "Ardhanarishwar",
+      "Jyotirlinga Claim"
     ],
     "story": "Ardhanarishwar Jyotirlinga at Mohgaon Haveli is a rare Shiva shrine associated with a naturally two-toned linga symbolizing Shiva and Parvati.",
     "highlight": "Two-toned linga tradition linked to Ardhanarishwar symbolism in a Parmar-era setting.",
@@ -10846,6 +10898,266 @@ export const madhyaPradeshTemples = [
     "verificationStatus": "verified",
     "lastVerifiedAt": "2026-02-24T06:18:58Z",
     "addedAt": "2026-02-24T11:49:07+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Khilchipur Shiva Temple",
+    "state": "Madhya Pradesh",
+    "city": "Khilchipur (Mandsaur)",
+    "district": "Mandsaur",
+    "region": "Khilchipur heritage precinct, Mandsaur district",
+    "tags": [
+      "Mandsaur",
+      "Khilchipur",
+      "Fortress Anchor"
+    ],
+    "story": "Khilchipur Shiva Temple is preserved in local tradition as a heritage-linked Shiva node connected to older fortified settlement memory in the Mandsaur belt.",
+    "highlight": "Historic-regal Shaiva anchor associated with old Khilchipur precinct traditions.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Local guidance is useful for exact heritage-zone approach routes.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Associated in local narratives with older Aulikara-era memory zones of the district.",
+      "architecture": "Regional stone-shrine profile with heritage-style detailing.",
+      "visitorNotes": "Prefer daylight visits for easier heritage-area navigation.",
+      "sources": [
+        {
+          "label": "Mandsaur district",
+          "url": "https://en.wikipedia.org/wiki/Mandsaur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Khilchipur%20Shiva%20Temple%20Mandsaur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T14:25:00Z",
+    "addedAt": "2026-02-25T19:55:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Mukundwara Shiva Node",
+    "state": "Madhya Pradesh",
+    "city": "Mukundwara",
+    "district": "Mandsaur",
+    "region": "Mukundwara valley-pass zone, Mandsaur district",
+    "tags": [
+      "Mandsaur",
+      "Mukundwara",
+      "Pass Sentinel"
+    ],
+    "story": "Mukundwara Shiva Node is remembered as a protective pass-side shrine in the southern valley transition routes connected with Mandsaur district.",
+    "highlight": "Protective-vigilant Shaiva marker for pass and border-route movement.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and cooler evening hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Check valley-route conditions before travel during monsoon.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local practice as a sentinel-type Shiva shrine on pass-linked routes.",
+      "architecture": "Regional mandir form adapted to valley terrain.",
+      "visitorNotes": "Use local route guidance for the most reliable access path.",
+      "sources": [
+        {
+          "label": "Mandsaur district",
+          "url": "https://en.wikipedia.org/wiki/Mandsaur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mukundwara%20Shiva%20Mandsaur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T14:25:00Z",
+    "addedAt": "2026-02-25T19:55:01+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Afzalpur Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Afzalpur",
+    "district": "Mandsaur",
+    "region": "Afzalpur rural-agricultural belt, Mandsaur district",
+    "tags": [
+      "Mandsaur",
+      "Afzalpur",
+      "Soil Sync"
+    ],
+    "story": "Afzalpur Mahadev is a rural Shiva anchor in the agricultural heartland of Mandsaur, upheld through ongoing village-led worship traditions.",
+    "highlight": "Steady agricultural-belt Mahadev node with strong rural continuity.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and post-harvest festival periods.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Village roads may vary by season; local confirmation helps.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Preserved as a weathered local Mahadev shrine linked to farming communities.",
+      "architecture": "Rural shrine layout with active community maintenance.",
+      "visitorNotes": "Most accessible during daytime outside heavy monsoon spells.",
+      "sources": [
+        {
+          "label": "Mandsaur district",
+          "url": "https://en.wikipedia.org/wiki/Mandsaur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Afzalpur%20Mahadev%20Mandsaur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T14:25:00Z",
+    "addedAt": "2026-02-25T19:55:02+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Nandawata Mahadev",
+    "state": "Madhya Pradesh",
+    "city": "Nandawata",
+    "district": "Mandsaur",
+    "region": "Nandawata tributary-side rural zone, Mandsaur district",
+    "tags": [
+      "Mandsaur",
+      "Nandawata",
+      "Hydro Cooled"
+    ],
+    "story": "Nandawata Mahadev is a tributary-side rural Shiva shrine in Mandsaur, known for water-linked ritual continuity and stable community worship cycles.",
+    "highlight": "Cool and stable water-table-associated Mahadev node in rural Mandsaur.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and cooler evening periods.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Check local water-level and access conditions in monsoon.",
+    "rituals": [
+      "Continuous jal offerings",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Sustained as a hydro-linked local Shiva shrine in the district's rural ritual network.",
+      "architecture": "Regional small-temple profile near water-influenced terrain.",
+      "visitorNotes": "Daylight visits are generally easiest for local approach routes.",
+      "sources": [
+        {
+          "label": "Mandsaur district",
+          "url": "https://en.wikipedia.org/wiki/Mandsaur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nandawata%20Mahadev%20Mandsaur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T14:25:00Z",
+    "addedAt": "2026-02-25T19:55:03+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bahi Parshwanath Shiva Markers",
+    "state": "Madhya Pradesh",
+    "city": "Bahi",
+    "district": "Mandsaur",
+    "region": "Bahi inter-faith temple periphery, Mandsaur district",
+    "tags": [
+      "Mandsaur",
+      "Bahi",
+      "Inter Faith Sync"
+    ],
+    "story": "At the Bahi sacred complex, peripheral Shiva markers coexist with the better-known Parshwanath tirth network, forming an inter-faith co-presence node in district tradition.",
+    "highlight": "Periphery Shiva markers in a Jain-dominant sacred landscape with shared heritage continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (periphery shrines)",
+    "tradition": "Shaiva/Jain interface",
+    "bestTime": "Morning darshan and festival seasons.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Respect both Jain and Shaiva worship protocols at the shared sacred zone.",
+    "rituals": [
+      "Periphery Shiva puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Local annual fairs"
+    ],
+    "moreDetails": {
+      "history": "Known as a mixed-heritage sacred zone where multiple traditions co-exist over the same historical landscape.",
+      "architecture": "Peripheral small-shrine forms around a larger tirth environment.",
+      "visitorNotes": "Follow local guidance to identify active Shiva periphery markers.",
+      "sources": [
+        {
+          "label": "Mandsaur district",
+          "url": "https://en.wikipedia.org/wiki/Mandsaur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bahi%20Parshwanath%20Mandsaur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-25T14:25:00Z",
+    "addedAt": "2026-02-25T19:55:04+05:30",
     "isNew": true
   },
   {
