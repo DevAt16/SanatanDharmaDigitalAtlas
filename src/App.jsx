@@ -60,26 +60,22 @@ const normalizeTempleKey = (value) =>
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '')
 
-const CANONICAL_JYOTIRLINGA_KEYS = new Set(
-  [
-    ['Somnath Temple', 'Gujarat', 'Prabhas Patan'],
-    ['Mallikarjuna Swamy Temple', 'Andhra Pradesh', 'Srisailam'],
-    ['Mahakaleshwar Temple', 'Madhya Pradesh', 'Ujjain'],
-    ['Omkareshwar Temple', 'Madhya Pradesh', 'Omkareshwar'],
-    ['Kedarnath Temple', 'Uttarakhand', 'Kedarnath'],
-    ['Bhimashankar Temple', 'Maharashtra', 'Bhimashankar'],
-    ['Kashi Vishwanath Temple', 'Uttar Pradesh', 'Varanasi'],
-    ['Shri Kashi Vishwanath Jyotirlinga', 'Uttar Pradesh', 'Varanasi'],
-    ['Trimbakeshwar Shiva Temple', 'Maharashtra', 'Trimbak'],
-    ['Baidyanath Jyotirlinga', 'Jharkhand', 'Deoghar'],
-    ['Nageshvara Jyotirlinga', 'Gujarat', 'Dwarka'],
-    ['Ramanathaswamy Temple', 'Tamil Nadu', 'Rameswaram'],
-    ['Grishneshwar Temple', 'Maharashtra', 'Verul'],
-  ].map(
-    ([name, state, city]) =>
-      `${normalizeTempleKey(name)}|${normalizeTempleKey(state)}|${normalizeTempleKey(city)}`
-  )
-)
+// 12 canonical Jyotirlinga locations — match by tag + state/city instead of name
+// because JS data files use different temple name formats than the API data store
+const CANONICAL_JYOTIRLINGA_LOCATIONS = new Set([
+  'gujarat|prabhaspatan',       // Somnath
+  'andhrapradesh|srisailam',    // Mallikarjuna
+  'madhyapradesh|ujjain',       // Mahakaleshwar
+  'madhyapradesh|omkareshwar',  // Omkareshwar
+  'uttarakhand|kedarnath',      // Kedarnath
+  'maharashtra|bhimashankar',   // Bhimashankar
+  'uttarpradesh|varanasi',      // Kashi Vishwanath
+  'maharashtra|trimbak',        // Trimbakeshwar
+  'jharkhand|deoghar',          // Baidyanath
+  'gujarat|dwarka',             // Nageshvara
+  'tamilnadu|rameswaram',       // Ramanathaswamy
+  'maharashtra|verul',          // Grishneshwar
+])
 const PAGE_TRACKING_PATHS = {
   temples: '/temples',
   recent: '/recent-discoveries',
@@ -91,7 +87,7 @@ const PAGE_TRACKING_TITLES = {
   temples: 'Temples',
   recent: 'Recent Discoveries',
   circuits: 'Circuits',
-  map: 'Map',
+  map: 'Regions',
   about: 'About',
 }
 const DEFAULT_PAGE = 'temples'
@@ -181,7 +177,7 @@ const copy = {
       temples: 'Temples',
       recent: 'Recent Discoveries',
       circuits: 'Circuits',
-      map: 'Map',
+      map: 'Regions',
       about: 'About',
     },
     stats: {
@@ -231,7 +227,7 @@ const copy = {
         {
           title: 'Krishna Leela Circuit',
           description:
-            'Sacred places that keep Krishna’s leelas alive through daily worship and festival lore.',
+            'Sacred places that keep Krishnas leelas alive through daily worship and festival lore.',
           action: 'Explore Krishna trail',
           tag: 'Vaishnava focus',
         },
@@ -300,24 +296,25 @@ const copy = {
       ],
     },
     aboutSection: {
-      eyebrow: 'About Us',
-      title: 'Jai Bhole Nath is a living archive of sacred geography.',
+      eyebrow: "Our Story",
       subtitle:
-        'We curate temple stories so seekers can explore India’s spiritual landscape with clarity and respect.',
+        "A devotee-built atlas of India's sacred landscape — Shiva, living traditions, and pilgrimage routes, all in one place.",
       cards: [
         {
-          title: 'Our intent',
-          body: 'Build a respectful portal that keeps temple lore, ritual rhythm, and regional context alive.',
+          title: "Why we built this",
+          body: "India's temple culture is vast, oral, and often underdocumented. This started as a personal pilgrimage notebook and grew into a shared archive — built with reverence, not commerce.",
         },
         {
-          title: 'What we curate',
-          body: 'Temple stories, key rituals, best visit windows, and verified imagery sourced from public archives.',
+          title: "What's inside",
+          body: "Histories, key rituals, festival calendars, best visit windows, and sourced imagery — across Jyotirlingas, and regional pilgrimage circuits."
         },
         {
-          title: 'How to use it',
-          body: 'Choose a state, read a story, and plan your visit with cultural sensitivity and local traditions in mind.',
+          title: "Help us grow",
+          body: "Every entry is a work in progress. If you know a temple we've missed, spot an error, or have a first-hand account to share — write to us.",
         },
       ],
+      feedbackPrompt: "Know a temple we've missed or spotted an inaccuracy?",
+      feedbackCta: "Write to us",
     },
     disclaimerSection: {
       title: 'Disclaimer',
@@ -376,6 +373,7 @@ const copy = {
     circuitsProgress: (done, total) => `${done} of ${total}`,
     mapTitle: 'Explore by Region',
     mapSubtitle: 'Browse sacred temples across India by geography.',
+    mapEmpty: 'No temples in this region for the current mode.',
     templeCount: (n) => `${n} temple${n === 1 ? '' : 's'}`,
     cal: {
       todayLabel: 'Today',
@@ -402,6 +400,10 @@ const copy = {
       label: 'Language',
       en: 'English',
       hi: 'हिंदी',
+    },
+    footer: {
+      tagline: 'Har Har Mahadev',
+      feedback: 'Feedback',
     },
   },
   hi: {
@@ -437,7 +439,7 @@ const copy = {
       temples: 'मंदिर',
       recent: 'हाल की खोजें',
       circuits: 'यात्राएं',
-      map: 'मानचित्र',
+      map: 'क्षेत्र',
       about: 'परिचय',
     },
     stats: {
@@ -553,24 +555,25 @@ const copy = {
       ],
     },
     aboutSection: {
-      eyebrow: 'परिचय',
-      title: 'जय भोलेनाथ भारत की पवित्र भूगोल यात्रा का जीवंत संग्रह है।',
+      eyebrow: 'हमारी कहानी',
       subtitle:
-        'हम मंदिर कथाएँ, परंपराएँ और यात्रा मार्ग सावधानी से संकलित करते हैं ताकि साधक सम्मान और स्पष्टता के साथ खोज कर सकें।',
+        'भारत के पवित्र तीर्थों का एक श्रद्धालु-निर्मित एटलस — शिव और शक्ति मंदिर, जीवित परंपराएँ और तीर्थयात्रा मार्ग, एक ही जगह।',
       cards: [
         {
-          title: 'हमारा उद्देश्य',
-          body: 'एक सम्मानजनक, गैर-व्यावसायिक पोर्टल बनाना जो मंदिर की कथा, अनुष्ठान और स्थानीय संदर्भ को जीवित रखे।',
+          title: 'हमने यह क्यों बनाया',
+          body: 'भारत की मंदिर संस्कृति विशाल, मौखिक और अक्सर अनदर्ज है। यह एक व्यक्तिगत तीर्थ-डायरी के रूप में शुरू हुआ और एक साझा संग्रह बन गया — श्रद्धा से, व्यापार से नहीं।',
         },
         {
-          title: 'हम क्या चुनते हैं',
-          body: 'मंदिर कथाएँ, प्रमुख अनुष्ठान, सर्वोत्तम समय और सार्वजनिक अभिलेखों से सत्यापित चित्र।',
+          title: 'यहाँ क्या है',
+          body: 'सत्यापित इतिहास, प्रमुख अनुष्ठान, त्योहार कैलेंडर, श्रेष्ठ दर्शन समय और स्रोत-सहित चित्र — ज्योतिर्लिंग, शक्ति पीठ और तीर्थयात्रा परिपथों सहित।',
         },
         {
-          title: 'इसे कैसे उपयोग करें',
-          body: 'राज्य चुनें, कथा पढ़ें और स्थानीय परंपराओं के साथ अपनी यात्रा का सम्मानपूर्वक नियोजन करें।',
+          title: 'हमारी मदद करें',
+          body: 'प्रत्येक प्रविष्टि निरंतर सुधरती रहती है। यदि आप कोई मंदिर जानते हैं जो यहाँ नहीं है, कोई त्रुटि देखें, या कोई अनुभव साझा करना चाहते हैं — हमें लिखें।',
         },
       ],
+      feedbackPrompt: 'कोई मंदिर छूट गया या कोई गलती दिखी?',
+      feedbackCta: 'हमें लिखें',
     },
     disclaimerSection: {
       title: 'अस्वीकरण',
@@ -629,6 +632,7 @@ const copy = {
     circuitsProgress: (done, total) => `${total} में से ${done}`,
     mapTitle: 'क्षेत्र के अनुसार खोजें',
     mapSubtitle: 'भूगोल के अनुसार भारत के पवित्र मंदिरों का अन्वेषण करें।',
+    mapEmpty: 'इस क्षेत्र में वर्तमान मोड के लिए कोई मंदिर नहीं है।',
     templeCount: (n) => `${n} मंदिर`,
     cal: {
       todayLabel: 'आज',
@@ -655,6 +659,10 @@ const copy = {
       label: 'भाषा',
       en: 'English',
       hi: 'हिंदी',
+    },
+    footer: {
+      tagline: 'हर हर महादेव',
+      feedback: 'प्रतिक्रिया',
     },
   },
 }
@@ -688,7 +696,6 @@ function App() {
   const [searchTerm, setSearchTerm] = useState('')
   const [showSuggestions, setShowSuggestions] = useState(false)
   const [editorJourneyFilter, setEditorJourneyFilter] = useState('')
-  const [stateFilterSource, setStateFilterSource] = useState('dropdown')
   const [mode, _setMode] = useState(MODES.SHIVA)
   const [currentPage, setCurrentPage] = useState(1)
   const [searchPage, setSearchPage] = useState(1)
@@ -704,11 +711,15 @@ function App() {
   const [visitedTemples, setVisitedTemples] = useState(() => {
     try { return JSON.parse(localStorage.getItem('jbn-visited') || '[]') } catch { return [] }
   })
-  const [activeRegion, setActiveRegion] = useState('north')
+  const [activeRegion, setActiveRegion] = useState(
+    () => { try { return localStorage.getItem('jbn-map-region') || 'north' } catch { return 'north' } }
+  )
   const [calBannerExpanded, setCalBannerExpanded] = useState(false)
   const storyModalRef = useRef(null)
   const storyCloseButtonRef = useRef(null)
   const lastFocusedElementRef = useRef(null)
+  const touchStartYRef = useRef(0)
+  const swipeDyRef = useRef(0)
   const hasTrackedInitialPage = useRef(false)
   const safeTempleDataRef = useRef([])
   const deeplinkHandled = useRef(false)
@@ -739,6 +750,7 @@ function App() {
   const modeKey = isShivaMode ? MODES.SHIVA : MODES.SHAKTI
   const useServerData = API_MODE_ENABLED && !apiStatus.error
   const shouldLoadLocalData = !API_MODE_ENABLED || Boolean(apiStatus.error)
+  const isDataLoading = shouldLoadLocalData && !localTempleData.loaded
 
   useEffect(() => {
     if (!shouldLoadLocalData || localTempleData.loaded) {
@@ -877,9 +889,19 @@ function App() {
     if (q.length < 2) return []
     return safeTempleData
       .filter((t) => {
-        const name = (getTempleText(t, 'name') || '').toLowerCase()
-        const city = (t.city || '').toLowerCase()
-        return name.includes(q) || city.includes(q)
+        const fields = [
+          t.name,
+          t.nameHi,
+          t.city,
+          t.state,
+          t.deity,
+          t.tradition,
+          ...(t.tags ?? []),
+          ...(t.tagsHi ?? []),
+          ...(t.rituals ?? []),
+          ...(t.festivals ?? []),
+        ]
+        return fields.filter(Boolean).some((f) => String(f).toLowerCase().includes(q))
       })
       .slice(0, 6)
   }, [searchTerm, safeTempleData])
@@ -900,6 +922,13 @@ function App() {
       states: statesSet.size,
     }
   }, [statTemples, useServerData, apiStats])
+
+  const regionTempleCount = useMemo(
+    () => Object.fromEntries(
+      REGIONS.map((r) => [r.id, safeTempleData.filter((t) => r.states.includes(t.state)).length])
+    ),
+    [safeTempleData]
+  )
 
   const sourcedTemplesCount = useMemo(
     () => {
@@ -967,6 +996,18 @@ function App() {
     setSearchPage(1)
   }, [selectedState, selectedCity, searchTerm, mode])
 
+  // Analytics-only debounce: fire GA4 'search' event after user pauses typing
+  useEffect(() => {
+    const term = searchTerm.trim()
+    if (term.length < 2) return
+    const timer = setTimeout(() => {
+      if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
+        window.gtag('event', 'search', { search_term: term })
+      }
+    }, 500)
+    return () => clearTimeout(timer)
+  }, [searchTerm])
+
   useEffect(() => {
     setNewlyAddedPage(1)
   }, [mode])
@@ -976,6 +1017,10 @@ function App() {
   }, [language])
 
   useEffect(() => {
+    const pageTitle = PAGE_TRACKING_TITLES[activePage] || PAGE_TRACKING_TITLES.temples
+    if (typeof document !== 'undefined' && !activeTemple) {
+      document.title = `Jai Bhole Nath — ${pageTitle}`
+    }
     if (!hasTrackedInitialPage.current) {
       hasTrackedInitialPage.current = true
       return
@@ -984,9 +1029,8 @@ function App() {
       return
     }
     const pagePath = PAGE_TRACKING_PATHS[activePage] || PAGE_TRACKING_PATHS.temples
-    const pageTitle = PAGE_TRACKING_TITLES[activePage] || PAGE_TRACKING_TITLES.temples
     window.gtag('event', 'page_view', {
-      page_title: `Jai Bhole Nath - ${pageTitle}`,
+      page_title: `Jai Bhole Nath — ${pageTitle}`,
       page_path: pagePath,
       page_location: `${window.location.origin}${pagePath}`,
     })
@@ -1025,6 +1069,20 @@ function App() {
     try { localStorage.setItem('jbn-visited', JSON.stringify(visitedTemples)) } catch {}
   }, [visitedTemples])
 
+  // Sync GA4 user properties whenever relevant user attributes change
+  useEffect(() => {
+    if (typeof window === 'undefined' || typeof window.gtag !== 'function') return
+    window.gtag('set', 'user_properties', {
+      preferred_language: language,
+      temples_saved_count: savedTemples.length,
+    })
+  }, [language, savedTemples.length])
+
+  // Persist last selected map region
+  useEffect(() => {
+    try { localStorage.setItem('jbn-map-region', activeRegion) } catch {}
+  }, [activeRegion])
+
   // Sync URL when modal opens/closes
   useEffect(() => {
     if (typeof window === 'undefined') return
@@ -1052,26 +1110,37 @@ function App() {
     if (match) openTempleStory(match, 'deeplink')
   }, [safeTempleData]) // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Update document.title and OG meta when modal opens/closes
+  // Update document.title, OG meta, Twitter meta and canonical when modal opens/closes
   useEffect(() => {
     if (typeof document === 'undefined') return
     const setMeta = (attr, val, content) =>
       document.querySelector(`meta[${attr}="${val}"]`)?.setAttribute('content', content)
+    const canonical = document.getElementById('canonical')
     if (activeTemple) {
       const slug = slugify(`${activeTemple.name}-${activeTemple.city}-${activeTemple.state}`)
+      const templeUrl = `${window.location.origin}/temple/${slug}`
       document.title = `${activeTemple.name} — Jai Bhole Nath`
       setMeta('property', 'og:title', `${activeTemple.name} — Jai Bhole Nath`)
       setMeta('property', 'og:description', `${activeTemple.city}, ${activeTemple.state}`)
-      setMeta('property', 'og:url', `${window.location.origin}/temple/${slug}`)
+      setMeta('property', 'og:url', templeUrl)
       if (activeTemple.image) setMeta('property', 'og:image', activeTemple.image)
+      setMeta('name', 'twitter:title', `${activeTemple.name} — Jai Bhole Nath`)
+      setMeta('name', 'twitter:description', `${activeTemple.city}, ${activeTemple.state}`)
+      if (activeTemple.image) setMeta('name', 'twitter:image', activeTemple.image)
+      if (canonical) canonical.setAttribute('href', templeUrl)
     } else {
-      document.title = 'Jai Bhole Nath'
+      const pageTitle = PAGE_TRACKING_TITLES[activePage] || PAGE_TRACKING_TITLES.temples
+      document.title = `Jai Bhole Nath — ${pageTitle}`
       setMeta('property', 'og:title', 'Jai Bhole Nath — Sacred Temples of India')
       setMeta('property', 'og:description', 'Discover sacred Shiva and Shakti temples across India.')
       setMeta('property', 'og:url', window.location.origin)
       setMeta('property', 'og:image', `${window.location.origin}/og-image.png`)
+      setMeta('name', 'twitter:title', 'Jai Bhole Nath — Sacred Temples of India')
+      setMeta('name', 'twitter:description', 'Discover sacred Shiva and Shakti temples across India.')
+      setMeta('name', 'twitter:image', `${window.location.origin}/og-image.png`)
+      if (canonical) canonical.setAttribute('href', window.location.origin)
     }
-  }, [activeTemple])
+  }, [activeTemple, activePage])
 
   useEffect(() => {
     if (!activeTemple) {
@@ -1167,10 +1236,11 @@ function App() {
 
   const normalizedSearch = searchTerm.trim().toLowerCase()
   const searchActive =
-    (stateFilterSource === 'dropdown' && selectedState !== ALL_STATES) ||
+    selectedState !== ALL_STATES ||
     selectedCity !== ALL_CITIES ||
-    normalizedSearch.length > 0 ||
-    editorJourneyFilter !== ''
+    searchTerm.trim().length > 0 ||
+    editorJourneyFilter !== '' ||
+    showSavedOnly
 
   useEffect(() => {
     if (!API_MODE_ENABLED) {
@@ -1390,8 +1460,12 @@ function App() {
   }
 
   const isCanonicalJyotirlingaTemple = (item) => {
-    const key = `${normalizeTempleKey(item?.name)}|${normalizeTempleKey(item?.state)}|${normalizeTempleKey(item?.city)}`
-    return CANONICAL_JYOTIRLINGA_KEYS.has(key)
+    const hasTag = Array.isArray(item?.tags) && item.tags.some(
+      (t) => normalizeTempleKey(t) === 'jyotirlinga'
+    )
+    if (!hasTag) return false
+    const locationKey = `${normalizeTempleKey(item?.state)}|${normalizeTempleKey(item?.city)}`
+    return CANONICAL_JYOTIRLINGA_LOCATIONS.has(locationKey)
   }
 
   const matchesEditorJourney = (item, term) => {
@@ -1743,13 +1817,20 @@ function App() {
         const temple = queue.shift()
         if (!temple) continue
 
+        const imageValue = String(temple?.image || '').trim()
+        const usesDefaultImage = placeholderImages.includes(imageValue)
         const suspect = isSuspiciousImage(temple)
         const probe = await probeImage(temple.image)
-        const needsReview = suspect || !probe.ok
+        const needsReview = usesDefaultImage || suspect || !probe.ok
         if (needsReview) {
           const query = `${String(temple.name || '')
             .replace(/[()]/g, '')
             .trim()} ${String(temple.city || '').trim()} temple`
+          const status = !probe.ok
+            ? `broken:${probe.reason}`
+            : usesDefaultImage
+              ? 'default:image'
+              : 'suspicious'
 
           try {
             const candidates = await searchCommonsImages(query, 10)
@@ -1758,7 +1839,7 @@ function App() {
               name: temple.name,
               city: temple.city,
               oldImage: temple.image || '',
-              status: probe.ok ? 'suspicious' : `broken:${probe.reason}`,
+              status,
               query,
               suggestedImage: best?.imageUrl || '',
               suggestedCreditUrl: best?.filePageUrl || '',
@@ -1770,7 +1851,7 @@ function App() {
               name: temple.name,
               city: temple.city,
               oldImage: temple.image || '',
-              status: probe.ok ? 'suspicious' : `broken:${probe.reason}`,
+              status,
               query,
               error: String(error?.message || error),
             })
@@ -1823,7 +1904,6 @@ function App() {
 
   const handleStateChange = (nextState, source = 'dropdown') => {
     setSelectedState(nextState)
-    setStateFilterSource(source)
     trackAnalyticsEvent('filter_state_change', {
       filter_state: nextState,
       filter_source: source,
@@ -1880,7 +1960,14 @@ function App() {
   const toggleSaveTemple = (temple, event) => {
     if (event) event.stopPropagation()
     const slug = slugify(`${temple.name}-${temple.city}-${temple.state}`)
-    setSavedTemples((prev) => (prev.includes(slug) ? prev.filter((s) => s !== slug) : [...prev, slug]))
+    const isCurrentlySaved = savedTemples.includes(slug)
+    setSavedTemples((prev) => (isCurrentlySaved ? prev.filter((s) => s !== slug) : [...prev, slug]))
+    trackAnalyticsEvent('temple_bookmark_toggle', {
+      temple_name: temple?.name || '',
+      temple_state: temple?.state || '',
+      temple_city: temple?.city || '',
+      action: isCurrentlySaved ? 'unsave' : 'save',
+    })
   }
 
   const isTempleVisited = (temple) =>
@@ -1897,6 +1984,40 @@ function App() {
   const navigateToMapState = (stateName) => {
     handleStateChange(stateName, 'map')
     switchPage('temples')
+  }
+
+  const handleModalTouchStart = (e) => {
+    touchStartYRef.current = e.touches[0].clientY
+    swipeDyRef.current = 0
+    if (storyModalRef.current) {
+      storyModalRef.current.style.transition = 'none'
+    }
+  }
+
+  const handleModalTouchMove = (e) => {
+    const dy = e.touches[0].clientY - touchStartYRef.current
+    if (dy <= 0) return
+    swipeDyRef.current = dy
+    if (storyModalRef.current) {
+      storyModalRef.current.style.transform = `translateY(${dy}px)`
+      storyModalRef.current.style.opacity = String(Math.max(0.5, 1 - dy / 300))
+    }
+  }
+
+  const handleModalTouchEnd = () => {
+    const dy = swipeDyRef.current
+    if (storyModalRef.current) {
+      storyModalRef.current.style.transition = 'transform 0.25s ease, opacity 0.25s ease'
+    }
+    if (dy > 100) {
+      setActiveTemple(null)
+    } else {
+      if (storyModalRef.current) {
+        storyModalRef.current.style.transform = 'translateY(0)'
+        storyModalRef.current.style.opacity = '1'
+      }
+    }
+    swipeDyRef.current = 0
   }
 
   const handleShare = async () => {
@@ -2211,6 +2332,20 @@ function App() {
               </div>
               <div className="about-divider" aria-hidden="true" />
             </div>
+            <div className="about-stats-row" aria-label="Portal statistics">
+              <div className="about-stat">
+                <span className="about-stat-number">{templeStats.temples.toLocaleString()}</span>
+                <span className="about-stat-label">{t.stats.temples}</span>
+              </div>
+              <div className="about-stat">
+                <span className="about-stat-number">{templeStats.states.toLocaleString()}</span>
+                <span className="about-stat-label">{t.stats.states}</span>
+              </div>
+              <div className="about-stat">
+                <span className="about-stat-number">{templeStats.cities.toLocaleString()}</span>
+                <span className="about-stat-label">{t.stats.cities}</span>
+              </div>
+            </div>
             <div className="about-grid">
               {t.aboutSection.cards.map((card, index) => (
                 <article className="about-card" key={card.title} style={{ '--delay': `${index * 80}ms` }}>
@@ -2220,6 +2355,17 @@ function App() {
                 </article>
               ))}
             </div>
+            {FEEDBACK_EMAIL && (
+              <div className="about-feedback-row">
+                <p>{t.aboutSection.feedbackPrompt}</p>
+                <a
+                  className="about-feedback-cta"
+                  href={`mailto:${FEEDBACK_EMAIL}`}
+                >
+                  {t.aboutSection.feedbackCta}
+                </a>
+              </div>
+            )}
           </section>
 
           <section className="cards disclaimer-section" aria-label={t.disclaimerSection.title}>
@@ -2254,7 +2400,14 @@ function App() {
                     <article className="discovery-card" key={`${item.name}-${index}`}>
                       {discoveryImage ? (
                         <figure className="discovery-media">
-                          <img src={discoveryImage} alt={discoveryImageAlt} loading="lazy" />
+                          <img
+                            className="img-blur-up"
+                            src={discoveryImage}
+                            alt={discoveryImageAlt}
+                            loading="lazy"
+                            ref={(img) => { if (img?.complete) img.classList.add('img-loaded') }}
+                            onLoad={(e) => e.currentTarget.classList.add('img-loaded')}
+                          />
                           {discoveryImageCreditUrl ? (
                             <figcaption>
                               <a href={discoveryImageCreditUrl} target="_blank" rel="noreferrer">
@@ -2403,14 +2556,17 @@ function App() {
                 onClick={() => setActiveRegion(region.id)}
               >
                 {language === 'hi' ? region.labelHi : region.label}
+                <span className="region-tab-count">{regionTempleCount[region.id] ?? 0}</span>
               </button>
             ))}
           </div>
-          {REGIONS.filter((region) => region.id === activeRegion).map((region) => (
+          {REGIONS.filter((region) => region.id === activeRegion).map((region) => {
+            const visibleStates = region.states.filter((s) => activeStates.includes(s))
+            return (
             <div key={region.id} className="region-state-grid">
-              {region.states
-                .filter((s) => activeStates.includes(s))
-                .map((stateName) => {
+              {visibleStates.length === 0 ? (
+                <p className="map-empty-state">{t.mapEmpty}</p>
+              ) : visibleStates.map((stateName) => {
                   const count = safeTempleData.filter((temple) => temple.state === stateName).length
                   return (
                     <button
@@ -2425,7 +2581,8 @@ function App() {
                   )
                 })}
             </div>
-          ))}
+            )
+          })}
         </section>
       ) : (
         <>
@@ -2483,9 +2640,13 @@ function App() {
                   <article className="hero-featured-card">
                     <figure className="hero-featured-media">
                       <img
+                        key={featuredTemple.name}
+                        className="img-blur-up"
                         src={featuredStoryImage}
                         alt={`${getTempleText(featuredTemple, 'name')} in ${featuredTemple.city}`}
                         loading="lazy"
+                        ref={(img) => { if (img?.complete) img.classList.add('img-loaded') }}
+                        onLoad={(e) => e.currentTarget.classList.add('img-loaded')}
                         onError={(event) => {
                           if (event.currentTarget.dataset.fallbackApplied) return
                           event.currentTarget.dataset.fallbackApplied = '1'
@@ -2576,7 +2737,6 @@ function App() {
                             type="button"
                             onMouseDown={(e) => {
                               e.preventDefault()
-                              setSearchTerm('')
                               setShowSuggestions(false)
                               openTempleStory(temple, 'search_autocomplete')
                             }}
@@ -2773,9 +2933,12 @@ function App() {
                     >
                       <figure className="card-media">
                         <img
+                          className="img-blur-up"
                           src={imageSrc}
                           alt={`${getTempleText(temple, 'name')} in ${temple.city}`}
                           loading="lazy"
+                          ref={(img) => { if (img?.complete) img.classList.add('img-loaded') }}
+                          onLoad={(e) => e.currentTarget.classList.add('img-loaded')}
                           onError={(event) => {
                             if (event.currentTarget.dataset.fallbackApplied) return
                             event.currentTarget.dataset.fallbackApplied = '1'
@@ -2871,9 +3034,12 @@ function App() {
                         >
                           <figure className="card-media">
                             <img
+                              className="img-blur-up"
                               src={imageSrc}
                               alt={`${getTempleText(temple, 'name')} in ${temple.city}`}
                               loading="lazy"
+                              ref={(img) => { if (img?.complete) img.classList.add('img-loaded') }}
+                              onLoad={(e) => e.currentTarget.classList.add('img-loaded')}
                               onError={(event) => {
                                 if (event.currentTarget.dataset.fallbackApplied) return
                                 event.currentTarget.dataset.fallbackApplied = '1'
@@ -2962,7 +3128,22 @@ function App() {
               </div>
             </div>
             <div className="card-grid">
-              {pagedTemples.map((temple, index) => {
+              {isDataLoading
+                ? Array.from({ length: PAGE_SIZE }, (_, i) => (
+                    <article key={i} className="temple-card skeleton-card" aria-hidden="true">
+                      <figure className="card-media">
+                        <div className="skeleton-shimmer skeleton-media" />
+                      </figure>
+                      <div className="card-body">
+                        <div className="skeleton-line skeleton-shimmer" style={{ width: '48%' }} />
+                        <div className="skeleton-line skeleton-shimmer" style={{ width: '72%', height: '16px' }} />
+                        <div className="skeleton-line skeleton-shimmer" style={{ width: '100%' }} />
+                        <div className="skeleton-line skeleton-shimmer" style={{ width: '84%' }} />
+                        <div className="skeleton-line skeleton-shimmer" style={{ width: '38%', marginTop: 'auto' }} />
+                      </div>
+                    </article>
+                  ))
+                : pagedTemples.map((temple, index) => {
                 const imageSrc = temple.image ?? getPlaceholderImage(temple.name)
                 const storyText = getTempleText(temple, 'story')
                 return (
@@ -2975,9 +3156,12 @@ function App() {
                   >
                     <figure className="card-media">
                       <img
+                        className="img-blur-up"
                         src={imageSrc}
                         alt={`${getTempleText(temple, 'name')} in ${temple.city}`}
                         loading="lazy"
+                        ref={(img) => { if (img?.complete) img.classList.add('img-loaded') }}
+                        onLoad={(e) => e.currentTarget.classList.add('img-loaded')}
                         onError={(event) => {
                           if (event.currentTarget.dataset.fallbackApplied) return
                           event.currentTarget.dataset.fallbackApplied = '1'
@@ -3027,7 +3211,7 @@ function App() {
                 )
               })}
             </div>
-            {renderPagination(currentPage, totalPages, setCurrentPage, 'temples')}
+            {!isDataLoading && renderPagination(currentPage, totalPages, setCurrentPage, 'temples')}
             {effectiveDisplayedTotal === 0 ? (
               <div className="empty-state">
                 <h3>{t.emptyState.title}</h3>
@@ -3051,7 +3235,11 @@ function App() {
             aria-labelledby="story-title"
             tabIndex={-1}
             onClick={(event) => event.stopPropagation()}
+            onTouchStart={handleModalTouchStart}
+            onTouchMove={handleModalTouchMove}
+            onTouchEnd={handleModalTouchEnd}
           >
+            <div className="modal-drag-handle" aria-hidden="true" />
             <div className="story-modal-actions">
               <button
                 className={`story-visited${isTempleVisited(activeTemple) ? ' is-visited' : ''}`}
@@ -3089,9 +3277,13 @@ function App() {
             </div>
             <div className={`story-hero ${isPortraitImage ? 'is-portrait' : ''}`}>
               <img
+                key={activeTemple.name}
+                className="img-blur-up"
                 src={modalImageSrc}
                 alt={`${getTempleText(activeTemple, 'name')} in ${activeTemple.city}`}
                 loading="lazy"
+                ref={(img) => { if (img?.complete) img.classList.add('img-loaded') }}
+                onLoad={(e) => e.currentTarget.classList.add('img-loaded')}
                 onError={() => {
                   if (activeTemple) {
                     setModalImageSrc(getPlaceholderImage(activeTemple.name))
@@ -3230,9 +3422,12 @@ function App() {
                         >
                           <div className="similar-card-img">
                             <img
+                              className="img-blur-up"
                               src={temple.image ?? getPlaceholderImage(temple.name)}
                               alt={getTempleText(temple, 'name')}
                               loading="lazy"
+                              ref={(img) => { if (img?.complete) img.classList.add('img-loaded') }}
+                              onLoad={(e) => e.currentTarget.classList.add('img-loaded')}
                               onError={(e) => { e.currentTarget.src = getPlaceholderImage(temple.name) }}
                             />
                           </div>
@@ -3267,6 +3462,68 @@ function App() {
           </div>
         </div>
       ) : null}
+
+      <nav className="bottom-nav" aria-label={t.nav.label}>
+        <button
+          className={`bottom-nav-item${activePage === 'temples' ? ' active' : ''}`}
+          type="button"
+          aria-current={activePage === 'temples' ? 'page' : undefined}
+          onClick={() => switchPage('temples')}
+        >
+          <i className="fa-solid fa-om" aria-hidden="true" />
+          <span>{t.nav.temples}</span>
+        </button>
+        <button
+          className={`bottom-nav-item${activePage === 'recent' ? ' active' : ''}`}
+          type="button"
+          aria-current={activePage === 'recent' ? 'page' : undefined}
+          onClick={() => switchPage('recent')}
+        >
+          <i className="fa-solid fa-star" aria-hidden="true" />
+          <span>{t.nav.recent}</span>
+        </button>
+        <button
+          className={`bottom-nav-item${activePage === 'circuits' ? ' active' : ''}`}
+          type="button"
+          aria-current={activePage === 'circuits' ? 'page' : undefined}
+          onClick={() => switchPage('circuits')}
+        >
+          <i className="fa-solid fa-fire" aria-hidden="true" />
+          <span>{t.nav.circuits}</span>
+        </button>
+        <button
+          className={`bottom-nav-item${activePage === 'map' ? ' active' : ''}`}
+          type="button"
+          aria-current={activePage === 'map' ? 'page' : undefined}
+          onClick={() => switchPage('map')}
+        >
+          <i className="fa-solid fa-map" aria-hidden="true" />
+          <span>{t.nav.map}</span>
+        </button>
+        <button
+          className={`bottom-nav-item${activePage === 'about' ? ' active' : ''}`}
+          type="button"
+          aria-current={activePage === 'about' ? 'page' : undefined}
+          onClick={() => switchPage('about')}
+        >
+          <i className="fa-solid fa-circle-info" aria-hidden="true" />
+          <span>{t.nav.about}</span>
+        </button>
+      </nav>
+
+      <footer className="site-footer" aria-label="Site footer">
+        <span className="site-footer-brand">{t.footer.tagline}</span>
+        <span className="site-footer-sep" aria-hidden="true">·</span>
+        <span>© {new Date().getFullYear()} {t.portalName}</span>
+        <span className="site-footer-sep" aria-hidden="true">·</span>
+        <button type="button" className="site-footer-link" onClick={() => switchPage('about')}>{t.nav.about}</button>
+        {FEEDBACK_EMAIL && (
+          <>
+            <span className="site-footer-sep" aria-hidden="true">·</span>
+            <a className="site-footer-link" href={`mailto:${FEEDBACK_EMAIL}`}>{t.footer.feedback}</a>
+          </>
+        )}
+      </footer>
 
     </div>
   )

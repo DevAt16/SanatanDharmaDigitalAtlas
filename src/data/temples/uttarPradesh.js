@@ -1191,7 +1191,7 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Pura Mahadev Temple",
+    "name": "Pura Mahadev (Parashuramhwar Mahadev)",
     "state": "Uttar Pradesh",
     "city": "Baghpat",
     "region": "Baghpat district",
@@ -1200,18 +1200,18 @@ export const uttarPradeshTemples = [
       "Kanwar",
       "Hindan River"
     ],
-    "story": "Where Parashurama established a Shiva Linga and performed penance; a major Kanwar Yatra destination.",
-    "highlight": "Parashurama's Linga.",
+    "story": "A major Swayambhu Shiva node in Baghpat tradition, linked with Parashurama's penance and among the highest-footfall Kanwar destinations in the western UP-NCR frontier.",
+    "highlight": "Primary grounding anchor of the district with massive Shravan and Phalgun energy spikes.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pura_Mahadev.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Pura_Mahadev.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-25T17:04:03+05:30",
     "bestTime": "Shravan.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
-    "entryNotes": "Huge crowds in Shravan.",
+    "entryNotes": "Very high crowd density during Kanwar Yatra windows.",
     "rituals": [
       "Kanwar offering"
     ],
@@ -1220,8 +1220,8 @@ export const uttarPradeshTemples = [
       "Shravan Month"
     ],
     "moreDetails": {
-      "history": "Ancient.",
-      "architecture": "Modern complex.",
+      "history": "Preserved as one of the most important Parashurama-linked Shaiva sites in western Uttar Pradesh.",
+      "architecture": "Active temple complex around a revered linga with large festival circulation zones.",
       "visitorNotes": "Security high during Kanwar.",
       "sources": [
         {
@@ -1230,7 +1230,10 @@ export const uttarPradeshTemples = [
           "type": "Encyclopedia"
         }
       ]
-    }
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   },
   {
     "name": "Augharnath Temple",
@@ -2545,45 +2548,55 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Siddhnath Temple",
+    "name": "Siddhanath Mahadev Temple",
     "state": "Uttar Pradesh",
     "city": "Bahraich",
     "region": "Bahraich district",
     "tags": [
-      "Siddis",
-      "Fair",
-      "Local"
+      "Siddhanath",
+      "Urban Anchor",
+      "Yogic Circuit"
     ],
-    "story": "A major Shiva temple in Bahraich, especially busy during Shravan.",
-    "highlight": "Local faith center.",
+    "story": "A principal Shaiva anchor in central Bahraich, preserved in local memory as part of an older Yogic devotional circuit and acting as the district's main urban grounding node.",
+    "highlight": "Primary grounding rod for Bahraich's urban spiritual traffic.",
     "image": "/temples/temple-03.svg",
     "credit": "",
     "creditUrl": "/temples/temple-03.svg",
-    "deity": "Shiva",
+    "deity": "Shiva (Siddhanath Mahadev)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Shravan.",
+    "addedAt": "2026-02-25T20:41:00+05:30",
+    "bestTime": "October to March; Shravan and Mahashivratri are peak periods.",
     "timings": "Open daily.",
-    "dressCode": "Casual.",
-    "entryNotes": "City center.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "City-center access with periodic high crowd density.",
     "rituals": [
-      "Daily puja"
+      "Daily puja",
+      "Jal abhishek"
     ],
     "festivals": [
-      "Shivratri"
+      "Mahashivratri",
+      "Shravan month"
     ],
     "moreDetails": {
-      "history": "Old.",
-      "architecture": "Modern.",
-      "visitorNotes": "Crowded.",
+      "history": "Maintained in district tradition as an old Siddhanath node connected to broader regional yogic worship patterns.",
+      "architecture": "Active urban temple format adapted for daily and festival pilgrim flow.",
+      "visitorNotes": "Plan early darshan during festival windows.",
       "sources": [
         {
           "label": "Bahraich",
           "url": "https://en.wikipedia.org/wiki/Bahraich",
           "type": "Encyclopedia"
+        },
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
         }
       ]
-    }
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   },
   {
     "name": "Vibhuti Nath Temple",
@@ -2627,77 +2640,90 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Nilkanth Mahadev (Kalinjar)",
+    "name": "Neelkanth Mahadev (Kalinjar Fort)",
     "state": "Uttar Pradesh",
     "city": "Banda",
     "region": "Banda district",
     "tags": [
-      "Fort",
-      "Cave",
-      "Blue Throat"
+      "Kalinjar Fort",
+      "Cave Temple",
+      "Vertical Shielded"
     ],
-    "story": "Located in the historic Kalinjar Fort; Shiva drank the poison here, turning his throat blue.",
-    "highlight": "History and mythology blend.",
+    "story": "A major cave-temple node in Kalinjar Fort tradition, regarded as the apex Shaiva anchor of the Banda region and associated with a naturally cool, moisture-rich lingam environment.",
+    "highlight": "Apex Bundelkhand fort-node and high-altitude transmitter over the plains.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0121921_Neelkanth_temple_of_Kalinjar_fort%2C_Banda_District_%E2%80%93_133.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0121921_Neelkanth_temple_of_Kalinjar_fort%2C_Banda_District_%E2%80%93_133.jpg",
-    "deity": "Shiva (Nilkanth)",
+    "deity": "Shiva (Neelkanth Mahadev)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Year-round.",
-    "timings": "Open daily (Fort timings).",
-    "dressCode": "Casual.",
-    "entryNotes": "Steep climb.",
+    "addedAt": "2026-02-25T19:26:00+05:30",
+    "bestTime": "October to March; active during Mahashivratri and Shravan.",
+    "timings": "Open daily (fort timings apply).",
+    "dressCode": "Modest attire and walking-friendly footwear.",
+    "entryNotes": "Steep fort-climb sections; plan hydration and timing.",
     "rituals": [
-      "Jal Abhishek"
+      "Jal abhishek",
+      "Rudrabhishek"
     ],
     "festivals": [
-      "Kalinjar Mahotsav"
+      "Mahashivratri",
+      "Kalinjar Mahotsav",
+      "Shravan month"
     ],
     "moreDetails": {
-      "history": "Chandela era.",
-      "architecture": "Rock-cut/Cave.",
-      "visitorNotes": "Stunning fort views.",
+      "history": "Linked to early medieval Kalinjar sacred-fort traditions with strong Neelkanth mythology.",
+      "architecture": "Rock-cut cave shrine integrated into the Kalinjar sandstone massif.",
+      "visitorNotes": "Combine with core fort circuit; expect uneven terrain.",
       "sources": [
         {
           "label": "Kalinjar Fort",
           "url": "https://en.wikipedia.org/wiki/Kalinjar_Fort",
           "type": "Encyclopedia"
+        },
+        {
+          "label": "Banda district",
+          "url": "https://en.wikipedia.org/wiki/Banda_district,_India",
+          "type": "District reference"
         }
       ]
-    }
+    },
+    "district": "Banda",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   },
   {
-    "name": "Mattgajendra Shiva Temple",
+    "name": "Matyagajendranath Mahadev (Ram Ghat)",
     "state": "Uttar Pradesh",
     "city": "Chitrakoot",
     "region": "Chitrakoot district",
     "tags": [
-      "Rama",
-      "Exile",
-      "Hill"
+      "Ram Ghat",
+      "Mandakini",
+      "Rama Tradition"
     ],
-    "story": "Located on Ram Ghat; believed to have been worshipped by Rama during his exile.",
-    "highlight": "Ram Ghat location.",
+    "story": "A principal Shiva anchor on the Mandakini riverfront at Ram Ghat, tied in local tradition to Rama-era abhishek worship and central to Chitrakoot's pilgrimage flow.",
+    "highlight": "Primary watchman-node for Chitrakoot's Mandakini river grid.",
     "image": "/temples/temple-03.svg",
     "credit": "",
     "creditUrl": "/temples/temple-03.svg",
-    "deity": "Shiva",
+    "deity": "Shiva (Matyagajendranath Mahadev)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-25T16:57:53+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
     "dressCode": "Traditional.",
     "entryNotes": "Near Mandakini river.",
     "rituals": [
-      "Daily puja"
+      "Daily puja",
+      "Jal abhishek"
     ],
     "festivals": [
+      "Mahashivratri",
       "Ram Navami"
     ],
     "moreDetails": {
-      "history": "Ancient.",
-      "architecture": "Simple.",
+      "history": "Maintained in Chitrakoot tradition as one of the most significant Ram Ghat Shaiva nodes.",
+      "architecture": "Regional riverfront shrine architecture integrated into ghat ritual movement.",
       "visitorNotes": "Part of Chitrakoot circuit.",
       "sources": [
         {
@@ -2706,46 +2732,61 @@ export const uttarPradeshTemples = [
           "type": "Encyclopedia"
         }
       ]
-    }
+    },
+    "district": "Chitrakoot",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   },
   {
-    "name": "Vamdev Temple",
+    "name": "Bammeshwar Mahadev",
     "state": "Uttar Pradesh",
     "city": "Banda",
     "region": "Banda district",
     "tags": [
-      "Bamdeo",
-      "Original Name",
-      "Hill"
+      "Bammeshwar",
+      "Hill Node",
+      "Urban Baseline"
     ],
-    "story": "Dedicated to Sage Vamdev (Bamdeo) who established the Shivalinga; gave Banda its name.",
-    "highlight": "City namesake.",
+    "story": "A high-elevation Shaiva node on the Bambeshwar/Bammeshwar hill profile, serving as a major grounding reference for Banda town's urban devotional flow.",
+    "highlight": "Primary high-altitude grounding rod for district headquarters.",
     "image": "/temples/temple-03.svg",
     "credit": "",
     "creditUrl": "/temples/temple-03.svg",
-    "deity": "Shiva (Vamdev)",
+    "deity": "Shiva (Bammeshwar Mahadev)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Year-round.",
+    "addedAt": "2026-02-25T19:26:00+05:30",
+    "bestTime": "October to March.",
     "timings": "Open daily.",
-    "dressCode": "Casual.",
-    "entryNotes": "Bambeshwar hill.",
+    "dressCode": "Modest attire with climb-friendly footwear.",
+    "entryNotes": "Hill approach can involve steps and exposed sections.",
     "rituals": [
-      "Daily puja"
+      "Daily puja",
+      "Jal abhishek"
     ],
-    "festivals": [],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
     "moreDetails": {
-      "history": "Ancient.",
-      "architecture": "Hill shrine.",
-      "visitorNotes": "Local landmark.",
+      "history": "Preserved in Banda tradition as one of the oldest hill-based Shaiva centers in the city belt.",
+      "architecture": "Hilltop shrine profile with panoramic urban-river views.",
+      "visitorNotes": "Prefer early morning/evening visits in summer.",
       "sources": [
         {
-          "label": "Banda",
+          "label": "Banda, Uttar Pradesh",
           "url": "https://en.wikipedia.org/wiki/Banda,_Uttar_Pradesh",
           "type": "Encyclopedia"
+        },
+        {
+          "label": "Banda district",
+          "url": "https://en.wikipedia.org/wiki/Banda_district,_India",
+          "type": "District reference"
         }
       ]
-    }
+    },
+    "district": "Banda",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   },
   {
     "name": "Renukeshwar Mahadev",
@@ -2830,86 +2871,108 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Rameshwara Temple (Vindhyachal)",
+    "name": "Rameshwar Mahadev (Vindhyachal)",
     "state": "Uttar Pradesh",
     "city": "Vindhyachal",
     "region": "Mirzapur district",
     "tags": [
-      "Ram Gaya",
-      "Shraddh",
-      "Triad"
+      "Vindhyachal",
+      "Rameshwar",
+      "Cooling Processor"
     ],
-    "story": "Part of the Vindhyachal Trikona; believed to be where Rama offered Shraddh to Dasharatha.",
-    "highlight": "Trikona Parikrama stop.",
+    "story": "A major Shaiva stabilizer in the Vindhyachal sacred circuit, traditionally linked with Lord Rama and regarded as a balancing node for the high-intensity regional pilgrimage grid.",
+    "highlight": "Primary Shiva cooling anchor for the Vindhyachal-Mirzapur devotional corridor.",
     "image": "/temples/temple-04.svg",
     "credit": "",
     "creditUrl": "/temples/temple-04.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Navaratri.",
-    "timings": "Open daily.",
-    "dressCode": "Traditional.",
-    "entryNotes": "Ram Gaya Ghat.",
+    "addedAt": "2026-02-25T18:22:00+05:30",
+    "bestTime": "October to March; Shravan and Navaratri periods are active.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Often visited alongside the wider Vindhyachal pilgrimage circuit.",
     "rituals": [
-      "Pind Daan"
+      "Jal abhishek",
+      "Rudrabhishek"
     ],
     "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar",
       "Navaratri"
     ],
     "moreDetails": {
-      "history": "Ancient.",
-      "architecture": "Simple.",
-      "visitorNotes": "Do the Trikona.",
+      "history": "Preserved in local tradition as an ancient Rama-linked Shiva node in Vindhyachal.",
+      "architecture": "Pilgrimage-oriented shrine structure integrated into the Vindhyachal ritual route.",
+      "visitorNotes": "Prefer early-morning darshan during festival windows.",
       "sources": [
         {
           "label": "Vindhyachal",
           "url": "https://en.wikipedia.org/wiki/Vindhyachal",
           "type": "Encyclopedia"
+        },
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
         }
       ]
-    }
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   },
   {
-    "name": "Gola Gokaran Nath",
+    "name": "Shiv Mandir, Gola Gokarannath",
     "state": "Uttar Pradesh",
-    "city": "Gola Gokaran Nath",
+    "city": "Gola Gokarannath",
     "region": "Lakhimpur Kheri district",
     "tags": [
-      "Choti Kashi",
-      "Ravana",
-      "Kettle Lake"
+      "Kashi of Terai",
+      "Ravana Legend",
+      "High Gravity"
     ],
-    "story": "Known as Choti Kashi; Ravana was forced to leave the Linga here by Ganesha's trick.",
-    "highlight": "Ravana legend.",
+    "story": "The primary Shaiva anchor of Lakhimpur Kheri, centered on the Ravana-linga tradition where the lingam became too heavy to carry onward, fixing this site as a major regional gravity well.",
+    "highlight": "District titan and spiritual motherboard for the Indo-Nepal Terai belt.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gola0.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Gola0.jpg",
-    "deity": "Shiva",
+    "deity": "Shiva (Gola Gokarannath)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Cheti Mela (April).",
+    "addedAt": "2026-02-25T20:23:00+05:30",
+    "bestTime": "Cheti Mela (April), Shravan month, and Mahashivratri.",
     "timings": "Open daily.",
-    "dressCode": "Traditional.",
-    "entryNotes": "Very crowded during Mela.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Very high footfall during Kanwar and Mela windows.",
     "rituals": [
-      "Jal Abhishek"
+      "Jal abhishek",
+      "Kanwar offering"
     ],
     "festivals": [
-      "Cheti Mela"
+      "Cheti Mela",
+      "Mahashivratri",
+      "Shravan month"
     ],
     "moreDetails": {
-      "history": "Ancient.",
-      "architecture": "Nagara influence.",
-      "visitorNotes": "Major pilgrimage.",
+      "history": "Preserved as one of the oldest and most significant Shaiva pilgrimage centers in the Terai zone of Uttar Pradesh.",
+      "architecture": "Large active pilgrimage complex with regional Nagara-influenced features and high-circulation ritual corridors.",
+      "visitorNotes": "Plan early darshan during festival periods due to heavy queues.",
       "sources": [
         {
           "label": "Gola Gokaran Nath",
           "url": "https://en.wikipedia.org/wiki/Gola_Gokaran_Nath_Temple",
           "type": "Encyclopedia"
+        },
+        {
+          "label": "Lakhimpur Kheri district",
+          "url": "https://en.wikipedia.org/wiki/Lakhimpur_Kheri_district",
+          "type": "District reference"
         }
       ]
-    }
+    },
+    "district": "Lakhimpur Kheri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   },
   {
     "name": "Frog Temple (Oel)",
@@ -2917,79 +2980,96 @@ export const uttarPradeshTemples = [
     "city": "Oel",
     "region": "Lakhimpur Kheri district",
     "tags": [
-      "Manduk",
-      "Tantric",
-      "Frog Shape"
+      "Manduka Tantra",
+      "Flood Protection",
+      "Earth Grounding"
     ],
-    "story": "A unique Manduk (Frog) temple built on the back of a giant frog statue; believed to be Tantric.",
-    "highlight": "Frog-shaped base.",
+    "story": "A distinct Tantra-linked Shiva temple built on a giant stone frog form, aligned with Manduka symbolism of fertility, stability, and disaster-shielding in the flood-prone Terai belt.",
+    "highlight": "Manduka-Tantra architectural anomaly designed for heavy regional stability.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lakhimpurfrogtemple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Lakhimpurfrogtemple.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva (Tantric)",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Year-round.",
+    "addedAt": "2026-02-25T20:23:00+05:30",
+    "bestTime": "October to March; Mahashivratri is preferred.",
     "timings": "Open daily.",
-    "dressCode": "Casual.",
-    "entryNotes": "Unique architecture.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Visit in daylight to observe full manduka-geometry details.",
     "rituals": [
-      "Tantric puja"
+      "Tantric puja",
+      "Jal abhishek"
     ],
     "festivals": [
-      "Shivratri"
+      "Mahashivratri",
+      "Shravan month"
     ],
     "moreDetails": {
-      "history": "19th century.",
-      "architecture": "Manduk Yantra.",
-      "visitorNotes": "Rare design.",
+      "history": "Recognized as a rare Tantric-era design expression in the Oel-Lakhimpur landscape.",
+      "architecture": "Manduka-form platform with symbolic flood- and fertility-linked grounding logic.",
+      "visitorNotes": "One of the most unusual temple forms in the district.",
       "sources": [
         {
-          "label": "Oel",
+          "label": "Lakhimpur Kheri district",
           "url": "https://en.wikipedia.org/wiki/Lakhimpur_Kheri_district",
-          "type": "Encyclopedia"
+          "type": "District reference"
         }
       ]
-    }
+    },
+    "district": "Lakhimpur Kheri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   },
   {
-    "name": "Liloti Nath Temple",
+    "name": "Lilauti Nath Temple",
     "state": "Uttar Pradesh",
     "city": "Lakhimpur",
     "region": "Lakhimpur Kheri district",
     "tags": [
-      "Ashaltama",
-      "Mahabharata",
-      "Liling"
+      "Lilauti Nath",
+      "Rural Anchor",
+      "Agrarian Grid"
     ],
-    "story": "Ashwatthama is believed to visit here to offer prayers; Linga origin is mysterious.",
-    "highlight": "Ashwatthama legend.",
+    "story": "A high-resonance rural Shaiva anchor in the plains belt, known for a large ancient lingam and localized traditions of subtle color shift with changing sunlight.",
+    "highlight": "Steady rural baseline node for the Lakhimpur agricultural sub-grid.",
     "image": "/temples/temple-01.svg",
     "credit": "",
     "creditUrl": "/temples/temple-01.svg",
     "deity": "Shiva",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Year-round.",
+    "addedAt": "2026-02-25T20:23:00+05:30",
+    "bestTime": "October to March.",
     "timings": "Open daily.",
-    "dressCode": "Traditional.",
-    "entryNotes": "Near border.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Rural route conditions can vary by season.",
     "rituals": [
-      "Daily puja"
+      "Daily puja",
+      "Jal abhishek"
     ],
-    "festivals": [],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
     "moreDetails": {
-      "history": "Ancient.",
-      "architecture": "Simple.",
-      "visitorNotes": "Spiritual vibration.",
+      "history": "Maintained in local continuity as an old agrarian-belt Shiva worship center.",
+      "architecture": "Simple, mature rural shrine profile centered on a large lingam focus.",
+      "visitorNotes": "Best visited with local route inputs and daylight travel planning.",
       "sources": [
         {
-          "label": "Lakhimpur",
+          "label": "Lakhimpur Kheri district",
           "url": "https://en.wikipedia.org/wiki/Lakhimpur_Kheri_district",
-          "type": "Encyclopedia"
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Lilauti%20Nath%20Temple%20Lakhimpur%20Kheri",
+          "type": "Map search"
         }
       ]
-    }
+    },
+    "district": "Lakhimpur Kheri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   },
   {
     "name": "Deokali Mandir",
@@ -3111,86 +3191,108 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Baleshwar Temple (Ballia)",
+    "name": "Baleshwar Nath Temple",
     "state": "Uttar Pradesh",
     "city": "Ballia",
     "region": "Ballia district",
     "tags": [
-      "Fair",
-      "Market",
-      "Dadri Mela"
+      "Baleshwar Nath",
+      "Urban Grounding",
+      "District Hub"
     ],
-    "story": "The main temple of Ballia, famous for the Dadri Mela (cattle fair) held nearby.",
-    "highlight": "Famous Dadri Mela.",
+    "story": "A central urban Shaiva grounding rod in Ballia city, managing high-density devotional traffic and balancing nearby high-velocity river energy with a steady rhythmic baseline.",
+    "highlight": "Primary city-baseline stabilizer for Ballia district headquarters.",
     "image": "/temples/temple-06.svg",
     "credit": "",
     "creditUrl": "/temples/temple-06.svg",
-    "deity": "Shiva",
+    "deity": "Shiva (Baleshwar Nath)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Dadri Mela (Nov).",
+    "addedAt": "2026-02-25T22:19:00+05:30",
+    "bestTime": "Year-round; Mahashivratri and Shravan are peak periods.",
     "timings": "Open daily.",
-    "dressCode": "Traditional.",
-    "entryNotes": "City center.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "City-center high-footfall zone.",
     "rituals": [
-      "Daily puja"
+      "Daily puja",
+      "Jal abhishek"
     ],
     "festivals": [
-      "Dadri Mela"
+      "Mahashivratri",
+      "Shravan month",
+      "Dadri Mela season"
     ],
     "moreDetails": {
-      "history": "Ancient.",
-      "architecture": "Modern renovation.",
-      "visitorNotes": "Busy market area.",
+      "history": "Maintained as one of Ballia city's core Shaiva public-devotion anchors.",
+      "architecture": "Urban temple complex with carved stone devotional elements and continuous daily worship flow.",
+      "visitorNotes": "Expect significant crowd peaks during major observances.",
       "sources": [
+        {
+          "label": "Ballia district",
+          "url": "https://en.wikipedia.org/wiki/Ballia_district",
+          "type": "District reference"
+        },
         {
           "label": "Ballia",
-          "url": "https://en.wikipedia.org/wiki/Ballia",
-          "type": "Encyclopedia"
+          "url": "https://en.wikipedia.org/wiki/Ballia,_Uttar_Pradesh",
+          "type": "City reference"
         }
       ]
-    }
+    },
+    "district": "Ballia",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   },
   {
-    "name": "Kameshwar Dham",
+    "name": "Kameshwar Dham (Karo)",
     "state": "Uttar Pradesh",
-    "city": "Ghazipur",
-    "region": "Ghazipur district",
+    "city": "Karo, Ballia",
+    "region": "Ballia district",
     "tags": [
-      "Kama",
-      "Burnt",
-      "Ash"
+      "Kama-Dahan",
+      "Third Eye",
+      "Fire-Purified"
     ],
-    "story": "Believed to be the place where Shiva burnt Kamadeva to ashes (Kama-Dahan).",
-    "highlight": "Mythological site.",
+    "story": "A major Shaiva fire-node linked to the Kama-Dahan narrative, preserved as a high-intensity coordinate where Shiva's third-eye purification marks victory of consciousness over desire.",
+    "highlight": "Titan Sutra-coordinate with fire-purified high-intensity Shaivite resonance.",
     "image": "/temples/temple-06.svg",
     "credit": "",
     "creditUrl": "/temples/temple-06.svg",
-    "deity": "Shiva",
+    "deity": "Shiva (Kameshwar)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
+    "addedAt": "2026-02-25T22:19:00+05:30",
     "bestTime": "Year-round.",
     "timings": "Open daily.",
-    "dressCode": "Traditional.",
+    "dressCode": "Modest temple attire recommended.",
     "entryNotes": "Karo village.",
     "rituals": [
-      "Bhasma offering"
+      "Bhasma offering",
+      "Jal abhishek"
     ],
     "festivals": [
-      "Holi"
+      "Mahashivratri",
+      "Holi",
+      "Shravan month"
     ],
     "moreDetails": {
-      "history": "Puranic.",
-      "architecture": "Simple.",
-      "visitorNotes": "Village setting.",
+      "history": "Maintained in local Puranic tradition as a Kama-Dahan Shaiva power-point.",
+      "architecture": "Rural dham-style shrine profile with strong myth-linked ritual identity.",
+      "visitorNotes": "Popular for focused vow-based worship cycles.",
       "sources": [
         {
-          "label": "Ghazipur",
-          "url": "https://en.wikipedia.org/wiki/Ghazipur",
-          "type": "Encyclopedia"
+          "label": "Ballia district",
+          "url": "https://en.wikipedia.org/wiki/Ballia_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kameshwar%20Dham%20Karo%20Ballia",
+          "type": "Map search"
         }
       ]
-    }
+    },
+    "district": "Ballia",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   },
   {
     "name": "Hiranyavati Temple",
@@ -3232,45 +3334,55 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Dugdheshwarnath Temple",
+    "name": "Dugdheshwar Nath Temple (Rudrapur)",
     "state": "Uttar Pradesh",
-    "city": "Deoria",
+    "city": "Rudrapur",
     "region": "Deoria district",
     "tags": [
-      "Milk",
-      "Hidden",
-      "Rudra"
+      "Dugdheshwar",
+      "Swayambhu",
+      "Heavy-Gravity"
     ],
-    "story": "An ancient temple dedicated to Rudra; legend says cows spontaneously offered milk here.",
-    "highlight": "Ancient Linga.",
+    "story": "A major Swayambhu Shaiva anchor in the Rudrapur sector, centered on a below-ground lingam and preserved in tradition through the natural milk-abhishek cow narrative.",
+    "highlight": "Absolute district titan and high-gravity motherboard for the borderland devotional field.",
     "image": "/temples/temple-05.svg",
     "credit": "",
     "creditUrl": "/temples/temple-05.svg",
-    "deity": "Shiva",
+    "deity": "Shiva (Dugdheshwar Nath)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Sawan.",
+    "addedAt": "2026-02-25T21:29:00+05:30",
+    "bestTime": "October to March; Shravan and Mahashivratri are peak windows.",
     "timings": "Open daily.",
-    "dressCode": "Traditional.",
-    "entryNotes": "Rudrapratap area.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Below-ground sanctum profile; expect high crowds during festival days.",
     "rituals": [
-      "Milk Abhishekam"
+      "Milk abhishek",
+      "Jal abhishek"
     ],
     "festivals": [
-      "Shivratri"
+      "Mahashivratri",
+      "Shravan month"
     ],
     "moreDetails": {
-      "history": "Ancient.",
-      "architecture": "Nagara.",
-      "visitorNotes": "Popular in East UP.",
+      "history": "Maintained as an ancient Rudrapur-region Shaiva center with deep local reverence.",
+      "architecture": "Traditional shrine complex with a notable lower-level linga focus.",
+      "visitorNotes": "Plan early darshan in Shravan to avoid long queues.",
       "sources": [
         {
-          "label": "Deoria",
+          "label": "Deoria district",
           "url": "https://en.wikipedia.org/wiki/Deoria,_Uttar_Pradesh",
-          "type": "Encyclopedia"
+          "type": "Reference"
+        },
+        {
+          "label": "Rudrapur, Deoria",
+          "url": "https://www.openstreetmap.org/search?query=Rudrapur%20Deoria",
+          "type": "Map search"
         }
       ]
-    }
+    },
+    "district": "Deoria",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   },
   {
     "name": "Piteshwarnath Temple",
@@ -3360,32 +3472,34 @@ export const uttarPradeshTemples = [
     "city": "Pilibhit",
     "region": "Pilibhit district",
     "tags": [
-      "Gateway",
       "Devha River",
-      "Fair"
+      "Khakra Confluence",
+      "Primary Anchor"
     ],
-    "story": "Located at the gateway to the Khakra river; famous for its annual fair.",
-    "highlight": "River gateway.",
+    "story": "A major Shaiva anchor at the Devha-Khakra confluence belt in Pilibhit, combining river-cooled devotional flow with stable, deep-soil grounding.",
+    "highlight": "Primary district anchor at a dual-river cooling and grounding zone.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaurishankar_mandir_pilibhit01.JPG",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Gaurishankar_mandir_pilibhit01.JPG",
     "deity": "Shiva/Gauri",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Shivratri.",
+    "addedAt": "2026-02-25T20:02:00+05:30",
+    "bestTime": "October to March; Shravan and Mahashivratri are peak periods.",
     "timings": "Open daily.",
-    "dressCode": "Traditional.",
-    "entryNotes": "Devha river bank.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Located in the confluence zone; seasonal water and crowd conditions vary.",
     "rituals": [
+      "Jal abhishek",
       "Daily puja"
     ],
     "festivals": [
-      "Shivratri Mela"
+      "Mahashivratri",
+      "Shravan month fair"
     ],
     "moreDetails": {
-      "history": "250 years old.",
-      "architecture": "Colonial influence.",
-      "visitorNotes": "Busy fair.",
+      "history": "Preserved in district tradition as an approximately 250-year-old confluence-linked Shiva center.",
+      "architecture": "Distinctive entrance profile with local canopy-inspired visual treatment and active riverfront ritual circulation.",
+      "visitorNotes": "Expect heavy local turnout during major festival windows.",
       "sources": [
         {
           "label": "Pilibhit",
@@ -3393,7 +3507,10 @@ export const uttarPradeshTemples = [
           "type": "Encyclopedia"
         }
       ]
-    }
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   },
   {
     "name": "Arga Parvati Temple",
@@ -3435,45 +3552,55 @@ export const uttarPradeshTemples = [
     }
   },
   {
-    "name": "Prithvinath Temple",
+    "name": "Prithvi Nath Mahadev (Kharagupur)",
     "state": "Uttar Pradesh",
     "city": "Gonda",
     "region": "Gonda district",
     "tags": [
-      "Earth",
-      "Largest Linga",
-      "Bhim"
+      "Kharagupur",
+      "Swayambhu Linga",
+      "Deep Earth Vertical"
     ],
-    "story": "Houses a massive Linga believed to be established by Bhima; named Prithvinath (Lord of Earth).",
-    "highlight": "Huge Linga.",
+    "story": "A major Shaiva anchor in Kharagupur tradition, centered on a towering Swayambhu lingam associated with deep-earth resonance and a king-era discovery narrative during pond excavation.",
+    "highlight": "District titan with vertical deep-substrata grounding profile.",
     "image": "/temples/temple-02.svg",
     "credit": "",
     "creditUrl": "/temples/temple-02.svg",
-    "deity": "Shiva",
+    "deity": "Shiva (Prithvi Nath Mahadev)",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Shivratri.",
+    "addedAt": "2026-02-25T20:59:00+05:30",
+    "bestTime": "October to March; Mahashivratri and Shravan are peak periods.",
     "timings": "Open daily.",
-    "dressCode": "Traditional.",
-    "entryNotes": "Kharagupur.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Kharagupur location; major festival crowd surges expected.",
     "rituals": [
-      "Jal Abhishek"
+      "Jal abhishek",
+      "Rudrabhishek"
     ],
     "festivals": [
-      "Shivratri"
+      "Mahashivratri",
+      "Shravan month"
     ],
     "moreDetails": {
-      "history": "Mahabharata era.",
-      "architecture": "Modern complex.",
-      "visitorNotes": "Tallest Linga in region claims.",
+      "history": "Maintained in district lore as a high-antiquity Swayambhu linga site with strong royal-era discovery associations.",
+      "architecture": "Temple complex organized around a prominent vertical lingam core.",
+      "visitorNotes": "Arrive early during festivals due to high footfall.",
       "sources": [
         {
-          "label": "Gonda",
+          "label": "Gonda district",
           "url": "https://en.wikipedia.org/wiki/Gonda_district",
-          "type": "Encyclopedia"
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prithvi%20Nath%20Mahadev%20Kharagupur%20Gonda",
+          "type": "Map search"
         }
       ]
-    }
+    },
+    "district": "Gonda",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   },
   {
     "name": "Sarangnath Mahadev",
@@ -6693,5 +6820,3584 @@ export const uttarPradeshTemples = [
     "district": "Jhansi",
     "verificationStatus": "verified",
     "lastVerifiedAt": "2026-02-23T10:45:00Z"
+  },
+  {
+    "name": "Neelkanth Mahadev (Pali)",
+    "state": "Uttar Pradesh",
+    "city": "Pali",
+    "region": "Lalitpur district",
+    "tags": [
+      "Lalitpur",
+      "Neelkanth Mahadev",
+      "Hill Temple"
+    ],
+    "story": "An ancient hill-associated Shiva shrine in the Pali sector of Lalitpur, known for a powerful elevated setting and a strong vertical devotional presence along the southern UP frontier.",
+    "highlight": "Primary high-vertical Shiva transmitter node for Lalitpur district.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Neelkanth Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:57:53+05:30",
+    "bestTime": "October to March; Mahashivratri and Shravan are peak periods.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Hill approach can be weather-sensitive; verify local access before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Rudra chanting"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local tradition as one of the principal Shaiva anchors of Lalitpur's hill belt.",
+      "architecture": "Regional hill-temple profile with stone-based shrine features.",
+      "visitorNotes": "Early morning darshan is generally preferred in warmer months.",
+      "sources": [
+        {
+          "label": "Lalitpur district",
+          "url": "https://en.wikipedia.org/wiki/Lalitpur_district,_India",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lalitpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Muchkund Mahadev (Deogarh)",
+    "state": "Uttar Pradesh",
+    "city": "Deogarh",
+    "region": "Lalitpur district",
+    "tags": [
+      "Lalitpur",
+      "Deogarh",
+      "Gupta-era Zone"
+    ],
+    "story": "A deep-antiquity Shiva node in the Deogarh heritage landscape, near early temple-era remains and associated with the classical stone-building traditions of the region.",
+    "highlight": "Heavy-grounded Shaiva anchor in the early-historic Deogarh matrix.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Muchkund Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:57:53+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Can be visited with Deogarh heritage sites; verify local route conditions.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Linked to the wider Deogarh heritage zone known for early medieval/classical temple remains.",
+      "architecture": "Stone-temple tradition in a fortified-hill cultural landscape.",
+      "visitorNotes": "Pair with nearby Deogarh archaeological landmarks.",
+      "sources": [
+        {
+          "label": "Deogarh, Lalitpur",
+          "url": "https://en.wikipedia.org/wiki/Deogarh,_Uttar_Pradesh",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "district": "Lalitpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Jhadiya Mahadev",
+    "state": "Uttar Pradesh",
+    "city": "Lalitpur",
+    "region": "Lalitpur district",
+    "tags": [
+      "Lalitpur",
+      "Forest Node",
+      "Waterfall Proximity"
+    ],
+    "story": "A forest-linked Shiva shrine tradition in the Lalitpur landscape, associated with natural water and woodland acoustics that support a calm, cooling ritual environment.",
+    "highlight": "Hydro-cooled forest Shaiva node in the Lalitpur sub-grid.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:57:53+05:30",
+    "bestTime": "Post-monsoon to winter.",
+    "timings": "Daylight visits recommended.",
+    "dressCode": "Modest, outdoor-friendly attire.",
+    "entryNotes": "Local guidance is recommended for forest-side access routes.",
+    "rituals": [
+      "Jal abhishek",
+      "Local puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Sustained through local devotional continuity in nature-interface shrine traditions.",
+      "architecture": "Small shrine format in a natural terrain setting.",
+      "visitorNotes": "Check seasonal road and trail conditions before visiting.",
+      "sources": [
+        {
+          "label": "Lalitpur district",
+          "url": "https://en.wikipedia.org/wiki/Lalitpur_district,_India",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lalitpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Buteshwar Mahadev (Near the Betwa River)",
+    "state": "Uttar Pradesh",
+    "city": "Lalitpur",
+    "region": "Lalitpur district",
+    "tags": [
+      "Lalitpur",
+      "Betwa River",
+      "Buteshwar"
+    ],
+    "story": "A Betwa-linked Shiva shrine in the Lalitpur region, representing a river-edge transition node between rocky uplands and adjoining plains.",
+    "highlight": "Major river-synced Shaiva stabilization point on the Betwa corridor.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Buteshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:57:53+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Riverbank conditions can vary seasonally.",
+    "rituals": [
+      "Jal arpan",
+      "Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Part of the Betwa-side Shaiva worship continuum in south UP.",
+      "architecture": "Regional shrine profile with river-adjacent ritual use.",
+      "visitorNotes": "Prefer daylight visits and local route confirmation in monsoon season.",
+      "sources": [
+        {
+          "label": "Betwa River",
+          "url": "https://en.wikipedia.org/wiki/Betwa_River",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "district": "Lalitpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kherapati Mahadev",
+    "state": "Uttar Pradesh",
+    "city": "Lalitpur",
+    "region": "Lalitpur district",
+    "tags": [
+      "Lalitpur",
+      "Village Anchor",
+      "Kherapati"
+    ],
+    "story": "A rural Shiva anchor in the Lalitpur district worship network, representing village-level continuity in daily Shaiva devotion and agricultural community ritual cycles.",
+    "highlight": "Localized village-grid grounding rod for Lalitpur's rural devotional matrix.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Kherapati Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:57:53+05:30",
+    "bestTime": "Year-round; Mahashivratri and Shravan are busiest.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Village shrine access may require local route assistance.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Village Shaiva traditions like Kherapati shrines remain central to district devotional continuity.",
+      "architecture": "Small rural shrine architecture with community-led upkeep.",
+      "visitorNotes": "Best visited with local contacts in rural sectors.",
+      "sources": [
+        {
+          "label": "Lalitpur district",
+          "url": "https://en.wikipedia.org/wiki/Lalitpur_district,_India",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lalitpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Gupt Godavari (Shiva-Shakti Cave)",
+    "state": "Uttar Pradesh",
+    "city": "Chitrakoot",
+    "region": "Chitrakoot district",
+    "tags": [
+      "Gupt Godavari",
+      "Cave Shrine",
+      "Shiva-Shakti"
+    ],
+    "story": "A major cave-based sacred node in Chitrakoot where perennial water flows through limestone chambers, with a high-resonance Shiva point at the cave interior.",
+    "highlight": "Silent-vibration cave loop with perennial hydro-acoustic ritual environment.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (with Shakti cave tradition)",
+    "tradition": "Shaiva-Shakta",
+    "addedAt": "2026-02-25T16:57:53+05:30",
+    "bestTime": "October to March; avoid peak monsoon for easier access.",
+    "timings": "Open daily; cave timings vary seasonally.",
+    "dressCode": "Modest attire; cave-safe footwear recommended.",
+    "entryNotes": "Cave pathways can be wet and narrow in places.",
+    "rituals": [
+      "Jal offerings",
+      "Cave darshan puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Gupt Godavari has long been a central sacred cave destination in Chitrakoot's pilgrimage geography.",
+      "architecture": "Natural limestone cave system with shrine spaces and perennial water flow.",
+      "visitorNotes": "Plan daylight visit and local guidance for peak days.",
+      "sources": [
+        {
+          "label": "Gupt Godavari Caves",
+          "url": "https://en.wikipedia.org/wiki/Gupt_Godavari",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "district": "Chitrakoot",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Koteshwar Mahadev (Chitrakoot)",
+    "state": "Uttar Pradesh",
+    "city": "Chitrakoot",
+    "region": "Chitrakoot district",
+    "tags": [
+      "Koteshwar",
+      "Cave System",
+      "Geological Lingams"
+    ],
+    "story": "A cave-linked Shiva node in the Chitrakoot hill zone, associated with naturally formed geological linga patterns and deep limestone-core earth resonance.",
+    "highlight": "Raw-earth cave-transmission node near the Devangana valley sector.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Koteshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:57:53+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local cave access timings vary.",
+    "dressCode": "Modest attire; suitable footwear advised.",
+    "entryNotes": "Terrain can be uneven near cave sections.",
+    "rituals": [
+      "Abhishek",
+      "Local cave-shrine puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Retained in regional pilgrimage memory as one of Chitrakoot's major cave-based Shaiva points.",
+      "architecture": "Natural cave geology integrated with shrine worship.",
+      "visitorNotes": "Prefer daylight and locally guided visits.",
+      "sources": [
+        {
+          "label": "Chitrakoot Dham",
+          "url": "https://en.wikipedia.org/wiki/Chitrakoot_Dham",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "district": "Chitrakoot",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Char Mahadev Grid (Vajra-Kumbheshwar-Bankey-Somnath)",
+    "state": "Uttar Pradesh",
+    "city": "Chitrakoot",
+    "region": "Chitrakoot district",
+    "tags": [
+      "Char Mahadev",
+      "Cardinal Nodes",
+      "Protective Grid"
+    ],
+    "story": "A composite sacred-grid entry representing four directional Shiva anchors around Chitrakoot: Vajra Mahadev, Kumbheshwar, Bankey, and Somnath.",
+    "highlight": "Cardinal security-firewall style Shaiva grid around central Chitrakoot forest zone.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (four-node grid tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:57:53+05:30",
+    "bestTime": "October to March; sequential circuit visits preferred.",
+    "timings": "Open daily; timings vary by node.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "This is a multi-site circuit entry; local route planning is recommended.",
+    "rituals": [
+      "Parikrama-style circuit puja",
+      "Jal offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Preserved in local sacred geography as a directional Shaiva protection matrix.",
+      "architecture": "Mixed shrine forms across multiple points.",
+      "visitorNotes": "Best completed over a full day with local guidance.",
+      "sources": [
+        {
+          "label": "Chitrakoot Dham",
+          "url": "https://en.wikipedia.org/wiki/Chitrakoot_Dham",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "district": "Chitrakoot",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sfatik Shila Shiva Markers",
+    "state": "Uttar Pradesh",
+    "city": "Chitrakoot",
+    "region": "Chitrakoot district",
+    "tags": [
+      "Sfatik Shila",
+      "Forest Markers",
+      "Meditation Nodes"
+    ],
+    "story": "A forest-riverbank Shiva marker tradition near the Sphatik Shila zone in Chitrakoot, representing small weathered linga points in a low-noise meditative environment.",
+    "highlight": "Steady baseline forest-frequency Shaiva markers in the Mandakini woodland belt.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T16:57:53+05:30",
+    "bestTime": "Post-monsoon to winter.",
+    "timings": "Daylight visits recommended.",
+    "dressCode": "Modest, outdoor-friendly attire.",
+    "entryNotes": "Forest-edge routes and river conditions may vary by season.",
+    "rituals": [
+      "Meditative darshan",
+      "Jal offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Linked with long-standing forest-side worship patterns in Chitrakoot's sacred landscape.",
+      "architecture": "Small natural-stone marker shrines.",
+      "visitorNotes": "Best approached with local guidance and daylight.",
+      "sources": [
+        {
+          "label": "Sphatik Shila",
+          "url": "https://en.wikipedia.org/wiki/Chitrakoot_Dham",
+          "type": "Regional reference"
+        }
+      ]
+    },
+    "district": "Chitrakoot",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Khajwa Mahadev Temple",
+    "state": "Uttar Pradesh",
+    "city": "Mahoba",
+    "region": "Mahoba district",
+    "tags": [
+      "Khajwa Mahadev",
+      "Madan Sagar",
+      "Chandela-era"
+    ],
+    "story": "An important Shaiva anchor near Madan Sagar in Mahoba, associated with early stone temple traditions and a strong water-linked ritual environment.",
+    "highlight": "Primary Mahoba hydro-linked Shaiva anchor in the Madan Sagar zone.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Khajwa Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T17:02:00+05:30",
+    "bestTime": "October to March; Mahashivratri and Shravan are busiest.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Lake-edge access can vary by season and local route.",
+    "rituals": [
+      "Jal abhishek",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in Mahoba's Chandela-linked sacred memory as a key Shiva node.",
+      "architecture": "Granite-heavy regional temple profile with lake-facing ritual context.",
+      "visitorNotes": "Morning and evening darshan are generally preferred.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Khajwa%20Mahadev%20Temple%20Mahoba",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Tandav (Gokhar Hill)",
+    "state": "Uttar Pradesh",
+    "city": "Mahoba",
+    "region": "Mahoba district",
+    "tags": [
+      "Gokhar Hill",
+      "Rock Carving",
+      "Tandava"
+    ],
+    "story": "A hill-carved Shaiva anomaly in Mahoba's granite terrain, centered on a high-energy Tandava representation integrated into living rock.",
+    "highlight": "High-frequency lithosphere-linked Shiva transmitter on Gokhar hill.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Tandava form)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T17:02:00+05:30",
+    "bestTime": "October to March; avoid peak summer daytime climbs.",
+    "timings": "Daylight visits recommended.",
+    "dressCode": "Modest, outdoor-friendly attire.",
+    "entryNotes": "Hill approach may be uneven; local guidance is helpful.",
+    "rituals": [
+      "Local puja",
+      "Abhishek on auspicious days"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Preserved in local tradition as part of Mahoba's rock-cut Shaiva iconographic heritage.",
+      "architecture": "Rock-integrated sculptural shrine expression.",
+      "visitorNotes": "Plan in daylight and carry water for hill sections.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gokhar%20Hill%20Shiv%20Tandav%20Mahoba",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Nilkantha Mahadev (Kalinjar-Adjacent)",
+    "state": "Uttar Pradesh",
+    "city": "Mahoba fringe",
+    "region": "Mahoba district",
+    "tags": [
+      "Nilkantha",
+      "Kalinjar Fringe",
+      "Cave Abhishek"
+    ],
+    "story": "A Kalinjar-adjacent Shaiva node associated with cave-based dripping-water abhishek tradition, serving as a warrior-frequency interface for the Mahoba-Bundelkhand belt.",
+    "highlight": "Self-sustaining cave-abhishek Shiva node on the Mahoba-Kalinjar edge.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Nilkantha)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T17:02:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Kalinjar-side terrain can involve climbs and cave sections.",
+    "rituals": [
+      "Jal abhishek",
+      "Cave darshan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Kalinjar festival window"
+    ],
+    "moreDetails": {
+      "history": "Linked to the long-standing Nilkantha cave worship continuum of the Kalinjar frontier zone.",
+      "architecture": "Cave-linked shrine setting with natural drip-fed ritual flow.",
+      "visitorNotes": "Check route and fort-side timings before travel.",
+      "sources": [
+        {
+          "label": "Kalinjar Fort",
+          "url": "https://en.wikipedia.org/wiki/Kalinjar_Fort",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nilkantha%20Mahadev%20Kalinjar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Suraj Kund Shiva Shrines",
+    "state": "Uttar Pradesh",
+    "city": "Mahoba",
+    "region": "Mahoba district",
+    "tags": [
+      "Suraj Kund",
+      "Solar-Water Node",
+      "Temple Cluster"
+    ],
+    "story": "A tank-centered Shiva shrine cluster in Mahoba, associated with geometric kund planning and sun-water ritual cycles in Chandela-era sacred design traditions.",
+    "highlight": "Stabilized solar-water Shaiva node around an ancient geometric tank environment.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T17:02:00+05:30",
+    "bestTime": "October to March; sunrise visits are preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Tank-side paths may be slippery in monsoon season.",
+    "rituals": [
+      "Jal offerings",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Part of Mahoba's water-architecture and temple ecosystem tied to Chandela-period planning.",
+      "architecture": "Kund-adjacent shrine forms with geometric water-body context.",
+      "visitorNotes": "Best visited in daylight with local route awareness.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Suraj%20Kund%20Mahoba",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kirat Sagar Shiva Node",
+    "state": "Uttar Pradesh",
+    "city": "Mahoba",
+    "region": "Mahoba district",
+    "tags": [
+      "Kirat Sagar",
+      "Reservoir Node",
+      "Rural Anchor"
+    ],
+    "story": "A reservoir-edge Shiva node in the Kirat Sagar landscape, functioning as a quiet stabilization point for village and agrarian devotional rhythms around Mahoba.",
+    "highlight": "Baseline rural water-linked Shaiva anchor for the Kirat Sagar sub-grid.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T17:02:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Reservoir-side conditions vary seasonally.",
+    "rituals": [
+      "Jal abhishek",
+      "Village puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local rural temple continuity around Kirat Sagar's long-standing water network.",
+      "architecture": "Small regional shrine forms in a reservoir-adjacent setting.",
+      "visitorNotes": "Local guidance is helpful for shrine-specific approach points.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kirat%20Sagar%20Mahoba",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Trilok Teerth Shiva Node (Bada Gaon)",
+    "state": "Uttar Pradesh",
+    "city": "Bada Gaon",
+    "region": "Baghpat district",
+    "tags": [
+      "Trilok Teerth",
+      "Bada Gaon",
+      "Rural Grid"
+    ],
+    "story": "A Shiva node entry for the Bada Gaon-Trilok Teerth landscape, representing the older Vedic-Shaiva grounding layer around a modern high-visibility pilgrimage zone.",
+    "highlight": "Data-overlay point where ancient rural Shaiva markers persist around a major contemporary complex.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T17:04:03+05:30",
+    "bestTime": "October to March; Mahashivratri and Shravan are preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "This entry reflects a node cluster context in the Bada Gaon sacred landscape.",
+    "rituals": [
+      "Jal abhishek",
+      "Local puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Represents continuity of Shaiva worship in the Bada Gaon belt of Baghpat district.",
+      "architecture": "Mixed marker-shrine forms across the local sacred zone.",
+      "visitorNotes": "Plan with local guidance for node-specific access.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "Trilok Teerth Dham",
+          "url": "https://en.wikipedia.org/wiki/Trilok_Teerth_Dham",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Gufa Wale Baba (Chhaprauli)",
+    "state": "Uttar Pradesh",
+    "city": "Chhaprauli",
+    "region": "Baghpat district",
+    "tags": [
+      "Chhaprauli",
+      "Cave Node",
+      "Cool-Earth"
+    ],
+    "story": "A cave-like Shiva node tradition in the Chhaprauli region, known for a cool subterranean devotional atmosphere and low-noise rural stabilization energy.",
+    "highlight": "Subterranean-style stabilization point for northern rural Baghpat sub-grids.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T17:04:03+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest, outdoor-friendly attire.",
+    "entryNotes": "Access details may vary; local route confirmation is recommended.",
+    "rituals": [
+      "Abhishek",
+      "Cave darshan puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local rural Shaiva continuity in the Chhaprauli belt.",
+      "architecture": "Cave-like/earth-sheltered shrine profile.",
+      "visitorNotes": "Prefer daytime visits and local guidance.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gufa%20Wale%20Baba%20Chhaprauli",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Barnawa Shiva Shrines",
+    "state": "Uttar Pradesh",
+    "city": "Barnawa",
+    "region": "Baghpat district",
+    "tags": [
+      "Barnawa",
+      "Lakshagriha",
+      "Archaeological Mound"
+    ],
+    "story": "A Shaiva shrine-cluster entry for the Barnawa-Lakshagriha heritage mound zone, where surviving temple markers act as historical transmitters to the Mahabharata memory-layer of the region.",
+    "highlight": "Survivor-anchor grid on the Barnawa archaeological high-ground.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T17:04:03+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Mound and heritage-zone access may require local guidance.",
+    "rituals": [
+      "Local puja",
+      "Jal offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Barnawa is associated in regional tradition with Lakshagriha-era narratives and long-standing sacred usage.",
+      "architecture": "Small shrine remains and active nodes around elevated heritage terrain.",
+      "visitorNotes": "Combine with broader Barnawa heritage circuit.",
+      "sources": [
+        {
+          "label": "Barnava",
+          "url": "https://en.wikipedia.org/wiki/Barnava",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Yamuna-Bank Lingams (Baghpat Flow Nodes)",
+    "state": "Uttar Pradesh",
+    "city": "Baghpat river belt",
+    "region": "Baghpat district",
+    "tags": [
+      "Yamuna Bank",
+      "Flow Nodes",
+      "Agrarian Grid"
+    ],
+    "story": "A composite entry for Shiva lingam markers along the Baghpat Yamuna-bank corridor, where river flow continually renews ritual practice and local agrarian spiritual rhythms.",
+    "highlight": "Rhythmic river-reset Shaiva baseline for the western-edge agricultural heartland.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T17:04:03+05:30",
+    "bestTime": "October to March; avoid flood windows.",
+    "timings": "Daylight visits recommended.",
+    "dressCode": "Modest, outdoor-friendly attire.",
+    "entryNotes": "Riverbank conditions and specific node access vary by season.",
+    "rituals": [
+      "Jal arpan",
+      "Riverside puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Represents dispersed river-linked Shiva marker traditions along the Baghpat Yamuna edge.",
+      "architecture": "Small distributed shrine/lingam points on riverbank terrain.",
+      "visitorNotes": "Check seasonal water levels and local access safety.",
+      "sources": [
+        {
+          "label": "Yamuna River",
+          "url": "https://en.wikipedia.org/wiki/Yamuna",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shivpur (Panchmukhi Mahadev)",
+    "state": "Uttar Pradesh",
+    "city": "Mirzapur",
+    "region": "Mirzapur district",
+    "tags": [
+      "Panchmukhi",
+      "Shivpur",
+      "Five Aspects"
+    ],
+    "story": "A Panchmukhi Shiva node in the Mirzapur township belt, centered on a five-faced lingam associated with multi-aspect Shaiva worship.",
+    "highlight": "Multi-band Shiva resonance through Panchmukhi lingam tradition.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T18:22:00+05:30",
+    "bestTime": "October to March; Shravan month is active.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Local naming may vary between Shivpur and Panchmukhi Mahadev references.",
+    "rituals": [
+      "Jal abhishek",
+      "Panchamrit puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Part of Mirzapur's active urban-rural Shaiva devotional matrix.",
+      "architecture": "Five-faced lingam-focused sanctum with local ritual continuity.",
+      "visitorNotes": "Verify exact local route with residents before travel.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Panchmukhi%20Mahadev%20Shivpur%20Mirzapur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sidhnath Ki Dari",
+    "state": "Uttar Pradesh",
+    "city": "Mirzapur",
+    "region": "Mirzapur district",
+    "tags": [
+      "Waterfall Node",
+      "Hydro-Acoustic",
+      "Rock Carvings"
+    ],
+    "story": "A waterfall-linked Shaiva nature-interface site where rock-carved lingam traditions are associated with a constant hydro-acoustic environment.",
+    "highlight": "Raw hydro-acoustic Shiva node charged by perennial waterfall dynamics.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T18:22:00+05:30",
+    "bestTime": "Post-monsoon to winter; exercise caution during peak monsoon.",
+    "timings": "Daylight visit recommended.",
+    "dressCode": "Outdoor-friendly modest attire.",
+    "entryNotes": "Terrain can be slippery near falls; local guidance is recommended.",
+    "rituals": [
+      "Jal offerings",
+      "Meditative darshan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local memory as a combined rock-water Shiva node in the Mirzapur belt.",
+      "architecture": "Natural rock-face setting with shrine markers integrated into waterfall terrain.",
+      "visitorNotes": "Plan for safe approach and footwear suitable for wet rock.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sidhnath%20Ki%20Dari%20Mirzapur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Tarkeshwar Mahadev",
+    "state": "Uttar Pradesh",
+    "city": "Mirzapur",
+    "region": "Mirzapur district",
+    "tags": [
+      "Tarkeshwar",
+      "Forest Valley",
+      "Kunds"
+    ],
+    "story": "A quiet valley-based Shiva node in the Mirzapur region, associated with natural water-kunds and low-noise meditation-oriented worship patterns.",
+    "highlight": "Isolated forest-valley resonance with natural kund-linked stabilization.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T18:22:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest, trek-friendly attire.",
+    "entryNotes": "Access may include forest tracks; prefer local route support.",
+    "rituals": [
+      "Abhishek",
+      "Dhyana"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Part of Mirzapur's lesser-urbanized Shaiva sub-grid with kund-centered practice.",
+      "architecture": "Small shrine format integrated into a valley-water landscape.",
+      "visitorNotes": "Carry water and avoid late-evening travel in forest stretches.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Tarkeshwar%20Mahadev%20Mirzapur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Chunar Fort Shiva Shrines",
+    "state": "Uttar Pradesh",
+    "city": "Chunar",
+    "region": "Mirzapur district",
+    "tags": [
+      "Chunar Fort",
+      "Sentinel Nodes",
+      "Ganga Cliff"
+    ],
+    "story": "A composite fort-shrine Shaiva entry for the Chunar sandstone-cliff complex, where Shiva markers function as elevated sentinel nodes over a major Ganga bend.",
+    "highlight": "High-cliff aerial transmitter nodes in the Chunar defensive-sacred landscape.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T18:22:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Fort and shrine timings vary by section.",
+    "dressCode": "Modest attire with comfortable walking footwear.",
+    "entryNotes": "Combine with Chunar Fort heritage visit planning.",
+    "rituals": [
+      "Fort-shrine darshan",
+      "Jal offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Represents the Shaiva layer embedded in the Chunar Fort historical zone.",
+      "architecture": "Small shrine forms set within fort-era sandstone topography.",
+      "visitorNotes": "Check fort access rules and seasonal heat conditions.",
+      "sources": [
+        {
+          "label": "Chunar Fort",
+          "url": "https://en.wikipedia.org/wiki/Chunar_Fort",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Chaura Devi Shiva Node",
+    "state": "Uttar Pradesh",
+    "city": "Hamirpur",
+    "region": "Hamirpur district",
+    "tags": [
+      "Chaura Devi",
+      "Yamuna Bank",
+      "Dual Resonance"
+    ],
+    "story": "A Shiva sub-node cluster within the wider Chaura Devi sacred zone, functioning as a grounding Shaiva layer along high-velocity river-linked pilgrimage flow.",
+    "highlight": "Primary Pashupata stabilizer in the district's Shakti-river interface zone.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T19:08:00+05:30",
+    "bestTime": "October to March; active in Shravan cycle.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Often visited as part of a broader district confluence circuit.",
+    "rituals": [
+      "Jal abhishek",
+      "Shravan puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local tradition as a balancing Shaiva layer in a high-footfall confluence belt.",
+      "architecture": "Integrated shrine forms within an older riverside sacred complex.",
+      "visitorNotes": "Route and crowd density vary during festival windows.",
+      "sources": [
+        {
+          "label": "Hamirpur district",
+          "url": "https://en.wikipedia.org/wiki/Hamirpur_district,_Uttar_Pradesh",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Chaura%20Devi%20Hamirpur%20Uttar%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Hamirpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sangameshwar Mahadev (Patalkeshwar)",
+    "state": "Uttar Pradesh",
+    "city": "Hamirpur",
+    "region": "Hamirpur district",
+    "tags": [
+      "Sangam",
+      "Patalkeshwar",
+      "Deep Earth"
+    ],
+    "story": "A confluence-linked Patalkeshwar Shiva node in Hamirpur, known for an earth-shielded, deep-ground devotional profile in the district river matrix.",
+    "highlight": "Zero-point deep-earth Shiva anchor at the Hamirpur confluence belt.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T19:08:00+05:30",
+    "bestTime": "October to March; caution in monsoon high-water periods.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire with riverbank-safe footwear.",
+    "entryNotes": "Local water levels influence accessibility.",
+    "rituals": [
+      "Jal arpan",
+      "Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Preserved in regional practice as a Patalkeshwar-type confluence node.",
+      "architecture": "Sub-surface or partially earth-shielded shrine profile with river-influenced use.",
+      "visitorNotes": "Confirm current access conditions before travel.",
+      "sources": [
+        {
+          "label": "Hamirpur district",
+          "url": "https://en.wikipedia.org/wiki/Hamirpur_district,_Uttar_Pradesh",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Patalkeshwar%20Hamirpur%20Uttar%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Hamirpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kalpavriksha Shiva Shrine",
+    "state": "Uttar Pradesh",
+    "city": "Hamirpur",
+    "region": "Hamirpur district",
+    "tags": [
+      "Kalpavriksha",
+      "Baobab",
+      "Bio Sync"
+    ],
+    "story": "A Shiva shrine associated with an ancient Kalpavriksha/Baobab tradition, where long-living botanical heritage and Shaiva worship converge in a single local node.",
+    "highlight": "Rare bio-sync coordinate combining tree antiquity with Shiva worship.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T19:08:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest outdoor-friendly attire.",
+    "entryNotes": "Tree and shrine access may be managed locally.",
+    "rituals": [
+      "Tree-circuit darshan",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Known in local memory for linking old tree-veneration with active Shaiva practice.",
+      "architecture": "Small shrine context embedded in a heritage-tree environment.",
+      "visitorNotes": "Avoid damaging root zones or bark during visits.",
+      "sources": [
+        {
+          "label": "Hamirpur district",
+          "url": "https://en.wikipedia.org/wiki/Hamirpur_district,_Uttar_Pradesh",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kalpavriksha%20Hamirpur%20Uttar%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Hamirpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Gupteshwar Mahadev (Rath)",
+    "state": "Uttar Pradesh",
+    "city": "Rath",
+    "region": "Hamirpur district",
+    "tags": [
+      "Gupteshwar",
+      "Rath",
+      "Bundelkhand"
+    ],
+    "story": "A hidden-profile Shaiva node in Rath, carrying a quiet and grounded ritual rhythm for the western Hamirpur sub-grid.",
+    "highlight": "Stable hidden-node resonance for the Rath-Bundelkhand transition belt.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T19:08:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Local road approach can vary seasonally.",
+    "rituals": [
+      "Abhishek",
+      "Rudra path"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Part of long-standing Bundelkhand-region Shiva worship continuity in Rath.",
+      "architecture": "Conventional local shrine profile with stone-centric ritual space.",
+      "visitorNotes": "Prefer local confirmation for exact shrine approach.",
+      "sources": [
+        {
+          "label": "Rath, Uttar Pradesh",
+          "url": "https://en.wikipedia.org/wiki/Rath,_Uttar_Pradesh",
+          "type": "Town reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gupteshwar%20Mahadev%20Rath",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Hamirpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahua Shiva Temple",
+    "state": "Uttar Pradesh",
+    "city": "Mahua",
+    "region": "Hamirpur district",
+    "tags": [
+      "Pratihara",
+      "Rural Heritage",
+      "Stone Carvings"
+    ],
+    "story": "A heritage-style rural Shiva node associated with early medieval stone craftsmanship, retaining a focused sanctum geometry despite weathering.",
+    "highlight": "Historical rural grounding rod for the district's agrarian sub-grid.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T19:08:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Heritage-condition structures may need careful on-site movement.",
+    "rituals": [
+      "Jal abhishek",
+      "Village puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Associated with early medieval temple activity in the wider Bundelkhand-Hamirpur landscape.",
+      "architecture": "Weathered stone shrine geometry with a historically focused sanctum core.",
+      "visitorNotes": "Respect site conservation boundaries.",
+      "sources": [
+        {
+          "label": "Hamirpur district",
+          "url": "https://en.wikipedia.org/wiki/Hamirpur_district,_Uttar_Pradesh",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahua%20Shiva%20Temple%20Hamirpur%20Uttar%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Hamirpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhuragarh Fort Shiva Shrines",
+    "state": "Uttar Pradesh",
+    "city": "Banda",
+    "region": "Banda district",
+    "tags": [
+      "Bhuragarh Fort",
+      "Ken River",
+      "River Sentinels"
+    ],
+    "story": "A fort-river Shaiva cluster on the Bhuragarh-Ken corridor, where shrine markers serve as sentinel nodes aligned with the mineral-rich Ken river ecosystem.",
+    "highlight": "Ken river sentinel-node matrix for Banda's northern fort belt.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T19:26:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; fort-adjacent timings vary.",
+    "dressCode": "Modest attire with riverbank/fort footwear.",
+    "entryNotes": "Seasonal river conditions can affect access paths.",
+    "rituals": [
+      "Jal offerings",
+      "Fort-shrine darshan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Represents the Shaiva devotional layer embedded in the Bhuragarh fort-river landscape.",
+      "architecture": "Distributed shrine forms in a sandstone-fort and riverbank setting.",
+      "visitorNotes": "Combine with Bhuragarh and Ken river heritage circuit.",
+      "sources": [
+        {
+          "label": "Banda district",
+          "url": "https://en.wikipedia.org/wiki/Banda_district,_India",
+          "type": "District reference"
+        },
+        {
+          "label": "Ken River",
+          "url": "https://en.wikipedia.org/wiki/Ken_River",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "district": "Banda",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Khatri Pahar Shiva Node",
+    "state": "Uttar Pradesh",
+    "city": "Banda",
+    "region": "Banda district",
+    "tags": [
+      "Khatri Pahar",
+      "Geological Node",
+      "Mountain Interface"
+    ],
+    "story": "A hill-interface Shaiva entry tied to local geological formations and mountain-edge devotional continuity in the Banda sector.",
+    "highlight": "Geology-integrated Shiva node with strong mountain-interface resonance.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T19:26:00+05:30",
+    "bestTime": "October to February.",
+    "timings": "Daylight visits recommended.",
+    "dressCode": "Modest, trek-friendly attire.",
+    "entryNotes": "Approach routes may be rough; local guidance is advised.",
+    "rituals": [
+      "Abhishek",
+      "Meditative darshan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained within local Bundelkhand hill-shrine worship traditions.",
+      "architecture": "Small mountain-edge shrine profile integrated into natural rock topography.",
+      "visitorNotes": "Plan visits in cooler daylight windows.",
+      "sources": [
+        {
+          "label": "Banda district",
+          "url": "https://en.wikipedia.org/wiki/Banda_district,_India",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Khatri%20Pahar%20Banda",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Banda",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Guda Mahadev",
+    "state": "Uttar Pradesh",
+    "city": "Banda",
+    "region": "Banda district",
+    "tags": [
+      "Guda",
+      "Forest Node",
+      "Rural Stabilizer"
+    ],
+    "story": "A quiet rural-forest Shiva node in the Banda district belt, preserving a low-noise devotional environment away from main transport corridors.",
+    "highlight": "Uncorrupted rural stabilizer for southern Banda sub-grids.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T19:26:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest outdoor-friendly attire.",
+    "entryNotes": "Remote approach; check route conditions before travel.",
+    "rituals": [
+      "Village puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Part of local rural Shaiva continuity in the forested fringe of Banda district.",
+      "architecture": "Simple shrine setting with a nature-anchored devotional profile.",
+      "visitorNotes": "Prefer daytime visits with local route confirmation.",
+      "sources": [
+        {
+          "label": "Banda district",
+          "url": "https://en.wikipedia.org/wiki/Banda_district,_India",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Guda%20Mahadev%20Banda",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Banda",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Patareshwar Mahadev (Orai)",
+    "state": "Uttar Pradesh",
+    "city": "Orai",
+    "region": "Jalaun district",
+    "tags": [
+      "Patareshwar",
+      "Orai",
+      "Urban Anchor"
+    ],
+    "story": "A principal Shaiva anchor in Orai, functioning as a central stabilizer for Jalaun district headquarters and a high-traffic community worship node.",
+    "highlight": "Primary grounding router for the Orai urban devotional grid.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T19:43:00+05:30",
+    "bestTime": "October to March; Shravan month is active.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Commonly visited as a core city temple stop.",
+    "rituals": [
+      "Jal abhishek",
+      "Rudrabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained as one of Orai's long-standing Shiva worship centers in district tradition.",
+      "architecture": "Urban temple profile with active daily ritual circulation.",
+      "visitorNotes": "Expect crowd peaks on Mondays and festival dates.",
+      "sources": [
+        {
+          "label": "Jalaun district",
+          "url": "https://en.wikipedia.org/wiki/Jalaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "Orai",
+          "url": "https://en.wikipedia.org/wiki/Orai",
+          "type": "City reference"
+        }
+      ]
+    },
+    "district": "Jalaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Suryadev/Shiva Fusion Node (Kalpi)",
+    "state": "Uttar Pradesh",
+    "city": "Kalpi",
+    "region": "Jalaun district",
+    "tags": [
+      "Kalpi",
+      "Yamuna High Bank",
+      "Fusion Node"
+    ],
+    "story": "A Kalpi high-bank sacred-layer entry where Sun-linked heritage and integrated Shaiva nodes create a combined ritual field above the Yamuna plains.",
+    "highlight": "High-bank transmitter blending Surya heritage with Shaiva grounding.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T19:43:00+05:30",
+    "bestTime": "October to February.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire with walking-friendly footwear.",
+    "entryNotes": "Kalpi riverbank sections can be steep in some stretches.",
+    "rituals": [
+      "Jal arpan",
+      "Local puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Makar Sankranti",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Represents the layered sacred history of Kalpi's riverbank settlement and temple continuity.",
+      "architecture": "Mixed shrine-marker forms distributed across high-bank settlement zones.",
+      "visitorNotes": "Plan daytime visits; verify specific shrine access locally.",
+      "sources": [
+        {
+          "label": "Kalpi",
+          "url": "https://en.wikipedia.org/wiki/Kalpi",
+          "type": "City reference"
+        },
+        {
+          "label": "Yamuna River",
+          "url": "https://en.wikipedia.org/wiki/Yamuna",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "district": "Jalaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Chaurasi Gumbad Shiva Shrines",
+    "state": "Uttar Pradesh",
+    "city": "Kalpi",
+    "region": "Jalaun district",
+    "tags": [
+      "Chaurasi Gumbad",
+      "Architectural Overlay",
+      "Surviving Nodes"
+    ],
+    "story": "A heritage-overlay entry around the Chaurasi Gumbad zone, capturing surviving Shiva shrine markers that persist within a transformed architectural landscape.",
+    "highlight": "Surviving Shaiva node-grid preserved around a major 84-dome monument zone.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T19:43:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Daytime visits recommended.",
+    "dressCode": "Modest heritage-site attire.",
+    "entryNotes": "Site context includes layered historical architecture.",
+    "rituals": [
+      "Darshan",
+      "Jal offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Shows continuity of Shaiva practice despite shifts in surrounding built forms over centuries.",
+      "architecture": "Distributed shrine points near a large multi-dome historic complex.",
+      "visitorNotes": "Respect heritage boundaries while accessing active worship points.",
+      "sources": [
+        {
+          "label": "Jalaun district",
+          "url": "https://en.wikipedia.org/wiki/Jalaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "Kalpi",
+          "url": "https://en.wikipedia.org/wiki/Kalpi",
+          "type": "City reference"
+        }
+      ]
+    },
+    "district": "Jalaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lanka Minar Shiva Node",
+    "state": "Uttar Pradesh",
+    "city": "Kalpi",
+    "region": "Jalaun district",
+    "tags": [
+      "Lanka Minar",
+      "Vertical Data Tower",
+      "Pantheon Mapping"
+    ],
+    "story": "A vertical sacred-complex entry centered on Lanka Minar, where Shiva shrines in and around the base complex act as structural stabilizers for a multi-deity symbolic tower environment.",
+    "highlight": "Unique vertical transmitter combining monumental architecture with Shaiva grounding.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T19:43:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire.",
+    "entryNotes": "Tower-complex access and inner areas may have local restrictions.",
+    "rituals": [
+      "Base-shrine puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Associated with late historic-era monumental devotional expression in the Kalpi belt.",
+      "architecture": "Tall tower complex with integrated multi-shrine devotional layers.",
+      "visitorNotes": "Confirm local visiting windows for tower and shrine sections.",
+      "sources": [
+        {
+          "label": "Kalpi",
+          "url": "https://en.wikipedia.org/wiki/Kalpi",
+          "type": "City reference"
+        },
+        {
+          "label": "Jalaun district",
+          "url": "https://en.wikipedia.org/wiki/Jalaun_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Jalaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Rampura Fort Shrines",
+    "state": "Uttar Pradesh",
+    "city": "Rampura",
+    "region": "Jalaun district",
+    "tags": [
+      "Rampura Fort",
+      "Beed Ravines",
+      "Wild Grid"
+    ],
+    "story": "A fort-ravine Shaiva cluster in the Rampura landscape, where difficult terrain and old fortifications preserve low-interference devotional nodes synced with local riverine flow.",
+    "highlight": "Ravine-shielded wild-grid nodes with raw Bundelkhand resonance.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T19:43:00+05:30",
+    "bestTime": "October to February.",
+    "timings": "Daylight visits recommended.",
+    "dressCode": "Modest, terrain-appropriate clothing.",
+    "entryNotes": "Ravine terrain can be difficult; local guide is recommended.",
+    "rituals": [
+      "Fort-shrine darshan",
+      "Jal offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Represents the Shaiva protective-layer associated with old Rampura fort-zone traditions.",
+      "architecture": "Small shrine nodes distributed across fort-ravine interfaces.",
+      "visitorNotes": "Avoid monsoon cuts and unstable ravine edges.",
+      "sources": [
+        {
+          "label": "Jalaun district",
+          "url": "https://en.wikipedia.org/wiki/Jalaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "Rampura",
+          "url": "https://en.wikipedia.org/wiki/Rampura,_Jalaun",
+          "type": "Town reference"
+        }
+      ]
+    },
+    "district": "Jalaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Jashrathpur Shiva Temple",
+    "state": "Uttar Pradesh",
+    "city": "Pilibhit",
+    "region": "Pilibhit district",
+    "tags": [
+      "Jashrathpur",
+      "Siddha Frequency",
+      "Rural Anomaly"
+    ],
+    "story": "A weathered rural Shaiva node in the Jashrathpur belt, preserved in local tradition as a rapid-build devotional anomaly with strong low-noise resonance.",
+    "highlight": "Raw historical anomaly with high-vibration rural Siddha profile.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:02:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Rural access may require local route confirmation.",
+    "rituals": [
+      "Jal abhishek",
+      "Village puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local oral tradition as a rapid-construction devotional site with long ritual continuity.",
+      "architecture": "Weathered stone-brick shrine profile with minimal modern intervention.",
+      "visitorNotes": "Prefer daytime travel and local guidance for approach roads.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Jashrathpur%20Shiva%20Temple%20Pilibhit",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Ekyavan Shakti Peeth Shiva Node",
+    "state": "Uttar Pradesh",
+    "city": "Pilibhit",
+    "region": "Pilibhit district",
+    "tags": [
+      "Ekyavan Peeth",
+      "Mahakal Stabilizer",
+      "Dual Resonance"
+    ],
+    "story": "A Shiva stabilizer node within a larger Shakti-centered complex, functioning as the grounding Mahakal layer for intense forest-goddess devotional flow.",
+    "highlight": "Core Shiva stabilizer that steps down high-intensity Shakti energy.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Mahakal)",
+    "tradition": "Shaiva-Shakta",
+    "addedAt": "2026-02-25T20:02:00+05:30",
+    "bestTime": "October to March; Navaratri and Shivratri are active periods.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "This is a dual-resonance Shiva-Shakti context entry.",
+    "rituals": [
+      "Abhishek",
+      "Combined Shaiva-Shakta puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Chaitra Navaratri",
+      "Sharad Navaratri"
+    ],
+    "moreDetails": {
+      "history": "Represents a coordinated Shaiva node embedded in a broader 51-peeth devotional tradition.",
+      "architecture": "Integrated shrine layering with central Mahakal-focused sanctum behavior.",
+      "visitorNotes": "Festival schedules can significantly impact entry queues.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Ekyavan%20Shakti%20Peeth%20Pilibhit",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pilibhit Tiger Reserve Gupt Shiva Nodes (Chuka Belt)",
+    "state": "Uttar Pradesh",
+    "city": "Chuka/Pilibhit forest zone",
+    "region": "Pilibhit district",
+    "tags": [
+      "Tiger Reserve",
+      "Gupt Nodes",
+      "Nature Interface"
+    ],
+    "story": "A composite entry for hidden forest lingam markers in the Pilibhit Tiger Reserve landscape near Chuka, representing biologically synced, low-interference Shaiva nature nodes.",
+    "highlight": "Primordial green-resonance Shiva markers in core jungle rhythm zones.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:02:00+05:30",
+    "bestTime": "Post-monsoon to winter (subject to reserve access windows).",
+    "timings": "Forest access rules apply; not all nodes are publicly accessible.",
+    "dressCode": "Conservation-compliant, outdoor-safe attire.",
+    "entryNotes": "Sensitive eco-zone entry; follow forest department regulations strictly.",
+    "rituals": [
+      "Silent darshan",
+      "Minimal-impact offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month (localized)"
+    ],
+    "moreDetails": {
+      "history": "Represents old lingam-marker traditions associated with forest-edge settlements and riverine corridors.",
+      "architecture": "Minimal stone-marker forms, often moss-covered and terrain-integrated.",
+      "visitorNotes": "Do not attempt off-route exploration without authorized local guidance.",
+      "sources": [
+        {
+          "label": "Pilibhit Tiger Reserve",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_Tiger_Reserve",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Chuka Beach",
+          "url": "https://www.openstreetmap.org/search?query=Chuka%20Beach%20Pilibhit",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bharmadev Shiva Temple (Border Node)",
+    "state": "Uttar Pradesh",
+    "city": "Pilibhit border belt",
+    "region": "Pilibhit district",
+    "tags": [
+      "Bharmadev",
+      "Border Node",
+      "Transit Anchor"
+    ],
+    "story": "A border-transition Shiva anchor in the India-Nepal interface zone, serving as a gateway stabilizer between foothill-descending and plains-based devotional flows.",
+    "highlight": "Transit-anchor managing Himalayan-to-plains spiritual throughput.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:02:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire suitable for travel corridors.",
+    "entryNotes": "Border-proximate routes may require local travel awareness.",
+    "rituals": [
+      "Jal abhishek",
+      "Transit-route darshan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local pilgrimage patterns as a threshold-node on the northern district edge.",
+      "architecture": "Regional shrine form adapted to border-route devotional traffic.",
+      "visitorNotes": "Confirm route conditions and local advisories before travel.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        },
+        {
+          "label": "India-Nepal border (Uttar Pradesh sector)",
+          "url": "https://en.wikipedia.org/wiki/India%E2%80%93Nepal_border",
+          "type": "Context"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Devkali Shiva Temple",
+    "state": "Uttar Pradesh",
+    "city": "Lakhimpur Kheri",
+    "region": "Lakhimpur Kheri district",
+    "tags": [
+      "Devkali",
+      "Janapada Node",
+      "Protective Frequency"
+    ],
+    "story": "A deep-antiquity Shaiva node in district tradition, associated with early Janapada-era memory streams and preserved as a cleansing-protective grounding center.",
+    "highlight": "Historical grounding rod for ancient Vedic-memory continuity in Lakhimpur Kheri.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:23:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Local route verification is advised before travel.",
+    "rituals": [
+      "Abhishek",
+      "Protective puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Preserved in local tradition with links to older Janmejaya-era narrative layers.",
+      "architecture": "Simple historical shrine profile with long-standing ritual continuity.",
+      "visitorNotes": "Best approached with local guidance in rural stretches.",
+      "sources": [
+        {
+          "label": "Lakhimpur Kheri district",
+          "url": "https://en.wikipedia.org/wiki/Lakhimpur_Kheri_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Devkali%20Shiva%20Temple%20Lakhimpur%20Kheri",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Lakhimpur Kheri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dudhwa Forest Jungle Mahadev",
+    "state": "Uttar Pradesh",
+    "city": "Dudhwa forest zone",
+    "region": "Lakhimpur Kheri district",
+    "tags": [
+      "Dudhwa",
+      "Silent Transmitters",
+      "Forest Nodes"
+    ],
+    "story": "A composite entry for weathered stone lingam markers in and around the Dudhwa Sal-forest ecosystem, reflecting low-interference Shiva nature nodes synchronized with wildlife rhythms.",
+    "highlight": "High-oxygen jungle Shaiva grid with pure low-human-noise resonance.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:23:00+05:30",
+    "bestTime": "Post-monsoon to winter, subject to reserve access windows.",
+    "timings": "Forest regulations apply; many nodes are not open as standard temple sites.",
+    "dressCode": "Conservation-compliant outdoor attire.",
+    "entryNotes": "Do not enter core forest zones without authorization.",
+    "rituals": [
+      "Silent darshan",
+      "Minimal-impact offerings"
+    ],
+    "festivals": [
+      "Mahashivratri (localized)",
+      "Shravan month (localized)"
+    ],
+    "moreDetails": {
+      "history": "Represents dispersed jungle-lingam traditions in the Dudhwa-Terai ecological matrix.",
+      "architecture": "Moss-covered naturalized lingam markers rather than formal temple superstructures.",
+      "visitorNotes": "Follow Tiger Reserve and forest department rules strictly.",
+      "sources": [
+        {
+          "label": "Dudhwa National Park",
+          "url": "https://en.wikipedia.org/wiki/Dudhwa_National_Park",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Lakhimpur Kheri district",
+          "url": "https://en.wikipedia.org/wiki/Lakhimpur_Kheri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lakhimpur Kheri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Junglee Nath Temple",
+    "state": "Uttar Pradesh",
+    "city": "Bahraich",
+    "region": "Bahraich district",
+    "tags": [
+      "Junglee Nath",
+      "Swayambhu",
+      "Forest Node"
+    ],
+    "story": "A forest-lineage Shaiva node associated with a Swayambhu linga tradition, retaining a raw, low-interference Terai resonance rooted in older wilderness worship.",
+    "highlight": "High-vibration forest node linked to primordial Shaivite frequency.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:41:00+05:30",
+    "bestTime": "October to March; post-monsoon is preferred.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest outdoor-friendly attire.",
+    "entryNotes": "Forest-edge routes may require local guidance.",
+    "rituals": [
+      "Jal abhishek",
+      "Swayambhu darshan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Preserved in local memory as a once-wilderness Shaiva shrine with continuous worship.",
+      "architecture": "Simple shrine form emphasizing the linga core over built superstructure.",
+      "visitorNotes": "Plan daytime visits and confirm approach conditions locally.",
+      "sources": [
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Junglee%20Nath%20Temple%20Bahraich",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kailashpuri Shiva Node",
+    "state": "Uttar Pradesh",
+    "city": "Bahraich",
+    "region": "Bahraich district",
+    "tags": [
+      "Kailashpuri",
+      "Girjapuri Barrage",
+      "Hydro Sync"
+    ],
+    "story": "A hydro-linked Shiva node in the Girjapuri barrage-canal influence zone, functioning as a transition stabilizer between high-velocity water flow and the agrarian plains grid.",
+    "highlight": "Hydro-sync node managing barrage-to-plains energy transition.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:41:00+05:30",
+    "bestTime": "October to February.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire suitable for canal/riverine environments.",
+    "entryNotes": "Barrage and canal water conditions can influence access.",
+    "rituals": [
+      "Jal offerings",
+      "Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Part of newer hydro-corridor devotional continuity around traditional Shaiva worship points.",
+      "architecture": "Regional shrine format integrated into a river-canal engineering landscape.",
+      "visitorNotes": "Check local advisories during high discharge periods.",
+      "sources": [
+        {
+          "label": "Girjapuri Barrage",
+          "url": "https://www.openstreetmap.org/search?query=Girijapuri%20Barrage",
+          "type": "Map search"
+        },
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Katarniaghat Forest Shrines",
+    "state": "Uttar Pradesh",
+    "city": "Katarniaghat forest zone",
+    "region": "Bahraich district",
+    "tags": [
+      "Katarniaghat",
+      "Wildlife Sanctuary",
+      "Pure Resonance"
+    ],
+    "story": "A composite entry for dense-forest shrine markers in the Katarniaghat ecosystem, representing low-interference Shaiva nature nodes synchronized with the sanctuary's riverine biology.",
+    "highlight": "Pure-resonance mist-forest nodes for the northern Terai knowledge graph.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:41:00+05:30",
+    "bestTime": "Post-monsoon to winter, subject to sanctuary access rules.",
+    "timings": "Forest permissions apply; many nodes are not standard open temple sites.",
+    "dressCode": "Conservation-compliant outdoor attire.",
+    "entryNotes": "Do not enter restricted forest zones without authorization.",
+    "rituals": [
+      "Silent darshan",
+      "Minimal-impact offerings"
+    ],
+    "festivals": [
+      "Mahashivratri (localized)",
+      "Shravan month (localized)"
+    ],
+    "moreDetails": {
+      "history": "Represents older forest-linked lingam traditions in the Karnali-Ghaghara tributary landscape.",
+      "architecture": "Minimal, terrain-integrated markers rather than formal superstructures.",
+      "visitorNotes": "Strictly follow sanctuary safety and conservation rules.",
+      "sources": [
+        {
+          "label": "Katarniaghat Wildlife Sanctuary",
+          "url": "https://en.wikipedia.org/wiki/Katarniaghat_Wildlife_Sanctuary",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sangharini Mahadev",
+    "state": "Uttar Pradesh",
+    "city": "Nanpara",
+    "region": "Bahraich district",
+    "tags": [
+      "Sangharini",
+      "Nanpara",
+      "Borderland Gateway"
+    ],
+    "story": "A rural-border Shaiva stabilizer in the Nanpara sector, serving as a gateway node for communities and travelers moving between the UP plains and Nepal foothill corridors.",
+    "highlight": "Border-land telemetry anchor for Nanpara and surrounding communities.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:41:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Border-adjacent routes may need local travel checks.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained as a rural continuity node within Nanpara's cross-border cultural corridor.",
+      "architecture": "Regional rural shrine profile oriented to community pilgrimage movement.",
+      "visitorNotes": "Best visited in daylight with local route awareness.",
+      "sources": [
+        {
+          "label": "Nanpara",
+          "url": "https://en.wikipedia.org/wiki/Nanpara",
+          "type": "Town reference"
+        },
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dukh Haran Nath Temple",
+    "state": "Uttar Pradesh",
+    "city": "Gonda",
+    "region": "Gonda district",
+    "tags": [
+      "Dukh Haran",
+      "Urban Anchor",
+      "Relief Frequency"
+    ],
+    "story": "A central city Shaiva node in Gonda serving as the primary urban spiritual anchor, associated with relief-resolution devotion and high daily community traffic.",
+    "highlight": "Primary urban clearing-house node for Gonda's devotional flow.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:59:00+05:30",
+    "bestTime": "Year-round; Mahashivratri and Shravan are most active.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "High-traffic city temple with peak crowd windows on Mondays and festivals.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local continuity as one of Gonda city's key Shaiva public-devotion centers.",
+      "architecture": "Urban temple profile built for continuous community footfall and ritual circulation.",
+      "visitorNotes": "Prefer early visits during major observances.",
+      "sources": [
+        {
+          "label": "Gonda district",
+          "url": "https://en.wikipedia.org/wiki/Gonda_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dukh%20Haran%20Nath%20Temple%20Gonda",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Gonda",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Paska Tirtha (Sarayu Confluence)",
+    "state": "Uttar Pradesh",
+    "city": "Paska, Gonda",
+    "region": "Gonda district",
+    "tags": [
+      "Paska Tirtha",
+      "Sarayu-Ghaghara Sangam",
+      "Hydro Sync"
+    ],
+    "story": "A confluence-linked Shaiva hydro-node at the Sarayu-Ghaghara interface, where continuous river wash sustains a high-refresh abhishek-style devotional environment.",
+    "highlight": "Massive hydro-sync confluence node with natural abhishek loop dynamics.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:59:00+05:30",
+    "bestTime": "October to March; avoid peak flood conditions.",
+    "timings": "Daylight visits recommended; local timings vary.",
+    "dressCode": "Modest attire suitable for riverbank conditions.",
+    "entryNotes": "Confluence water levels can affect safe approach routes.",
+    "rituals": [
+      "Sangam jal arpan",
+      "Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month",
+      "Sangam observances"
+    ],
+    "moreDetails": {
+      "history": "Linked to long-standing river-confluence pilgrimage traditions in the Sarayu-Ghaghara belt.",
+      "architecture": "River-edge shrine pattern with ritual platforms adapted to seasonal water dynamics.",
+      "visitorNotes": "Check local advisories before monsoon-season travel.",
+      "sources": [
+        {
+          "label": "Ghaghara River",
+          "url": "https://en.wikipedia.org/wiki/Ghaghara_River",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Sarayu River",
+          "url": "https://en.wikipedia.org/wiki/Sarayu_River",
+          "type": "Encyclopedia"
+        }
+      ]
+    },
+    "district": "Gonda",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Barahi Devi Complex Shiva Node",
+    "state": "Uttar Pradesh",
+    "city": "Gonda",
+    "region": "Gonda district",
+    "tags": [
+      "Barahi Devi",
+      "Shiva-Shakti Interface",
+      "Varaha Tradition"
+    ],
+    "story": "A Shiva stabilizer layer within a Barahi Devi Shakti-centered complex, representing a protective Shiva-Shakti interface tied to Varaha-linked regional memory streams.",
+    "highlight": "Protective-warrior Shiva layer balancing an intense Shakti field.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva-Shakta",
+    "addedAt": "2026-02-25T20:59:00+05:30",
+    "bestTime": "October to March; Navaratri and Shivratri are active windows.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Dual-resonance site context; expect mixed ritual activity.",
+    "rituals": [
+      "Combined Shaiva-Shakta puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Navaratri"
+    ],
+    "moreDetails": {
+      "history": "Represents the persistent Shaiva support-layer within an older Devi-centered complex.",
+      "architecture": "Integrated sub-shrine network around a dominant Shakti node.",
+      "visitorNotes": "Festival management may alter entry flow.",
+      "sources": [
+        {
+          "label": "Gonda district",
+          "url": "https://en.wikipedia.org/wiki/Gonda_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Barahi%20Devi%20Gonda",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Gonda",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Chhapia (Swaminarayan) Sub-Grid Shiva Markers",
+    "state": "Uttar Pradesh",
+    "city": "Chhapia, Gonda",
+    "region": "Gonda district",
+    "tags": [
+      "Chhapia",
+      "Baseline Nodes",
+      "Deep-Time Memory"
+    ],
+    "story": "A composite entry for dispersed, weathered Shiva lingam markers in the Chhapia rural landscape, representing the foundational Shaiva layer beneath later sectarian pilgrimage prominence.",
+    "highlight": "Baseline Shaiva markers preserving deep-time rural memory of the sector.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T20:59:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Daylight visits recommended; markers are dispersed.",
+    "dressCode": "Modest rural-travel attire.",
+    "entryNotes": "Distributed node entry; local guidance is recommended for specific marker access.",
+    "rituals": [
+      "Lingam darshan",
+      "Jal offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Captures the older village-level Shaiva base network in the Chhapia-Gonda field environment.",
+      "architecture": "Small dispersed lingam-marker forms rather than a single centralized superstructure.",
+      "visitorNotes": "Respect private land and local customs while visiting rural nodes.",
+      "sources": [
+        {
+          "label": "Chhapaiya",
+          "url": "https://en.wikipedia.org/wiki/Chhapaiya",
+          "type": "Reference"
+        },
+        {
+          "label": "Gonda district",
+          "url": "https://en.wikipedia.org/wiki/Gonda_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Gonda",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhadeshwar Nath Temple",
+    "state": "Uttar Pradesh",
+    "city": "Basti",
+    "region": "Basti district",
+    "tags": [
+      "Bhadeshwar Nath",
+      "Kuwano River",
+      "Swayambhu"
+    ],
+    "story": "A major Swayambhu Shaiva anchor on the Kuwano river belt, preserved as the primary grounding rod for Basti's district-wide devotional network.",
+    "highlight": "Absolute primary anchor of the district with high-vibration river-grounded resonance.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Bhadeshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:15:00+05:30",
+    "bestTime": "October to March; Shravan and Mahashivratri are peak periods.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Kuwano river proximity may affect access during heavy monsoon.",
+    "rituals": [
+      "Jal abhishek",
+      "Rudrabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local belief as an ancient Swayambhu site with deep ritual continuity.",
+      "architecture": "River-linked temple complex with active public worship circulation.",
+      "visitorNotes": "Best visited early during festival periods.",
+      "sources": [
+        {
+          "label": "Basti district",
+          "url": "https://en.wikipedia.org/wiki/Basti_district",
+          "type": "District reference"
+        },
+        {
+          "label": "Kuwano River",
+          "url": "https://en.wikipedia.org/wiki/Kuano_River",
+          "type": "Reference"
+        }
+      ]
+    },
+    "district": "Basti",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dhanushyagya Mahadev (Aama)",
+    "state": "Uttar Pradesh",
+    "city": "Aama, Basti",
+    "region": "Basti district",
+    "tags": [
+      "Dhanushyagya",
+      "Ramayana Link",
+      "Protective Node"
+    ],
+    "story": "A high-resolution historical Shaiva node linked in local memory to Ramayana-era worship streams and preserved as a protective transmitter for southern Basti sectors.",
+    "highlight": "Historical protective transmitter for the southern district grid.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:15:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Rural route verification is recommended before travel.",
+    "rituals": [
+      "Abhishek",
+      "Protective puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Associated with older epic-linked local worship narratives in the Aama belt.",
+      "architecture": "Traditional rural shrine profile with a historical ritual identity.",
+      "visitorNotes": "Prefer daytime visit and local guidance.",
+      "sources": [
+        {
+          "label": "Basti district",
+          "url": "https://en.wikipedia.org/wiki/Basti_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dhanushyagya%20Mahadev%20Aama%20Basti",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Basti",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kaleshwar Nath Temple",
+    "state": "Uttar Pradesh",
+    "city": "Basti",
+    "region": "Basti district",
+    "tags": [
+      "Kaleshwar Nath",
+      "Urban Pulse",
+      "Time-Keeper"
+    ],
+    "story": "A central township Shaiva node honoring Shiva in Kaal-form, known for a steady rhythmic devotional pulse that helps stabilize urban spiritual traffic.",
+    "highlight": "Time-keeper node maintaining baseline rhythm in Basti's urban matrix.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Kaleshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:15:00+05:30",
+    "bestTime": "Year-round; Mondays and Mahashivratri are active.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "High local footfall during evening aarti windows.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained as one of the core town-based Shaiva anchors of Basti district.",
+      "architecture": "Urban temple layout optimized for continuous daily worship.",
+      "visitorNotes": "Expect queue spikes on Mondays.",
+      "sources": [
+        {
+          "label": "Basti district",
+          "url": "https://en.wikipedia.org/wiki/Basti_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kaleshwar%20Nath%20Temple%20Basti",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Basti",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhuiyaneshwar Mahadev",
+    "state": "Uttar Pradesh",
+    "city": "Basti rural belt",
+    "region": "Basti district",
+    "tags": [
+      "Bhuiyaneshwar",
+      "Deep-Earth",
+      "Agrarian Grid"
+    ],
+    "story": "A deep-earth rural Shaiva anchor with lower-level linga placement, associated with cool soil-water resonance across the Sarayu plains agricultural zone.",
+    "highlight": "Cool grounded deep-earth stabilizer for surrounding farm communities.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:15:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest rural-travel attire.",
+    "entryNotes": "Access may involve village roads and seasonal ground variation.",
+    "rituals": [
+      "Jal offerings",
+      "Village puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Represents a long-standing agrarian Shaiva continuity in Basti's rural plains.",
+      "architecture": "Low-level sanctum character emphasizing earth-contact devotional geometry.",
+      "visitorNotes": "Prefer local route guidance for rural access.",
+      "sources": [
+        {
+          "label": "Basti district",
+          "url": "https://en.wikipedia.org/wiki/Basti_district",
+          "type": "District reference"
+        },
+        {
+          "label": "Sarayu River",
+          "url": "https://en.wikipedia.org/wiki/Sarayu_River",
+          "type": "Reference"
+        }
+      ]
+    },
+    "district": "Basti",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Paithana Mahadev",
+    "state": "Uttar Pradesh",
+    "city": "Basti outskirts",
+    "region": "Basti district",
+    "tags": [
+      "Paithana",
+      "Forest Node",
+      "Silent Transmitter"
+    ],
+    "story": "A quiet weathered Shaiva forest-edge node in the rural outskirts, known for ancient stone carving remnants and a low-noise, stable devotional signal.",
+    "highlight": "Silent transmitter preserving uncorrupted Shaivite baseline away from transport corridors.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:15:00+05:30",
+    "bestTime": "October to February.",
+    "timings": "Daylight visits recommended.",
+    "dressCode": "Modest outdoor-friendly attire.",
+    "entryNotes": "Remote access; check local conditions before travel.",
+    "rituals": [
+      "Meditative darshan",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained as a forest-edge legacy Shiva point in local oral traditions.",
+      "architecture": "Weathered stone-node profile with minimal modern intervention.",
+      "visitorNotes": "Avoid late-evening visits in isolated stretches.",
+      "sources": [
+        {
+          "label": "Basti district",
+          "url": "https://en.wikipedia.org/wiki/Basti_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Paithana%20Mahadev%20Basti",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Basti",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Somnath Temple (Deoria City)",
+    "state": "Uttar Pradesh",
+    "city": "Deoria",
+    "region": "Deoria district",
+    "tags": [
+      "Somnath",
+      "Urban Anchor",
+      "Cooling Frequency"
+    ],
+    "story": "A central township Shaiva node in Deoria city, serving as the primary urban stabilizer with a devotional emphasis on Som-linked cooling and lunar rhythm alignment.",
+    "highlight": "Primary urban anchor managing daily spiritual telemetry of central Deoria.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Somnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:29:00+05:30",
+    "bestTime": "Year-round; Mondays, Mahashivratri, and Shravan are peak periods.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "High urban footfall during evening aarti and festival windows.",
+    "rituals": [
+      "Somvar jal abhishek",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained as a long-standing city-core Shiva worship center in Deoria district.",
+      "architecture": "Urban temple format designed for continuous neighborhood devotional activity.",
+      "visitorNotes": "Expect rush on Mondays and lunar observance dates.",
+      "sources": [
+        {
+          "label": "Deoria district",
+          "url": "https://en.wikipedia.org/wiki/Deoria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Somnath%20Temple%20Deoria",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Deoria",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dirgheswar Nath Mahadev",
+    "state": "Uttar Pradesh",
+    "city": "Barhaj, Deoria",
+    "region": "Deoria district",
+    "tags": [
+      "Dirgheswar Nath",
+      "Barhaj",
+      "Sangam Frequency"
+    ],
+    "story": "A high-vertical Shaiva anchor in the Barhaj sector, aligned with confluence-zone hydrology where Sarayu-Rapti flow dynamics sustain a cool, high-vibration Sangam resonance.",
+    "highlight": "Vertical-anchor broadcasting confluence-cooled frequency across the plains.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Dirgheswar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:29:00+05:30",
+    "bestTime": "October to March; avoid peak flood windows.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire suitable for riverbank travel.",
+    "entryNotes": "River-level variation can affect local access routes.",
+    "rituals": [
+      "Sangam jal arpan",
+      "Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Part of Deoria's river-linked Shaiva continuity in the Barhaj confluence corridor.",
+      "architecture": "Regional shrine style integrated with riverfront pilgrimage movement.",
+      "visitorNotes": "Check local conditions before monsoon-season visits.",
+      "sources": [
+        {
+          "label": "Barhaj",
+          "url": "https://en.wikipedia.org/wiki/Barhaj",
+          "type": "Town reference"
+        },
+        {
+          "label": "Rapti River",
+          "url": "https://en.wikipedia.org/wiki/Rapti_River",
+          "type": "Reference"
+        }
+      ]
+    },
+    "district": "Deoria",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Koteshwar Mahadev (Deoria)",
+    "state": "Uttar Pradesh",
+    "city": "Deoria rural belt",
+    "region": "Deoria district",
+    "tags": [
+      "Koteshwar",
+      "Sahasralinga",
+      "Frequency Multiplier"
+    ],
+    "story": "A multi-node Shaiva transmitter in Deoria's rural sub-grid, associated with a composite lingam surface carrying numerous miniature linga forms in a single focal structure.",
+    "highlight": "Sahasralinga-style multiplier node in the district's rural transmission network.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Koteshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:29:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Rural route verification is recommended before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Sahasralinga puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship patterns as a concentrated multi-linga devotional point.",
+      "architecture": "Single-core lingam emphasis with multiplicative iconographic surface treatment.",
+      "visitorNotes": "Best visited with local guidance for exact rural location.",
+      "sources": [
+        {
+          "label": "Deoria district",
+          "url": "https://en.wikipedia.org/wiki/Deoria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Koteshwar%20Mahadev%20Deoria",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Deoria",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahen Mahadev",
+    "state": "Uttar Pradesh",
+    "city": "Mahen village, Deoria",
+    "region": "Deoria district",
+    "tags": [
+      "Mahen",
+      "Rural Baseline",
+      "Earth Shielded"
+    ],
+    "story": "A quiet earth-shielded rural Shaiva node in Mahen village, preserving weathered stone resonance and a low-noise baseline for Deoria's agricultural communities.",
+    "highlight": "Uncorrupted rural baseline anchor for the district's farming sub-grid.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:29:00+05:30",
+    "bestTime": "October to February.",
+    "timings": "Daylight visits recommended.",
+    "dressCode": "Modest outdoor-friendly attire.",
+    "entryNotes": "Village-road access can vary seasonally.",
+    "rituals": [
+      "Village puja",
+      "Jal offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Represents stable rural Shaiva continuity in Deoria's agrarian belt.",
+      "architecture": "Weathered stone-shrine character with minimal modern intervention.",
+      "visitorNotes": "Prefer local route support and daytime travel.",
+      "sources": [
+        {
+          "label": "Deoria district",
+          "url": "https://en.wikipedia.org/wiki/Deoria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahen%20Mahadev%20Deoria",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Deoria",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Maha-Shabdashwar Mahadev (Maharishi Jamadagni Ashram)",
+    "state": "Uttar Pradesh",
+    "city": "Zamania",
+    "region": "Ghazipur district",
+    "tags": [
+      "Jamadagni Ashram",
+      "Zamania",
+      "Deep-Time Anchor"
+    ],
+    "story": "A major ancient Shaiva anchor at the Jamadagni-linked Zamania belt, preserved as a deep-time grounding node for the southern Ganga bank in Ghazipur district.",
+    "highlight": "Absolute primary anchor of the district with high-aura ancient grounding.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Maha-Shabdashwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:45:00+05:30",
+    "bestTime": "October to March; Mahashivratri and Shravan are peak periods.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Best approached with local route context from Zamania side.",
+    "rituals": [
+      "Jal abhishek",
+      "Rudrabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in district tradition as one of the oldest Jamadagni-associated Shaiva nodes.",
+      "architecture": "Ashram-linked shrine profile with high ritual continuity.",
+      "visitorNotes": "Expect crowd surges during major observances.",
+      "sources": [
+        {
+          "label": "Zamania",
+          "url": "https://en.wikipedia.org/wiki/Zamania",
+          "type": "Town reference"
+        },
+        {
+          "label": "Ghazipur district",
+          "url": "https://en.wikipedia.org/wiki/Ghazipur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Ghazipur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Trilochan Nath Temple",
+    "state": "Uttar Pradesh",
+    "city": "Ghazipur",
+    "region": "Ghazipur district",
+    "tags": [
+      "Trilochan Nath",
+      "Urban Riverfront",
+      "Uttar-Vahini"
+    ],
+    "story": "A high-resolution urban-river Shaiva anchor in Ghazipur city, with devotional flow aligned to a northward Ganga segment that reinforces cyclical reset patterns.",
+    "highlight": "Urban riverfront node with rare Uttar-Vahini reset dynamics.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Trilochan Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "City-riverfront access can vary with seasonal water levels.",
+    "rituals": [
+      "River jal arpan",
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Part of Ghazipur's river-facing Shaiva continuity in urban devotional circuits.",
+      "architecture": "Riverfront shrine profile adapted to steady city pilgrimage flow.",
+      "visitorNotes": "Prefer early morning visits during festival periods.",
+      "sources": [
+        {
+          "label": "Ghazipur",
+          "url": "https://en.wikipedia.org/wiki/Ghazipur",
+          "type": "Encyclopedia"
+        },
+        {
+          "label": "Ganga",
+          "url": "https://en.wikipedia.org/wiki/Ganges",
+          "type": "Reference"
+        }
+      ]
+    },
+    "district": "Ghazipur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kaleshwar Mahadev (Saidpur)",
+    "state": "Uttar Pradesh",
+    "city": "Saidpur",
+    "region": "Ghazipur district",
+    "tags": [
+      "Kaleshwar",
+      "Saidpur",
+      "Ganga-Gomti Sangam"
+    ],
+    "story": "A confluence-linked Shaiva time-stabilizer in the Saidpur belt, where Ganga-Gomti dual-stream flow sustains a balanced meditative cooling field.",
+    "highlight": "One of the district's most stable transmitters via dual-stream Sangam cooling.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Kaleshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:45:00+05:30",
+    "bestTime": "October to March; avoid peak flood windows.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire suitable for riverbank access.",
+    "entryNotes": "Sangam-zone approach can be seasonal.",
+    "rituals": [
+      "Sangam jal abhishek",
+      "Meditative puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Preserved in local Saidpur tradition as a key Sangam-centered Shaiva anchor.",
+      "architecture": "High-bank shrine profile tied to confluence devotional movement.",
+      "visitorNotes": "Check local advisories before monsoon travel.",
+      "sources": [
+        {
+          "label": "Saidpur",
+          "url": "https://en.wikipedia.org/wiki/Saidpur,_Ghazipur",
+          "type": "Town reference"
+        },
+        {
+          "label": "Gomti River",
+          "url": "https://en.wikipedia.org/wiki/Gomti_River",
+          "type": "Reference"
+        }
+      ]
+    },
+    "district": "Ghazipur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Burhiya Mahadev",
+    "state": "Uttar Pradesh",
+    "city": "Ghazipur rural interior",
+    "region": "Ghazipur district",
+    "tags": [
+      "Burhiya Mahadev",
+      "Prachin Linga",
+      "Rural Baseline"
+    ],
+    "story": "A hidden rural Shaiva node with a weathered ancient linga profile, preserving low-noise baseline resonance for the district's agrarian heartland.",
+    "highlight": "Hidden baseline transmitter shielded from highway-noise interference.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:45:00+05:30",
+    "bestTime": "October to February.",
+    "timings": "Daylight visits recommended.",
+    "dressCode": "Modest rural-travel attire.",
+    "entryNotes": "Interior village routes may need local guidance.",
+    "rituals": [
+      "Village puja",
+      "Jal offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local tradition as a deeply ancient agrarian-belt Shiva point.",
+      "architecture": "Simple weathered shrine geometry with minimal modern intervention.",
+      "visitorNotes": "Prefer daytime travel and local route confirmation.",
+      "sources": [
+        {
+          "label": "Ghazipur district",
+          "url": "https://en.wikipedia.org/wiki/Ghazipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Burhiya%20Mahadev%20Ghazipur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ghazipur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Adheshwar Mahadev",
+    "state": "Uttar Pradesh",
+    "city": "Ghazipur eastern belt",
+    "region": "Ghazipur district",
+    "tags": [
+      "Adheshwar",
+      "Sentinel Node",
+      "Bihar Border Gateway"
+    ],
+    "story": "An eastern-edge Shaiva sentinel node managing transition flow between the Ghazipur grid and the Buxar-bound Bihar corridor.",
+    "highlight": "Gateway node for eastward Shaivite grid transmission toward the Buxar sector.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T21:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Border-adjacent travel planning may be required.",
+    "rituals": [
+      "Jal abhishek",
+      "Transit darshan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained as an eastward transition anchor in regional Shiva pilgrimage movement.",
+      "architecture": "Regional shrine profile with clear stone-core worship axis.",
+      "visitorNotes": "Best visited with local route input for eastern sector access.",
+      "sources": [
+        {
+          "label": "Ghazipur district",
+          "url": "https://en.wikipedia.org/wiki/Ghazipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "Buxar",
+          "url": "https://en.wikipedia.org/wiki/Buxar",
+          "type": "Reference"
+        }
+      ]
+    },
+    "district": "Ghazipur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Van Devi Complex Shiva Node",
+    "state": "Uttar Pradesh",
+    "city": "Mau rural forest belt",
+    "region": "Mau district",
+    "tags": [
+      "Van Devi Complex",
+      "Forest Transition",
+      "Pashupata Grounding"
+    ],
+    "story": "A forest-transition Shaiva node within the Van Devi sacred landscape, where older Shiva markers provide grounding support to a wider epic-linked devotional field.",
+    "highlight": "Green, quiet forest-biological resonance with essential Shaiva stabilization.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva-Shakta",
+    "addedAt": "2026-02-25T22:03:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest outdoor-friendly attire.",
+    "entryNotes": "Forest-edge routes may need local guidance.",
+    "rituals": [
+      "Jal abhishek",
+      "Silent darshan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in regional tradition as a Shiva-support layer in a forest-linked sacred complex.",
+      "architecture": "Distributed markers and shrines integrated with natural vegetation and village pathways.",
+      "visitorNotes": "Prefer daylight visits with local route verification.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Van%20Devi%20Mau%20Uttar%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sheetla Dham Shiva Shrine",
+    "state": "Uttar Pradesh",
+    "city": "Mau",
+    "region": "Mau district",
+    "tags": [
+      "Sheetla Dham",
+      "Hydro Node",
+      "Cooling Loop"
+    ],
+    "story": "A riverbank Shaiva stabilizer in the Sheetla Dham corridor, functioning as a central cooling-loop anchor for the district's urban-facing sub-grid.",
+    "highlight": "Steady hydro-grounded node with strong cooling resonance.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T22:03:00+05:30",
+    "bestTime": "October to March; Mahashivratri and Shravan are active.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Riverbank conditions can vary seasonally.",
+    "rituals": [
+      "Jal offerings",
+      "Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Part of long-standing local worship continuity around a water-linked shrine zone.",
+      "architecture": "Regional shrine profile oriented to daily river-edge ritual movement.",
+      "visitorNotes": "Best visited in daylight in monsoon season.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sheetla%20Dham%20Mau",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dohri Ghat (Gauri Shankar Temple)",
+    "state": "Uttar Pradesh",
+    "city": "Dohri Ghat",
+    "region": "Mau district",
+    "tags": [
+      "Dohri Ghat",
+      "Gauri Shankar",
+      "Ghaghara Turn"
+    ],
+    "story": "A major river-grid Shaiva anchor at Dohri Ghat, where high-velocity Ghaghara flow acts as a kinetic reset channel for district-level devotional circulation.",
+    "highlight": "Titan river-reset node with strong kinetic water-charge resonance.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva/Gauri",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T22:03:00+05:30",
+    "bestTime": "October to February; avoid peak flood windows.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire suitable for riverbank access.",
+    "entryNotes": "Water levels and approach routes can shift seasonally.",
+    "rituals": [
+      "Sangam-adjacent jal arpan",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local memory as one of the strongest river-facing Shaiva anchors in the district.",
+      "architecture": "Ghat-temple format aligned with river-turn pilgrimage flow.",
+      "visitorNotes": "Check local advisories in monsoon periods.",
+      "sources": [
+        {
+          "label": "Dohri Ghat",
+          "url": "https://en.wikipedia.org/wiki/Dohri_Ghat",
+          "type": "Reference"
+        },
+        {
+          "label": "Ghaghara River",
+          "url": "https://en.wikipedia.org/wiki/Ghaghara_River",
+          "type": "Reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhairav Baba Node (Madhuban)",
+    "state": "Uttar Pradesh",
+    "city": "Madhuban",
+    "region": "Mau district",
+    "tags": [
+      "Bhairav Baba",
+      "Madhuban",
+      "Protective Firewall"
+    ],
+    "story": "A high-intensity protective Shaiva-Bhairava node in the Madhuban sector, acting as a filter point for northern district devotional flow.",
+    "highlight": "Protective Aghora-aligned firewall node for northern Mau sector.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Bhairava aspect)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T22:03:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "High-intensity local rituals may run during special observance nights.",
+    "rituals": [
+      "Bhairava puja",
+      "Protective offerings"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Kalashtami"
+    ],
+    "moreDetails": {
+      "history": "Preserved in local practice as a guardian-mode node in the Madhuban belt.",
+      "architecture": "Compact rural shrine cluster centered on Bhairava-Shiva protective iconography.",
+      "visitorNotes": "Consult locals for ritual timing norms.",
+      "sources": [
+        {
+          "label": "Madhuban (Mau)",
+          "url": "https://www.openstreetmap.org/search?query=Madhuban%20Mau",
+          "type": "Map search"
+        },
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Jharkhandi Mahadev (Ratanpura)",
+    "state": "Uttar Pradesh",
+    "city": "Ratanpura",
+    "region": "Mau district",
+    "tags": [
+      "Jharkhandi",
+      "Ratanpura",
+      "Swayambhu"
+    ],
+    "story": "A deep-earth Swayambhu Shaiva rural anchor in the Ratanpura belt, associated with aquifer-linked soil resonance and steady agrarian baseline stabilization.",
+    "highlight": "Consistent humming baseline node for eastern Mau agricultural communities.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T22:03:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest rural-travel attire.",
+    "entryNotes": "Village access routes can vary seasonally.",
+    "rituals": [
+      "Jal abhishek",
+      "Village puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local oral continuity as an old Swayambhu rural node.",
+      "architecture": "Simple shrine setting with emphasis on linga-earth contact and low-noise ritual cycles.",
+      "visitorNotes": "Prefer daytime visits and local route support.",
+      "sources": [
+        {
+          "label": "Ratanpura",
+          "url": "https://www.openstreetmap.org/search?query=Ratanpura%20Mau",
+          "type": "Map search"
+        },
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhrigu Ashram Shiva Node",
+    "state": "Uttar Pradesh",
+    "city": "Ballia",
+    "region": "Ballia district",
+    "tags": [
+      "Bhrigu Ashram",
+      "Yoga Stability",
+      "Deep-Time Hub"
+    ],
+    "story": "A principal district anchor in the Bhrigu Ashram sacred zone, where integrated Shiva shrines function as yogic stabilizers for an ancient penance-and-knowledge lineage field.",
+    "highlight": "Primary spiritual motherboard anchor for Ballia's eastern frontier grid.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T22:19:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Often visited as part of a broader Bhrigu Ashram circuit.",
+    "rituals": [
+      "Jal abhishek",
+      "Dhyana"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Connected in local tradition to long-duration tapasya and rishi-lineage memory streams.",
+      "architecture": "Ashram-linked node cluster with distributed Shaiva devotional points.",
+      "visitorNotes": "Prefer early-morning visits for quieter conditions.",
+      "sources": [
+        {
+          "label": "Ballia district",
+          "url": "https://en.wikipedia.org/wiki/Ballia_district",
+          "type": "District reference"
+        },
+        {
+          "label": "Bhrigu Ashram (map search)",
+          "url": "https://www.openstreetmap.org/search?query=Bhrigu%20Ashram%20Ballia",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ballia",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kapildhara Mahadev",
+    "state": "Uttar Pradesh",
+    "city": "Ballia river belt",
+    "region": "Ballia district",
+    "tags": [
+      "Kapildhara",
+      "Hydro Buffer",
+      "Meditative Node"
+    ],
+    "story": "A hydro-buffer Shaiva node near a calmer sacred water-body, acting as a frequency step-down point for the intense kinetic field of the wider Ganga-Ghaghara junction corridor.",
+    "highlight": "Stabilized meditative water-node buffering high-velocity confluence energy.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T22:19:00+05:30",
+    "bestTime": "October to February.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire suitable for river-edge travel.",
+    "entryNotes": "Water conditions can vary seasonally.",
+    "rituals": [
+      "Jal offerings",
+      "Meditative darshan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local pilgrimage continuity as a calmer water-interface Shaiva point.",
+      "architecture": "Simple shrine format aligned to a low-velocity water-edge setting.",
+      "visitorNotes": "Prefer daylight visits, especially in monsoon periods.",
+      "sources": [
+        {
+          "label": "Ghaghara River",
+          "url": "https://en.wikipedia.org/wiki/Ghaghara_River",
+          "type": "Reference"
+        },
+        {
+          "label": "Ganges",
+          "url": "https://en.wikipedia.org/wiki/Ganges",
+          "type": "Reference"
+        }
+      ]
+    },
+    "district": "Ballia",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Siddheshwar Nath (Basantpur)",
+    "state": "Uttar Pradesh",
+    "city": "Basantpur, Ballia",
+    "region": "Ballia district",
+    "tags": [
+      "Siddheshwar Nath",
+      "Basantpur",
+      "Border Sentinel"
+    ],
+    "story": "A rural border-sentinel Shaiva node in the Basantpur sector, preserving a raw low-interference signal and bridging eastward grid movement toward Bihar's Buxar-Arrah corridor.",
+    "highlight": "Gateway transmitter for Ballia-Bihar transitional Shaivite flow.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Siddheshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T22:19:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest rural-travel attire.",
+    "entryNotes": "Border-adjacent route checks are recommended.",
+    "rituals": [
+      "Jal abhishek",
+      "Village puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in rural tradition as a sentinel-mode Shiva anchor of the eastern Ballia edge.",
+      "architecture": "Compact rural shrine profile with strong local pilgrimage continuity.",
+      "visitorNotes": "Prefer local guidance for exact approach roads.",
+      "sources": [
+        {
+          "label": "Ballia district",
+          "url": "https://en.wikipedia.org/wiki/Ballia_district",
+          "type": "District reference"
+        },
+        {
+          "label": "Buxar",
+          "url": "https://en.wikipedia.org/wiki/Buxar",
+          "type": "Reference"
+        }
+      ]
+    },
+    "district": "Ballia",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
   }
 ];

@@ -51,19 +51,19 @@ export const biharTemples = [
     "city": "Sultanganj",
     "region": "Bhagalpur district",
     "tags": [
-      "Ganga Island",
-      "Kanwar Yatra",
-      "Swayambhu"
+      "Hydro Granitic",
+      "Shravani Source Node",
+      "Granite Rock Island"
     ],
-    "story": "Located on a rocky island in the Ganges, this temple is the starting point of the Shravani Mela Kanwar Yatra. Lord Shiva is believed to have received his bow here.",
-    "highlight": "The location on a rock in the middle of the river.",
+    "story": "Built on a massive granite outcrop rising from the Ganga at Sultanganj, Ajgaibinath is the source node of the Shravani Mela route where pilgrims collect water before the Deoghar Kanwar yatra.",
+    "highlight": "The district's premier hydro-granitic Shiva anchor and Shravani pilgrimage origin point.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ajgaibinath_temple_Day-View.png",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File%3AAjgaibinath_temple_Day-View.png",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Shravan (July-Aug).",
+    "bestTime": "Shravan (July-Aug) and Mahashivratri.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
     "entryNotes": "Accessible by boat.",
@@ -75,11 +75,11 @@ export const biharTemples = [
       "Shravani Mela"
     ],
     "moreDetails": {
-      "history": "Ancient connection to the Pala dynasty.",
-      "architecture": "Rock-cut sculptures.",
-      "darshan": "Scenic.",
+      "history": "Ancient river-island shrine with long-standing Kanwar pilgrimage significance.",
+      "architecture": "Temple over natural granite river rock.",
+      "darshan": "High-energy river darshan.",
       "seasonal": "Crowded in Shravan.",
-      "visitorNotes": "Devotees collect Ganga water here for Baidyanath Dham.",
+      "visitorNotes": "Primary water-collection point for the Sultanganj to Deoghar pilgrimage corridor.",
       "festivals": "Shravani Mela.",
       "sources": [
         {
@@ -141,12 +141,12 @@ export const biharTemples = [
     "city": "Sonpur",
     "region": "Saran district",
     "tags": [
-      "Harihar",
-      "Cattle Fair",
-      "Vishnu-Shiva"
+      "Confluence Titan",
+      "Harihar Fusion",
+      "Ganga-Gandak"
     ],
-    "story": "Dedicated to the combined form of Vishnu (Hari) and Shiva (Har), this temple is the center of the world-famous Sonpur Cattle Fair.",
-    "highlight": "The unique Harihar idol and the Sonepur Mela connection.",
+    "story": "A major fusion shrine at the Gandak-Ganga confluence where Hari (Vishnu) and Hara (Shiva) are worshipped in one form, making it a powerful signal-combiner in the North Bihar sacred river grid.",
+    "highlight": "Rare Hari-Hara combined worship at one of the most energetic river confluences in the region.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hariharnath_temple%2C_Sonepur._%285448166304%29.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File%3AHariharnath_temple%2C_Sonepur._%285448166304%29.jpg",
@@ -156,7 +156,7 @@ export const biharTemples = [
     "bestTime": "Kartik Purnima (Nov).",
     "timings": "Open daily.",
     "dressCode": "Casual.",
-    "entryNotes": "Confluence of Gandak and Ganga.",
+    "entryNotes": "At Sonpur confluence; closely linked to Vaishali-Saran pilgrimage movement.",
     "rituals": [
       "Gajendra Moksha recitation"
     ],
@@ -165,11 +165,11 @@ export const biharTemples = [
       "Kartik Purnima"
     ],
     "moreDetails": {
-      "history": "Legendarily built by Lord Rama; renovated by Raja Man Singh.",
+      "history": "Ancient confluence shrine with strong medieval and early-modern patronage layers.",
       "architecture": "Hindu Temple style.",
-      "darshan": "Crowded.",
+      "darshan": "High-footfall confluence darshan.",
       "seasonal": "Best during the fair.",
-      "visitorNotes": "Visit during the Mela for a unique experience.",
+      "visitorNotes": "Best visited with the Sonpur-Kaun Haara Ghat confluence circuit.",
       "festivals": "Kartik Purnima.",
       "sources": [
         {
@@ -271,17 +271,17 @@ export const biharTemples = [
     }
   },
   {
-    "name": "Pataleshwar Mandir",
+    "name": "Patalshwar Mahadev (Hajipur)",
     "state": "Bihar",
     "city": "Hajipur",
     "region": "Vaishali district",
     "tags": [
-      "Underground",
-      "Swayambhu",
-      "Local"
+      "Deep Earth",
+      "Cooling Loop",
+      "Subterranean Lingam"
     ],
-    "story": "A historic temple where the Shivling is located below ground level inside a pit, hence the name Pataleshwar.",
-    "highlight": "The subterranean sanctum.",
+    "story": "A subterranean Shiva shrine in Hajipur where the lingam is worshipped below ground level, creating a naturally cool and grounded ritual environment in the Gandak basin belt.",
+    "highlight": "One of the district's strongest below-ground Shaiva sanctums.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pataleshwar_Mandir%2C_view_from_inside_the_temple%2C_Deccan_(3).jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File%3APataleshwar_Mandir%2C_view_from_inside_the_temple%2C_Deccan_(3).jpg",
@@ -300,17 +300,155 @@ export const biharTemples = [
       "Vivah Panchami"
     ],
     "moreDetails": {
-      "history": "18th century or older.",
+      "history": "Historic local shrine with long-standing below-ground worship tradition.",
       "architecture": "Shikhar style.",
-      "darshan": "Local.",
-      "seasonal": "Crowded on Mondays.",
-      "visitorNotes": "Very revered locally.",
+      "darshan": "Grounded and cooling.",
+      "seasonal": "Busy in Shravan and on Mondays.",
+      "visitorNotes": "A core Hajipur Shiva stop in Vaishali circuits.",
       "festivals": "Shivratri.",
       "sources": [
         {
           "label": "Pataleshwar Mandir",
           "url": "https://en.wikipedia.org/wiki/Pataleshwar_Mandir,_Hajipur",
           "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Basarh Shiva Temple (Ancient Vaishali)",
+    "state": "Bihar",
+    "city": "Basarh",
+    "region": "Vaishali district",
+    "tags": [
+      "Ancient Capital Ruins",
+      "Historical Core",
+      "Lichchhavi Legacy"
+    ],
+    "story": "Located in the ancient Vaishali archaeological zone, this Shiva node is tied to deep civilizational layers and serves as a historical core anchor in the district's sacred landscape.",
+    "highlight": "A Shaiva anchor rooted in the ruins of one of India's oldest republican capitals.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Winter and Shivratri.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "In the Basarh-ancient Vaishali heritage belt.",
+    "rituals": [
+      "Jalabhishek",
+      "Ancestral prayers"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Linked to the archaeological layers of ancient Vaishali civilization.",
+      "architecture": "Simple shrine over a heritage-rich landscape.",
+      "darshan": "Historical and contemplative.",
+      "seasonal": "Best in winter months.",
+      "visitorNotes": "Can be combined with the Vaishali stupa and museum circuit.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Vaishali (ancient city)",
+          "url": "https://en.wikipedia.org/wiki/Vaishali_(ancient_city)",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kameshwar Nath Temple (Hajipur)",
+    "state": "Bihar",
+    "city": "Hajipur",
+    "region": "Vaishali district",
+    "tags": [
+      "Urban Anchor",
+      "District Hub",
+      "River Port City"
+    ],
+    "story": "A major Shiva temple serving Hajipur's urban devotional flow, functioning as a central grounding and routing node for the district headquarters.",
+    "highlight": "Primary city-level Shaiva stabilizer for Hajipur and nearby riverfront communities.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Kameshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Shravan and Mahashivratri.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "Within Hajipur urban area.",
+    "rituals": [
+      "Jalabhishek",
+      "Daily aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Part of Hajipur's long-running urban Shaiva worship tradition.",
+      "architecture": "City-temple style.",
+      "darshan": "High-traffic urban darshan.",
+      "seasonal": "Crowded in Shravan and during Monday worship cycles.",
+      "visitorNotes": "Usually visited with other Hajipur Shiva shrines.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Vaishali district",
+          "url": "https://vaishali.nic.in/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gauri Shankar Temple (Lalganj)",
+    "state": "Bihar",
+    "city": "Lalganj",
+    "region": "Vaishali district",
+    "tags": [
+      "Rural Baseline",
+      "Agrarian Grid",
+      "Gauri Shankar"
+    ],
+    "story": "A rural Gauri-Shankar shrine in the Lalganj belt that maintains a stable Shaiva baseline across northern Vaishali's agrarian communities.",
+    "highlight": "A quiet, weathered rural anchor with consistent local ritual continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Gauri-Shankar",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Shravan and post-monsoon months.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "In Lalganj block rural sector.",
+    "rituals": [
+      "Village puja",
+      "Somvar worship"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month rituals"
+    ],
+    "moreDetails": {
+      "history": "Sustained by local village worship cycles over generations.",
+      "architecture": "Traditional rural shrine form.",
+      "darshan": "Community-centered and calm.",
+      "seasonal": "Most active in monsoon pilgrimage months.",
+      "visitorNotes": "Best visited with local Vaishali rural temple routes.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Vaishali district",
+          "url": "https://vaishali.nic.in/",
+          "type": "Government"
         }
       ]
     }
@@ -582,17 +720,109 @@ export const biharTemples = [
     }
   },
   {
-    "name": "Bateshwar Nath Temple",
+    "name": "Pitamahshwar Mahadev",
+    "state": "Bihar",
+    "city": "Gaya",
+    "region": "Gaya district",
+    "tags": [
+      "Phalgu River",
+      "Ancestral Rites",
+      "Shaivite Anchor"
+    ],
+    "story": "A major Shiva shrine near the Phalgu river, associated with ancestral rites and the Pitamaha tradition in the Gaya sacred landscape.",
+    "highlight": "A key grounding Shiva temple connected to the district's Shraddha circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Pitamahshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Pitrapaksha and Shivratri.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "Near Phalgu river ritual zone in Gaya.",
+    "rituals": [
+      "Jalabhishek",
+      "Pitra-linked prayer offerings"
+    ],
+    "festivals": [
+      "Pitrapaksha Mela",
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Part of Gaya's long-standing Shaiva and ancestral ritual traditions.",
+      "architecture": "Traditional shrine layout.",
+      "darshan": "Ancestral and Shaivite.",
+      "seasonal": "Highest footfall during Pitrapaksha.",
+      "visitorNotes": "Best visited alongside Phalgu and Vishnupad-area rituals.",
+      "festivals": "Pitrapaksha and Shivratri.",
+      "sources": [
+        {
+          "label": "Gaya Tourism",
+          "url": "https://gaya.nic.in/tourist-places/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mangla Gauri Shiva Shrines (Gabhashteshwar)",
+    "state": "Bihar",
+    "city": "Gaya",
+    "region": "Gaya district",
+    "tags": [
+      "Mangla Gauri",
+      "Gabhashteshwar",
+      "Shiva Shakti Interface"
+    ],
+    "story": "Within the Mangla Gauri sacred complex, the integrated Shiva shrines, especially Gabhashteshwar, form an important Shiva-Shakti interface in the Gaya ritual circuit.",
+    "highlight": "A major interface point balancing Shakti devotion with Shaivite grounding.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Gabhashteshwar)",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Navratri and Shivratri.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "Part of the Mangla Gauri hill-temple zone.",
+    "rituals": [
+      "Shiva-Shakti puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Navratri",
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Linked to the long-running Mangla Gauri pilgrimage tradition.",
+      "architecture": "Hill shrine complex with mixed temple structures.",
+      "darshan": "Interface of Shaiva and Shakta worship.",
+      "seasonal": "High footfall during Navratri and Pitrapaksha season.",
+      "visitorNotes": "Often combined with major Gaya circuit darshan points.",
+      "festivals": "Navratri and Shivratri.",
+      "sources": [
+        {
+          "label": "Gaya district",
+          "url": "https://gaya.nic.in/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Batheshwar Sthan Shiva Node",
     "state": "Bihar",
     "city": "Kahalgaon",
     "region": "Bhagalpur district",
     "tags": [
-      "Vikramshila",
-      "Ganga Confluence",
-      "Caves"
+      "Vikramshila Interface",
+      "Hill Shrine",
+      "Reflective Intelligence"
     ],
-    "story": "Located near the ancient Vikramshila University, this temple is associated with Sage Vashishta. The site also has ancient rock-cut caves.",
-    "highlight": "The proximity to Vikramshila ruins and the Ganges.",
+    "story": "A hill-linked Shiva site near the Vikramshila university ruins in Kahalgaon, where the river-facing landscape and archaeological setting create a strong wisdom-interface devotional zone.",
+    "highlight": "A Vikramshila-adjacent Shiva node connecting contemplative heritage with river-grid pilgrimage.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bateshwar_sthan_caves.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File%3ABateshwar_sthan_caves.jpg",
@@ -611,11 +841,11 @@ export const biharTemples = [
       "Magh Purnima Mela"
     ],
     "moreDetails": {
-      "history": "Ancient site; Tantric Buddhism connection nearby.",
-      "architecture": "Modern structure on ancient site.",
-      "darshan": "Scenic.",
+      "history": "Ancient sacred area with layered Shaiva and monastic-era regional memory.",
+      "architecture": "Historic hill-shrine zone with cave-linked features.",
+      "darshan": "Scenic and reflective.",
       "seasonal": "Crowded in Magh.",
-      "visitorNotes": "Must visit Vikramshila University ruins nearby.",
+      "visitorNotes": "Best visited with the Vikramshila and Kahalgaon river circuit.",
       "festivals": "Shivratri.",
       "sources": [
         {
@@ -627,17 +857,17 @@ export const biharTemples = [
     }
   },
   {
-    "name": "Baba Budhanath Temple",
+    "name": "Budhanath Temple",
     "state": "Bihar",
     "city": "Bhagalpur",
     "region": "Bhagalpur district",
     "tags": [
-      "Vridhheshwar",
-      "Ghat",
-      "City Temple"
+      "Urban Anchor",
+      "Elder Wisdom",
+      "Ganga Bank"
     ],
-    "story": "Also known as Vridhheshwar Nath, it is one of the oldest temples in Bhagalpur, situated on the banks of the river Ganga.",
-    "highlight": "The serene ghats and the ancient Lingam.",
+    "story": "One of Bhagalpur's principal riverfront Shiva temples, Budhanath serves as the city's primary urban anchor for daily life-cycle rituals and steady Shaiva worship.",
+    "highlight": "Core city-level Shiva router for Bhagalpur's Ganga-facing urban sub-grid.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baba_Budhanath_Temple.png",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File%3ABaba_Budhanath_Temple.png",
@@ -656,17 +886,109 @@ export const biharTemples = [
       "Sawan"
     ],
     "moreDetails": {
-      "history": "Ancient; mentioned in scriptures.",
+      "history": "Ancient Bhagalpur shrine with enduring local scripture and oral-tradition references.",
       "architecture": "Shikhar style.",
-      "darshan": "Devotional.",
+      "darshan": "Urban riverfront devotional.",
       "seasonal": "Pleasant.",
-      "visitorNotes": "Visit during evening Aarti.",
+      "visitorNotes": "Important stop for city rituals and evening ghat worship cycles.",
       "festivals": "Shivratri.",
       "sources": [
         {
           "label": "Budhanath",
           "url": "https://en.wikipedia.org/wiki/Budhanath_Temple",
           "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Champanagar Shiva Shrines",
+    "state": "Bihar",
+    "city": "Champanagar",
+    "region": "Bhagalpur district",
+    "tags": [
+      "Ancient Anga",
+      "Karna Legacy",
+      "Deep Time"
+    ],
+    "story": "A historic Shaiva cluster in the old Champanagar zone, tied to the memory of ancient Anga and Karna-era regional tradition within western Bhagalpur.",
+    "highlight": "A resilient deep-time historical grounding node in the Bhagalpur urban-periphery belt.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Winter and Mahashivratri.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "In Champanagar historical zone near Bhagalpur city.",
+    "rituals": [
+      "Jalabhishek",
+      "Local lineage prayers"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Linked to the ancient Anga civilizational region and later city growth of Bhagalpur.",
+      "architecture": "Mixed old and renovated shrine structures.",
+      "darshan": "Historic and community-centered.",
+      "seasonal": "Active during monsoon and winter pilgrimage windows.",
+      "visitorNotes": "Often visited as part of Bhagalpur old-city temple routes.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Bhagalpur district",
+          "url": "https://bhagalpur.nic.in/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Koteshwar Nath (Kahalgaon)",
+    "state": "Bihar",
+    "city": "Kahalgaon",
+    "region": "Bhagalpur district",
+    "tags": [
+      "Sahasralinga",
+      "Frequency Multiplier",
+      "Eastern Grid"
+    ],
+    "story": "A Kahalgaon Shiva anchor associated with Sahasralinga worship and the wider river-hill sacred corridor near rock-cut temple zones.",
+    "highlight": "Multi-band Shaiva node for eastern Bhagalpur's river transition belt.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Koteshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Mahashivratri and winter.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "Kahalgaon sub-grid near Vikramshila-Batheshwar route.",
+    "rituals": [
+      "Sahasralinga puja",
+      "Jalabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Local Kahalgaon Shaiva tradition with multi-linga worship continuity.",
+      "architecture": "Traditional shrine with regional stone features.",
+      "darshan": "Rural-urban transition node darshan.",
+      "seasonal": "Most comfortable in winter and post-monsoon months.",
+      "visitorNotes": "Can be combined with Batheshwar and Vikramshila visits.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Bhagalpur district",
+          "url": "https://bhagalpur.nic.in/",
+          "type": "Government"
         }
       ]
     }
@@ -766,12 +1088,12 @@ export const biharTemples = [
     "city": "Brahmapur",
     "region": "Buxar district",
     "tags": [
-      "West Facing",
-      "Mahmood Ghazni",
-      "Cattle Fair"
+      "Baba Brahmeshwar Nath",
+      "Raghunathpur",
+      "Regional Anchor"
     ],
-    "story": "A historic temple famous for its west-facing door, which legend says turned to defy Mahmood Ghazni. It hosts a massive cattle fair.",
-    "highlight": "The west-facing sanctum and the legend of the turning temple.",
+    "story": "A major Shaiva center in the Raghunathpur sector, often referred to as the Deoghar of Buxar. Local tradition preserves the Gauripur legend in which the temple entrance miraculously shifted direction.",
+    "highlight": "One of the most revered high-traffic Shiva nodes of the Buxar region.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Barhampur_Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File%3ABarhampur_Temple.jpg",
@@ -791,17 +1113,201 @@ export const biharTemples = [
       "Phalgun Mela"
     ],
     "moreDetails": {
-      "history": "Ancient; legends of Ghazni era.",
+      "history": "Ancient shrine with enduring regional legends.",
       "architecture": "Shikhar style.",
-      "darshan": "Historic.",
-      "seasonal": "Fair time is bustling.",
-      "visitorNotes": "Famous for the animal fair.",
+      "darshan": "Historic and devotional.",
+      "seasonal": "Most crowded in Shravan and Shivratri cycles.",
+      "visitorNotes": "A key pilgrimage stop across Buxar and nearby districts.",
       "festivals": "Shivratri.",
       "sources": [
         {
-          "label": "Brahmapur",
+          "label": "Brahmapur Buxar",
           "url": "https://en.wikipedia.org/wiki/Brahmapur,_Buxar",
           "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rameshwar Nath Temple (Ram Rekha Ghat)",
+    "state": "Bihar",
+    "city": "Buxar",
+    "region": "Buxar district",
+    "tags": [
+      "Ram Rekha Ghat",
+      "Ganga Bank",
+      "Purification"
+    ],
+    "story": "Located on the banks of the Ganga at Ram Rekha Ghat, this temple is linked to local traditions that Lord Rama established the lingam here after the Tadaka encounter.",
+    "highlight": "A major riverfront Shiva shrine tied to Ramayana memory in Buxar.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Rameshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Shravan and Shivratri.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "Located near Ram Rekha Ghat in Buxar town.",
+    "rituals": [
+      "Jalabhishek",
+      "Ganga snan-linked puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Associated in local belief with the Ramayana-era Buxar sacred circuit.",
+      "architecture": "Traditional North Indian shrine form.",
+      "darshan": "Riverfront and purification-focused.",
+      "seasonal": "Peak footfall during monsoon pilgrimage months.",
+      "visitorNotes": "Best visited early morning with ghat darshan.",
+      "festivals": "Mahashivratri and Shravan observances.",
+      "sources": [
+        {
+          "label": "Buxar",
+          "url": "https://en.wikipedia.org/wiki/Buxar",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gauri Shankar Temple (Umanath)",
+    "state": "Bihar",
+    "city": "Umanath",
+    "region": "Buxar district",
+    "tags": [
+      "Ganga High Bank",
+      "Gauri Shankar",
+      "Dual Resonance"
+    ],
+    "story": "A Shiva-Shakti shrine on the higher bank corridor of the Ganga, revered as a stabilizing Gauri-Shankar node in the Buxar-Arrah belt.",
+    "highlight": "Balanced Shiva-Shakti worship with strong riverbank devotional culture.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Gauri-Shankar",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Shivratri and Kartik period.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "In the Umanath area of Buxar district.",
+    "rituals": [
+      "Shiva-Parvati puja",
+      "Jal offering"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Sawan month observances"
+    ],
+    "moreDetails": {
+      "history": "Local riverbank Shaiva-Shakti tradition.",
+      "architecture": "Traditional mandir layout.",
+      "darshan": "Calm, devotional, and family-oriented.",
+      "seasonal": "Pleasant in winter and during post-monsoon months.",
+      "visitorNotes": "Often visited with other Buxar Ganga ghat temples.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Buxar district",
+          "url": "https://buxar.nic.in/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nath Baba Temple",
+    "state": "Bihar",
+    "city": "Buxar",
+    "region": "Buxar district",
+    "tags": [
+      "Nath Sampradaya",
+      "Lineage Anchor",
+      "Urban Node"
+    ],
+    "story": "A Nath-lineage Shiva center in Buxar town, known for disciplined yogic and Shaiva practice in the city core.",
+    "highlight": "Important Nath Sampradaya reference point in the Buxar urban grid.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Nath Sampradaya",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Shivratri and Guru Purnima.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "In Buxar town; associated with Nath tradition.",
+    "rituals": [
+      "Nath lineage worship",
+      "Daily aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Guru Purnima"
+    ],
+    "moreDetails": {
+      "history": "Part of the long-running Nath presence in the Buxar area.",
+      "architecture": "Ashram-temple style.",
+      "darshan": "Yogic and disciplined.",
+      "seasonal": "Most active in Shivratri and monsoon months.",
+      "visitorNotes": "A key stop for Nath Sampradaya seekers in town.",
+      "festivals": "Mahashivratri and Guru Purnima.",
+      "sources": [
+        {
+          "label": "Buxar",
+          "url": "https://en.wikipedia.org/wiki/Buxar",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kamrup Mahadev",
+    "state": "Bihar",
+    "city": "Buxar rural belt",
+    "region": "Buxar district",
+    "tags": [
+      "Rural Sentinel",
+      "Border Transition",
+      "Ancient Stone"
+    ],
+    "story": "A weathered rural Shiva shrine of the Buxar sub-grid, recognized locally as a transition node linking western Buxar routes toward the Bihar interior.",
+    "highlight": "A calm rural Mahadev site with strong local continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Kamrup Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Winter and Shivratri.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "Located in the rural Buxar corridor.",
+    "rituals": [
+      "Rural Jalabhishek",
+      "Somvar puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local community worship traditions.",
+      "architecture": "Simple rural shrine architecture.",
+      "darshan": "Quiet and grounded.",
+      "seasonal": "Most accessible outside heavy monsoon spells.",
+      "visitorNotes": "Best combined with other Buxar district Shiva circuits.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Buxar district",
+          "url": "https://buxar.nic.in/",
+          "type": "Government"
         }
       ]
     }
@@ -1693,43 +2199,228 @@ export const biharTemples = [
     }
   },
   {
-    "name": "Maniyar Math",
+    "name": "Maniyamath Shiva Temple (Rajgir)",
     "state": "Bihar",
     "city": "Rajgir",
     "region": "Nalanda district",
     "tags": [
-      "Snake Cult",
-      "Cylindrical",
-      "Mystery"
+      "Octagonal Plan",
+      "Rajgir Valley",
+      "Geometric Node"
     ],
-    "story": "A mysterious cylindrical temple dedicated to Naga (Snake) worship, often associated with Shiva. It dates back to the Mauryan/Gupta period.",
-    "highlight": "The unique cylindrical shape and ancient stucco figures.",
+    "story": "Associated with the historic Maniyar Math zone of Rajgir, this Shiva-linked node is part of the seven-hill valley sacred corridor and is treated as a key geometric anchor in the district.",
+    "highlight": "A high-importance Rajgir anchor in the southern Nalanda spiritual corridor.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maniyar_Math%2C_Rajgir%2C_Bihar_01.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File%3AManiyar_Math%2C_Rajgir%2C_Bihar_01.jpg",
-    "deity": "Naga / Shiva",
-    "tradition": "Ancient Folk/Shaiva",
+    "deity": "Shiva (Maniyamath/Maniyar tradition)",
+    "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Winter.",
+    "bestTime": "Winter and Rajgir pilgrimage season.",
     "timings": "Sunrise to Sunset.",
     "dressCode": "Casual.",
-    "entryNotes": "ASI protected.",
+    "entryNotes": "In the Rajgir heritage zone.",
     "rituals": [
-      "Visiting"
+      "Shiva darshan",
+      "Meditative prayer"
     ],
     "festivals": [
-      "Nag Panchami"
+      "Mahashivratri",
+      "Rajgir Mahotsav period visits"
     ],
     "moreDetails": {
-      "history": "Ancient (Magadha empire).",
-      "architecture": "Cylindrical well-type.",
-      "darshan": "Historic.",
-      "seasonal": "Pleasant.",
-      "visitorNotes": "One of the most unique structures in Rajgir.",
-      "festivals": "Rajgir Mahotsav.",
+      "history": "Ancient Rajgir sacred geography with layered ritual traditions.",
+      "architecture": "Rare geometric/circular-octagonal legacy form.",
+      "darshan": "Historic and contemplative.",
+      "seasonal": "Pleasant in winter.",
+      "visitorNotes": "Best visited with other Rajgir hill and hot-spring temples.",
+      "festivals": "Mahashivratri.",
       "sources": [
         {
-          "label": "Maniyar Math",
+          "label": "Rajgir",
+          "url": "https://en.wikipedia.org/wiki/Rajgir",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwar Nath (Sarmera)",
+    "state": "Bihar",
+    "city": "Sarmera",
+    "region": "Nalanda district",
+    "tags": [
+      "Rural Plains",
+      "Attainment Node",
+      "Agrarian Grid"
+    ],
+    "story": "A major rural Shiva temple serving the eastern plains of Nalanda, known as a stable devotional center for village and farming communities.",
+    "highlight": "A steady eastern Nalanda anchor with strong local worship continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Siddheshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Shravan and Shivratri.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "In Sarmera block area.",
+    "rituals": [
+      "Jalabhishek",
+      "Somvar puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Sustained through long-running local Shaiva worship.",
+      "architecture": "Traditional rural shrine structure.",
+      "darshan": "Community-centered.",
+      "seasonal": "Peak visits during monsoon pilgrimage months.",
+      "visitorNotes": "Important local temple for nearby village clusters.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Nalanda district",
+          "url": "https://nalanda.nic.in/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kundu Mahadev (Nalanda Ruins Adjacent)",
+    "state": "Bihar",
+    "city": "Nalanda",
+    "region": "Nalanda district",
+    "tags": [
+      "Nalanda Ruins",
+      "Memory Sync",
+      "Quiet Node"
+    ],
+    "story": "A Shiva shrine in the greater Nalanda archaeological corridor, revered as a quiet contemplative node near the ancient university landscape.",
+    "highlight": "An intellectual-heritage-linked Shaiva node in the Nalanda ruins belt.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Kundu Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Winter and early mornings year-round.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "Near Nalanda heritage-ruins approach zone.",
+    "rituals": [
+      "Silent darshan",
+      "Jal offering"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Part of the enduring temple layer around the ancient Nalanda region.",
+      "architecture": "Simple local shrine form.",
+      "darshan": "Meditative and low-noise.",
+      "seasonal": "Comfortable in winter.",
+      "visitorNotes": "Can be combined with Nalanda archaeological circuit visits.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Nalanda",
+          "url": "https://en.wikipedia.org/wiki/Nalanda",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sunari Shiva Temple",
+    "state": "Bihar",
+    "city": "Sunari",
+    "region": "Nalanda district",
+    "tags": [
+      "Rural Anchor",
+      "Ancient Lingam",
+      "Village Router"
+    ],
+    "story": "A longstanding village Shiva temple with a weathered lingam and strong local continuity across life-cycle and seasonal agrarian rituals.",
+    "highlight": "A stable spiritual hub for surrounding Nalanda villages.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Shravan and harvest-season observances.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "In rural Nalanda sector.",
+    "rituals": [
+      "Village puja",
+      "Jalabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local hereditary and community worship systems.",
+      "architecture": "Traditional rural temple layout.",
+      "darshan": "Grounded and community-driven.",
+      "seasonal": "Most active in monsoon and post-harvest periods.",
+      "visitorNotes": "Important for local annual ritual cycles.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Nalanda district",
+          "url": "https://nalanda.nic.in/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Venu Van Shiva Shrines",
+    "state": "Bihar",
+    "city": "Rajgir",
+    "region": "Nalanda district",
+    "tags": [
+      "Bamboo Grove",
+      "Bio Resonance",
+      "Brahmkund"
+    ],
+    "story": "A group of Shiva shrines in the Venu Van-Rajgir sacred ecology where vegetation cover and nearby thermal spring zones create a distinctive bio-thermal devotional atmosphere.",
+    "highlight": "A unique Rajgir Shiva cluster linked with bamboo grove and hot-spring energy.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Winter and early morning visits.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "In the Venu Van-Rajgir pilgrimage zone near hot springs.",
+    "rituals": [
+      "Jalabhishek",
+      "Meditative prayer"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Part of the layered Rajgir sacred landscape across traditions.",
+      "architecture": "Mixed small-shrine typology in a garden/forest setting.",
+      "darshan": "Nature-integrated and calm.",
+      "seasonal": "Most comfortable in winter; active year-round.",
+      "visitorNotes": "Often combined with Brahmkund and Rajgir hill circuit.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Rajgir",
           "url": "https://en.wikipedia.org/wiki/Rajgir",
           "type": "Encyclopedia"
         }
@@ -1781,27 +2472,27 @@ export const biharTemples = [
     }
   },
   {
-    "name": "Gupteshwar Cave Temple",
+    "name": "Gupteshwar Mahadev (Gupt Dham)",
     "state": "Bihar",
     "city": "Gupta Dham",
     "region": "Rohtas district",
     "tags": [
-      "Cave Temple",
-      "Stalagmites",
-      "Trekking"
+      "Limestone Cave",
+      "Natural Stalagmite Lingam",
+      "Siddha Node"
     ],
-    "story": "A natural limestone cave temple located in the Kaimur hills. It houses a natural stalagmite Shivalinga and is steeped in legends of Bhasmasura.",
-    "highlight": "The adventurous trek and the natural cave formation.",
+    "story": "A major cave shrine in the Kaimur hills where the Shiva form is naturally expressed through stalagmite formations. The enclosed cavern creates a powerful natural acoustic chamber for mantra and Om recitation.",
+    "highlight": "One of the strongest cave-based Shaiva coordinates in Rohtas.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gupteshwar_Mahadev.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Gupteshwar_Mahadev.jpg",
     "deity": "Shiva (Swayambhu)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Basant Panchami/Shivratri.",
+    "bestTime": "Winter, Basant Panchami, and Shivratri.",
     "timings": "Daylight hours.",
     "dressCode": "Trekking gear/Casual.",
-    "entryNotes": "Requires trekking.",
+    "entryNotes": "Requires cave trek and basic preparedness.",
     "rituals": [
       "Jalabhishek in cave"
     ],
@@ -1810,11 +2501,11 @@ export const biharTemples = [
       "Shivratri"
     ],
     "moreDetails": {
-      "history": "Ancient natural site.",
+      "history": "Ancient natural cave sanctuary with long-standing local worship.",
       "architecture": "Natural Cave.",
-      "darshan": "Adventure.",
-      "seasonal": "Avoid monsoon.",
-      "visitorNotes": "Carry torch/light.",
+      "darshan": "Cave pilgrimage and meditation oriented.",
+      "seasonal": "Best outside heavy monsoon periods.",
+      "visitorNotes": "Carry torch and suitable footwear.",
       "festivals": "Basant Panchami.",
       "sources": [
         {
@@ -1826,40 +2517,41 @@ export const biharTemples = [
     }
   },
   {
-    "name": "Baba Koteshwarnath Temple",
+    "name": "Koteshwar Nath (Bela)",
     "state": "Bihar",
-    "city": "Belaganj",
+    "city": "Bela (Belaganj)",
     "region": "Gaya district",
     "tags": [
-      "Confluence",
-      "Sahasra Linga",
-      "Ancient"
+      "Sahasralinga",
+      "Border Node",
+      "Confluence"
     ],
-    "story": "Located at the confluence of Morhar and Dargha rivers. It features a unique Sahasra Linga (1008 miniature Lingas carved on one).",
-    "highlight": "The Sahasra Linga and the river confluence.",
+    "story": "An ancient Shiva site in the Bela-Belaganj belt, known for its Sahasralinga form and importance in the northern Gaya rural circuit near the Gaya-Jehanabad transition zone.",
+    "highlight": "A multi-linga Shaiva anchor serving the agrarian sub-grid of northern Gaya.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kapileshwar_Sthan.jpg",
     "credit": "Wikimedia Commons (Representational)",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kapileshwar_Sthan.jpg",
-    "deity": "Shiva",
+    "deity": "Shiva (Koteshwar Nath)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Shivratri.",
+    "bestTime": "Shivratri and Shravan.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
-    "entryNotes": "In Main village.",
+    "entryNotes": "Near the Morhar-Dargha confluence belt.",
     "rituals": [
-      "River bath",
-      "Puja"
+      "Jalabhishek",
+      "Rural puja"
     ],
     "festivals": [
-      "Shivratri"
+      "Shivratri",
+      "Shravan Somvar"
     ],
     "moreDetails": {
-      "history": "8th Century AD.",
-      "architecture": "Ancient stone.",
-      "darshan": "Devotional.",
-      "seasonal": "Pleasant.",
-      "visitorNotes": "Very sacred locally.",
+      "history": "Historic local shrine tradition.",
+      "architecture": "Traditional stone-based shrine features.",
+      "darshan": "Devotional and community-focused.",
+      "seasonal": "Pleasant in winter; busy in Shravan.",
+      "visitorNotes": "Known in the area for its multi-linga Shiva form.",
       "festivals": "Shivratri.",
       "sources": [
         {
@@ -1959,17 +2651,17 @@ export const biharTemples = [
     }
   },
   {
-    "name": "Rohtasgarh Shiva Temple",
+    "name": "Rohtasgarh Fort Shiva Shrines",
     "state": "Bihar",
-    "city": "Rohtasgarh",
+    "city": "Rohtasgarh Fort",
     "region": "Rohtas district",
     "tags": [
-      "Fort Temple",
-      "Hill Top",
-      "Ruins"
+      "Fort Plateau",
+      "Sentinel Nodes",
+      "High Altitude"
     ],
-    "story": "A historic Shiva temple located within the massive Rohtasgarh Fort complex, dating back to medieval times.",
-    "highlight": "The location inside the historic fort on a hill.",
+    "story": "A cluster of Shiva shrines within the massive Rohtasgarh Fort complex, positioned on a high plateau above the Sone valley. These act as historic sentinel nodes in the district's hill-fort sacred landscape.",
+    "highlight": "Strategic high-altitude Shaiva shrines inside one of India's largest forts.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiva_Temple_-_Rohtasgarh_Fort.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File%3AShiva_Temple_-_Rohtasgarh_Fort.jpg",
@@ -1987,17 +2679,155 @@ export const biharTemples = [
       "Shivratri"
     ],
     "moreDetails": {
-      "history": "Medieval/Ancient fort history.",
+      "history": "Medieval-era fort shrine tradition with older regional roots.",
       "architecture": "Stone temple.",
-      "darshan": "Historic.",
-      "seasonal": "Winter is best.",
-      "visitorNotes": "Explore the entire fort.",
+      "darshan": "Historic and panoramic.",
+      "seasonal": "Best in winter and dry months.",
+      "visitorNotes": "Plan as a full fort circuit visit.",
       "festivals": "Shivratri.",
       "sources": [
         {
           "label": "Rohtasgarh",
           "url": "https://en.wikipedia.org/wiki/Rohtasgarh_Fort",
           "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pilot Baba Somnath Temple Complex",
+    "state": "Bihar",
+    "city": "Sasaram",
+    "region": "Rohtas district",
+    "tags": [
+      "Somnath Complex",
+      "Urban Anchor",
+      "NH-2 Corridor"
+    ],
+    "story": "A major modern-era Shaiva complex in Sasaram whose central Somnath shrine functions as a high-visibility urban devotional center for the district.",
+    "highlight": "Large-scale Shiva complex serving as a key Sasaram city pilgrimage point.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Somnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "In/near Sasaram urban area.",
+    "rituals": [
+      "Daily aarti",
+      "Jalabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Contemporary large temple complex with active local patronage.",
+      "architecture": "Modern temple complex.",
+      "darshan": "High-footfall urban darshan.",
+      "seasonal": "Most crowded during Shivratri and monsoon pilgrimage cycles.",
+      "visitorNotes": "Can be combined with Sasaram heritage sites in one route.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Rohtas district",
+          "url": "https://rohtas.nic.in/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tutla Bhawani Shiva Node",
+    "state": "Bihar",
+    "city": "Tutla Bhawani",
+    "region": "Rohtas district",
+    "tags": [
+      "Waterfall Shrine",
+      "Hydro Acoustic",
+      "Canyon Setting"
+    ],
+    "story": "A Shiva-linked shrine zone near the Tutla Bhawani waterfall where continuous water flow, mist, and canyon acoustics shape a strong hydro-acoustic devotional setting.",
+    "highlight": "A waterfall-linked Shiva-Shakti pilgrimage node in the Rohtas hills.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (with Bhawani tradition)",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Post-monsoon and winter.",
+    "timings": "Daylight hours.",
+    "dressCode": "Casual/trek-friendly attire.",
+    "entryNotes": "Waterfall approach route; terrain can be slippery.",
+    "rituals": [
+      "Jal offering",
+      "Nature-linked prayer"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Navratri"
+    ],
+    "moreDetails": {
+      "history": "Long-standing local hill and waterfall worship tradition.",
+      "architecture": "Natural setting with shrine structures.",
+      "darshan": "Nature-interface pilgrimage.",
+      "seasonal": "Most vibrant around monsoon and post-monsoon flow.",
+      "visitorNotes": "Use caution during heavy rain days.",
+      "festivals": "Shivratri and Navratri observances.",
+      "sources": [
+        {
+          "label": "Tutla Bhawani",
+          "url": "https://rohtas.nic.in/tourist-place/tutla-bhawani/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bhaluni Dham (Shiva-Shakti Interface)",
+    "state": "Bihar",
+    "city": "Bhaluni",
+    "region": "Rohtas district",
+    "tags": [
+      "Shiva Shakti Interface",
+      "Rural Anchor",
+      "Agrarian Grid"
+    ],
+    "story": "A rural devotional center where Shiva shrines operate alongside stronger goddess worship streams, creating a balanced Shiva-Shakti pilgrimage node for the surrounding farming belt.",
+    "highlight": "Important rural stabilizer between hill communities and river plain settlements.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Shivratri and local fair periods.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "In the rural Rohtas belt; check local road conditions.",
+    "rituals": [
+      "Daily puja",
+      "Somvar worship"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Sustained by village-level Shiva-Shakti worship traditions.",
+      "architecture": "Traditional rural temple structures.",
+      "darshan": "Community-oriented and grounded.",
+      "seasonal": "Accessible most of the year; monsoon travel may vary.",
+      "visitorNotes": "Often visited as part of local multi-temple circuits.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Rohtas district",
+          "url": "https://rohtas.nic.in/",
+          "type": "Government"
         }
       ]
     }
@@ -2268,39 +3098,41 @@ export const biharTemples = [
     }
   },
   {
-    "name": "Pretshila Hill Temple",
+    "name": "Siddhnath Mahadev (Pretshila Hill)",
     "state": "Bihar",
     "city": "Gaya",
     "region": "Gaya district",
     "tags": [
-      "Pind Daan",
-      "Yamraj",
+      "Pretshila",
+      "Sentinel Node",
       "Hill Top"
     ],
-    "story": "Located on Pretshila Hill, this temple is dedicated to Yamraj but also houses a Shiva shrine. It is crucial for Pind Daan rituals for accidental deaths.",
-    "highlight": "The view of Gaya and the unique Pind Daan importance.",
+    "story": "A high-elevation Shiva shrine on Pretshila Hill associated with the broader Pind Daan landscape of Gaya. It functions as a major hilltop darshan point overlooking the Falgu valley.",
+    "highlight": "High-altitude Shiva darshan integrated with the Pretshila ancestral circuit.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Historic_heritage_sites_of_Bihar_with_GPS_coordinates.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File%3AHistoric_heritage_sites_of_Bihar_with_GPS_coordinates.jpg",
-    "deity": "Yamraj / Shiva",
+    "deity": "Shiva (Siddhnath) / Yamraj tradition",
     "tradition": "Shaiva/Smarta",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Pitrapaksha.",
+    "bestTime": "Pitrapaksha and winter.",
     "timings": "Sunrise to Sunset.",
     "dressCode": "Casual.",
-    "entryNotes": "High stairs.",
+    "entryNotes": "Requires stair climb on Pretshila hill route.",
     "rituals": [
-      "Pind Daan"
+      "Pind Daan",
+      "Siddhnath puja"
     ],
     "festivals": [
-      "Pitrapaksha Mela"
+      "Pitrapaksha Mela",
+      "Mahashivratri"
     ],
     "moreDetails": {
-      "history": "Ancient; built by Ahilyabai Holkar.",
-      "architecture": "Hill temple.",
-      "darshan": "Ancestral.",
-      "seasonal": "Crowded in Pitrapaksha.",
-      "visitorNotes": "Prepare for a climb.",
+      "history": "Ancient hill pilgrimage site; restoration linked to Ahilyabai-era patronage.",
+      "architecture": "Hill shrine typology.",
+      "darshan": "Ancestral and contemplative.",
+      "seasonal": "Most crowded during Pitrapaksha.",
+      "visitorNotes": "Prepare for climb and daytime visit.",
       "festivals": "Pitrapaksha.",
       "sources": [
         {
@@ -2401,39 +3233,41 @@ export const biharTemples = [
     }
   },
   {
-    "name": "Markandey Mahadev",
+    "name": "Markandeywar Mahadev",
     "state": "Bihar",
     "city": "Gaya",
     "region": "Gaya district",
     "tags": [
       "Sage Markandeya",
-      "Puranic",
+      "Rukmini Sarovar",
       "Longevity"
     ],
-    "story": "Dedicated to Lord Shiva as worshipped by Sage Markandeya. Devotees visit for longevity and health.",
-    "highlight": "The Puranic legend of Markandeya.",
+    "story": "A Markandeya-linked Shiva shrine in the Gaya ritual landscape, associated with long-life prayers and resilience traditions, and locally connected to the Rukmini Sarovar zone.",
+    "highlight": "A long-life and rejuvenation-oriented Shiva node in Gaya.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Historic_heritage_sites_of_Bihar_with_GPS_coordinates.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File%3AHistoric_heritage_sites_of_Bihar_with_GPS_coordinates.jpg",
-    "deity": "Shiva",
+    "deity": "Shiva (Markandeywar)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Shivratri.",
+    "bestTime": "Shivratri and Shravan.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
-    "entryNotes": "In Gaya.",
+    "entryNotes": "Gaya city circuit; associated with Rukmini Sarovar area.",
     "rituals": [
-      "Mahamrityunjaya Jaap"
+      "Mahamrityunjaya Jaap",
+      "Ayushya prayers"
     ],
     "festivals": [
-      "Shivratri"
+      "Mahashivratri",
+      "Shravan Somvar"
     ],
     "moreDetails": {
-      "history": "Ancient.",
-      "architecture": "Traditional.",
-      "darshan": "Spiritual.",
-      "seasonal": "Pleasant.",
-      "visitorNotes": "Peaceful.",
+      "history": "Part of the Markandeya-centered Shaiva devotional stream.",
+      "architecture": "Traditional shrine setting.",
+      "darshan": "Spiritual and meditative.",
+      "seasonal": "Pleasant in winter and monsoon pilgrimage months.",
+      "visitorNotes": "Frequently visited for health and longevity sankalpa.",
       "festivals": "Shivratri.",
       "sources": [
         {
@@ -2534,45 +3368,137 @@ export const biharTemples = [
     }
   },
   {
-    "name": "Kastaharni Ghat Temple",
+    "name": "Manokamna Nath Mahadev",
     "state": "Bihar",
     "city": "Munger",
     "region": "Munger district",
     "tags": [
-      "Ganga Ghat",
-      "Healing",
-      "Sunrise"
+      "Wish Fulfilling",
+      "Ganga Bank",
+      "Primary Anchor"
     ],
-    "story": "Situated on the banks of the Ganges, this ghat has a Shiva temple believe to cure pains (Kasta-Harni). Lord Rama and Sita are said to have rested here.",
-    "highlight": "The north-flowing Ganges (Uttarvahini) view.",
+    "story": "A major Shiva shrine on the banks of the Ganga in Munger, revered as a Manokamna (wish-fulfilling) Mahadev node and a key grounding center for the district's riverfront sacred circuit.",
+    "highlight": "Primary Shaivite anchor of Munger's urban Ganga corridor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Manokamna Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Shravan and Mahashivratri.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "Ganga-facing Munger urban belt.",
+    "rituals": [
+      "Jalabhishek",
+      "Manokamna sankalpa puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Long-standing local riverfront worship tradition.",
+      "architecture": "Traditional urban shrine style.",
+      "darshan": "High-footfall devotional.",
+      "seasonal": "Most active in monsoon pilgrimage months.",
+      "visitorNotes": "Often paired with Kashtaharini and fort circuit visits.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Munger district",
+          "url": "https://munger.nic.in/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kashtaharini Ghat Shiva Shrines",
+    "state": "Bihar",
+    "city": "Munger",
+    "region": "Munger district",
+    "tags": [
+      "Relief Node",
+      "Ganga Ghat",
+      "River Steps"
+    ],
+    "story": "A cluster of Shiva shrines along the Kashtaharini ghat steps, traditionally associated with relief from suffering and purification through the river-linked ritual cycle.",
+    "highlight": "High-resolution riverbank shrine network that absorbs and grounds city devotional flow.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kashtharni_Ghat_Munger.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File%3AKashtharni_Ghat_Munger.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Magh Purnima.",
+    "bestTime": "Magh Purnima, Shravan, and sunrise hours.",
     "timings": "Open daily.",
     "dressCode": "Casual.",
-    "entryNotes": "On the river bank.",
+    "entryNotes": "On the Ganga river steps in Munger.",
     "rituals": [
-      "Ganga Bath",
-      "Puja"
+      "Ganga snan",
+      "Jal offering"
     ],
     "festivals": [
-      "Magh Purnima"
+      "Magh Purnima",
+      "Mahashivratri"
     ],
     "moreDetails": {
-      "history": "Ramayana connection.",
-      "architecture": "Ghat style.",
-      "darshan": "Peaceful.",
-      "seasonal": "Pleasant.",
-      "visitorNotes": "Best for morning views.",
+      "history": "Associated with long-standing pain-relief and purification traditions.",
+      "architecture": "Ghat-integrated shrine layout.",
+      "darshan": "River-facing and restorative.",
+      "seasonal": "Pleasant in winter and active in monsoon cycles.",
+      "visitorNotes": "Best experienced at dawn with river darshan.",
       "festivals": "Shivratri.",
       "sources": [
         {
           "label": "Munger",
           "url": "https://munger.nic.in/tourist-places/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Munger Fort Shiva Shrines",
+    "state": "Bihar",
+    "city": "Munger",
+    "region": "Munger district",
+    "tags": [
+      "Fort Sentinel",
+      "High Promontory",
+      "Warrior Saint"
+    ],
+    "story": "Shiva shrines located within and around the ancient Munger Fort complex overlooking the river corridor, preserving a sturdy sentinel tradition in the district's fort heritage zone.",
+    "highlight": "Strategic high-ground Shiva nodes linked to Munger's historic fort lineage.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Winter and Mahashivratri.",
+    "timings": "Daylight hours.",
+    "dressCode": "Casual.",
+    "entryNotes": "Within Munger fort heritage and river overlook area.",
+    "rituals": [
+      "Fort-circuit darshan",
+      "Shiva puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Fort-associated sacred nodes with layered medieval to modern use.",
+      "architecture": "Small fort shrines and stone sanctums.",
+      "darshan": "Historic and elevated.",
+      "seasonal": "Best in winter and dry months.",
+      "visitorNotes": "Combine with other Munger riverfront sacred points.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Munger district",
+          "url": "https://munger.nic.in/",
           "type": "Government"
         }
       ]
@@ -2623,27 +3549,27 @@ export const biharTemples = [
     }
   },
   {
-    "name": "Rishi Kund",
+    "name": "Rishikund Shiva Node",
     "state": "Bihar",
     "city": "Munger",
     "region": "Munger district",
     "tags": [
+      "Thermal Sync",
       "Hot Springs",
-      "Sages",
-      "Nature"
+      "Kharagpur Hills"
     ],
-    "story": "Another hot spring site in Munger, believed to be the abode of sages. It has a Shiva temple amidst the hills.",
-    "highlight": "The secluded nature spot and hot water.",
+    "story": "A geothermal Shiva site in the Kharagpur hill zone where natural hot springs and Shaiva worship combine into a distinctive thermal-synchronised pilgrimage environment.",
+    "highlight": "One of the district's key hot-spring Shiva nodes for healing-oriented pilgrimage.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Historic_heritage_sites_of_Bihar_with_GPS_coordinates.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File%3AHistoric_heritage_sites_of_Bihar_with_GPS_coordinates.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Malmas Mela.",
+    "bestTime": "Winter and Malmas Mela period.",
     "timings": "Daylight hours.",
     "dressCode": "Casual.",
-    "entryNotes": "Remote location.",
+    "entryNotes": "Remote hill location with thermal springs.",
     "rituals": [
       "Holy dip"
     ],
@@ -2651,16 +3577,62 @@ export const biharTemples = [
       "Malmas Mela"
     ],
     "moreDetails": {
-      "history": "Ancient.",
-      "architecture": "Simple.",
-      "darshan": "Nature.",
-      "seasonal": "Pleasant.",
-      "visitorNotes": "Picnic spot.",
+      "history": "Ancient thermal pilgrimage association.",
+      "architecture": "Natural spring plus shrine setting.",
+      "darshan": "Nature-embedded and restorative.",
+      "seasonal": "Best in winter and festival windows.",
+      "visitorNotes": "Follow local safety guidance near hot springs.",
       "festivals": "Shivratri.",
       "sources": [
         {
           "label": "Munger Tourism",
           "url": "https://munger.nic.in/tourist-places/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dakshineswar Mahadev (Tarapur)",
+    "state": "Bihar",
+    "city": "Tarapur",
+    "region": "Munger district",
+    "tags": [
+      "Rural Anchor",
+      "Tarapur Sector",
+      "Hill Plains Transition"
+    ],
+    "story": "A steady rural Shiva node in the Tarapur belt that supports ritual continuity across the transition between hill terrain and agricultural plains.",
+    "highlight": "Baseline Shaivite stabilizer for southern Munger villages.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Dakshineswar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-25T00:00:00+05:30",
+    "bestTime": "Shravan and Shivratri.",
+    "timings": "Open daily.",
+    "dressCode": "Modest temple attire.",
+    "entryNotes": "In Tarapur rural sub-grid.",
+    "rituals": [
+      "Somvar worship",
+      "Village jalabhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local village devotional traditions.",
+      "architecture": "Traditional rural shrine form.",
+      "darshan": "Grounded and rhythmic.",
+      "seasonal": "Most active in monsoon pilgrimage cycles.",
+      "visitorNotes": "Useful addition to the southern Munger temple route.",
+      "festivals": "Mahashivratri.",
+      "sources": [
+        {
+          "label": "Munger district",
+          "url": "https://munger.nic.in/",
           "type": "Government"
         }
       ]

@@ -1,26 +1,26 @@
 export const jharkhandTemples = [
     {
-        "name": "Baba Baidyanath Jyotirlinga Temple",
+        "name": "Baidyanath Jyotirlinga (Baba Dham)",
         "state": "Jharkhand",
         "city": "Deoghar",
         "region": "Deoghar district",
         "tags": [
             "Jyotirlinga",
-            "Shakti Peeth",
-            "Pilgrimage"
+            "Siddha Peeth",
+            "Healing Restoration"
         ],
-        "story": "One of the twelve Jyotirlingas, where Ravana sacrificed his ten heads to Shiva. It is also a Shakti Peeth where Sati's heart fell.",
-        "highlight": "The Shravani Mela and the Kanwar Yatra.",
+        "story": "One of the twelve Jyotirlingas and a major Siddha Peeth, this temple is the primary healing-restoration Shiva node of the region. The Baidyanath-Shakti linkage and ritual gathbandhan tradition form a continuous Shiva-Shakti circuit in the core complex.",
+        "highlight": "The principal pilgrimage motherboard of Deoghar with massive Shravani footfall.",
         "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sacred_Pond_-_Baidyanath_Dham_Temple_Complex_-_Deoghar.jpg",
         "credit": "Wikimedia Commons",
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Sacred_Pond_-_Baidyanath_Dham_Temple_Complex_-_Deoghar.jpg",
         "deity": "Shiva (Baidyanath)",
         "tradition": "Shaiva",
         "addedAt": "2026-02-23T01:56:00+05:30",
-        "bestTime": "Shravan (July-Aug).",
+        "bestTime": "Shravan (July-Aug) and Mahashivratri.",
         "timings": "4:00 AM - 9:00 PM",
         "dressCode": "Traditional preferred.",
-        "entryNotes": "Crowded during Shravan.",
+        "entryNotes": "Heavy queues during Shravan; plan early darshan.",
         "rituals": [
             "Jalabhishek",
             "Rudrabhishek"
@@ -30,12 +30,12 @@ export const jharkhandTemples = [
             "Shivratri"
         ],
         "moreDetails": {
-            "history": "Ancient Puranic site.",
+            "history": "Ancient Puranic Jyotirlinga center with long-standing pan-Indian yatra routes.",
             "architecture": "Nagara style.",
-            "darshan": "Touch darshan allowed.",
+            "darshan": "High-intensity pilgrimage darshan; touch darshan in designated conditions.",
             "seasonal": "Monsoon is peak.",
-            "visitorNotes": "Main pilgrimage hub of Jharkhand.",
-            "festivals": "Shravani Mela is massive.",
+            "visitorNotes": "Primary spiritual hub of Deoghar and wider Jharkhand.",
+            "festivals": "Shravani Mela drives the largest annual surge.",
             "sources": [
                 {
                     "label": "Deoghar",
@@ -46,27 +46,27 @@ export const jharkhandTemples = [
         }
     },
     {
-        "name": "Baba Basukinath Dham",
+        "name": "Basukinath Mahadev",
         "state": "Jharkhand",
         "city": "Basukinath",
         "region": "Dumka district",
         "tags": [
             "Court of Shiva",
-            "Kanwar Yatra",
-            "Ancient"
+            "Administrative Router",
+            "Kanwar Completion"
         ],
-        "story": "Considered the court where Baba Baidyanath's legal proceedings are held. Pilgrimage is incomplete without visiting here.",
-        "highlight": "The symbiotic relationship with Deoghar.",
+        "story": "Revered as the 'court of Shiva' in local tradition, this temple acts as the secondary administrative router of the Baidyanath pilgrimage stream, where many yatris complete their circuit after Deoghar.",
+        "highlight": "Essential sync-point in the Baidyanath-Basukinath pilgrimage sequence.",
         "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baba_Basukinath_Temple_complex_at_Basukinath%2C_Jharkhand_02.jpg",
         "credit": "Wikimedia Commons",
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Baba_Basukinath_Temple_complex_at_Basukinath%2C_Jharkhand_02.jpg",
-        "deity": "Shiva (Nageshvara)",
+        "deity": "Shiva (Basukinath)",
         "tradition": "Shaiva",
         "addedAt": "2026-02-23T02:10:00+05:30",
         "bestTime": "Shravan.",
         "timings": "Open daily.",
         "dressCode": "Casual.",
-        "entryNotes": "Near Dumka.",
+        "entryNotes": "Often visited as the completion stop after Baidyanath darshan.",
         "rituals": [
             "Milk offering"
         ],
@@ -74,11 +74,11 @@ export const jharkhandTemples = [
             "Shravani Mela"
         ],
         "moreDetails": {
-            "history": "Maratha era renovation.",
+            "history": "Ancient regional shrine with later-period renovations and sustained yatra linkage.",
             "architecture": "Traditional.",
-            "darshan": "Devotional.",
+            "darshan": "Devotional and pilgrimage-sequence focused.",
             "seasonal": "Monsoon peak.",
-            "visitorNotes": "Visit after Baidyanath.",
+            "visitorNotes": "Best approached as part of the Deoghar-Basukinath route.",
             "festivals": "Shivratri.",
             "sources": [
                 {
@@ -268,24 +268,24 @@ export const jharkhandTemples = [
         }
     },
     {
-        "name": "Jharkhand Dham",
+        "name": "Jharkhandi Dham",
         "state": "Jharkhand",
         "city": "Giridih",
         "region": "Giridih district",
         "tags": [
             "Roofless",
-            "Ancient",
-            "Pilgrimage"
+            "Raw Primordial",
+            "Primary Anchor"
         ],
-        "story": "A unique roofless temple dedicated to Lord Shiva. It is one of the most significant pilgrimage sites in Giridih.",
-        "highlight": "The open-sky sanctum.",
+        "story": "A roofless Shiva sanctuary where the lingam remains directly exposed to the elements, preserving an open-sky vertical alignment and raw grounding quality in the Giridih sacred landscape.",
+        "highlight": "The district's primary roofless Shaiva grounding node.",
         "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jharkhand_Dham.jpg",
         "credit": "Wikimedia Commons",
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Jharkhand_Dham.jpg",
         "deity": "Shiva",
         "tradition": "Shaiva",
         "addedAt": "2026-02-19T15:18:12+05:30",
-        "bestTime": "Shivratri.",
+        "bestTime": "Mahashivratri and Shravan.",
         "timings": "Open daily.",
         "dressCode": "Casual.",
         "entryNotes": "Near Dhanwar.",
@@ -296,12 +296,12 @@ export const jharkhandTemples = [
             "Shivratri"
         ],
         "moreDetails": {
-            "history": "Ancient.",
+            "history": "Long-standing open-sky worship tradition in the Giridih region.",
             "architecture": "Roofless structure.",
-            "darshan": "Unique.",
+            "darshan": "Raw and elemental.",
             "seasonal": "Pleasant.",
-            "visitorNotes": "Architectural curiosity.",
-            "festivals": "Huge fair.",
+            "visitorNotes": "A key stop in the northern Jharkhand Shaiva route.",
+            "festivals": "Large Shivratri fair.",
             "sources": [
                 {
                     "label": "Giridih",
@@ -317,19 +317,19 @@ export const jharkhandTemples = [
         "city": "Bagodar",
         "region": "Giridih district",
         "tags": [
-            "Tallest Linga",
-            "Marriage",
-            "Modern"
+            "65 ft Linga",
+            "Form Amplifier",
+            "Iconic Anomaly"
         ],
-        "story": "Famous for housing a massive 65-feet tall Shiva Linga. It is a popular venue for marriages and religious gatherings.",
-        "highlight": "The gigantic Linga structure.",
+        "story": "Known for its monumental 65-foot Shiva-linga form, this Bagodar site functions as a strong geometric broadcaster of Shaiva symbolism across surrounding rural sub-grids.",
+        "highlight": "One of the region's most iconic large-form Shiva structures.",
         "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiv_Temple.jpg",
         "credit": "Wikimedia Commons",
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Shiv_Temple.jpg",
         "deity": "Shiva",
         "tradition": "Shaiva",
         "addedAt": "2026-02-19T15:18:12+05:30",
-        "bestTime": "Winter.",
+        "bestTime": "Winter and Mahashivratri.",
         "timings": "Open daily.",
         "dressCode": "Casual.",
         "entryNotes": "On GT Road.",
@@ -340,11 +340,11 @@ export const jharkhandTemples = [
             "Shivratri"
         ],
         "moreDetails": {
-            "history": "Modern construction.",
+            "history": "Modern monumental temple development with strong regional devotional adoption.",
             "architecture": "Monumental.",
-            "darshan": "Grand scale.",
+            "darshan": "Grand-scale iconic darshan.",
             "seasonal": "All year.",
-            "visitorNotes": "Visible from highway.",
+            "visitorNotes": "Highly visible from GT Road; popular pilgrimage stop.",
             "festivals": "Shivratri.",
             "sources": [
                 {
@@ -356,27 +356,28 @@ export const jharkhandTemples = [
         }
     },
     {
-        "name": "Trikuteshwarnath Temple",
+        "name": "Trikut Pahar Shiva Nodes",
         "state": "Jharkhand",
         "city": "Deoghar",
         "region": "Deoghar district",
         "tags": [
-            "Hill Top",
+            "Three Peaks",
+            "Vertical Transmitters",
             "Ropeway",
-            "Ravana"
+            "Granite Plateau"
         ],
-        "story": "Located on Trikut Hill, this temple marks the spot where Ravana is said to have landed. It offers trekking and ropeway rides.",
-        "highlight": "The ropeway ride and panoramic views.",
+        "story": "A network of Shiva shrines on the three-peaked Trikut hill system near Deoghar. These elevated nodes function as vertical transmitters across the wider Santhal Pargana forest belt.",
+        "highlight": "High-altitude Shiva transmission zone with ropeway and ridge-level darshan.",
         "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trikut_pahar.jpg",
         "credit": "Wikimedia Commons",
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Trikut_pahar.jpg",
-        "deity": "Shiva (Trikutachal)",
+        "deity": "Shiva (Trikutachal shrines)",
         "tradition": "Shaiva",
         "addedAt": "2026-02-23T01:57:00+05:30",
         "bestTime": "Winter.",
         "timings": "Daylight hours.",
         "dressCode": "Casual.",
-        "entryNotes": "Ropeway available.",
+        "entryNotes": "Ropeway and trek routes available.",
         "rituals": [
             "Hill worship"
         ],
@@ -384,12 +385,12 @@ export const jharkhandTemples = [
             "Mela"
         ],
         "moreDetails": {
-            "history": "Mythological.",
+            "history": "Myth-linked hill pilgrimage zone in Deoghar district.",
             "architecture": "Hill shrine.",
-            "darshan": "Adventure.",
+            "darshan": "Adventure and panoramic.",
             "seasonal": "Avoid monsoon for trek.",
             "visitorNotes": "Beware of monkeys.",
-            "festivals": "Local fairs.",
+            "festivals": "Shivratri and local hill fairs.",
             "sources": [
                 {
                     "label": "Deoghar",
@@ -584,17 +585,18 @@ export const jharkhandTemples = [
         }
     },
     {
-        "name": "Tapovan Temple",
+        "name": "Tapovan Shiva Caves",
         "state": "Jharkhand",
         "city": "Deoghar",
         "region": "Deoghar district",
         "tags": [
+            "Meditation Anchor",
             "Caves",
             "Penance",
             "Taponath"
         ],
-        "story": "A site of ancient penance (Tapasya) with caves and a Shiva temple (Taponath Mahadev). Legend says Sage Valmiki meditated here.",
-        "highlight": "The caves and the serene atmosphere.",
+        "story": "A cave-based Shaiva meditation anchor with Taponath Mahadev worship, known for low-noise inward practice and long-standing tapasya traditions.",
+        "highlight": "Natural cave sanctums suited for contemplative Shaiva practice.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gupteshwar_Mahadev.jpg/640px-Gupteshwar_Mahadev.jpg",
         "credit": "Wikimedia Commons (Representational Cave)",
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Gupteshwar_Mahadev.jpg",
@@ -604,7 +606,7 @@ export const jharkhandTemples = [
         "bestTime": "Winter.",
         "timings": "Open daily.",
         "dressCode": "Casual.",
-        "entryNotes": "Near Deoghar.",
+        "entryNotes": "Rocky cave zone near Deoghar city.",
         "rituals": [
             "Meditation"
         ],
@@ -612,9 +614,9 @@ export const jharkhandTemples = [
             "Shivratri"
         ],
         "moreDetails": {
-            "history": "Puranic.",
+            "history": "Ancient tapasya site preserved in local ascetic traditions.",
             "architecture": "Cave temple.",
-            "darshan": "Spiritual.",
+            "darshan": "Inward-focused and spiritual.",
             "seasonal": "Pleasant.",
             "visitorNotes": "Explore the caves.",
             "festivals": "Shivratri.",
@@ -622,6 +624,52 @@ export const jharkhandTemples = [
                 {
                     "label": "Deoghar",
                     "url": "https://deoghar.nic.in/tourist-place/tapovan/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Naulakha Mandir Shiva Shrine",
+        "state": "Jharkhand",
+        "city": "Deoghar",
+        "region": "Deoghar district",
+        "tags": [
+            "Refined Frequency",
+            "Urban Buffer",
+            "Devotional Architecture"
+        ],
+        "story": "Within the Naulakha Mandir devotional zone, associated Shiva markers function as a refined buffer layer that steps down the high-intensity Baidyanath pilgrimage flow for urban worshippers.",
+        "highlight": "A calmer devotional-artistic Shiva node in the broader Deoghar circuit.",
+        "image": "/temples/temple-02.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-02.svg",
+        "deity": "Shiva",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-25T00:00:00+05:30",
+        "bestTime": "Winter, Shravan, and Shivratri.",
+        "timings": "Open daily.",
+        "dressCode": "Modest temple attire.",
+        "entryNotes": "Deoghar urban sacred circuit.",
+        "rituals": [
+            "Daily puja",
+            "Jalabhishek"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month observances"
+        ],
+        "moreDetails": {
+            "history": "20th-century devotional complex with integrated Shaiva worship points.",
+            "architecture": "Refined temple form with strong devotional focus.",
+            "darshan": "Calmer urban darshan.",
+            "seasonal": "Most active during Shravan and major festival periods.",
+            "visitorNotes": "Often visited with Baidyanath and Tapovan stops.",
+            "festivals": "Mahashivratri.",
+            "sources": [
+                {
+                    "label": "Deoghar district tourism",
+                    "url": "https://deoghar.nic.in/",
                     "type": "Government"
                 }
             ]
@@ -716,27 +764,27 @@ export const jharkhandTemples = [
         }
     },
     {
-        "name": "Usri Falls Temple",
+        "name": "Usri Falls Shiva Node",
         "state": "Jharkhand",
         "city": "Giridih",
         "region": "Giridih district",
         "tags": [
-            "Waterfall",
-            "Picnic",
-            "Nature"
+            "Hydro Kinetic",
+            "Granite Steps",
+            "Waterfall Shrine"
         ],
-        "story": "A small Shiva shrine near the scenic Usri Falls. The sound of the waterfall complements the tranquility of the temple.",
-        "highlight": "The waterfall setting.",
+        "story": "A waterfall-linked Shiva shrine where the Usri river drops across granite shelves, creating a charged hydro-kinetic devotional environment.",
+        "highlight": "A sharp, river-ionized Shiva node in Giridih's natural waterfall corridor.",
         "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Usri_falls%2Cgiridih%2Cjharkhand.jpg",
         "credit": "Wikimedia Commons",
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Usri_falls%2Cgiridih%2Cjharkhand.jpg",
         "deity": "Shiva",
         "tradition": "Shaiva",
         "addedAt": "2026-02-19T15:18:12+05:30",
-        "bestTime": "Monsoon/Winter.",
+        "bestTime": "Monsoon and winter.",
         "timings": "Daylight hours.",
         "dressCode": "Casual.",
-        "entryNotes": "Picnic spot.",
+        "entryNotes": "Waterfall zone; terrain can be slippery in monsoon.",
         "rituals": [
             "Nature worship"
         ],
@@ -744,12 +792,12 @@ export const jharkhandTemples = [
             "New Year"
         ],
         "moreDetails": {
-            "history": "Natural site.",
+            "history": "Long-standing local shrine associated with Usri waterfall worship.",
             "architecture": "Small shrine.",
-            "darshan": "Scenic.",
+            "darshan": "Nature-charged and scenic.",
             "seasonal": "Best flow in monsoon.",
-            "visitorNotes": "Popular for picnics.",
-            "festivals": "Local fairs.",
+            "visitorNotes": "Visit with caution near wet rocks and strong flow periods.",
+            "festivals": "Shivratri and local seasonal gatherings.",
             "sources": [
                 {
                     "label": "Giridih",
@@ -1026,39 +1074,40 @@ export const jharkhandTemples = [
         }
     },
     {
-        "name": "Maithon Shiva Temple",
+        "name": "Kalyaneshwari-adjacent Shiva Nodes",
         "state": "Jharkhand",
         "city": "Maithon",
         "region": "Dhanbad district",
         "tags": [
-            "Dam",
-            "Island",
-            "Pahari Baba"
+            "Hydro Electric",
+            "Reservoir Stabilizer",
+            "Border Corridor"
         ],
-        "story": "Near the Maithon Dam and Kalyaneshwari temple, there are shrines dedicated to Shiva, including the Pahari Baba temple on a nearby hill.",
-        "highlight": "The dam view and boating.",
+        "story": "A cluster of Shiva shrines in the Maithon-Kalyaneshwari border belt where the reservoir system creates a strong hydro-pressure stabilization loop for eastern Dhanbad worship routes.",
+        "highlight": "Highly stable Shiva routing zone near Maithon Dam and the Bengal border.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Shiva_Linga_Varanasi.jpg/640px-Shiva_Linga_Varanasi.jpg",
         "credit": "Wikimedia Commons (Representational)",
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Shiva_Linga_Varanasi.jpg",
         "deity": "Shiva",
         "tradition": "Shaiva",
         "addedAt": "2026-02-19T15:18:12+05:30",
-        "bestTime": "Winter.",
+        "bestTime": "Winter and Shivratri.",
         "timings": "Open daily.",
         "dressCode": "Casual.",
-        "entryNotes": "Near border.",
+        "entryNotes": "Maithon border belt near dam and Kalyaneshwari route.",
         "rituals": [
-            "Hill Puja"
+            "Jalabhishek",
+            "Hill and river puja"
         ],
         "festivals": [
-            "Shivratri"
+            "Mahashivratri"
         ],
         "moreDetails": {
-            "history": "Modern.",
-            "architecture": "Hill temple.",
-            "darshan": "Scenic.",
-            "seasonal": "Pleasant.",
-            "visitorNotes": "Visit Kalyaneshwari too.",
+            "history": "Developed as part of the larger Maithon sacred and dam-zone travel corridor.",
+            "architecture": "Mixed hill and small-shrine architecture.",
+            "darshan": "Scenic and stabilizing.",
+            "seasonal": "Pleasant in winter; active year-round.",
+            "visitorNotes": "Often paired with Kalyaneshwari-side routes.",
             "festivals": "Shivratri.",
             "sources": [
                 {
@@ -1114,44 +1163,229 @@ export const jharkhandTemples = [
         }
     },
     {
-        "name": "Topchanchi Shiva Mandir",
+        "name": "Topchanchi Lake Shiva Shrine",
         "state": "Jharkhand",
         "city": "Topchanchi",
         "region": "Dhanbad district",
         "tags": [
-            "Lake",
-            "Parasnath View",
-            "Peace"
+            "Quiet Zone",
+            "Cooling Buffer",
+            "Lake Shrine"
         ],
-        "story": "Located near the beautiful Topchanchi Lake, this Shiva temple offers a peaceful retreat with views of the Parasnath hills.",
-        "highlight": "The lake and mountain backdrop.",
+        "story": "A lakeside Shiva shrine at Topchanchi that acts as a quiet cooling buffer for the district, balancing industrial activity with a nature-synced devotional zone near the Parasnath-facing corridor.",
+        "highlight": "Calm lake-edge Shiva node filtering urban-industrial noise.",
         "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Topchanchi_Lake.jpg",
         "credit": "Wikimedia Commons",
         "creditUrl": "https://commons.wikimedia.org/wiki/File:Topchanchi_Lake.jpg",
         "deity": "Shiva",
         "tradition": "Shaiva",
         "addedAt": "2026-02-19T15:18:12+05:30",
-        "bestTime": "Winter.",
+        "bestTime": "Winter and early mornings year-round.",
         "timings": "Open daily.",
         "dressCode": "Casual.",
-        "entryNotes": "Near lake.",
+        "entryNotes": "Near Topchanchi Lake at hill base.",
         "rituals": [
-            "Lake aarti"
+            "Jalabhishek",
+            "Lake-edge aarti"
         ],
         "festivals": [
-            "Shivratri"
+            "Mahashivratri"
         ],
         "moreDetails": {
-            "history": "Local.",
-            "architecture": "Simple.",
-            "darshan": "Nature.",
-            "seasonal": "Pleasant.",
-            "visitorNotes": "Great for boating.",
+            "history": "Local shrine linked with long-running lake pilgrimage visits.",
+            "architecture": "Simple lakeside shrine.",
+            "darshan": "Nature-synced and peaceful.",
+            "seasonal": "Most pleasant in winter.",
+            "visitorNotes": "Combine with lake and Parasnath-view circuit.",
             "festivals": "Shivratri.",
             "sources": [
                 {
                     "label": "Dhanbad",
                     "url": "https://dhanbad.nic.in/tourist-place/topchanchi-lake/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Lillori Sthan Shiva Node",
+        "state": "Jharkhand",
+        "city": "Katri river belt, Dhanbad",
+        "region": "Dhanbad district",
+        "tags": [
+            "Shiva Shakti Interface",
+            "Miner Safety Ground",
+            "Ancient Residue"
+        ],
+        "story": "A Shiva-linked stabilizing node in the Lillori Sthan zone near the Katri river corridor, where integrated Shakti and Pashupata streams are both actively observed by local communities.",
+        "highlight": "A miner-linked pre-shift grounding shrine in Dhanbad's earth-work culture.",
+        "image": "/temples/temple-01.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-01.svg",
+        "deity": "Shiva (integrated with Lillori Sthan complex)",
+        "tradition": "Shaiva/Shakta",
+        "addedAt": "2026-02-25T00:00:00+05:30",
+        "bestTime": "Mahashivratri and Shravan.",
+        "timings": "Open daily.",
+        "dressCode": "Modest temple attire.",
+        "entryNotes": "Katri river-side pilgrimage zone.",
+        "rituals": [
+            "Jalabhishek",
+            "Safety and livelihood prayers"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Navratri-linked local observances"
+        ],
+        "moreDetails": {
+            "history": "Evolved as a local protective worship interface around mining communities.",
+            "architecture": "Mixed rural shrine structures.",
+            "darshan": "Protective and grounding.",
+            "seasonal": "Active through year with peaks in monsoon festivals.",
+            "visitorNotes": "Visit respectfully as an active community faith node.",
+            "festivals": "Shivratri and local melas.",
+            "sources": [
+                {
+                    "label": "Dhanbad district",
+                    "url": "https://dhanbad.nic.in/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Bhuphor Mahadev",
+        "state": "Jharkhand",
+        "city": "Dhanbad",
+        "region": "Dhanbad district",
+        "tags": [
+            "Swayambhu",
+            "Deep Crust",
+            "Primary Anchor"
+        ],
+        "story": "A major Dhanbad Shiva node traditionally described as a Bhu-phor manifestation, where the lingam is revered as emerging from the earth and linked with deep-ground stabilization.",
+        "highlight": "Primary earth-linked Shaiva motherboard for Dhanbad's urban grid.",
+        "image": "/temples/temple-02.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-02.svg",
+        "deity": "Shiva (Bhuphor Mahadev)",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-25T00:00:00+05:30",
+        "bestTime": "Mahashivratri and Shravan.",
+        "timings": "Open daily.",
+        "dressCode": "Modest temple attire.",
+        "entryNotes": "Dhanbad urban sacred circuit.",
+        "rituals": [
+            "Jalabhishek",
+            "Somvar worship"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan Somvar"
+        ],
+        "moreDetails": {
+            "history": "Preserved in local oral tradition as a self-manifested earth node.",
+            "architecture": "Traditional shrine form.",
+            "darshan": "Grounded and high-intensity.",
+            "seasonal": "Most active in Shravan.",
+            "visitorNotes": "A key Shiva stop for central Dhanbad devotees.",
+            "festivals": "Mahashivratri.",
+            "sources": [
+                {
+                    "label": "Dhanbad district",
+                    "url": "https://dhanbad.nic.in/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Amreshwar Dham (Dhanbad)",
+        "state": "Jharkhand",
+        "city": "Dhanbad rural belt",
+        "region": "Dhanbad district",
+        "tags": [
+            "Rural Anchor",
+            "Soil Sutra",
+            "Mining Fringe"
+        ],
+        "story": "A rural Shiva stabilizer for agricultural communities around the mining periphery, maintaining steady ritual continuity and land-linked worship patterns.",
+        "highlight": "A rhythmic baseline node balancing industrial and agrarian life zones.",
+        "image": "/temples/temple-03.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-03.svg",
+        "deity": "Shiva (Amreshwar)",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-25T00:00:00+05:30",
+        "bestTime": "Shravan and Mahashivratri.",
+        "timings": "Open daily.",
+        "dressCode": "Modest temple attire.",
+        "entryNotes": "In interior Dhanbad rural sub-grid.",
+        "rituals": [
+            "Village jalabhishek",
+            "Harvest-linked offerings"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan month rituals"
+        ],
+        "moreDetails": {
+            "history": "Maintained through village worship traditions near industrial transition zones.",
+            "architecture": "Rural shrine architecture.",
+            "darshan": "Steady and community-focused.",
+            "seasonal": "Most active in monsoon and festival windows.",
+            "visitorNotes": "Represents the agrarian side of Dhanbad's sacred matrix.",
+            "festivals": "Mahashivratri.",
+            "sources": [
+                {
+                    "label": "Dhanbad district",
+                    "url": "https://dhanbad.nic.in/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Langta Baba Shiva Shrine (Dhanbad)",
+        "state": "Jharkhand",
+        "city": "Dhanbad",
+        "region": "Dhanbad district",
+        "tags": [
+            "Siddha Interface",
+            "Yoga Stability",
+            "Folk Logic"
+        ],
+        "story": "A saint-associated devotional site in Dhanbad with integrated Shiva worship markers, bridging classical Shaiva practice with living folk and local lineage traditions.",
+        "highlight": "Folk-Vedic bridge node for district-level spiritual continuity.",
+        "image": "/temples/temple-04.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-04.svg",
+        "deity": "Shiva (integrated with Langta Baba shrine tradition)",
+        "tradition": "Shaiva/Folk",
+        "addedAt": "2026-02-25T00:00:00+05:30",
+        "bestTime": "Mahashivratri and local fair dates.",
+        "timings": "Open daily.",
+        "dressCode": "Modest temple attire.",
+        "entryNotes": "Dhanbad local saint-shrine network.",
+        "rituals": [
+            "Aarti",
+            "Saint-lineage offerings"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Local annual mela"
+        ],
+        "moreDetails": {
+            "history": "Evolved through local saint devotion with embedded Shiva worship.",
+            "architecture": "Mixed shrine setting.",
+            "darshan": "Folk-integrated and meditative.",
+            "seasonal": "Festival-driven activity peaks.",
+            "visitorNotes": "Important for local oral and devotional continuity.",
+            "festivals": "Shivratri and local fair cycles.",
+            "sources": [
+                {
+                    "label": "Dhanbad district",
+                    "url": "https://dhanbad.nic.in/",
                     "type": "Government"
                 }
             ]
@@ -3758,6 +3992,98 @@ export const jharkhandTemples = [
                 {
                     "label": "Ranchi district",
                     "url": "https://ranchi.nic.in/tourist-places/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Dukhiya Mahadev",
+        "state": "Jharkhand",
+        "city": "Giridih",
+        "region": "Giridih district",
+        "tags": [
+            "Urban Grounding Rod",
+            "Usri River Bank",
+            "Relief Focused"
+        ],
+        "story": "A central Shiva shrine for Giridih town on the Usri river belt, serving daily devotional and community life for the city's trading and mining-linked population.",
+        "highlight": "Primary urban Shaiva stabilizer for Giridih municipal flow.",
+        "image": "/temples/temple-03.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-03.svg",
+        "deity": "Shiva (Dukhiya Mahadev)",
+        "tradition": "Shaiva",
+        "addedAt": "2026-02-25T00:00:00+05:30",
+        "bestTime": "Shravan and Mahashivratri.",
+        "timings": "Open daily.",
+        "dressCode": "Modest temple attire.",
+        "entryNotes": "In Giridih urban river corridor.",
+        "rituals": [
+            "Jalabhishek",
+            "Daily aarti"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Shravan Somvar"
+        ],
+        "moreDetails": {
+            "history": "Maintained through long-running local town worship traditions.",
+            "architecture": "Urban riverbank temple style.",
+            "darshan": "Relief-oriented and community-centric.",
+            "seasonal": "Peak activity during Shravan month.",
+            "visitorNotes": "Important city-level stop in Giridih Shiva routes.",
+            "festivals": "Mahashivratri.",
+            "sources": [
+                {
+                    "label": "Giridih district",
+                    "url": "https://giridih.nic.in/",
+                    "type": "Government"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Langta Baba Shiva Shrine",
+        "state": "Jharkhand",
+        "city": "Giridih",
+        "region": "Giridih district",
+        "tags": [
+            "Siddha Interface",
+            "Folk Logic",
+            "Yoga Stability"
+        ],
+        "story": "A saint-associated devotional site in Giridih where integrated Shiva markers sustain a strong yoga-stability stream connecting formal Shaiva worship with local folk traditions.",
+        "highlight": "Bridges mainstream Shaiva practices with local saint-lineage devotional culture.",
+        "image": "/temples/temple-04.svg",
+        "credit": "",
+        "creditUrl": "/temples/temple-04.svg",
+        "deity": "Shiva (integrated shrine)",
+        "tradition": "Shaiva/Folk",
+        "addedAt": "2026-02-25T00:00:00+05:30",
+        "bestTime": "Mahashivratri and local fair periods.",
+        "timings": "Open daily.",
+        "dressCode": "Modest temple attire.",
+        "entryNotes": "In Giridih district local saint-shrine circuit.",
+        "rituals": [
+            "Aarti",
+            "Saint-lineage offerings"
+        ],
+        "festivals": [
+            "Mahashivratri",
+            "Local annual melas"
+        ],
+        "moreDetails": {
+            "history": "Evolved through local saint and community devotion traditions.",
+            "architecture": "Mixed shrine format around saint-node worship.",
+            "darshan": "Folk-integrated and meditative.",
+            "seasonal": "Most active during festival cycles.",
+            "visitorNotes": "Useful reference point for local oral-tradition circuits.",
+            "festivals": "Mahashivratri and local fairs.",
+            "sources": [
+                {
+                    "label": "Giridih district",
+                    "url": "https://giridih.nic.in/",
                     "type": "Government"
                 }
             ]

@@ -8,7 +8,18 @@ const dryRun = args.includes('--dry-run')
 const explicitDate = args.find((arg) => arg.startsWith('--date='))?.slice('--date='.length)
 const includeAllToday = args.includes('--all-today')
 const maxRecordsArg = args.find((arg) => arg.startsWith('--max-records='))?.slice('--max-records='.length)
+const fileFilterArg = args.find((arg) => arg.startsWith('--file='))?.slice('--file='.length)
 const maxRecords = Number.isFinite(Number(maxRecordsArg)) ? Number(maxRecordsArg) : Infinity
+
+const fileFilterSet = fileFilterArg
+  ? new Set(
+      fileFilterArg
+        .split(',')
+        .map((entry) => entry.trim())
+        .filter(Boolean)
+        .map((entry) => (entry.endsWith('.js') ? entry : `${entry}.js`))
+    )
+  : null
 
 const IST_OFFSET_MS = 5.5 * 60 * 60 * 1000
 const pad2 = (value) => String(value).padStart(2, '0')
@@ -101,6 +112,7 @@ const LOCATION_STOPWORDS = new Set([
 const templeFiles = fs
   .readdirSync(templeDir)
   .filter((file) => file.endsWith('.js') && file !== 'index.js' && !file.includes('-shakti'))
+  .filter((file) => (fileFilterSet ? fileFilterSet.has(file) : true))
   .sort()
 
 const normalizeTokens = (value) =>
@@ -305,6 +317,7 @@ const summary = {
   datePrefix,
   dryRun,
   includeAllToday,
+  fileFilter: fileFilterSet ? [...fileFilterSet] : null,
   scannedFiles: 0,
   scannedTodayRecords: 0,
   lookupCandidates: 0,
@@ -315,6 +328,7 @@ const summary = {
 }
 
 const unresolvedRows = []
+const matchedRows = []
 
 for (const file of templeFiles) {
   const absolutePath = path.join(templeDir, file)
@@ -379,6 +393,16 @@ for (const file of templeFiles) {
 
     summary.matched += 1
     fileMatched += 1
+    matchedRows.push({
+      file,
+      name: temple?.name || '',
+      city: temple?.city || '',
+      district: temple?.district || '',
+      state: temple?.state || '',
+      fileTitle: best.fileTitle,
+      score: best.score,
+      query: best.query,
+    })
   }
 
   if (fileChanged) {
@@ -398,6 +422,9 @@ console.log('\nWikimedia fetch summary:')
 console.log(`- Date prefix: ${summary.datePrefix}`)
 console.log(`- Dry run: ${summary.dryRun}`)
 console.log(`- Include all today: ${summary.includeAllToday}`)
+if (summary.fileFilter) {
+  console.log(`- File filter: ${summary.fileFilter.join(', ')}`)
+}
 console.log(`- Files scanned: ${summary.scannedFiles}`)
 console.log(`- Today records scanned: ${summary.scannedTodayRecords}`)
 console.log(`- Lookup candidates: ${summary.lookupCandidates}`)
@@ -411,5 +438,15 @@ if (unresolvedRows.length) {
   unresolvedRows.slice(0, 40).forEach((row) => {
     const locality = [row.city, row.district].filter(Boolean).join(', ')
     console.log(`- ${row.name} (${locality || 'Unknown locality'}, ${row.state || 'Unknown state'}) [${row.file}]`)
+  })
+}
+
+if (matchedRows.length) {
+  console.log('\nMatched records:')
+  matchedRows.forEach((row) => {
+    const locality = [row.city, row.district].filter(Boolean).join(', ')
+    console.log(
+      `- ${row.name} (${locality || 'Unknown locality'}, ${row.state || 'Unknown state'}) -> ${row.fileTitle} [score=${row.score}] [${row.file}]`
+    )
   })
 }
