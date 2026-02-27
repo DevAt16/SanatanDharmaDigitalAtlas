@@ -873,10 +873,37 @@
   max-width: 640px;
 }
 
+/* ── Caveat banner ─────────────────────────────────────────────────────────── */
+.discovery-caveat {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  background: rgba(244, 162, 54, 0.08);
+  border: 1px solid rgba(244, 162, 54, 0.28);
+  border-radius: 10px;
+  padding: 10px 14px;
+  margin-bottom: 20px;
+  font-size: 0.82rem;
+  color: var(--text-dark);
+  line-height: 1.5;
+}
+.discovery-caveat i {
+  color: var(--ember);
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+
+/* ── Grid ──────────────────────────────────────────────────────────────────── */
 .discovery-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 16px;
+}
+
+/* ── Card ──────────────────────────────────────────────────────────────────── */
+@keyframes discovery-rise {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: translateY(0); }
 }
 
 .discovery-card {
@@ -888,22 +915,57 @@
   display: flex;
   flex-direction: column;
   gap: 0.65rem;
+  animation: discovery-rise 0.4s ease both;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.discovery-card:hover {
+  box-shadow: 0 20px 36px rgba(14, 25, 23, 0.13);
+  transform: translateY(-3px);
 }
 
+/* ── Media ─────────────────────────────────────────────────────────────────── */
 .discovery-media {
   margin: -18px -18px 2px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 18px 18px 0 0;
 }
 
 .discovery-media img {
   width: 100%;
-  height: 176px;
+  aspect-ratio: 16 / 9;
   object-fit: cover;
   display: block;
-  border-radius: 18px 18px 0 0;
+}
+
+/* Placeholder for image-less cards */
+.discovery-media-placeholder {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, var(--sand) 0%, var(--surface-1) 100%);
+  position: relative;
+  overflow: hidden;
+}
+.discovery-media-placeholder::before {
+  content: 'ॐ';
+  font-size: 3.6rem;
+  color: rgba(27, 42, 48, 0.08);
+  line-height: 1;
+  font-family: serif;
+}
+.discovery-media-placeholder::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(rgba(27, 42, 48, 0.06) 1px, transparent 1px);
+  background-size: 18px 18px;
 }
 
 .discovery-media figcaption {
-  margin: 6px 10px 0;
+  margin: 5px 10px 0;
   font-size: 0.68rem;
   color: var(--text-grey);
   text-align: right;
@@ -918,6 +980,7 @@
   color: var(--ember);
 }
 
+/* ── Header row ────────────────────────────────────────────────────────────── */
 .discovery-header {
   display: flex;
   justify-content: space-between;
@@ -925,31 +988,64 @@
   gap: 10px;
 }
 
+/* ── Badge ─────────────────────────────────────────────────────────────────── */
 .discovery-badge {
   padding: 0.2rem 0.6rem;
   border-radius: 999px;
+  font-size: 0.62rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 700;
   background: var(--chip-bg);
   color: var(--chip-text);
-  font-size: 0.62rem;
-  letter-spacing: 0.14em;
+}
+.discovery-badge.type-excavation  { background: rgba( 31,  79,  74, 0.12); color: #1f4f4a; }
+.discovery-badge.type-conservation { background: rgba( 74,  98,  31, 0.12); color: #4a621f; }
+.discovery-badge.type-reopened    { background: rgba(244, 162,  54, 0.15); color: #a05c00; }
+.discovery-badge.type-find        { background: rgba(120,  60, 180, 0.10); color: #6b2fa0; }
+.discovery-badge.type-pending     { background: rgba(27,   42,  48, 0.08); color: var(--text-grey); }
+
+/* ── Year ──────────────────────────────────────────────────────────────────── */
+.discovery-year {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  line-height: 1.2;
+}
+.discovery-year-label {
+  font-size: 0.58rem;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
+  color: var(--text-muted);
   font-weight: 600;
 }
-
-.discovery-year {
-  font-size: 0.8rem;
-  font-weight: 600;
+.discovery-year-value {
+  font-size: 0.82rem;
+  font-weight: 700;
   color: var(--text-grey);
 }
 
+/* ── Location ──────────────────────────────────────────────────────────────── */
 .discovery-location {
-  font-size: 0.75rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.78rem;
   color: var(--text-grey);
   margin: 0;
 }
+.discovery-location::before {
+  content: '';
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--ember);
+  flex-shrink: 0;
+  opacity: 0.7;
+}
 
+/* ── Summary ───────────────────────────────────────────────────────────────── */
 .discovery-summary {
   font-size: 0.95rem;
   color: var(--text-dark);
@@ -957,6 +1053,7 @@
   margin: 0;
 }
 
+/* ── Details grid ──────────────────────────────────────────────────────────── */
 .discovery-details {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -966,10 +1063,11 @@
 
 .discovery-detail span {
   display: block;
-  font-size: 0.6rem;
-  letter-spacing: 0.12em;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--text-grey);
+  color: var(--text-muted);
+  font-weight: 600;
 }
 
 .discovery-detail p,
@@ -984,11 +1082,46 @@
   color: var(--ember);
 }
 
-.discovery-note {
-  margin-top: 12px;
+/* Source link */
+.discovery-source-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
   font-size: 0.85rem;
-  color: var(--text-grey);
-  text-align: left;
+  color: var(--ember);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-color: rgba(200, 107, 43, 0.35);
+}
+.discovery-source-link:hover {
+  text-decoration-color: var(--ember);
+}
+.discovery-source-link i {
+  font-size: 0.7rem;
+  opacity: 0.8;
+}
+
+/* ── Nav count badge ───────────────────────────────────────────────────────── */
+.nav-count-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 18px;
+  height: 18px;
+  padding: 0 5px;
+  border-radius: 999px;
+  background: var(--ember);
+  color: #fff;
+  font-size: 0.6rem;
+  font-weight: 700;
+  line-height: 1;
+  margin-left: 4px;
+  vertical-align: middle;
+}
+.bottom-nav-item .nav-count-badge {
+  position: absolute;
+  top: 4px;
+  right: calc(50% - 14px);
 }
 
 .about-hero {
@@ -4187,6 +4320,7 @@ section.stories-section {
 
   .bottom-nav-item {
     flex: 1;
+    position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;

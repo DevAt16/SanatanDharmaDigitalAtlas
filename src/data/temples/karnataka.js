@@ -185,9 +185,9 @@ export const karnatakaTemples = [
     ],
     "story": "A Doddabasappa temple listing at Dambal included in the Gadag district additions.",
     "highlight": "Dambal Doddabasappa node in district temple coverage.",
-    "image": "/temples/temple-02.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-02.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/12th_century_Dodda_Basappa_temple%2C_Dambal%2C_Karnataka_India_-_40.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:12th_century_Dodda_Basappa_temple,_Dambal,_Karnataka_India_-_40.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T22:50:01+05:30",
@@ -1499,9 +1499,9 @@ export const karnatakaTemples = [
     ],
     "story": "A Halasuru Someshwara Shiva listing added under the Bengaluru urban temple grid.",
     "highlight": "Historic Halasuru Someshwara anchor in central Bengaluru.",
-    "image": "/temples/temple-01.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-01.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Halasuru_Someshwara_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Halasuru_Someshwara_Temple.jpg",
     "deity": "Shiva (Someshwara)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T21:25:00+05:30",
@@ -1541,9 +1541,9 @@ export const karnatakaTemples = [
     ],
     "story": "A Dharmaraya temple-complex Shiva listing in old Bengaluru's historic core.",
     "highlight": "Old-city Shiva node tied to the Dharmaraya temple precinct.",
-    "image": "/temples/temple-02.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-02.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shri_Dharmaraya_Swamy_Temple.JPG",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Shri_Dharmaraya_Swamy_Temple.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T21:25:01+05:30",
@@ -1583,9 +1583,9 @@ export const karnatakaTemples = [
     ],
     "story": "A Jalakanteshwara Shiva temple listing associated with the historic Kote/Fort zone of Bengaluru.",
     "highlight": "Fort-area Jalakanteshwara anchor in the old Bengaluru grid.",
-    "image": "/temples/temple-03.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-03.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kote-shree-jalakanteshwara-swamy-temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kote-shree-jalakanteshwara-swamy-temple.jpg",
     "deity": "Shiva (Jalakanteshwara)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T21:25:02+05:30",
@@ -1666,9 +1666,9 @@ export const karnatakaTemples = [
     ],
     "story": "A Kempfort-area Shiva temple listing in the eastern Bengaluru urban corridor.",
     "highlight": "Prominent urban Shiva node on the Old Airport Road axis.",
-    "image": "/temples/temple-05.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-05.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bangalore_Shiva.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bangalore_Shiva.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T21:25:04+05:30",
@@ -1707,9 +1707,9 @@ export const karnatakaTemples = [
     ],
     "story": "A Someshwara Shiva temple listing aligned to the Old Madras Road side of Bengaluru.",
     "highlight": "Old Madras Road Someshwara anchor in the eastern city grid.",
-    "image": "/temples/temple-06.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-06.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mantapa%20(hall)%20in%20Someshwara%20temple%20(16th%20century)%20in%20Bengaluru.JPG",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Mantapa_(hall)_in_Someshwara_temple_(16th_century)_in_Bengaluru.JPG",
     "deity": "Shiva (Someshwara)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T21:25:05+05:30",
@@ -3149,9 +3149,9 @@ export const karnatakaTemples = [
     ],
     "story": "Perched atop Nandi Hills, built by the Cholas, offering spiritual solace with a view.",
     "highlight": "Hilltop location and Chola architecture.",
-    "image": "/temples/temple-01.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-01.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yoganandishwara%20Temple%20on%20Nandi%20hills.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Yoganandishwara_Temple_on_Nandi_hills.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -3350,9 +3350,9 @@ export const karnatakaTemples = [
     ],
     "story": "A Pattadakal Shiva shrine in the Chalukyan monument zone, recognized for its compact and refined stone form.",
     "highlight": "Classic Pattadakal-era Shiva temple in the UNESCO heritage cluster.",
-    "image": "/temples/temple-01.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-01.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kasivisvanatha_temple_at_Pattadakal.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kasivisvanatha_temple_at_Pattadakal.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T20:35:00+05:30",
@@ -3392,9 +3392,9 @@ export const karnatakaTemples = [
     ],
     "story": "A Shiva temple in the Pattadakal complex representing early Chalukya craftsmanship in compact form.",
     "highlight": "Early-phase Pattadakal Shaiva shrine with classic carved details.",
-    "image": "/temples/temple-02.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-02.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kadasiddheshwara_Temple%2C_Pattadakal.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kadasiddheshwara_Temple,_Pattadakal.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T20:35:01+05:30",
@@ -3434,9 +3434,9 @@ export const karnatakaTemples = [
     ],
     "story": "A Pattadakal Shiva node associated with the extended set of Chalukyan monument temples.",
     "highlight": "Pattadakal-linked Jambulingeshwara shrine in the heritage lineup.",
-    "image": "/temples/temple-03.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-03.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jambulingeshwara_Temple%2C_Pattadikal.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jambulingeshwara_Temple,_Pattadikal.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T20:35:02+05:30",
@@ -3476,9 +3476,9 @@ export const karnatakaTemples = [
     ],
     "story": "A Chandrashekhara Shiva temple in Pattadakal's UNESCO monument ensemble.",
     "highlight": "Compact Shaiva shrine in the Pattadakal heritage field.",
-    "image": "/temples/temple-04.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-04.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pattadakal%2C_Chandrashekhara_temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Pattadakal,_Chandrashekhara_temple.jpg",
     "deity": "Shiva (Chandrashekhara)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T20:35:03+05:30",
@@ -3761,9 +3761,9 @@ export const karnatakaTemples = [
     ],
     "story": "Believed to be installed by Lord Rama on his return from Lanka to wash away sins (Papnash).",
     "highlight": "Natural spring pond.",
-    "image": "/temples/temple-03.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-03.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Papnash_temple_%2C_bidar.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Papnash_temple_,_bidar.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -4007,9 +4007,9 @@ export const karnatakaTemples = [
     ],
     "story": "A Mallikarjuna Shiva temple entry mapped for the Shimoga district set.",
     "highlight": "Shivamogga Mallikarjuna anchor in district-level data.",
-    "image": "/temples/temple-03.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-03.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mallikarjuna%20temple%2C%20Nadakalsi%2C%20Shivamogga%20district%2C%20Karnataka.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Mallikarjuna_temple,_Nadakalsi,_Shivamogga_district,_Karnataka.jpg",
     "deity": "Shiva (Mallikarjuna)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T22:05:02+05:30",
@@ -5889,9 +5889,9 @@ export const karnatakaTemples = [
     ],
     "story": "A Kalleshwara Shiva temple entry for Bagali added in the Davangere district expansion set.",
     "highlight": "Bagali Kalleshwara node in the district temple map.",
-    "image": "/temples/temple-01.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-01.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalleshwara_Temple_View_at_Bagali_-_Davanagere_District.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kalleshwara_Temple_View_at_Bagali_-_Davanagere_District.jpg",
     "deity": "Shiva (Kalleshwara)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T22:20:00+05:30",
@@ -6300,9 +6300,9 @@ export const karnatakaTemples = [
     ],
     "story": "Devotees visiting Udupi Krishna are expected to visit this Shiva temple first.",
     "highlight": "Ritual precedence over Krishna temple.",
-    "image": "/temples/temple-04.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-04.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri_Chandramouleeswara_Temple_Udupi.JPG",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sri_Chandramouleeswara_Temple_Udupi.JPG",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -6465,9 +6465,9 @@ export const karnatakaTemples = [
     ],
     "story": "Thousands of Shiva Lingas carved on rocks in the riverbed of Shalmala, visible when water levels drop.",
     "highlight": "Riverbed carvings.",
-    "image": "/temples/temple-06.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-06.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sahasr_linga_sirsi.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sahasr_linga_sirsi.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -6586,9 +6586,9 @@ export const karnatakaTemples = [
     ],
     "story": "A classic Badami Shiva shrine on the Agastya lakefront, associated with early Chalukya heritage.",
     "highlight": "Iconic lake-edge Shiva temple in Badami's historic stone landscape.",
-    "image": "/temples/temple-01.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-01.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhoothanatha_temple_view.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhoothanatha_temple_view.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T20:50:00+05:30",
@@ -6709,9 +6709,9 @@ export const karnatakaTemples = [
     ],
     "story": "A Malgatti-area Shiva shrine included in the Badami temple network.",
     "highlight": "Localized Malgatti Shaiva stabilizer.",
-    "image": "/temples/temple-04.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-04.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HBPA_N_1010_Malegitti_Shivalaya_Badami.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:HBPA_N_1010_Malegitti_Shivalaya_Badami.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T20:50:03+05:30",
@@ -6750,9 +6750,9 @@ export const karnatakaTemples = [
     ],
     "story": "A lower-hill Shiva shrine in Badami associated with the historic Shivalaya temple axis.",
     "highlight": "Lower-tier Shivalaya node in the Badami hill-temple system.",
-    "image": "/temples/temple-05.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-05.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HBPA%20N%20574%20Badami%20Lower%20Shivalaya.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:HBPA_N_574_Badami_Lower_Shivalaya.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T20:50:04+05:30",
@@ -6791,9 +6791,9 @@ export const karnatakaTemples = [
     ],
     "story": "A core Shiva shrine at Mahakuta, part of the early Chalukya sacred cluster near Badami.",
     "highlight": "Principal Mahakuteshwara node within the Mahakuta temple field.",
-    "image": "/temples/temple-06.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-06.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahakuta_group_of_temples3_at_Mahakuta.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Mahakuta_group_of_temples3_at_Mahakuta.jpg",
     "deity": "Shiva (Mahakuteshwara)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T20:50:05+05:30",
@@ -6874,9 +6874,9 @@ export const karnatakaTemples = [
     ],
     "story": "A hilltop Shiva shrine known as Upper Shivalaya in the Badami temple topography.",
     "highlight": "Elevated Shivalaya vantage-point Shiva node.",
-    "image": "/temples/temple-02.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-02.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Upper%20Shivalaya%20Temple%20at%20Badami%2C%20Karnataka.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Upper_Shivalaya_Temple_at_Badami,_Karnataka.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T20:50:07+05:30",
@@ -6995,9 +6995,9 @@ export const karnatakaTemples = [
     ],
     "story": "An underground Shiva shrine entry in the Hampi-Ballari sacred corridor.",
     "highlight": "Subterranean Shiva node in the Bellary heritage belt.",
-    "image": "/temples/temple-01.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-01.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Underground_Temple_Hampi.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Underground_Temple_Hampi.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T23:25:00+05:30",
@@ -8548,9 +8548,9 @@ export const karnatakaTemples = [
     ],
     "story": "Located on the banks of River Kubja, where the Goddess is worshipped along with a special Linga.",
     "highlight": "Suparsha Cave nearby.",
-    "image": "/temples/temple-05.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-05.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brahmi%20Sri%20Durgaparameshwari%20Temple%2C%20Kamalashile.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Brahmi_Sri_Durgaparameshwari_Temple,_Kamalashile.jpg",
     "deity": "Brahmi Durgaparameshwari/Shiva",
     "tradition": "Shakta/Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
@@ -8837,9 +8837,9 @@ export const karnatakaTemples = [
     ],
     "story": "A Nanjundeshwara Shiva listing in Nanjangud included in the Mysuru district temple expansion.",
     "highlight": "Nanjangud Nanjundeshwara node in district-level Shaiva mapping.",
-    "image": "/temples/temple-06.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-06.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Srikanteshwara_Temple_Nanjangud.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Srikanteshwara_Temple_Nanjangud.jpg",
     "deity": "Shiva (Nanjundeshwara)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T21:40:05+05:30",
@@ -8962,9 +8962,9 @@ export const karnatakaTemples = [
     ],
     "story": "An Amrutheswara Shiva temple listing added under Mysuru district entries.",
     "highlight": "Mysuru Amrutheswara node for local Shaiva continuity.",
-    "image": "/temples/temple-03.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-03.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amrutheswara%20Temple%20Dewans%20Road%20Mysuru.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Amrutheswara_Temple_Dewans_Road_Mysuru.jpg",
     "deity": "Shiva (Amrutheswara)",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T21:40:08+05:30",
@@ -9085,9 +9085,9 @@ export const karnatakaTemples = [
     ],
     "story": "A major Shaiva temple node in the Kundapura belt of coastal Karnataka.",
     "highlight": "Historic coastal Shiva worship center in the Kundapura corridor.",
-    "image": "/temples/temple-01.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-01.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Koteshwara.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Koteshwara.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-26T20:05:00+05:30",
@@ -9212,9 +9212,9 @@ export const karnatakaTemples = [
     ],
     "story": "A major pre-Krishna-matha Shaiva-Vaishnava linked shrine in Udupi's sacred temple cluster.",
     "highlight": "Core heritage temple in central Udupi.",
-    "image": "/temples/temple-04.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-04.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shri_Anantheshwara_temple%2Cudupi.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Shri_Anantheshwara_temple,udupi.jpg",
     "deity": "Shiva (Anantheshwara tradition linkage)",
     "tradition": "Smarta/Shaiva",
     "addedAt": "2026-02-26T20:05:03+05:30",
@@ -9444,6 +9444,8649 @@ export const karnatakaTemples = [
         {
           "label": "Brahmavar",
           "url": "https://en.wikipedia.org/wiki/Brahmavar",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sugureshwara Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Sugureshwara",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Sugureshwara Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Sugureshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T12:59:43+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sugureshwara Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nagareshwara Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Nagareshwara",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Nagareshwara Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Nagareshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T12:59:44+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Nagareshwara Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Markandeshwara Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Markandeshwara",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Markandeshwara Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Markandeshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T12:59:45+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Markandeshwara Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Mallikarjuna",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T12:59:46+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Someshwara",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T12:59:47+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amrutheswara Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Amrutheswara",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Amrutheswara Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Amrutheswara Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T12:59:48+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Amrutheswara Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalleshwara Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Kalleshwara",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Kalleshwara Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Kalleshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T12:59:49+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kalleshwara Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nandishwara Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Nandishwara",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Nandishwara Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Nandishwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T12:59:50+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Nandishwara Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vishveshwara Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Vishveshwara",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Vishveshwara Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Vishveshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T12:59:51+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Vishveshwara Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiva Parvathi Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Shiva Parvathi",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Shiva Parvathi Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Shiva Parvathi Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T12:59:52+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Shiva Parvathi Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sharanabasaveshwara Temple",
+    "state": "Karnataka",
+    "city": "Kalaburagi",
+    "region": "Kalaburagi district",
+    "tags": [
+      "Sharanabasaveshwara",
+      "Kalaburagi",
+      "Shaiva"
+    ],
+    "story": "Sharanabasaveshwara Temple is listed as a Shiva temple node in the Kalaburagi district coverage set.",
+    "highlight": "Kalaburagi district Shiva anchor: Sharanabasaveshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:02:32+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sharanabasaveshwara Temple is included in the Kalaburagi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Kalaburagi city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Kalaburagi district",
+          "url": "https://en.wikipedia.org/wiki/Kalaburagi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sangameshwara Temple",
+    "state": "Karnataka",
+    "city": "Kalaburagi",
+    "region": "Kalaburagi district",
+    "tags": [
+      "Sangameshwara",
+      "Kalaburagi",
+      "Shaiva"
+    ],
+    "story": "Sangameshwara Temple is listed as a Shiva temple node in the Kalaburagi district coverage set.",
+    "highlight": "Kalaburagi district Shiva anchor: Sangameshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:02:33+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sangameshwara Temple is included in the Kalaburagi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Kalaburagi city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Kalaburagi district",
+          "url": "https://en.wikipedia.org/wiki/Kalaburagi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Korthi Kolhar Revansiddeshwar Temple",
+    "state": "Karnataka",
+    "city": "Kalaburagi",
+    "region": "Kalaburagi district",
+    "tags": [
+      "Korthi Kolhar Revansiddeshwar",
+      "Kalaburagi",
+      "Shaiva"
+    ],
+    "story": "Korthi Kolhar Revansiddeshwar Temple is listed as a Shiva temple node in the Kalaburagi district coverage set.",
+    "highlight": "Kalaburagi district Shiva anchor: Korthi Kolhar Revansiddeshwar Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:02:34+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Korthi Kolhar Revansiddeshwar Temple is included in the Kalaburagi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Kalaburagi city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Kalaburagi district",
+          "url": "https://en.wikipedia.org/wiki/Kalaburagi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwar Temple",
+    "state": "Karnataka",
+    "city": "Kalaburagi",
+    "region": "Kalaburagi district",
+    "tags": [
+      "Siddheshwar",
+      "Kalaburagi",
+      "Shaiva"
+    ],
+    "story": "Siddheshwar Temple is listed as a Shiva temple node in the Kalaburagi district coverage set.",
+    "highlight": "Kalaburagi district Shiva anchor: Siddheshwar Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:02:35+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwar Temple is included in the Kalaburagi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Kalaburagi city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Kalaburagi district",
+          "url": "https://en.wikipedia.org/wiki/Kalaburagi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ramalingeshwara Temple",
+    "state": "Karnataka",
+    "city": "Kalaburagi",
+    "region": "Kalaburagi district",
+    "tags": [
+      "Ramalingeshwara",
+      "Kalaburagi",
+      "Shaiva"
+    ],
+    "story": "Ramalingeshwara Temple is listed as a Shiva temple node in the Kalaburagi district coverage set.",
+    "highlight": "Kalaburagi district Shiva anchor: Ramalingeshwara Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:02:36+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Ramalingeshwara Temple is included in the Kalaburagi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Kalaburagi city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Kalaburagi district",
+          "url": "https://en.wikipedia.org/wiki/Kalaburagi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Kalaburagi",
+    "region": "Kalaburagi district",
+    "tags": [
+      "Mallikarjuna",
+      "Kalaburagi",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Kalaburagi district coverage set.",
+    "highlight": "Kalaburagi district Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:02:37+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Kalaburagi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Kalaburagi city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Kalaburagi district",
+          "url": "https://en.wikipedia.org/wiki/Kalaburagi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Kalaburagi",
+    "region": "Kalaburagi district",
+    "tags": [
+      "Someshwara",
+      "Kalaburagi",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Kalaburagi district coverage set.",
+    "highlight": "Kalaburagi district Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:02:38+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Kalaburagi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Kalaburagi city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Kalaburagi district",
+          "url": "https://en.wikipedia.org/wiki/Kalaburagi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalleshwara Temple",
+    "state": "Karnataka",
+    "city": "Kalaburagi",
+    "region": "Kalaburagi district",
+    "tags": [
+      "Kalleshwara",
+      "Kalaburagi",
+      "Shaiva"
+    ],
+    "story": "Kalleshwara Temple is listed as a Shiva temple node in the Kalaburagi district coverage set.",
+    "highlight": "Kalaburagi district Shiva anchor: Kalleshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:02:39+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kalleshwara Temple is included in the Kalaburagi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Kalaburagi city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Kalaburagi district",
+          "url": "https://en.wikipedia.org/wiki/Kalaburagi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nandikeshwara Temple",
+    "state": "Karnataka",
+    "city": "Kalaburagi",
+    "region": "Kalaburagi district",
+    "tags": [
+      "Nandikeshwara",
+      "Kalaburagi",
+      "Shaiva"
+    ],
+    "story": "Nandikeshwara Temple is listed as a Shiva temple node in the Kalaburagi district coverage set.",
+    "highlight": "Kalaburagi district Shiva anchor: Nandikeshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:02:40+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Nandikeshwara Temple is included in the Kalaburagi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Kalaburagi city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Kalaburagi district",
+          "url": "https://en.wikipedia.org/wiki/Kalaburagi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vishveshwara Temple",
+    "state": "Karnataka",
+    "city": "Kalaburagi",
+    "region": "Kalaburagi district",
+    "tags": [
+      "Vishveshwara",
+      "Kalaburagi",
+      "Shaiva"
+    ],
+    "story": "Vishveshwara Temple is listed as a Shiva temple node in the Kalaburagi district coverage set.",
+    "highlight": "Kalaburagi district Shiva anchor: Vishveshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:02:41+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Vishveshwara Temple is included in the Kalaburagi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Kalaburagi city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Kalaburagi district",
+          "url": "https://en.wikipedia.org/wiki/Kalaburagi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mailaralingeshwara Temple",
+    "state": "Karnataka",
+    "city": "Yadgir",
+    "region": "Yadgir district",
+    "tags": [
+      "Mailaralingeshwara",
+      "Yadgir",
+      "Shaiva"
+    ],
+    "story": "Mailaralingeshwara Temple is listed as a Shiva temple node in the Yadgir district coverage set.",
+    "highlight": "Yadgir district Shiva anchor: Mailaralingeshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:04:19+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mailaralingeshwara Temple is included in the Yadgir district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Yadgir city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Yadgir district",
+          "url": "https://en.wikipedia.org/wiki/Yadgir_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Yadgir",
+    "region": "Yadgir district",
+    "tags": [
+      "Siddheshwara",
+      "Yadgir",
+      "Shaiva"
+    ],
+    "story": "Siddheshwara Temple is listed as a Shiva temple node in the Yadgir district coverage set.",
+    "highlight": "Yadgir district Shiva anchor: Siddheshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:04:20+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwara Temple is included in the Yadgir district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Yadgir city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Yadgir district",
+          "url": "https://en.wikipedia.org/wiki/Yadgir_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ramalingeshwara Temple",
+    "state": "Karnataka",
+    "city": "Yadgir",
+    "region": "Yadgir district",
+    "tags": [
+      "Ramalingeshwara",
+      "Yadgir",
+      "Shaiva"
+    ],
+    "story": "Ramalingeshwara Temple is listed as a Shiva temple node in the Yadgir district coverage set.",
+    "highlight": "Yadgir district Shiva anchor: Ramalingeshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:04:21+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Ramalingeshwara Temple is included in the Yadgir district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Yadgir city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Yadgir district",
+          "url": "https://en.wikipedia.org/wiki/Yadgir_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Yadgir",
+    "region": "Yadgir district",
+    "tags": [
+      "Mallikarjuna",
+      "Yadgir",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Yadgir district coverage set.",
+    "highlight": "Yadgir district Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:04:22+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Yadgir district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Yadgir city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Yadgir district",
+          "url": "https://en.wikipedia.org/wiki/Yadgir_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Yadgir",
+    "region": "Yadgir district",
+    "tags": [
+      "Someshwara",
+      "Yadgir",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Yadgir district coverage set.",
+    "highlight": "Yadgir district Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:04:23+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Yadgir district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Yadgir city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Yadgir district",
+          "url": "https://en.wikipedia.org/wiki/Yadgir_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalleshwara Temple",
+    "state": "Karnataka",
+    "city": "Yadgir",
+    "region": "Yadgir district",
+    "tags": [
+      "Kalleshwara",
+      "Yadgir",
+      "Shaiva"
+    ],
+    "story": "Kalleshwara Temple is listed as a Shiva temple node in the Yadgir district coverage set.",
+    "highlight": "Yadgir district Shiva anchor: Kalleshwara Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:04:24+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kalleshwara Temple is included in the Yadgir district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Yadgir city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Yadgir district",
+          "url": "https://en.wikipedia.org/wiki/Yadgir_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sangameshwara Temple",
+    "state": "Karnataka",
+    "city": "Yadgir",
+    "region": "Yadgir district",
+    "tags": [
+      "Sangameshwara",
+      "Yadgir",
+      "Shaiva"
+    ],
+    "story": "Sangameshwara Temple is listed as a Shiva temple node in the Yadgir district coverage set.",
+    "highlight": "Yadgir district Shiva anchor: Sangameshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:04:25+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sangameshwara Temple is included in the Yadgir district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Yadgir city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Yadgir district",
+          "url": "https://en.wikipedia.org/wiki/Yadgir_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vishveshwara Temple",
+    "state": "Karnataka",
+    "city": "Yadgir",
+    "region": "Yadgir district",
+    "tags": [
+      "Vishveshwara",
+      "Yadgir",
+      "Shaiva"
+    ],
+    "story": "Vishveshwara Temple is listed as a Shiva temple node in the Yadgir district coverage set.",
+    "highlight": "Yadgir district Shiva anchor: Vishveshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:04:26+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Vishveshwara Temple is included in the Yadgir district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Yadgir city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Yadgir district",
+          "url": "https://en.wikipedia.org/wiki/Yadgir_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nandishwara Temple",
+    "state": "Karnataka",
+    "city": "Yadgir",
+    "region": "Yadgir district",
+    "tags": [
+      "Nandishwara",
+      "Yadgir",
+      "Shaiva"
+    ],
+    "story": "Nandishwara Temple is listed as a Shiva temple node in the Yadgir district coverage set.",
+    "highlight": "Yadgir district Shiva anchor: Nandishwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:04:27+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Nandishwara Temple is included in the Yadgir district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Yadgir city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Yadgir district",
+          "url": "https://en.wikipedia.org/wiki/Yadgir_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chandramauleshwara Temple",
+    "state": "Karnataka",
+    "city": "Yadgir",
+    "region": "Yadgir district",
+    "tags": [
+      "Chandramauleshwara",
+      "Yadgir",
+      "Shaiva"
+    ],
+    "story": "Chandramauleshwara Temple is listed as a Shiva temple node in the Yadgir district coverage set.",
+    "highlight": "Yadgir district Shiva anchor: Chandramauleshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:04:28+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Chandramauleshwara Temple is included in the Yadgir district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Yadgir city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Yadgir district",
+          "url": "https://en.wikipedia.org/wiki/Yadgir_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nandishwara Temple",
+    "state": "Karnataka",
+    "city": "Bidar",
+    "region": "Bidar district",
+    "tags": [
+      "Nandishwara",
+      "Bidar",
+      "Shaiva"
+    ],
+    "story": "Nandishwara Temple is listed as a Shiva temple node in the Bidar district coverage set.",
+    "highlight": "Bidar district Shiva anchor: Nandishwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:06:02+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Nandishwara Temple is included in the Bidar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bidar city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Bidar district",
+          "url": "https://en.wikipedia.org/wiki/Bidar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sangameshwara Temple",
+    "state": "Karnataka",
+    "city": "Bidar",
+    "region": "Bidar district",
+    "tags": [
+      "Sangameshwara",
+      "Bidar",
+      "Shaiva"
+    ],
+    "story": "Sangameshwara Temple is listed as a Shiva temple node in the Bidar district coverage set.",
+    "highlight": "Bidar district Shiva anchor: Sangameshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:06:03+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sangameshwara Temple is included in the Bidar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bidar city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Bidar district",
+          "url": "https://en.wikipedia.org/wiki/Bidar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Bidar",
+    "region": "Bidar district",
+    "tags": [
+      "Mallikarjuna",
+      "Bidar",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Bidar district coverage set.",
+    "highlight": "Bidar district Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:06:04+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Bidar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bidar city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Bidar district",
+          "url": "https://en.wikipedia.org/wiki/Bidar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Bidar",
+    "region": "Bidar district",
+    "tags": [
+      "Someshwara",
+      "Bidar",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Bidar district coverage set.",
+    "highlight": "Bidar district Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:06:05+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Bidar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bidar city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Bidar district",
+          "url": "https://en.wikipedia.org/wiki/Bidar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalleshwara Temple",
+    "state": "Karnataka",
+    "city": "Bidar",
+    "region": "Bidar district",
+    "tags": [
+      "Kalleshwara",
+      "Bidar",
+      "Shaiva"
+    ],
+    "story": "Kalleshwara Temple is listed as a Shiva temple node in the Bidar district coverage set.",
+    "highlight": "Bidar district Shiva anchor: Kalleshwara Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:06:06+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kalleshwara Temple is included in the Bidar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bidar city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Bidar district",
+          "url": "https://en.wikipedia.org/wiki/Bidar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Bidar",
+    "region": "Bidar district",
+    "tags": [
+      "Siddheshwara",
+      "Bidar",
+      "Shaiva"
+    ],
+    "story": "Siddheshwara Temple is listed as a Shiva temple node in the Bidar district coverage set.",
+    "highlight": "Bidar district Shiva anchor: Siddheshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:06:07+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwara Temple is included in the Bidar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bidar city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Bidar district",
+          "url": "https://en.wikipedia.org/wiki/Bidar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ramalingeshwara Temple",
+    "state": "Karnataka",
+    "city": "Bidar",
+    "region": "Bidar district",
+    "tags": [
+      "Ramalingeshwara",
+      "Bidar",
+      "Shaiva"
+    ],
+    "story": "Ramalingeshwara Temple is listed as a Shiva temple node in the Bidar district coverage set.",
+    "highlight": "Bidar district Shiva anchor: Ramalingeshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:06:08+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Ramalingeshwara Temple is included in the Bidar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bidar city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Bidar district",
+          "url": "https://en.wikipedia.org/wiki/Bidar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vishveshwara Temple",
+    "state": "Karnataka",
+    "city": "Bidar",
+    "region": "Bidar district",
+    "tags": [
+      "Vishveshwara",
+      "Bidar",
+      "Shaiva"
+    ],
+    "story": "Vishveshwara Temple is listed as a Shiva temple node in the Bidar district coverage set.",
+    "highlight": "Bidar district Shiva anchor: Vishveshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:06:09+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Vishveshwara Temple is included in the Bidar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bidar city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Bidar district",
+          "url": "https://en.wikipedia.org/wiki/Bidar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amareshwara Temple",
+    "state": "Karnataka",
+    "city": "Bidar",
+    "region": "Bidar district",
+    "tags": [
+      "Amareshwara",
+      "Bidar",
+      "Shaiva"
+    ],
+    "story": "Amareshwara Temple is listed as a Shiva temple node in the Bidar district coverage set.",
+    "highlight": "Bidar district Shiva anchor: Amareshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:06:10+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Amareshwara Temple is included in the Bidar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bidar city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Bidar district",
+          "url": "https://en.wikipedia.org/wiki/Bidar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kamala Basti Shiva Temple",
+    "state": "Karnataka",
+    "city": "Belgaum",
+    "region": "Belagavi district",
+    "tags": [
+      "Kamala Basti Shiva",
+      "Belgaum",
+      "Shaiva"
+    ],
+    "story": "Kamala Basti Shiva Temple is listed as a Shiva temple node in the Belagavi district coverage set.",
+    "highlight": "Belgaum district Shiva anchor: Kamala Basti Shiva Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:08:46+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kamala Basti Shiva Temple is included in the Belagavi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Belgaum city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Belagavi district",
+          "url": "https://en.wikipedia.org/wiki/Belagavi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kapileshwar Temple",
+    "state": "Karnataka",
+    "city": "Belgaum",
+    "region": "Belagavi district",
+    "tags": [
+      "Kapileshwar",
+      "Belgaum",
+      "Shaiva"
+    ],
+    "story": "Kapileshwar Temple is listed as a Shiva temple node in the Belagavi district coverage set.",
+    "highlight": "Belgaum district Shiva anchor: Kapileshwar Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:08:47+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kapileshwar Temple is included in the Belagavi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Belgaum city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Belagavi district",
+          "url": "https://en.wikipedia.org/wiki/Belagavi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ramalingeshwara Temple",
+    "state": "Karnataka",
+    "city": "Belgaum",
+    "region": "Belagavi district",
+    "tags": [
+      "Ramalingeshwara",
+      "Belgaum",
+      "Shaiva"
+    ],
+    "story": "Ramalingeshwara Temple is listed as a Shiva temple node in the Belagavi district coverage set.",
+    "highlight": "Belgaum district Shiva anchor: Ramalingeshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:08:48+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Ramalingeshwara Temple is included in the Belagavi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Belgaum city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Belagavi district",
+          "url": "https://en.wikipedia.org/wiki/Belagavi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Belgaum",
+    "region": "Belagavi district",
+    "tags": [
+      "Siddheshwara",
+      "Belgaum",
+      "Shaiva"
+    ],
+    "story": "Siddheshwara Temple is listed as a Shiva temple node in the Belagavi district coverage set.",
+    "highlight": "Belgaum district Shiva anchor: Siddheshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:08:49+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwara Temple is included in the Belagavi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Belgaum city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Belagavi district",
+          "url": "https://en.wikipedia.org/wiki/Belagavi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Belgaum",
+    "region": "Belagavi district",
+    "tags": [
+      "Mallikarjuna",
+      "Belgaum",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Belagavi district coverage set.",
+    "highlight": "Belgaum district Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:08:50+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Belagavi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Belgaum city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Belagavi district",
+          "url": "https://en.wikipedia.org/wiki/Belagavi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Belgaum",
+    "region": "Belagavi district",
+    "tags": [
+      "Someshwara",
+      "Belgaum",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Belagavi district coverage set.",
+    "highlight": "Belgaum district Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:08:51+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Belagavi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Belgaum city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Belagavi district",
+          "url": "https://en.wikipedia.org/wiki/Belagavi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalleshwara Temple",
+    "state": "Karnataka",
+    "city": "Belgaum",
+    "region": "Belagavi district",
+    "tags": [
+      "Kalleshwara",
+      "Belgaum",
+      "Shaiva"
+    ],
+    "story": "Kalleshwara Temple is listed as a Shiva temple node in the Belagavi district coverage set.",
+    "highlight": "Belgaum district Shiva anchor: Kalleshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:08:52+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kalleshwara Temple is included in the Belagavi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Belgaum city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Belagavi district",
+          "url": "https://en.wikipedia.org/wiki/Belagavi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hooli Panchalinga Temple",
+    "state": "Karnataka",
+    "city": "Belgaum",
+    "region": "Belagavi district",
+    "tags": [
+      "Hooli Panchalinga",
+      "Belgaum",
+      "Shaiva"
+    ],
+    "story": "Hooli Panchalinga Temple is listed as a Shiva temple node in the Belagavi district coverage set.",
+    "highlight": "Belgaum district Shiva anchor: Hooli Panchalinga Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:08:53+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Hooli Panchalinga Temple is included in the Belagavi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Belgaum city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Belagavi district",
+          "url": "https://en.wikipedia.org/wiki/Belagavi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bhootanatha Temple",
+    "state": "Karnataka",
+    "city": "Belgaum",
+    "region": "Belagavi district",
+    "tags": [
+      "Bhootanatha",
+      "Belgaum",
+      "Shaiva"
+    ],
+    "story": "Bhootanatha Temple is listed as a Shiva temple node in the Belagavi district coverage set.",
+    "highlight": "Belgaum district Shiva anchor: Bhootanatha Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:08:54+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Bhootanatha Temple is included in the Belagavi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Belgaum city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Belagavi district",
+          "url": "https://en.wikipedia.org/wiki/Belagavi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amrutheswara Temple",
+    "state": "Karnataka",
+    "city": "Belgaum",
+    "region": "Belagavi district",
+    "tags": [
+      "Amrutheswara",
+      "Belgaum",
+      "Shaiva"
+    ],
+    "story": "Amrutheswara Temple is listed as a Shiva temple node in the Belagavi district coverage set.",
+    "highlight": "Belgaum district Shiva anchor: Amrutheswara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:08:55+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Amrutheswara Temple is included in the Belagavi district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Belgaum city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Belagavi district",
+          "url": "https://en.wikipedia.org/wiki/Belagavi_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Dharwad",
+    "region": "Dharwad district",
+    "tags": [
+      "Someshwara",
+      "Dharwad",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Dharwad district coverage set.",
+    "highlight": "Dharwad district Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:11:42+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Dharwad district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Dharwad city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Dharwad district",
+          "url": "https://en.wikipedia.org/wiki/Dharwad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chandramauleshwara Temple",
+    "state": "Karnataka",
+    "city": "Dharwad",
+    "region": "Dharwad district",
+    "tags": [
+      "Chandramauleshwara",
+      "Dharwad",
+      "Shaiva"
+    ],
+    "story": "Chandramauleshwara Temple is listed as a Shiva temple node in the Dharwad district coverage set.",
+    "highlight": "Dharwad district Shiva anchor: Chandramauleshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:11:43+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Chandramauleshwara Temple is included in the Dharwad district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Dharwad city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Dharwad district",
+          "url": "https://en.wikipedia.org/wiki/Dharwad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amrutheshwara Temple",
+    "state": "Karnataka",
+    "city": "Dharwad",
+    "region": "Dharwad district",
+    "tags": [
+      "Amrutheshwara",
+      "Dharwad",
+      "Shaiva"
+    ],
+    "story": "Amrutheshwara Temple is listed as a Shiva temple node in the Dharwad district coverage set.",
+    "highlight": "Dharwad district Shiva anchor: Amrutheshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:11:44+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Amrutheshwara Temple is included in the Dharwad district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Dharwad city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Dharwad district",
+          "url": "https://en.wikipedia.org/wiki/Dharwad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Dharwad",
+    "region": "Dharwad district",
+    "tags": [
+      "Siddheshwara",
+      "Dharwad",
+      "Shaiva"
+    ],
+    "story": "Siddheshwara Temple is listed as a Shiva temple node in the Dharwad district coverage set.",
+    "highlight": "Dharwad district Shiva anchor: Siddheshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:11:45+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwara Temple is included in the Dharwad district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Dharwad city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Dharwad district",
+          "url": "https://en.wikipedia.org/wiki/Dharwad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Dharwad",
+    "region": "Dharwad district",
+    "tags": [
+      "Mallikarjuna",
+      "Dharwad",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Dharwad district coverage set.",
+    "highlight": "Dharwad district Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:11:46+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Dharwad district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Dharwad city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Dharwad district",
+          "url": "https://en.wikipedia.org/wiki/Dharwad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalleshwara Temple",
+    "state": "Karnataka",
+    "city": "Dharwad",
+    "region": "Dharwad district",
+    "tags": [
+      "Kalleshwara",
+      "Dharwad",
+      "Shaiva"
+    ],
+    "story": "Kalleshwara Temple is listed as a Shiva temple node in the Dharwad district coverage set.",
+    "highlight": "Dharwad district Shiva anchor: Kalleshwara Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:11:47+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kalleshwara Temple is included in the Dharwad district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Dharwad city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Dharwad district",
+          "url": "https://en.wikipedia.org/wiki/Dharwad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Banashankari Temple (Shiva-Shakti complex)",
+    "state": "Karnataka",
+    "city": "Dharwad",
+    "region": "Dharwad district",
+    "tags": [
+      "Banashankari Temple (Shiva-Shakti complex)",
+      "Dharwad",
+      "Shaiva"
+    ],
+    "story": "Banashankari Temple (Shiva-Shakti complex) is listed as a Shiva temple node in the Dharwad district coverage set.",
+    "highlight": "Dharwad district Shiva anchor: Banashankari Temple (Shiva-Shakti complex).",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:11:48+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Banashankari Temple (Shiva-Shakti complex) is included in the Dharwad district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Dharwad city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Dharwad district",
+          "url": "https://en.wikipedia.org/wiki/Dharwad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vishveshwara Temple",
+    "state": "Karnataka",
+    "city": "Dharwad",
+    "region": "Dharwad district",
+    "tags": [
+      "Vishveshwara",
+      "Dharwad",
+      "Shaiva"
+    ],
+    "story": "Vishveshwara Temple is listed as a Shiva temple node in the Dharwad district coverage set.",
+    "highlight": "Dharwad district Shiva anchor: Vishveshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:11:49+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Vishveshwara Temple is included in the Dharwad district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Dharwad city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Dharwad district",
+          "url": "https://en.wikipedia.org/wiki/Dharwad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nandikeshwara Temple",
+    "state": "Karnataka",
+    "city": "Dharwad",
+    "region": "Dharwad district",
+    "tags": [
+      "Nandikeshwara",
+      "Dharwad",
+      "Shaiva"
+    ],
+    "story": "Nandikeshwara Temple is listed as a Shiva temple node in the Dharwad district coverage set.",
+    "highlight": "Dharwad district Shiva anchor: Nandikeshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:11:50+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Nandikeshwara Temple is included in the Dharwad district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Dharwad city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Dharwad district",
+          "url": "https://en.wikipedia.org/wiki/Dharwad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Basaveshwara Temple",
+    "state": "Karnataka",
+    "city": "Dharwad",
+    "region": "Dharwad district",
+    "tags": [
+      "Basaveshwara",
+      "Dharwad",
+      "Shaiva"
+    ],
+    "story": "Basaveshwara Temple is listed as a Shiva temple node in the Dharwad district coverage set.",
+    "highlight": "Dharwad district Shiva anchor: Basaveshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:11:51+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Basaveshwara Temple is included in the Dharwad district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Dharwad city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Dharwad district",
+          "url": "https://en.wikipedia.org/wiki/Dharwad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahabaleshwar Temple (Gokarna)",
+    "state": "Karnataka",
+    "city": "Karwar",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Mahabaleshwar Temple (Gokarna)",
+      "Karwar",
+      "Shaiva"
+    ],
+    "story": "Mahabaleshwar Temple (Gokarna) is listed as a Shiva temple node in the Karwar (Uttara Kannada) coverage set.",
+    "highlight": "Karwar Shiva anchor: Mahabaleshwar Temple (Gokarna).",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:13:27+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mahabaleshwar Temple (Gokarna) is included in the Karwar set under Uttara Kannada district Shiva temple expansion.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Karwar-Gokarna coastal temple circuit.",
+      "sources": [
+        {
+          "label": "Uttara Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Uttara_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Murudeshwar Temple",
+    "state": "Karnataka",
+    "city": "Karwar",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Murudeshwar",
+      "Karwar",
+      "Shaiva"
+    ],
+    "story": "Murudeshwar Temple is listed as a Shiva temple node in the Karwar (Uttara Kannada) coverage set.",
+    "highlight": "Karwar Shiva anchor: Murudeshwar Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:13:28+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Murudeshwar Temple is included in the Karwar set under Uttara Kannada district Shiva temple expansion.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Karwar-Gokarna coastal temple circuit.",
+      "sources": [
+        {
+          "label": "Uttara Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Uttara_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dhareshwar Temple",
+    "state": "Karnataka",
+    "city": "Karwar",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Dhareshwar",
+      "Karwar",
+      "Shaiva"
+    ],
+    "story": "Dhareshwar Temple is listed as a Shiva temple node in the Karwar (Uttara Kannada) coverage set.",
+    "highlight": "Karwar Shiva anchor: Dhareshwar Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:13:29+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Dhareshwar Temple is included in the Karwar set under Uttara Kannada district Shiva temple expansion.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Karwar-Gokarna coastal temple circuit.",
+      "sources": [
+        {
+          "label": "Uttara Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Uttara_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sajjeswar Temple",
+    "state": "Karnataka",
+    "city": "Karwar",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Sajjeswar",
+      "Karwar",
+      "Shaiva"
+    ],
+    "story": "Sajjeswar Temple is listed as a Shiva temple node in the Karwar (Uttara Kannada) coverage set.",
+    "highlight": "Karwar Shiva anchor: Sajjeswar Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:13:30+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sajjeswar Temple is included in the Karwar set under Uttara Kannada district Shiva temple expansion.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Karwar-Gokarna coastal temple circuit.",
+      "sources": [
+        {
+          "label": "Uttara Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Uttara_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gunavanteshwar Temple",
+    "state": "Karnataka",
+    "city": "Karwar",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Gunavanteshwar",
+      "Karwar",
+      "Shaiva"
+    ],
+    "story": "Gunavanteshwar Temple is listed as a Shiva temple node in the Karwar (Uttara Kannada) coverage set.",
+    "highlight": "Karwar Shiva anchor: Gunavanteshwar Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:13:31+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Gunavanteshwar Temple is included in the Karwar set under Uttara Kannada district Shiva temple expansion.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Karwar-Gokarna coastal temple circuit.",
+      "sources": [
+        {
+          "label": "Uttara Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Uttara_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Idagunji Shiva Temple",
+    "state": "Karnataka",
+    "city": "Karwar",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Idagunji Shiva",
+      "Karwar",
+      "Shaiva"
+    ],
+    "story": "Idagunji Shiva Temple is listed as a Shiva temple node in the Karwar (Uttara Kannada) coverage set.",
+    "highlight": "Karwar Shiva anchor: Idagunji Shiva Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:13:32+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Idagunji Shiva Temple is included in the Karwar set under Uttara Kannada district Shiva temple expansion.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Karwar-Gokarna coastal temple circuit.",
+      "sources": [
+        {
+          "label": "Uttara Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Uttara_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Karwar",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Mallikarjuna",
+      "Karwar",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Karwar (Uttara Kannada) coverage set.",
+    "highlight": "Karwar Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:13:33+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Karwar set under Uttara Kannada district Shiva temple expansion.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Karwar-Gokarna coastal temple circuit.",
+      "sources": [
+        {
+          "label": "Uttara Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Uttara_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sadashivgad Shiva Temple",
+    "state": "Karnataka",
+    "city": "Karwar",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Sadashivgad Shiva",
+      "Karwar",
+      "Shaiva"
+    ],
+    "story": "Sadashivgad Shiva Temple is listed as a Shiva temple node in the Karwar (Uttara Kannada) coverage set.",
+    "highlight": "Karwar Shiva anchor: Sadashivgad Shiva Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:13:34+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sadashivgad Shiva Temple is included in the Karwar set under Uttara Kannada district Shiva temple expansion.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Karwar-Gokarna coastal temple circuit.",
+      "sources": [
+        {
+          "label": "Uttara Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Uttara_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Karwar",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Someshwara",
+      "Karwar",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Karwar (Uttara Kannada) coverage set.",
+    "highlight": "Karwar Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:13:35+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Karwar set under Uttara Kannada district Shiva temple expansion.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Karwar-Gokarna coastal temple circuit.",
+      "sources": [
+        {
+          "label": "Uttara Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Uttara_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalleshwara Temple",
+    "state": "Karnataka",
+    "city": "Karwar",
+    "region": "Uttara Kannada district",
+    "tags": [
+      "Kalleshwara",
+      "Karwar",
+      "Shaiva"
+    ],
+    "story": "Kalleshwara Temple is listed as a Shiva temple node in the Karwar (Uttara Kannada) coverage set.",
+    "highlight": "Karwar Shiva anchor: Kalleshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:13:36+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kalleshwara Temple is included in the Karwar set under Uttara Kannada district Shiva temple expansion.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Karwar-Gokarna coastal temple circuit.",
+      "sources": [
+        {
+          "label": "Uttara Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Uttara_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kudroli Gokarnanatha Temple",
+    "state": "Karnataka",
+    "city": "Mangalore",
+    "region": "Dakshina Kannada district",
+    "tags": [
+      "Kudroli Gokarnanatha",
+      "Mangalore",
+      "Shaiva"
+    ],
+    "story": "Kudroli Gokarnanatha Temple is listed as a Shiva temple node in the Mangalore (Dakshina Kannada) coverage set.",
+    "highlight": "Mangalore Shiva anchor: Kudroli Gokarnanatha Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:15:07+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kudroli Gokarnanatha Temple is included in the Mangalore (Dakshina Kannada) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mangalore-Ullal-Puttur temple circuit.",
+      "sources": [
+        {
+          "label": "Dakshina Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Dakshina_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kadri Manjunatha Temple",
+    "state": "Karnataka",
+    "city": "Mangalore",
+    "region": "Dakshina Kannada district",
+    "tags": [
+      "Kadri Manjunatha",
+      "Mangalore",
+      "Shaiva"
+    ],
+    "story": "Kadri Manjunatha Temple is listed as a Shiva temple node in the Mangalore (Dakshina Kannada) coverage set.",
+    "highlight": "Mangalore Shiva anchor: Kadri Manjunatha Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:15:08+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kadri Manjunatha Temple is included in the Mangalore (Dakshina Kannada) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mangalore-Ullal-Puttur temple circuit.",
+      "sources": [
+        {
+          "label": "Dakshina Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Dakshina_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sharavu Mahaganapathi Temple (Shiva-Shakti)",
+    "state": "Karnataka",
+    "city": "Mangalore",
+    "region": "Dakshina Kannada district",
+    "tags": [
+      "Sharavu Mahaganapathi Temple (Shiva-Shakti)",
+      "Mangalore",
+      "Shaiva"
+    ],
+    "story": "Sharavu Mahaganapathi Temple (Shiva-Shakti) is listed as a Shiva temple node in the Mangalore (Dakshina Kannada) coverage set.",
+    "highlight": "Mangalore Shiva anchor: Sharavu Mahaganapathi Temple (Shiva-Shakti).",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:15:09+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sharavu Mahaganapathi Temple (Shiva-Shakti) is included in the Mangalore (Dakshina Kannada) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mangalore-Ullal-Puttur temple circuit.",
+      "sources": [
+        {
+          "label": "Dakshina Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Dakshina_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kavoor Mahalingeshwara Temple",
+    "state": "Karnataka",
+    "city": "Mangalore",
+    "region": "Dakshina Kannada district",
+    "tags": [
+      "Kavoor Mahalingeshwara",
+      "Mangalore",
+      "Shaiva"
+    ],
+    "story": "Kavoor Mahalingeshwara Temple is listed as a Shiva temple node in the Mangalore (Dakshina Kannada) coverage set.",
+    "highlight": "Mangalore Shiva anchor: Kavoor Mahalingeshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:15:10+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kavoor Mahalingeshwara Temple is included in the Mangalore (Dakshina Kannada) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mangalore-Ullal-Puttur temple circuit.",
+      "sources": [
+        {
+          "label": "Dakshina Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Dakshina_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Somanatheshwara Temple (Ullal)",
+    "state": "Karnataka",
+    "city": "Mangalore",
+    "region": "Dakshina Kannada district",
+    "tags": [
+      "Somanatheshwara Temple (Ullal)",
+      "Mangalore",
+      "Shaiva"
+    ],
+    "story": "Somanatheshwara Temple (Ullal) is listed as a Shiva temple node in the Mangalore (Dakshina Kannada) coverage set.",
+    "highlight": "Mangalore Shiva anchor: Somanatheshwara Temple (Ullal).",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:15:11+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Somanatheshwara Temple (Ullal) is included in the Mangalore (Dakshina Kannada) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mangalore-Ullal-Puttur temple circuit.",
+      "sources": [
+        {
+          "label": "Dakshina Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Dakshina_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Panchalingeshwara Temple (Vittal)",
+    "state": "Karnataka",
+    "city": "Mangalore",
+    "region": "Dakshina Kannada district",
+    "tags": [
+      "Panchalingeshwara Temple (Vittal)",
+      "Mangalore",
+      "Shaiva"
+    ],
+    "story": "Panchalingeshwara Temple (Vittal) is listed as a Shiva temple node in the Mangalore (Dakshina Kannada) coverage set.",
+    "highlight": "Mangalore Shiva anchor: Panchalingeshwara Temple (Vittal).",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:15:12+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Panchalingeshwara Temple (Vittal) is included in the Mangalore (Dakshina Kannada) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mangalore-Ullal-Puttur temple circuit.",
+      "sources": [
+        {
+          "label": "Dakshina Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Dakshina_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sahastra Lingeshwara Temple (Uppinangady)",
+    "state": "Karnataka",
+    "city": "Mangalore",
+    "region": "Dakshina Kannada district",
+    "tags": [
+      "Sahastra Lingeshwara Temple (Uppinangady)",
+      "Mangalore",
+      "Shaiva"
+    ],
+    "story": "Sahastra Lingeshwara Temple (Uppinangady) is listed as a Shiva temple node in the Mangalore (Dakshina Kannada) coverage set.",
+    "highlight": "Mangalore Shiva anchor: Sahastra Lingeshwara Temple (Uppinangady).",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:15:13+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sahastra Lingeshwara Temple (Uppinangady) is included in the Mangalore (Dakshina Kannada) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mangalore-Ullal-Puttur temple circuit.",
+      "sources": [
+        {
+          "label": "Dakshina Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Dakshina_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Anantheshwara Temple",
+    "state": "Karnataka",
+    "city": "Mangalore",
+    "region": "Dakshina Kannada district",
+    "tags": [
+      "Anantheshwara",
+      "Mangalore",
+      "Shaiva"
+    ],
+    "story": "Anantheshwara Temple is listed as a Shiva temple node in the Mangalore (Dakshina Kannada) coverage set.",
+    "highlight": "Mangalore Shiva anchor: Anantheshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:15:14+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Anantheshwara Temple is included in the Mangalore (Dakshina Kannada) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mangalore-Ullal-Puttur temple circuit.",
+      "sources": [
+        {
+          "label": "Dakshina Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Dakshina_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahalingeshwara Temple (Puttur)",
+    "state": "Karnataka",
+    "city": "Mangalore",
+    "region": "Dakshina Kannada district",
+    "tags": [
+      "Mahalingeshwara Temple (Puttur)",
+      "Mangalore",
+      "Shaiva"
+    ],
+    "story": "Mahalingeshwara Temple (Puttur) is listed as a Shiva temple node in the Mangalore (Dakshina Kannada) coverage set.",
+    "highlight": "Mangalore Shiva anchor: Mahalingeshwara Temple (Puttur).",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:15:15+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mahalingeshwara Temple (Puttur) is included in the Mangalore (Dakshina Kannada) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mangalore-Ullal-Puttur temple circuit.",
+      "sources": [
+        {
+          "label": "Dakshina Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Dakshina_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sadashiva Rudra Temple",
+    "state": "Karnataka",
+    "city": "Mangalore",
+    "region": "Dakshina Kannada district",
+    "tags": [
+      "Sadashiva Rudra",
+      "Mangalore",
+      "Shaiva"
+    ],
+    "story": "Sadashiva Rudra Temple is listed as a Shiva temple node in the Mangalore (Dakshina Kannada) coverage set.",
+    "highlight": "Mangalore Shiva anchor: Sadashiva Rudra Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:15:16+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sadashiva Rudra Temple is included in the Mangalore (Dakshina Kannada) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mangalore-Ullal-Puttur temple circuit.",
+      "sources": [
+        {
+          "label": "Dakshina Kannada district",
+          "url": "https://en.wikipedia.org/wiki/Dakshina_Kannada",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddeshwara Temple",
+    "state": "Karnataka",
+    "city": "Bijapur",
+    "region": "Vijayapura district",
+    "tags": [
+      "Siddeshwara",
+      "Bijapur",
+      "Shaiva"
+    ],
+    "story": "Siddeshwara Temple is listed as a Shiva temple node in the Bijapur (Vijayapura) district coverage set.",
+    "highlight": "Bijapur Shiva anchor: Siddeshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:19:55+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddeshwara Temple is included in the Bijapur (Vijayapura) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bijapur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Vijayapura district",
+          "url": "https://en.wikipedia.org/wiki/Vijayapura_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Bijapur",
+    "region": "Vijayapura district",
+    "tags": [
+      "Mallikarjuna",
+      "Bijapur",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Bijapur (Vijayapura) district coverage set.",
+    "highlight": "Bijapur Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:19:56+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Bijapur (Vijayapura) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bijapur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Vijayapura district",
+          "url": "https://en.wikipedia.org/wiki/Vijayapura_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Bijapur",
+    "region": "Vijayapura district",
+    "tags": [
+      "Someshwara",
+      "Bijapur",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Bijapur (Vijayapura) district coverage set.",
+    "highlight": "Bijapur Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:19:57+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Bijapur (Vijayapura) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bijapur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Vijayapura district",
+          "url": "https://en.wikipedia.org/wiki/Vijayapura_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sangameshwara Temple",
+    "state": "Karnataka",
+    "city": "Bijapur",
+    "region": "Vijayapura district",
+    "tags": [
+      "Sangameshwara",
+      "Bijapur",
+      "Shaiva"
+    ],
+    "story": "Sangameshwara Temple is listed as a Shiva temple node in the Bijapur (Vijayapura) district coverage set.",
+    "highlight": "Bijapur Shiva anchor: Sangameshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:19:58+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sangameshwara Temple is included in the Bijapur (Vijayapura) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bijapur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Vijayapura district",
+          "url": "https://en.wikipedia.org/wiki/Vijayapura_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ramalingeshwara Temple",
+    "state": "Karnataka",
+    "city": "Bijapur",
+    "region": "Vijayapura district",
+    "tags": [
+      "Ramalingeshwara",
+      "Bijapur",
+      "Shaiva"
+    ],
+    "story": "Ramalingeshwara Temple is listed as a Shiva temple node in the Bijapur (Vijayapura) district coverage set.",
+    "highlight": "Bijapur Shiva anchor: Ramalingeshwara Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:19:59+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Ramalingeshwara Temple is included in the Bijapur (Vijayapura) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bijapur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Vijayapura district",
+          "url": "https://en.wikipedia.org/wiki/Vijayapura_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalleshwara Temple",
+    "state": "Karnataka",
+    "city": "Bijapur",
+    "region": "Vijayapura district",
+    "tags": [
+      "Kalleshwara",
+      "Bijapur",
+      "Shaiva"
+    ],
+    "story": "Kalleshwara Temple is listed as a Shiva temple node in the Bijapur (Vijayapura) district coverage set.",
+    "highlight": "Bijapur Shiva anchor: Kalleshwara Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kalleshwara Temple is included in the Bijapur (Vijayapura) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bijapur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Vijayapura district",
+          "url": "https://en.wikipedia.org/wiki/Vijayapura_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chandramauleshwara Temple",
+    "state": "Karnataka",
+    "city": "Bijapur",
+    "region": "Vijayapura district",
+    "tags": [
+      "Chandramauleshwara",
+      "Bijapur",
+      "Shaiva"
+    ],
+    "story": "Chandramauleshwara Temple is listed as a Shiva temple node in the Bijapur (Vijayapura) district coverage set.",
+    "highlight": "Bijapur Shiva anchor: Chandramauleshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:20:01+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Chandramauleshwara Temple is included in the Bijapur (Vijayapura) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bijapur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Vijayapura district",
+          "url": "https://en.wikipedia.org/wiki/Vijayapura_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Panchamukhi Shiva Temple",
+    "state": "Karnataka",
+    "city": "Bijapur",
+    "region": "Vijayapura district",
+    "tags": [
+      "Panchamukhi Shiva",
+      "Bijapur",
+      "Shaiva"
+    ],
+    "story": "Panchamukhi Shiva Temple is listed as a Shiva temple node in the Bijapur (Vijayapura) district coverage set.",
+    "highlight": "Bijapur Shiva anchor: Panchamukhi Shiva Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:20:02+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Panchamukhi Shiva Temple is included in the Bijapur (Vijayapura) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bijapur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Vijayapura district",
+          "url": "https://en.wikipedia.org/wiki/Vijayapura_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vishveshwara Temple",
+    "state": "Karnataka",
+    "city": "Bijapur",
+    "region": "Vijayapura district",
+    "tags": [
+      "Vishveshwara",
+      "Bijapur",
+      "Shaiva"
+    ],
+    "story": "Vishveshwara Temple is listed as a Shiva temple node in the Bijapur (Vijayapura) district coverage set.",
+    "highlight": "Bijapur Shiva anchor: Vishveshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:20:03+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Vishveshwara Temple is included in the Bijapur (Vijayapura) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bijapur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Vijayapura district",
+          "url": "https://en.wikipedia.org/wiki/Vijayapura_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nandikeshwara Temple",
+    "state": "Karnataka",
+    "city": "Bijapur",
+    "region": "Vijayapura district",
+    "tags": [
+      "Nandikeshwara",
+      "Bijapur",
+      "Shaiva"
+    ],
+    "story": "Nandikeshwara Temple is listed as a Shiva temple node in the Bijapur (Vijayapura) district coverage set.",
+    "highlight": "Bijapur Shiva anchor: Nandikeshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:20:04+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Nandikeshwara Temple is included in the Bijapur (Vijayapura) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bijapur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Vijayapura district",
+          "url": "https://en.wikipedia.org/wiki/Vijayapura_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chandramauleshwara Temple",
+    "state": "Karnataka",
+    "city": "Hampi",
+    "region": "Vijayanagara district",
+    "tags": [
+      "Chandramauleshwara",
+      "Hampi",
+      "Shaiva"
+    ],
+    "story": "Chandramauleshwara Temple is listed as a Shiva temple node in the Hampi heritage coverage set.",
+    "highlight": "Hampi Shiva anchor: Chandramauleshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:21:07+05:30",
+    "bestTime": "October to February.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify monument access rules and darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Hampi Utsav season"
+    ],
+    "moreDetails": {
+      "history": "Chandramauleshwara Temple is included in the Hampi Shiva temple expansion set for Karnataka coverage.",
+      "architecture": "Heritage-zone Dravidian/Vijayanagara-era stone architecture and associated shrine forms.",
+      "visitorNotes": "Can be visited in a single Hampi temple circuit with nearby monuments.",
+      "sources": [
+        {
+          "label": "Hampi",
+          "url": "https://en.wikipedia.org/wiki/Hampi",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Achyutaraya Temple",
+    "state": "Karnataka",
+    "city": "Hampi",
+    "region": "Vijayanagara district",
+    "tags": [
+      "Achyutaraya",
+      "Hampi",
+      "Shaiva"
+    ],
+    "story": "Achyutaraya Temple is listed as a Shiva temple node in the Hampi heritage coverage set.",
+    "highlight": "Hampi Shiva anchor: Achyutaraya Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:21:08+05:30",
+    "bestTime": "October to February.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify monument access rules and darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Hampi Utsav season"
+    ],
+    "moreDetails": {
+      "history": "Achyutaraya Temple is included in the Hampi Shiva temple expansion set for Karnataka coverage.",
+      "architecture": "Heritage-zone Dravidian/Vijayanagara-era stone architecture and associated shrine forms.",
+      "visitorNotes": "Can be visited in a single Hampi temple circuit with nearby monuments.",
+      "sources": [
+        {
+          "label": "Hampi",
+          "url": "https://en.wikipedia.org/wiki/Hampi",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Hampi",
+    "region": "Vijayanagara district",
+    "tags": [
+      "Mallikarjuna",
+      "Hampi",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Hampi heritage coverage set.",
+    "highlight": "Hampi Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:21:09+05:30",
+    "bestTime": "October to February.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify monument access rules and darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Hampi Utsav season"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Hampi Shiva temple expansion set for Karnataka coverage.",
+      "architecture": "Heritage-zone Dravidian/Vijayanagara-era stone architecture and associated shrine forms.",
+      "visitorNotes": "Can be visited in a single Hampi temple circuit with nearby monuments.",
+      "sources": [
+        {
+          "label": "Hampi",
+          "url": "https://en.wikipedia.org/wiki/Hampi",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kampa Bhupa's Path Shiva Temple",
+    "state": "Karnataka",
+    "city": "Hampi",
+    "region": "Vijayanagara district",
+    "tags": [
+      "Kampa Bhupa's Path Shiva",
+      "Hampi",
+      "Shaiva"
+    ],
+    "story": "Kampa Bhupa's Path Shiva Temple is listed as a Shiva temple node in the Hampi heritage coverage set.",
+    "highlight": "Hampi Shiva anchor: Kampa Bhupa's Path Shiva Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:21:10+05:30",
+    "bestTime": "October to February.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify monument access rules and darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Hampi Utsav season"
+    ],
+    "moreDetails": {
+      "history": "Kampa Bhupa's Path Shiva Temple is included in the Hampi Shiva temple expansion set for Karnataka coverage.",
+      "architecture": "Heritage-zone Dravidian/Vijayanagara-era stone architecture and associated shrine forms.",
+      "visitorNotes": "Can be visited in a single Hampi temple circuit with nearby monuments.",
+      "sources": [
+        {
+          "label": "Hampi",
+          "url": "https://en.wikipedia.org/wiki/Hampi",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hemakuta Hill Shiva Temples",
+    "state": "Karnataka",
+    "city": "Hampi",
+    "region": "Vijayanagara district",
+    "tags": [
+      "Hemakuta Hill Shiva Temples",
+      "Hampi",
+      "Shaiva"
+    ],
+    "story": "Hemakuta Hill Shiva Temples is listed as a Shiva temple node in the Hampi heritage coverage set.",
+    "highlight": "Hampi Shiva anchor: Hemakuta Hill Shiva Temples.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:21:11+05:30",
+    "bestTime": "October to February.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify monument access rules and darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Hampi Utsav season"
+    ],
+    "moreDetails": {
+      "history": "Hemakuta Hill Shiva Temples is included in the Hampi Shiva temple expansion set for Karnataka coverage.",
+      "architecture": "Heritage-zone Dravidian/Vijayanagara-era stone architecture and associated shrine forms.",
+      "visitorNotes": "Can be visited in a single Hampi temple circuit with nearby monuments.",
+      "sources": [
+        {
+          "label": "Hampi",
+          "url": "https://en.wikipedia.org/wiki/Hampi",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kotilinga",
+    "state": "Karnataka",
+    "city": "Hampi",
+    "region": "Vijayanagara district",
+    "tags": [
+      "Kotilinga",
+      "Hampi",
+      "Shaiva"
+    ],
+    "story": "Kotilinga is listed as a Shiva temple node in the Hampi heritage coverage set.",
+    "highlight": "Hampi Shiva anchor: Kotilinga.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:21:12+05:30",
+    "bestTime": "October to February.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify monument access rules and darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Hampi Utsav season"
+    ],
+    "moreDetails": {
+      "history": "Kotilinga is included in the Hampi Shiva temple expansion set for Karnataka coverage.",
+      "architecture": "Heritage-zone Dravidian/Vijayanagara-era stone architecture and associated shrine forms.",
+      "visitorNotes": "Can be visited in a single Hampi temple circuit with nearby monuments.",
+      "sources": [
+        {
+          "label": "Hampi",
+          "url": "https://en.wikipedia.org/wiki/Hampi",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vishvanatha Temple",
+    "state": "Karnataka",
+    "city": "Hampi",
+    "region": "Vijayanagara district",
+    "tags": [
+      "Vishvanatha",
+      "Hampi",
+      "Shaiva"
+    ],
+    "story": "Vishvanatha Temple is listed as a Shiva temple node in the Hampi heritage coverage set.",
+    "highlight": "Hampi Shiva anchor: Vishvanatha Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:21:13+05:30",
+    "bestTime": "October to February.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify monument access rules and darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Hampi Utsav season"
+    ],
+    "moreDetails": {
+      "history": "Vishvanatha Temple is included in the Hampi Shiva temple expansion set for Karnataka coverage.",
+      "architecture": "Heritage-zone Dravidian/Vijayanagara-era stone architecture and associated shrine forms.",
+      "visitorNotes": "Can be visited in a single Hampi temple circuit with nearby monuments.",
+      "sources": [
+        {
+          "label": "Hampi",
+          "url": "https://en.wikipedia.org/wiki/Hampi",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "region": "Bagalkot district",
+    "tags": [
+      "Mallikarjuna",
+      "Bagalkot",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Bagalkot district coverage set.",
+    "highlight": "Bagalkot Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:26:17+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Bagalkot district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bagalkot-Badami-Pattadakal temple circuit.",
+      "sources": [
+        {
+          "label": "Bagalkot district",
+          "url": "https://en.wikipedia.org/wiki/Bagalkot_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sangameshwara Temple (Kudalasangama)",
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "region": "Bagalkot district",
+    "tags": [
+      "Sangameshwara Temple (Kudalasangama)",
+      "Bagalkot",
+      "Shaiva"
+    ],
+    "story": "Sangameshwara Temple (Kudalasangama) is listed as a Shiva temple node in the Bagalkot district coverage set.",
+    "highlight": "Bagalkot Shiva anchor: Sangameshwara Temple (Kudalasangama).",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:26:18+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sangameshwara Temple (Kudalasangama) is included in the Bagalkot district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bagalkot-Badami-Pattadakal temple circuit.",
+      "sources": [
+        {
+          "label": "Bagalkot district",
+          "url": "https://en.wikipedia.org/wiki/Bagalkot_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Galaganatha Temple",
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "region": "Bagalkot district",
+    "tags": [
+      "Galaganatha",
+      "Bagalkot",
+      "Shaiva"
+    ],
+    "story": "Galaganatha Temple is listed as a Shiva temple node in the Bagalkot district coverage set.",
+    "highlight": "Bagalkot Shiva anchor: Galaganatha Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:26:19+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Galaganatha Temple is included in the Bagalkot district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bagalkot-Badami-Pattadakal temple circuit.",
+      "sources": [
+        {
+          "label": "Bagalkot district",
+          "url": "https://en.wikipedia.org/wiki/Bagalkot_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Papanatha Temple",
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "region": "Bagalkot district",
+    "tags": [
+      "Papanatha",
+      "Bagalkot",
+      "Shaiva"
+    ],
+    "story": "Papanatha Temple is listed as a Shiva temple node in the Bagalkot district coverage set.",
+    "highlight": "Bagalkot Shiva anchor: Papanatha Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:26:20+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Papanatha Temple is included in the Bagalkot district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bagalkot-Badami-Pattadakal temple circuit.",
+      "sources": [
+        {
+          "label": "Bagalkot district",
+          "url": "https://en.wikipedia.org/wiki/Bagalkot_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kashivishvanatha Temple",
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "region": "Bagalkot district",
+    "tags": [
+      "Kashivishvanatha",
+      "Bagalkot",
+      "Shaiva"
+    ],
+    "story": "Kashivishvanatha Temple is listed as a Shiva temple node in the Bagalkot district coverage set.",
+    "highlight": "Bagalkot Shiva anchor: Kashivishvanatha Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:26:21+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kashivishvanatha Temple is included in the Bagalkot district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bagalkot-Badami-Pattadakal temple circuit.",
+      "sources": [
+        {
+          "label": "Bagalkot district",
+          "url": "https://en.wikipedia.org/wiki/Bagalkot_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jambulingeshwara Temple",
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "region": "Bagalkot district",
+    "tags": [
+      "Jambulingeshwara",
+      "Bagalkot",
+      "Shaiva"
+    ],
+    "story": "Jambulingeshwara Temple is listed as a Shiva temple node in the Bagalkot district coverage set.",
+    "highlight": "Bagalkot Shiva anchor: Jambulingeshwara Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:26:22+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Jambulingeshwara Temple is included in the Bagalkot district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bagalkot-Badami-Pattadakal temple circuit.",
+      "sources": [
+        {
+          "label": "Bagalkot district",
+          "url": "https://en.wikipedia.org/wiki/Bagalkot_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kadasiddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "region": "Bagalkot district",
+    "tags": [
+      "Kadasiddheshwara",
+      "Bagalkot",
+      "Shaiva"
+    ],
+    "story": "Kadasiddheshwara Temple is listed as a Shiva temple node in the Bagalkot district coverage set.",
+    "highlight": "Bagalkot Shiva anchor: Kadasiddheshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:26:23+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kadasiddheshwara Temple is included in the Bagalkot district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bagalkot-Badami-Pattadakal temple circuit.",
+      "sources": [
+        {
+          "label": "Bagalkot district",
+          "url": "https://en.wikipedia.org/wiki/Bagalkot_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahakuteshwara Temple",
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "region": "Bagalkot district",
+    "tags": [
+      "Mahakuteshwara",
+      "Bagalkot",
+      "Shaiva"
+    ],
+    "story": "Mahakuteshwara Temple is listed as a Shiva temple node in the Bagalkot district coverage set.",
+    "highlight": "Bagalkot Shiva anchor: Mahakuteshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:26:24+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mahakuteshwara Temple is included in the Bagalkot district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bagalkot-Badami-Pattadakal temple circuit.",
+      "sources": [
+        {
+          "label": "Bagalkot district",
+          "url": "https://en.wikipedia.org/wiki/Bagalkot_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Banashankari Temple",
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "region": "Bagalkot district",
+    "tags": [
+      "Banashankari",
+      "Bagalkot",
+      "Shaiva"
+    ],
+    "story": "Banashankari Temple is listed as a Shiva temple node in the Bagalkot district coverage set.",
+    "highlight": "Bagalkot Shiva anchor: Banashankari Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:26:25+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Banashankari Temple is included in the Bagalkot district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bagalkot-Badami-Pattadakal temple circuit.",
+      "sources": [
+        {
+          "label": "Bagalkot district",
+          "url": "https://en.wikipedia.org/wiki/Bagalkot_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "region": "Bagalkot district",
+    "tags": [
+      "Siddheshwara",
+      "Bagalkot",
+      "Shaiva"
+    ],
+    "story": "Siddheshwara Temple is listed as a Shiva temple node in the Bagalkot district coverage set.",
+    "highlight": "Bagalkot Shiva anchor: Siddheshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:26:26+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwara Temple is included in the Bagalkot district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bagalkot-Badami-Pattadakal temple circuit.",
+      "sources": [
+        {
+          "label": "Bagalkot district",
+          "url": "https://en.wikipedia.org/wiki/Bagalkot_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddaganga Kshetra",
+    "state": "Karnataka",
+    "city": "Tumkur",
+    "region": "Tumakuru district",
+    "tags": [
+      "Siddaganga Kshetra",
+      "Tumkur",
+      "Shaiva"
+    ],
+    "story": "Siddaganga Kshetra is listed as a Shiva temple node in the Tumkur (Tumakuru) district coverage set.",
+    "highlight": "Tumkur Shiva anchor: Siddaganga Kshetra.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:28:38+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddaganga Kshetra is included in the Tumkur (Tumakuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Tumkur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Tumakuru district",
+          "url": "https://en.wikipedia.org/wiki/Tumakuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalleshwara Temple (Arlaguppe)",
+    "state": "Karnataka",
+    "city": "Tumkur",
+    "region": "Tumakuru district",
+    "tags": [
+      "Kalleshwara Temple (Arlaguppe)",
+      "Tumkur",
+      "Shaiva"
+    ],
+    "story": "Kalleshwara Temple (Arlaguppe) is listed as a Shiva temple node in the Tumkur (Tumakuru) district coverage set.",
+    "highlight": "Tumkur Shiva anchor: Kalleshwara Temple (Arlaguppe).",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:28:39+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kalleshwara Temple (Arlaguppe) is included in the Tumkur (Tumakuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Tumkur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Tumakuru district",
+          "url": "https://en.wikipedia.org/wiki/Tumakuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chennakeshava & Lakshminarasimha Temple (Kaidala Shiva complex)",
+    "state": "Karnataka",
+    "city": "Tumkur",
+    "region": "Tumakuru district",
+    "tags": [
+      "Chennakeshava & Lakshminarasimha Temple (Kaidala Shiva complex)",
+      "Tumkur",
+      "Shaiva"
+    ],
+    "story": "Chennakeshava & Lakshminarasimha Temple (Kaidala Shiva complex) is listed as a Shiva temple node in the Tumkur (Tumakuru) district coverage set.",
+    "highlight": "Tumkur Shiva anchor: Chennakeshava & Lakshminarasimha Temple (Kaidala Shiva complex).",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:28:40+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Chennakeshava & Lakshminarasimha Temple (Kaidala Shiva complex) is included in the Tumkur (Tumakuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Tumkur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Tumakuru district",
+          "url": "https://en.wikipedia.org/wiki/Tumakuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kedareshwara Temple (Nagapuri)",
+    "state": "Karnataka",
+    "city": "Tumkur",
+    "region": "Tumakuru district",
+    "tags": [
+      "Kedareshwara Temple (Nagapuri)",
+      "Tumkur",
+      "Shaiva"
+    ],
+    "story": "Kedareshwara Temple (Nagapuri) is listed as a Shiva temple node in the Tumkur (Tumakuru) district coverage set.",
+    "highlight": "Tumkur Shiva anchor: Kedareshwara Temple (Nagapuri).",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:28:41+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kedareshwara Temple (Nagapuri) is included in the Tumkur (Tumakuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Tumkur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Tumakuru district",
+          "url": "https://en.wikipedia.org/wiki/Tumakuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Tumkur",
+    "region": "Tumakuru district",
+    "tags": [
+      "Someshwara",
+      "Tumkur",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Tumkur (Tumakuru) district coverage set.",
+    "highlight": "Tumkur Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:28:42+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Tumkur (Tumakuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Tumkur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Tumakuru district",
+          "url": "https://en.wikipedia.org/wiki/Tumakuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Tumkur",
+    "region": "Tumakuru district",
+    "tags": [
+      "Mallikarjuna",
+      "Tumkur",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Tumkur (Tumakuru) district coverage set.",
+    "highlight": "Tumkur Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:28:43+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Tumkur (Tumakuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Tumkur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Tumakuru district",
+          "url": "https://en.wikipedia.org/wiki/Tumakuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Tumkur",
+    "region": "Tumakuru district",
+    "tags": [
+      "Siddheshwara",
+      "Tumkur",
+      "Shaiva"
+    ],
+    "story": "Siddheshwara Temple is listed as a Shiva temple node in the Tumkur (Tumakuru) district coverage set.",
+    "highlight": "Tumkur Shiva anchor: Siddheshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:28:44+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwara Temple is included in the Tumkur (Tumakuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Tumkur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Tumakuru district",
+          "url": "https://en.wikipedia.org/wiki/Tumakuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nanjundeshwara Temple",
+    "state": "Karnataka",
+    "city": "Tumkur",
+    "region": "Tumakuru district",
+    "tags": [
+      "Nanjundeshwara",
+      "Tumkur",
+      "Shaiva"
+    ],
+    "story": "Nanjundeshwara Temple is listed as a Shiva temple node in the Tumkur (Tumakuru) district coverage set.",
+    "highlight": "Tumkur Shiva anchor: Nanjundeshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:28:45+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Nanjundeshwara Temple is included in the Tumkur (Tumakuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Tumkur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Tumakuru district",
+          "url": "https://en.wikipedia.org/wiki/Tumakuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Brahmeswara Temple",
+    "state": "Karnataka",
+    "city": "Tumkur",
+    "region": "Tumakuru district",
+    "tags": [
+      "Brahmeswara",
+      "Tumkur",
+      "Shaiva"
+    ],
+    "story": "Brahmeswara Temple is listed as a Shiva temple node in the Tumkur (Tumakuru) district coverage set.",
+    "highlight": "Tumkur Shiva anchor: Brahmeswara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:28:46+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Brahmeswara Temple is included in the Tumkur (Tumakuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Tumkur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Tumakuru district",
+          "url": "https://en.wikipedia.org/wiki/Tumakuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rameshwara Temple",
+    "state": "Karnataka",
+    "city": "Tumkur",
+    "region": "Tumakuru district",
+    "tags": [
+      "Rameshwara",
+      "Tumkur",
+      "Shaiva"
+    ],
+    "story": "Rameshwara Temple is listed as a Shiva temple node in the Tumkur (Tumakuru) district coverage set.",
+    "highlight": "Tumkur Shiva anchor: Rameshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:28:47+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Rameshwara Temple is included in the Tumkur (Tumakuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Tumkur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Tumakuru district",
+          "url": "https://en.wikipedia.org/wiki/Tumakuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chamarajeshwara Temple",
+    "state": "Karnataka",
+    "city": "Chamarajanagar",
+    "region": "Chamarajanagar district",
+    "tags": [
+      "Chamarajeshwara",
+      "Chamarajanagar",
+      "Shaiva"
+    ],
+    "story": "Chamarajeshwara Temple is listed as a Shiva temple node in the Chamarajanagar district coverage set.",
+    "highlight": "Chamarajanagar Shiva anchor: Chamarajeshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:30:43+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Chamarajeshwara Temple is included in the Chamarajanagar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chamarajanagar and MM Hills temple circuit.",
+      "sources": [
+        {
+          "label": "Chamarajanagar district",
+          "url": "https://en.wikipedia.org/wiki/Chamarajanagar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Chamarajanagar",
+    "region": "Chamarajanagar district",
+    "tags": [
+      "Someshwara",
+      "Chamarajanagar",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Chamarajanagar district coverage set.",
+    "highlight": "Chamarajanagar Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:30:44+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Chamarajanagar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chamarajanagar and MM Hills temple circuit.",
+      "sources": [
+        {
+          "label": "Chamarajanagar district",
+          "url": "https://en.wikipedia.org/wiki/Chamarajanagar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Chamarajanagar",
+    "region": "Chamarajanagar district",
+    "tags": [
+      "Mallikarjuna",
+      "Chamarajanagar",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Chamarajanagar district coverage set.",
+    "highlight": "Chamarajanagar Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:30:45+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Chamarajanagar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chamarajanagar and MM Hills temple circuit.",
+      "sources": [
+        {
+          "label": "Chamarajanagar district",
+          "url": "https://en.wikipedia.org/wiki/Chamarajanagar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nanjundeshwara Temple",
+    "state": "Karnataka",
+    "city": "Chamarajanagar",
+    "region": "Chamarajanagar district",
+    "tags": [
+      "Nanjundeshwara",
+      "Chamarajanagar",
+      "Shaiva"
+    ],
+    "story": "Nanjundeshwara Temple is listed as a Shiva temple node in the Chamarajanagar district coverage set.",
+    "highlight": "Chamarajanagar Shiva anchor: Nanjundeshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:30:46+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Nanjundeshwara Temple is included in the Chamarajanagar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chamarajanagar and MM Hills temple circuit.",
+      "sources": [
+        {
+          "label": "Chamarajanagar district",
+          "url": "https://en.wikipedia.org/wiki/Chamarajanagar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalleshwara Temple",
+    "state": "Karnataka",
+    "city": "Chamarajanagar",
+    "region": "Chamarajanagar district",
+    "tags": [
+      "Kalleshwara",
+      "Chamarajanagar",
+      "Shaiva"
+    ],
+    "story": "Kalleshwara Temple is listed as a Shiva temple node in the Chamarajanagar district coverage set.",
+    "highlight": "Chamarajanagar Shiva anchor: Kalleshwara Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:30:47+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kalleshwara Temple is included in the Chamarajanagar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chamarajanagar and MM Hills temple circuit.",
+      "sources": [
+        {
+          "label": "Chamarajanagar district",
+          "url": "https://en.wikipedia.org/wiki/Chamarajanagar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ramalingeshwara Temple",
+    "state": "Karnataka",
+    "city": "Chamarajanagar",
+    "region": "Chamarajanagar district",
+    "tags": [
+      "Ramalingeshwara",
+      "Chamarajanagar",
+      "Shaiva"
+    ],
+    "story": "Ramalingeshwara Temple is listed as a Shiva temple node in the Chamarajanagar district coverage set.",
+    "highlight": "Chamarajanagar Shiva anchor: Ramalingeshwara Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:30:48+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Ramalingeshwara Temple is included in the Chamarajanagar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chamarajanagar and MM Hills temple circuit.",
+      "sources": [
+        {
+          "label": "Chamarajanagar district",
+          "url": "https://en.wikipedia.org/wiki/Chamarajanagar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Chamarajanagar",
+    "region": "Chamarajanagar district",
+    "tags": [
+      "Siddheshwara",
+      "Chamarajanagar",
+      "Shaiva"
+    ],
+    "story": "Siddheshwara Temple is listed as a Shiva temple node in the Chamarajanagar district coverage set.",
+    "highlight": "Chamarajanagar Shiva anchor: Siddheshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:30:49+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwara Temple is included in the Chamarajanagar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chamarajanagar and MM Hills temple circuit.",
+      "sources": [
+        {
+          "label": "Chamarajanagar district",
+          "url": "https://en.wikipedia.org/wiki/Chamarajanagar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sangameshwara Temple",
+    "state": "Karnataka",
+    "city": "Chamarajanagar",
+    "region": "Chamarajanagar district",
+    "tags": [
+      "Sangameshwara",
+      "Chamarajanagar",
+      "Shaiva"
+    ],
+    "story": "Sangameshwara Temple is listed as a Shiva temple node in the Chamarajanagar district coverage set.",
+    "highlight": "Chamarajanagar Shiva anchor: Sangameshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:30:50+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sangameshwara Temple is included in the Chamarajanagar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chamarajanagar and MM Hills temple circuit.",
+      "sources": [
+        {
+          "label": "Chamarajanagar district",
+          "url": "https://en.wikipedia.org/wiki/Chamarajanagar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahadeshwara Swamy Temple",
+    "state": "Karnataka",
+    "city": "Chamarajanagar",
+    "region": "Chamarajanagar district",
+    "tags": [
+      "Mahadeshwara Swamy",
+      "Chamarajanagar",
+      "Shaiva"
+    ],
+    "story": "Mahadeshwara Swamy Temple is listed as a Shiva temple node in the Chamarajanagar district coverage set.",
+    "highlight": "Chamarajanagar Shiva anchor: Mahadeshwara Swamy Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:30:51+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mahadeshwara Swamy Temple is included in the Chamarajanagar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chamarajanagar and MM Hills temple circuit.",
+      "sources": [
+        {
+          "label": "Chamarajanagar district",
+          "url": "https://en.wikipedia.org/wiki/Chamarajanagar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chandramauleshwara Temple",
+    "state": "Karnataka",
+    "city": "Chamarajanagar",
+    "region": "Chamarajanagar district",
+    "tags": [
+      "Chandramauleshwara",
+      "Chamarajanagar",
+      "Shaiva"
+    ],
+    "story": "Chandramauleshwara Temple is listed as a Shiva temple node in the Chamarajanagar district coverage set.",
+    "highlight": "Chamarajanagar Shiva anchor: Chandramauleshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:30:52+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Chandramauleshwara Temple is included in the Chamarajanagar district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chamarajanagar and MM Hills temple circuit.",
+      "sources": [
+        {
+          "label": "Chamarajanagar district",
+          "url": "https://en.wikipedia.org/wiki/Chamarajanagar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple (Mudukuthore)",
+    "state": "Karnataka",
+    "city": "Mysore",
+    "region": "Mysuru district",
+    "tags": [
+      "Mallikarjuna Temple (Mudukuthore)",
+      "Mysore",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple (Mudukuthore) is listed as a Shiva temple node in the Mysore (Mysuru) district coverage set.",
+    "highlight": "Mysore Shiva anchor: Mallikarjuna Temple (Mudukuthore).",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:32:17+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple (Mudukuthore) is included in the Mysore (Mysuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mysore city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Mysuru district",
+          "url": "https://en.wikipedia.org/wiki/Mysuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vaidyanatheshwara Temple",
+    "state": "Karnataka",
+    "city": "Mysore",
+    "region": "Mysuru district",
+    "tags": [
+      "Vaidyanatheshwara",
+      "Mysore",
+      "Shaiva"
+    ],
+    "story": "Vaidyanatheshwara Temple is listed as a Shiva temple node in the Mysore (Mysuru) district coverage set.",
+    "highlight": "Mysore Shiva anchor: Vaidyanatheshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:32:18+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Vaidyanatheshwara Temple is included in the Mysore (Mysuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mysore city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Mysuru district",
+          "url": "https://en.wikipedia.org/wiki/Mysuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pataleshwara Temple",
+    "state": "Karnataka",
+    "city": "Mysore",
+    "region": "Mysuru district",
+    "tags": [
+      "Pataleshwara",
+      "Mysore",
+      "Shaiva"
+    ],
+    "story": "Pataleshwara Temple is listed as a Shiva temple node in the Mysore (Mysuru) district coverage set.",
+    "highlight": "Mysore Shiva anchor: Pataleshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:32:19+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Pataleshwara Temple is included in the Mysore (Mysuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mysore city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Mysuru district",
+          "url": "https://en.wikipedia.org/wiki/Mysuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Maruleshwara Temple",
+    "state": "Karnataka",
+    "city": "Mysore",
+    "region": "Mysuru district",
+    "tags": [
+      "Maruleshwara",
+      "Mysore",
+      "Shaiva"
+    ],
+    "story": "Maruleshwara Temple is listed as a Shiva temple node in the Mysore (Mysuru) district coverage set.",
+    "highlight": "Mysore Shiva anchor: Maruleshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:32:20+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Maruleshwara Temple is included in the Mysore (Mysuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mysore city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Mysuru district",
+          "url": "https://en.wikipedia.org/wiki/Mysuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Arkeshwara Temple",
+    "state": "Karnataka",
+    "city": "Mysore",
+    "region": "Mysuru district",
+    "tags": [
+      "Arkeshwara",
+      "Mysore",
+      "Shaiva"
+    ],
+    "story": "Arkeshwara Temple is listed as a Shiva temple node in the Mysore (Mysuru) district coverage set.",
+    "highlight": "Mysore Shiva anchor: Arkeshwara Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:32:21+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Arkeshwara Temple is included in the Mysore (Mysuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mysore city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Mysuru district",
+          "url": "https://en.wikipedia.org/wiki/Mysuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Trineshwara Swami Temple",
+    "state": "Karnataka",
+    "city": "Mysore",
+    "region": "Mysuru district",
+    "tags": [
+      "Trineshwara Swami",
+      "Mysore",
+      "Shaiva"
+    ],
+    "story": "Trineshwara Swami Temple is listed as a Shiva temple node in the Mysore (Mysuru) district coverage set.",
+    "highlight": "Mysore Shiva anchor: Trineshwara Swami Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:32:22+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Trineshwara Swami Temple is included in the Mysore (Mysuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mysore city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Mysuru district",
+          "url": "https://en.wikipedia.org/wiki/Mysuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahabaleshwara Temple (Chamundi Hills)",
+    "state": "Karnataka",
+    "city": "Mysore",
+    "region": "Mysuru district",
+    "tags": [
+      "Mahabaleshwara Temple (Chamundi Hills)",
+      "Mysore",
+      "Shaiva"
+    ],
+    "story": "Mahabaleshwara Temple (Chamundi Hills) is listed as a Shiva temple node in the Mysore (Mysuru) district coverage set.",
+    "highlight": "Mysore Shiva anchor: Mahabaleshwara Temple (Chamundi Hills).",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:32:23+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mahabaleshwara Temple (Chamundi Hills) is included in the Mysore (Mysuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mysore city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Mysuru district",
+          "url": "https://en.wikipedia.org/wiki/Mysuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kamakameshwara Temple",
+    "state": "Karnataka",
+    "city": "Mysore",
+    "region": "Mysuru district",
+    "tags": [
+      "Kamakameshwara",
+      "Mysore",
+      "Shaiva"
+    ],
+    "story": "Kamakameshwara Temple is listed as a Shiva temple node in the Mysore (Mysuru) district coverage set.",
+    "highlight": "Mysore Shiva anchor: Kamakameshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:32:24+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kamakameshwara Temple is included in the Mysore (Mysuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mysore city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Mysuru district",
+          "url": "https://en.wikipedia.org/wiki/Mysuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chandramauleshwara Temple",
+    "state": "Karnataka",
+    "city": "Mysore",
+    "region": "Mysuru district",
+    "tags": [
+      "Chandramauleshwara",
+      "Mysore",
+      "Shaiva"
+    ],
+    "story": "Chandramauleshwara Temple is listed as a Shiva temple node in the Mysore (Mysuru) district coverage set.",
+    "highlight": "Mysore Shiva anchor: Chandramauleshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:32:25+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Chandramauleshwara Temple is included in the Mysore (Mysuru) Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mysore city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Mysuru district",
+          "url": "https://en.wikipedia.org/wiki/Mysuru_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple (Basaralu)",
+    "state": "Karnataka",
+    "city": "Mandya",
+    "region": "Mandya district",
+    "tags": [
+      "Mallikarjuna Temple (Basaralu)",
+      "Mandya",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple (Basaralu) is listed as a Shiva temple node in the Mandya district coverage set.",
+    "highlight": "Mandya Shiva anchor: Mallikarjuna Temple (Basaralu).",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:47:09+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple (Basaralu) is included in the Mandya district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mandya-Basaralu-Talakadu temple circuit.",
+      "sources": [
+        {
+          "label": "Mandya district",
+          "url": "https://en.wikipedia.org/wiki/Mandya_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vaidyanatheshwara Temple (Talakad)",
+    "state": "Karnataka",
+    "city": "Mandya",
+    "region": "Mandya district",
+    "tags": [
+      "Vaidyanatheshwara Temple (Talakad)",
+      "Mandya",
+      "Shaiva"
+    ],
+    "story": "Vaidyanatheshwara Temple (Talakad) is listed as a Shiva temple node in the Mandya district coverage set.",
+    "highlight": "Mandya Shiva anchor: Vaidyanatheshwara Temple (Talakad).",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:47:10+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Vaidyanatheshwara Temple (Talakad) is included in the Mandya district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mandya-Basaralu-Talakadu temple circuit.",
+      "sources": [
+        {
+          "label": "Mandya district",
+          "url": "https://en.wikipedia.org/wiki/Mandya_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Mandya",
+    "region": "Mandya district",
+    "tags": [
+      "Someshwara",
+      "Mandya",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Mandya district coverage set.",
+    "highlight": "Mandya Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:47:11+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Mandya district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mandya-Basaralu-Talakadu temple circuit.",
+      "sources": [
+        {
+          "label": "Mandya district",
+          "url": "https://en.wikipedia.org/wiki/Mandya_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Arkeshwara Temple",
+    "state": "Karnataka",
+    "city": "Mandya",
+    "region": "Mandya district",
+    "tags": [
+      "Arkeshwara",
+      "Mandya",
+      "Shaiva"
+    ],
+    "story": "Arkeshwara Temple is listed as a Shiva temple node in the Mandya district coverage set.",
+    "highlight": "Mandya Shiva anchor: Arkeshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:47:12+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Arkeshwara Temple is included in the Mandya district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mandya-Basaralu-Talakadu temple circuit.",
+      "sources": [
+        {
+          "label": "Mandya district",
+          "url": "https://en.wikipedia.org/wiki/Mandya_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pataleshwara Temple",
+    "state": "Karnataka",
+    "city": "Mandya",
+    "region": "Mandya district",
+    "tags": [
+      "Pataleshwara",
+      "Mandya",
+      "Shaiva"
+    ],
+    "story": "Pataleshwara Temple is listed as a Shiva temple node in the Mandya district coverage set.",
+    "highlight": "Mandya Shiva anchor: Pataleshwara Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:47:13+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Pataleshwara Temple is included in the Mandya district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mandya-Basaralu-Talakadu temple circuit.",
+      "sources": [
+        {
+          "label": "Mandya district",
+          "url": "https://en.wikipedia.org/wiki/Mandya_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Maruleshwara Temple",
+    "state": "Karnataka",
+    "city": "Mandya",
+    "region": "Mandya district",
+    "tags": [
+      "Maruleshwara",
+      "Mandya",
+      "Shaiva"
+    ],
+    "story": "Maruleshwara Temple is listed as a Shiva temple node in the Mandya district coverage set.",
+    "highlight": "Mandya Shiva anchor: Maruleshwara Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:47:14+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Maruleshwara Temple is included in the Mandya district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mandya-Basaralu-Talakadu temple circuit.",
+      "sources": [
+        {
+          "label": "Mandya district",
+          "url": "https://en.wikipedia.org/wiki/Mandya_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalleshwara Temple",
+    "state": "Karnataka",
+    "city": "Mandya",
+    "region": "Mandya district",
+    "tags": [
+      "Kalleshwara",
+      "Mandya",
+      "Shaiva"
+    ],
+    "story": "Kalleshwara Temple is listed as a Shiva temple node in the Mandya district coverage set.",
+    "highlight": "Mandya Shiva anchor: Kalleshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:47:15+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kalleshwara Temple is included in the Mandya district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mandya-Basaralu-Talakadu temple circuit.",
+      "sources": [
+        {
+          "label": "Mandya district",
+          "url": "https://en.wikipedia.org/wiki/Mandya_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Mandya",
+    "region": "Mandya district",
+    "tags": [
+      "Siddheshwara",
+      "Mandya",
+      "Shaiva"
+    ],
+    "story": "Siddheshwara Temple is listed as a Shiva temple node in the Mandya district coverage set.",
+    "highlight": "Mandya Shiva anchor: Siddheshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:47:16+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwara Temple is included in the Mandya district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mandya-Basaralu-Talakadu temple circuit.",
+      "sources": [
+        {
+          "label": "Mandya district",
+          "url": "https://en.wikipedia.org/wiki/Mandya_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nandishwara Temple",
+    "state": "Karnataka",
+    "city": "Mandya",
+    "region": "Mandya district",
+    "tags": [
+      "Nandishwara",
+      "Mandya",
+      "Shaiva"
+    ],
+    "story": "Nandishwara Temple is listed as a Shiva temple node in the Mandya district coverage set.",
+    "highlight": "Mandya Shiva anchor: Nandishwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:47:17+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Nandishwara Temple is included in the Mandya district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mandya-Basaralu-Talakadu temple circuit.",
+      "sources": [
+        {
+          "label": "Mandya district",
+          "url": "https://en.wikipedia.org/wiki/Mandya_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amrutheswara Temple",
+    "state": "Karnataka",
+    "city": "Mandya",
+    "region": "Mandya district",
+    "tags": [
+      "Amrutheswara",
+      "Mandya",
+      "Shaiva"
+    ],
+    "story": "Amrutheswara Temple is listed as a Shiva temple node in the Mandya district coverage set.",
+    "highlight": "Mandya Shiva anchor: Amrutheswara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:47:18+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Amrutheswara Temple is included in the Mandya district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Mandya-Basaralu-Talakadu temple circuit.",
+      "sources": [
+        {
+          "label": "Mandya district",
+          "url": "https://en.wikipedia.org/wiki/Mandya_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ishvara Temple (Arasikere)",
+    "state": "Karnataka",
+    "city": "Hassan",
+    "region": "Hassan district",
+    "tags": [
+      "Ishvara Temple (Arasikere)",
+      "Hassan",
+      "Shaiva"
+    ],
+    "story": "Ishvara Temple (Arasikere) is listed as a Shiva temple node in the Hassan district coverage set.",
+    "highlight": "Hassan Shiva anchor: Ishvara Temple (Arasikere).",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:50:18+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Ishvara Temple (Arasikere) is included in the Hassan district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Hassan-Halebidu-Arasikere temple circuit.",
+      "sources": [
+        {
+          "label": "Hassan district",
+          "url": "https://en.wikipedia.org/wiki/Hassan_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bucheshwara Temple (Koravangala)",
+    "state": "Karnataka",
+    "city": "Hassan",
+    "region": "Hassan district",
+    "tags": [
+      "Bucheshwara Temple (Koravangala)",
+      "Hassan",
+      "Shaiva"
+    ],
+    "story": "Bucheshwara Temple (Koravangala) is listed as a Shiva temple node in the Hassan district coverage set.",
+    "highlight": "Hassan Shiva anchor: Bucheshwara Temple (Koravangala).",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:50:19+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Bucheshwara Temple (Koravangala) is included in the Hassan district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Hassan-Halebidu-Arasikere temple circuit.",
+      "sources": [
+        {
+          "label": "Hassan district",
+          "url": "https://en.wikipedia.org/wiki/Hassan_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kedareshwara Temple (Halebidu)",
+    "state": "Karnataka",
+    "city": "Hassan",
+    "region": "Hassan district",
+    "tags": [
+      "Kedareshwara Temple (Halebidu)",
+      "Hassan",
+      "Shaiva"
+    ],
+    "story": "Kedareshwara Temple (Halebidu) is listed as a Shiva temple node in the Hassan district coverage set.",
+    "highlight": "Hassan Shiva anchor: Kedareshwara Temple (Halebidu).",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:50:20+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kedareshwara Temple (Halebidu) is included in the Hassan district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Hassan-Halebidu-Arasikere temple circuit.",
+      "sources": [
+        {
+          "label": "Hassan district",
+          "url": "https://en.wikipedia.org/wiki/Hassan_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalleshwara Temple",
+    "state": "Karnataka",
+    "city": "Hassan",
+    "region": "Hassan district",
+    "tags": [
+      "Kalleshwara",
+      "Hassan",
+      "Shaiva"
+    ],
+    "story": "Kalleshwara Temple is listed as a Shiva temple node in the Hassan district coverage set.",
+    "highlight": "Hassan Shiva anchor: Kalleshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:50:21+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kalleshwara Temple is included in the Hassan district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Hassan-Halebidu-Arasikere temple circuit.",
+      "sources": [
+        {
+          "label": "Hassan district",
+          "url": "https://en.wikipedia.org/wiki/Hassan_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Hassan",
+    "region": "Hassan district",
+    "tags": [
+      "Someshwara",
+      "Hassan",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Hassan district coverage set.",
+    "highlight": "Hassan Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:50:22+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Hassan district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Hassan-Halebidu-Arasikere temple circuit.",
+      "sources": [
+        {
+          "label": "Hassan district",
+          "url": "https://en.wikipedia.org/wiki/Hassan_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Hassan",
+    "region": "Hassan district",
+    "tags": [
+      "Mallikarjuna",
+      "Hassan",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Hassan district coverage set.",
+    "highlight": "Hassan Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:50:23+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Hassan district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Hassan-Halebidu-Arasikere temple circuit.",
+      "sources": [
+        {
+          "label": "Hassan district",
+          "url": "https://en.wikipedia.org/wiki/Hassan_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Hassan",
+    "region": "Hassan district",
+    "tags": [
+      "Siddheshwara",
+      "Hassan",
+      "Shaiva"
+    ],
+    "story": "Siddheshwara Temple is listed as a Shiva temple node in the Hassan district coverage set.",
+    "highlight": "Hassan Shiva anchor: Siddheshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:50:24+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwara Temple is included in the Hassan district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Hassan-Halebidu-Arasikere temple circuit.",
+      "sources": [
+        {
+          "label": "Hassan district",
+          "url": "https://en.wikipedia.org/wiki/Hassan_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nanjundeshwara Temple",
+    "state": "Karnataka",
+    "city": "Hassan",
+    "region": "Hassan district",
+    "tags": [
+      "Nanjundeshwara",
+      "Hassan",
+      "Shaiva"
+    ],
+    "story": "Nanjundeshwara Temple is listed as a Shiva temple node in the Hassan district coverage set.",
+    "highlight": "Hassan Shiva anchor: Nanjundeshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:50:25+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Nanjundeshwara Temple is included in the Hassan district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Hassan-Halebidu-Arasikere temple circuit.",
+      "sources": [
+        {
+          "label": "Hassan district",
+          "url": "https://en.wikipedia.org/wiki/Hassan_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amrutheswara Temple",
+    "state": "Karnataka",
+    "city": "Hassan",
+    "region": "Hassan district",
+    "tags": [
+      "Amrutheswara",
+      "Hassan",
+      "Shaiva"
+    ],
+    "story": "Amrutheswara Temple is listed as a Shiva temple node in the Hassan district coverage set.",
+    "highlight": "Hassan Shiva anchor: Amrutheswara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:50:26+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Amrutheswara Temple is included in the Hassan district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Hassan-Halebidu-Arasikere temple circuit.",
+      "sources": [
+        {
+          "label": "Hassan district",
+          "url": "https://en.wikipedia.org/wiki/Hassan_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chandramauleshwara Temple",
+    "state": "Karnataka",
+    "city": "Hassan",
+    "region": "Hassan district",
+    "tags": [
+      "Chandramauleshwara",
+      "Hassan",
+      "Shaiva"
+    ],
+    "story": "Chandramauleshwara Temple is listed as a Shiva temple node in the Hassan district coverage set.",
+    "highlight": "Hassan Shiva anchor: Chandramauleshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:50:27+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Chandramauleshwara Temple is included in the Hassan district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Hassan-Halebidu-Arasikere temple circuit.",
+      "sources": [
+        {
+          "label": "Hassan district",
+          "url": "https://en.wikipedia.org/wiki/Hassan_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aghoreshwara Temple (Ikkeri)",
+    "state": "Karnataka",
+    "city": "Shivamogga",
+    "region": "Shivamogga district",
+    "tags": [
+      "Aghoreshwara Temple (Ikkeri)",
+      "Shivamogga",
+      "Shaiva"
+    ],
+    "story": "Aghoreshwara Temple (Ikkeri) is listed as a Shiva temple node in the Shivamogga district coverage set.",
+    "highlight": "Shivamogga Shiva anchor: Aghoreshwara Temple (Ikkeri).",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:52:29+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Aghoreshwara Temple (Ikkeri) is included in the Shivamogga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Shivamogga-Ikkeri-Keladi heritage circuit.",
+      "sources": [
+        {
+          "label": "Shivamogga district",
+          "url": "https://en.wikipedia.org/wiki/Shivamogga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rameshwara Temple (Keladi)",
+    "state": "Karnataka",
+    "city": "Shivamogga",
+    "region": "Shivamogga district",
+    "tags": [
+      "Rameshwara Temple (Keladi)",
+      "Shivamogga",
+      "Shaiva"
+    ],
+    "story": "Rameshwara Temple (Keladi) is listed as a Shiva temple node in the Shivamogga district coverage set.",
+    "highlight": "Shivamogga Shiva anchor: Rameshwara Temple (Keladi).",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:52:30+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Rameshwara Temple (Keladi) is included in the Shivamogga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Shivamogga-Ikkeri-Keladi heritage circuit.",
+      "sources": [
+        {
+          "label": "Shivamogga district",
+          "url": "https://en.wikipedia.org/wiki/Shivamogga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kedareshwara Temple (Balligavi)",
+    "state": "Karnataka",
+    "city": "Shivamogga",
+    "region": "Shivamogga district",
+    "tags": [
+      "Kedareshwara Temple (Balligavi)",
+      "Shivamogga",
+      "Shaiva"
+    ],
+    "story": "Kedareshwara Temple (Balligavi) is listed as a Shiva temple node in the Shivamogga district coverage set.",
+    "highlight": "Shivamogga Shiva anchor: Kedareshwara Temple (Balligavi).",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:52:31+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kedareshwara Temple (Balligavi) is included in the Shivamogga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Shivamogga-Ikkeri-Keladi heritage circuit.",
+      "sources": [
+        {
+          "label": "Shivamogga district",
+          "url": "https://en.wikipedia.org/wiki/Shivamogga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tripurantaka Temple",
+    "state": "Karnataka",
+    "city": "Shivamogga",
+    "region": "Shivamogga district",
+    "tags": [
+      "Tripurantaka",
+      "Shivamogga",
+      "Shaiva"
+    ],
+    "story": "Tripurantaka Temple is listed as a Shiva temple node in the Shivamogga district coverage set.",
+    "highlight": "Shivamogga Shiva anchor: Tripurantaka Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:52:32+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Tripurantaka Temple is included in the Shivamogga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Shivamogga-Ikkeri-Keladi heritage circuit.",
+      "sources": [
+        {
+          "label": "Shivamogga district",
+          "url": "https://en.wikipedia.org/wiki/Shivamogga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Shivamogga",
+    "region": "Shivamogga district",
+    "tags": [
+      "Siddheshwara",
+      "Shivamogga",
+      "Shaiva"
+    ],
+    "story": "Siddheshwara Temple is listed as a Shiva temple node in the Shivamogga district coverage set.",
+    "highlight": "Shivamogga Shiva anchor: Siddheshwara Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:52:33+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwara Temple is included in the Shivamogga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Shivamogga-Ikkeri-Keladi heritage circuit.",
+      "sources": [
+        {
+          "label": "Shivamogga district",
+          "url": "https://en.wikipedia.org/wiki/Shivamogga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pranaveshwara Temple (Talagunda)",
+    "state": "Karnataka",
+    "city": "Shivamogga",
+    "region": "Shivamogga district",
+    "tags": [
+      "Pranaveshwara Temple (Talagunda)",
+      "Shivamogga",
+      "Shaiva"
+    ],
+    "story": "Pranaveshwara Temple (Talagunda) is listed as a Shiva temple node in the Shivamogga district coverage set.",
+    "highlight": "Shivamogga Shiva anchor: Pranaveshwara Temple (Talagunda).",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:52:34+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Pranaveshwara Temple (Talagunda) is included in the Shivamogga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Shivamogga-Ikkeri-Keladi heritage circuit.",
+      "sources": [
+        {
+          "label": "Shivamogga district",
+          "url": "https://en.wikipedia.org/wiki/Shivamogga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kaitabheshwara Temple (Kubatur)",
+    "state": "Karnataka",
+    "city": "Shivamogga",
+    "region": "Shivamogga district",
+    "tags": [
+      "Kaitabheshwara Temple (Kubatur)",
+      "Shivamogga",
+      "Shaiva"
+    ],
+    "story": "Kaitabheshwara Temple (Kubatur) is listed as a Shiva temple node in the Shivamogga district coverage set.",
+    "highlight": "Shivamogga Shiva anchor: Kaitabheshwara Temple (Kubatur).",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:52:35+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kaitabheshwara Temple (Kubatur) is included in the Shivamogga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Shivamogga-Ikkeri-Keladi heritage circuit.",
+      "sources": [
+        {
+          "label": "Shivamogga district",
+          "url": "https://en.wikipedia.org/wiki/Shivamogga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hidambeswara Temple",
+    "state": "Karnataka",
+    "city": "Chitradurga",
+    "region": "Chitradurga district",
+    "tags": [
+      "Hidambeswara",
+      "Chitradurga",
+      "Shaiva"
+    ],
+    "story": "Hidambeswara Temple is listed as a Shiva temple node in the Chitradurga district coverage set.",
+    "highlight": "Chitradurga Shiva anchor: Hidambeswara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:54:42+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Hidambeswara Temple is included in the Chitradurga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chitradurga temple and heritage circuit.",
+      "sources": [
+        {
+          "label": "Chitradurga district",
+          "url": "https://en.wikipedia.org/wiki/Chitradurga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Neelakanteswara Temple",
+    "state": "Karnataka",
+    "city": "Chitradurga",
+    "region": "Chitradurga district",
+    "tags": [
+      "Neelakanteswara",
+      "Chitradurga",
+      "Shaiva"
+    ],
+    "story": "Neelakanteswara Temple is listed as a Shiva temple node in the Chitradurga district coverage set.",
+    "highlight": "Chitradurga Shiva anchor: Neelakanteswara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:54:43+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Neelakanteswara Temple is included in the Chitradurga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chitradurga temple and heritage circuit.",
+      "sources": [
+        {
+          "label": "Chitradurga district",
+          "url": "https://en.wikipedia.org/wiki/Chitradurga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sampige Siddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Chitradurga",
+    "region": "Chitradurga district",
+    "tags": [
+      "Sampige Siddheshwara",
+      "Chitradurga",
+      "Shaiva"
+    ],
+    "story": "Sampige Siddheshwara Temple is listed as a Shiva temple node in the Chitradurga district coverage set.",
+    "highlight": "Chitradurga Shiva anchor: Sampige Siddheshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:54:44+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sampige Siddheshwara Temple is included in the Chitradurga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chitradurga temple and heritage circuit.",
+      "sources": [
+        {
+          "label": "Chitradurga district",
+          "url": "https://en.wikipedia.org/wiki/Chitradurga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ekanatheshwari Temple (Shiva-Shakti complex)",
+    "state": "Karnataka",
+    "city": "Chitradurga",
+    "region": "Chitradurga district",
+    "tags": [
+      "Ekanatheshwari Temple (Shiva-Shakti complex)",
+      "Chitradurga",
+      "Shaiva"
+    ],
+    "story": "Ekanatheshwari Temple (Shiva-Shakti complex) is listed as a Shiva temple node in the Chitradurga district coverage set.",
+    "highlight": "Chitradurga Shiva anchor: Ekanatheshwari Temple (Shiva-Shakti complex).",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:54:45+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Ekanatheshwari Temple (Shiva-Shakti complex) is included in the Chitradurga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chitradurga temple and heritage circuit.",
+      "sources": [
+        {
+          "label": "Chitradurga district",
+          "url": "https://en.wikipedia.org/wiki/Chitradurga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Phalguneshwara Swamy Temple",
+    "state": "Karnataka",
+    "city": "Chitradurga",
+    "region": "Chitradurga district",
+    "tags": [
+      "Phalguneshwara Swamy",
+      "Chitradurga",
+      "Shaiva"
+    ],
+    "story": "Phalguneshwara Swamy Temple is listed as a Shiva temple node in the Chitradurga district coverage set.",
+    "highlight": "Chitradurga Shiva anchor: Phalguneshwara Swamy Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:54:46+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Phalguneshwara Swamy Temple is included in the Chitradurga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chitradurga temple and heritage circuit.",
+      "sources": [
+        {
+          "label": "Chitradurga district",
+          "url": "https://en.wikipedia.org/wiki/Chitradurga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chandravalli Caves (Ankali Mutt Shiva Temple)",
+    "state": "Karnataka",
+    "city": "Chitradurga",
+    "region": "Chitradurga district",
+    "tags": [
+      "Chandravalli Caves (Ankali Mutt Shiva Temple)",
+      "Chitradurga",
+      "Shaiva"
+    ],
+    "story": "Chandravalli Caves (Ankali Mutt Shiva Temple) is listed as a Shiva temple node in the Chitradurga district coverage set.",
+    "highlight": "Chitradurga Shiva anchor: Chandravalli Caves (Ankali Mutt Shiva Temple).",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:54:47+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Chandravalli Caves (Ankali Mutt Shiva Temple) is included in the Chitradurga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chitradurga temple and heritage circuit.",
+      "sources": [
+        {
+          "label": "Chitradurga district",
+          "url": "https://en.wikipedia.org/wiki/Chitradurga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Chitradurga",
+    "region": "Chitradurga district",
+    "tags": [
+      "Mallikarjuna",
+      "Chitradurga",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Chitradurga district coverage set.",
+    "highlight": "Chitradurga Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:54:48+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Chitradurga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chitradurga temple and heritage circuit.",
+      "sources": [
+        {
+          "label": "Chitradurga district",
+          "url": "https://en.wikipedia.org/wiki/Chitradurga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Chitradurga",
+    "region": "Chitradurga district",
+    "tags": [
+      "Someshwara",
+      "Chitradurga",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Chitradurga district coverage set.",
+    "highlight": "Chitradurga Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:54:49+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Chitradurga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chitradurga temple and heritage circuit.",
+      "sources": [
+        {
+          "label": "Chitradurga district",
+          "url": "https://en.wikipedia.org/wiki/Chitradurga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalleshwara Temple",
+    "state": "Karnataka",
+    "city": "Chitradurga",
+    "region": "Chitradurga district",
+    "tags": [
+      "Kalleshwara",
+      "Chitradurga",
+      "Shaiva"
+    ],
+    "story": "Kalleshwara Temple is listed as a Shiva temple node in the Chitradurga district coverage set.",
+    "highlight": "Chitradurga Shiva anchor: Kalleshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:54:50+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kalleshwara Temple is included in the Chitradurga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chitradurga temple and heritage circuit.",
+      "sources": [
+        {
+          "label": "Chitradurga district",
+          "url": "https://en.wikipedia.org/wiki/Chitradurga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rameshwara Temple",
+    "state": "Karnataka",
+    "city": "Chitradurga",
+    "region": "Chitradurga district",
+    "tags": [
+      "Rameshwara",
+      "Chitradurga",
+      "Shaiva"
+    ],
+    "story": "Rameshwara Temple is listed as a Shiva temple node in the Chitradurga district coverage set.",
+    "highlight": "Chitradurga Shiva anchor: Rameshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T13:54:51+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Rameshwara Temple is included in the Chitradurga district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Chitradurga temple and heritage circuit.",
+      "sources": [
+        {
+          "label": "Chitradurga district",
+          "url": "https://en.wikipedia.org/wiki/Chitradurga_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ancient Shri Trikuteshwara Swamy Temple",
+    "state": "Karnataka",
+    "city": "Gadag",
+    "region": "Gadag district",
+    "tags": [
+      "Ancient Shri Trikuteshwara Swamy",
+      "Gadag",
+      "Shaiva"
+    ],
+    "story": "Ancient Shri Trikuteshwara Swamy Temple is listed as a Shiva temple node in the Gadag district coverage set.",
+    "highlight": "Gadag Shiva anchor: Ancient Shri Trikuteshwara Swamy Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:56:22+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Ancient Shri Trikuteshwara Swamy Temple is included in the Gadag district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Gadag-Dambal temple circuit.",
+      "sources": [
+        {
+          "label": "Gadag district",
+          "url": "https://en.wikipedia.org/wiki/Gadag_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dodda Basappa Temple (Dambal)",
+    "state": "Karnataka",
+    "city": "Gadag",
+    "region": "Gadag district",
+    "tags": [
+      "Dodda Basappa Temple (Dambal)",
+      "Gadag",
+      "Shaiva"
+    ],
+    "story": "Dodda Basappa Temple (Dambal) is listed as a Shiva temple node in the Gadag district coverage set.",
+    "highlight": "Gadag Shiva anchor: Dodda Basappa Temple (Dambal).",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:56:23+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Dodda Basappa Temple (Dambal) is included in the Gadag district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Gadag-Dambal temple circuit.",
+      "sources": [
+        {
+          "label": "Gadag district",
+          "url": "https://en.wikipedia.org/wiki/Gadag_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chandramauleshwara Temple",
+    "state": "Karnataka",
+    "city": "Gadag",
+    "region": "Gadag district",
+    "tags": [
+      "Chandramauleshwara",
+      "Gadag",
+      "Shaiva"
+    ],
+    "story": "Chandramauleshwara Temple is listed as a Shiva temple node in the Gadag district coverage set.",
+    "highlight": "Gadag Shiva anchor: Chandramauleshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:56:24+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Chandramauleshwara Temple is included in the Gadag district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Gadag-Dambal temple circuit.",
+      "sources": [
+        {
+          "label": "Gadag district",
+          "url": "https://en.wikipedia.org/wiki/Gadag_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nandishwara Temple",
+    "state": "Karnataka",
+    "city": "Gadag",
+    "region": "Gadag district",
+    "tags": [
+      "Nandishwara",
+      "Gadag",
+      "Shaiva"
+    ],
+    "story": "Nandishwara Temple is listed as a Shiva temple node in the Gadag district coverage set.",
+    "highlight": "Gadag Shiva anchor: Nandishwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:56:25+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Nandishwara Temple is included in the Gadag district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Gadag-Dambal temple circuit.",
+      "sources": [
+        {
+          "label": "Gadag district",
+          "url": "https://en.wikipedia.org/wiki/Gadag_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ramalingeshwara Temple",
+    "state": "Karnataka",
+    "city": "Gadag",
+    "region": "Gadag district",
+    "tags": [
+      "Ramalingeshwara",
+      "Gadag",
+      "Shaiva"
+    ],
+    "story": "Ramalingeshwara Temple is listed as a Shiva temple node in the Gadag district coverage set.",
+    "highlight": "Gadag Shiva anchor: Ramalingeshwara Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:56:26+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Ramalingeshwara Temple is included in the Gadag district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Gadag-Dambal temple circuit.",
+      "sources": [
+        {
+          "label": "Gadag district",
+          "url": "https://en.wikipedia.org/wiki/Gadag_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shivaratreshwara Devasthana",
+    "state": "Karnataka",
+    "city": "Koppal",
+    "region": "Koppal district",
+    "tags": [
+      "Shivaratreshwara Devasthana",
+      "Koppal",
+      "Shaiva"
+    ],
+    "story": "Shivaratreshwara Devasthana is listed as a Shiva temple node in the Koppal district coverage set.",
+    "highlight": "Koppal Shiva anchor: Shivaratreshwara Devasthana.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:59:13+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Shivaratreshwara Devasthana is included in the Koppal district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Koppal and nearby heritage temple circuit.",
+      "sources": [
+        {
+          "label": "Koppal district",
+          "url": "https://en.wikipedia.org/wiki/Koppal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Gavisiddheshwara Matha",
+    "state": "Karnataka",
+    "city": "Koppal",
+    "region": "Koppal district",
+    "tags": [
+      "Shri Gavisiddheshwara Matha",
+      "Koppal",
+      "Shaiva"
+    ],
+    "story": "Shri Gavisiddheshwara Matha is listed as a Shiva temple node in the Koppal district coverage set.",
+    "highlight": "Koppal Shiva anchor: Shri Gavisiddheshwara Matha.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:59:14+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Shri Gavisiddheshwara Matha is included in the Koppal district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Koppal and nearby heritage temple circuit.",
+      "sources": [
+        {
+          "label": "Koppal district",
+          "url": "https://en.wikipedia.org/wiki/Koppal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Malemalleshwara Swamy Temple",
+    "state": "Karnataka",
+    "city": "Koppal",
+    "region": "Koppal district",
+    "tags": [
+      "Shri Malemalleshwara Swamy",
+      "Koppal",
+      "Shaiva"
+    ],
+    "story": "Shri Malemalleshwara Swamy Temple is listed as a Shiva temple node in the Koppal district coverage set.",
+    "highlight": "Koppal Shiva anchor: Shri Malemalleshwara Swamy Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:59:15+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Shri Malemalleshwara Swamy Temple is included in the Koppal district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Koppal and nearby heritage temple circuit.",
+      "sources": [
+        {
+          "label": "Koppal district",
+          "url": "https://en.wikipedia.org/wiki/Koppal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Eshwara Temple",
+    "state": "Karnataka",
+    "city": "Koppal",
+    "region": "Koppal district",
+    "tags": [
+      "Eshwara",
+      "Koppal",
+      "Shaiva"
+    ],
+    "story": "Eshwara Temple is listed as a Shiva temple node in the Koppal district coverage set.",
+    "highlight": "Koppal Shiva anchor: Eshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:59:16+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Eshwara Temple is included in the Koppal district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Koppal and nearby heritage temple circuit.",
+      "sources": [
+        {
+          "label": "Koppal district",
+          "url": "https://en.wikipedia.org/wiki/Koppal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiv Temple",
+    "state": "Karnataka",
+    "city": "Koppal",
+    "region": "Koppal district",
+    "tags": [
+      "Shiv",
+      "Koppal",
+      "Shaiva"
+    ],
+    "story": "Shiv Temple is listed as a Shiva temple node in the Koppal district coverage set.",
+    "highlight": "Koppal Shiva anchor: Shiv Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:59:17+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Shiv Temple is included in the Koppal district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Koppal and nearby heritage temple circuit.",
+      "sources": [
+        {
+          "label": "Koppal district",
+          "url": "https://en.wikipedia.org/wiki/Koppal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahadeva Temple (Itagi)",
+    "state": "Karnataka",
+    "city": "Koppal",
+    "region": "Koppal district",
+    "tags": [
+      "Mahadeva Temple (Itagi)",
+      "Koppal",
+      "Shaiva"
+    ],
+    "story": "Mahadeva Temple (Itagi) is listed as a Shiva temple node in the Koppal district coverage set.",
+    "highlight": "Koppal Shiva anchor: Mahadeva Temple (Itagi).",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:59:18+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mahadeva Temple (Itagi) is included in the Koppal district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Koppal and nearby heritage temple circuit.",
+      "sources": [
+        {
+          "label": "Koppal district",
+          "url": "https://en.wikipedia.org/wiki/Koppal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple",
+    "state": "Karnataka",
+    "city": "Koppal",
+    "region": "Koppal district",
+    "tags": [
+      "Mallikarjuna",
+      "Koppal",
+      "Shaiva"
+    ],
+    "story": "Mallikarjuna Temple is listed as a Shiva temple node in the Koppal district coverage set.",
+    "highlight": "Koppal Shiva anchor: Mallikarjuna Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:59:19+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Mallikarjuna Temple is included in the Koppal district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Koppal and nearby heritage temple circuit.",
+      "sources": [
+        {
+          "label": "Koppal district",
+          "url": "https://en.wikipedia.org/wiki/Koppal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Koppal",
+    "region": "Koppal district",
+    "tags": [
+      "Someshwara",
+      "Koppal",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Koppal district coverage set.",
+    "highlight": "Koppal Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:59:20+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Koppal district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Koppal and nearby heritage temple circuit.",
+      "sources": [
+        {
+          "label": "Koppal district",
+          "url": "https://en.wikipedia.org/wiki/Koppal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalleshwara Temple",
+    "state": "Karnataka",
+    "city": "Koppal",
+    "region": "Koppal district",
+    "tags": [
+      "Kalleshwara",
+      "Koppal",
+      "Shaiva"
+    ],
+    "story": "Kalleshwara Temple is listed as a Shiva temple node in the Koppal district coverage set.",
+    "highlight": "Koppal Shiva anchor: Kalleshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:59:21+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Kalleshwara Temple is included in the Koppal district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Koppal and nearby heritage temple circuit.",
+      "sources": [
+        {
+          "label": "Koppal district",
+          "url": "https://en.wikipedia.org/wiki/Koppal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Koppal",
+    "region": "Koppal district",
+    "tags": [
+      "Siddheshwara",
+      "Koppal",
+      "Shaiva"
+    ],
+    "story": "Siddheshwara Temple is listed as a Shiva temple node in the Koppal district coverage set.",
+    "highlight": "Koppal Shiva anchor: Siddheshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T14:59:22+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwara Temple is included in the Koppal district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Koppal and nearby heritage temple circuit.",
+      "sources": [
+        {
+          "label": "Koppal district",
+          "url": "https://en.wikipedia.org/wiki/Koppal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sri Nandishwara Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Sri Nandishwara",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Sri Nandishwara Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Sri Nandishwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T15:02:57+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sri Nandishwara Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Siddheshwara",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Siddheshwara Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Siddheshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T15:02:58+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwara Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ramalingeshwara Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Ramalingeshwara",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Ramalingeshwara Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Ramalingeshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T15:02:59+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Ramalingeshwara Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sri Shiva Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Sri Shiva",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Sri Shiva Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Sri Shiva Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T15:03:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sri Shiva Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sri Vasavi & Nagareshwara Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Sri Vasavi & Nagareshwara",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Sri Vasavi & Nagareshwara Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Sri Vasavi & Nagareshwara Temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T15:03:01+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sri Vasavi & Nagareshwara Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sri Sugureshwara Temple",
+    "state": "Karnataka",
+    "city": "Raichur",
+    "region": "Raichur district",
+    "tags": [
+      "Sri Sugureshwara",
+      "Raichur",
+      "Shaiva"
+    ],
+    "story": "Sri Sugureshwara Temple is listed as a Shiva temple node in the Raichur district coverage set.",
+    "highlight": "Raichur district Shiva anchor: Sri Sugureshwara Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T15:03:02+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Sri Sugureshwara Temple is included in the Raichur district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Raichur city and district temple circuit.",
+      "sources": [
+        {
+          "label": "Raichur district",
+          "url": "https://en.wikipedia.org/wiki/Raichur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Soma Sundareshwara Temple",
+    "state": "Karnataka",
+    "city": "Bellary",
+    "region": "Ballari district",
+    "tags": [
+      "Shri Soma Sundareshwara",
+      "Bellary",
+      "Shaiva"
+    ],
+    "story": "Shri Soma Sundareshwara Temple is listed as a Shiva temple node in the Bellary (Ballari) district coverage set.",
+    "highlight": "Bellary Shiva anchor: Shri Soma Sundareshwara Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T15:07:21+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Shri Soma Sundareshwara Temple is included in the Bellary (Ballari) district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bellary-Hampi temple circuit.",
+      "sources": [
+        {
+          "label": "Ballari district",
+          "url": "https://en.wikipedia.org/wiki/Ballari_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwara Temple",
+    "state": "Karnataka",
+    "city": "Bellary",
+    "region": "Ballari district",
+    "tags": [
+      "Someshwara",
+      "Bellary",
+      "Shaiva"
+    ],
+    "story": "Someshwara Temple is listed as a Shiva temple node in the Bellary (Ballari) district coverage set.",
+    "highlight": "Bellary Shiva anchor: Someshwara Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T15:07:22+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Someshwara Temple is included in the Bellary (Ballari) district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bellary-Hampi temple circuit.",
+      "sources": [
+        {
+          "label": "Ballari district",
+          "url": "https://en.wikipedia.org/wiki/Ballari_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwara Temple",
+    "state": "Karnataka",
+    "city": "Bellary",
+    "region": "Ballari district",
+    "tags": [
+      "Siddheshwara",
+      "Bellary",
+      "Shaiva"
+    ],
+    "story": "Siddheshwara Temple is listed as a Shiva temple node in the Bellary (Ballari) district coverage set.",
+    "highlight": "Bellary Shiva anchor: Siddheshwara Temple.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T15:07:23+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwara Temple is included in the Bellary (Ballari) district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bellary-Hampi temple circuit.",
+      "sources": [
+        {
+          "label": "Ballari district",
+          "url": "https://en.wikipedia.org/wiki/Ballari_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ramalingeshwara Temple",
+    "state": "Karnataka",
+    "city": "Bellary",
+    "region": "Ballari district",
+    "tags": [
+      "Ramalingeshwara",
+      "Bellary",
+      "Shaiva"
+    ],
+    "story": "Ramalingeshwara Temple is listed as a Shiva temple node in the Bellary (Ballari) district coverage set.",
+    "highlight": "Bellary Shiva anchor: Ramalingeshwara Temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T15:07:24+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Ramalingeshwara Temple is included in the Bellary (Ballari) district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bellary-Hampi temple circuit.",
+      "sources": [
+        {
+          "label": "Ballari district",
+          "url": "https://en.wikipedia.org/wiki/Ballari_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiva Panchayathanam Shanthi Sannidhi",
+    "state": "Karnataka",
+    "city": "Bellary",
+    "region": "Ballari district",
+    "tags": [
+      "Shiva Panchayathanam Shanthi Sannidhi",
+      "Bellary",
+      "Shaiva"
+    ],
+    "story": "Shiva Panchayathanam Shanthi Sannidhi is listed as a Shiva temple node in the Bellary (Ballari) district coverage set.",
+    "highlight": "Bellary Shiva anchor: Shiva Panchayathanam Shanthi Sannidhi.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T15:07:25+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Shiva Panchayathanam Shanthi Sannidhi is included in the Bellary (Ballari) district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bellary-Hampi temple circuit.",
+      "sources": [
+        {
+          "label": "Ballari district",
+          "url": "https://en.wikipedia.org/wiki/Ballari_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Shiva Temple",
+    "state": "Karnataka",
+    "city": "Bellary",
+    "region": "Ballari district",
+    "tags": [
+      "Shri Shiva",
+      "Bellary",
+      "Shaiva"
+    ],
+    "story": "Shri Shiva Temple is listed as a Shiva temple node in the Bellary (Ballari) district coverage set.",
+    "highlight": "Bellary Shiva anchor: Shri Shiva Temple.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T15:07:26+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Shri Shiva Temple is included in the Bellary (Ballari) district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bellary-Hampi temple circuit.",
+      "sources": [
+        {
+          "label": "Ballari district",
+          "url": "https://en.wikipedia.org/wiki/Ballari_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Sangameshwara Swamy Temple",
+    "state": "Karnataka",
+    "city": "Bellary",
+    "region": "Ballari district",
+    "tags": [
+      "Shri Sangameshwara Swamy",
+      "Bellary",
+      "Shaiva"
+    ],
+    "story": "Shri Sangameshwara Swamy Temple is listed as a Shiva temple node in the Bellary (Ballari) district coverage set.",
+    "highlight": "Bellary Shiva anchor: Shri Sangameshwara Swamy Temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T15:07:27+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Shri Sangameshwara Swamy Temple is included in the Bellary (Ballari) district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bellary-Hampi temple circuit.",
+      "sources": [
+        {
+          "label": "Ballari district",
+          "url": "https://en.wikipedia.org/wiki/Ballari_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Kote Malleshwara Swamy Temple",
+    "state": "Karnataka",
+    "city": "Bellary",
+    "region": "Ballari district",
+    "tags": [
+      "Shri Kote Malleshwara Swamy",
+      "Bellary",
+      "Shaiva"
+    ],
+    "story": "Shri Kote Malleshwara Swamy Temple is listed as a Shiva temple node in the Bellary (Ballari) district coverage set.",
+    "highlight": "Bellary Shiva anchor: Shri Kote Malleshwara Swamy Temple.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T15:07:28+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Traditional attire recommended.",
+    "entryNotes": "Please verify local darshan timings and festival schedules before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Shri Kote Malleshwara Swamy Temple is included in the Bellary (Ballari) district Shiva temple expansion list.",
+      "architecture": "Regional Karnataka temple architecture with active local worship traditions.",
+      "visitorNotes": "Can be planned as part of a Bellary-Hampi temple circuit.",
+      "sources": [
+        {
+          "label": "Ballari district",
+          "url": "https://en.wikipedia.org/wiki/Ballari_district",
           "type": "Encyclopedia"
         }
       ]

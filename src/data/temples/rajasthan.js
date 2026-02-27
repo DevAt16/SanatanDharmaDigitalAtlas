@@ -3994,6 +3994,318 @@ export const rajasthanTemples = [
     "isNew": true
   },
   {
+    "name": "Kamalnath Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Udaipur",
+    "district": "Udaipur",
+    "region": "Udaipur district",
+    "tags": [
+      "Rajasthan",
+      "Udaipur",
+      "Shiva"
+    ],
+    "story": "Kamalnath Mahadev Temple is a Shiva worship site in Udaipur district.",
+    "highlight": "Kamalnath Mahadev darshan in the Udaipur Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Kamalnath Mahadev Temple is included in the Udaipur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Udaipur district",
+          "url": "https://en.wikipedia.org/wiki/Udaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kamalnath%20Mahadev%20Temple%20Udaipur%20Rajasthan",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:38:00Z",
+    "addedAt": "2026-02-26T17:08:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Jhameshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Udaipur",
+    "district": "Udaipur",
+    "region": "Udaipur district",
+    "tags": [
+      "Rajasthan",
+      "Udaipur",
+      "Shiva"
+    ],
+    "story": "Jhameshwar Mahadev Temple is a Shiva worship site in Udaipur district.",
+    "highlight": "Jhameshwar Mahadev darshan in the Udaipur Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Jhameshwar Mahadev Temple is included in the Udaipur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Udaipur district",
+          "url": "https://en.wikipedia.org/wiki/Udaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Jhameshwar%20Mahadev%20Temple%20Udaipur%20Rajasthan",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:38:00Z",
+    "addedAt": "2026-02-26T17:08:01+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Gautameshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Udaipur",
+    "district": "Udaipur",
+    "region": "Udaipur district",
+    "tags": [
+      "Rajasthan",
+      "Udaipur",
+      "Shiva"
+    ],
+    "story": "Gautameshwar Mahadev Temple is a Shiva worship site in Udaipur district.",
+    "highlight": "Gautameshwar Mahadev darshan in the Udaipur Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Gautameshwar Mahadev Temple is included in the Udaipur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Udaipur district",
+          "url": "https://en.wikipedia.org/wiki/Udaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gautameshwar%20Mahadev%20Temple%20Udaipur%20Rajasthan",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:38:00Z",
+    "addedAt": "2026-02-26T17:08:02+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Neelkanth Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Udaipur",
+    "district": "Udaipur",
+    "region": "Udaipur district",
+    "tags": [
+      "Rajasthan",
+      "Udaipur",
+      "Shiva"
+    ],
+    "story": "Neelkanth Mahadev Temple is a Shiva worship site in Udaipur district.",
+    "highlight": "Neelkanth Mahadev darshan in the Udaipur Shaiva circuit.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Neelkanth Mahadev Temple is included in the Udaipur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Udaipur district",
+          "url": "https://en.wikipedia.org/wiki/Udaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Neelkanth%20Mahadev%20Temple%20Udaipur%20Rajasthan",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:38:00Z",
+    "addedAt": "2026-02-26T17:08:03+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Someshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Udaipur",
+    "district": "Udaipur",
+    "region": "Udaipur district",
+    "tags": [
+      "Rajasthan",
+      "Udaipur",
+      "Shiva"
+    ],
+    "story": "Someshwar Mahadev Temple is a Shiva worship site in Udaipur district.",
+    "highlight": "Someshwar Mahadev darshan in the Udaipur Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Someshwar Mahadev Temple is included in the Udaipur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Udaipur district",
+          "url": "https://en.wikipedia.org/wiki/Udaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Someshwar%20Mahadev%20Temple%20Udaipur%20Rajasthan",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:38:00Z",
+    "addedAt": "2026-02-26T17:08:04+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Rameshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Udaipur",
+    "district": "Udaipur",
+    "region": "Udaipur district",
+    "tags": [
+      "Rajasthan",
+      "Udaipur",
+      "Shiva"
+    ],
+    "story": "Rameshwar Mahadev Temple is a Shiva worship site in Udaipur district.",
+    "highlight": "Rameshwar Mahadev darshan in the Udaipur Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Rameshwar Mahadev Temple is included in the Udaipur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Udaipur district",
+          "url": "https://en.wikipedia.org/wiki/Udaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Rameshwar%20Mahadev%20Temple%20Udaipur%20Rajasthan",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:38:00Z",
+    "addedAt": "2026-02-26T17:08:05+05:30",
+    "isNew": true
+  },
+  {
     "name": "Eklingeshwar Temple",
     "state": "Rajasthan",
     "city": "Jaipur",
@@ -10903,6 +11215,4946 @@ export const rajasthanTemples = [
     "verificationStatus": "verified",
     "lastVerifiedAt": "2026-02-24T12:04:10Z",
     "addedAt": "2026-02-24T17:34:12+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Achaleshwar Mahadev Temple (Achalgarh Fort, Abu Road)",
+    "state": "Rajasthan",
+    "city": "Abu Road",
+    "district": "Sirohi",
+    "region": "Achalgarh Fort, Abu Road, Sirohi district",
+    "tags": [
+      "Rajasthan",
+      "Sirohi",
+      "Shiva"
+    ],
+    "story": "Achaleshwar Mahadev Temple (Achalgarh Fort, Abu Road) is a Shiva worship site in Sirohi district.",
+    "highlight": "Achaleshwar Mahadev Temple (Achalgarh Fort, Abu Road) in the Sirohi Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Achaleshwar Mahadev Temple (Achalgarh Fort, Abu Road) is included in the Sirohi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Sirohi district",
+          "url": "https://en.wikipedia.org/wiki/Sirohi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Achaleshwar%20Mahadev%20Temple%20Achalgarh%20Fort%20Abu%20Road",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:18:00Z",
+    "addedAt": "2026-02-26T17:48:10+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Sarneshwar Mahadev Temple (Sirohi town, Siranwa Hill)",
+    "state": "Rajasthan",
+    "city": "Sirohi",
+    "district": "Sirohi",
+    "region": "Sirohi town, Siranwa Hill, Sirohi district",
+    "tags": [
+      "Rajasthan",
+      "Sirohi",
+      "Shiva"
+    ],
+    "story": "Sarneshwar Mahadev Temple (Sirohi town, Siranwa Hill) is a Shiva worship site in Sirohi district.",
+    "highlight": "Sarneshwar Mahadev Temple (Sirohi town, Siranwa Hill) in the Sirohi Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Sarneshwar Mahadev Temple (Sirohi town, Siranwa Hill) is included in the Sirohi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Sirohi district",
+          "url": "https://en.wikipedia.org/wiki/Sirohi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sarneshwar%20Mahadev%20Temple%20Sirohi%20Siranwa%20Hill",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:18:00Z",
+    "addedAt": "2026-02-26T17:48:11+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Vastaneshwar Mahadev Temple (Isra Village, Pindwara)",
+    "state": "Rajasthan",
+    "city": "Pindwara",
+    "district": "Sirohi",
+    "region": "Isra Village, Pindwara, Sirohi district",
+    "tags": [
+      "Rajasthan",
+      "Sirohi",
+      "Shiva"
+    ],
+    "story": "Vastaneshwar Mahadev Temple (Isra Village, Pindwara) is a Shiva worship site in Sirohi district.",
+    "highlight": "Vastaneshwar Mahadev Temple (Isra Village, Pindwara) in the Sirohi Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Vastaneshwar Mahadev Temple (Isra Village, Pindwara) is included in the Sirohi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Sirohi district",
+          "url": "https://en.wikipedia.org/wiki/Sirohi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Vastaneshwar%20Mahadev%20Temple%20Isra%20Village%20Pindwara",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:18:00Z",
+    "addedAt": "2026-02-26T17:48:12+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Neelkanth Mahadev Temple (Mount Abu area)",
+    "state": "Rajasthan",
+    "city": "Mount Abu",
+    "district": "Sirohi",
+    "region": "Mount Abu area, Sirohi district",
+    "tags": [
+      "Rajasthan",
+      "Sirohi",
+      "Shiva"
+    ],
+    "story": "Neelkanth Mahadev Temple (Mount Abu area) is a Shiva worship site in Sirohi district.",
+    "highlight": "Neelkanth Mahadev Temple (Mount Abu area) in the Sirohi Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Neelkanth Mahadev Temple (Mount Abu area) is included in the Sirohi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Sirohi district",
+          "url": "https://en.wikipedia.org/wiki/Sirohi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Neelkanth%20Mahadev%20Temple%20Mount%20Abu%20Sirohi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:18:00Z",
+    "addedAt": "2026-02-26T17:48:13+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Sukhram Mahadev Temple (caves in Aravalli ranges near Sirohi)",
+    "state": "Rajasthan",
+    "city": "Sirohi",
+    "district": "Sirohi",
+    "region": "Aravalli cave belt near Sirohi, Sirohi district",
+    "tags": [
+      "Rajasthan",
+      "Sirohi",
+      "Shiva"
+    ],
+    "story": "Sukhram Mahadev Temple (caves in Aravalli ranges near Sirohi) is a Shiva worship site in Sirohi district.",
+    "highlight": "Sukhram Mahadev Temple (caves in Aravalli ranges near Sirohi) in the Sirohi Shaiva circuit.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Sukhram Mahadev Temple (caves in Aravalli ranges near Sirohi) is included in the Sirohi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Sirohi district",
+          "url": "https://en.wikipedia.org/wiki/Sirohi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sukhram%20Mahadev%20Temple%20Sirohi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:18:00Z",
+    "addedAt": "2026-02-26T17:48:14+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Mirpur Mahadev Temple (Mirpur village, near Banas River)",
+    "state": "Rajasthan",
+    "city": "Mirpur",
+    "district": "Sirohi",
+    "region": "Mirpur village, Banas river zone, Sirohi district",
+    "tags": [
+      "Rajasthan",
+      "Sirohi",
+      "Shiva"
+    ],
+    "story": "Mirpur Mahadev Temple (Mirpur village, near Banas River) is a Shiva worship site in Sirohi district.",
+    "highlight": "Mirpur Mahadev Temple (Mirpur village, near Banas River) in the Sirohi Shaiva circuit.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Mirpur Mahadev Temple (Mirpur village, near Banas River) is included in the Sirohi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Sirohi district",
+          "url": "https://en.wikipedia.org/wiki/Sirohi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mirpur%20Mahadev%20Temple%20Sirohi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:18:00Z",
+    "addedAt": "2026-02-26T17:48:15+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bhuteshwar Mahadev Temple (Bhutgaon / local areas)",
+    "state": "Rajasthan",
+    "city": "Bhutgaon",
+    "district": "Sirohi",
+    "region": "Bhutgaon area, Sirohi district",
+    "tags": [
+      "Rajasthan",
+      "Sirohi",
+      "Shiva"
+    ],
+    "story": "Bhuteshwar Mahadev Temple (Bhutgaon / local areas) is a Shiva worship site in Sirohi district.",
+    "highlight": "Bhuteshwar Mahadev Temple (Bhutgaon / local areas) in the Sirohi Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Bhuteshwar Mahadev Temple (Bhutgaon / local areas) is included in the Sirohi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Sirohi district",
+          "url": "https://en.wikipedia.org/wiki/Sirohi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhuteshwar%20Mahadev%20Temple%20Bhutgaon%20Sirohi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:18:00Z",
+    "addedAt": "2026-02-26T17:48:16+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Jageshwar Mahadev Temple (near Sirohi tehsil)",
+    "state": "Rajasthan",
+    "city": "Sirohi",
+    "district": "Sirohi",
+    "region": "Near Sirohi tehsil, Sirohi district",
+    "tags": [
+      "Rajasthan",
+      "Sirohi",
+      "Shiva"
+    ],
+    "story": "Jageshwar Mahadev Temple (near Sirohi tehsil) is a Shiva worship site in Sirohi district.",
+    "highlight": "Jageshwar Mahadev Temple (near Sirohi tehsil) in the Sirohi Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Jageshwar Mahadev Temple (near Sirohi tehsil) is included in the Sirohi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Sirohi district",
+          "url": "https://en.wikipedia.org/wiki/Sirohi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Jageshwar%20Mahadev%20Temple%20Sirohi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:18:00Z",
+    "addedAt": "2026-02-26T17:48:17+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Karaneshwar Mahadev Temple (Abu Road region)",
+    "state": "Rajasthan",
+    "city": "Abu Road",
+    "district": "Sirohi",
+    "region": "Abu Road region, Sirohi district",
+    "tags": [
+      "Rajasthan",
+      "Sirohi",
+      "Shiva"
+    ],
+    "story": "Karaneshwar Mahadev Temple (Abu Road region) is a Shiva worship site in Sirohi district.",
+    "highlight": "Karaneshwar Mahadev Temple (Abu Road region) in the Sirohi Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Karaneshwar Mahadev Temple (Abu Road region) is included in the Sirohi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Sirohi district",
+          "url": "https://en.wikipedia.org/wiki/Sirohi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Karaneshwar%20Mahadev%20Temple%20Abu%20Road%20Sirohi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:18:00Z",
+    "addedAt": "2026-02-26T17:48:18+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Prachin Shiv Mandir (Pindwara town)",
+    "state": "Rajasthan",
+    "city": "Pindwara",
+    "district": "Sirohi",
+    "region": "Pindwara town, Sirohi district",
+    "tags": [
+      "Rajasthan",
+      "Sirohi",
+      "Shiva"
+    ],
+    "story": "Prachin Shiv Mandir (Pindwara town) is a Shiva worship site in Sirohi district.",
+    "highlight": "Prachin Shiv Mandir (Pindwara town) in the Sirohi Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Prachin Shiv Mandir (Pindwara town) is included in the Sirohi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Sirohi district",
+          "url": "https://en.wikipedia.org/wiki/Sirohi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Shiv%20Mandir%20Pindwara%20Sirohi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:18:00Z",
+    "addedAt": "2026-02-26T17:48:19+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Chopra Mahadev Mandir (Chausath Yogini Temple, Dholpur City)",
+    "state": "Rajasthan",
+    "city": "Dholpur",
+    "district": "Dholpur",
+    "region": "Chausath Yogini Temple zone, Dholpur district",
+    "tags": [
+      "Rajasthan",
+      "Dholpur",
+      "Shiva"
+    ],
+    "story": "Chopra Mahadev Mandir (Chausath Yogini Temple, Dholpur City) is a Shiva worship site in Dholpur district.",
+    "highlight": "Chopra Mahadev Mandir (Chausath Yogini Temple, Dholpur City) in the Dholpur Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Chopra Mahadev Mandir (Chausath Yogini Temple, Dholpur City) is included in the Dholpur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local travel with daylight navigation for easier access.",
+      "sources": [
+        {
+          "label": "Dholpur district",
+          "url": "https://en.wikipedia.org/wiki/Dholpur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Chopra%20Mahadev%20Mandir%20Chausath%20Yogini%20Temple%20Dholpur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:35:00Z",
+    "addedAt": "2026-02-26T18:05:30+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Saipau Mahadeo Temple (near Parvati Lake, Saipau)",
+    "state": "Rajasthan",
+    "city": "Saipau",
+    "district": "Dholpur",
+    "region": "Parvati Lake belt, Saipau, Dholpur district",
+    "tags": [
+      "Rajasthan",
+      "Dholpur",
+      "Shiva"
+    ],
+    "story": "Saipau Mahadeo Temple (near Parvati Lake, Saipau) is a Shiva worship site in Dholpur district.",
+    "highlight": "Saipau Mahadeo Temple (near Parvati Lake, Saipau) in the Dholpur Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Saipau Mahadeo Temple (near Parvati Lake, Saipau) is included in the Dholpur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local travel with daylight navigation for easier access.",
+      "sources": [
+        {
+          "label": "Dholpur district",
+          "url": "https://en.wikipedia.org/wiki/Dholpur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Saipau%20Mahadeo%20Temple%20Parvati%20Lake%20Saipau%20Dholpur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:35:00Z",
+    "addedAt": "2026-02-26T18:05:31+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Mahakaal Shiv Temple (Dholpur)",
+    "state": "Rajasthan",
+    "city": "Dholpur",
+    "district": "Dholpur",
+    "region": "Dholpur city zone, Dholpur district",
+    "tags": [
+      "Rajasthan",
+      "Dholpur",
+      "Shiva"
+    ],
+    "story": "Mahakaal Shiv Temple (Dholpur) is a Shiva worship site in Dholpur district.",
+    "highlight": "Mahakaal Shiv Temple (Dholpur) in the Dholpur Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Mahakaal Shiv Temple (Dholpur) is included in the Dholpur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local travel with daylight navigation for easier access.",
+      "sources": [
+        {
+          "label": "Dholpur district",
+          "url": "https://en.wikipedia.org/wiki/Dholpur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahakaal%20Shiv%20Temple%20Dholpur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:35:00Z",
+    "addedAt": "2026-02-26T18:05:32+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bhooteshwar Mahadev Temple (Dholpur)",
+    "state": "Rajasthan",
+    "city": "Dholpur",
+    "district": "Dholpur",
+    "region": "Dholpur city zone, Dholpur district",
+    "tags": [
+      "Rajasthan",
+      "Dholpur",
+      "Shiva"
+    ],
+    "story": "Bhooteshwar Mahadev Temple (Dholpur) is a Shiva worship site in Dholpur district.",
+    "highlight": "Bhooteshwar Mahadev Temple (Dholpur) in the Dholpur Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Bhooteshwar Mahadev Temple (Dholpur) is included in the Dholpur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local travel with daylight navigation for easier access.",
+      "sources": [
+        {
+          "label": "Dholpur district",
+          "url": "https://en.wikipedia.org/wiki/Dholpur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhooteshwar%20Mahadev%20Temple%20Dholpur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:35:00Z",
+    "addedAt": "2026-02-26T18:05:33+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Parvati Mahadev Temple (near Parvati River)",
+    "state": "Rajasthan",
+    "city": "Dholpur",
+    "district": "Dholpur",
+    "region": "Parvati River belt, Dholpur district",
+    "tags": [
+      "Rajasthan",
+      "Dholpur",
+      "Shiva"
+    ],
+    "story": "Parvati Mahadev Temple (near Parvati River) is a Shiva worship site in Dholpur district.",
+    "highlight": "Parvati Mahadev Temple (near Parvati River) in the Dholpur Shaiva circuit.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Parvati Mahadev Temple (near Parvati River) is included in the Dholpur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local travel with daylight navigation for easier access.",
+      "sources": [
+        {
+          "label": "Dholpur district",
+          "url": "https://en.wikipedia.org/wiki/Dholpur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Parvati%20Mahadev%20Temple%20Parvati%20River%20Dholpur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:35:00Z",
+    "addedAt": "2026-02-26T18:05:34+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Machkund Mahadev Temple (Machkund Tirth Dham)",
+    "state": "Rajasthan",
+    "city": "Dholpur",
+    "district": "Dholpur",
+    "region": "Machkund Tirth Dham, Dholpur district",
+    "tags": [
+      "Rajasthan",
+      "Dholpur",
+      "Shiva"
+    ],
+    "story": "Machkund Mahadev Temple (Machkund Tirth Dham) is a Shiva worship site in Dholpur district.",
+    "highlight": "Machkund Mahadev Temple (Machkund Tirth Dham) in the Dholpur Shaiva circuit.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Machkund Mahadev Temple (Machkund Tirth Dham) is included in the Dholpur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local travel with daylight navigation for easier access.",
+      "sources": [
+        {
+          "label": "Dholpur district",
+          "url": "https://en.wikipedia.org/wiki/Dholpur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Machkund%20Mahadev%20Temple%20Dholpur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:35:00Z",
+    "addedAt": "2026-02-26T18:05:35+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bhuteshwar Mahadev Temple (Baseri)",
+    "state": "Rajasthan",
+    "city": "Baseri",
+    "district": "Dholpur",
+    "region": "Baseri tehsil, Dholpur district",
+    "tags": [
+      "Rajasthan",
+      "Dholpur",
+      "Shiva"
+    ],
+    "story": "Bhuteshwar Mahadev Temple (Baseri) is a Shiva worship site in Dholpur district.",
+    "highlight": "Bhuteshwar Mahadev Temple (Baseri) in the Dholpur Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Bhuteshwar Mahadev Temple (Baseri) is included in the Dholpur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local travel with daylight navigation for easier access.",
+      "sources": [
+        {
+          "label": "Dholpur district",
+          "url": "https://en.wikipedia.org/wiki/Dholpur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhuteshwar%20Mahadev%20Temple%20Baseri%20Dholpur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:35:00Z",
+    "addedAt": "2026-02-26T18:05:36+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Chopda Shri Mahadev Mandir (Shiv Nagar, Dholpur)",
+    "state": "Rajasthan",
+    "city": "Dholpur",
+    "district": "Dholpur",
+    "region": "Shiv Nagar, Dholpur district",
+    "tags": [
+      "Rajasthan",
+      "Dholpur",
+      "Shiva"
+    ],
+    "story": "Chopda Shri Mahadev Mandir (Shiv Nagar, Dholpur) is a Shiva worship site in Dholpur district.",
+    "highlight": "Chopda Shri Mahadev Mandir (Shiv Nagar, Dholpur) in the Dholpur Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Chopda Shri Mahadev Mandir (Shiv Nagar, Dholpur) is included in the Dholpur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local travel with daylight navigation for easier access.",
+      "sources": [
+        {
+          "label": "Dholpur district",
+          "url": "https://en.wikipedia.org/wiki/Dholpur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Chopda%20Shri%20Mahadev%20Mandir%20Shiv%20Nagar%20Dholpur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:35:00Z",
+    "addedAt": "2026-02-26T18:05:37+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Prachin Shiv Mandir (Rajakhera)",
+    "state": "Rajasthan",
+    "city": "Rajakhera",
+    "district": "Dholpur",
+    "region": "Rajakhera, Dholpur district",
+    "tags": [
+      "Rajasthan",
+      "Dholpur",
+      "Shiva"
+    ],
+    "story": "Prachin Shiv Mandir (Rajakhera) is a Shiva worship site in Dholpur district.",
+    "highlight": "Prachin Shiv Mandir (Rajakhera) in the Dholpur Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Prachin Shiv Mandir (Rajakhera) is included in the Dholpur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local travel with daylight navigation for easier access.",
+      "sources": [
+        {
+          "label": "Dholpur district",
+          "url": "https://en.wikipedia.org/wiki/Dholpur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Shiv%20Mandir%20Rajakhera%20Dholpur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:35:00Z",
+    "addedAt": "2026-02-26T18:05:38+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir (Bari Tehsil)",
+    "state": "Rajasthan",
+    "city": "Bari",
+    "district": "Dholpur",
+    "region": "Bari tehsil, Dholpur district",
+    "tags": [
+      "Rajasthan",
+      "Dholpur",
+      "Shiva"
+    ],
+    "story": "Shiv Mandir (Bari Tehsil) is a Shiva worship site in Dholpur district.",
+    "highlight": "Shiv Mandir (Bari Tehsil) in the Dholpur Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Bari Tehsil) is included in the Dholpur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local travel with daylight navigation for easier access.",
+      "sources": [
+        {
+          "label": "Dholpur district",
+          "url": "https://en.wikipedia.org/wiki/Dholpur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Bari%20Tehsil%20Dholpur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T12:35:00Z",
+    "addedAt": "2026-02-26T18:05:39+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Gautameshwar Mahadev Temple (Arnod Tehsil - Haridwar of the region)",
+    "state": "Rajasthan",
+    "city": "Arnod",
+    "district": "Pratapgarh",
+    "region": "Arnod tehsil, Pratapgarh district",
+    "tags": [
+      "Rajasthan",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "Gautameshwar Mahadev Temple (Arnod Tehsil - Haridwar of the region) is a Shiva worship site in Pratapgarh district.",
+    "highlight": "Gautameshwar Mahadev Temple (Arnod Tehsil - Haridwar of the region) in the Pratapgarh Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Gautameshwar Mahadev Temple (Arnod Tehsil - Haridwar of the region) is included in the Pratapgarh district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Pratapgarh district",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Rajasthan",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gautameshwar%20Mahadev%20Temple%20Arnod%20Pratapgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:05:00Z",
+    "addedAt": "2026-02-26T18:35:50+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Deepnath Mahadev Temple (south of Pratapgarh town)",
+    "state": "Rajasthan",
+    "city": "Pratapgarh",
+    "district": "Pratapgarh",
+    "region": "South of Pratapgarh town, Pratapgarh district",
+    "tags": [
+      "Rajasthan",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "Deepnath Mahadev Temple (south of Pratapgarh town) is a Shiva worship site in Pratapgarh district.",
+    "highlight": "Deepnath Mahadev Temple (south of Pratapgarh town) in the Pratapgarh Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Deepnath Mahadev Temple (south of Pratapgarh town) is included in the Pratapgarh district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Pratapgarh district",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Rajasthan",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Deepnath%20Mahadev%20Temple%20Pratapgarh%20Rajasthan",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:05:00Z",
+    "addedAt": "2026-02-26T18:35:51+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Deepeshwar Mahadev Temple (west of city near Deepeshwar Pond)",
+    "state": "Rajasthan",
+    "city": "Pratapgarh",
+    "district": "Pratapgarh",
+    "region": "West of Pratapgarh city near Deepeshwar Pond, Pratapgarh district",
+    "tags": [
+      "Rajasthan",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "Deepeshwar Mahadev Temple (west of city near Deepeshwar Pond) is a Shiva worship site in Pratapgarh district.",
+    "highlight": "Deepeshwar Mahadev Temple (west of city near Deepeshwar Pond) in the Pratapgarh Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Deepeshwar Mahadev Temple (west of city near Deepeshwar Pond) is included in the Pratapgarh district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Pratapgarh district",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Rajasthan",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Deepeshwar%20Mahadev%20Temple%20Pratapgarh%20Rajasthan",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:05:00Z",
+    "addedAt": "2026-02-26T18:35:52+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Gotmeshwar Mahadev Mandir (Lalgarh area)",
+    "state": "Rajasthan",
+    "city": "Pratapgarh",
+    "district": "Pratapgarh",
+    "region": "Lalgarh area, Pratapgarh district",
+    "tags": [
+      "Rajasthan",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "Gotmeshwar Mahadev Mandir (Lalgarh area) is a Shiva worship site in Pratapgarh district.",
+    "highlight": "Gotmeshwar Mahadev Mandir (Lalgarh area) in the Pratapgarh Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Gotmeshwar Mahadev Mandir (Lalgarh area) is included in the Pratapgarh district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Pratapgarh district",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Rajasthan",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gotmeshwar%20Mahadev%20Mandir%20Lalgarh%20Pratapgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:05:00Z",
+    "addedAt": "2026-02-26T18:35:53+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kamleshwar Mahadev Mandir (Heenglat, Arnod)",
+    "state": "Rajasthan",
+    "city": "Arnod",
+    "district": "Pratapgarh",
+    "region": "Heenglat, Arnod tehsil, Pratapgarh district",
+    "tags": [
+      "Rajasthan",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "Kamleshwar Mahadev Mandir (Heenglat, Arnod) is a Shiva worship site in Pratapgarh district.",
+    "highlight": "Kamleshwar Mahadev Mandir (Heenglat, Arnod) in the Pratapgarh Shaiva circuit.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Kamleshwar Mahadev Mandir (Heenglat, Arnod) is included in the Pratapgarh district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Pratapgarh district",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Rajasthan",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kamleshwar%20Mahadev%20Mandir%20Heenglat%20Arnod%20Pratapgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:05:00Z",
+    "addedAt": "2026-02-26T18:35:54+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Prachin Shiv Mandir (Chhoti Sadri)",
+    "state": "Rajasthan",
+    "city": "Chhoti Sadri",
+    "district": "Pratapgarh",
+    "region": "Chhoti Sadri, Pratapgarh district",
+    "tags": [
+      "Rajasthan",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "Prachin Shiv Mandir (Chhoti Sadri) is a Shiva worship site in Pratapgarh district.",
+    "highlight": "Prachin Shiv Mandir (Chhoti Sadri) in the Pratapgarh Shaiva circuit.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Prachin Shiv Mandir (Chhoti Sadri) is included in the Pratapgarh district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Pratapgarh district",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Rajasthan",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Shiv%20Mandir%20Chhoti%20Sadri%20Pratapgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:05:00Z",
+    "addedAt": "2026-02-26T18:35:55+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Pashupatinath Mahadev Temple (Dhamliya / Dhariyawad area)",
+    "state": "Rajasthan",
+    "city": "Dhariyawad",
+    "district": "Pratapgarh",
+    "region": "Dhamliya / Dhariyawad area, Pratapgarh district",
+    "tags": [
+      "Rajasthan",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "Pashupatinath Mahadev Temple (Dhamliya / Dhariyawad area) is a Shiva worship site in Pratapgarh district.",
+    "highlight": "Pashupatinath Mahadev Temple (Dhamliya / Dhariyawad area) in the Pratapgarh Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Pashupatinath Mahadev Temple (Dhamliya / Dhariyawad area) is included in the Pratapgarh district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Pratapgarh district",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Rajasthan",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Pashupatinath%20Mahadev%20Temple%20Dhariyawad%20Pratapgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:05:00Z",
+    "addedAt": "2026-02-26T18:35:56+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Neelkanth Mahadev Temple (Gopal Ganj)",
+    "state": "Rajasthan",
+    "city": "Gopal Ganj",
+    "district": "Pratapgarh",
+    "region": "Gopal Ganj locality, Pratapgarh district",
+    "tags": [
+      "Rajasthan",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "Neelkanth Mahadev Temple (Gopal Ganj) is a Shiva worship site in Pratapgarh district.",
+    "highlight": "Neelkanth Mahadev Temple (Gopal Ganj) in the Pratapgarh Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Neelkanth Mahadev Temple (Gopal Ganj) is included in the Pratapgarh district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Pratapgarh district",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Rajasthan",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Neelkanth%20Mahadev%20Temple%20Gopal%20Ganj%20Pratapgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:05:00Z",
+    "addedAt": "2026-02-26T18:35:57+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bulbula Mahadev Temple (Peeli Khera)",
+    "state": "Rajasthan",
+    "city": "Peeli Khera",
+    "district": "Pratapgarh",
+    "region": "Peeli Khera, Pratapgarh district",
+    "tags": [
+      "Rajasthan",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "Bulbula Mahadev Temple (Peeli Khera) is a Shiva worship site in Pratapgarh district.",
+    "highlight": "Bulbula Mahadev Temple (Peeli Khera) in the Pratapgarh Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Bulbula Mahadev Temple (Peeli Khera) is included in the Pratapgarh district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Pratapgarh district",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Rajasthan",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bulbula%20Mahadev%20Temple%20Peeli%20Khera%20Pratapgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:05:00Z",
+    "addedAt": "2026-02-26T18:35:58+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Prachin Mahadev Mandir (Peepalkhoont)",
+    "state": "Rajasthan",
+    "city": "Peepalkhoont",
+    "district": "Pratapgarh",
+    "region": "Peepalkhoont, Pratapgarh district",
+    "tags": [
+      "Rajasthan",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "Prachin Mahadev Mandir (Peepalkhoont) is a Shiva worship site in Pratapgarh district.",
+    "highlight": "Prachin Mahadev Mandir (Peepalkhoont) in the Pratapgarh Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Prachin Mahadev Mandir (Peepalkhoont) is included in the Pratapgarh district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Pratapgarh district",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Rajasthan",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Mahadev%20Mandir%20Peepalkhoont%20Pratapgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:05:00Z",
+    "addedAt": "2026-02-26T18:35:59+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Sitaleshwar Mahadev Temple (Sheetaleshwar / oldest 689 AD, Jhalrapatan)",
+    "state": "Rajasthan",
+    "city": "Jhalrapatan",
+    "district": "Jhalawar",
+    "region": "Jhalrapatan, Chandrabhaga belt, Jhalawar district",
+    "tags": [
+      "Rajasthan",
+      "Jhalawar",
+      "Shiva"
+    ],
+    "story": "Sitaleshwar Mahadev Temple (Sheetaleshwar / oldest 689 AD, Jhalrapatan) is a Shiva worship site in Jhalawar district.",
+    "highlight": "Sitaleshwar Mahadev Temple (Sheetaleshwar / oldest 689 AD, Jhalrapatan) in the Jhalawar Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Sitaleshwar Mahadev Temple (Sheetaleshwar / oldest 689 AD, Jhalrapatan) is included in the Jhalawar district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jhalawar district",
+          "url": "https://en.wikipedia.org/wiki/Jhalawar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sitaleshwar%20Mahadev%20Temple%20Jhalrapatan%20Jhalawar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:30:00Z",
+    "addedAt": "2026-02-26T19:00:10+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Chandramouleshwar Mahadev Temple (Chandrabhaga Temple Complex)",
+    "state": "Rajasthan",
+    "city": "Jhalrapatan",
+    "district": "Jhalawar",
+    "region": "Chandrabhaga Temple Complex, Jhalrapatan, Jhalawar district",
+    "tags": [
+      "Rajasthan",
+      "Jhalawar",
+      "Shiva"
+    ],
+    "story": "Chandramouleshwar Mahadev Temple (Chandrabhaga Temple Complex) is a Shiva worship site in Jhalawar district.",
+    "highlight": "Chandramouleshwar Mahadev Temple (Chandrabhaga Temple Complex) in the Jhalawar Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Chandramouleshwar Mahadev Temple (Chandrabhaga Temple Complex) is included in the Jhalawar district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jhalawar district",
+          "url": "https://en.wikipedia.org/wiki/Jhalawar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Chandramouleshwar%20Mahadev%20Temple%20Chandrabhaga%20Jhalrapatan",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:30:00Z",
+    "addedAt": "2026-02-26T19:00:11+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Pashupatinath Mahadev Temple (Jhalrapatan, Indore Road)",
+    "state": "Rajasthan",
+    "city": "Jhalrapatan",
+    "district": "Jhalawar",
+    "region": "Indore Road, Jhalrapatan, Jhalawar district",
+    "tags": [
+      "Rajasthan",
+      "Jhalawar",
+      "Shiva"
+    ],
+    "story": "Pashupatinath Mahadev Temple (Jhalrapatan, Indore Road) is a Shiva worship site in Jhalawar district.",
+    "highlight": "Pashupatinath Mahadev Temple (Jhalrapatan, Indore Road) in the Jhalawar Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Pashupatinath Mahadev Temple (Jhalrapatan, Indore Road) is included in the Jhalawar district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jhalawar district",
+          "url": "https://en.wikipedia.org/wiki/Jhalawar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Pashupatinath%20Mahadev%20Temple%20Jhalrapatan%20Indore%20Road",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:30:00Z",
+    "addedAt": "2026-02-26T19:00:12+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kayavarneshwar Mahadev Mandir (Kyasra Village, Dag Tehsil)",
+    "state": "Rajasthan",
+    "city": "Dag",
+    "district": "Jhalawar",
+    "region": "Kyasra Village, Dag tehsil, Jhalawar district",
+    "tags": [
+      "Rajasthan",
+      "Jhalawar",
+      "Shiva"
+    ],
+    "story": "Kayavarneshwar Mahadev Mandir (Kyasra Village, Dag Tehsil) is a Shiva worship site in Jhalawar district.",
+    "highlight": "Kayavarneshwar Mahadev Mandir (Kyasra Village, Dag Tehsil) in the Jhalawar Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Kayavarneshwar Mahadev Mandir (Kyasra Village, Dag Tehsil) is included in the Jhalawar district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jhalawar district",
+          "url": "https://en.wikipedia.org/wiki/Jhalawar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kayavarneshwar%20Mahadev%20Mandir%20Kyasra%20Dag%20Jhalawar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:30:00Z",
+    "addedAt": "2026-02-26T19:00:13+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Chaturmukhalinga Mahadev Shrine (ancient Chandravati site)",
+    "state": "Rajasthan",
+    "city": "Jhalrapatan",
+    "district": "Jhalawar",
+    "region": "Ancient Chandravati site, Jhalrapatan, Jhalawar district",
+    "tags": [
+      "Rajasthan",
+      "Jhalawar",
+      "Shiva"
+    ],
+    "story": "Chaturmukhalinga Mahadev Shrine (ancient Chandravati site) is a Shiva worship site in Jhalawar district.",
+    "highlight": "Chaturmukhalinga Mahadev Shrine (ancient Chandravati site) in the Jhalawar Shaiva circuit.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Chaturmukhalinga Mahadev Shrine (ancient Chandravati site) is included in the Jhalawar district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jhalawar district",
+          "url": "https://en.wikipedia.org/wiki/Jhalawar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Chaturmukhalinga%20Mahadev%20Shrine%20Chandravati%20Jhalrapatan",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:30:00Z",
+    "addedAt": "2026-02-26T19:00:14+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Vishwanath Mahadev Temple (Aklera)",
+    "state": "Rajasthan",
+    "city": "Aklera",
+    "district": "Jhalawar",
+    "region": "Aklera, Jhalawar district",
+    "tags": [
+      "Rajasthan",
+      "Jhalawar",
+      "Shiva"
+    ],
+    "story": "Vishwanath Mahadev Temple (Aklera) is a Shiva worship site in Jhalawar district.",
+    "highlight": "Vishwanath Mahadev Temple (Aklera) in the Jhalawar Shaiva circuit.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Vishwanath Mahadev Temple (Aklera) is included in the Jhalawar district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jhalawar district",
+          "url": "https://en.wikipedia.org/wiki/Jhalawar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Vishwanath%20Mahadev%20Temple%20Aklera%20Jhalawar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:30:00Z",
+    "addedAt": "2026-02-26T19:00:15+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Harihar Mahadev Temple (Chandrabhaga River banks)",
+    "state": "Rajasthan",
+    "city": "Jhalrapatan",
+    "district": "Jhalawar",
+    "region": "Chandrabhaga river banks, Jhalrapatan, Jhalawar district",
+    "tags": [
+      "Rajasthan",
+      "Jhalawar",
+      "Shiva"
+    ],
+    "story": "Harihar Mahadev Temple (Chandrabhaga River banks) is a Shiva worship site in Jhalawar district.",
+    "highlight": "Harihar Mahadev Temple (Chandrabhaga River banks) in the Jhalawar Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Harihar Mahadev Temple (Chandrabhaga River banks) is included in the Jhalawar district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jhalawar district",
+          "url": "https://en.wikipedia.org/wiki/Jhalawar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Harihar%20Mahadev%20Temple%20Chandrabhaga%20Jhalrapatan",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:30:00Z",
+    "addedAt": "2026-02-26T19:00:16+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bhuteshwar Mahadev Temple (near Jhalawar town)",
+    "state": "Rajasthan",
+    "city": "Jhalawar",
+    "district": "Jhalawar",
+    "region": "Near Jhalawar town, Jhalawar district",
+    "tags": [
+      "Rajasthan",
+      "Jhalawar",
+      "Shiva"
+    ],
+    "story": "Bhuteshwar Mahadev Temple (near Jhalawar town) is a Shiva worship site in Jhalawar district.",
+    "highlight": "Bhuteshwar Mahadev Temple (near Jhalawar town) in the Jhalawar Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Bhuteshwar Mahadev Temple (near Jhalawar town) is included in the Jhalawar district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jhalawar district",
+          "url": "https://en.wikipedia.org/wiki/Jhalawar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhuteshwar%20Mahadev%20Temple%20Jhalawar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:30:00Z",
+    "addedAt": "2026-02-26T19:00:17+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shivalaya Shiv Mandir (Bhawanimandi)",
+    "state": "Rajasthan",
+    "city": "Bhawanimandi",
+    "district": "Jhalawar",
+    "region": "Bhawanimandi, Jhalawar district",
+    "tags": [
+      "Rajasthan",
+      "Jhalawar",
+      "Shiva"
+    ],
+    "story": "Shivalaya Shiv Mandir (Bhawanimandi) is a Shiva worship site in Jhalawar district.",
+    "highlight": "Shivalaya Shiv Mandir (Bhawanimandi) in the Jhalawar Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Shivalaya Shiv Mandir (Bhawanimandi) is included in the Jhalawar district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jhalawar district",
+          "url": "https://en.wikipedia.org/wiki/Jhalawar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shivalaya%20Shiv%20Mandir%20Bhawanimandi%20Jhalawar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:30:00Z",
+    "addedAt": "2026-02-26T19:00:18+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Prachin Shiv Mandir (Jhalrapatan / Pirawa area)",
+    "state": "Rajasthan",
+    "city": "Pirawa",
+    "district": "Jhalawar",
+    "region": "Jhalrapatan / Pirawa area, Jhalawar district",
+    "tags": [
+      "Rajasthan",
+      "Jhalawar",
+      "Shiva"
+    ],
+    "story": "Prachin Shiv Mandir (Jhalrapatan / Pirawa area) is a Shiva worship site in Jhalawar district.",
+    "highlight": "Prachin Shiv Mandir (Jhalrapatan / Pirawa area) in the Jhalawar Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Prachin Shiv Mandir (Jhalrapatan / Pirawa area) is included in the Jhalawar district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jhalawar district",
+          "url": "https://en.wikipedia.org/wiki/Jhalawar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Shiv%20Mandir%20Pirawa%20Jhalawar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:30:00Z",
+    "addedAt": "2026-02-26T19:00:19+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Neelkanth Mahadev Temple (Devgiri Hill, Dausa)",
+    "state": "Rajasthan",
+    "city": "Dausa",
+    "district": "Dausa",
+    "region": "Devgiri Hill, Dausa district",
+    "tags": [
+      "Rajasthan",
+      "Dausa",
+      "Shiva"
+    ],
+    "story": "Neelkanth Mahadev Temple (Devgiri Hill, Dausa) is a Shiva worship site in Dausa district.",
+    "highlight": "Neelkanth Mahadev Temple (Devgiri Hill, Dausa) in the Dausa Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Neelkanth Mahadev Temple (Devgiri Hill, Dausa) is included in the Dausa district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Dausa district",
+          "url": "https://en.wikipedia.org/wiki/Dausa_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Neelkanth%20Mahadev%20Temple%20Devgiri%20Hill%20Dausa",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:55:00Z",
+    "addedAt": "2026-02-26T19:25:30+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Baijnath Mahadev Temple (Dausa town)",
+    "state": "Rajasthan",
+    "city": "Dausa",
+    "district": "Dausa",
+    "region": "Dausa town, Dausa district",
+    "tags": [
+      "Rajasthan",
+      "Dausa",
+      "Shiva"
+    ],
+    "story": "Baijnath Mahadev Temple (Dausa town) is a Shiva worship site in Dausa district.",
+    "highlight": "Baijnath Mahadev Temple (Dausa town) in the Dausa Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Baijnath Mahadev Temple (Dausa town) is included in the Dausa district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Dausa district",
+          "url": "https://en.wikipedia.org/wiki/Dausa_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Baijnath%20Mahadev%20Temple%20Dausa%20town",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:55:00Z",
+    "addedAt": "2026-02-26T19:25:31+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Gupteshwar Mahadev Temple (Dausa)",
+    "state": "Rajasthan",
+    "city": "Dausa",
+    "district": "Dausa",
+    "region": "Dausa district",
+    "tags": [
+      "Rajasthan",
+      "Dausa",
+      "Shiva"
+    ],
+    "story": "Gupteshwar Mahadev Temple (Dausa) is a Shiva worship site in Dausa district.",
+    "highlight": "Gupteshwar Mahadev Temple (Dausa) in the Dausa Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Gupteshwar Mahadev Temple (Dausa) is included in the Dausa district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Dausa district",
+          "url": "https://en.wikipedia.org/wiki/Dausa_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gupteshwar%20Mahadev%20Temple%20Dausa",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:55:00Z",
+    "addedAt": "2026-02-26T19:25:32+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Sahajnath Mahadev Temple (Dausa)",
+    "state": "Rajasthan",
+    "city": "Dausa",
+    "district": "Dausa",
+    "region": "Dausa district",
+    "tags": [
+      "Rajasthan",
+      "Dausa",
+      "Shiva"
+    ],
+    "story": "Sahajnath Mahadev Temple (Dausa) is a Shiva worship site in Dausa district.",
+    "highlight": "Sahajnath Mahadev Temple (Dausa) in the Dausa Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Sahajnath Mahadev Temple (Dausa) is included in the Dausa district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Dausa district",
+          "url": "https://en.wikipedia.org/wiki/Dausa_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sahajnath%20Mahadev%20Temple%20Dausa",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:55:00Z",
+    "addedAt": "2026-02-26T19:25:33+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Somnath Mahadev Temple (Dausa)",
+    "state": "Rajasthan",
+    "city": "Dausa",
+    "district": "Dausa",
+    "region": "Dausa district",
+    "tags": [
+      "Rajasthan",
+      "Dausa",
+      "Shiva"
+    ],
+    "story": "Somnath Mahadev Temple (Dausa) is a Shiva worship site in Dausa district.",
+    "highlight": "Somnath Mahadev Temple (Dausa) in the Dausa Shaiva circuit.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Somnath Mahadev Temple (Dausa) is included in the Dausa district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Dausa district",
+          "url": "https://en.wikipedia.org/wiki/Dausa_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Somnath%20Mahadev%20Temple%20Dausa",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:55:00Z",
+    "addedAt": "2026-02-26T19:25:34+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Chamatkareshwar Mahadev Temple (Dausa)",
+    "state": "Rajasthan",
+    "city": "Dausa",
+    "district": "Dausa",
+    "region": "Dausa district",
+    "tags": [
+      "Rajasthan",
+      "Dausa",
+      "Shiva"
+    ],
+    "story": "Chamatkareshwar Mahadev Temple (Dausa) is a Shiva worship site in Dausa district.",
+    "highlight": "Chamatkareshwar Mahadev Temple (Dausa) in the Dausa Shaiva circuit.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Chamatkareshwar Mahadev Temple (Dausa) is included in the Dausa district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Dausa district",
+          "url": "https://en.wikipedia.org/wiki/Dausa_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Chamatkareshwar%20Mahadev%20Temple%20Dausa",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:55:00Z",
+    "addedAt": "2026-02-26T19:25:35+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Paankhleshwar Mahadev Mandir (Lalsot)",
+    "state": "Rajasthan",
+    "city": "Lalsot",
+    "district": "Dausa",
+    "region": "Lalsot, Dausa district",
+    "tags": [
+      "Rajasthan",
+      "Dausa",
+      "Shiva"
+    ],
+    "story": "Paankhleshwar Mahadev Mandir (Lalsot) is a Shiva worship site in Dausa district.",
+    "highlight": "Paankhleshwar Mahadev Mandir (Lalsot) in the Dausa Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Paankhleshwar Mahadev Mandir (Lalsot) is included in the Dausa district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Dausa district",
+          "url": "https://en.wikipedia.org/wiki/Dausa_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Paankhleshwar%20Mahadev%20Mandir%20Lalsot%20Dausa",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:55:00Z",
+    "addedAt": "2026-02-26T19:25:36+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Jhajeshwar Mahadev Temple (Jhajhirampura)",
+    "state": "Rajasthan",
+    "city": "Jhajhirampura",
+    "district": "Dausa",
+    "region": "Jhajhirampura, Dausa district",
+    "tags": [
+      "Rajasthan",
+      "Dausa",
+      "Shiva"
+    ],
+    "story": "Jhajeshwar Mahadev Temple (Jhajhirampura) is a Shiva worship site in Dausa district.",
+    "highlight": "Jhajeshwar Mahadev Temple (Jhajhirampura) in the Dausa Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Jhajeshwar Mahadev Temple (Jhajhirampura) is included in the Dausa district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Dausa district",
+          "url": "https://en.wikipedia.org/wiki/Dausa_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Jhajeshwar%20Mahadev%20Temple%20Jhajhirampura%20Dausa",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:55:00Z",
+    "addedAt": "2026-02-26T19:25:37+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bhuteshwar Mahadev Temple (Bhandarej)",
+    "state": "Rajasthan",
+    "city": "Bhandarej",
+    "district": "Dausa",
+    "region": "Bhandarej, Dausa district",
+    "tags": [
+      "Rajasthan",
+      "Dausa",
+      "Shiva"
+    ],
+    "story": "Bhuteshwar Mahadev Temple (Bhandarej) is a Shiva worship site in Dausa district.",
+    "highlight": "Bhuteshwar Mahadev Temple (Bhandarej) in the Dausa Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Bhuteshwar Mahadev Temple (Bhandarej) is included in the Dausa district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Dausa district",
+          "url": "https://en.wikipedia.org/wiki/Dausa_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhuteshwar%20Mahadev%20Temple%20Bhandarej%20Dausa",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:55:00Z",
+    "addedAt": "2026-02-26T19:25:38+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Buda Mahadev Mandir (Sikrai)",
+    "state": "Rajasthan",
+    "city": "Sikrai",
+    "district": "Dausa",
+    "region": "Sikrai, Dausa district",
+    "tags": [
+      "Rajasthan",
+      "Dausa",
+      "Shiva"
+    ],
+    "story": "Buda Mahadev Mandir (Sikrai) is a Shiva worship site in Dausa district.",
+    "highlight": "Buda Mahadev Mandir (Sikrai) in the Dausa Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Buda Mahadev Mandir (Sikrai) is included in the Dausa district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Dausa district",
+          "url": "https://en.wikipedia.org/wiki/Dausa_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Buda%20Mahadev%20Mandir%20Sikrai%20Dausa",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T13:55:00Z",
+    "addedAt": "2026-02-26T19:25:39+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bhand Devra Mahadev Temple (Ramgarh Crater, Mangrol - Little Khajuraho)",
+    "state": "Rajasthan",
+    "city": "Mangrol",
+    "district": "Baran",
+    "region": "Ramgarh Crater, Mangrol, Baran district",
+    "tags": [
+      "Rajasthan",
+      "Baran",
+      "Shiva"
+    ],
+    "story": "Bhand Devra Mahadev Temple (Ramgarh Crater, Mangrol - Little Khajuraho) is a Shiva worship site in Baran district.",
+    "highlight": "Bhand Devra Mahadev Temple (Ramgarh Crater, Mangrol - Little Khajuraho) in the Baran Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Bhand Devra Mahadev Temple (Ramgarh Crater, Mangrol - Little Khajuraho) is included in the Baran district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Baran district",
+          "url": "https://en.wikipedia.org/wiki/Baran_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhand%20Devra%20Mahadev%20Temple%20Ramgarh%20Crater%20Mangrol%20Baran",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:20:00Z",
+    "addedAt": "2026-02-26T19:50:10+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Handipali Paleshwar Mahadev Temple (near Mangrol)",
+    "state": "Rajasthan",
+    "city": "Mangrol",
+    "district": "Baran",
+    "region": "Near Mangrol, Baran district",
+    "tags": [
+      "Rajasthan",
+      "Baran",
+      "Shiva"
+    ],
+    "story": "Handipali Paleshwar Mahadev Temple (near Mangrol) is a Shiva worship site in Baran district.",
+    "highlight": "Handipali Paleshwar Mahadev Temple (near Mangrol) in the Baran Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Handipali Paleshwar Mahadev Temple (near Mangrol) is included in the Baran district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Baran district",
+          "url": "https://en.wikipedia.org/wiki/Baran_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Handipali%20Paleshwar%20Mahadev%20Temple%20Mangrol%20Baran",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:20:00Z",
+    "addedAt": "2026-02-26T19:50:11+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Manihara Mahadev Mandir (Baran City)",
+    "state": "Rajasthan",
+    "city": "Baran",
+    "district": "Baran",
+    "region": "Baran city, Baran district",
+    "tags": [
+      "Rajasthan",
+      "Baran",
+      "Shiva"
+    ],
+    "story": "Manihara Mahadev Mandir (Baran City) is a Shiva worship site in Baran district.",
+    "highlight": "Manihara Mahadev Mandir (Baran City) in the Baran Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Manihara Mahadev Mandir (Baran City) is included in the Baran district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Baran district",
+          "url": "https://en.wikipedia.org/wiki/Baran_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Manihara%20Mahadev%20Mandir%20Baran",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:20:00Z",
+    "addedAt": "2026-02-26T19:50:12+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Neelkanth Mahadev Temple (Baran district)",
+    "state": "Rajasthan",
+    "city": "Baran",
+    "district": "Baran",
+    "region": "Baran district",
+    "tags": [
+      "Rajasthan",
+      "Baran",
+      "Shiva"
+    ],
+    "story": "Neelkanth Mahadev Temple (Baran district) is a Shiva worship site in Baran district.",
+    "highlight": "Neelkanth Mahadev Temple (Baran district) in the Baran Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Neelkanth Mahadev Temple (Baran district) is included in the Baran district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Baran district",
+          "url": "https://en.wikipedia.org/wiki/Baran_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Neelkanth%20Mahadev%20Temple%20Baran%20Rajasthan",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:20:00Z",
+    "addedAt": "2026-02-26T19:50:13+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Mahakaleshwar Mahadev Temple (Atru)",
+    "state": "Rajasthan",
+    "city": "Atru",
+    "district": "Baran",
+    "region": "Atru, Baran district",
+    "tags": [
+      "Rajasthan",
+      "Baran",
+      "Shiva"
+    ],
+    "story": "Mahakaleshwar Mahadev Temple (Atru) is a Shiva worship site in Baran district.",
+    "highlight": "Mahakaleshwar Mahadev Temple (Atru) in the Baran Shaiva circuit.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Mahakaleshwar Mahadev Temple (Atru) is included in the Baran district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Baran district",
+          "url": "https://en.wikipedia.org/wiki/Baran_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahakaleshwar%20Mahadev%20Temple%20Atru%20Baran",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:20:00Z",
+    "addedAt": "2026-02-26T19:50:14+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Chhaniyari Mahadev Temple (Atru)",
+    "state": "Rajasthan",
+    "city": "Atru",
+    "district": "Baran",
+    "region": "Atru, Baran district",
+    "tags": [
+      "Rajasthan",
+      "Baran",
+      "Shiva"
+    ],
+    "story": "Chhaniyari Mahadev Temple (Atru) is a Shiva worship site in Baran district.",
+    "highlight": "Chhaniyari Mahadev Temple (Atru) in the Baran Shaiva circuit.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Chhaniyari Mahadev Temple (Atru) is included in the Baran district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Baran district",
+          "url": "https://en.wikipedia.org/wiki/Baran_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Chhaniyari%20Mahadev%20Temple%20Atru%20Baran",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:20:00Z",
+    "addedAt": "2026-02-26T19:50:15+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kakuni Mahadev Temple (Kakuni on Parvan River)",
+    "state": "Rajasthan",
+    "city": "Kakuni",
+    "district": "Baran",
+    "region": "Kakuni on Parvan River, Baran district",
+    "tags": [
+      "Rajasthan",
+      "Baran",
+      "Shiva"
+    ],
+    "story": "Kakuni Mahadev Temple (Kakuni on Parvan River) is a Shiva worship site in Baran district.",
+    "highlight": "Kakuni Mahadev Temple (Kakuni on Parvan River) in the Baran Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Kakuni Mahadev Temple (Kakuni on Parvan River) is included in the Baran district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Baran district",
+          "url": "https://en.wikipedia.org/wiki/Baran_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kakuni%20Mahadev%20Temple%20Parvan%20River%20Baran",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:20:00Z",
+    "addedAt": "2026-02-26T19:50:16+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Nagda Mahadev Temple (Anta)",
+    "state": "Rajasthan",
+    "city": "Anta",
+    "district": "Baran",
+    "region": "Anta, Baran district",
+    "tags": [
+      "Rajasthan",
+      "Baran",
+      "Shiva"
+    ],
+    "story": "Nagda Mahadev Temple (Anta) is a Shiva worship site in Baran district.",
+    "highlight": "Nagda Mahadev Temple (Anta) in the Baran Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Nagda Mahadev Temple (Anta) is included in the Baran district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Baran district",
+          "url": "https://en.wikipedia.org/wiki/Baran_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nagda%20Mahadev%20Temple%20Anta%20Baran",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:20:00Z",
+    "addedAt": "2026-02-26T19:50:17+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bhuteshwar Mahadev Temple (Baran area)",
+    "state": "Rajasthan",
+    "city": "Baran",
+    "district": "Baran",
+    "region": "Baran area, Baran district",
+    "tags": [
+      "Rajasthan",
+      "Baran",
+      "Shiva"
+    ],
+    "story": "Bhuteshwar Mahadev Temple (Baran area) is a Shiva worship site in Baran district.",
+    "highlight": "Bhuteshwar Mahadev Temple (Baran area) in the Baran Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Bhuteshwar Mahadev Temple (Baran area) is included in the Baran district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Baran district",
+          "url": "https://en.wikipedia.org/wiki/Baran_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhuteshwar%20Mahadev%20Temple%20Baran%20Rajasthan",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:20:00Z",
+    "addedAt": "2026-02-26T19:50:18+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Prachin Shiv Mandir (Kishanganj)",
+    "state": "Rajasthan",
+    "city": "Kishanganj",
+    "district": "Baran",
+    "region": "Kishanganj, Baran district",
+    "tags": [
+      "Rajasthan",
+      "Baran",
+      "Shiva"
+    ],
+    "story": "Prachin Shiv Mandir (Kishanganj) is a Shiva worship site in Baran district.",
+    "highlight": "Prachin Shiv Mandir (Kishanganj) in the Baran Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Prachin Shiv Mandir (Kishanganj) is included in the Baran district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Baran district",
+          "url": "https://en.wikipedia.org/wiki/Baran_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Shiv%20Mandir%20Kishanganj%20Baran",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:20:00Z",
+    "addedAt": "2026-02-26T19:50:19+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bisaldeo Temple (Bisalpur)",
+    "state": "Rajasthan",
+    "city": "Bisalpur",
+    "district": "Tonk",
+    "region": "Bisalpur, Tonk district",
+    "tags": [
+      "Rajasthan",
+      "Tonk",
+      "Shiva"
+    ],
+    "story": "Bisaldeo Temple (Bisalpur) is a Shiva worship site in Tonk district.",
+    "highlight": "Bisaldeo Temple (Bisalpur) in the Tonk Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Bisaldeo Temple (Bisalpur) is included in the Tonk district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Tonk district",
+          "url": "https://en.wikipedia.org/wiki/Tonk_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bisaldeo%20Temple%20Bisalpur%20Tonk",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:45:00Z",
+    "addedAt": "2026-02-26T20:15:30+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Raktidhar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Tonk",
+    "district": "Tonk",
+    "region": "Tonk district",
+    "tags": [
+      "Rajasthan",
+      "Tonk",
+      "Shiva"
+    ],
+    "story": "Raktidhar Mahadev Temple is a Shiva worship site in Tonk district.",
+    "highlight": "Raktidhar Mahadev Temple in the Tonk Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Raktidhar Mahadev Temple is included in the Tonk district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Tonk district",
+          "url": "https://en.wikipedia.org/wiki/Tonk_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Raktidhar%20Mahadev%20Temple%20Tonk",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:45:00Z",
+    "addedAt": "2026-02-26T20:15:31+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Amreshwar Mahadev Temple (Niwai)",
+    "state": "Rajasthan",
+    "city": "Niwai",
+    "district": "Tonk",
+    "region": "Niwai, Tonk district",
+    "tags": [
+      "Rajasthan",
+      "Tonk",
+      "Shiva"
+    ],
+    "story": "Amreshwar Mahadev Temple (Niwai) is a Shiva worship site in Tonk district.",
+    "highlight": "Amreshwar Mahadev Temple (Niwai) in the Tonk Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Amreshwar Mahadev Temple (Niwai) is included in the Tonk district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Tonk district",
+          "url": "https://en.wikipedia.org/wiki/Tonk_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Amreshwar%20Mahadev%20Temple%20Niwai%20Tonk",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:45:00Z",
+    "addedAt": "2026-02-26T20:15:32+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Mandakala Shiv Mandir (Nagarfort)",
+    "state": "Rajasthan",
+    "city": "Nagarfort",
+    "district": "Tonk",
+    "region": "Nagarfort, Tonk district",
+    "tags": [
+      "Rajasthan",
+      "Tonk",
+      "Shiva"
+    ],
+    "story": "Mandakala Shiv Mandir (Nagarfort) is a Shiva worship site in Tonk district.",
+    "highlight": "Mandakala Shiv Mandir (Nagarfort) in the Tonk Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Mandakala Shiv Mandir (Nagarfort) is included in the Tonk district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Tonk district",
+          "url": "https://en.wikipedia.org/wiki/Tonk_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mandakala%20Shiv%20Mandir%20Nagarfort%20Tonk",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:45:00Z",
+    "addedAt": "2026-02-26T20:15:33+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kanak Mahadev Mandir",
+    "state": "Rajasthan",
+    "city": "Tonk",
+    "district": "Tonk",
+    "region": "Tonk district",
+    "tags": [
+      "Rajasthan",
+      "Tonk",
+      "Shiva"
+    ],
+    "story": "Kanak Mahadev Mandir is a Shiva worship site in Tonk district.",
+    "highlight": "Kanak Mahadev Mandir in the Tonk Shaiva circuit.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Kanak Mahadev Mandir is included in the Tonk district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Tonk district",
+          "url": "https://en.wikipedia.org/wiki/Tonk_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kanak%20Mahadev%20Mandir%20Tonk",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:45:00Z",
+    "addedAt": "2026-02-26T20:15:34+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Jhalra Mahadev Mandir",
+    "state": "Rajasthan",
+    "city": "Tonk",
+    "district": "Tonk",
+    "region": "Tonk district",
+    "tags": [
+      "Rajasthan",
+      "Tonk",
+      "Shiva"
+    ],
+    "story": "Jhalra Mahadev Mandir is a Shiva worship site in Tonk district.",
+    "highlight": "Jhalra Mahadev Mandir in the Tonk Shaiva circuit.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Jhalra Mahadev Mandir is included in the Tonk district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Tonk district",
+          "url": "https://en.wikipedia.org/wiki/Tonk_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Jhalra%20Mahadev%20Mandir%20Tonk",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:45:00Z",
+    "addedAt": "2026-02-26T20:15:35+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Panchmukhi Mahadev Mandir",
+    "state": "Rajasthan",
+    "city": "Tonk",
+    "district": "Tonk",
+    "region": "Tonk district",
+    "tags": [
+      "Rajasthan",
+      "Tonk",
+      "Shiva"
+    ],
+    "story": "Panchmukhi Mahadev Mandir is a Shiva worship site in Tonk district.",
+    "highlight": "Panchmukhi Mahadev Mandir in the Tonk Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Panchmukhi Mahadev Mandir is included in the Tonk district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Tonk district",
+          "url": "https://en.wikipedia.org/wiki/Tonk_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Panchmukhi%20Mahadev%20Mandir%20Tonk",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:45:00Z",
+    "addedAt": "2026-02-26T20:15:36+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Gupteshwar Mahadev Mandir",
+    "state": "Rajasthan",
+    "city": "Tonk",
+    "district": "Tonk",
+    "region": "Tonk district",
+    "tags": [
+      "Rajasthan",
+      "Tonk",
+      "Shiva"
+    ],
+    "story": "Gupteshwar Mahadev Mandir is a Shiva worship site in Tonk district.",
+    "highlight": "Gupteshwar Mahadev Mandir in the Tonk Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Gupteshwar Mahadev Mandir is included in the Tonk district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Tonk district",
+          "url": "https://en.wikipedia.org/wiki/Tonk_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gupteshwar%20Mahadev%20Mandir%20Tonk",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:45:00Z",
+    "addedAt": "2026-02-26T20:15:37+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Neelkanth Mahadev Mandir",
+    "state": "Rajasthan",
+    "city": "Tonk",
+    "district": "Tonk",
+    "region": "Tonk district",
+    "tags": [
+      "Rajasthan",
+      "Tonk",
+      "Shiva"
+    ],
+    "story": "Neelkanth Mahadev Mandir is a Shiva worship site in Tonk district.",
+    "highlight": "Neelkanth Mahadev Mandir in the Tonk Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Neelkanth Mahadev Mandir is included in the Tonk district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Tonk district",
+          "url": "https://en.wikipedia.org/wiki/Tonk_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Neelkanth%20Mahadev%20Mandir%20Tonk",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T14:45:00Z",
+    "addedAt": "2026-02-26T20:15:38+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Rameshwar Mahadev Temple (Akoda)",
+    "state": "Rajasthan",
+    "city": "Akoda",
+    "district": "Bundi",
+    "region": "Akoda, Bundi district",
+    "tags": [
+      "Rajasthan",
+      "Bundi",
+      "Shiva"
+    ],
+    "story": "Rameshwar Mahadev Temple (Akoda) is a Shiva worship site in Bundi district.",
+    "highlight": "Rameshwar Mahadev Temple (Akoda) in the Bundi Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Rameshwar Mahadev Temple (Akoda) is included in the Bundi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Bundi district",
+          "url": "https://en.wikipedia.org/wiki/Bundi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Rameshwar%20Mahadev%20Temple%20Akoda%20Bundi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:00:00Z",
+    "addedAt": "2026-02-26T20:30:10+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Dobra Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Bundi",
+    "district": "Bundi",
+    "region": "Bundi district",
+    "tags": [
+      "Rajasthan",
+      "Bundi",
+      "Shiva"
+    ],
+    "story": "Dobra Mahadev Temple is a Shiva worship site in Bundi district.",
+    "highlight": "Dobra Mahadev Temple in the Bundi Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Dobra Mahadev Temple is included in the Bundi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Bundi district",
+          "url": "https://en.wikipedia.org/wiki/Bundi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dobra%20Mahadev%20Temple%20Bundi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:00:00Z",
+    "addedAt": "2026-02-26T20:30:11+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kamleshwar Mahadev Mandir (Balwan)",
+    "state": "Rajasthan",
+    "city": "Balwan",
+    "district": "Bundi",
+    "region": "Balwan, Bundi district",
+    "tags": [
+      "Rajasthan",
+      "Bundi",
+      "Shiva"
+    ],
+    "story": "Kamleshwar Mahadev Mandir (Balwan) is a Shiva worship site in Bundi district.",
+    "highlight": "Kamleshwar Mahadev Mandir (Balwan) in the Bundi Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Kamleshwar Mahadev Mandir (Balwan) is included in the Bundi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Bundi district",
+          "url": "https://en.wikipedia.org/wiki/Bundi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kamleshwar%20Mahadev%20Mandir%20Balwan%20Bundi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:00:00Z",
+    "addedAt": "2026-02-26T20:30:12+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Viswanath Mahadev Mandir",
+    "state": "Rajasthan",
+    "city": "Bundi",
+    "district": "Bundi",
+    "region": "Bundi district",
+    "tags": [
+      "Rajasthan",
+      "Bundi",
+      "Shiva"
+    ],
+    "story": "Viswanath Mahadev Mandir is a Shiva worship site in Bundi district.",
+    "highlight": "Viswanath Mahadev Mandir in the Bundi Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Viswanath Mahadev Mandir is included in the Bundi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Bundi district",
+          "url": "https://en.wikipedia.org/wiki/Bundi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Viswanath%20Mahadev%20Mandir%20Bundi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:00:00Z",
+    "addedAt": "2026-02-26T20:30:13+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Rameshwaram Mahadev Temple (Talera)",
+    "state": "Rajasthan",
+    "city": "Talera",
+    "district": "Bundi",
+    "region": "Talera, Bundi district",
+    "tags": [
+      "Rajasthan",
+      "Bundi",
+      "Shiva"
+    ],
+    "story": "Rameshwaram Mahadev Temple (Talera) is a Shiva worship site in Bundi district.",
+    "highlight": "Rameshwaram Mahadev Temple (Talera) in the Bundi Shaiva circuit.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Rameshwaram Mahadev Temple (Talera) is included in the Bundi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Bundi district",
+          "url": "https://en.wikipedia.org/wiki/Bundi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Rameshwaram%20Mahadev%20Temple%20Talera%20Bundi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:00:00Z",
+    "addedAt": "2026-02-26T20:30:14+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiva Temple (Indergarh)",
+    "state": "Rajasthan",
+    "city": "Indergarh",
+    "district": "Bundi",
+    "region": "Indergarh, Bundi district",
+    "tags": [
+      "Rajasthan",
+      "Bundi",
+      "Shiva"
+    ],
+    "story": "Shiva Temple (Indergarh) is a Shiva worship site in Bundi district.",
+    "highlight": "Shiva Temple (Indergarh) in the Bundi Shaiva circuit.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Shiva Temple (Indergarh) is included in the Bundi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Bundi district",
+          "url": "https://en.wikipedia.org/wiki/Bundi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiva%20Temple%20Indergarh%20Bundi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:00:00Z",
+    "addedAt": "2026-02-26T20:30:15+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiva Temple (Namana)",
+    "state": "Rajasthan",
+    "city": "Namana",
+    "district": "Bundi",
+    "region": "Namana, Bundi district",
+    "tags": [
+      "Rajasthan",
+      "Bundi",
+      "Shiva"
+    ],
+    "story": "Shiva Temple (Namana) is a Shiva worship site in Bundi district.",
+    "highlight": "Shiva Temple (Namana) in the Bundi Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Shiva Temple (Namana) is included in the Bundi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Bundi district",
+          "url": "https://en.wikipedia.org/wiki/Bundi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiva%20Temple%20Namana%20Bundi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:00:00Z",
+    "addedAt": "2026-02-26T20:30:16+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Mahanaleshwar Shiva Temple",
+    "state": "Rajasthan",
+    "city": "Bundi",
+    "district": "Bundi",
+    "region": "Bundi district",
+    "tags": [
+      "Rajasthan",
+      "Bundi",
+      "Shiva"
+    ],
+    "story": "Mahanaleshwar Shiva Temple is a Shiva worship site in Bundi district.",
+    "highlight": "Mahanaleshwar Shiva Temple in the Bundi Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Mahanaleshwar Shiva Temple is included in the Bundi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Bundi district",
+          "url": "https://en.wikipedia.org/wiki/Bundi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahanaleshwar%20Shiva%20Temple%20Bundi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:00:00Z",
+    "addedAt": "2026-02-26T20:30:17+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Golamgarh Shiva Temple",
+    "state": "Rajasthan",
+    "city": "Bundi",
+    "district": "Bundi",
+    "region": "Golamgarh area, Bundi district",
+    "tags": [
+      "Rajasthan",
+      "Bundi",
+      "Shiva"
+    ],
+    "story": "Golamgarh Shiva Temple is a Shiva worship site in Bundi district.",
+    "highlight": "Golamgarh Shiva Temple in the Bundi Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Golamgarh Shiva Temple is included in the Bundi district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Bundi district",
+          "url": "https://en.wikipedia.org/wiki/Bundi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Golamgarh%20Shiva%20Temple%20Bundi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:00:00Z",
+    "addedAt": "2026-02-26T20:30:18+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Apteshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "district": "Ajmer",
+    "region": "Ajmer district",
+    "tags": [
+      "Rajasthan",
+      "Ajmer",
+      "Shiva"
+    ],
+    "story": "Apteshwar Mahadev Temple is a Shiva worship site in Ajmer district.",
+    "highlight": "Apteshwar Mahadev Temple in the Ajmer Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Apteshwar Mahadev Temple is included in the Ajmer district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Ajmer district",
+          "url": "https://en.wikipedia.org/wiki/Ajmer_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Apteshwar%20Mahadev%20Temple%20Ajmer",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:20:00Z",
+    "addedAt": "2026-02-26T20:45:20+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Gupteshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "district": "Ajmer",
+    "region": "Ajmer district",
+    "tags": [
+      "Rajasthan",
+      "Ajmer",
+      "Shiva"
+    ],
+    "story": "Gupteshwar Mahadev Temple is a Shiva worship site in Ajmer district.",
+    "highlight": "Gupteshwar Mahadev Temple in the Ajmer Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Gupteshwar Mahadev Temple is included in the Ajmer district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Ajmer district",
+          "url": "https://en.wikipedia.org/wiki/Ajmer_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gupteshwar%20Mahadev%20Temple%20Ajmer",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:20:00Z",
+    "addedAt": "2026-02-26T20:45:21+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Koteshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "district": "Ajmer",
+    "region": "Ajmer district",
+    "tags": [
+      "Rajasthan",
+      "Ajmer",
+      "Shiva"
+    ],
+    "story": "Koteshwar Mahadev Temple is a Shiva worship site in Ajmer district.",
+    "highlight": "Koteshwar Mahadev Temple in the Ajmer Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Koteshwar Mahadev Temple is included in the Ajmer district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Ajmer district",
+          "url": "https://en.wikipedia.org/wiki/Ajmer_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Koteshwar%20Mahadev%20Temple%20Ajmer",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:20:00Z",
+    "addedAt": "2026-02-26T20:45:22+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Jhaleshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "district": "Ajmer",
+    "region": "Ajmer district",
+    "tags": [
+      "Rajasthan",
+      "Ajmer",
+      "Shiva"
+    ],
+    "story": "Jhaleshwar Mahadev Temple is a Shiva worship site in Ajmer district.",
+    "highlight": "Jhaleshwar Mahadev Temple in the Ajmer Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Jhaleshwar Mahadev Temple is included in the Ajmer district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Ajmer district",
+          "url": "https://en.wikipedia.org/wiki/Ajmer_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Jhaleshwar%20Mahadev%20Temple%20Ajmer",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:20:00Z",
+    "addedAt": "2026-02-26T20:45:23+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Neelkanth Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "district": "Ajmer",
+    "region": "Ajmer district",
+    "tags": [
+      "Rajasthan",
+      "Ajmer",
+      "Shiva"
+    ],
+    "story": "Neelkanth Mahadev Temple is a Shiva worship site in Ajmer district.",
+    "highlight": "Neelkanth Mahadev Temple in the Ajmer Shaiva circuit.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Neelkanth Mahadev Temple is included in the Ajmer district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Ajmer district",
+          "url": "https://en.wikipedia.org/wiki/Ajmer_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Neelkanth%20Mahadev%20Temple%20Ajmer",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:20:00Z",
+    "addedAt": "2026-02-26T20:45:24+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Mukteshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "district": "Ajmer",
+    "region": "Ajmer district",
+    "tags": [
+      "Rajasthan",
+      "Ajmer",
+      "Shiva"
+    ],
+    "story": "Mukteshwar Mahadev Temple is a Shiva worship site in Ajmer district.",
+    "highlight": "Mukteshwar Mahadev Temple in the Ajmer Shaiva circuit.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Mukteshwar Mahadev Temple is included in the Ajmer district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Ajmer district",
+          "url": "https://en.wikipedia.org/wiki/Ajmer_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mukteshwar%20Mahadev%20Temple%20Ajmer",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:20:00Z",
+    "addedAt": "2026-02-26T20:45:25+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bhootnath Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "district": "Ajmer",
+    "region": "Ajmer district",
+    "tags": [
+      "Rajasthan",
+      "Ajmer",
+      "Shiva"
+    ],
+    "story": "Bhootnath Mahadev Temple is a Shiva worship site in Ajmer district.",
+    "highlight": "Bhootnath Mahadev Temple in the Ajmer Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Bhootnath Mahadev Temple is included in the Ajmer district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Ajmer district",
+          "url": "https://en.wikipedia.org/wiki/Ajmer_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhootnath%20Mahadev%20Temple%20Ajmer",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:20:00Z",
+    "addedAt": "2026-02-26T20:45:26+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Narmadeshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "district": "Ajmer",
+    "region": "Ajmer district",
+    "tags": [
+      "Rajasthan",
+      "Ajmer",
+      "Shiva"
+    ],
+    "story": "Narmadeshwar Mahadev Temple is a Shiva worship site in Ajmer district.",
+    "highlight": "Narmadeshwar Mahadev Temple in the Ajmer Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Narmadeshwar Mahadev Temple is included in the Ajmer district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Ajmer district",
+          "url": "https://en.wikipedia.org/wiki/Ajmer_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Narmadeshwar%20Mahadev%20Temple%20Ajmer",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:20:00Z",
+    "addedAt": "2026-02-26T20:45:27+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Someshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "district": "Ajmer",
+    "region": "Ajmer district",
+    "tags": [
+      "Rajasthan",
+      "Ajmer",
+      "Shiva"
+    ],
+    "story": "Someshwar Mahadev Temple is a Shiva worship site in Ajmer district.",
+    "highlight": "Someshwar Mahadev Temple in the Ajmer Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Someshwar Mahadev Temple is included in the Ajmer district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Ajmer district",
+          "url": "https://en.wikipedia.org/wiki/Ajmer_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Someshwar%20Mahadev%20Temple%20Ajmer",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:20:00Z",
+    "addedAt": "2026-02-26T20:45:28+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Tarkeshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "district": "Jaipur",
+    "region": "Jaipur city",
+    "tags": [
+      "Rajasthan",
+      "Jaipur",
+      "Shiva"
+    ],
+    "story": "Tarkeshwar Mahadev Temple is a Shiva worship site in Jaipur district.",
+    "highlight": "Tarkeshwar Mahadev Temple in the Jaipur Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Tarkeshwar Mahadev Temple is included in the Jaipur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jaipur district",
+          "url": "https://en.wikipedia.org/wiki/Jaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Tarkeshwar%20Mahadev%20Temple%20Jaipur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:45:00Z",
+    "addedAt": "2026-02-26T21:10:40+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Eklingeshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "district": "Jaipur",
+    "region": "Jaipur district",
+    "tags": [
+      "Rajasthan",
+      "Jaipur",
+      "Shiva"
+    ],
+    "story": "Eklingeshwar Mahadev Temple is a Shiva worship site in Jaipur district.",
+    "highlight": "Eklingeshwar Mahadev Temple in the Jaipur Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Eklingeshwar Mahadev Temple is included in the Jaipur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jaipur district",
+          "url": "https://en.wikipedia.org/wiki/Jaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Eklingeshwar%20Mahadev%20Temple%20Jaipur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:45:00Z",
+    "addedAt": "2026-02-26T21:10:41+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Sadashiv Jyotirling Temple",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "district": "Jaipur",
+    "region": "Jaipur district",
+    "tags": [
+      "Rajasthan",
+      "Jaipur",
+      "Shiva"
+    ],
+    "story": "Sadashiv Jyotirling Temple is a Shiva worship site in Jaipur district.",
+    "highlight": "Sadashiv Jyotirling Temple in the Jaipur Shaiva circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Sadashiv Jyotirling Temple is included in the Jaipur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jaipur district",
+          "url": "https://en.wikipedia.org/wiki/Jaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sadashiv%20Jyotirling%20Temple%20Jaipur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:45:00Z",
+    "addedAt": "2026-02-26T21:10:42+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Pataleshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "district": "Jaipur",
+    "region": "Jaipur district",
+    "tags": [
+      "Rajasthan",
+      "Jaipur",
+      "Shiva"
+    ],
+    "story": "Pataleshwar Mahadev Temple is a Shiva worship site in Jaipur district.",
+    "highlight": "Pataleshwar Mahadev Temple in the Jaipur Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Pataleshwar Mahadev Temple is included in the Jaipur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jaipur district",
+          "url": "https://en.wikipedia.org/wiki/Jaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Pataleshwar%20Mahadev%20Temple%20Jaipur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:45:00Z",
+    "addedAt": "2026-02-26T21:10:43+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Neelkanth Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "district": "Jaipur",
+    "region": "Jaipur district",
+    "tags": [
+      "Rajasthan",
+      "Jaipur",
+      "Shiva"
+    ],
+    "story": "Neelkanth Mahadev Temple is a Shiva worship site in Jaipur district.",
+    "highlight": "Neelkanth Mahadev Temple in the Jaipur Shaiva circuit.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Neelkanth Mahadev Temple is included in the Jaipur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jaipur district",
+          "url": "https://en.wikipedia.org/wiki/Jaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Neelkanth%20Mahadev%20Temple%20Jaipur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:45:00Z",
+    "addedAt": "2026-02-26T21:10:44+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Chamatkareshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "district": "Jaipur",
+    "region": "Jaipur district",
+    "tags": [
+      "Rajasthan",
+      "Jaipur",
+      "Shiva"
+    ],
+    "story": "Chamatkareshwar Mahadev Temple is a Shiva worship site in Jaipur district.",
+    "highlight": "Chamatkareshwar Mahadev Temple in the Jaipur Shaiva circuit.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Chamatkareshwar Mahadev Temple is included in the Jaipur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jaipur district",
+          "url": "https://en.wikipedia.org/wiki/Jaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Chamatkareshwar%20Mahadev%20Temple%20Jaipur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:45:00Z",
+    "addedAt": "2026-02-26T21:10:45+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Onda Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "district": "Jaipur",
+    "region": "Jaipur district",
+    "tags": [
+      "Rajasthan",
+      "Jaipur",
+      "Shiva"
+    ],
+    "story": "Onda Mahadev Temple is a Shiva worship site in Jaipur district.",
+    "highlight": "Onda Mahadev Temple in the Jaipur Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Onda Mahadev Temple is included in the Jaipur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jaipur district",
+          "url": "https://en.wikipedia.org/wiki/Jaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Onda%20Mahadev%20Temple%20Jaipur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T15:45:00Z",
+    "addedAt": "2026-02-26T21:10:46+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Dhuleshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "district": "Jaipur",
+    "region": "Jaipur district",
+    "tags": [
+      "Rajasthan",
+      "Jaipur",
+      "Shiva"
+    ],
+    "story": "Dhuleshwar Mahadev Temple is a Shiva worship site in Jaipur district.",
+    "highlight": "Dhuleshwar Mahadev Temple in the Jaipur Shaiva circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Dhuleshwar Mahadev Temple is included in the Jaipur district Shiva temple coverage set.",
+      "architecture": "Regional shrine architecture with active local worship traditions.",
+      "visitorNotes": "Plan local navigation in daylight for smoother district travel.",
+      "sources": [
+        {
+          "label": "Jaipur district",
+          "url": "https://en.wikipedia.org/wiki/Jaipur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dhuleshwar%20Mahadev%20Temple%20Jaipur",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T16:00:00Z",
+    "addedAt": "2026-02-26T21:25:00+05:30",
     "isNew": true
   }
 ];

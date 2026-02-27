@@ -112,6 +112,17 @@ const FEEDBACK_EMAIL = String(import.meta.env.VITE_FEEDBACK_EMAIL || '')
 const slugify = (value) =>
   String(value || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')
 
+const DISCOVERY_CATEGORY_MAP = {
+  excavation:   { label: 'Excavation',   type: 'type-excavation' },
+  conservation: { label: 'Conservation', type: 'type-conservation' },
+  reopened:     { label: 'Reopened',     type: 'type-reopened' },
+  find:         { label: 'Find',         type: 'type-find' },
+}
+const getDiscoveryCategory = (status = '') => {
+  const key = status.toLowerCase().replace(/\s+/g, '-')
+  return DISCOVERY_CATEGORY_MAP[key] ?? { label: status || 'Discovery', type: 'type-pending' }
+}
+
 const buildApiQuery = (paramsObject = {}) => {
   const params = new URLSearchParams()
   Object.entries(paramsObject).forEach(([key, value]) => {
@@ -333,10 +344,12 @@ const copy = {
       note:
         'These entries summarize recent reports. Rituals, access, and exact chronology may evolve as research continues.',
       pending: 'Details pending',
+      switchMode: 'Switch to Shiva mode',
       labels: {
         period: 'Estimated era',
         source: 'Source',
         status: 'Status',
+        year: 'Reported',
       },
     },
     modeToggle: {
@@ -592,10 +605,12 @@ const copy = {
       note:
         'यह प्रविष्टियाँ हाल की रिपोर्टों का सार हैं; अनुष्ठान, प्रवेश और कालक्रम पर अतिरिक्त शोध चल रहा हो सकता है।',
       pending: 'विवरण अपडेट होना बाकी',
+      switchMode: 'शिव मोड देखें',
       labels: {
         period: 'अनुमानित काल',
         source: 'स्रोत',
         status: 'स्थिति',
+        year: 'रिपोर्ट',
       },
     },
     modeToggle: {
@@ -2235,6 +2250,11 @@ function App() {
               onClick={() => switchPage('recent')}
             >
               {t.nav.recent}
+              {recentItems.length > 0 && (
+                <span className="nav-count-badge" aria-label={`${recentItems.length} items`}>
+                  {recentItems.length}
+                </span>
+              )}
             </button>
             <button
               className={`top-nav-link ${activePage === 'circuits' ? 'active' : ''}`}
@@ -2384,22 +2404,30 @@ function App() {
           </div>
           {isShivaMode && recentItems.length ? (
             <>
+              <div className="discovery-caveat" role="note">
+                <i className="fa-solid fa-circle-info" aria-hidden="true" />
+                <span>{t.recentSection.note}</span>
+              </div>
               <div className="discovery-grid">
                 {pagedRecentItems.map((item, index) => {
                   const source = item.sources?.[0]
                   const summary = item.summary || t.recentSection.pending
                   const period = item.period || t.recentSection.pending
-                  const year = item.yearDiscovered || t.recentSection.pending
-                  const status = item.status || t.recentSection.pending
+                  const year = item.yearDiscovered
                   const location = item.location || t.recentSection.pending
+                  const { label: badgeLabel, type: badgeType } = getDiscoveryCategory(item.status)
                   const discoveryImage = item.image
                   const discoveryImageAlt = item.imageAlt || `${item.name} discovery site`
                   const discoveryImageCredit = item.imageCredit || 'Wikimedia Commons'
                   const discoveryImageCreditUrl = item.imageCreditUrl
                   return (
-                    <article className="discovery-card" key={`${item.name}-${index}`}>
-                      {discoveryImage ? (
-                        <figure className="discovery-media">
+                    <article
+                      className="discovery-card"
+                      key={`${item.name}-${index}`}
+                      style={{ animationDelay: `${index * 60}ms` }}
+                    >
+                      <figure className="discovery-media">
+                        {discoveryImage ? (
                           <img
                             className="img-blur-up"
                             src={discoveryImage}
@@ -2408,18 +2436,25 @@ function App() {
                             ref={(img) => { if (img?.complete) img.classList.add('img-loaded') }}
                             onLoad={(e) => e.currentTarget.classList.add('img-loaded')}
                           />
-                          {discoveryImageCreditUrl ? (
-                            <figcaption>
-                              <a href={discoveryImageCreditUrl} target="_blank" rel="noreferrer">
-                                {discoveryImageCredit}
-                              </a>
-                            </figcaption>
-                          ) : null}
-                        </figure>
-                      ) : null}
+                        ) : (
+                          <div className="discovery-media-placeholder" aria-hidden="true" />
+                        )}
+                        {discoveryImage && discoveryImageCreditUrl ? (
+                          <figcaption>
+                            <a href={discoveryImageCreditUrl} target="_blank" rel="noreferrer">
+                              {discoveryImageCredit}
+                            </a>
+                          </figcaption>
+                        ) : null}
+                      </figure>
                       <div className="discovery-header">
-                        <span className="discovery-badge">{status}</span>
-                        <span className="discovery-year">{year}</span>
+                        <span className={`discovery-badge ${badgeType}`}>{badgeLabel}</span>
+                        {year ? (
+                          <span className="discovery-year">
+                            <span className="discovery-year-label">{t.recentSection.labels.year}</span>
+                            <span className="discovery-year-value">{year}</span>
+                          </span>
+                        ) : null}
                       </div>
                       <h3>{item.name}</h3>
                       <p className="discovery-location">{location}</p>
@@ -2432,8 +2467,14 @@ function App() {
                         <div className="discovery-detail">
                           <span>{t.recentSection.labels.source}</span>
                           {source ? (
-                            <a href={source.url} target="_blank" rel="noreferrer">
+                            <a
+                              className="discovery-source-link"
+                              href={source.url}
+                              target="_blank"
+                              rel="noreferrer"
+                            >
                               {source.label}
+                              <i className="fa-solid fa-arrow-up-right-from-square" aria-hidden="true" />
                             </a>
                           ) : (
                             <p>{t.recentSection.pending}</p>
@@ -2445,7 +2486,6 @@ function App() {
                 })}
               </div>
               {renderPagination(recentPage, totalRecentPages, setRecentPage, 'recent')}
-              <p className="discovery-note">{t.recentSection.note}</p>
             </>
           ) : (
             <div className="empty-state">
@@ -2453,6 +2493,16 @@ function App() {
                 {isShivaMode ? t.recentSection.emptyTitle : t.recentSection.shaktiOnlyTitle}
               </h3>
               <p>{isShivaMode ? t.recentSection.emptyBody : t.recentSection.shaktiOnlyBody}</p>
+              {!isShivaMode && (
+                <button
+                  type="button"
+                  className="btn-signup"
+                  onClick={() => _setMode(MODES.SHIVA)}
+                  style={{ marginTop: '12px' }}
+                >
+                  {t.recentSection.switchMode}
+                </button>
+              )}
             </div>
           )}
         </section>
@@ -2644,7 +2694,8 @@ function App() {
                         className="img-blur-up"
                         src={featuredStoryImage}
                         alt={`${getTempleText(featuredTemple, 'name')} in ${featuredTemple.city}`}
-                        loading="lazy"
+                        loading="eager"
+                        fetchPriority="high"
                         ref={(img) => { if (img?.complete) img.classList.add('img-loaded') }}
                         onLoad={(e) => e.currentTarget.classList.add('img-loaded')}
                         onError={(event) => {
@@ -3481,6 +3532,11 @@ function App() {
         >
           <i className="fa-solid fa-star" aria-hidden="true" />
           <span>{t.nav.recent}</span>
+          {recentItems.length > 0 && (
+            <span className="nav-count-badge" aria-label={`${recentItems.length} items`}>
+              {recentItems.length}
+            </span>
+          )}
         </button>
         <button
           className={`bottom-nav-item${activePage === 'circuits' ? ' active' : ''}`}
