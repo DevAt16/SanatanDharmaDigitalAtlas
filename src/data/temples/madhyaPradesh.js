@@ -11468,6 +11468,474 @@ export const madhyaPradeshTemples = [
     "isNew": true
   },
   {
+    "name": "Omkareshwar Mahadev Mandir",
+    "state": "Madhya Pradesh",
+    "city": "Ratlam",
+    "district": "Ratlam",
+    "region": "Ratlam district",
+    "tags": [
+      "Ratlam",
+      "Ratlam",
+      "Shiva"
+    ],
+    "story": "Omkareshwar Mahadev Mandir is a Shiva temple in the Ratlam district Shaiva network.",
+    "highlight": "Local Shiva worship node in Ratlam.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Ratlam district",
+          "url": "https://en.wikipedia.org/wiki/Ratlam_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Omkareshwar%20Mahadev%20Mandir%20Ratlam",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:18:01Z",
+    "addedAt": "2026-02-26T16:48:01+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shri Gadkailash Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Ratlam",
+    "district": "Ratlam",
+    "region": "Ratlam district",
+    "tags": [
+      "Ratlam",
+      "Ratlam",
+      "Shiva"
+    ],
+    "story": "Shri Gadkailash Mahadev Temple is a Shiva temple in the Ratlam district Shaiva network.",
+    "highlight": "Local Shiva worship node in Ratlam.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Ratlam district",
+          "url": "https://en.wikipedia.org/wiki/Ratlam_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Gadkailash%20Mahadev%20Temple%20Ratlam",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:18:02Z",
+    "addedAt": "2026-02-26T16:48:02+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shri Bilkeshwar Mahadev Mandir",
+    "state": "Madhya Pradesh",
+    "city": "Ratlam",
+    "district": "Ratlam",
+    "region": "Ratlam district",
+    "tags": [
+      "Ratlam",
+      "Ratlam",
+      "Shiva"
+    ],
+    "story": "Shri Bilkeshwar Mahadev Mandir is a Shiva temple in the Ratlam district Shaiva network.",
+    "highlight": "Local Shiva worship node in Ratlam.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Ratlam district",
+          "url": "https://en.wikipedia.org/wiki/Ratlam_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Bilkeshwar%20Mahadev%20Mandir%20Ratlam",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:18:03Z",
+    "addedAt": "2026-02-26T16:48:03+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Rameshwaram Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Ratlam",
+    "district": "Ratlam",
+    "region": "Ratlam district",
+    "tags": [
+      "Ratlam",
+      "Ratlam",
+      "Shiva"
+    ],
+    "story": "Rameshwaram Mahadev Temple is a Shiva temple in the Ratlam district Shaiva network.",
+    "highlight": "Local Shiva worship node in Ratlam.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Ratlam district",
+          "url": "https://en.wikipedia.org/wiki/Ratlam_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Rameshwaram%20Mahadev%20Temple%20Ratlam",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:18:04Z",
+    "addedAt": "2026-02-26T16:48:04+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shree Kashi Vishwanath Mahadev Mandir",
+    "state": "Madhya Pradesh",
+    "city": "Ratlam",
+    "district": "Ratlam",
+    "region": "Ratlam district",
+    "tags": [
+      "Ratlam",
+      "Ratlam",
+      "Shiva"
+    ],
+    "story": "Shree Kashi Vishwanath Mahadev Mandir is a Shiva temple in the Ratlam district Shaiva network.",
+    "highlight": "Local Shiva worship node in Ratlam.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Ratlam district",
+          "url": "https://en.wikipedia.org/wiki/Ratlam_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shree%20Kashi%20Vishwanath%20Mahadev%20Mandir%20Ratlam",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:18:05Z",
+    "addedAt": "2026-02-26T16:48:05+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Temple (Kasturba Nagar)",
+    "state": "Madhya Pradesh",
+    "city": "Ratlam",
+    "district": "Ratlam",
+    "region": "Kasturba Nagar, Ratlam district",
+    "tags": [
+      "Ratlam",
+      "Kasturba Nagar",
+      "Shiva"
+    ],
+    "story": "Shiv Temple (Kasturba Nagar) is a Shiva temple in the Ratlam district Shaiva network.",
+    "highlight": "Neighborhood Shiva worship node in Kasturba Nagar.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Ratlam district",
+          "url": "https://en.wikipedia.org/wiki/Ratlam_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Temple%20(Kasturba%20Nagar)%20Ratlam",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:18:06Z",
+    "addedAt": "2026-02-26T16:48:06+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Neelkanth Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Ratlam",
+    "district": "Ratlam",
+    "region": "Ratlam district",
+    "tags": [
+      "Ratlam",
+      "Ratlam",
+      "Shiva"
+    ],
+    "story": "Neelkanth Mahadev Temple is a Shiva temple in the Ratlam district Shaiva network.",
+    "highlight": "Local Shiva worship node in Ratlam.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Ratlam district",
+          "url": "https://en.wikipedia.org/wiki/Ratlam_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Neelkanth%20Mahadev%20Temple%20Ratlam",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:18:07Z",
+    "addedAt": "2026-02-26T16:48:07+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Mahakaleshwar Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Ratlam",
+    "district": "Ratlam",
+    "region": "Ratlam district",
+    "tags": [
+      "Ratlam",
+      "Ratlam",
+      "Shiva"
+    ],
+    "story": "Mahakaleshwar Mahadev Temple is a Shiva temple in the Ratlam district Shaiva network.",
+    "highlight": "Local Shiva worship node in Ratlam.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Ratlam district",
+          "url": "https://en.wikipedia.org/wiki/Ratlam_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahakaleshwar%20Mahadev%20Temple%20Ratlam",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:18:08Z",
+    "addedAt": "2026-02-26T16:48:08+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Someshwar Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Ratlam",
+    "district": "Ratlam",
+    "region": "Ratlam district",
+    "tags": [
+      "Ratlam",
+      "Ratlam",
+      "Shiva"
+    ],
+    "story": "Someshwar Mahadev Temple is a Shiva temple in the Ratlam district Shaiva network.",
+    "highlight": "Local Shiva worship node in Ratlam.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Ratlam district",
+          "url": "https://en.wikipedia.org/wiki/Ratlam_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Someshwar%20Mahadev%20Temple%20Ratlam",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:18:09Z",
+    "addedAt": "2026-02-26T16:48:09+05:30",
+    "isNew": true
+  },
+  {
     "name": "Jaleshwar Temple (Maheshwar)",
     "state": "Madhya Pradesh",
     "city": "Maheshwar",
@@ -16200,6 +16668,474 @@ export const madhyaPradeshTemples = [
     "isNew": true
   },
   {
+    "name": "Banganga Temple",
+    "state": "Madhya Pradesh",
+    "city": "Shivpuri",
+    "district": "Shivpuri",
+    "region": "Banganga area, Shivpuri district",
+    "tags": [
+      "Shivpuri",
+      "Banganga",
+      "Shiva"
+    ],
+    "story": "Banganga Temple is a Shiva temple in the Shivpuri district Shaiva network.",
+    "highlight": "Local Shiva worship node in Banganga area.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Shivpuri district",
+          "url": "https://en.wikipedia.org/wiki/Shivpuri_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Banganga%20Temple%20Shivpuri%20Shivpuri",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T10:45:11Z",
+    "addedAt": "2026-02-26T16:15:11+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shri Shiv Temple (Veer Sawarkar Colony)",
+    "state": "Madhya Pradesh",
+    "city": "Shivpuri",
+    "district": "Shivpuri",
+    "region": "Veer Sawarkar Colony, Shivpuri district",
+    "tags": [
+      "Shivpuri",
+      "Veer Sawarkar Colony",
+      "Shiva"
+    ],
+    "story": "Shri Shiv Temple (Veer Sawarkar Colony) is a Shiva temple in the Shivpuri district Shaiva network.",
+    "highlight": "Local Shiva worship node in Veer Sawarkar Colony.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Shivpuri district",
+          "url": "https://en.wikipedia.org/wiki/Shivpuri_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Shiv%20Temple%20(Veer%20Sawarkar%20Colony)%20Shivpuri",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T10:45:12Z",
+    "addedAt": "2026-02-26T16:15:12+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiva Temple (Kamla Ganj)",
+    "state": "Madhya Pradesh",
+    "city": "Shivpuri",
+    "district": "Shivpuri",
+    "region": "Kamla Ganj, Shivpuri district",
+    "tags": [
+      "Shivpuri",
+      "Kamla Ganj",
+      "Shiva"
+    ],
+    "story": "Shiva Temple (Kamla Ganj) is a Shiva temple in the Shivpuri district Shaiva network.",
+    "highlight": "Local Shiva worship node in Kamla Ganj.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Shivpuri district",
+          "url": "https://en.wikipedia.org/wiki/Shivpuri_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiva%20Temple%20(Kamla%20Ganj)%20Shivpuri",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T10:45:13Z",
+    "addedAt": "2026-02-26T16:15:13+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Temple (Dakhar Mohalla)",
+    "state": "Madhya Pradesh",
+    "city": "Shivpuri",
+    "district": "Shivpuri",
+    "region": "Dakhar Mohalla, Shivpuri district",
+    "tags": [
+      "Shivpuri",
+      "Dakhar Mohalla",
+      "Shiva"
+    ],
+    "story": "Shiv Temple (Dakhar Mohalla) is a Shiva temple in the Shivpuri district Shaiva network.",
+    "highlight": "Local Shiva worship node in Dakhar Mohalla.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Shivpuri district",
+          "url": "https://en.wikipedia.org/wiki/Shivpuri_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Temple%20(Dakhar%20Mohalla)%20Shivpuri",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T10:45:14Z",
+    "addedAt": "2026-02-26T16:15:14+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiva Temple (Mahuar Colony)",
+    "state": "Madhya Pradesh",
+    "city": "Shivpuri",
+    "district": "Shivpuri",
+    "region": "Mahuar Colony, Shivpuri district",
+    "tags": [
+      "Shivpuri",
+      "Mahuar Colony",
+      "Shiva"
+    ],
+    "story": "Shiva Temple (Mahuar Colony) is a Shiva temple in the Shivpuri district Shaiva network.",
+    "highlight": "Local Shiva worship node in Mahuar Colony.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Shivpuri district",
+          "url": "https://en.wikipedia.org/wiki/Shivpuri_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiva%20Temple%20(Mahuar%20Colony)%20Shivpuri",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T10:45:15Z",
+    "addedAt": "2026-02-26T16:15:15+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Temple (Gayatri Colony)",
+    "state": "Madhya Pradesh",
+    "city": "Shivpuri",
+    "district": "Shivpuri",
+    "region": "Gayatri Colony, Shivpuri district",
+    "tags": [
+      "Shivpuri",
+      "Gayatri Colony",
+      "Shiva"
+    ],
+    "story": "Shiv Temple (Gayatri Colony) is a Shiva temple in the Shivpuri district Shaiva network.",
+    "highlight": "Local Shiva worship node in Gayatri Colony.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Shivpuri district",
+          "url": "https://en.wikipedia.org/wiki/Shivpuri_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Temple%20(Gayatri%20Colony)%20Shivpuri",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T10:45:16Z",
+    "addedAt": "2026-02-26T16:15:16+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Koteshwar Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Shivpuri",
+    "district": "Shivpuri",
+    "region": "Shivpuri district",
+    "tags": [
+      "Shivpuri",
+      "Shivpuri",
+      "Shiva"
+    ],
+    "story": "Koteshwar Mahadev Temple is a Shiva temple in the Shivpuri district Shaiva network.",
+    "highlight": "Local Shiva worship node in Shivpuri.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Shivpuri district",
+          "url": "https://en.wikipedia.org/wiki/Shivpuri_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Koteshwar%20Mahadev%20Temple%20Shivpuri",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T10:45:17Z",
+    "addedAt": "2026-02-26T16:15:17+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Neelkanth Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Shivpuri",
+    "district": "Shivpuri",
+    "region": "Shivpuri district",
+    "tags": [
+      "Shivpuri",
+      "Shivpuri",
+      "Shiva"
+    ],
+    "story": "Neelkanth Mahadev Temple is a Shiva temple in the Shivpuri district Shaiva network.",
+    "highlight": "Local Shiva worship node in Shivpuri.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Shivpuri district",
+          "url": "https://en.wikipedia.org/wiki/Shivpuri_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Neelkanth%20Mahadev%20Temple%20Shivpuri",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T10:45:18Z",
+    "addedAt": "2026-02-26T16:15:18+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Someshwar Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Shivpuri",
+    "district": "Shivpuri",
+    "region": "Shivpuri district",
+    "tags": [
+      "Shivpuri",
+      "Shivpuri",
+      "Shiva"
+    ],
+    "story": "Someshwar Mahadev Temple is a Shiva temple in the Shivpuri district Shaiva network.",
+    "highlight": "Local Shiva worship node in Shivpuri.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Shivpuri district",
+          "url": "https://en.wikipedia.org/wiki/Shivpuri_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Someshwar%20Mahadev%20Temple%20Shivpuri",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T10:45:19Z",
+    "addedAt": "2026-02-26T16:15:19+05:30",
+    "isNew": true
+  },
+  {
     "name": "Ekattarso Mahadev Mandir / Chausath Yogini Temple (Mitaoli)",
     "state": "Madhya Pradesh",
     "city": "Mitaoli",
@@ -18849,6 +19785,370 @@ export const madhyaPradeshTemples = [
     "verificationStatus": "verified",
     "lastVerifiedAt": "2026-02-24T08:03:21Z",
     "addedAt": "2026-02-24T13:33:28+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiva Dham Temples",
+    "state": "Madhya Pradesh",
+    "city": "Raisen",
+    "district": "Raisen",
+    "region": "Raisen district",
+    "tags": [
+      "Raisen",
+      "Raisen",
+      "Shiva"
+    ],
+    "story": "Shiva Dham Temples is a Shiva-focused temple cluster entry in the Raisen district devotional network.",
+    "highlight": "Cluster-style Shiva worship node in Raisen district.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local temple points and timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Mixed regional shrine architecture across connected temple points.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Raisen district",
+          "url": "https://en.wikipedia.org/wiki/Raisen_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiva%20Dham%20Temples%20Raisen",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:30:01Z",
+    "addedAt": "2026-02-26T17:00:01+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Ashapuri Temple",
+    "state": "Madhya Pradesh",
+    "city": "Ashapuri",
+    "district": "Raisen",
+    "region": "Ashapuri area, Raisen district",
+    "tags": [
+      "Raisen",
+      "Ashapuri",
+      "Shiva"
+    ],
+    "story": "Ashapuri Temple is a Shiva-linked worship node in the Raisen district sacred landscape.",
+    "highlight": "Ashapuri-sector Shiva worship point in Raisen district.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Structure%20with%20Pillars%20in%20the%20Bhootnath%20Temple%20complex%2C%20Ashapuri.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Structure_with_Pillars_in_the_Bhootnath_Temple_complex,_Ashapuri.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Darshan"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional temple style with active local devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Raisen district",
+          "url": "https://en.wikipedia.org/wiki/Raisen_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Ashapuri%20Temple%20Raisen",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:30:02Z",
+    "addedAt": "2026-02-26T17:00:02+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir",
+    "state": "Madhya Pradesh",
+    "city": "Raisen",
+    "district": "Raisen",
+    "region": "Raisen district",
+    "tags": [
+      "Raisen",
+      "Raisen",
+      "Shiva"
+    ],
+    "story": "Shiv Mandir is a local Shiva worship node in the Raisen district devotional network.",
+    "highlight": "Community-centered Shiva darshan point in Raisen.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Raisen district",
+          "url": "https://en.wikipedia.org/wiki/Raisen_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Raisen",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:30:03Z",
+    "addedAt": "2026-02-26T17:00:03+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shri Vishveshwar Mahadev Mandir",
+    "state": "Madhya Pradesh",
+    "city": "Raisen",
+    "district": "Raisen",
+    "region": "Raisen district",
+    "tags": [
+      "Raisen",
+      "Raisen",
+      "Shiva"
+    ],
+    "story": "Shri Vishveshwar Mahadev Mandir is a Shiva temple in the Raisen district devotional network.",
+    "highlight": "Vishveshwar-form Shiva worship node in Raisen district.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Raisen district",
+          "url": "https://en.wikipedia.org/wiki/Raisen_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Vishveshwar%20Mahadev%20Mandir%20Raisen",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:30:04Z",
+    "addedAt": "2026-02-26T17:00:04+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Koteshwar Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Raisen",
+    "district": "Raisen",
+    "region": "Raisen district",
+    "tags": [
+      "Raisen",
+      "Raisen",
+      "Shiva"
+    ],
+    "story": "Koteshwar Mahadev Temple is a Shiva temple in the Raisen district devotional network.",
+    "highlight": "Koteshwar-form Shiva worship node in Raisen district.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Raisen district",
+          "url": "https://en.wikipedia.org/wiki/Raisen_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Koteshwar%20Mahadev%20Temple%20Raisen",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:30:05Z",
+    "addedAt": "2026-02-26T17:00:05+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Neelkanth Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "city": "Raisen",
+    "district": "Raisen",
+    "region": "Raisen district",
+    "tags": [
+      "Raisen",
+      "Raisen",
+      "Shiva"
+    ],
+    "story": "Neelkanth Mahadev Temple is a Shiva temple in the Raisen district devotional network.",
+    "highlight": "Neelkanth-form Shiva worship node in Raisen district.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Raisen district",
+          "url": "https://en.wikipedia.org/wiki/Raisen_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Neelkanth%20Mahadev%20Temple%20Raisen",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:30:06Z",
+    "addedAt": "2026-02-26T17:00:06+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Prachin Shiv Mandir",
+    "state": "Madhya Pradesh",
+    "city": "Raisen",
+    "district": "Raisen",
+    "region": "Raisen district",
+    "tags": [
+      "Raisen",
+      "Raisen",
+      "Shiva"
+    ],
+    "story": "Prachin Shiv Mandir is an old Shiva temple in the Raisen district devotional network.",
+    "highlight": "Ancient-style Shiva worship node in Raisen district.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "architecture": "Regional shrine architecture with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "sources": [
+        {
+          "label": "Raisen district",
+          "url": "https://en.wikipedia.org/wiki/Raisen_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Shiv%20Mandir%20Raisen",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-02-26T11:30:07Z",
+    "addedAt": "2026-02-26T17:00:07+05:30",
     "isNew": true
   }
 ];

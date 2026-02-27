@@ -23,6 +23,7 @@ import { haryanaTemples } from './haryana.js'
 import { jammuKashmirTemples } from './jammuKashmir.js'
 import { himachalPradeshTemples } from './himachalPradesh.js'
 import { punjabTemples } from './punjab.js'
+import { delhiTemples } from './delhi.js'
 import { madhyaPradeshShaktiTemples } from './madhyaPradesh-shakti.js'
 import { rajasthanShaktiTemples } from './rajasthan-shakti.js'
 import { uttarPradeshShaktiTemples } from './uttarPradesh-shakti.js'
@@ -52,6 +53,7 @@ export const templeData = [
   ...arunachalPradeshTemples,
   ...haryanaTemples,
   ...punjabTemples,
+  ...delhiTemples,
   ...himachalPradeshTemples,
   ...jammuKashmirTemples
 ]

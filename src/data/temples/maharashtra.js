@@ -1,4 +1,4 @@
-export const maharashtraTemples = [
+﻿export const maharashtraTemples = [
   {
     "name": "Kailash Temple (Ellora)",
     "state": "Maharashtra",
@@ -4975,6 +4975,282 @@ export const maharashtraTemples = [
     }
   },
   {
+    "name": "Papeshwar Temple",
+    "state": "Maharashtra",
+    "city": "Beed",
+    "region": "Beed district",
+    "tags": [
+      "Papeshwar",
+      "Beed",
+      "Mahadev"
+    ],
+    "story": "A local Papeshwar Shiva shrine in Beed district, maintained as part of the district's active Shaiva worship circuit.",
+    "highlight": "Beed-region Papeshwar darshan with regular local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:10:00+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm local access and temple timing before visit.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Papeshwar naming survives in local Marathwada Shaiva worship memory.",
+      "architecture": "Regional shrine layout centered on a compact sanctum and local ritual space.",
+      "darshan": "Daily darshan with increased local participation on Mondays.",
+      "seasonal": "Shravan and Shivratri are the busiest annual periods.",
+      "visitorNotes": "Weekday mornings are generally less crowded.",
+      "festivals": "Mahashivratri and Shravan observances are primary.",
+      "sources": [
+        {
+          "label": "Beed district",
+          "url": "https://en.wikipedia.org/wiki/Beed_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Khandeshwar Mahadev Temple",
+    "state": "Maharashtra",
+    "city": "Beed",
+    "region": "Beed district",
+    "tags": [
+      "Khandeshwar",
+      "Beed",
+      "Mahadev"
+    ],
+    "story": "Khandeshwar Mahadev Temple is a local Shiva shrine in Beed district with steady neighborhood-level worship.",
+    "highlight": "Beed-city Khandeshwar Shiva darshan in the local Marathwada devotional grid.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:10:01+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm local route and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Khandeshwar worship reflects long-running local Shaiva naming traditions in Beed.",
+      "architecture": "Traditional regional temple plan with sanctum-focused worship flow.",
+      "darshan": "Regular daily darshan with higher attendance on Mondays.",
+      "seasonal": "Shravan and Shivratri attract the highest local turnout.",
+      "visitorNotes": "Early morning visits are generally smoother.",
+      "festivals": "Mahashivratri and Shravan Somvar are key observances.",
+      "sources": [
+        {
+          "label": "Beed district",
+          "url": "https://en.wikipedia.org/wiki/Beed_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jata Shankar Temple",
+    "state": "Maharashtra",
+    "city": "Beed",
+    "region": "Beed district",
+    "tags": [
+      "Jata Shankar",
+      "Beed",
+      "Mahadev"
+    ],
+    "story": "Jata Shankar Temple is a Shiva worship site in Beed district, revered in local practice as a focused Mahadev darshan point.",
+    "highlight": "Jata Shankar darshan in the Beed Shaiva circuit.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:10:02+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Check temple timing locally before planning travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Jata Shankar naming links the shrine to long-standing Shaiva iconography traditions.",
+      "architecture": "Compact regional shrine profile with active routine worship.",
+      "darshan": "Steady darshan with local festival-day crowd peaks.",
+      "seasonal": "Most active during Shravan and Shivratri cycles.",
+      "visitorNotes": "Prefer early hours during peak festival weeks.",
+      "festivals": "Mahashivratri and Shravan Mondays are primary observances.",
+      "sources": [
+        {
+          "label": "Beed district",
+          "url": "https://en.wikipedia.org/wiki/Beed_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amruteshwar Temple (Beed)",
+    "state": "Maharashtra",
+    "city": "Beed",
+    "region": "Beed district",
+    "tags": [
+      "Amruteshwar",
+      "Beed",
+      "Mahadev"
+    ],
+    "story": "Amruteshwar Temple (Beed) is a local Shiva shrine within the district's Marathwada devotional network.",
+    "highlight": "Amruteshwar darshan in Beed with steady local Shaiva continuity.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:10:03+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm local access and timing before visit.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Amruteshwar worship motifs are preserved in multiple Maharashtra Shaiva traditions, including Beed's local circuit.",
+      "architecture": "Regional temple layout with sanctum-centered ritual flow.",
+      "darshan": "Daily darshan with strong local participation during festival windows.",
+      "seasonal": "Most active in Shravan and on Shivratri.",
+      "visitorNotes": "Weekday mornings are generally quieter.",
+      "festivals": "Mahashivratri and Shravan Somvar are key observances.",
+      "sources": [
+        {
+          "label": "Beed district",
+          "url": "https://en.wikipedia.org/wiki/Beed_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nilkantheshwar Temple (Beed)",
+    "state": "Maharashtra",
+    "city": "Beed",
+    "region": "Beed district",
+    "tags": [
+      "Nilkantheshwar",
+      "Beed",
+      "Mahadev"
+    ],
+    "story": "Nilkantheshwar Temple (Beed) is a Shiva worship node in the Beed district devotional landscape.",
+    "highlight": "Nilkantheshwar darshan in Beed's urban-rural Shaiva continuum.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:10:04+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm local route and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Nilkantheshwar naming reflects enduring local Shaiva traditions in Marathwada temple practice.",
+      "architecture": "Traditional shrine profile with regular daily worship.",
+      "darshan": "Steady darshan with periodic festival surges.",
+      "seasonal": "Shravan and Shivratri periods see the highest visitation.",
+      "visitorNotes": "Early-day visits are generally more manageable.",
+      "festivals": "Mahashivratri and Shravan rituals are central.",
+      "sources": [
+        {
+          "label": "Beed district",
+          "url": "https://en.wikipedia.org/wiki/Beed_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rameshwar Mahadev Temple (Beed)",
+    "state": "Maharashtra",
+    "city": "Beed",
+    "region": "Beed district",
+    "tags": [
+      "Rameshwar",
+      "Beed",
+      "Mahadev"
+    ],
+    "story": "Rameshwar Mahadev Temple (Beed) is a local Shiva shrine in Beed district with sustained daily worship traditions.",
+    "highlight": "Rameshwar Mahadev darshan in the Beed Shaiva network.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:10:05+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm local timing and access details before visit.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Rameshwar-named shrines are part of older regional Shaiva continuity in Marathwada, including Beed.",
+      "architecture": "Regional temple layout with sanctum-first darshan sequence.",
+      "darshan": "Daily darshan with festival-day crowd expansion.",
+      "seasonal": "Highest activity in Shravan and on Shivratri.",
+      "visitorNotes": "Prefer mornings for smoother darshan flow.",
+      "festivals": "Mahashivratri and Shravan Somvar are key observances.",
+      "sources": [
+        {
+          "label": "Beed district",
+          "url": "https://en.wikipedia.org/wiki/Beed_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
     "name": "Omkareshwar Mahadev Temple (Jalgaon City)",
     "state": "Maharashtra",
     "city": "Jalgaon",
@@ -6106,5 +6382,15876 @@ export const maharashtraTemples = [
         }
       ]
     }
-  }
+  },
+  {
+    "name": "Karhateshwar Temple",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Karhateshwar",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Swayambhu Shree Someshwar Mandir",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Swayambhu",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Swayambhu Sapteshwar Temple",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Shri",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Parwateshwar Shiva Temple",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Parwateshwar",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nageshwar Temple",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Nageshwar",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chafanath Shiva Temple",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Chafanath",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tikaleshwar Temple",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Tikaleshwar",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vimleshwar Temple",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Vimleshwar",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kedarnath Temple",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Kedarnath",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Mahadev Mandir",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Shri",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Swayambhu Mahadev Pandav Kalin Mandir",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Swayambhu",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vishshweshwar Mandir",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Vishshweshwar",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kedarling Mandir",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Kedarling",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sagwekar Somnath Mandir",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Sagwekar",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwar Katre Kuladevta",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Someshwar",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Ratnagiri district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Ratnagiri district Shaiva node with consistent local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship traditions in Ratnagiri preserve these mandirs through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple layout centered on sanctum darshan and community rituals.",
+      "darshan": "Steady local participation with higher turnout on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest footfall.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Monday observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vyadeshwar Mandir",
+    "state": "Maharashtra",
+    "city": "Ratnagiri",
+    "region": "Ratnagiri district, Konkan",
+    "tags": [
+      "Vyadeshwar",
+      "Ratnagiri",
+      "Shiva"
+    ],
+    "story": "A Vyadeshwar Shiva shrine in Ratnagiri district, preserved through regular local worship and festival observances.",
+    "highlight": "Ratnagiri-concentrated Vyadeshwar darshan with sustained Konkan Shaiva continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality in Ratnagiri district before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Vyadeshwar worship in Konkan remains active through local temple routines and seasonal pilgrimage flows.",
+      "architecture": "Traditional Konkan mandir profile with sanctum-focused worship.",
+      "darshan": "Steady local darshan with higher festival turnout.",
+      "seasonal": "Shravan and Shivratri periods are busiest.",
+      "visitorNotes": "Weekday morning darshan is generally smoother.",
+      "festivals": "Mahashivratri and Shravan observances are the key annual peaks.",
+      "sources": [
+        {
+          "label": "Ratnagiri district",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kunkeshwar Mandir",
+    "state": "Maharashtra",
+    "city": "Devgad",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Kunkeshwar",
+      "Sindhudurg",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rameshwar Temple (Achara)",
+    "state": "Maharashtra",
+    "city": "Achara",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Rameshwar",
+      "Achara",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vimleshwar Shiva Temple (Wada)",
+    "state": "Maharashtra",
+    "city": "Wada",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Vimleshwar",
+      "Wada",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Dev Kaleshwar Devasthan (Nerur)",
+    "state": "Maharashtra",
+    "city": "Nerur",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Kaleshwar",
+      "Nerur",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Dev Wagheshwar Mandir (Tondavali)",
+    "state": "Maharashtra",
+    "city": "Tondavali",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Wagheshwar",
+      "Tondavali",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vetoba Temple (Arawali)",
+    "state": "Maharashtra",
+    "city": "Arawali",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Vetoba",
+      "Arawali",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Dev Kudaleshwar Temple",
+    "state": "Maharashtra",
+    "city": "Kudal",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Kudaleshwar",
+      "Sindhudurg",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Swayambhu Mahadev Temple (Redi)",
+    "state": "Maharashtra",
+    "city": "Redi",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Swayambhu",
+      "Redi",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Dev Rameshwar Temple (Vijaydurg)",
+    "state": "Maharashtra",
+    "city": "Vijaydurg",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Rameshwar",
+      "Vijaydurg",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Lingeshwar Mandir (Girgaon)",
+    "state": "Maharashtra",
+    "city": "Girgaon",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Lingeshwar",
+      "Girgaon",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Brameshwar Mandir (Bambuli)",
+    "state": "Maharashtra",
+    "city": "Bambuli",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Brameshwar",
+      "Bambuli",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwar Temple (Redi)",
+    "state": "Maharashtra",
+    "city": "Redi",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Siddheshwar",
+      "Redi",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Margeshwar Temple (Hadi)",
+    "state": "Maharashtra",
+    "city": "Hadi",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Margeshwar",
+      "Hadi",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gangeshwar Temple (Harkul Budruk)",
+    "state": "Maharashtra",
+    "city": "Harkul Budruk",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Gangeshwar",
+      "Harkul Budruk",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ling Mandir Lingeshwar (Savdav)",
+    "state": "Maharashtra",
+    "city": "Savdav",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Lingeshwar",
+      "Savdav",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rameshwar Mandir (Pandur)",
+    "state": "Maharashtra",
+    "city": "Pandur",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Rameshwar",
+      "Pandur",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalbhairav Mandir (Kharepatan)",
+    "state": "Maharashtra",
+    "city": "Kharepatan",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Kalbhairav",
+      "Kharepatan",
+      "Shaiva"
+    ],
+    "story": "A Kalbhairav shrine in Sindhudurg, worshipped in the Shaiva guardian tradition with regular local rituals and festival darshan.",
+    "highlight": "Sindhudurg Kalbhairav guardian-node in the Konkan Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Bhairava (Shiva aspect)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sargeshwar Shiva Temple",
+    "state": "Maharashtra",
+    "city": "Sindhudurg",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Sargeshwar",
+      "Sindhudurg",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pokharbav Mahadev Temple (Dabhole)",
+    "state": "Maharashtra",
+    "city": "Dabhole",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Pokharbav",
+      "Dabhole",
+      "Mahadev"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sagareshwar Temple (Vengurla)",
+    "state": "Maharashtra",
+    "city": "Vengurla",
+    "region": "Sindhudurg district, Konkan",
+    "tags": [
+      "Sagareshwar",
+      "Vengurla",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Sindhudurg district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Sindhudurg Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T12:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Sindhudurg preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Sindhudurg district",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Jagadishwar Temple (Raigad Fort)",
+    "state": "Maharashtra",
+    "city": "Raigad Fort",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Jagadishwar",
+      "Raigad",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kankeshwar Temple (Alibaug, Mapgaon)",
+    "state": "Maharashtra",
+    "city": "Alibaug",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Kankeshwar",
+      "Alibaug",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiva Temple, Gulsunde (Panvel, Rasayani)",
+    "state": "Maharashtra",
+    "city": "Panvel",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Gulsunde",
+      "Panvel",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Vireshwar Temple (Khopoli/Mahad)",
+    "state": "Maharashtra",
+    "city": "Mahad",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Vireshwar",
+      "Mahad",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hemadpanti Shiv Mandir (Umbardi, Mangaon)",
+    "state": "Maharashtra",
+    "city": "Mangaon",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Hemadpanti",
+      "Mangaon",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad heritage Shaiva node with Hemadpanti-era architectural continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Khandeshwar Shiv Temple (Panvel, Khanda Colony)",
+    "state": "Maharashtra",
+    "city": "Panvel",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Khandeshwar",
+      "Panvel",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiva Temple, Diwale Gaon (CBD Belapur)",
+    "state": "Maharashtra",
+    "city": "CBD Belapur",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Diwale Gaon",
+      "Belapur",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiv Temple, Sector 14 (Kamothe)",
+    "state": "Maharashtra",
+    "city": "Kamothe",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Kamothe",
+      "Sector 14",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Lord Shiva Temple (Navgaon, Thal)",
+    "state": "Maharashtra",
+    "city": "Navgaon",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Navgaon",
+      "Thal",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pali Ballaleshwar Shiva Shrine (Pali)",
+    "state": "Maharashtra",
+    "city": "Pali",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Ballaleshwar",
+      "Pali",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwar Temple (Nagothane)",
+    "state": "Maharashtra",
+    "city": "Nagothane",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Siddheshwar",
+      "Nagothane",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aatmeshwar Temple (Alibaug)",
+    "state": "Maharashtra",
+    "city": "Alibaug",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Aatmeshwar",
+      "Alibaug",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nageshwar Temple (Awas)",
+    "state": "Maharashtra",
+    "city": "Awas",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Nageshwar",
+      "Awas",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwar Temple (Akshi)",
+    "state": "Maharashtra",
+    "city": "Akshi",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Someshwar",
+      "Akshi",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kusumeshwar Temple (Kusumbele)",
+    "state": "Maharashtra",
+    "city": "Kusumbele",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Kusumeshwar",
+      "Kusumbele",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vishweshwar Temple (Revdanda)",
+    "state": "Maharashtra",
+    "city": "Revdanda",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Vishweshwar",
+      "Revdanda",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mandva Mahadev Temple (Mandwa)",
+    "state": "Maharashtra",
+    "city": "Mandwa",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Mandva",
+      "Mahadev",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dhavaleshwar Temple (Sudhagad)",
+    "state": "Maharashtra",
+    "city": "Sudhagad",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Dhavaleshwar",
+      "Sudhagad",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gokarneshwar Temple (Uran)",
+    "state": "Maharashtra",
+    "city": "Uran",
+    "region": "Raigad district, Konkan",
+    "tags": [
+      "Gokarneshwar",
+      "Uran",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine in Raigad district, maintained through regular local worship and seasonal festival observances.",
+    "highlight": "Raigad district Konkan Shaiva node with steady local devotional continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva traditions in Raigad preserve these shrines through daily puja and annual festival cycles.",
+      "architecture": "Regional Konkan temple style with sanctum-focused worship flow.",
+      "darshan": "Steady local darshan with stronger turnout on Mondays and major festivals.",
+      "seasonal": "Shravan and Mahashivratri periods see peak participation.",
+      "visitorNotes": "Weekday mornings are usually less crowded than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are the key annual observances.",
+      "sources": [
+        {
+          "label": "Raigad district",
+          "url": "https://en.wikipedia.org/wiki/Raigad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tungareshwar Temple (Vasai, Sativli)",
+    "state": "Maharashtra",
+    "city": "Vasai",
+    "region": "Sativli, Tungareshwar Wildlife Sanctuary, Palghar district",
+    "tags": [
+      "Tungareshwar",
+      "Vasai",
+      "Forest Temple"
+    ],
+    "story": "Located in the Tungareshwar Wildlife Sanctuary near Sativli, this major Shiva shrine is known for its forest approach and nearby seasonal waterfalls.",
+    "highlight": "Sanctuary-route Shiva darshan with monsoon waterfall landscape.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Palghar-Vasai-Virar Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Mostly regional community-mandir layouts with sanctum-centered ritual flow.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sheshnag Mahadev Mandir (Virar East)",
+    "state": "Maharashtra",
+    "city": "Virar",
+    "region": "Virar East, Palghar district",
+    "tags": [
+      "Sheshnag",
+      "Virar",
+      "Mahadev"
+    ],
+    "story": "A hill-linked Mahadev shrine in Virar East, associated with a large Shiva-Parvati idol and prominent Shivaling worship.",
+    "highlight": "Virar East hilltop Shaiva node with large-icon darshan.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Palghar-Vasai-Virar Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Mostly regional community-mandir layouts with sanctum-centered ritual flow.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Barfeshwar Mahadev Temple (Virar, Chandansar)",
+    "state": "Maharashtra",
+    "city": "Virar",
+    "region": "Chandansar, Virar, Palghar district",
+    "tags": [
+      "Barfeshwar",
+      "Chandansar",
+      "Mahadev"
+    ],
+    "story": "A Shiva temple in the Chandansar belt of Virar, known locally for its large Mahadev idol presence.",
+    "highlight": "Chandansar Mahadev site with large murti-centered worship.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Palghar-Vasai-Virar Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Mostly regional community-mandir layouts with sanctum-centered ritual flow.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Swayambhu Shiv Temple (Edwan)",
+    "state": "Maharashtra",
+    "city": "Edwan",
+    "region": "Edwan, near Saphale, Palghar district",
+    "tags": [
+      "Swayambhu",
+      "Edwan",
+      "Shiva"
+    ],
+    "story": "An ancient Swayambhu Shiva shrine in Edwan, approached through scenic village routes in the coastal Palghar sector.",
+    "highlight": "Scenic-route Swayambhu Shiva darshan near Saphale-Edwan belt.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Palghar-Vasai-Virar Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Mostly regional community-mandir layouts with sanctum-centered ritual flow.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nagnath Shiv Temple (Manor, Uchat/Sartodi)",
+    "state": "Maharashtra",
+    "city": "Manor",
+    "region": "Uchat/Sartodi, Manor region, Palghar district",
+    "tags": [
+      "Nagnath",
+      "Manor",
+      "Shiva"
+    ],
+    "story": "A serene Nagnath Shiva temple in the Manor region, maintained as a calm local worship point.",
+    "highlight": "Manor-area Nagnath darshan with low-noise devotional setting.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Nagnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Palghar-Vasai-Virar Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Mostly regional community-mandir layouts with sanctum-centered ritual flow.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jagruteshwar Mahadev Temple (Khanivade)",
+    "state": "Maharashtra",
+    "city": "Khanivade",
+    "region": "Khanivade, Palghar district",
+    "tags": [
+      "Jagruteshwar",
+      "Khanivade",
+      "Mahadev"
+    ],
+    "story": "A historic Mahadev temple in the Khanivade area, preserved in local tradition as an old forest-edge Shaiva shrine.",
+    "highlight": "Khanivade historic Mahadev node with long-standing local worship.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Palghar-Vasai-Virar Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Mostly regional community-mandir layouts with sanctum-centered ritual flow.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ancient Parol Shiv Mandir (Majivali)",
+    "state": "Maharashtra",
+    "city": "Majivali",
+    "region": "Majivali, Tungareshwar Road, Palghar district",
+    "tags": [
+      "Parol Shiv Mandir",
+      "Majivali",
+      "Ancient"
+    ],
+    "story": "A historic stone Shiva temple on the Tungareshwar Road corridor near Majivali, visited for traditional darshan.",
+    "highlight": "Old stone-structure Shiva mandir in the Majivali-Tungareshwar route.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Palghar-Vasai-Virar Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Mostly regional community-mandir layouts with sanctum-centered ritual flow.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Shitladevi Temple (Shiva Shrine, Kelwa)",
+    "state": "Maharashtra",
+    "city": "Kelwa",
+    "region": "Kelwa, Palghar district",
+    "tags": [
+      "Shitladevi Complex",
+      "Kelwa",
+      "Shiva Shrine"
+    ],
+    "story": "Within the Shitladevi temple complex at Kelwa, this attached Shiva shrine is a significant local Shaiva worship point.",
+    "highlight": "Shiva shrine inside Kelwa Shitladevi complex with shared ritual flow.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (within Shitladevi complex)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Palghar-Vasai-Virar Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Mostly regional community-mandir layouts with sanctum-centered ritual flow.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aatmalingeswar Mahadev Mandir (Shivansai, Virar West)",
+    "state": "Maharashtra",
+    "city": "Virar",
+    "region": "Shivansai, Virar West, Palghar district",
+    "tags": [
+      "Aatmalingeswar",
+      "Virar West",
+      "Mahadev"
+    ],
+    "story": "Aatmalingeswar Mahadev temple in the Shivansai-Virar West belt, active in daily neighborhood worship.",
+    "highlight": "Virar West Aatmalingeswar darshan with strong local puja continuity.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Palghar-Vasai-Virar Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Mostly regional community-mandir layouts with sanctum-centered ritual flow.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pujeshwar Mahadev Mandir (Dhundalwadi, Dapchari)",
+    "state": "Maharashtra",
+    "city": "Dhundalwadi",
+    "region": "Dhundalwadi-Dapchari zone, Palghar district",
+    "tags": [
+      "Pujeshwar",
+      "Dhundalwadi",
+      "Mahadev"
+    ],
+    "story": "A rural Mahadev shrine in the Dhundalwadi-Dapchari sector, maintained through regular local ritual practice.",
+    "highlight": "Dapchari belt Shaiva node with steady rural darshan rhythm.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Palghar-Vasai-Virar Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Mostly regional community-mandir layouts with sanctum-centered ritual flow.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Datta Nagesh Mandir (Boisar)",
+    "state": "Maharashtra",
+    "city": "Boisar",
+    "region": "Boisar, Palghar district",
+    "tags": [
+      "Datta Nagesh",
+      "Boisar",
+      "Shiva"
+    ],
+    "story": "A Datta-Nagesh associated Shiva shrine in Boisar, visited as a key local devotional point.",
+    "highlight": "Boisar Datta-Nagesh Shaiva anchor in the district worship circuit.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Nagesh)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Palghar-Vasai-Virar Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Mostly regional community-mandir layouts with sanctum-centered ritual flow.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pashupatinath Mandir (Boisar, Saravali)",
+    "state": "Maharashtra",
+    "city": "Boisar",
+    "region": "Saravali, Boisar, Palghar district",
+    "tags": [
+      "Pashupatinath",
+      "Saravali",
+      "Shiva"
+    ],
+    "story": "A Pashupatinath-form Shiva temple in the Saravali-Boisar region, serving regular community worship.",
+    "highlight": "Saravali Pashupatinath darshan in the Boisar devotional grid.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Pashupatinath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Palghar-Vasai-Virar Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Mostly regional community-mandir layouts with sanctum-centered ritual flow.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shivalay (Ashagad)",
+    "state": "Maharashtra",
+    "city": "Ashagad",
+    "region": "Ashagad, Palghar district",
+    "tags": [
+      "Shivalay",
+      "Ashagad",
+      "Shiva"
+    ],
+    "story": "A local Shivalay in Ashagad, maintained as a neighborhood-level Shaiva worship center.",
+    "highlight": "Ashagad Shivalay with stable daily local darshan.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Palghar-Vasai-Virar Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Mostly regional community-mandir layouts with sanctum-centered ritual flow.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Narmdeshwar Mahadev Mandir (Shirsad)",
+    "state": "Maharashtra",
+    "city": "Shirsad",
+    "region": "Shirsad, Palghar district",
+    "tags": [
+      "Narmdeshwar",
+      "Shirsad",
+      "Mahadev"
+    ],
+    "story": "A Narmdeshwar Mahadev temple in Shirsad, known for regular abhishekam and local festival worship.",
+    "highlight": "Shirsad Narmdeshwar node with continuous Mahadev puja tradition.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Narmdeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Palghar-Vasai-Virar Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Mostly regional community-mandir layouts with sanctum-centered ritual flow.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bhimashankar Temple (Khed)",
+    "state": "Maharashtra",
+    "city": "Khed",
+    "region": "Bhimashankar, Khed taluka, Pune district",
+    "tags": [
+      "Jyotirlinga",
+      "Bhimashankar",
+      "Pune"
+    ],
+    "story": "One of the twelve Jyotirlinga shrines, this Bhimashankar Shiva temple is a major Shaiva pilgrimage center in the Sahyadri forest belt of Khed.",
+    "highlight": "Jyotirlinga darshan in the Bhimashankar highland sanctuary zone.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Bhimashankar Jyotirlinga)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Omkareshwar Temple (Shaniwar Peth)",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "region": "Shaniwar Peth, Pune city",
+    "tags": [
+      "Omkareshwar",
+      "Shaniwar Peth",
+      "Pune"
+    ],
+    "story": "A Peshwa-era Shiva temple on the riverfront in Shaniwar Peth, known for continuous urban ritual traditions.",
+    "highlight": "Historic Shaniwar Peth Omkareshwar darshan in central Pune.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Omkareshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bhuleshwar Temple (Malshiras)",
+    "state": "Maharashtra",
+    "city": "Malshiras",
+    "region": "Pune district",
+    "tags": [
+      "Bhuleshwar",
+      "Stone Carvings",
+      "Shiva"
+    ],
+    "story": "A Bhuleshwar Shiva shrine associated with intricate stone carvings and medieval-era temple craftsmanship.",
+    "highlight": "Intricate-carving Bhuleshwar architecture with strong heritage value.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Bhuleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pataleshwar Cave Temple (J.M. Road)",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "region": "J.M. Road, Pune city",
+    "tags": [
+      "Pataleshwar",
+      "Rock-cut",
+      "Pune"
+    ],
+    "story": "An 8th-century rock-cut Shiva cave temple in Pune, preserved as a core heritage shrine in the urban center.",
+    "highlight": "Rashtrakuta-era cave-shrine darshan in central Pune.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Pataleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Nageshwar Shiva Temple (Somwar Peth)",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "region": "Somwar Peth, Pune city",
+    "tags": [
+      "Nageshwar",
+      "Somwar Peth",
+      "Shiva"
+    ],
+    "story": "A traditional Shiva temple in Somwar Peth, maintained through long-running peth-area worship continuity.",
+    "highlight": "Old-city Nageshwar darshan with stable local ritual practice.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Nageshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nilkantheshwar Temple (Panshet)",
+    "state": "Maharashtra",
+    "city": "Panshet",
+    "region": "Panshet hills, Pune district",
+    "tags": [
+      "Nilkantheshwar",
+      "Panshet",
+      "Hilltop"
+    ],
+    "story": "A hilltop Nilkantheshwar temple near Panshet, known for panoramic views and numerous symbolic statues.",
+    "highlight": "High-altitude Nilkantheshwar darshan above the Panshet reservoir zone.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Nilkantheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Baneshwar Temple (Nasarapur)",
+    "state": "Maharashtra",
+    "city": "Nasarapur",
+    "region": "Nasarapur, Pune district",
+    "tags": [
+      "Baneshwar",
+      "Peshwa Era",
+      "Pune"
+    ],
+    "story": "A notable Shiva temple at Nasarapur associated with Peshwa-period patronage and active local pilgrimage.",
+    "highlight": "Nasarapur Baneshwar darshan with historic Peshwa-era continuity.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Baneshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Someshwar Temple (Pashan)",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "region": "Pashan, Pune city",
+    "tags": [
+      "Someshwar",
+      "Pashan",
+      "Jyotirlinga Replicas"
+    ],
+    "story": "A Someshwar Shiva temple in Pashan known for housing replica representations of the twelve Jyotirlingas.",
+    "highlight": "Pashan Someshwar complex with 12-Jyotirlinga replica worship.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Someshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chaturmukh Shiv Temple (Near Pune)",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "region": "Pune outskirts",
+    "tags": [
+      "Chaturmukh",
+      "Hillside",
+      "Shiva"
+    ],
+    "story": "A Chaturmukh Shiva temple in the scenic Pune outskirts, visited for its elevated setting and quiet darshan.",
+    "highlight": "Four-faced Shiva worship tradition in a hillside Pune setting.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Chaturmukh)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ghoravadeshwar Cave Temple (Talegaon Dabhade)",
+    "state": "Maharashtra",
+    "city": "Talegaon Dabhade",
+    "region": "Talegaon Dabhade, Pune district",
+    "tags": [
+      "Ghoravadeshwar",
+      "Cave Temple",
+      "Pune"
+    ],
+    "story": "An ancient cave-based Shiva shrine at Talegaon Dabhade, part of the old rock-cut devotional landscape of Pune district.",
+    "highlight": "Ancient Ghoravadeshwar cave-darshan on the Pune-Maval corridor.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Ghoravadeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Wagheshwar Temple (Wagholi)",
+    "state": "Maharashtra",
+    "city": "Wagholi",
+    "region": "Wagholi, Pune district",
+    "tags": [
+      "Wagheshwar",
+      "Wagholi",
+      "Shiva"
+    ],
+    "story": "A local Wagheshwar Shiva temple in the Wagholi belt, maintained through routine puja and festival worship.",
+    "highlight": "Wagholi-area Wagheshwar node with strong neighborhood devotion.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Wagheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amruteshwar Siddheshwar Temple Complex (Shaniwar Peth)",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "region": "Shaniwar Peth, Pune city",
+    "tags": [
+      "Amruteshwar",
+      "Siddheshwar",
+      "Temple Complex"
+    ],
+    "story": "A Shaiva temple complex in Shaniwar Peth where Amruteshwar and Siddheshwar worship traditions are jointly maintained.",
+    "highlight": "Dual-shrine Shaiva complex in Pune old peth ritual network.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Amruteshwar-Siddheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ramdara Temple (Loni Kalbhor)",
+    "state": "Maharashtra",
+    "city": "Loni Kalbhor",
+    "region": "Loni Kalbhor, Pune district",
+    "tags": [
+      "Ramdara",
+      "Loni Kalbhor",
+      "Shiva-Parvati"
+    ],
+    "story": "A temple complex at Loni Kalbhor where Shiva and Parvati worship is maintained in a scenic water-edge setting.",
+    "highlight": "Loni Kalbhor Ramdara darshan with lake-side devotional ambience.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva-Parvati",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kaleshwar Mandir (Nalegaon)",
+    "state": "Maharashtra",
+    "city": "Nalegaon",
+    "region": "Pune district",
+    "tags": [
+      "Kaleshwar",
+      "Nalegaon",
+      "Shiva"
+    ],
+    "story": "A Kaleshwar Shiva temple in the Nalegaon sector, serving as a local village-level Shaiva worship center.",
+    "highlight": "Nalegaon Kaleshwar node with steady community ritual continuity.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Kaleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Harihareshwar Mandir (Sudke Mala)",
+    "state": "Maharashtra",
+    "city": "Sudke Mala",
+    "region": "Pune district",
+    "tags": [
+      "Harihareshwar",
+      "Sudke Mala",
+      "Shiva"
+    ],
+    "story": "A Harihareshwar Shiva shrine in the Sudke Mala locality, maintained through daily local puja and annual festivals.",
+    "highlight": "Sudke Mala Harihareshwar darshan in a low-noise local setting.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Harihareshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiv Mandir (Pashan Lake)",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "region": "Pashan Lake zone, Pune city",
+    "tags": [
+      "Pashan Lake",
+      "Shiv Mandir",
+      "Pune"
+    ],
+    "story": "A local Shiva temple near Pashan Lake, visited for regular worship and seasonal devotional gatherings.",
+    "highlight": "Lakeside Shiva darshan in the Pashan urban nature corridor.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwar Mahadev Temple (Tarakpur)",
+    "state": "Maharashtra",
+    "city": "Tarakpur",
+    "region": "Pune region",
+    "tags": [
+      "Siddheshwar",
+      "Tarakpur",
+      "Mahadev"
+    ],
+    "story": "A Siddheshwar Mahadev shrine in the Tarakpur locality, maintained through regular abhishekam and local observances.",
+    "highlight": "Tarakpur Siddheshwar node with consistent Mahadev worship.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Siddheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sapindya Mahadev Temple (Pune)",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "region": "Pune city",
+    "tags": [
+      "Sapindya Mahadev",
+      "Pune",
+      "Rediscovered"
+    ],
+    "story": "A Sapindya Mahadev shrine in Pune, noted in local records as a rediscovered Shiva temple in the early 21st century.",
+    "highlight": "Rediscovered urban Mahadev node with revived ritual continuity.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Sapindya Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Baneshwar Cave Temple (Pune Suburb)",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "region": "Pune suburban belt",
+    "tags": [
+      "Baneshwar Cave",
+      "Pune Suburb",
+      "Shiva"
+    ],
+    "story": "A cave-associated Baneshwar Shiva shrine in the Pune suburban belt, documented in modern travel and heritage references.",
+    "highlight": "Suburban cave-shrine Baneshwar darshan in the Pune periphery.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Baneshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T13:50:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Pune-region Shaiva network maintained through daily worship and annual festival cycles.",
+      "architecture": "Regional temple profiles including stone, cave-cut, and hill-temple layouts across the Pune district belt.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar remain principal annual observances.",
+      "sources": [
+        {
+          "label": "Pune district",
+          "url": "https://en.wikipedia.org/wiki/Pune_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Atibaleshwar Temple (Old Mahabaleshwar)",
+    "state": "Maharashtra",
+    "city": "Old Mahabaleshwar",
+    "region": "Old Mahabaleshwar, Satara district",
+    "tags": [
+      "Atibaleshwar",
+      "Old Mahabaleshwar",
+      "Shiva"
+    ],
+    "story": "A historic Atibaleshwar Shiva temple in Old Mahabaleshwar, visited alongside the core Mahabaleshwar shrine cluster.",
+    "highlight": "Old Mahabaleshwar Shaiva anchor in the traditional hill temple circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Atibaleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Satara Shaiva network preserved through daily worship and annual yatra cycles.",
+      "architecture": "Regional temple typologies across hill, river-confluence, and urban settings in Satara district.",
+      "darshan": "Steady local participation with festival spikes on major Shiva observance days.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually offer smoother darshan than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Satara district",
+          "url": "https://en.wikipedia.org/wiki/Satara_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pateshwar Temple (Degaon)",
+    "state": "Maharashtra",
+    "city": "Degaon",
+    "region": "Degaon-Pateshwar hill zone, Satara district",
+    "tags": [
+      "Pateshwar",
+      "Degaon",
+      "Shiva"
+    ],
+    "story": "A Pateshwar temple in the Degaon belt, known for old stone temple remains and long-standing Shiva worship traditions.",
+    "highlight": "Degaon-Pateshwar heritage node with carved-stone Shaiva continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Pateshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Satara Shaiva network preserved through daily worship and annual yatra cycles.",
+      "architecture": "Regional temple typologies across hill, river-confluence, and urban settings in Satara district.",
+      "darshan": "Steady local participation with festival spikes on major Shiva observance days.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually offer smoother darshan than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Satara district",
+          "url": "https://en.wikipedia.org/wiki/Satara_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shikhar Shingnapur (Shambhumaheshwar) Temple",
+    "state": "Maharashtra",
+    "city": "Shikhar Shingnapur",
+    "region": "Shikhar Shingnapur hills, Satara district",
+    "tags": [
+      "Shambhumaheshwar",
+      "Shikhar Shingnapur",
+      "Shiva"
+    ],
+    "story": "A major hilltop Shambhumaheshwar shrine at Shikhar Shingnapur, central to Satara district pilgrimage routes.",
+    "highlight": "High-altitude Shambhumaheshwar darshan in the Satara hill circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Shambhumaheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Satara Shaiva network preserved through daily worship and annual yatra cycles.",
+      "architecture": "Regional temple typologies across hill, river-confluence, and urban settings in Satara district.",
+      "darshan": "Steady local participation with festival spikes on major Shiva observance days.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually offer smoother darshan than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Satara district",
+          "url": "https://en.wikipedia.org/wiki/Satara_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Uttar Chidambaram Nataraj Temple (Satara City)",
+    "state": "Maharashtra",
+    "city": "Satara",
+    "region": "Satara city, Satara district",
+    "tags": [
+      "Uttar Chidambaram",
+      "Nataraj",
+      "Satara"
+    ],
+    "story": "A Nataraj-form Shiva temple in Satara city known for dance-form iconography and structured ritual worship.",
+    "highlight": "Nataraj tradition temple in the urban Satara devotional grid.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Nataraj)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Satara Shaiva network preserved through daily worship and annual yatra cycles.",
+      "architecture": "Regional temple typologies across hill, river-confluence, and urban settings in Satara district.",
+      "darshan": "Steady local participation with festival spikes on major Shiva observance days.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually offer smoother darshan than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Satara district",
+          "url": "https://en.wikipedia.org/wiki/Satara_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kashi Vishweshwar Temple (Wai)",
+    "state": "Maharashtra",
+    "city": "Wai",
+    "region": "Wai, Satara district",
+    "tags": [
+      "Kashi Vishweshwar",
+      "Wai",
+      "Shiva"
+    ],
+    "story": "A Kashi Vishweshwar Shiva shrine in Wai, maintained through regular puja and confluence-linked pilgrimage traditions.",
+    "highlight": "Wai Vishweshwar darshan in the Krishna-river temple corridor.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Vishweshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Satara Shaiva network preserved through daily worship and annual yatra cycles.",
+      "architecture": "Regional temple typologies across hill, river-confluence, and urban settings in Satara district.",
+      "darshan": "Steady local participation with festival spikes on major Shiva observance days.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually offer smoother darshan than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Satara district",
+          "url": "https://en.wikipedia.org/wiki/Satara_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Yavateshwar Temple (Yavateshwar)",
+    "state": "Maharashtra",
+    "city": "Yavateshwar",
+    "region": "Yavateshwar, Satara district",
+    "tags": [
+      "Yavateshwar",
+      "Satara",
+      "Shiva"
+    ],
+    "story": "A Yavateshwar Shiva temple in the Satara hills, worshipped as a stable local anchor for daily and festival darshan.",
+    "highlight": "Yavateshwar hill-temple node with steady local Shaiva observance.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Yavateshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Satara Shaiva network preserved through daily worship and annual yatra cycles.",
+      "architecture": "Regional temple typologies across hill, river-confluence, and urban settings in Satara district.",
+      "darshan": "Steady local participation with festival spikes on major Shiva observance days.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually offer smoother darshan than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Satara district",
+          "url": "https://en.wikipedia.org/wiki/Satara_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sangameshwar Temple (Sangam Mahuli)",
+    "state": "Maharashtra",
+    "city": "Sangam Mahuli",
+    "region": "Sangam Mahuli, Satara district",
+    "tags": [
+      "Sangameshwar",
+      "Sangam Mahuli",
+      "Shiva"
+    ],
+    "story": "A confluence-linked Sangameshwar Shiva shrine at Sangam Mahuli, preserved in Satara riverbank ritual traditions.",
+    "highlight": "Sangam Mahuli Sangameshwar darshan at a sacred water-junction zone.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Sangameshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Satara Shaiva network preserved through daily worship and annual yatra cycles.",
+      "architecture": "Regional temple typologies across hill, river-confluence, and urban settings in Satara district.",
+      "darshan": "Steady local participation with festival spikes on major Shiva observance days.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually offer smoother darshan than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Satara district",
+          "url": "https://en.wikipedia.org/wiki/Satara_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rameshwar Temple (Sangam Mahuli)",
+    "state": "Maharashtra",
+    "city": "Sangam Mahuli",
+    "region": "Sangam Mahuli, Satara district",
+    "tags": [
+      "Rameshwar",
+      "Sangam Mahuli",
+      "Shiva"
+    ],
+    "story": "A Rameshwar Shiva temple in Sangam Mahuli, part of the multi-temple Shaiva network near the local sangam area.",
+    "highlight": "Sangam Mahuli Rameshwar node with confluence-linked ritual flow.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Rameshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Satara Shaiva network preserved through daily worship and annual yatra cycles.",
+      "architecture": "Regional temple typologies across hill, river-confluence, and urban settings in Satara district.",
+      "darshan": "Steady local participation with festival spikes on major Shiva observance days.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually offer smoother darshan than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Satara district",
+          "url": "https://en.wikipedia.org/wiki/Satara_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vishweshwar Temple (Sangam Mahuli)",
+    "state": "Maharashtra",
+    "city": "Sangam Mahuli",
+    "region": "Sangam Mahuli, Satara district",
+    "tags": [
+      "Vishweshwar",
+      "Sangam Mahuli",
+      "Shiva"
+    ],
+    "story": "A Vishweshwar Shiva shrine at Sangam Mahuli, maintained through daily puja and annual festival observances.",
+    "highlight": "Sangam Mahuli Vishweshwar darshan in Satara confluence traditions.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Vishweshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Satara Shaiva network preserved through daily worship and annual yatra cycles.",
+      "architecture": "Regional temple typologies across hill, river-confluence, and urban settings in Satara district.",
+      "darshan": "Steady local participation with festival spikes on major Shiva observance days.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually offer smoother darshan than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Satara district",
+          "url": "https://en.wikipedia.org/wiki/Satara_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dholya Ganpati Temple Shiva Shrine (Wai)",
+    "state": "Maharashtra",
+    "city": "Wai",
+    "region": "Wai, Satara district",
+    "tags": [
+      "Dholya Ganpati Complex",
+      "Wai",
+      "Shiva Shrine"
+    ],
+    "story": "Within the Dholya Ganpati precinct in Wai, this Shiva shrine serves as an attached Shaiva worship point in the broader temple complex.",
+    "highlight": "Shiva shrine presence inside Wai Dholya Ganpati ritual ecosystem.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (within Dholya Ganpati complex)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Satara Shaiva network preserved through daily worship and annual yatra cycles.",
+      "architecture": "Regional temple typologies across hill, river-confluence, and urban settings in Satara district.",
+      "darshan": "Steady local participation with festival spikes on major Shiva observance days.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually offer smoother darshan than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Satara district",
+          "url": "https://en.wikipedia.org/wiki/Satara_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwar Mandir (Satara)",
+    "state": "Maharashtra",
+    "city": "Satara",
+    "region": "Satara city, Satara district",
+    "tags": [
+      "Siddheshwar",
+      "Satara",
+      "Shiva"
+    ],
+    "story": "A Siddheshwar Shiva temple in Satara city, visited for routine darshan and seasonal Shaiva festivals.",
+    "highlight": "Urban Satara Siddheshwar node with stable devotional participation.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Siddheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Satara Shaiva network preserved through daily worship and annual yatra cycles.",
+      "architecture": "Regional temple typologies across hill, river-confluence, and urban settings in Satara district.",
+      "darshan": "Steady local participation with festival spikes on major Shiva observance days.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually offer smoother darshan than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Satara district",
+          "url": "https://en.wikipedia.org/wiki/Satara_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Koteshwar Temple (Arale)",
+    "state": "Maharashtra",
+    "city": "Arale",
+    "region": "Arale, Satara district",
+    "tags": [
+      "Koteshwar",
+      "Arale",
+      "Shiva"
+    ],
+    "story": "A Koteshwar Shiva shrine in Arale, maintained as a local village-level temple with regular worship activity.",
+    "highlight": "Arale Koteshwar darshan in Satara rural Shaiva network.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Koteshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Satara Shaiva network preserved through daily worship and annual yatra cycles.",
+      "architecture": "Regional temple typologies across hill, river-confluence, and urban settings in Satara district.",
+      "darshan": "Steady local participation with festival spikes on major Shiva observance days.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually offer smoother darshan than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Satara district",
+          "url": "https://en.wikipedia.org/wiki/Satara_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chandreshwar Temple (Chaphal)",
+    "state": "Maharashtra",
+    "city": "Chaphal",
+    "region": "Chaphal, Satara district",
+    "tags": [
+      "Chandreshwar",
+      "Chaphal",
+      "Shiva"
+    ],
+    "story": "A Chandreshwar Shiva temple in Chaphal, preserved through local ritual continuity and annual festival observances.",
+    "highlight": "Chaphal Chandreshwar node with steady local worship rhythm.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Chandreshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:10:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the wider Satara Shaiva network preserved through daily worship and annual yatra cycles.",
+      "architecture": "Regional temple typologies across hill, river-confluence, and urban settings in Satara district.",
+      "darshan": "Steady local participation with festival spikes on major Shiva observance days.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually offer smoother darshan than festival evenings.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Satara district",
+          "url": "https://en.wikipedia.org/wiki/Satara_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Sagareshwar Mahadev Temple (Sagareshwar Wildlife Sanctuary)",
+    "state": "Maharashtra",
+    "city": "Sagareshwar",
+    "region": "Sagareshwar Wildlife Sanctuary, Sangli district",
+    "tags": [
+      "Sagareshwar",
+      "Sangli",
+      "Mahadev"
+    ],
+    "story": "An ancient stone Shiva temple in the Sagareshwar Wildlife Sanctuary, maintained as a forest-linked Mahadev pilgrimage point.",
+    "highlight": "Sanctuary-zone stone temple darshan in the Sagareshwar hill belt.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Sagareshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:30:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These sites are part of the broader Sangli Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Regional temple profiles across urban, river-confluence, and hill settings in Sangli district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Sangli district",
+          "url": "https://en.wikipedia.org/wiki/Sangli_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Ramlingeshwar Temple (Hatkanangale/Sangli Border)",
+    "state": "Maharashtra",
+    "city": "Hatkanangale Border",
+    "region": "Hatkanangale-Sangli border belt",
+    "tags": [
+      "Ramlingeshwar",
+      "Sangli Border",
+      "Shiva"
+    ],
+    "story": "A Ramlingeshwar Shiva shrine on the Hatkanangale-Sangli border corridor with regular local worship continuity.",
+    "highlight": "Border-belt Ramlingeshwar darshan in the wider Sangli region.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Ramlingeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:30:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These sites are part of the broader Sangli Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Regional temple profiles across urban, river-confluence, and hill settings in Sangli district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Sangli district",
+          "url": "https://en.wikipedia.org/wiki/Sangli_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amruteshwar Temple (Sangli City, Rajwada)",
+    "state": "Maharashtra",
+    "city": "Sangli",
+    "region": "Rajwada area, Sangli city",
+    "tags": [
+      "Amruteshwar",
+      "Sangli City",
+      "Shiva"
+    ],
+    "story": "An Amruteshwar Shiva temple in the Rajwada zone of Sangli city, active in daily and festival worship cycles.",
+    "highlight": "Rajwada-area Amruteshwar node in urban Sangli.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Amruteshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:30:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These sites are part of the broader Sangli Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Regional temple profiles across urban, river-confluence, and hill settings in Sangli district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Sangli district",
+          "url": "https://en.wikipedia.org/wiki/Sangli_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kashi Vishweshwar Temple (Sangli City)",
+    "state": "Maharashtra",
+    "city": "Sangli",
+    "region": "Sangli city, Sangli district",
+    "tags": [
+      "Kashi Vishweshwar",
+      "Sangli",
+      "Shiva"
+    ],
+    "story": "A Kashi Vishweshwar Shiva shrine in Sangli city preserved through routine puja and seasonal observances.",
+    "highlight": "Sangli-city Vishweshwar darshan with Kashi-lineage naming tradition.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Vishweshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:30:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These sites are part of the broader Sangli Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Regional temple profiles across urban, river-confluence, and hill settings in Sangli district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Sangli district",
+          "url": "https://en.wikipedia.org/wiki/Sangli_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwar Temple (Sangli)",
+    "state": "Maharashtra",
+    "city": "Sangli",
+    "region": "Sangli district",
+    "tags": [
+      "Siddheshwar",
+      "Sangli",
+      "Shiva"
+    ],
+    "story": "A Siddheshwar Shiva temple in the Sangli district devotional circuit, visited for regular darshan and Monday puja.",
+    "highlight": "District-level Siddheshwar node with steady local devotional participation.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Siddheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:30:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These sites are part of the broader Sangli Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Regional temple profiles across urban, river-confluence, and hill settings in Sangli district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Sangli district",
+          "url": "https://en.wikipedia.org/wiki/Sangli_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nageshwar Temple (Jath)",
+    "state": "Maharashtra",
+    "city": "Jath",
+    "region": "Jath, Sangli district",
+    "tags": [
+      "Nageshwar",
+      "Jath",
+      "Shiva"
+    ],
+    "story": "A Nageshwar Shiva shrine in Jath, maintained as a key local worship point in the eastern Sangli belt.",
+    "highlight": "Jath-sector Nageshwar darshan with stable local puja tradition.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nageshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:30:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These sites are part of the broader Sangli Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Regional temple profiles across urban, river-confluence, and hill settings in Sangli district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Sangli district",
+          "url": "https://en.wikipedia.org/wiki/Sangli_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjun Temple (Jath)",
+    "state": "Maharashtra",
+    "city": "Jath",
+    "region": "Jath, Sangli district",
+    "tags": [
+      "Mallikarjun",
+      "Jath",
+      "Shiva"
+    ],
+    "story": "A Mallikarjun Shiva temple in Jath, preserved through community ritual practice and annual festival observances.",
+    "highlight": "Jath Mallikarjun node in Sangli rural Shaiva grid.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mallikarjun)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:30:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These sites are part of the broader Sangli Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Regional temple profiles across urban, river-confluence, and hill settings in Sangli district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Sangli district",
+          "url": "https://en.wikipedia.org/wiki/Sangli_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Panchmukhi Mahadev Mandir (Vishrambag)",
+    "state": "Maharashtra",
+    "city": "Vishrambag",
+    "region": "Vishrambag, Sangli district",
+    "tags": [
+      "Panchmukhi",
+      "Vishrambag",
+      "Mahadev"
+    ],
+    "story": "A Panchmukhi Mahadev shrine in Vishrambag associated with multi-faced Shiva iconography and regular neighborhood worship.",
+    "highlight": "Vishrambag Panchmukhi Mahadev darshan with strong local continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Panchmukhi Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:30:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These sites are part of the broader Sangli Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Regional temple profiles across urban, river-confluence, and hill settings in Sangli district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Sangli district",
+          "url": "https://en.wikipedia.org/wiki/Sangli_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nilkantheshwar Temple (Sangli City)",
+    "state": "Maharashtra",
+    "city": "Sangli",
+    "region": "Sangli city, Sangli district",
+    "tags": [
+      "Nilkantheshwar",
+      "Sangli City",
+      "Shiva"
+    ],
+    "story": "A Nilkantheshwar Shiva temple in Sangli city, visited for daily puja and seasonal Shiva festivals.",
+    "highlight": "Urban Sangli Nilkantheshwar node with steady darshan flow.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nilkantheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:30:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These sites are part of the broader Sangli Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Regional temple profiles across urban, river-confluence, and hill settings in Sangli district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Sangli district",
+          "url": "https://en.wikipedia.org/wiki/Sangli_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Trimbakeshwar Temple (Kupwad)",
+    "state": "Maharashtra",
+    "city": "Kupwad",
+    "region": "Kupwad, Sangli district",
+    "tags": [
+      "Trimbakeshwar",
+      "Kupwad",
+      "Shiva"
+    ],
+    "story": "A Trimbakeshwar-form Shiva shrine in Kupwad, maintained as a local devotional anchor in the Sangli urban-rural fringe.",
+    "highlight": "Kupwad Trimbakeshwar darshan with neighborhood worship continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Trimbakeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:30:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These sites are part of the broader Sangli Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Regional temple profiles across urban, river-confluence, and hill settings in Sangli district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Sangli district",
+          "url": "https://en.wikipedia.org/wiki/Sangli_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dhuloba Temple (Bhilawadi)",
+    "state": "Maharashtra",
+    "city": "Bhilawadi",
+    "region": "Bhilawadi hills, Sangli district",
+    "tags": [
+      "Dhuloba",
+      "Bhilawadi",
+      "Hill Shrine"
+    ],
+    "story": "A hilltop Dhuloba shrine in Bhilawadi with strong local Shaiva devotional associations and seasonal pilgrimage footfall.",
+    "highlight": "Hilltop Bhilawadi shrine with local Shiva-linked worship tradition.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Dhuloba tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:30:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These sites are part of the broader Sangli Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Regional temple profiles across urban, river-confluence, and hill settings in Sangli district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Sangli district",
+          "url": "https://en.wikipedia.org/wiki/Sangli_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rameshwar Temple (Walwa)",
+    "state": "Maharashtra",
+    "city": "Walwa",
+    "region": "Walwa, Sangli district",
+    "tags": [
+      "Rameshwar",
+      "Walwa",
+      "Shiva"
+    ],
+    "story": "A Rameshwar Shiva temple in Walwa serving as a regular puja center for nearby villages and town devotees.",
+    "highlight": "Walwa Rameshwar darshan in the Sangli regional worship circuit.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Rameshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:30:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These sites are part of the broader Sangli Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Regional temple profiles across urban, river-confluence, and hill settings in Sangli district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Sangli district",
+          "url": "https://en.wikipedia.org/wiki/Sangli_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Shambhu Mahadev Temple (Vita)",
+    "state": "Maharashtra",
+    "city": "Vita",
+    "region": "Vita, Sangli district",
+    "tags": [
+      "Shambhu Mahadev",
+      "Vita",
+      "Shiva"
+    ],
+    "story": "A Shambhu Mahadev temple in Vita, maintained through daily worship and festival observances.",
+    "highlight": "Vita Shambhu Mahadev node with consistent local darshan activity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Shambhu Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:30:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These sites are part of the broader Sangli Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Regional temple profiles across urban, river-confluence, and hill settings in Sangli district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Sangli district",
+          "url": "https://en.wikipedia.org/wiki/Sangli_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Koteshwar Temple (Kadegaon)",
+    "state": "Maharashtra",
+    "city": "Kadegaon",
+    "region": "Kadegaon, Sangli district",
+    "tags": [
+      "Koteshwar",
+      "Kadegaon",
+      "Shiva"
+    ],
+    "story": "A Koteshwar Shiva temple in Kadegaon, preserved as a local village-level Shaiva shrine with regular rituals.",
+    "highlight": "Kadegaon Koteshwar darshan in eastern Sangli devotional routes.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Koteshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T14:30:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These sites are part of the broader Sangli Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Regional temple profiles across urban, river-confluence, and hill settings in Sangli district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Sangli district",
+          "url": "https://en.wikipedia.org/wiki/Sangli_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ancient Chalukya Shri Shiva Temple (Anwa, Bhokardan)",
+    "state": "Maharashtra",
+    "city": "Anwa",
+    "region": "Anwa, Bhokardan taluka, Jalna district",
+    "tags": [
+      "Chalukya Era",
+      "Anwa",
+      "Shiva"
+    ],
+    "story": "An ancient Chalukya-period Shiva temple at Anwa in Bhokardan, known for historical stone architecture and old Marathwada Shaiva continuity.",
+    "highlight": "Historic Chalukya-linked Shiva shrine in the Anwa-Bhokardan belt.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Panchmukhi Mahadev Temple (Vyankatesh Nagar, Gandhinagar)",
+    "state": "Maharashtra",
+    "city": "Jalna",
+    "region": "Vyankatesh Nagar, Gandhinagar, Jalna district",
+    "tags": [
+      "Panchmukhi",
+      "Jalna",
+      "Mahadev"
+    ],
+    "story": "A Panchmukhi Mahadev temple in the Gandhinagar-Vyankatesh Nagar locality, maintained through regular urban worship.",
+    "highlight": "Panchmukhi Mahadev darshan in Jalna city grid.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Panchmukhi Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shambhu Mahadev Temple (Shambhu Sawargaon, Mantha)",
+    "state": "Maharashtra",
+    "city": "Shambhu Sawargaon",
+    "region": "Mantha taluka, Jalna district",
+    "tags": [
+      "Shambhu Mahadev",
+      "Mantha",
+      "Shiva"
+    ],
+    "story": "A Shambhu Mahadev shrine in Shambhu Sawargaon, active in local village worship and seasonal festival observances.",
+    "highlight": "Mantha belt Shambhu Mahadev node with steady local darshan.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Shambhu Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kanakneshwar Mahadev Mandir (Old MIDC, Jalna)",
+    "state": "Maharashtra",
+    "city": "Jalna",
+    "region": "Old MIDC area, Jalna district",
+    "tags": [
+      "Kanakneshwar",
+      "Jalna",
+      "Mahadev"
+    ],
+    "story": "A Kanakneshwar Mahadev shrine in the Old MIDC area of Jalna, serving daily puja and local devotional traffic.",
+    "highlight": "Old MIDC Kanakneshwar darshan in Jalna urban sector.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Kanakneshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahadev Temple Hills Station (Ranjani)",
+    "state": "Maharashtra",
+    "city": "Ranjani",
+    "region": "Ranjani, Jalna district",
+    "tags": [
+      "Mahadev",
+      "Ranjani",
+      "Hill Temple"
+    ],
+    "story": "A hill-station-associated Mahadev shrine in Ranjani, visited as a local elevated Shiva worship point.",
+    "highlight": "Ranjani hill-zone Mahadev darshan with open landscape setting.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mukteshwar Mahadev Temple (Samarth Nagar, Jalna)",
+    "state": "Maharashtra",
+    "city": "Jalna",
+    "region": "Samarth Nagar, Jalna district",
+    "tags": [
+      "Mukteshwar",
+      "Jalna",
+      "Mahadev"
+    ],
+    "story": "A Mukteshwar Mahadev temple in Samarth Nagar, maintained through daily worship and Monday rituals.",
+    "highlight": "Samarth Nagar Mukteshwar node in Jalna city.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Mukteshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Walkeshwar Mahadev Mandir (Maada Colony, Old Jalna)",
+    "state": "Maharashtra",
+    "city": "Jalna",
+    "region": "Maada Colony, Old Jalna, Jalna district",
+    "tags": [
+      "Walkeshwar",
+      "Old Jalna",
+      "Mahadev"
+    ],
+    "story": "A Walkeshwar Mahadev shrine in Old Jalna, continued through neighborhood-level Shaiva worship traditions.",
+    "highlight": "Old Jalna Walkeshwar darshan with legacy local continuity.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Walkeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dhawaleshwar Mahadev Temple (New Mondha, Jalna)",
+    "state": "Maharashtra",
+    "city": "Jalna",
+    "region": "New Mondha, Jalna district",
+    "tags": [
+      "Dhawaleshwar",
+      "Jalna",
+      "Mahadev"
+    ],
+    "story": "A Dhawaleshwar Mahadev temple in New Mondha, active in routine puja and annual Shiva festivals.",
+    "highlight": "New Mondha Dhawaleshwar node in Jalna urban devotional map.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Dhawaleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pataleshwar Temple (Savangi Aughadrao)",
+    "state": "Maharashtra",
+    "city": "Savangi Aughadrao",
+    "region": "Savangi Aughadrao, Jalna district",
+    "tags": [
+      "Pataleshwar",
+      "Savangi Aughadrao",
+      "Shiva"
+    ],
+    "story": "A Pataleshwar Shiva temple in Savangi Aughadrao, preserved in local tradition as a long-standing village shrine.",
+    "highlight": "Savangi Aughadrao Pataleshwar darshan with stable local worship.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Pataleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Solgavhan Mahadev Temple (Partur)",
+    "state": "Maharashtra",
+    "city": "Partur",
+    "region": "Partur, Jalna district",
+    "tags": [
+      "Solgavhan",
+      "Partur",
+      "Mahadev"
+    ],
+    "story": "A Solgavhan Mahadev shrine in Partur, maintained through regular local rituals and festival observances.",
+    "highlight": "Partur Solgavhan Mahadev node with rural Shaiva continuity.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Khadkeshwar Mahadev Mandir (Bhawani Nagar)",
+    "state": "Maharashtra",
+    "city": "Jalna",
+    "region": "Bhawani Nagar, Jalna district",
+    "tags": [
+      "Khadkeshwar",
+      "Bhawani Nagar",
+      "Mahadev"
+    ],
+    "story": "A Khadkeshwar Mahadev temple in Bhawani Nagar, serving as a key neighborhood Shiva worship center.",
+    "highlight": "Bhawani Nagar Khadkeshwar darshan in Jalna city.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Khadkeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahadev Temple (Ashti)",
+    "state": "Maharashtra",
+    "city": "Ashti",
+    "region": "Ashti, Jalna district",
+    "tags": [
+      "Mahadev",
+      "Ashti",
+      "Shiva"
+    ],
+    "story": "A local Mahadev temple in Ashti, visited for daily worship and festival gatherings.",
+    "highlight": "Ashti Mahadev shrine with stable village-level ritual flow.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bholeshwar Bhagwan (Kharpudi)",
+    "state": "Maharashtra",
+    "city": "Kharpudi",
+    "region": "Kharpudi, Jalna district",
+    "tags": [
+      "Bholeshwar",
+      "Kharpudi",
+      "Shiva"
+    ],
+    "story": "A Bholeshwar Bhagwan shrine in Kharpudi, preserved in local devotion as a community Shiva worship point.",
+    "highlight": "Kharpudi Bholeshwar darshan in Jalna rural belt.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Bholeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Melawarche Mahadev Mandir (Sawaladbara)",
+    "state": "Maharashtra",
+    "city": "Sawaladbara",
+    "region": "Sawaladbara, Jalna district",
+    "tags": [
+      "Melawarche Mahadev",
+      "Sawaladbara",
+      "Shiva"
+    ],
+    "story": "A Melawarche Mahadev temple in Sawaladbara with regular local puja and annual observances.",
+    "highlight": "Sawaladbara Mahadev node with sustained local worship.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nagnath Mandir (Seoli)",
+    "state": "Maharashtra",
+    "city": "Seoli",
+    "region": "Seoli, Jalna district",
+    "tags": [
+      "Nagnath",
+      "Seoli",
+      "Shiva"
+    ],
+    "story": "A Nagnath Shiva shrine in Seoli, maintained through local ritual traditions and festival gatherings.",
+    "highlight": "Seoli Nagnath darshan in Jalna district circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Nagnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chapadeshwar Mandir (Chapadgaon)",
+    "state": "Maharashtra",
+    "city": "Chapadgaon",
+    "region": "Chapadgaon, Jalna district",
+    "tags": [
+      "Chapadeshwar",
+      "Chapadgaon",
+      "Shiva"
+    ],
+    "story": "A Chapadeshwar Shiva temple in Chapadgaon, preserved as a local Shaiva worship site.",
+    "highlight": "Chapadgaon Chapadeshwar shrine in village devotional network.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Chapadeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rudreshwar Temple (Pipalgaon)",
+    "state": "Maharashtra",
+    "city": "Pipalgaon",
+    "region": "Pipalgaon, Jalna district",
+    "tags": [
+      "Rudreshwar",
+      "Pipalgaon",
+      "Shiva"
+    ],
+    "story": "A Rudreshwar Shiva temple in Pipalgaon known for regular puja and seasonal observance cycles.",
+    "highlight": "Pipalgaon Rudreshwar darshan with steady local participation.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Rudreshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rameshwar Temple (Maujpuri)",
+    "state": "Maharashtra",
+    "city": "Maujpuri",
+    "region": "Maujpuri, Jalna district",
+    "tags": [
+      "Rameshwar",
+      "Maujpuri",
+      "Shiva"
+    ],
+    "story": "A Rameshwar Shiva temple in Maujpuri, maintained through community ritual continuity and festival worship.",
+    "highlight": "Maujpuri Rameshwar node in Jalna rural Shaiva routes.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Rameshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Lord Shiva Temple (Hasnabad Road, Khandala)",
+    "state": "Maharashtra",
+    "city": "Khandala",
+    "region": "Hasnabad Road, Khandala, Jalna district",
+    "tags": [
+      "Hasnabad Road",
+      "Khandala",
+      "Shiva"
+    ],
+    "story": "A local Shiva temple on Hasnabad Road in Khandala, visited for daily darshan and Monday pujas.",
+    "highlight": "Khandala roadside Shiva node with active local devotion.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kashi Temple (Shivaji Nagar, Jalna)",
+    "state": "Maharashtra",
+    "city": "Jalna",
+    "region": "Shivaji Nagar, Jalna district",
+    "tags": [
+      "Kashi Temple",
+      "Shivaji Nagar",
+      "Shiva"
+    ],
+    "story": "A Kashi-tradition temple in Shivaji Nagar, Jalna, worshipped in the broader Shaiva devotional stream.",
+    "highlight": "Shivaji Nagar Kashi-tradition Shiva worship point.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Kashi Vishweshwar tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples represent the Jalna district Shaiva worship network maintained through local devotional lineages.",
+      "architecture": "Regional Marathwada temple typologies across village, town, and hill-linked shrine settings.",
+      "darshan": "Steady local participation with Monday and festival spikes.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are the principal annual observances.",
+      "sources": [
+        {
+          "label": "Jalna district",
+          "url": "https://en.wikipedia.org/wiki/Jalna_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Mrityunjay Pardeshwar Mahadev Mandir (Nath Nagar, Parbhani)",
+    "state": "Maharashtra",
+    "city": "Parbhani",
+    "region": "Nath Nagar, Parbhani district",
+    "tags": [
+      "Mrityunjay Pardeshwar",
+      "Nath Nagar",
+      "Mahadev"
+    ],
+    "story": "A major Shiva shrine in Nath Nagar, Parbhani, noted for a large parad (mercury) Shivalinga and strong district-level devotional importance.",
+    "highlight": "Prominent Parbhani Mahadev temple associated with parad Shivalinga worship.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Mrityunjay Pardeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mudgaleshwar Temple (Mudgal)",
+    "state": "Maharashtra",
+    "city": "Mudgal",
+    "region": "Godavari riverbank, Parbhani district",
+    "tags": [
+      "Mudgaleshwar",
+      "Mudgal",
+      "Shiva"
+    ],
+    "story": "A revered riverside Shiva shrine in the Mudgal area on the Godavari belt, with dual worship traditions including Hari-Hara devotion.",
+    "highlight": "Godavari-bank Mudgaleshwar darshan with river-linked ritual continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Mudgaleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ughda Mahadev Mandir (Mamta Colony, Parbhani)",
+    "state": "Maharashtra",
+    "city": "Parbhani",
+    "region": "Mamta Colony, Parbhani district",
+    "tags": [
+      "Ughda Mahadev",
+      "Mamta Colony",
+      "Shiva"
+    ],
+    "story": "A historic and popular local Shiva temple in Mamta Colony, known for its long-standing spiritual ambiance.",
+    "highlight": "Mamta Colony Ughda Mahadev node with active local darshan.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Ughda Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Kshetra Tridhara Omkareshwar Devasthan (Dhangarwadi)",
+    "state": "Maharashtra",
+    "city": "Dhangarwadi",
+    "region": "Triveni confluence zone, Parbhani district",
+    "tags": [
+      "Tridhara",
+      "Omkareshwar",
+      "Shiva"
+    ],
+    "story": "A scenic confluence-site shrine at Dhangarwadi where three-river sangam traditions are linked with Omkareshwar Shiva worship.",
+    "highlight": "Tridhara sangam Omkareshwar shrine in Parbhani district.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Omkareshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Beleshwar Mahadev Mandir (Nath Nagar, Parbhani)",
+    "state": "Maharashtra",
+    "city": "Parbhani",
+    "region": "Nath Nagar, Parbhani district",
+    "tags": [
+      "Beleshwar",
+      "Nath Nagar",
+      "Mahadev"
+    ],
+    "story": "A Beleshwar Mahadev shrine in Nath Nagar serving regular daily puja and community festival participation.",
+    "highlight": "Nath Nagar Beleshwar Mahadev darshan in Parbhani city grid.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Beleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jabareshwar Temple (Parbhani Outskirts)",
+    "state": "Maharashtra",
+    "city": "Parbhani",
+    "region": "Outskirts of Parbhani district",
+    "tags": [
+      "Jabareshwar",
+      "Parbhani",
+      "Shiva"
+    ],
+    "story": "A Jabareshwar Shiva shrine in the outskirts of Parbhani, maintained through local ritual continuity.",
+    "highlight": "Peripheral Parbhani Jabareshwar node with steady local worship.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Jabareshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Siddheshwar Mandir (Mahagaon Kalgaon)",
+    "state": "Maharashtra",
+    "city": "Mahagaon Kalgaon",
+    "region": "Mahagaon-Kalgaon, Parbhani district",
+    "tags": [
+      "Siddheshwar",
+      "Mahagaon Kalgaon",
+      "Shiva"
+    ],
+    "story": "A Siddheshwar shrine in the Mahagaon-Kalgaon area, active in village-level Shiva worship cycles.",
+    "highlight": "Mahagaon-Kalgaon Siddheshwar darshan with rural ritual continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Siddheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Manikeshwar Mahadev Mandir (Mankeshwar, Jintur)",
+    "state": "Maharashtra",
+    "city": "Mankeshwar",
+    "region": "Jintur taluka, Parbhani district",
+    "tags": [
+      "Manikeshwar",
+      "Jintur",
+      "Mahadev"
+    ],
+    "story": "A Manikeshwar Mahadev temple in Mankeshwar (Jintur), preserved through long-running local Shaiva practice.",
+    "highlight": "Jintur-sector Manikeshwar Mahadev node in Parbhani belt.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Manikeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Anandeshwar Mahadev Temple (Datta Nagar, Parbhani)",
+    "state": "Maharashtra",
+    "city": "Parbhani",
+    "region": "Datta Nagar, Parbhani district",
+    "tags": [
+      "Anandeshwar",
+      "Datta Nagar",
+      "Mahadev"
+    ],
+    "story": "An Anandeshwar Mahadev shrine in Datta Nagar with daily darshan and recurring festival observances.",
+    "highlight": "Datta Nagar Anandeshwar darshan in urban Parbhani.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Anandeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Someshwar Mahadev Mandir (Parbhani City)",
+    "state": "Maharashtra",
+    "city": "Parbhani",
+    "region": "Parbhani city, Parbhani district",
+    "tags": [
+      "Someshwar",
+      "Parbhani City",
+      "Mahadev"
+    ],
+    "story": "A Someshwar Mahadev temple in Parbhani city, maintained through routine puja and Monday worship traditions.",
+    "highlight": "Parbhani city Someshwar node with stable devotional flow.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Someshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vitthal Rukmini Mahadev Mandir (Parbhani)",
+    "state": "Maharashtra",
+    "city": "Parbhani",
+    "region": "Parbhani district",
+    "tags": [
+      "Vitthal Rukmini Mahadev",
+      "Parbhani",
+      "Shiva"
+    ],
+    "story": "A combined devotional mandir in Parbhani where Vitthal-Rukmini worship includes a dedicated Mahadev shrine tradition.",
+    "highlight": "Integrated Vaishnava-Shaiva worship point in Parbhani district.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (within Vitthal-Rukmini complex)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahadev Temple (Sheikh Rajura)",
+    "state": "Maharashtra",
+    "city": "Sheikh Rajura",
+    "region": "Sheikh Rajura, Parbhani district",
+    "tags": [
+      "Mahadev",
+      "Sheikh Rajura",
+      "Shiva"
+    ],
+    "story": "A local Mahadev temple in Sheikh Rajura serving as a key village-level Shaiva worship center.",
+    "highlight": "Sheikh Rajura Mahadev darshan in rural Parbhani circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiv Mandir (Gandhi Park, Mali Galli, Parbhani)",
+    "state": "Maharashtra",
+    "city": "Parbhani",
+    "region": "Gandhi Park, Mali Galli, Parbhani district",
+    "tags": [
+      "Shiv Mandir",
+      "Mali Galli",
+      "Parbhani"
+    ],
+    "story": "An old Shiva temple in Mali Galli near Gandhi Park, remembered locally as a Nizam-era period shrine.",
+    "highlight": "Historic Mali Galli Shiva node with old-city ritual continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Murudeshwar Temple (Peth Shivani)",
+    "state": "Maharashtra",
+    "city": "Peth Shivani",
+    "region": "Peth Shivani area, Parbhani district",
+    "tags": [
+      "Murudeshwar",
+      "Peth Shivani",
+      "Shiva"
+    ],
+    "story": "A Murudeshwar Shiva temple in the Peth Shivani area with regular local worship participation.",
+    "highlight": "Peth Shivani Murudeshwar darshan in Parbhani belt.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Murudeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shukleswar Mandir (Peth Shivani)",
+    "state": "Maharashtra",
+    "city": "Peth Shivani",
+    "region": "Peth Shivani area, Parbhani district",
+    "tags": [
+      "Shukleswar",
+      "Peth Shivani",
+      "Shiva"
+    ],
+    "story": "A Shukleswar Shiva shrine in Peth Shivani, maintained through daily puja and seasonal observances.",
+    "highlight": "Peth Shivani Shukleswar node with consistent local darshan.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Shukleswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of the Parbhani district Shaiva worship network preserved through local lineages and annual observances.",
+      "architecture": "Regional Marathwada temple typologies across city, village, and riverbank settings.",
+      "darshan": "Steady local participation with higher footfall on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are peak devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Parbhani district",
+          "url": "https://en.wikipedia.org/wiki/Parbhani_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Siddheshwar Devasthan (Solapur City)",
+    "state": "Maharashtra",
+    "city": "Solapur",
+    "region": "Siddheshwar Lake precinct, Solapur district",
+    "tags": [
+      "Siddheshwar Devasthan",
+      "Solapur",
+      "Shiva"
+    ],
+    "story": "An iconic lake-centered Shiva temple complex in Solapur city, known for its cluster of Shiva lingams and long-standing devotional significance.",
+    "highlight": "Principal Solapur Siddheshwar darshan with major city-wide ritual importance.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Siddheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Sangameshwar Devasthan (Hattarsang Kudal)",
+    "state": "Maharashtra",
+    "city": "Hattarsang Kudal",
+    "region": "Bhima-Sina confluence, Solapur district",
+    "tags": [
+      "Sangameshwar",
+      "Hattarsang Kudal",
+      "Shiva"
+    ],
+    "story": "An ancient Sangameshwar temple at the confluence of Bhima and Sina rivers, known for confluence worship traditions and sacred shivalinga forms.",
+    "highlight": "Confluence-based Sangameshwar darshan in Hattarsang Kudal.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Sangameshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Veertapasvi Mandir (Akkalkot Road, Solapur)",
+    "state": "Maharashtra",
+    "city": "Solapur",
+    "region": "Akkalkot Road, Solapur district",
+    "tags": [
+      "Veertapasvi",
+      "Akkalkot Road",
+      "Shiva"
+    ],
+    "story": "A Shiva-focused shrine on Akkalkot Road, known for a circular arrangement of multiple shivalingas and active local worship.",
+    "highlight": "Akkalkot Road Shiva mandir with multi-linga circular worship layout.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ardhanari Nateshwar Temple (Velapur)",
+    "state": "Maharashtra",
+    "city": "Velapur",
+    "region": "Velapur, Solapur district",
+    "tags": [
+      "Ardhanari Nateshwar",
+      "Velapur",
+      "Shiva"
+    ],
+    "story": "An ancient temple in Velapur dedicated to Ardhanarishvara, the combined Shiva-Shakti form, preserved through local ritual continuity.",
+    "highlight": "Velapur Ardhanari-Nateshwar shrine representing Shiva-Shakti unity.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Ardhanarishvara)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Revansiddeshwar Temple (Vijapur Road, Solapur)",
+    "state": "Maharashtra",
+    "city": "Solapur",
+    "region": "Vijapur Road, Solapur district",
+    "tags": [
+      "Revansiddeshwar",
+      "Vijapur Road",
+      "Shiva"
+    ],
+    "story": "A Revansiddeshwar shrine on Vijapur Road with steady daily darshan and regional devotional relevance.",
+    "highlight": "Vijapur Road Revansiddeshwar node in Solapur urban worship grid.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Revansiddeshwar tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mallikarjuna Temple (Solapur)",
+    "state": "Maharashtra",
+    "city": "Solapur",
+    "region": "Solapur district",
+    "tags": [
+      "Mallikarjuna",
+      "Solapur",
+      "Shiva"
+    ],
+    "story": "A Mallikarjuna-form Shiva temple in Solapur, maintained through regular puja and festival observances.",
+    "highlight": "Solapur Mallikarjuna darshan with stable local ritual continuity.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Mallikarjuna)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiv Parvati Temple (Geeta Colony, Akluj)",
+    "state": "Maharashtra",
+    "city": "Akluj",
+    "region": "Geeta Colony, Akluj, Solapur district",
+    "tags": [
+      "Shiv Parvati",
+      "Akluj",
+      "Shiva"
+    ],
+    "story": "A Shiv-Parvati temple in Geeta Colony, Akluj, serving neighborhood-level devotional routines and festival worship.",
+    "highlight": "Akluj Shiv-Parvati node with active local puja cycle.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva-Parvati",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nagnath Temple (Mumbai Highway, Solapur)",
+    "state": "Maharashtra",
+    "city": "Solapur",
+    "region": "Mumbai Highway corridor, Solapur district",
+    "tags": [
+      "Nagnath",
+      "Mumbai Highway",
+      "Shiva"
+    ],
+    "story": "A Nagnath Shiva temple on the Mumbai Highway side of Solapur, known for regular darshan by local and transit devotees.",
+    "highlight": "Highway-corridor Nagnath darshan in Solapur district.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Nagnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Amrut Ling Siddheshwar Temple (Sidheshwar Temple Area)",
+    "state": "Maharashtra",
+    "city": "Solapur",
+    "region": "Siddheshwar Temple area, Solapur district",
+    "tags": [
+      "Amrut Ling",
+      "Siddheshwar Area",
+      "Shiva"
+    ],
+    "story": "A prominent linga shrine in the Siddheshwar precinct, revered as one of the key associated Shiva worship points in the area.",
+    "highlight": "Core Siddheshwar-area Amrut Ling darshan in Solapur.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Amrut Ling)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kudal Sangam Temple (Hattarsang Kudal)",
+    "state": "Maharashtra",
+    "city": "Hattarsang Kudal",
+    "region": "Hattarsang Kudal sangam zone, Solapur district",
+    "tags": [
+      "Kudal Sangam",
+      "Hattarsang Kudal",
+      "Shiva"
+    ],
+    "story": "A confluence-region Shiva temple at Hattarsang Kudal where sangam-centered ritual worship is sustained year-round.",
+    "highlight": "Hattarsang Kudal sangam temple with strong river-confluence devotion.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Papeshwar Ling (Sidheshwar Temple Area)",
+    "state": "Maharashtra",
+    "city": "Solapur",
+    "region": "Siddheshwar Temple area, Solapur district",
+    "tags": [
+      "Papeshwar Ling",
+      "Siddheshwar Area",
+      "Shiva"
+    ],
+    "story": "A Papeshwar linga shrine in the Siddheshwar area of Solapur, maintained through local abhishekam and festival offerings.",
+    "highlight": "Siddheshwar-precinct Papeshwar linga worship point.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Papeshwar Ling)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Motha Mahadev Mandir (Vadapur)",
+    "state": "Maharashtra",
+    "city": "Vadapur",
+    "region": "Vadapur, Solapur district",
+    "tags": [
+      "Motha Mahadev",
+      "Vadapur",
+      "Shiva"
+    ],
+    "story": "A local Motha Mahadev shrine in Vadapur, visited for routine village worship and seasonal observances.",
+    "highlight": "Vadapur Motha Mahadev node in rural Solapur devotional routes.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ogsiddha Temple (Siddapur Road, Arali)",
+    "state": "Maharashtra",
+    "city": "Arali",
+    "region": "Siddapur Road, Arali, Solapur district",
+    "tags": [
+      "Ogsiddha",
+      "Arali",
+      "Shiva"
+    ],
+    "story": "An Ogsiddha temple on Siddapur Road in Arali, linked with local ascetic-devotional traditions and regular worship.",
+    "highlight": "Arali Ogsiddha shrine with strong local devotional continuity.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Ogsiddha tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Yoginath Ling (Jule Solapur)",
+    "state": "Maharashtra",
+    "city": "Jule Solapur",
+    "region": "Jule Solapur, Solapur district",
+    "tags": [
+      "Yoginath Ling",
+      "Jule Solapur",
+      "Shiva"
+    ],
+    "story": "A Yoginath linga shrine in Jule Solapur, maintained through daily puja and neighborhood participation.",
+    "highlight": "Jule Solapur Yoginath linga darshan with consistent local worship.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Yoginath Ling)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Omkareshwar Ling (Jule Solapur)",
+    "state": "Maharashtra",
+    "city": "Jule Solapur",
+    "region": "Jule Solapur, Solapur district",
+    "tags": [
+      "Omkareshwar Ling",
+      "Jule Solapur",
+      "Shiva"
+    ],
+    "story": "An Omkareshwar linga shrine in Jule Solapur, active in local Shaiva rituals and festival-day observances.",
+    "highlight": "Jule Solapur Omkareshwar linga node in the city devotional circuit.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Omkareshwar Ling)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T15:40:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Solapur district's broader Shaiva worship network maintained through local temple traditions.",
+      "architecture": "Mixed regional typologies including lake, sangam, roadside, and neighborhood mandir settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods see the highest turnout.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Solapur district",
+          "url": "https://en.wikipedia.org/wiki/Solapur_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kedareshwar Mahadev Temple (Pangari, Yavatmal City)",
+    "state": "Maharashtra",
+    "city": "Yavatmal",
+    "region": "Pangari, Yavatmal district",
+    "tags": [
+      "Kedareshwar",
+      "Yavatmal",
+      "Mahadev"
+    ],
+    "story": "An old stone Shiva temple in the Pangari area of Yavatmal, associated with Hemadpanti-era regional worship continuity.",
+    "highlight": "Pangari Kedareshwar shrine with long-standing stone-temple tradition.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Kedareshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Yavatmal district's local Shaiva worship network across city and forest-edge settlements.",
+      "architecture": "Regional Vidarbha temple profiles including stone, hilltop, and village shrine forms.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Yavatmal district",
+          "url": "https://en.wikipedia.org/wiki/Yavatmal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mandev Shiv Temple (Manpur, Arni Road)",
+    "state": "Maharashtra",
+    "city": "Manpur",
+    "region": "Arni Road, Yavatmal district",
+    "tags": [
+      "Mandev Shiv",
+      "Manpur",
+      "Shiva"
+    ],
+    "story": "A historic black-stone Shiva temple in the Manpur belt on Arni Road, set near forested surroundings.",
+    "highlight": "Forest-edge Mandev Shiva node with heritage stone construction.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Yavatmal district's local Shaiva worship network across city and forest-edge settlements.",
+      "architecture": "Regional Vidarbha temple profiles including stone, hilltop, and village shrine forms.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Yavatmal district",
+          "url": "https://en.wikipedia.org/wiki/Yavatmal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chausala Shiv Mandir (Chausala Forest Area)",
+    "state": "Maharashtra",
+    "city": "Chausala",
+    "region": "Chausala forest zone, Yavatmal district",
+    "tags": [
+      "Chausala",
+      "Forest Temple",
+      "Shiva"
+    ],
+    "story": "A hilltop Shiva shrine in the Chausala forest area, visited for both darshan and trekking-route pilgrimage.",
+    "highlight": "Hilltop Chausala Shiva darshan with valley viewpoints.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Yavatmal district's local Shaiva worship network across city and forest-edge settlements.",
+      "architecture": "Regional Vidarbha temple profiles including stone, hilltop, and village shrine forms.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Yavatmal district",
+          "url": "https://en.wikipedia.org/wiki/Yavatmal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kamleshwar Mahadev Temple (Lohara MIDC)",
+    "state": "Maharashtra",
+    "city": "Yavatmal",
+    "region": "Lohara MIDC approach, Yavatmal district",
+    "tags": [
+      "Kamleshwar",
+      "Lohara MIDC",
+      "Mahadev"
+    ],
+    "story": "A peaceful Shiva temple on the Lohara MIDC route outside Yavatmal city, maintained through regular local puja.",
+    "highlight": "Lohara-route Kamleshwar darshan in the Yavatmal urban fringe.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Kamleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Yavatmal district's local Shaiva worship network across city and forest-edge settlements.",
+      "architecture": "Regional Vidarbha temple profiles including stone, hilltop, and village shrine forms.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Yavatmal district",
+          "url": "https://en.wikipedia.org/wiki/Yavatmal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ancient Shiv Temple (Pandavdevi, Pandhardevi)",
+    "state": "Maharashtra",
+    "city": "Pandhardevi",
+    "region": "Pandavdevi-Pandhardevi forest belt, Yavatmal district",
+    "tags": [
+      "Ancient Shiv Temple",
+      "Pandhardevi",
+      "Shiva"
+    ],
+    "story": "A historic stone Shiva temple in the Pandavdevi-Pandhardevi area, known for its green forest setting.",
+    "highlight": "Pandhardevi ancient Shiva node in a lush forest environment.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Yavatmal district's local Shaiva worship network across city and forest-edge settlements.",
+      "architecture": "Regional Vidarbha temple profiles including stone, hilltop, and village shrine forms.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Yavatmal district",
+          "url": "https://en.wikipedia.org/wiki/Yavatmal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jagrit Shiv Mandir (Shindola, Jugad)",
+    "state": "Maharashtra",
+    "city": "Shindola",
+    "region": "Shindola-Jugad zone, Yavatmal district",
+    "tags": [
+      "Jagrit Shiv",
+      "Shindola",
+      "Shiva"
+    ],
+    "story": "A locally revered Jagrit Shiv temple in Shindola, visited for regular darshan and community worship events.",
+    "highlight": "Shindola Jagrit Shiv shrine with active local devotional flow.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Yavatmal district's local Shaiva worship network across city and forest-edge settlements.",
+      "architecture": "Regional Vidarbha temple profiles including stone, hilltop, and village shrine forms.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Yavatmal district",
+          "url": "https://en.wikipedia.org/wiki/Yavatmal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nilkantheshwar Mahadev Mandir (Husanapur, near Darwha)",
+    "state": "Maharashtra",
+    "city": "Husanapur",
+    "region": "Near Darwha, Yavatmal district",
+    "tags": [
+      "Nilkantheshwar",
+      "Husanapur",
+      "Mahadev"
+    ],
+    "story": "A Nilkantheshwar Mahadev shrine in Husanapur near Darwha, sustained through local Shaiva ritual continuity.",
+    "highlight": "Darwha-belt Nilkantheshwar darshan in rural Yavatmal.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Nilkantheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Yavatmal district's local Shaiva worship network across city and forest-edge settlements.",
+      "architecture": "Regional Vidarbha temple profiles including stone, hilltop, and village shrine forms.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Yavatmal district",
+          "url": "https://en.wikipedia.org/wiki/Yavatmal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dhankeshwar Temple (Pusad)",
+    "state": "Maharashtra",
+    "city": "Pusad",
+    "region": "Pusad, Yavatmal district",
+    "tags": [
+      "Dhankeshwar",
+      "Pusad",
+      "Shiva"
+    ],
+    "story": "A Dhankeshwar Shiva temple in Pusad serving as a regional worship point with routine daily rituals.",
+    "highlight": "Pusad Dhankeshwar node with steady local darshan participation.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Dhankeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Yavatmal district's local Shaiva worship network across city and forest-edge settlements.",
+      "architecture": "Regional Vidarbha temple profiles including stone, hilltop, and village shrine forms.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Yavatmal district",
+          "url": "https://en.wikipedia.org/wiki/Yavatmal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ujjaineshwar Shiv Mandir (Darwha)",
+    "state": "Maharashtra",
+    "city": "Darwha",
+    "region": "Darwha, Yavatmal district",
+    "tags": [
+      "Ujjaineshwar",
+      "Darwha",
+      "Shiva"
+    ],
+    "story": "A Ujjaineshwar Shiva shrine in Darwha, maintained through regular abhishekam and annual festival observances.",
+    "highlight": "Darwha Ujjaineshwar Shiva darshan in Yavatmal devotional network.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Ujjaineshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Yavatmal district's local Shaiva worship network across city and forest-edge settlements.",
+      "architecture": "Regional Vidarbha temple profiles including stone, hilltop, and village shrine forms.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Yavatmal district",
+          "url": "https://en.wikipedia.org/wiki/Yavatmal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kanakneshwar Mandir (Kalgaon, Mahagaon)",
+    "state": "Maharashtra",
+    "city": "Kalgaon",
+    "region": "Kalgaon, Mahagaon belt, Yavatmal district",
+    "tags": [
+      "Kanakneshwar",
+      "Kalgaon",
+      "Shiva"
+    ],
+    "story": "A Kanakneshwar Shiva temple in the Kalgaon-Mahagaon area, preserved through village-level worship traditions.",
+    "highlight": "Kalgaon Kanakneshwar shrine in eastern Yavatmal sector.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Kanakneshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Yavatmal district's local Shaiva worship network across city and forest-edge settlements.",
+      "architecture": "Regional Vidarbha temple profiles including stone, hilltop, and village shrine forms.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Yavatmal district",
+          "url": "https://en.wikipedia.org/wiki/Yavatmal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Omkareshwar Mahadev Mandir (Dabhadi)",
+    "state": "Maharashtra",
+    "city": "Dabhadi",
+    "region": "Dabhadi, Yavatmal district",
+    "tags": [
+      "Omkareshwar",
+      "Dabhadi",
+      "Mahadev"
+    ],
+    "story": "An Omkareshwar Mahadev temple in Dabhadi with regular daily darshan and local festival observances.",
+    "highlight": "Dabhadi Omkareshwar node in the Yavatmal Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Omkareshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Yavatmal district's local Shaiva worship network across city and forest-edge settlements.",
+      "architecture": "Regional Vidarbha temple profiles including stone, hilltop, and village shrine forms.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Yavatmal district",
+          "url": "https://en.wikipedia.org/wiki/Yavatmal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Panchdhara Shiva Mandir (Yavatmal City)",
+    "state": "Maharashtra",
+    "city": "Yavatmal",
+    "region": "Yavatmal city, Yavatmal district",
+    "tags": [
+      "Panchdhara",
+      "Yavatmal City",
+      "Shiva"
+    ],
+    "story": "A Panchdhara Shiva shrine in Yavatmal city known for neighborhood-level worship and recurring Monday rituals.",
+    "highlight": "Urban Yavatmal Panchdhara Shiva darshan point.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Yavatmal district's local Shaiva worship network across city and forest-edge settlements.",
+      "architecture": "Regional Vidarbha temple profiles including stone, hilltop, and village shrine forms.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Yavatmal district",
+          "url": "https://en.wikipedia.org/wiki/Yavatmal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kundareshwar Temple (Near Wani)",
+    "state": "Maharashtra",
+    "city": "Wani",
+    "region": "Near Wani, Yavatmal district",
+    "tags": [
+      "Kundareshwar",
+      "Wani",
+      "Shiva"
+    ],
+    "story": "A Kundareshwar Shiva temple near Wani, maintained as a calm local temple with regular ritual practice.",
+    "highlight": "Wani-sector Kundareshwar node with stable local worship continuity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Kundareshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:05:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Yavatmal district's local Shaiva worship network across city and forest-edge settlements.",
+      "architecture": "Regional Vidarbha temple profiles including stone, hilltop, and village shrine forms.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest devotional periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Yavatmal district",
+          "url": "https://en.wikipedia.org/wiki/Yavatmal_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kaleshwar Temple (Vishnupuri)",
+    "state": "Maharashtra",
+    "city": "Vishnupuri",
+    "region": "Vishnupuri, Nanded district",
+    "tags": [
+      "Kaleshwar",
+      "Vishnupuri",
+      "Shiva"
+    ],
+    "story": "A riverside Kaleshwar Shiva temple in Vishnupuri, maintained through daily worship traditions in the Godavari belt.",
+    "highlight": "Vishnupuri Kaleshwar darshan in Nanded riverfront devotional routes.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Kaleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ancient Chalukya Shri Siddheshwara Swamy Temple (Hottal)",
+    "state": "Maharashtra",
+    "city": "Hottal",
+    "region": "Hottal, Nanded district",
+    "tags": [
+      "Siddheshwara",
+      "Hottal",
+      "Chalukya"
+    ],
+    "story": "A historic Chalukya-period Siddheshwara Shiva temple at Hottal, known for sculptural stone heritage and deep Marathwada continuity.",
+    "highlight": "Hottal Chalukyan Siddheshwara anchor with major heritage value.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Siddheshwara)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Unkeshwar Mahadev Temple (Kinwat)",
+    "state": "Maharashtra",
+    "city": "Kinwat",
+    "region": "Kinwat, Nanded district",
+    "tags": [
+      "Unkeshwar",
+      "Kinwat",
+      "Mahadev"
+    ],
+    "story": "A revered Unkeshwar Mahadev shrine in Kinwat with long-standing local pilgrimage and ritual traditions.",
+    "highlight": "Kinwat Unkeshwar Mahadev node in Nanded district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Unkeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Urvashi Mahadev Temple (Nanded City)",
+    "state": "Maharashtra",
+    "city": "Nanded",
+    "region": "Nanded city, Nanded district",
+    "tags": [
+      "Urvashi Mahadev",
+      "Nanded City",
+      "Shiva"
+    ],
+    "story": "A local Shiva temple in Nanded city maintained through regular puja and community devotional participation.",
+    "highlight": "Urban Nanded Urvashi Mahadev darshan with steady local flow.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kadyacha Mahadev Temple (Ghagardara)",
+    "state": "Maharashtra",
+    "city": "Ghagardara",
+    "region": "Ghagardara, Nanded district",
+    "tags": [
+      "Kadyacha Mahadev",
+      "Ghagardara",
+      "Shiva"
+    ],
+    "story": "A Kadyacha Mahadev shrine in Ghagardara preserved as a regional village-level Shaiva worship center.",
+    "highlight": "Ghagardara Kadyacha Mahadev node with stable ritual continuity.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Kadyacha Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiv Mandir (Chaitanya Nagar)",
+    "state": "Maharashtra",
+    "city": "Nanded",
+    "region": "Chaitanya Nagar, Nanded district",
+    "tags": [
+      "Shiv Mandir",
+      "Chaitanya Nagar",
+      "Shiva"
+    ],
+    "story": "A neighborhood Shiva temple in Chaitanya Nagar with regular abhishekam and festival-day observances.",
+    "highlight": "Chaitanya Nagar Shiva darshan in Nanded urban sector.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kedarnath Temple (Kedarguda)",
+    "state": "Maharashtra",
+    "city": "Kedarguda",
+    "region": "Kedarguda, Nanded district",
+    "tags": [
+      "Kedarnath",
+      "Kedarguda",
+      "Shiva"
+    ],
+    "story": "A Kedarnath-form Shiva temple in Kedarguda, preserved through local devotional practice and annual observances.",
+    "highlight": "Kedarguda Kedarnath shrine in the Nanded rural network.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Kedarnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nagreshwar Mandir (Khadakpura)",
+    "state": "Maharashtra",
+    "city": "Khadakpura",
+    "region": "Khadakpura, Nanded district",
+    "tags": [
+      "Nagreshwar",
+      "Khadakpura",
+      "Shiva"
+    ],
+    "story": "A Nagreshwar Shiva mandir in Khadakpura serving steady daily worship and local ritual cycles.",
+    "highlight": "Khadakpura Nagreshwar node in Nanded district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Nagreshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Siddheshwar Mahadev Temple (Kandhar)",
+    "state": "Maharashtra",
+    "city": "Kandhar",
+    "region": "Kandhar, Nanded district",
+    "tags": [
+      "Siddheshwar Mahadev",
+      "Kandhar",
+      "Shiva"
+    ],
+    "story": "A Siddheshwar Mahadev temple in Kandhar maintained through traditional local Shaiva worship practices.",
+    "highlight": "Kandhar Siddheshwar Mahadev darshan with regional continuity.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Siddheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Lord Shiva Temple (Maralak)",
+    "state": "Maharashtra",
+    "city": "Maralak",
+    "region": "Maralak, Nanded district",
+    "tags": [
+      "Lord Shiva Temple",
+      "Maralak",
+      "Shiva"
+    ],
+    "story": "A local Lord Shiva temple in Maralak, visited for routine puja and seasonal festival devotion.",
+    "highlight": "Maralak Shiva shrine in Nanded village worship grid.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nilkantheshwar Temple (Nanded City)",
+    "state": "Maharashtra",
+    "city": "Nanded",
+    "region": "Nanded city, Nanded district",
+    "tags": [
+      "Nilkantheshwar",
+      "Nanded City",
+      "Shiva"
+    ],
+    "story": "A Nilkantheshwar Shiva temple in Nanded city with daily ritual activity and Monday worship peaks.",
+    "highlight": "Urban Nanded Nilkantheshwar node with active darshan flow.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Nilkantheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Someshwar Temple (Bhokar)",
+    "state": "Maharashtra",
+    "city": "Bhokar",
+    "region": "Bhokar, Nanded district",
+    "tags": [
+      "Someshwar",
+      "Bhokar",
+      "Shiva"
+    ],
+    "story": "A Someshwar Shiva shrine in Bhokar serving as a local anchor for regular village and town worship.",
+    "highlight": "Bhokar Someshwar darshan in northern Nanded belt.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Someshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Panchmukhi Mahadev Mandir (Degloor)",
+    "state": "Maharashtra",
+    "city": "Degloor",
+    "region": "Degloor, Nanded district",
+    "tags": [
+      "Panchmukhi Mahadev",
+      "Degloor",
+      "Shiva"
+    ],
+    "story": "A Panchmukhi Mahadev temple in Degloor known for five-faced Shiva iconography and community worship.",
+    "highlight": "Degloor Panchmukhi Mahadev node in Nanded devotional map.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Panchmukhi Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amruteshwar Temple (Ardhapur)",
+    "state": "Maharashtra",
+    "city": "Ardhapur",
+    "region": "Ardhapur, Nanded district",
+    "tags": [
+      "Amruteshwar",
+      "Ardhapur",
+      "Shiva"
+    ],
+    "story": "An Amruteshwar Shiva temple in Ardhapur with routine puja, abhishekam, and festival observances.",
+    "highlight": "Ardhapur Amruteshwar darshan with sustained local ritual continuity.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Amruteshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mankeshwar Temple (Loha)",
+    "state": "Maharashtra",
+    "city": "Loha",
+    "region": "Loha, Nanded district",
+    "tags": [
+      "Mankeshwar",
+      "Loha",
+      "Shiva"
+    ],
+    "story": "A Mankeshwar Shiva temple in Loha preserved through long-running local worship traditions.",
+    "highlight": "Loha Mankeshwar node in Nanded district Shaiva routes.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Mankeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Nanded district Shaiva worship network preserved through local temple lineages.",
+      "architecture": "Regional Marathwada stone and community-temple typologies across city and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Nanded district",
+          "url": "https://en.wikipedia.org/wiki/Nanded_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ancient Chalukya era Shri Anandeshwar Temple (Lasur)",
+    "state": "Maharashtra",
+    "city": "Lasur",
+    "region": "Lasur, Amravati district",
+    "tags": [
+      "Anandeshwar",
+      "Lasur",
+      "Chalukya"
+    ],
+    "story": "A Chalukya-era Shiva temple at Lasur, associated with Hemadpanti stone architecture and an open-sky swargamandap tradition.",
+    "highlight": "Heritage Lasur Anandeshwar shrine with classical stone-temple character.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Anandeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples contribute to the Amravati district Shaiva network sustained through local temple-community traditions.",
+      "architecture": "Regional Vidarbha temple forms across hillside, city, ashram, and village contexts.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Amravati district",
+          "url": "https://en.wikipedia.org/wiki/Amravati_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kondeshwar Temple (Govindpur)",
+    "state": "Maharashtra",
+    "city": "Govindpur",
+    "region": "Govindpur hill belt, Amravati district",
+    "tags": [
+      "Kondeshwar",
+      "Govindpur",
+      "Shiva"
+    ],
+    "story": "A historic hillside Shiva temple in the Govindpur region, linked to Hemadpanti style and forest-edge worship routes.",
+    "highlight": "Govindpur Kondeshwar hill-shrine darshan in Amravati district.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Kondeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples contribute to the Amravati district Shaiva network sustained through local temple-community traditions.",
+      "architecture": "Regional Vidarbha temple forms across hillside, city, ashram, and village contexts.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Amravati district",
+          "url": "https://en.wikipedia.org/wiki/Amravati_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Gadgadeshwar Mandir (Amravati City)",
+    "state": "Maharashtra",
+    "city": "Amravati",
+    "region": "Patalvipura area, Amravati district",
+    "tags": [
+      "Gadgadeshwar",
+      "Amravati City",
+      "Shiva"
+    ],
+    "story": "A popular Shiva temple in Amravati city, known as an active devotional center in the Patalvipura locality.",
+    "highlight": "Patalvipura Gadgadeshwar node with high local devotional activity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Gadgadeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples contribute to the Amravati district Shaiva network sustained through local temple-community traditions.",
+      "architecture": "Regional Vidarbha temple forms across hillside, city, ashram, and village contexts.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Amravati district",
+          "url": "https://en.wikipedia.org/wiki/Amravati_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Satidham Temple",
+    "state": "Maharashtra",
+    "city": "Amravati",
+    "region": "Amravati district",
+    "tags": [
+      "Satidham",
+      "Amravati",
+      "Shiva"
+    ],
+    "story": "A peaceful Shiva-oriented shrine in the Amravati region, visited for calm darshan and regular devotional practice.",
+    "highlight": "Quiet Satidham Shiva darshan point in Amravati district.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples contribute to the Amravati district Shaiva network sustained through local temple-community traditions.",
+      "architecture": "Regional Vidarbha temple forms across hillside, city, ashram, and village contexts.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Amravati district",
+          "url": "https://en.wikipedia.org/wiki/Amravati_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gavhan Kund Shiv Mandir (Jarud)",
+    "state": "Maharashtra",
+    "city": "Jarud",
+    "region": "Warud region, Amravati district",
+    "tags": [
+      "Gavhan Kund",
+      "Jarud",
+      "Shiva"
+    ],
+    "story": "A local Shiva temple near Gavhan Kund in Jarud, maintained through regional worship traditions in the Warud belt.",
+    "highlight": "Jarud Gavhan Kund Shiva node with steady local participation.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples contribute to the Amravati district Shaiva network sustained through local temple-community traditions.",
+      "architecture": "Regional Vidarbha temple forms across hillside, city, ashram, and village contexts.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Amravati district",
+          "url": "https://en.wikipedia.org/wiki/Amravati_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kailash Ashram Shiv Mandir (Kurli)",
+    "state": "Maharashtra",
+    "city": "Kurli",
+    "region": "Kurli, Amravati district",
+    "tags": [
+      "Kailash Ashram",
+      "Kurli",
+      "Shiva"
+    ],
+    "story": "A serene ashram-based Shiva shrine in Kurli, visited for regular puja and spiritual retreat-style darshan.",
+    "highlight": "Kurli Kailash Ashram Shiva darshan in a quiet setting.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples contribute to the Amravati district Shaiva network sustained through local temple-community traditions.",
+      "architecture": "Regional Vidarbha temple forms across hillside, city, ashram, and village contexts.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Amravati district",
+          "url": "https://en.wikipedia.org/wiki/Amravati_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiv Mandir (Rampuri Camp)",
+    "state": "Maharashtra",
+    "city": "Rampuri Camp",
+    "region": "Rampuri Camp, Amravati district",
+    "tags": [
+      "Shiv Mandir",
+      "Rampuri Camp",
+      "Shiva"
+    ],
+    "story": "A frequently visited local Shiva temple in Rampuri Camp with active community worship cycles.",
+    "highlight": "Rampuri Camp Shiva node with strong neighborhood darshan flow.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples contribute to the Amravati district Shaiva network sustained through local temple-community traditions.",
+      "architecture": "Regional Vidarbha temple forms across hillside, city, ashram, and village contexts.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Amravati district",
+          "url": "https://en.wikipedia.org/wiki/Amravati_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Trimbakeshwar Mandir (Amravati)",
+    "state": "Maharashtra",
+    "city": "Amravati",
+    "region": "Amravati district",
+    "tags": [
+      "Trimbakeshwar",
+      "Amravati",
+      "Shiva"
+    ],
+    "story": "A Trimbakeshwar-named Shiva temple in Amravati, reflecting Jyotirlinga-inspired regional devotion traditions.",
+    "highlight": "Amravati Trimbakeshwar darshan with Jyotirlinga-linked naming lineage.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Trimbakeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples contribute to the Amravati district Shaiva network sustained through local temple-community traditions.",
+      "architecture": "Regional Vidarbha temple forms across hillside, city, ashram, and village contexts.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Amravati district",
+          "url": "https://en.wikipedia.org/wiki/Amravati_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bhuleshwar Temple (Amravati)",
+    "state": "Maharashtra",
+    "city": "Amravati",
+    "region": "Amravati district",
+    "tags": [
+      "Bhuleshwar",
+      "Amravati",
+      "Shiva"
+    ],
+    "story": "A recognized Bhuleshwar Shiva temple in Amravati, distinct from the Pune-region Bhuleshwar shrine.",
+    "highlight": "Amravati Bhuleshwar node with independent local Shaiva identity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bhuleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples contribute to the Amravati district Shaiva network sustained through local temple-community traditions.",
+      "architecture": "Regional Vidarbha temple forms across hillside, city, ashram, and village contexts.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Amravati district",
+          "url": "https://en.wikipedia.org/wiki/Amravati_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiv Shakti Mandir (Shivaji Nagar)",
+    "state": "Maharashtra",
+    "city": "Amravati",
+    "region": "Shivaji Nagar, Amravati district",
+    "tags": [
+      "Shiv Shakti",
+      "Shivaji Nagar",
+      "Shiva"
+    ],
+    "story": "A popular neighborhood Shiv-Shakti shrine in Shivaji Nagar, active in daily ritual worship and festival observances.",
+    "highlight": "Shivaji Nagar Shiv-Shakti temple with consistent local devotional flow.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva-Shakti",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T16:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples contribute to the Amravati district Shaiva network sustained through local temple-community traditions.",
+      "architecture": "Regional Vidarbha temple forms across hillside, city, ashram, and village contexts.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings usually provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Amravati district",
+          "url": "https://en.wikipedia.org/wiki/Amravati_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tungareshwar Temple (Vasai)",
+    "state": "Maharashtra",
+    "city": "Vasai",
+    "region": "Tungareshwar Wildlife Sanctuary, Vasai, Palghar district",
+    "tags": [
+      "Tungareshwar",
+      "Vasai",
+      "Shiva"
+    ],
+    "story": "A major Shiva shrine in the Tungareshwar sanctuary belt near Vasai, approached through forested hill routes.",
+    "highlight": "Vasai Tungareshwar darshan in a forest-sanctuary pilgrimage setting.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Palghar district's wider Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional coastal and forest-edge temple layouts across the Vasai-Virar-Boisar belt.",
+      "darshan": "Steady local participation with peaks on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sheshnag Mahadev Mandir (Virar)",
+    "state": "Maharashtra",
+    "city": "Virar",
+    "region": "Virar, Palghar district",
+    "tags": [
+      "Sheshnag",
+      "Virar",
+      "Mahadev"
+    ],
+    "story": "A Sheshnag Mahadev shrine in Virar, known for active local worship and periodic high-footfall darshan.",
+    "highlight": "Virar Sheshnag Mahadev node with steady urban-rural devotional flow.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Sheshnag Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Palghar district's wider Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional coastal and forest-edge temple layouts across the Vasai-Virar-Boisar belt.",
+      "darshan": "Steady local participation with peaks on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Barfeshwar Mahadev Temple (Virar)",
+    "state": "Maharashtra",
+    "city": "Virar",
+    "region": "Virar, Palghar district",
+    "tags": [
+      "Barfeshwar",
+      "Virar",
+      "Mahadev"
+    ],
+    "story": "A Barfeshwar Mahadev temple in the Virar belt, maintained through daily puja and festival observances.",
+    "highlight": "Virar Barfeshwar Mahadev darshan in the coastal Palghar circuit.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Barfeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Palghar district's wider Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional coastal and forest-edge temple layouts across the Vasai-Virar-Boisar belt.",
+      "darshan": "Steady local participation with peaks on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aatmalingeswar Mahadev Mandir (Shivansai)",
+    "state": "Maharashtra",
+    "city": "Shivansai",
+    "region": "Shivansai, Palghar district",
+    "tags": [
+      "Aatmalingeswar",
+      "Shivansai",
+      "Mahadev"
+    ],
+    "story": "An Aatmalingeswar Mahadev shrine in Shivansai with regular neighborhood worship continuity.",
+    "highlight": "Shivansai Aatmalingeswar node with sustained local puja rhythm.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Aatmalingeswar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Palghar district's wider Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional coastal and forest-edge temple layouts across the Vasai-Virar-Boisar belt.",
+      "darshan": "Steady local participation with peaks on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nagnath Shiv Temple (Manor)",
+    "state": "Maharashtra",
+    "city": "Manor",
+    "region": "Manor, Palghar district",
+    "tags": [
+      "Nagnath",
+      "Manor",
+      "Shiva"
+    ],
+    "story": "A Nagnath Shiva temple in Manor, visited as a calm local devotional point in the northern Palghar belt.",
+    "highlight": "Manor Nagnath darshan with low-noise village-temple ambience.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Nagnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Palghar district's wider Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional coastal and forest-edge temple layouts across the Vasai-Virar-Boisar belt.",
+      "darshan": "Steady local participation with peaks on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pimpleshwar Shiv Temple (Virar)",
+    "state": "Maharashtra",
+    "city": "Virar",
+    "region": "Virar, Palghar district",
+    "tags": [
+      "Pimpleshwar",
+      "Virar",
+      "Shiva"
+    ],
+    "story": "A Pimpleshwar Shiva shrine in Virar with steady daily worship and local festival participation.",
+    "highlight": "Virar Pimpleshwar node in Palghar urban devotional network.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Pimpleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Palghar district's wider Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional coastal and forest-edge temple layouts across the Vasai-Virar-Boisar belt.",
+      "darshan": "Steady local participation with peaks on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Shitladevi Temple Shiva Shrine (Kelwa)",
+    "state": "Maharashtra",
+    "city": "Kelwa",
+    "region": "Kelwa, Palghar district",
+    "tags": [
+      "Shitladevi Shiva Shrine",
+      "Kelwa",
+      "Shiva"
+    ],
+    "story": "A Shiva shrine within the Shitladevi temple complex at Kelwa, integrated into local shared ritual traditions.",
+    "highlight": "Kelwa Shitladevi-complex Shiva darshan with dual-tradition worship.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (within Shitladevi complex)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Palghar district's wider Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional coastal and forest-edge temple layouts across the Vasai-Virar-Boisar belt.",
+      "darshan": "Steady local participation with peaks on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pujeshwar Mahadev Mandir (Dhundalwadi)",
+    "state": "Maharashtra",
+    "city": "Dhundalwadi",
+    "region": "Dhundalwadi, Palghar district",
+    "tags": [
+      "Pujeshwar",
+      "Dhundalwadi",
+      "Mahadev"
+    ],
+    "story": "A Pujeshwar Mahadev temple in Dhundalwadi, maintained through regular rural worship and festival-day pujas.",
+    "highlight": "Dhundalwadi Pujeshwar darshan in Palghar interior devotional routes.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Pujeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Palghar district's wider Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional coastal and forest-edge temple layouts across the Vasai-Virar-Boisar belt.",
+      "darshan": "Steady local participation with peaks on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pashupatinath Mandir (Boisar)",
+    "state": "Maharashtra",
+    "city": "Boisar",
+    "region": "Boisar, Palghar district",
+    "tags": [
+      "Pashupatinath",
+      "Boisar",
+      "Shiva"
+    ],
+    "story": "A Pashupatinath-form Shiva temple in Boisar with strong local community participation.",
+    "highlight": "Boisar Pashupatinath node in the Palghar Shaiva grid.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Pashupatinath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja schedule before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Palghar district's wider Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional coastal and forest-edge temple layouts across the Vasai-Virar-Boisar belt.",
+      "darshan": "Steady local participation with peaks on Mondays and festival days.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Palghar district",
+          "url": "https://en.wikipedia.org/wiki/Palghar_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Koteshwar Temple (Satephal)",
+    "state": "Maharashtra",
+    "city": "Satephal",
+    "region": "Satephal, Wardha district",
+    "tags": [
+      "Koteshwar",
+      "Satephal",
+      "Shiva"
+    ],
+    "story": "A Koteshwar Shiva shrine in Satephal, maintained as a local devotional anchor in Wardha district.",
+    "highlight": "Satephal Koteshwar darshan in Wardha rural worship routes.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Koteshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "MAHADEV PURA Mandir (Wardha City)",
+    "state": "Maharashtra",
+    "city": "Wardha",
+    "region": "Wardha city, Wardha district",
+    "tags": [
+      "Mahadev Pura",
+      "Wardha City",
+      "Shiva"
+    ],
+    "story": "A Mahadev temple in Wardha city known for active neighborhood worship and regular puja routines.",
+    "highlight": "Wardha city Mahadev Pura node with steady local darshan flow.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ancient Shiv Mandir (Dhaga)",
+    "state": "Maharashtra",
+    "city": "Dhaga",
+    "region": "Dhaga, Wardha district",
+    "tags": [
+      "Ancient Shiv Mandir",
+      "Dhaga",
+      "Shiva"
+    ],
+    "story": "An old Shiva temple in Dhaga preserved through long-running local ritual traditions.",
+    "highlight": "Dhaga ancient Shiv mandir with stable village-level devotion.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Narmadeshwar Shiv Mandir (Arvi Road)",
+    "state": "Maharashtra",
+    "city": "Wardha",
+    "region": "Arvi Road, Wardha district",
+    "tags": [
+      "Narmadeshwar",
+      "Arvi Road",
+      "Shiva"
+    ],
+    "story": "A Narmadeshwar Shiva shrine on Arvi Road, visited for daily darshan and Monday worship.",
+    "highlight": "Arvi Road Narmadeshwar node in Wardha urban belt.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Narmadeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiv Mandir, Shivnagri (Sawangi Meghe)",
+    "state": "Maharashtra",
+    "city": "Sawangi Meghe",
+    "region": "Sawangi Meghe, Wardha district",
+    "tags": [
+      "Shivnagri",
+      "Sawangi Meghe",
+      "Shiva"
+    ],
+    "story": "A Shiv Mandir in Shivnagri, Sawangi Meghe, serving as a regular local worship center.",
+    "highlight": "Sawangi Meghe Shivnagri darshan with community ritual continuity.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kapileshwardham Bholenath Mandir (Ashti)",
+    "state": "Maharashtra",
+    "city": "Ashti",
+    "region": "Ashti, Wardha district",
+    "tags": [
+      "Kapileshwardham",
+      "Ashti",
+      "Bholenath"
+    ],
+    "story": "A Bholenath shrine in Ashti known locally as Kapileshwardham, maintained through seasonal and daily rituals.",
+    "highlight": "Ashti Kapileshwardham Bholenath darshan in Wardha district.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Bholenath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vishaveshvar Mahadev Temple (Lonsawali/Pulgaon)",
+    "state": "Maharashtra",
+    "city": "Pulgaon",
+    "region": "Lonsawali-Pulgaon, Wardha district",
+    "tags": [
+      "Vishaveshvar",
+      "Pulgaon",
+      "Mahadev"
+    ],
+    "story": "A Vishaveshvar Mahadev temple in the Lonsawali-Pulgaon corridor, sustained by local worship traditions.",
+    "highlight": "Pulgaon belt Vishaveshvar Mahadev node in Wardha region.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Vishaveshvar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiv Mandir (Ganesh Nagar)",
+    "state": "Maharashtra",
+    "city": "Wardha",
+    "region": "Ganesh Nagar, Wardha district",
+    "tags": [
+      "Shiv Mandir",
+      "Ganesh Nagar",
+      "Shiva"
+    ],
+    "story": "A neighborhood Shiv Mandir in Ganesh Nagar with regular daily puja and festival observances.",
+    "highlight": "Ganesh Nagar Shiva darshan in Wardha city sectors.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mishraji Shivling Mandir (Seloo)",
+    "state": "Maharashtra",
+    "city": "Seloo",
+    "region": "Seloo, Wardha district",
+    "tags": [
+      "Mishraji Shivling",
+      "Seloo",
+      "Shiva"
+    ],
+    "story": "A Shivling-focused temple in Seloo known as Mishraji Shivling Mandir, active in local devotional practice.",
+    "highlight": "Seloo Mishraji Shivling shrine with steady local participation.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Shivling)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Lord Shiva Temple (Hinganghat)",
+    "state": "Maharashtra",
+    "city": "Hinganghat",
+    "region": "Hinganghat, Wardha district",
+    "tags": [
+      "Lord Shiva Temple",
+      "Hinganghat",
+      "Shiva"
+    ],
+    "story": "A local Lord Shiva temple in Hinganghat, visited for daily worship and annual Shiva festivals.",
+    "highlight": "Hinganghat Shiva node in Wardha district devotional grid.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Someshwar Mahadev Mandir (Sindi)",
+    "state": "Maharashtra",
+    "city": "Sindi",
+    "region": "Sindi, Wardha district",
+    "tags": [
+      "Someshwar",
+      "Sindi",
+      "Mahadev"
+    ],
+    "story": "A Someshwar Mahadev shrine in Sindi with regular community-led worship traditions.",
+    "highlight": "Sindi Someshwar Mahadev darshan in Wardha rural-urban corridor.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Someshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Trimbakeshwar Temple (Sevagram Road)",
+    "state": "Maharashtra",
+    "city": "Wardha",
+    "region": "Sevagram Road, Wardha district",
+    "tags": [
+      "Trimbakeshwar",
+      "Sevagram Road",
+      "Shiva"
+    ],
+    "story": "A Trimbakeshwar-form Shiva temple on Sevagram Road, maintained as a key local devotional site.",
+    "highlight": "Sevagram Road Trimbakeshwar node in Wardha city region.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Trimbakeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kashi Vishweshwar Temple (Wardha City)",
+    "state": "Maharashtra",
+    "city": "Wardha",
+    "region": "Wardha city, Wardha district",
+    "tags": [
+      "Kashi Vishweshwar",
+      "Wardha City",
+      "Shiva"
+    ],
+    "story": "A Kashi Vishweshwar temple in Wardha city, preserving Vishweshwar lineage worship through daily puja.",
+    "highlight": "Wardha city Kashi Vishweshwar darshan in urban Shaiva circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Vishweshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Rameshwar Temple (Samudrapur)",
+    "state": "Maharashtra",
+    "city": "Samudrapur",
+    "region": "Samudrapur, Wardha district",
+    "tags": [
+      "Rameshwar",
+      "Samudrapur",
+      "Shiva"
+    ],
+    "story": "A Rameshwar Shiva temple in Samudrapur sustained by local ritual continuity and festival observances.",
+    "highlight": "Samudrapur Rameshwar node in Wardha district worship routes.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Rameshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Panchmukhi Mahadev Mandir (Wardha)",
+    "state": "Maharashtra",
+    "city": "Wardha",
+    "region": "Wardha district",
+    "tags": [
+      "Panchmukhi Mahadev",
+      "Wardha",
+      "Shiva"
+    ],
+    "story": "A Panchmukhi Mahadev temple in Wardha recognized for five-faced Shiva devotion and regular local worship.",
+    "highlight": "Wardha Panchmukhi Mahadev darshan with steady festival participation.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Panchmukhi Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:25:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the Wardha district Shaiva worship network maintained through local temple lineages.",
+      "architecture": "Regional Vidarbha temple typologies across city, roadside, and village settings.",
+      "darshan": "Steady local participation with Monday and festival peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Wardha district",
+          "url": "https://en.wikipedia.org/wiki/Wardha_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Mankeshwar Shiva Temple (Mankeshwar)",
+    "state": "Maharashtra",
+    "city": "Mankeshwar",
+    "region": "Mankeshwar, Dharashiv (Osmanabad) district",
+    "tags": [
+      "Mankeshwar",
+      "Dharashiv",
+      "Shiva"
+    ],
+    "story": "A significant medieval Shiva temple at Mankeshwar associated with Hemadpanti stone architecture and enduring local worship traditions.",
+    "highlight": "Mankeshwar heritage Shiva node in Dharashiv district.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Mankeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Dharashiv district's Shaiva network preserved through local temple lineages and annual observances.",
+      "architecture": "Regional Deccan stone-temple, cave-shrine, and settlement-temple typologies across the district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dharashiv district",
+          "url": "https://en.wikipedia.org/wiki/Osmanabad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Siddheshwar Temple (Wadgaon)",
+    "state": "Maharashtra",
+    "city": "Wadgaon",
+    "region": "Wadgaon, Dharashiv (Osmanabad) district",
+    "tags": [
+      "Siddheshwar",
+      "Wadgaon",
+      "Shiva"
+    ],
+    "story": "An ancient Siddheshwar shrine in Wadgaon known for a descending sanctum approach and steady local devotional continuity.",
+    "highlight": "Wadgaon Siddheshwar darshan with step-down sanctum setting.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Siddheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Dharashiv district's Shaiva network preserved through local temple lineages and annual observances.",
+      "architecture": "Regional Deccan stone-temple, cave-shrine, and settlement-temple typologies across the district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dharashiv district",
+          "url": "https://en.wikipedia.org/wiki/Osmanabad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nagnath Temple (Wadwal)",
+    "state": "Maharashtra",
+    "city": "Wadwal",
+    "region": "Wadwal, Dharashiv (Osmanabad) district",
+    "tags": [
+      "Nagnath",
+      "Wadwal",
+      "Shiva"
+    ],
+    "story": "A peaceful Nagnath Shiva temple in Wadwal, maintained through local ritual practice in a natural setting.",
+    "highlight": "Wadwal Nagnath node in Dharashiv rural devotional routes.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Nagnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Dharashiv district's Shaiva network preserved through local temple lineages and annual observances.",
+      "architecture": "Regional Deccan stone-temple, cave-shrine, and settlement-temple typologies across the district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dharashiv district",
+          "url": "https://en.wikipedia.org/wiki/Osmanabad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahadev Mandir, Rajebag (Dharashiv City)",
+    "state": "Maharashtra",
+    "city": "Dharashiv",
+    "region": "Rajebag, Dharashiv city, Dharashiv district",
+    "tags": [
+      "Mahadev Mandir",
+      "Rajebag",
+      "Shiva"
+    ],
+    "story": "A scenic Mahadev temple in Rajebag on the Bhogavati riverbank, especially frequented during monsoon months.",
+    "highlight": "Rajebag riverbank Mahadev darshan in Dharashiv city.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Dharashiv district's Shaiva network preserved through local temple lineages and annual observances.",
+      "architecture": "Regional Deccan stone-temple, cave-shrine, and settlement-temple typologies across the district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dharashiv district",
+          "url": "https://en.wikipedia.org/wiki/Osmanabad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ghat Shila Temple (Tuljapur)",
+    "state": "Maharashtra",
+    "city": "Tuljapur",
+    "region": "Tuljapur, Dharashiv (Osmanabad) district",
+    "tags": [
+      "Ghat Shila",
+      "Tuljapur",
+      "Shiva"
+    ],
+    "story": "A serene temple landmark in Tuljapur with elevated views and regular local devotional movement.",
+    "highlight": "Tuljapur Ghat Shila shrine with panoramic surroundings.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Dharashiv district's Shaiva network preserved through local temple lineages and annual observances.",
+      "architecture": "Regional Deccan stone-temple, cave-shrine, and settlement-temple typologies across the district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dharashiv district",
+          "url": "https://en.wikipedia.org/wiki/Osmanabad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahadev Temple (Dharashiv Caves)",
+    "state": "Maharashtra",
+    "city": "Dharashiv",
+    "region": "Dharashiv Caves complex, Dharashiv district",
+    "tags": [
+      "Dharashiv Caves",
+      "Mahadev",
+      "Shiva"
+    ],
+    "story": "A historic Shiva shrine within the ancient Dharashiv cave complex, reflecting layered Buddhist-Jain-Shaiva heritage interfaces.",
+    "highlight": "Cave-complex Mahadev darshan in Dharashiv archaeological zone.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Dharashiv district's Shaiva network preserved through local temple lineages and annual observances.",
+      "architecture": "Regional Deccan stone-temple, cave-shrine, and settlement-temple typologies across the district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dharashiv district",
+          "url": "https://en.wikipedia.org/wiki/Osmanabad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Lord Shiva Shrine (Tulja Bhavani Complex)",
+    "state": "Maharashtra",
+    "city": "Tuljapur",
+    "region": "Tulja Bhavani complex, Tuljapur, Dharashiv district",
+    "tags": [
+      "Tulja Bhavani Complex",
+      "Shiva Shrine",
+      "Tuljapur"
+    ],
+    "story": "A dedicated Shiva shrine within the Tulja Bhavani complex, integrated into the broader pilgrimage pattern of Tuljapur.",
+    "highlight": "Tuljapur complex Shiva node with shared pilgrimage flow.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Dharashiv district's Shaiva network preserved through local temple lineages and annual observances.",
+      "architecture": "Regional Deccan stone-temple, cave-shrine, and settlement-temple typologies across the district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dharashiv district",
+          "url": "https://en.wikipedia.org/wiki/Osmanabad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mahadev Temple (Shelgaon)",
+    "state": "Maharashtra",
+    "city": "Shelgaon",
+    "region": "Paranda taluka, Dharashiv (Osmanabad) district",
+    "tags": [
+      "Mahadev",
+      "Shelgaon",
+      "Shiva"
+    ],
+    "story": "A local Mahadev temple in Shelgaon (Paranda taluka), sustained by regular village-level worship traditions.",
+    "highlight": "Shelgaon Mahadev darshan in Paranda sector.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Dharashiv district's Shaiva network preserved through local temple lineages and annual observances.",
+      "architecture": "Regional Deccan stone-temple, cave-shrine, and settlement-temple typologies across the district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dharashiv district",
+          "url": "https://en.wikipedia.org/wiki/Osmanabad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nagnath Mandir (Ghari)",
+    "state": "Maharashtra",
+    "city": "Ghari",
+    "region": "Ghari, Dharashiv (Osmanabad) district",
+    "tags": [
+      "Nagnath",
+      "Ghari",
+      "Shiva"
+    ],
+    "story": "A Nagnath Shiva temple in Ghari maintained through local community rituals and festival observances.",
+    "highlight": "Ghari Nagnath node with stable local darshan continuity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Nagnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Dharashiv district's Shaiva network preserved through local temple lineages and annual observances.",
+      "architecture": "Regional Deccan stone-temple, cave-shrine, and settlement-temple typologies across the district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dharashiv district",
+          "url": "https://en.wikipedia.org/wiki/Osmanabad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nagnath Mandir (Tandulwadi)",
+    "state": "Maharashtra",
+    "city": "Tandulwadi",
+    "region": "Tandulwadi, Dharashiv (Osmanabad) district",
+    "tags": [
+      "Nagnath",
+      "Tandulwadi",
+      "Shiva"
+    ],
+    "story": "A recognized Nagnath shrine in Tandulwadi with active local devotional participation.",
+    "highlight": "Tandulwadi Nagnath darshan in Dharashiv district circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Nagnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T17:45:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These shrines are part of Dharashiv district's Shaiva network preserved through local temple lineages and annual observances.",
+      "architecture": "Regional Deccan stone-temple, cave-shrine, and settlement-temple typologies across the district.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are the busiest periods.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dharashiv district",
+          "url": "https://en.wikipedia.org/wiki/Osmanabad_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Kshetra Kapileshwar Mandir (Mudawad)",
+    "state": "Maharashtra",
+    "city": "Mudawad",
+    "region": "Tapi-Panzara confluence zone, Dhule district",
+    "tags": [
+      "Kapileshwar",
+      "Mudawad",
+      "Shiva"
+    ],
+    "story": "A historic Kapileshwar temple at Mudawad associated with confluence worship traditions on the Tapi-Panzara river system.",
+    "highlight": "Mudawad confluence Kapileshwar darshan in Dhule district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Kapileshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Dhule district Shaiva worship network preserved through local temple traditions.",
+      "architecture": "Regional Khandesh temple profiles across confluence, city, roadside, and cave-style shrine settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dhule district",
+          "url": "https://en.wikipedia.org/wiki/Dhule_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gajanan Maharaj Mandir Shiva Shrine (Om Nagar)",
+    "state": "Maharashtra",
+    "city": "Dhule",
+    "region": "Om Nagar, Dhule district",
+    "tags": [
+      "Gajanan Complex",
+      "Om Nagar",
+      "Shiva Shrine"
+    ],
+    "story": "A Shiva shrine within a well-maintained spiritual complex in Om Nagar, known for a serene Shivalinga-centered setting.",
+    "highlight": "Om Nagar Shiva shrine with calm complex-based darshan ambience.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Shivalinga shrine)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Dhule district Shaiva worship network preserved through local temple traditions.",
+      "architecture": "Regional Khandesh temple profiles across confluence, city, roadside, and cave-style shrine settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dhule district",
+          "url": "https://en.wikipedia.org/wiki/Dhule_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shree Panjhareshwar Mahadev (Deopur)",
+    "state": "Maharashtra",
+    "city": "Deopur",
+    "region": "Panzara river zone, Deopur, Dhule district",
+    "tags": [
+      "Panjhareshwar",
+      "Deopur",
+      "Mahadev"
+    ],
+    "story": "A prominent Panjhareshwar Mahadev shrine in Deopur associated with the Panzara riverfront devotional landscape.",
+    "highlight": "Deopur Panjhareshwar node with landmark Shiva worship identity.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Panjhareshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Dhule district Shaiva worship network preserved through local temple traditions.",
+      "architecture": "Regional Khandesh temple profiles across confluence, city, roadside, and cave-style shrine settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dhule district",
+          "url": "https://en.wikipedia.org/wiki/Dhule_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nilkantheshwar Shiv Temple (Ramchandra Nagar)",
+    "state": "Maharashtra",
+    "city": "Dhule",
+    "region": "Ramchandra Nagar, Dhule district",
+    "tags": [
+      "Nilkantheshwar",
+      "Ramchandra Nagar",
+      "Shiva"
+    ],
+    "story": "A popular Nilkantheshwar Shiva shrine in Ramchandra Nagar, maintained through local devotional routines.",
+    "highlight": "Ramchandra Nagar Nilkantheshwar darshan in Dhule city.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Nilkantheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Dhule district Shaiva worship network preserved through local temple traditions.",
+      "architecture": "Regional Khandesh temple profiles across confluence, city, roadside, and cave-style shrine settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dhule district",
+          "url": "https://en.wikipedia.org/wiki/Dhule_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Shiv Mandir (SRPF Colony)",
+    "state": "Maharashtra",
+    "city": "Dhule",
+    "region": "SRPF Colony, Dhule district",
+    "tags": [
+      "Shiv Mandir",
+      "SRPF Colony",
+      "Shiva"
+    ],
+    "story": "A dedicated Shiva temple within SRPF Colony, serving daily worship for local residents.",
+    "highlight": "SRPF Colony Shiva node with regular community darshan.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Dhule district Shaiva worship network preserved through local temple traditions.",
+      "architecture": "Regional Khandesh temple profiles across confluence, city, roadside, and cave-style shrine settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dhule district",
+          "url": "https://en.wikipedia.org/wiki/Dhule_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ekveera Devi Temple Shiva Shrine (Deopur)",
+    "state": "Maharashtra",
+    "city": "Deopur",
+    "region": "Deopur, Dhule district",
+    "tags": [
+      "Ekveera Complex",
+      "Deopur",
+      "Shiva Shrine"
+    ],
+    "story": "A Shiva shrine within the Ekveera Devi complex in Deopur, integrated into shared temple-precinct worship traditions.",
+    "highlight": "Deopur Ekveera complex Shiva shrine with dual-tradition devotional flow.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (within Ekveera complex)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Dhule district Shaiva worship network preserved through local temple traditions.",
+      "architecture": "Regional Khandesh temple profiles across confluence, city, roadside, and cave-style shrine settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dhule district",
+          "url": "https://en.wikipedia.org/wiki/Dhule_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jamnagiri Mahadev Mandir (Old Dhule)",
+    "state": "Maharashtra",
+    "city": "Dhule",
+    "region": "Old Dhule, Dhule district",
+    "tags": [
+      "Jamnagiri Mahadev",
+      "Old Dhule",
+      "Shiva"
+    ],
+    "story": "A frequently visited traditional Mahadev temple in Old Dhule with strong local ritual continuity.",
+    "highlight": "Old Dhule Jamnagiri Mahadev darshan in city heritage zone.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Jamnagiri Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Dhule district Shaiva worship network preserved through local temple traditions.",
+      "architecture": "Regional Khandesh temple profiles across confluence, city, roadside, and cave-style shrine settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dhule district",
+          "url": "https://en.wikipedia.org/wiki/Dhule_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kaleshwari Mandir (Dhule-Moghan Road)",
+    "state": "Maharashtra",
+    "city": "Dhule",
+    "region": "Dhule-Moghan Road, Dhule district",
+    "tags": [
+      "Kaleshwari Complex",
+      "Dhule-Moghan Road",
+      "Shiva Shrine"
+    ],
+    "story": "A temple complex on Dhule-Moghan Road featuring a dedicated Shiva shrine and regular local worship activity.",
+    "highlight": "Dhule-Moghan Road Kaleshwari complex Shiva darshan.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (within Kaleshwari complex)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Dhule district Shaiva worship network preserved through local temple traditions.",
+      "architecture": "Regional Khandesh temple profiles across confluence, city, roadside, and cave-style shrine settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dhule district",
+          "url": "https://en.wikipedia.org/wiki/Dhule_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mangleshwar Mahadev Mandir (Dahivad)",
+    "state": "Maharashtra",
+    "city": "Dahivad",
+    "region": "Shirpur taluka, Dhule district",
+    "tags": [
+      "Mangleshwar",
+      "Dahivad",
+      "Mahadev"
+    ],
+    "story": "A significant Mangleshwar Mahadev temple in Dahivad, serving regional devotees in the Shirpur sector.",
+    "highlight": "Dahivad Mangleshwar Mahadev node in northern Dhule belt.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Mangleshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Dhule district Shaiva worship network preserved through local temple traditions.",
+      "architecture": "Regional Khandesh temple profiles across confluence, city, roadside, and cave-style shrine settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dhule district",
+          "url": "https://en.wikipedia.org/wiki/Dhule_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gangeshwar Mahadev Temple (Chinchkhede)",
+    "state": "Maharashtra",
+    "city": "Chinchkhede",
+    "region": "Near Surat Highway, Dhule district",
+    "tags": [
+      "Gangeshwar",
+      "Chinchkhede",
+      "Mahadev"
+    ],
+    "story": "A popular Gangeshwar Mahadev shrine in Chinchkhede near the Surat Highway route.",
+    "highlight": "Chinchkhede Gangeshwar darshan with highway-linked accessibility.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Gangeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Dhule district Shaiva worship network preserved through local temple traditions.",
+      "architecture": "Regional Khandesh temple profiles across confluence, city, roadside, and cave-style shrine settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dhule district",
+          "url": "https://en.wikipedia.org/wiki/Dhule_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pataleshwar Mandir (Shirpur)",
+    "state": "Maharashtra",
+    "city": "Shirpur",
+    "region": "Shirpur, Dhule district",
+    "tags": [
+      "Pataleshwar",
+      "Shirpur",
+      "Shiva"
+    ],
+    "story": "A historic cave-style Pataleshwar Shiva temple in Shirpur, maintained through long-standing local worship traditions.",
+    "highlight": "Shirpur Pataleshwar cave-style shrine in Dhule district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Pataleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Dhule district Shaiva worship network preserved through local temple traditions.",
+      "architecture": "Regional Khandesh temple profiles across confluence, city, roadside, and cave-style shrine settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dhule district",
+          "url": "https://en.wikipedia.org/wiki/Dhule_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Gupteshwar Mahadev Mandir (Agra Road)",
+    "state": "Maharashtra",
+    "city": "Dhule",
+    "region": "Agra Road, Dhule district",
+    "tags": [
+      "Gupteshwar",
+      "Agra Road",
+      "Mahadev"
+    ],
+    "story": "A central Gupteshwar Mahadev temple on Agra Road, known for hidden-linga devotional tradition and daily rituals.",
+    "highlight": "Agra Road Gupteshwar node in the core Dhule city worship grid.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Gupteshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Dhule district Shaiva worship network preserved through local temple traditions.",
+      "architecture": "Regional Khandesh temple profiles across confluence, city, roadside, and cave-style shrine settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dhule district",
+          "url": "https://en.wikipedia.org/wiki/Dhule_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kedareshwar Mahakal Mandir (Gondur)",
+    "state": "Maharashtra",
+    "city": "Gondur",
+    "region": "Gondur area, Dhule district",
+    "tags": [
+      "Kedareshwar Mahakal",
+      "Gondur",
+      "Shiva"
+    ],
+    "story": "A notable Kedareshwar Mahakal temple in the Gondur belt, active in local worship and festival observances.",
+    "highlight": "Gondur Kedareshwar Mahakal darshan in Dhule peri-urban corridor.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Kedareshwar Mahakal)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:00:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of the broader Dhule district Shaiva worship network preserved through local temple traditions.",
+      "architecture": "Regional Khandesh temple profiles across confluence, city, roadside, and cave-style shrine settings.",
+      "darshan": "Steady local participation with festival and Monday peaks.",
+      "seasonal": "Shravan and Mahashivratri periods are the busiest.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan.",
+      "festivals": "Mahashivratri and Shravan Somvar are principal annual observances.",
+      "sources": [
+        {
+          "label": "Dhule district",
+          "url": "https://en.wikipedia.org/wiki/Dhule_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Budhaneshwar Temple (Madh)",
+    "state": "Maharashtra",
+    "city": "Madh",
+    "region": "Madh, Buldhana district",
+    "tags": [
+      "Budhaneshwar",
+      "Madh",
+      "Shiva"
+    ],
+    "story": "An ancient Shiva temple in Madh traditionally linked with the origin-zone narrative of the Panganga river system.",
+    "highlight": "Madh Budhaneshwar shrine with deep regional sacred-water associations.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Budhaneshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ancient Chalukya Shri Shiva Temple (Sakegaon)",
+    "state": "Maharashtra",
+    "city": "Sakegaon",
+    "region": "Sakegaon, Buldhana district",
+    "tags": [
+      "Chalukya Era",
+      "Sakegaon",
+      "Shiva"
+    ],
+    "story": "An ASI-protected medieval stone Shiva temple in Sakegaon, known for intricate carvings and heritage value.",
+    "highlight": "Sakegaon Chalukya-era Shiva architecture in Buldhana district.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Koleshwar Mahadev Mandir (Rohinkhed)",
+    "state": "Maharashtra",
+    "city": "Rohinkhed",
+    "region": "Motala taluka, Buldhana district",
+    "tags": [
+      "Koleshwar",
+      "Rohinkhed",
+      "Mahadev"
+    ],
+    "story": "A historic stone Mahadev temple in Rohinkhed with sustained local worship and regional recognition.",
+    "highlight": "Rohinkhed Koleshwar darshan in Motala taluka devotional belt.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Koleshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gautameshwar Sansthan Mahadev Mandir (Gomedhar)",
+    "state": "Maharashtra",
+    "city": "Gomedhar",
+    "region": "Near Janephal, Buldhana district",
+    "tags": [
+      "Gautameshwar",
+      "Gomedhar",
+      "Mahadev"
+    ],
+    "story": "A traditional Gautameshwar Mahadev shrine near Janephal, active in local religious practice.",
+    "highlight": "Gomedhar Gautameshwar Sansthan node with stable regional darshan.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Gautameshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ancient Chalukya style Shiva Temple (Amdapur)",
+    "state": "Maharashtra",
+    "city": "Amdapur",
+    "region": "Amdapur, Buldhana district",
+    "tags": [
+      "Chalukya Style",
+      "Amdapur",
+      "Shiva"
+    ],
+    "story": "A historically rich stone Shiva temple in Amdapur reflecting Chalukya-style architectural lineage.",
+    "highlight": "Amdapur Chalukya-style Shiva shrine in Buldhana heritage circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ancient Chalukya Shri Kumareshwar Temple (Lonar)",
+    "state": "Maharashtra",
+    "city": "Lonar",
+    "region": "Lonar crater zone, Buldhana district",
+    "tags": [
+      "Kumareshwar",
+      "Lonar",
+      "Chalukya"
+    ],
+    "story": "A historic Kumareshwar Shiva temple in the Lonar crater belt, preserving ancient Shaiva worship continuity.",
+    "highlight": "Lonar Kumareshwar Chalukya-linked temple in crater sacred landscape.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Kumareshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Papahareshwar Temple (Lonar)",
+    "state": "Maharashtra",
+    "city": "Lonar",
+    "region": "Lonar crater rim zone, Buldhana district",
+    "tags": [
+      "Papahareshwar",
+      "Lonar",
+      "Shiva"
+    ],
+    "story": "A Lonar temple in the Papahareshwar tradition, associated with nearby Nandimandapa and old stone structures.",
+    "highlight": "Papahareshwar darshan in Lonar temple-cluster network.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Papahareshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Andhera Mahadeo Mandir (Chikhli)",
+    "state": "Maharashtra",
+    "city": "Chikhli",
+    "region": "Chikhli, Buldhana district",
+    "tags": [
+      "Andhera Mahadeo",
+      "Chikhli",
+      "Shiva"
+    ],
+    "story": "A popular local Shiva shrine in Chikhli with active community worship and festival participation.",
+    "highlight": "Chikhli Andhera Mahadeo node with strong local devotional activity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Panchmukhi Mahadev Mandir (Chikhli)",
+    "state": "Maharashtra",
+    "city": "Chikhli",
+    "region": "Chikhli, Buldhana district",
+    "tags": [
+      "Panchmukhi Mahadev",
+      "Chikhli",
+      "Shiva"
+    ],
+    "story": "A Panchmukhi Mahadev temple in Chikhli centered on five-faced Shiva iconography and ritual worship.",
+    "highlight": "Chikhli Panchmukhi Mahadev darshan in Buldhana regional grid.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Panchmukhi Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dhupeshwar Mahadev Temple (Harsoda)",
+    "state": "Maharashtra",
+    "city": "Harsoda",
+    "region": "Harsoda, Buldhana district",
+    "tags": [
+      "Dhupeshwar",
+      "Harsoda",
+      "Mahadev"
+    ],
+    "story": "A recognized Dhupeshwar Mahadev shrine in Harsoda, maintained through local ritual and festival cycles.",
+    "highlight": "Harsoda Dhupeshwar Mahadev node in district devotional circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Dhupeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vishnu & Shiv Temple (Satgaon Bhusari)",
+    "state": "Maharashtra",
+    "city": "Satgaon Bhusari",
+    "region": "Satgaon Bhusari, Buldhana district",
+    "tags": [
+      "Dual Shrine",
+      "Satgaon Bhusari",
+      "Shiva-Vishnu"
+    ],
+    "story": "A unique dual-shrine complex in Satgaon Bhusari where Vishnu and Shiva worship traditions coexist.",
+    "highlight": "Satgaon Bhusari dual-deity heritage shrine with Shiva-Vishnu integration.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva-Vishnu (dual shrine)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Neelkantheshwar Temple (Sindkhed Raja)",
+    "state": "Maharashtra",
+    "city": "Sindkhed Raja",
+    "region": "Sindkhed Raja, Buldhana district",
+    "tags": [
+      "Neelkantheshwar",
+      "Sindkhed Raja",
+      "Shiva"
+    ],
+    "story": "A historic Neelkantheshwar Shiva temple in Sindkhed Raja associated with old Hemadpanti-era temple traditions.",
+    "highlight": "Sindkhed Raja Neelkantheshwar darshan in Buldhana heritage belt.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Neelkantheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ancient Chalukya's Shiva Temple (Nagzari)",
+    "state": "Maharashtra",
+    "city": "Nagzari",
+    "region": "Nagzari, Buldhana district",
+    "tags": [
+      "Chalukya Temple",
+      "Nagzari",
+      "Shiva"
+    ],
+    "story": "An ancient stone Shiva temple in Nagzari linked with older Deccan temple-building traditions.",
+    "highlight": "Nagzari Chalukya-era Shiva architecture with strong heritage identity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kotheshwar Mahadev Mandir (Narvel)",
+    "state": "Maharashtra",
+    "city": "Narvel",
+    "region": "Narvel, Buldhana district",
+    "tags": [
+      "Kotheshwar",
+      "Narvel",
+      "Mahadev"
+    ],
+    "story": "A significant local Mahadev temple in Narvel with long-running ritual continuity.",
+    "highlight": "Narvel Kotheshwar Mahadev node in Buldhana local worship map.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Kotheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Suryamukhi Shivmandir (Matla)",
+    "state": "Maharashtra",
+    "city": "Matla",
+    "region": "Near Awalkhed area, Buldhana district",
+    "tags": [
+      "Suryamukhi Shivmandir",
+      "Matla",
+      "Shiva"
+    ],
+    "story": "A notable Shiva temple in Matla near Awalkhed, maintained as an active regional worship point.",
+    "highlight": "Matla Suryamukhi Shivmandir darshan in rural Buldhana sector.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rameshwar Temple (Sindkhed Raja)",
+    "state": "Maharashtra",
+    "city": "Sindkhed Raja",
+    "region": "Sindkhed Raja, Buldhana district",
+    "tags": [
+      "Rameshwar",
+      "Sindkhed Raja",
+      "Shiva"
+    ],
+    "story": "A heritage Rameshwar Shiva temple in Sindkhed Raja recognized for local religious and architectural value.",
+    "highlight": "Sindkhed Raja Rameshwar node in Buldhana temple heritage route.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Rameshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mungla Mahadev Temple (Lonar)",
+    "state": "Maharashtra",
+    "city": "Lonar",
+    "region": "Lonar crater lake shore, Buldhana district",
+    "tags": [
+      "Mungla Mahadev",
+      "Lonar",
+      "Shiva"
+    ],
+    "story": "A small ancient Mahadev shrine on the Lonar lake shore, integrated into the wider crater temple cluster.",
+    "highlight": "Lonar shore Mungla Mahadev darshan in crater-edge sacred landscape.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Mungla Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Yajneshwar Temple (Lonar)",
+    "state": "Maharashtra",
+    "city": "Lonar",
+    "region": "Lonar crater temple group, Buldhana district",
+    "tags": [
+      "Yajneshwar",
+      "Lonar",
+      "Shiva"
+    ],
+    "story": "A richly ornamented Yajneshwar temple in the Lonar group, known for decorative stone craftsmanship.",
+    "highlight": "Ornate Yajneshwar shrine within Lonar temple cluster.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Yajneshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chopda Mahadev Temple (Lonar)",
+    "state": "Maharashtra",
+    "city": "Lonar",
+    "region": "Lonar lake edge, Buldhana district",
+    "tags": [
+      "Chopda Mahadev",
+      "Lonar",
+      "Shiva"
+    ],
+    "story": "An ancient east-facing stone Shiva temple on the Lonar lake edge, preserved in local ritual practice.",
+    "highlight": "Lake-edge Chopda Mahadev darshan in Lonar crater zone.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Chopda Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T18:20:00+05:30",
+    "bestTime": "Morning darshan and Mondays.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and puja timings before travel.",
+    "rituals": [
+      "Abhishekam",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples are part of Buldhana district's broader Shaiva heritage, especially the Lonar and Sindkhed Raja devotional belts.",
+      "architecture": "Regional Deccan stone-temple typologies including crater-rim, lake-edge, and village shrine forms.",
+      "darshan": "Steady local participation with festival peaks.",
+      "seasonal": "Shravan and Mahashivratri are busiest periods for darshan.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "festivals": "Mahashivratri and Shravan Somvar are key annual observances.",
+      "sources": [
+        {
+          "label": "Buldhana district",
+          "url": "https://en.wikipedia.org/wiki/Buldhana_district",
+          "type": "Encyclopedia"
+        }
+      ]
+    }
+  },
+{
+    "name":  "Madhyameshwar Temple (Saudagar Pura, Washim)",
+    "state":  "Maharashtra",
+    "city":  "Washim",
+    "region":  "Saudagar Pura, Washim district",
+    "tags":  [
+                 "Madhyameshwar Temple",
+                 "Washim",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Madhyameshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shri Satteshwar Mahadev Temple (Washim)",
+    "state":  "Maharashtra",
+    "city":  "Washim",
+    "region":  "Washim district",
+    "tags":  [
+                 "Satteshwar Mahadev",
+                 "Washim",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Satteshwar Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Kondeshwar Temple (Kondala Zamre)",
+    "state":  "Maharashtra",
+    "city":  "Kondala Zamre",
+    "region":  "Kondala Zamre, Washim district",
+    "tags":  [
+                 "Kondeshwar Temple",
+                 "Kondala Zamre",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Kondeshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Kaleshwar Temple (Shukrawar Peth, Washim)",
+    "state":  "Maharashtra",
+    "city":  "Washim",
+    "region":  "Shukrawar Peth, Washim district",
+    "tags":  [
+                 "Kaleshwar Temple",
+                 "Washim",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Kaleshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Nagnath Mahadev Mandir (Washim)",
+    "state":  "Maharashtra",
+    "city":  "Washim",
+    "region":  "Washim district",
+    "tags":  [
+                 "Nagnath Mahadev",
+                 "Washim",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Nagnath Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Siddheshwar Mandir (Karanja Lad)",
+    "state":  "Maharashtra",
+    "city":  "Karanja Lad",
+    "region":  "Karanja Lad, Washim district",
+    "tags":  [
+                 "Siddheshwar Mandir",
+                 "Karanja Lad",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Siddheshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Nileshwar Mahadev Mandir (Gondeshwar)",
+    "state":  "Maharashtra",
+    "city":  "Gondeshwar",
+    "region":  "Gondeshwar, Washim district",
+    "tags":  [
+                 "Nileshwar Mahadev",
+                 "Gondeshwar",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Nileshwar Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Krushneshwar Mahadev Temple (Ukalipen)",
+    "state":  "Maharashtra",
+    "city":  "Ukalipen",
+    "region":  "Ukalipen, Washim district",
+    "tags":  [
+                 "Krushneshwar Mahadev",
+                 "Ukalipen",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Krushneshwar Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shree Jhuleshwar Mahadev Mandir (Sindhi Camp, Washim)",
+    "state":  "Maharashtra",
+    "city":  "Washim",
+    "region":  "Sindhi Camp, Washim district",
+    "tags":  [
+                 "Jhuleshwar Mahadev",
+                 "Washim",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Jhuleshwar Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Pimpleshwar Mahadev Mandir (Mangrulpir)",
+    "state":  "Maharashtra",
+    "city":  "Mangrulpir",
+    "region":  "Mangrulpir, Washim district",
+    "tags":  [
+                 "Pimpleshwar Mahadev",
+                 "Mangrulpir",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Pimpleshwar Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Omkareshwar Temple (Civil Line, Washim)",
+    "state":  "Maharashtra",
+    "city":  "Washim",
+    "region":  "Civil Line, Washim district",
+    "tags":  [
+                 "Omkareshwar Temple",
+                 "Washim",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Omkareshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Karuneshwar Mandir (Ganesh Peth, Washim)",
+    "state":  "Maharashtra",
+    "city":  "Washim",
+    "region":  "Ganesh Peth, Washim district",
+    "tags":  [
+                 "Karuneshwar Mandir",
+                 "Washim",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Karuneshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Kumareshwar Mahadev Temple (Mop, Risod)",
+    "state":  "Maharashtra",
+    "city":  "Risod",
+    "region":  "Mop, Risod, Washim district",
+    "tags":  [
+                 "Kumareshwar Mahadev",
+                 "Risod",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Kumareshwar Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shri Murudeshwar Temple (Rithad)",
+    "state":  "Maharashtra",
+    "city":  "Rithad",
+    "region":  "Rithad, Washim district",
+    "tags":  [
+                 "Murudeshwar Temple",
+                 "Rithad",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Murudeshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shiv Parvati Temple (Nagapur)",
+    "state":  "Maharashtra",
+    "city":  "Nagapur",
+    "region":  "Nagapur, Washim district",
+    "tags":  [
+                 "Shiv Parvati Temple",
+                 "Nagapur",
+                 "Shiva"
+             ],
+    "story":  "A revered Shiva shrine in Washim district, preserved through active local worship and seasonal observances.",
+    "highlight":  "A devotional Shaiva node in the Washim temple network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva and Parvati",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T20:50:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Washim district\u0027s active Shaiva devotional landscape across town and village clusters.",
+                        "architecture":  "Regional Deccan shrine forms ranging from compact neighborhood mandirs to older stone-built sanctums.",
+                        "darshan":  "Steady daily worship with increased attendance during Monday darshan and festival cycles.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Washim district",
+                                            "url":  "https://en.wikipedia.org/wiki/Washim_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shri Nageshwar Jyotirlinga (Aundha Nagnath)",
+    "state":  "Maharashtra",
+    "city":  "Aundha Nagnath",
+    "region":  "Aundha Nagnath, Hingoli district",
+    "tags":  [
+                 "Nageshwar Jyotirlinga",
+                 "Aundha Nagnath",
+                 "Shiva"
+             ],
+    "story":  "A revered Jyotirlinga-linked Shiva shrine at Aundha Nagnath, known for deep antiquity and Hemadpanthi-era sacred continuity.",
+    "highlight":  "Major Aundha Nagnath Shaiva anchor with national pilgrimage significance.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Nageshwar Jyotirlinga)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:10:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Hingoli district\u0027s active Shaiva network across Aundha, Hingoli city, and surrounding village clusters.",
+                        "architecture":  "Regional Deccan forms include Hemadpanthi influence, compact local mandirs, and mixed shrine complexes.",
+                        "darshan":  "Steady daily worship with increased attendance on Mondays and key festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri draw the highest devotional footfall.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Hingoli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Hingoli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Jaleshwar Mahadev Mandir (Hingoli City)",
+    "state":  "Maharashtra",
+    "city":  "Hingoli",
+    "region":  "Mangalwara area, Hingoli city, Hingoli district",
+    "tags":  [
+                 "Jaleshwar Mahadev",
+                 "Hingoli",
+                 "Shiva"
+             ],
+    "story":  "An ancient city shrine associated with a water-linked sanctum tradition in the Hingoli urban worship circuit.",
+    "highlight":  "Lake-linked Jaleshwar darshan point in Hingoli city.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Jaleshwar Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:10:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Hingoli district\u0027s active Shaiva network across Aundha, Hingoli city, and surrounding village clusters.",
+                        "architecture":  "Regional Deccan forms include Hemadpanthi influence, compact local mandirs, and mixed shrine complexes.",
+                        "darshan":  "Steady daily worship with increased attendance on Mondays and key festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri draw the highest devotional footfall.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Hingoli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Hingoli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shree Nilkantheshwar Shivling \u0026 Annapurna Devi Mandir (Aundha Nagnath)",
+    "state":  "Maharashtra",
+    "city":  "Aundha Nagnath",
+    "region":  "Aundha Nagnath town, Hingoli district",
+    "tags":  [
+                 "Nilkantheshwar Shivling",
+                 "Aundha Nagnath",
+                 "Shiva"
+             ],
+    "story":  "A prominent Aundha-road devotional center integrating Nilkantheshwar worship with Annapurna tradition.",
+    "highlight":  "Aundha Nagnath dual-deity Shiva-focused temple node.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Nilkantheshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:10:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Hingoli district\u0027s active Shaiva network across Aundha, Hingoli city, and surrounding village clusters.",
+                        "architecture":  "Regional Deccan forms include Hemadpanthi influence, compact local mandirs, and mixed shrine complexes.",
+                        "darshan":  "Steady daily worship with increased attendance on Mondays and key festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri draw the highest devotional footfall.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Hingoli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Hingoli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shri Hattkeshwar Sansthan (Hatta)",
+    "state":  "Maharashtra",
+    "city":  "Hatta",
+    "region":  "Hatta, Hingoli district",
+    "tags":  [
+                 "Hattkeshwar",
+                 "Hatta",
+                 "Shiva"
+             ],
+    "story":  "A significant regional Shaiva sansthan in Hatta with steady traditional worship practice.",
+    "highlight":  "Historic Hattkeshwar lineage temple in Hingoli belt.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Hattkeshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:10:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Hingoli district\u0027s active Shaiva network across Aundha, Hingoli city, and surrounding village clusters.",
+                        "architecture":  "Regional Deccan forms include Hemadpanthi influence, compact local mandirs, and mixed shrine complexes.",
+                        "darshan":  "Steady daily worship with increased attendance on Mondays and key festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri draw the highest devotional footfall.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Hingoli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Hingoli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Lord Rokdeshwar Temple (Pangra Shinde)",
+    "state":  "Maharashtra",
+    "city":  "Pangra Shinde",
+    "region":  "Pangra Shinde, Hingoli district",
+    "tags":  [
+                 "Rokdeshwar",
+                 "Pangra Shinde",
+                 "Shiva"
+             ],
+    "story":  "A recognized local Shiva temple in the Pangra Shinde sector with active community devotion.",
+    "highlight":  "Pangra-region Rokdeshwar village Shaiva anchor.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Rokdeshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:10:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Hingoli district\u0027s active Shaiva network across Aundha, Hingoli city, and surrounding village clusters.",
+                        "architecture":  "Regional Deccan forms include Hemadpanthi influence, compact local mandirs, and mixed shrine complexes.",
+                        "darshan":  "Steady daily worship with increased attendance on Mondays and key festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri draw the highest devotional footfall.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Hingoli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Hingoli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shree Adi Nagnath Temple (Aundha Nagnath)",
+    "state":  "Maharashtra",
+    "city":  "Aundha Nagnath",
+    "region":  "Aundha Nagnath, Hingoli district",
+    "tags":  [
+                 "Adi Nagnath",
+                 "Aundha Nagnath",
+                 "Shiva"
+             ],
+    "story":  "A historically revered old Nagnath-linked shrine in the Aundha temple landscape.",
+    "highlight":  "Heritage Adi Nagnath point in the Aundha circuit.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Adi Nagnath)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:10:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Hingoli district\u0027s active Shaiva network across Aundha, Hingoli city, and surrounding village clusters.",
+                        "architecture":  "Regional Deccan forms include Hemadpanthi influence, compact local mandirs, and mixed shrine complexes.",
+                        "darshan":  "Steady daily worship with increased attendance on Mondays and key festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri draw the highest devotional footfall.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Hingoli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Hingoli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shri Jatashankar Temple (Dongarkada)",
+    "state":  "Maharashtra",
+    "city":  "Dongarkada",
+    "region":  "Dongarkada, Hingoli district",
+    "tags":  [
+                 "Jatashankar",
+                 "Dongarkada",
+                 "Shiva"
+             ],
+    "story":  "A recognized Jatashankar Shiva shrine in the Dongarkada region with steady local observance.",
+    "highlight":  "Dongarkada Jatashankar darshan node.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Jatashankar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:10:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Hingoli district\u0027s active Shaiva network across Aundha, Hingoli city, and surrounding village clusters.",
+                        "architecture":  "Regional Deccan forms include Hemadpanthi influence, compact local mandirs, and mixed shrine complexes.",
+                        "darshan":  "Steady daily worship with increased attendance on Mondays and key festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri draw the highest devotional footfall.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Hingoli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Hingoli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shree Kubereshwar Mahadev Mandir (Hingoli)",
+    "state":  "Maharashtra",
+    "city":  "Hingoli",
+    "region":  "Siddharth Nagar, Hingoli city, Hingoli district",
+    "tags":  [
+                 "Kubereshwar Mahadev",
+                 "Hingoli",
+                 "Shiva"
+             ],
+    "story":  "A neighborhood Mahadev temple in Hingoli city serving regular daily worship.",
+    "highlight":  "Siddharth Nagar Kubereshwar Mahadev urban shrine.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Kubereshwar Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:10:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Hingoli district\u0027s active Shaiva network across Aundha, Hingoli city, and surrounding village clusters.",
+                        "architecture":  "Regional Deccan forms include Hemadpanthi influence, compact local mandirs, and mixed shrine complexes.",
+                        "darshan":  "Steady daily worship with increased attendance on Mondays and key festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri draw the highest devotional footfall.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Hingoli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Hingoli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shree Ratneshwar Temple (SRPF Camp)",
+    "state":  "Maharashtra",
+    "city":  "Hingoli",
+    "region":  "SRPF Camp area, Hingoli district",
+    "tags":  [
+                 "Ratneshwar",
+                 "Hingoli",
+                 "Shiva"
+             ],
+    "story":  "A dedicated Shiva shrine near the SRPF settlement, integrated into the district-level worship network.",
+    "highlight":  "SRPF-adjacent Ratneshwar Shiva node.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Ratneshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:10:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Hingoli district\u0027s active Shaiva network across Aundha, Hingoli city, and surrounding village clusters.",
+                        "architecture":  "Regional Deccan forms include Hemadpanthi influence, compact local mandirs, and mixed shrine complexes.",
+                        "darshan":  "Steady daily worship with increased attendance on Mondays and key festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri draw the highest devotional footfall.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Hingoli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Hingoli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Amruteshwar Temple (Sakhara)",
+    "state":  "Maharashtra",
+    "city":  "Sakhara",
+    "region":  "Sakhara, Hingoli district",
+    "tags":  [
+                 "Amruteshwar",
+                 "Sakhara",
+                 "Shiva"
+             ],
+    "story":  "A traditional Amruteshwar temple in Sakhara with strong local devotional continuity.",
+    "highlight":  "Sakhara Amruteshwar rural Shaiva anchor.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Amruteshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:10:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Hingoli district\u0027s active Shaiva network across Aundha, Hingoli city, and surrounding village clusters.",
+                        "architecture":  "Regional Deccan forms include Hemadpanthi influence, compact local mandirs, and mixed shrine complexes.",
+                        "darshan":  "Steady daily worship with increased attendance on Mondays and key festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri draw the highest devotional footfall.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Hingoli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Hingoli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Dhaneshar Temple (Kolasa)",
+    "state":  "Maharashtra",
+    "city":  "Kolasa",
+    "region":  "Kolasa, Sengaon taluka, Hingoli district",
+    "tags":  [
+                 "Dhaneshar",
+                 "Kolasa",
+                 "Shiva"
+             ],
+    "story":  "A recognized Shiva temple in Kolasa within the Sengaon devotional belt.",
+    "highlight":  "Kolasa Dhaneshar Mahadev local center.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Dhaneshar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:10:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Hingoli district\u0027s active Shaiva network across Aundha, Hingoli city, and surrounding village clusters.",
+                        "architecture":  "Regional Deccan forms include Hemadpanthi influence, compact local mandirs, and mixed shrine complexes.",
+                        "darshan":  "Steady daily worship with increased attendance on Mondays and key festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri draw the highest devotional footfall.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Hingoli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Hingoli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shiva Temple (Siddharth Nagar)",
+    "state":  "Maharashtra",
+    "city":  "Hingoli",
+    "region":  "Siddharth Nagar, Hingoli city, Hingoli district",
+    "tags":  [
+                 "Shiva Temple Siddharth Nagar",
+                 "Hingoli",
+                 "Shiva"
+             ],
+    "story":  "A neighborhood Shiva shrine serving daily puja and festival observance in Siddharth Nagar.",
+    "highlight":  "Community Shaiva temple in Hingoli urban core.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:10:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Hingoli district\u0027s active Shaiva network across Aundha, Hingoli city, and surrounding village clusters.",
+                        "architecture":  "Regional Deccan forms include Hemadpanthi influence, compact local mandirs, and mixed shrine complexes.",
+                        "darshan":  "Steady daily worship with increased attendance on Mondays and key festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri draw the highest devotional footfall.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Hingoli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Hingoli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Bhavani Mata Temple Shiva Shrine (Waranga Phata)",
+    "state":  "Maharashtra",
+    "city":  "Waranga Phata",
+    "region":  "Waranga Phata, Hingoli district",
+    "tags":  [
+                 "Bhavani Mata Shiva Shrine",
+                 "Waranga Phata",
+                 "Shiva"
+             ],
+    "story":  "A Shiva shrine integrated into a Bhavani Mata complex, representing a local Shiva-Shakti devotional interface.",
+    "highlight":  "Waranga Phata Shiva-Shakti combined worship point.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (within Bhavani complex)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:10:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Hingoli district\u0027s active Shaiva network across Aundha, Hingoli city, and surrounding village clusters.",
+                        "architecture":  "Regional Deccan forms include Hemadpanthi influence, compact local mandirs, and mixed shrine complexes.",
+                        "darshan":  "Steady daily worship with increased attendance on Mondays and key festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri draw the highest devotional footfall.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Hingoli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Hingoli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Ancient Shiv Temple (Nagra)",
+    "state":  "Maharashtra",
+    "city":  "Nagra",
+    "region":  "Nagra, Gondia district",
+    "tags":  [
+                 "Ancient Shiv Temple",
+                 "Nagra",
+                 "Shiva"
+             ],
+    "story":  "A traditional Shiva shrine in Nagra preserving local devotional continuity in Gondia district.",
+    "highlight":  "Historic Nagra village Shaiva anchor.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shiv Dham (Fulchur Peth)",
+    "state":  "Maharashtra",
+    "city":  "Gondia",
+    "region":  "Fulchur Peth, Gondia city, Gondia district",
+    "tags":  [
+                 "Shiv Dham",
+                 "Gondia",
+                 "Shiva"
+             ],
+    "story":  "A local Shiv Dham in Fulchur Peth serving daily worship in the Gondia urban grid.",
+    "highlight":  "Fulchur Peth neighborhood Shiva darshan point.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Pongezara Shiv Mandir (Goregaon)",
+    "state":  "Maharashtra",
+    "city":  "Goregaon",
+    "region":  "Goregaon, Gondia district",
+    "tags":  [
+                 "Pongezara Shiv Mandir",
+                 "Goregaon",
+                 "Shiva"
+             ],
+    "story":  "A recognized Shiva temple in the Goregaon sector with active local participation.",
+    "highlight":  "Goregaon regional Shiva worship node.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Ardh Nareshwar Shiv Temple (Salekasa)",
+    "state":  "Maharashtra",
+    "city":  "Salekasa",
+    "region":  "Salekasa, Gondia district",
+    "tags":  [
+                 "Ardh Nareshwar",
+                 "Salekasa",
+                 "Shiva"
+             ],
+    "story":  "A Salekasa shrine associated with Ardhanarishwar devotional symbolism and regular worship.",
+    "highlight":  "Salekasa Ardhanarishwar-focused Shaiva center.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Ardhanarishwar form tradition)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shivalay (Gondia Bazar)",
+    "state":  "Maharashtra",
+    "city":  "Gondia",
+    "region":  "Gondia Bazar, Gondia district",
+    "tags":  [
+                 "Shivalay",
+                 "Gondia",
+                 "Shiva"
+             ],
+    "story":  "A bazar-area Shivalay maintaining daily puja in central Gondia.",
+    "highlight":  "Core-market Shiva temple in Gondia Bazar.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shiv Temple (Ganesh Nagar)",
+    "state":  "Maharashtra",
+    "city":  "Gondia",
+    "region":  "Ganesh Nagar, Gondia district",
+    "tags":  [
+                 "Shiv Temple Ganesh Nagar",
+                 "Gondia",
+                 "Shiva"
+             ],
+    "story":  "A community Shiva temple in Ganesh Nagar with steady local darshan.",
+    "highlight":  "Ganesh Nagar neighborhood Mahadev shrine.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Dhaneshwar Mahadev Temple (Sindhi Colony)",
+    "state":  "Maharashtra",
+    "city":  "Gondia",
+    "region":  "Sindhi Colony, Gondia district",
+    "tags":  [
+                 "Dhaneshwar Mahadev",
+                 "Gondia",
+                 "Shiva"
+             ],
+    "story":  "A Sindhi Colony Mahadev temple known for consistent local worship practices.",
+    "highlight":  "Sindhi Colony Dhaneshwar Mahadev node.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Dhaneshwar Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shiv Mandir (Gulabtola)",
+    "state":  "Maharashtra",
+    "city":  "Gulabtola",
+    "region":  "Gulabtola, Gondia district",
+    "tags":  [
+                 "Shiv Mandir Gulabtola",
+                 "Gulabtola",
+                 "Shiva"
+             ],
+    "story":  "A village-level Shiva temple in Gulabtola rooted in local ritual tradition.",
+    "highlight":  "Gulabtola rural Shaiva stabilization point.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Mahadev Hills (Amgaon)",
+    "state":  "Maharashtra",
+    "city":  "Amgaon",
+    "region":  "Amgaon hills, Gondia district",
+    "tags":  [
+                 "Mahadev Hills",
+                 "Amgaon",
+                 "Shiva"
+             ],
+    "story":  "A hill-associated Mahadev site in Amgaon, visited for devotional and nature-linked worship.",
+    "highlight":  "Amgaon hilltop Mahadev worship location.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Sivanibandh Shiv Murti (Zadgaon)",
+    "state":  "Maharashtra",
+    "city":  "Zadgaon",
+    "region":  "Zadgaon, Gondia district",
+    "tags":  [
+                 "Sivanibandh Shiv Murti",
+                 "Zadgaon",
+                 "Shiva"
+             ],
+    "story":  "A Shiva murti-centered devotional site in Zadgaon integrated into local worship routines.",
+    "highlight":  "Zadgaon Sivanibandh Shiva murti shrine.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Bholenath Mandir (Asoli)",
+    "state":  "Maharashtra",
+    "city":  "Asoli",
+    "region":  "Asoli, Gondia district",
+    "tags":  [
+                 "Bholenath Mandir",
+                 "Asoli",
+                 "Shiva"
+             ],
+    "story":  "A local Bholenath mandir in Asoli with regular puja and festival participation.",
+    "highlight":  "Asoli Bholenath village temple.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Bholenath)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Asordi Mahadev Pahadi (Asordi)",
+    "state":  "Maharashtra",
+    "city":  "Asordi",
+    "region":  "Asordi pahadi zone, Gondia district",
+    "tags":  [
+                 "Asordi Mahadev Pahadi",
+                 "Asordi",
+                 "Shiva"
+             ],
+    "story":  "A pahadi-side Mahadev shrine near Asordi recognized in local devotional practice.",
+    "highlight":  "Asordi hill-shrine Mahadev point.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Kashighat Shiv Temple (Garada)",
+    "state":  "Maharashtra",
+    "city":  "Garada",
+    "region":  "Garada (Kashighat), Gondia district",
+    "tags":  [
+                 "Kashighat Shiv Temple",
+                 "Garada",
+                 "Shiva"
+             ],
+    "story":  "A Kashighat-area Shiva temple in Garada serving nearby communities.",
+    "highlight":  "Garada Kashighat Shaiva temple node.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shiv Mandir (Kanhartola)",
+    "state":  "Maharashtra",
+    "city":  "Kanhartola",
+    "region":  "Kanhartola, Gondia district",
+    "tags":  [
+                 "Shiv Mandir Kanhartola",
+                 "Kanhartola",
+                 "Shiva"
+             ],
+    "story":  "A Kanhartola Shiva temple with stable daily worship and local observance cycles.",
+    "highlight":  "Kanhartola community Shiva shrine.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Bhole Baba Mandir (Halbitola)",
+    "state":  "Maharashtra",
+    "city":  "Halbitola",
+    "region":  "Halbitola, Gondia district",
+    "tags":  [
+                 "Bhole Baba Mandir",
+                 "Halbitola",
+                 "Shiva"
+             ],
+    "story":  "A Bhole Baba temple in Halbitola preserved through local devotion and seasonal festivals.",
+    "highlight":  "Halbitola Bhole Baba Shaiva anchor.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Bhole Baba)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:25:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples are part of Gondia district\u0027s distributed Shaiva worship network across town neighborhoods, villages, and hill-linked locations.",
+                        "architecture":  "Regional forms include compact local mandirs, open-air murti sites, and hill-associated shrine layouts.",
+                        "darshan":  "Daily worship is sustained by local communities with higher footfall on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gondia district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gondia_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Markandeshwar Temple (Markanda)",
+    "state":  "Maharashtra",
+    "city":  "Markanda",
+    "region":  "Markanda, Gadchiroli district",
+    "tags":  [
+                 "Markandeshwar Temple",
+                 "Markanda",
+                 "Shiva"
+             ],
+    "story":  "A historically revered Shiva shrine at Markanda, connected with long-standing regional Shaiva worship traditions.",
+    "highlight":  "Major Markanda Shaiva heritage temple in Gadchiroli.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Markandeshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:40:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Gadchiroli district\u0027s distributed Shaiva landscape across heritage nodes, market areas, and village clusters.",
+                        "architecture":  "Regional styles range from older stone shrines and Hemadpanthi-influenced forms to compact local mandir structures.",
+                        "darshan":  "Daily worship is maintained by local communities with Monday and festival peaks.",
+                        "seasonal":  "Shravan and Mahashivratri are major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gadchiroli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gadchiroli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Bhandareshwar Temple (Vairagad)",
+    "state":  "Maharashtra",
+    "city":  "Vairagad",
+    "region":  "Vairagad, Gadchiroli district",
+    "tags":  [
+                 "Bhandareshwar Temple",
+                 "Vairagad",
+                 "Shiva"
+             ],
+    "story":  "A Vairagad-area Shiva temple maintained through local devotional practice and festival observances.",
+    "highlight":  "Vairagad Bhandareshwar local worship anchor.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Bhandareshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:40:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Gadchiroli district\u0027s distributed Shaiva landscape across heritage nodes, market areas, and village clusters.",
+                        "architecture":  "Regional styles range from older stone shrines and Hemadpanthi-influenced forms to compact local mandir structures.",
+                        "darshan":  "Daily worship is maintained by local communities with Monday and festival peaks.",
+                        "seasonal":  "Shravan and Mahashivratri are major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gadchiroli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gadchiroli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Hemadpanthi Shiv Temple (Thanegaon)",
+    "state":  "Maharashtra",
+    "city":  "Thanegaon",
+    "region":  "Thanegaon, Gadchiroli district",
+    "tags":  [
+                 "Hemadpanthi Shiv Temple",
+                 "Thanegaon",
+                 "Shiva"
+             ],
+    "story":  "A Hemadpanthi-style Shiva temple in Thanegaon reflecting medieval Deccan stone-temple traditions.",
+    "highlight":  "Thanegaon Hemadpanthi Shaiva structural node.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:40:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Gadchiroli district\u0027s distributed Shaiva landscape across heritage nodes, market areas, and village clusters.",
+                        "architecture":  "Regional styles range from older stone shrines and Hemadpanthi-influenced forms to compact local mandir structures.",
+                        "darshan":  "Daily worship is maintained by local communities with Monday and festival peaks.",
+                        "seasonal":  "Shravan and Mahashivratri are major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gadchiroli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gadchiroli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "SHIV Temple (Dongar Mendha)",
+    "state":  "Maharashtra",
+    "city":  "Dongar Mendha",
+    "region":  "Dongar Mendha, Gadchiroli district",
+    "tags":  [
+                 "Shiv Temple Dongar Mendha",
+                 "Dongar Mendha",
+                 "Shiva"
+             ],
+    "story":  "A village-level Shiva temple in Dongar Mendha with regular local darshan.",
+    "highlight":  "Dongar Mendha community Shiva shrine.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:40:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Gadchiroli district\u0027s distributed Shaiva landscape across heritage nodes, market areas, and village clusters.",
+                        "architecture":  "Regional styles range from older stone shrines and Hemadpanthi-influenced forms to compact local mandir structures.",
+                        "darshan":  "Daily worship is maintained by local communities with Monday and festival peaks.",
+                        "seasonal":  "Shravan and Mahashivratri are major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gadchiroli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gadchiroli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shiv Temple (Arattondi)",
+    "state":  "Maharashtra",
+    "city":  "Arattondi",
+    "region":  "Arattondi, Gadchiroli district",
+    "tags":  [
+                 "Shiv Temple Arattondi",
+                 "Arattondi",
+                 "Shiva"
+             ],
+    "story":  "A local Arattondi Shiva temple supporting continuous daily worship practices.",
+    "highlight":  "Arattondi rural Shaiva temple point.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:40:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Gadchiroli district\u0027s distributed Shaiva landscape across heritage nodes, market areas, and village clusters.",
+                        "architecture":  "Regional styles range from older stone shrines and Hemadpanthi-influenced forms to compact local mandir structures.",
+                        "darshan":  "Daily worship is maintained by local communities with Monday and festival peaks.",
+                        "seasonal":  "Shravan and Mahashivratri are major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gadchiroli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gadchiroli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shiv Temple (Dhanora Road, Gadchiroli)",
+    "state":  "Maharashtra",
+    "city":  "Gadchiroli",
+    "region":  "Dhanora Road, Gadchiroli district",
+    "tags":  [
+                 "Shiv Temple Dhanora Road",
+                 "Gadchiroli",
+                 "Shiva"
+             ],
+    "story":  "A road-side Gadchiroli Shiva temple serving nearby communities with steady ritual activity.",
+    "highlight":  "Dhanora Road urban-edge Shiva darshan node.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:40:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Gadchiroli district\u0027s distributed Shaiva landscape across heritage nodes, market areas, and village clusters.",
+                        "architecture":  "Regional styles range from older stone shrines and Hemadpanthi-influenced forms to compact local mandir structures.",
+                        "darshan":  "Daily worship is maintained by local communities with Monday and festival peaks.",
+                        "seasonal":  "Shravan and Mahashivratri are major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gadchiroli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gadchiroli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shiv Mandir (Allapalli)",
+    "state":  "Maharashtra",
+    "city":  "Allapalli",
+    "region":  "Allapalli, Gadchiroli district",
+    "tags":  [
+                 "Shiv Mandir Allapalli",
+                 "Allapalli",
+                 "Shiva"
+             ],
+    "story":  "A recognized Shiva mandir in Allapalli integrated into local festival cycles.",
+    "highlight":  "Allapalli Shaiva worship anchor.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:40:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Gadchiroli district\u0027s distributed Shaiva landscape across heritage nodes, market areas, and village clusters.",
+                        "architecture":  "Regional styles range from older stone shrines and Hemadpanthi-influenced forms to compact local mandir structures.",
+                        "darshan":  "Daily worship is maintained by local communities with Monday and festival peaks.",
+                        "seasonal":  "Shravan and Mahashivratri are major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gadchiroli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gadchiroli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shri Mankeshwar Temple (Jintur Road)",
+    "state":  "Maharashtra",
+    "city":  "Gadchiroli",
+    "region":  "Jintur Road sector, Gadchiroli district",
+    "tags":  [
+                 "Mankeshwar Temple",
+                 "Gadchiroli",
+                 "Shiva"
+             ],
+    "story":  "A Mankeshwar shrine serving local devotees along the Jintur Road corridor.",
+    "highlight":  "Jintur Road Mankeshwar Shiva node.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Mankeshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:40:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Gadchiroli district\u0027s distributed Shaiva landscape across heritage nodes, market areas, and village clusters.",
+                        "architecture":  "Regional styles range from older stone shrines and Hemadpanthi-influenced forms to compact local mandir structures.",
+                        "darshan":  "Daily worship is maintained by local communities with Monday and festival peaks.",
+                        "seasonal":  "Shravan and Mahashivratri are major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gadchiroli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gadchiroli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shiv Mandir (Jimalgatta)",
+    "state":  "Maharashtra",
+    "city":  "Jimalgatta",
+    "region":  "Jimalgatta, Gadchiroli district",
+    "tags":  [
+                 "Shiv Mandir Jimalgatta",
+                 "Jimalgatta",
+                 "Shiva"
+             ],
+    "story":  "A Jimalgatta Shiva temple with consistent daily puja and local observance.",
+    "highlight":  "Jimalgatta village Mahadev shrine.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:40:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Gadchiroli district\u0027s distributed Shaiva landscape across heritage nodes, market areas, and village clusters.",
+                        "architecture":  "Regional styles range from older stone shrines and Hemadpanthi-influenced forms to compact local mandir structures.",
+                        "darshan":  "Daily worship is maintained by local communities with Monday and festival peaks.",
+                        "seasonal":  "Shravan and Mahashivratri are major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gadchiroli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gadchiroli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shiva Shankar Sri Ganesh Mandad (Tekdamotla)",
+    "state":  "Maharashtra",
+    "city":  "Tekdamotla",
+    "region":  "Tekdamotla, Gadchiroli district",
+    "tags":  [
+                 "Shiva Shankar",
+                 "Tekdamotla",
+                 "Shiva"
+             ],
+    "story":  "A multi-deity local complex in Tekdamotla with a dedicated Shiva worship component.",
+    "highlight":  "Tekdamotla Shiva-Shankar local devotional center.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:40:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Gadchiroli district\u0027s distributed Shaiva landscape across heritage nodes, market areas, and village clusters.",
+                        "architecture":  "Regional styles range from older stone shrines and Hemadpanthi-influenced forms to compact local mandir structures.",
+                        "darshan":  "Daily worship is maintained by local communities with Monday and festival peaks.",
+                        "seasonal":  "Shravan and Mahashivratri are major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gadchiroli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gadchiroli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Ancient Shiva Temple (Armori)",
+    "state":  "Maharashtra",
+    "city":  "Armori",
+    "region":  "Armori, Gadchiroli district",
+    "tags":  [
+                 "Ancient Shiva Temple Armori",
+                 "Armori",
+                 "Shiva"
+             ],
+    "story":  "An old Shiva shrine in Armori preserving traditional district-level worship continuity.",
+    "highlight":  "Armori heritage Shiva temple point.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:40:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Gadchiroli district\u0027s distributed Shaiva landscape across heritage nodes, market areas, and village clusters.",
+                        "architecture":  "Regional styles range from older stone shrines and Hemadpanthi-influenced forms to compact local mandir structures.",
+                        "darshan":  "Daily worship is maintained by local communities with Monday and festival peaks.",
+                        "seasonal":  "Shravan and Mahashivratri are major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gadchiroli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gadchiroli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shankar Ghat Shiva Temple (Gadchiroli)",
+    "state":  "Maharashtra",
+    "city":  "Gadchiroli",
+    "region":  "Shankar Ghat, Gadchiroli district",
+    "tags":  [
+                 "Shankar Ghat Shiva Temple",
+                 "Gadchiroli",
+                 "Shiva"
+             ],
+    "story":  "A Shankar Ghat temple in Gadchiroli associated with regular local darshan and ritual practice.",
+    "highlight":  "Shankar Ghat river-linked Shiva worship site.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:40:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples form part of Gadchiroli district\u0027s distributed Shaiva landscape across heritage nodes, market areas, and village clusters.",
+                        "architecture":  "Regional styles range from older stone shrines and Hemadpanthi-influenced forms to compact local mandir structures.",
+                        "darshan":  "Daily worship is maintained by local communities with Monday and festival peaks.",
+                        "seasonal":  "Shravan and Mahashivratri are major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Gadchiroli district",
+                                            "url":  "https://en.wikipedia.org/wiki/Gadchiroli_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Kapileshwar Mandir Mudawad (Mudavad)",
+    "state":  "Maharashtra",
+    "city":  "Mudavad",
+    "region":  "Mudawad, Dhule district",
+    "tags":  [
+                 "Kapileshwar Mandir",
+                 "Mudavad",
+                 "Shiva"
+             ],
+    "story":  "A Kapileshwar Shiva shrine in Mudawad preserved through long-standing local devotional practice.",
+    "highlight":  "Mudawad Kapileshwar temple in the Dhule Shaiva network.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Kapileshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:55:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples extend the Dhule district Shaiva dataset across city neighborhoods, taluka villages, and heritage mandir clusters.",
+                        "architecture":  "Regional forms include compact urban mandirs, older stone shrines, and village devotional complexes.",
+                        "darshan":  "Daily worship is community-driven with higher attendance on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Dhule district",
+                                            "url":  "https://en.wikipedia.org/wiki/Dhule_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Nageshwar Temple (Ajanad)",
+    "state":  "Maharashtra",
+    "city":  "Ajanad",
+    "region":  "Ajanad, Dhule district",
+    "tags":  [
+                 "Nageshwar Temple",
+                 "Ajanad",
+                 "Shiva"
+             ],
+    "story":  "A recognized Nageshwar Shiva temple in Ajanad with consistent village-level worship.",
+    "highlight":  "Ajanad Nageshwar local Shaiva anchor.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Nageshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:55:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples extend the Dhule district Shaiva dataset across city neighborhoods, taluka villages, and heritage mandir clusters.",
+                        "architecture":  "Regional forms include compact urban mandirs, older stone shrines, and village devotional complexes.",
+                        "darshan":  "Daily worship is community-driven with higher attendance on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Dhule district",
+                                            "url":  "https://en.wikipedia.org/wiki/Dhule_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Gangeshwar Mahadev Temple (Pimpri Amarale)",
+    "state":  "Maharashtra",
+    "city":  "Pimpri Amarale",
+    "region":  "Pimpri Amarale, Dhule district",
+    "tags":  [
+                 "Gangeshwar Mahadev",
+                 "Pimpri Amarale",
+                 "Shiva"
+             ],
+    "story":  "A Gangeshwar Mahadev shrine in Pimpri Amarale integrated into local ritual cycles.",
+    "highlight":  "Pimpri Amarale Gangeshwar Mahadev darshan point.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Gangeshwar Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:55:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples extend the Dhule district Shaiva dataset across city neighborhoods, taluka villages, and heritage mandir clusters.",
+                        "architecture":  "Regional forms include compact urban mandirs, older stone shrines, and village devotional complexes.",
+                        "darshan":  "Daily worship is community-driven with higher attendance on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Dhule district",
+                                            "url":  "https://en.wikipedia.org/wiki/Dhule_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Kedareshwar Mahakal Mandir (Dhule)",
+    "state":  "Maharashtra",
+    "city":  "Dhule",
+    "region":  "Dhule city, Dhule district",
+    "tags":  [
+                 "Kedareshwar Mahakal",
+                 "Dhule",
+                 "Shiva"
+             ],
+    "story":  "A city-based Mahakal-focused Shiva temple serving regular urban devotional traffic in Dhule.",
+    "highlight":  "Dhule Kedareshwar-Mahakal urban Shaiva node.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Kedareshwar Mahakal)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:55:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples extend the Dhule district Shaiva dataset across city neighborhoods, taluka villages, and heritage mandir clusters.",
+                        "architecture":  "Regional forms include compact urban mandirs, older stone shrines, and village devotional complexes.",
+                        "darshan":  "Daily worship is community-driven with higher attendance on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Dhule district",
+                                            "url":  "https://en.wikipedia.org/wiki/Dhule_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shiv Temple Dahiwad (Shirpur)",
+    "state":  "Maharashtra",
+    "city":  "Shirpur",
+    "region":  "Dahiwad, Shirpur taluka, Dhule district",
+    "tags":  [
+                 "Shiv Temple Dahiwad",
+                 "Shirpur",
+                 "Shiva"
+             ],
+    "story":  "A Dahiwad-area Shiva temple in Shirpur taluka with steady local participation.",
+    "highlight":  "Dahiwad village Shiva temple in Shirpur belt.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:55:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples extend the Dhule district Shaiva dataset across city neighborhoods, taluka villages, and heritage mandir clusters.",
+                        "architecture":  "Regional forms include compact urban mandirs, older stone shrines, and village devotional complexes.",
+                        "darshan":  "Daily worship is community-driven with higher attendance on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Dhule district",
+                                            "url":  "https://en.wikipedia.org/wiki/Dhule_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Ghrisneshwar Mahadev Mandir (Chopdai)",
+    "state":  "Maharashtra",
+    "city":  "Chopdai",
+    "region":  "Chopdai, Dhule district",
+    "tags":  [
+                 "Ghrisneshwar Mahadev",
+                 "Chopdai",
+                 "Shiva"
+             ],
+    "story":  "A local Ghrisneshwar-named Mahadev shrine in Chopdai with regular worship continuity.",
+    "highlight":  "Chopdai Ghrisneshwar Mahadev rural anchor.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Ghrisneshwar Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:55:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples extend the Dhule district Shaiva dataset across city neighborhoods, taluka villages, and heritage mandir clusters.",
+                        "architecture":  "Regional forms include compact urban mandirs, older stone shrines, and village devotional complexes.",
+                        "darshan":  "Daily worship is community-driven with higher attendance on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Dhule district",
+                                            "url":  "https://en.wikipedia.org/wiki/Dhule_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Gangeshwar Mahadev Mandir (Samode)",
+    "state":  "Maharashtra",
+    "city":  "Samode",
+    "region":  "Samode, Dhule district",
+    "tags":  [
+                 "Gangeshwar Mahadev",
+                 "Samode",
+                 "Shiva"
+             ],
+    "story":  "A Samode Mahadev shrine centered on Gangeshwar worship within the district\u0027s Shaiva grid.",
+    "highlight":  "Samode Gangeshwar Mahadev devotional point.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Gangeshwar Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:55:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples extend the Dhule district Shaiva dataset across city neighborhoods, taluka villages, and heritage mandir clusters.",
+                        "architecture":  "Regional forms include compact urban mandirs, older stone shrines, and village devotional complexes.",
+                        "darshan":  "Daily worship is community-driven with higher attendance on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Dhule district",
+                                            "url":  "https://en.wikipedia.org/wiki/Dhule_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Nilkanth Mahadev Temple (Kokale)",
+    "state":  "Maharashtra",
+    "city":  "Kokale",
+    "region":  "Kokale, Dhule district",
+    "tags":  [
+                 "Nilkanth Mahadev",
+                 "Kokale",
+                 "Shiva"
+             ],
+    "story":  "A Nilkanth Mahadev temple in Kokale preserved through local community worship and festival observance.",
+    "highlight":  "Kokale Nilkanth Mahadev Shaiva node.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Nilkanth)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:55:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples extend the Dhule district Shaiva dataset across city neighborhoods, taluka villages, and heritage mandir clusters.",
+                        "architecture":  "Regional forms include compact urban mandirs, older stone shrines, and village devotional complexes.",
+                        "darshan":  "Daily worship is community-driven with higher attendance on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Dhule district",
+                                            "url":  "https://en.wikipedia.org/wiki/Dhule_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Navnath Mandir (Wadibhokar)",
+    "state":  "Maharashtra",
+    "city":  "Wadibhokar",
+    "region":  "Wadibhokar, Dhule district",
+    "tags":  [
+                 "Navnath Mandir",
+                 "Wadibhokar",
+                 "Shiva"
+             ],
+    "story":  "A Navnath-associated shrine in Wadibhokar with a Shiva-centric devotional stream.",
+    "highlight":  "Wadibhokar Nath-Shaiva worship site.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva-linked Nath tradition",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:55:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples extend the Dhule district Shaiva dataset across city neighborhoods, taluka villages, and heritage mandir clusters.",
+                        "architecture":  "Regional forms include compact urban mandirs, older stone shrines, and village devotional complexes.",
+                        "darshan":  "Daily worship is community-driven with higher attendance on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Dhule district",
+                                            "url":  "https://en.wikipedia.org/wiki/Dhule_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Mahadev Temple (Ramchandra Nagar)",
+    "state":  "Maharashtra",
+    "city":  "Dhule",
+    "region":  "Ramchandra Nagar, Dhule district",
+    "tags":  [
+                 "Mahadev Temple",
+                 "Dhule",
+                 "Shiva"
+             ],
+    "story":  "A neighborhood Mahadev temple in Ramchandra Nagar serving daily puja and local observances.",
+    "highlight":  "Ramchandra Nagar community Mahadev shrine.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:55:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples extend the Dhule district Shaiva dataset across city neighborhoods, taluka villages, and heritage mandir clusters.",
+                        "architecture":  "Regional forms include compact urban mandirs, older stone shrines, and village devotional complexes.",
+                        "darshan":  "Daily worship is community-driven with higher attendance on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Dhule district",
+                                            "url":  "https://en.wikipedia.org/wiki/Dhule_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Trilokeshwar Shivdham Temple (Datarti)",
+    "state":  "Maharashtra",
+    "city":  "Datarti",
+    "region":  "Datarti, Dhule district",
+    "tags":  [
+                 "Trilokeshwar Shivdham",
+                 "Datarti",
+                 "Shiva"
+             ],
+    "story":  "A Trilokeshwar Shivdham temple in Datarti connected to local Shaiva devotional routes.",
+    "highlight":  "Datarti Trilokeshwar Shiva temple point.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Trilokeshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T21:55:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These temples extend the Dhule district Shaiva dataset across city neighborhoods, taluka villages, and heritage mandir clusters.",
+                        "architecture":  "Regional forms include compact urban mandirs, older stone shrines, and village devotional complexes.",
+                        "darshan":  "Daily worship is community-driven with higher attendance on Mondays and festival dates.",
+                        "seasonal":  "Shravan and Mahashivratri are the major annual observance periods.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Dhule district",
+                                            "url":  "https://en.wikipedia.org/wiki/Dhule_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shri Raj Rajeshwar Mandir (Akola Fort)",
+    "state":  "Maharashtra",
+    "city":  "Akola",
+    "region":  "Akola Fort, Akola district",
+    "tags":  [
+                 "Raj Rajeshwar Mandir",
+                 "Akola",
+                 "Shiva"
+             ],
+    "story":  "A historic Shiva temple inside Akola Fort, revered as one of the city\u0027s oldest devotional anchors with a centuries-old worship lineage.",
+    "highlight":  "Fort-core Raj Rajeshwar shrine with strong heritage significance.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Raj Rajeshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T22:20:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These entries map major and neighborhood-level Shiva temples across Akola district, including fort, urban, and taluka locations.",
+                        "architecture":  "Temple forms range from heritage stone sanctums and fort temples to modern neighborhood mandirs and mixed complexes.",
+                        "darshan":  "Daily worship is maintained by local communities with stronger attendance on Mondays and festival periods.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance windows.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Akola district",
+                                            "url":  "https://en.wikipedia.org/wiki/Akola_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Om Shri Baara Jyotirlinga Shiv Mandir (Ranpise Nagar)",
+    "state":  "Maharashtra",
+    "city":  "Akola",
+    "region":  "Ranpise Nagar, Akola district",
+    "tags":  [
+                 "Baara Jyotirlinga Shiv Mandir",
+                 "Akola",
+                 "Shiva"
+             ],
+    "story":  "A major Akola landmark temple known for housing replicas of all twelve Jyotirlingas in one complex for consolidated darshan.",
+    "highlight":  "Single-site darshan of 12 Jyotirlinga forms in Akola.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (12 Jyotirlinga replicas)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T22:20:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These entries map major and neighborhood-level Shiva temples across Akola district, including fort, urban, and taluka locations.",
+                        "architecture":  "Temple forms range from heritage stone sanctums and fort temples to modern neighborhood mandirs and mixed complexes.",
+                        "darshan":  "Daily worship is maintained by local communities with stronger attendance on Mondays and festival periods.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance windows.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Akola district",
+                                            "url":  "https://en.wikipedia.org/wiki/Akola_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Salasar Balaji Temple Shiva Parivar (Dahigaon Gawande)",
+    "state":  "Maharashtra",
+    "city":  "Dahigaon Gawande",
+    "region":  "Dahigaon Gawande, Akola district",
+    "tags":  [
+                 "Shiva Parivar Shrine",
+                 "Dahigaon Gawande",
+                 "Shiva"
+             ],
+    "story":  "Within a large Salasar Balaji complex, this dedicated Shiva Parivar shrine serves steady Shaiva worship in a peaceful temple campus.",
+    "highlight":  "Shiva Parivar shrine integrated into a major multi-deity complex.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva Parivar",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T22:20:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These entries map major and neighborhood-level Shiva temples across Akola district, including fort, urban, and taluka locations.",
+                        "architecture":  "Temple forms range from heritage stone sanctums and fort temples to modern neighborhood mandirs and mixed complexes.",
+                        "darshan":  "Daily worship is maintained by local communities with stronger attendance on Mondays and festival periods.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance windows.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Akola district",
+                                            "url":  "https://en.wikipedia.org/wiki/Akola_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Anandeshwar Mandir (Lasur)",
+    "state":  "Maharashtra",
+    "city":  "Lasur",
+    "region":  "Lasur, Akola district",
+    "tags":  [
+                 "Anandeshwar Mandir",
+                 "Lasur",
+                 "Shiva"
+             ],
+    "story":  "A prominent Hemadpanthi-style temple in Lasur, associated with older stone architecture and long-standing Shiva devotion.",
+    "highlight":  "Heritage Anandeshwar temple with Hemadpanthi character.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Anandeshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T22:20:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These entries map major and neighborhood-level Shiva temples across Akola district, including fort, urban, and taluka locations.",
+                        "architecture":  "Temple forms range from heritage stone sanctums and fort temples to modern neighborhood mandirs and mixed complexes.",
+                        "darshan":  "Daily worship is maintained by local communities with stronger attendance on Mondays and festival periods.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance windows.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Akola district",
+                                            "url":  "https://en.wikipedia.org/wiki/Akola_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shree Narmadeshwar Shiv Mandir (Chhoti Umari)",
+    "state":  "Maharashtra",
+    "city":  "Chhoti Umari",
+    "region":  "Chhoti Umari, Akola district",
+    "tags":  [
+                 "Narmadeshwar Shiv Mandir",
+                 "Chhoti Umari",
+                 "Shiva"
+             ],
+    "story":  "A well-regarded local Shiva temple serving the Chhoti Umari area with regular daily worship.",
+    "highlight":  "Chhoti Umari Narmadeshwar community shrine.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Narmadeshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T22:20:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These entries map major and neighborhood-level Shiva temples across Akola district, including fort, urban, and taluka locations.",
+                        "architecture":  "Temple forms range from heritage stone sanctums and fort temples to modern neighborhood mandirs and mixed complexes.",
+                        "darshan":  "Daily worship is maintained by local communities with stronger attendance on Mondays and festival periods.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance windows.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Akola district",
+                                            "url":  "https://en.wikipedia.org/wiki/Akola_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Wnageshwar Mahadev Mandir (Telhara)",
+    "state":  "Maharashtra",
+    "city":  "Telhara",
+    "region":  "Telhara taluka, Akola district",
+    "tags":  [
+                 "Wnageshwar Mahadev",
+                 "Telhara",
+                 "Shiva"
+             ],
+    "story":  "A significant Telhara-region Mahadev temple included in the district\u0027s active Shaiva worship circuit.",
+    "highlight":  "Telhara Mahadev devotional anchor.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Mahadev)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T22:20:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These entries map major and neighborhood-level Shiva temples across Akola district, including fort, urban, and taluka locations.",
+                        "architecture":  "Temple forms range from heritage stone sanctums and fort temples to modern neighborhood mandirs and mixed complexes.",
+                        "darshan":  "Daily worship is maintained by local communities with stronger attendance on Mondays and festival periods.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance windows.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Akola district",
+                                            "url":  "https://en.wikipedia.org/wiki/Akola_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Mahakali Mandir Shiva Shrine (Mothi Umri)",
+    "state":  "Maharashtra",
+    "city":  "Mothi Umri",
+    "region":  "Mothi Umri, Akola district",
+    "tags":  [
+                 "Mahakali Shiva Shrine",
+                 "Mothi Umri",
+                 "Shiva"
+             ],
+    "story":  "A Shiva shrine within the Mahakali temple complex, representing a local Shiva-Shakti devotional interface.",
+    "highlight":  "Mothi Umri Shiva shrine in a Shakti-centered complex.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (within Mahakali complex)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T22:20:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These entries map major and neighborhood-level Shiva temples across Akola district, including fort, urban, and taluka locations.",
+                        "architecture":  "Temple forms range from heritage stone sanctums and fort temples to modern neighborhood mandirs and mixed complexes.",
+                        "darshan":  "Daily worship is maintained by local communities with stronger attendance on Mondays and festival periods.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance windows.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Akola district",
+                                            "url":  "https://en.wikipedia.org/wiki/Akola_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Jageshwar Devsthan Mandir (Shivaji Nagar)",
+    "state":  "Maharashtra",
+    "city":  "Akola",
+    "region":  "Shivaji Nagar, Akola district",
+    "tags":  [
+                 "Jageshwar Devsthan",
+                 "Akola",
+                 "Shiva"
+             ],
+    "story":  "A historic urban temple near Dagdi Pul with established local devotional continuity.",
+    "highlight":  "Shivaji Nagar Jageshwar urban Shaiva node.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Jageshwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T22:20:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These entries map major and neighborhood-level Shiva temples across Akola district, including fort, urban, and taluka locations.",
+                        "architecture":  "Temple forms range from heritage stone sanctums and fort temples to modern neighborhood mandirs and mixed complexes.",
+                        "darshan":  "Daily worship is maintained by local communities with stronger attendance on Mondays and festival periods.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance windows.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Akola district",
+                                            "url":  "https://en.wikipedia.org/wiki/Akola_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Shree Shiv Mandir (Khadki)",
+    "state":  "Maharashtra",
+    "city":  "Khadki",
+    "region":  "Khadki, Mangrulpir Road belt, Akola district",
+    "tags":  [
+                 "Shree Shiv Mandir",
+                 "Khadki",
+                 "Shiva"
+             ],
+    "story":  "A neighborhood Shiva temple in Khadki serving local darshan and routine puja cycles.",
+    "highlight":  "Khadki community Shiva mandir.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T22:20:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These entries map major and neighborhood-level Shiva temples across Akola district, including fort, urban, and taluka locations.",
+                        "architecture":  "Temple forms range from heritage stone sanctums and fort temples to modern neighborhood mandirs and mixed complexes.",
+                        "darshan":  "Daily worship is maintained by local communities with stronger attendance on Mondays and festival periods.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance windows.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Akola district",
+                                            "url":  "https://en.wikipedia.org/wiki/Akola_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+},
+{
+    "name":  "Chaitanyashwar Shiv Mandir (Samata Colony)",
+    "state":  "Maharashtra",
+    "city":  "Akola",
+    "region":  "Samata Colony, Akola district",
+    "tags":  [
+                 "Chaitanyashwar Shiv Mandir",
+                 "Akola",
+                 "Shiva"
+             ],
+    "story":  "A verified Shiva shrine in Samata Colony with steady local participation in Shaiva rituals.",
+    "highlight":  "Samata Colony Chaitanyashwar local worship center.",
+    "image":  "/temples/temple-04.svg",
+    "credit":  "",
+    "creditUrl":  "/temples/temple-04.svg",
+    "deity":  "Shiva (Chaitanyashwar)",
+    "tradition":  "Shaiva",
+    "addedAt":  "2026-02-27T22:20:00+05:30",
+    "bestTime":  "Morning darshan and Mondays.",
+    "timings":  "Open daily; local timings vary.",
+    "dressCode":  "Modest attire recommended.",
+    "entryNotes":  "Confirm exact locality and puja timings before travel.",
+    "rituals":  [
+                    "Abhishekam",
+                    "Aarti"
+                ],
+    "festivals":  [
+                      "Mahashivratri",
+                      "Shravan month"
+                  ],
+    "moreDetails":  {
+                        "history":  "These entries map major and neighborhood-level Shiva temples across Akola district, including fort, urban, and taluka locations.",
+                        "architecture":  "Temple forms range from heritage stone sanctums and fort temples to modern neighborhood mandirs and mixed complexes.",
+                        "darshan":  "Daily worship is maintained by local communities with stronger attendance on Mondays and festival periods.",
+                        "seasonal":  "Shravan and Mahashivratri are the highest-footfall observance windows.",
+                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
+                        "festivals":  "Mahashivratri and Shravan Somvar are key annual observances.",
+                        "sources":  [
+                                        {
+                                            "label":  "Akola district",
+                                            "url":  "https://en.wikipedia.org/wiki/Akola_district",
+                                            "type":  "Encyclopedia"
+                                        }
+                                    ]
+                    }
+}
 ];
+

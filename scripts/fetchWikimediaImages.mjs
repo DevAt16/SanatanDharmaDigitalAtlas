@@ -55,6 +55,40 @@ const BAD_FILE_HINTS = new Set([
   'emblem',
 ])
 
+const TEMPLE_HINTS = new Set([
+  'temple',
+  'mandir',
+  'mahadev',
+  'shiva',
+  'shiv',
+  'linga',
+  'lingam',
+  'devasthana',
+  'kshetra',
+  'gudi',
+])
+
+const SHAIVA_HINTS = new Set([
+  'shiva',
+  'shiv',
+  'mahadev',
+  'linga',
+  'lingam',
+  'nageshwar',
+  'somnath',
+  'kedareshwar',
+  'kedareswara',
+  'bhuteshwar',
+  'bhojeshwar',
+  'omkareshwar',
+  'trilokeshwar',
+  'vishwanath',
+  'viswanath',
+  'eshwar',
+  'ishwar',
+  'nath',
+])
+
 const STOPWORDS = new Set([
   'temple',
   'mandir',
@@ -107,6 +141,52 @@ const LOCATION_STOPWORDS = new Set([
   'colony',
   'near',
   'ghat',
+  'old',
+])
+
+const GENERIC_STATE_PARTS = new Set([
+  'pradesh',
+  'state',
+  'union',
+  'territory',
+  'and',
+  'the',
+  'of',
+])
+
+const INDIAN_STATE_MARKERS = new Set([
+  'andhra',
+  'arunachal',
+  'assam',
+  'bihar',
+  'chhattisgarh',
+  'goa',
+  'gujarat',
+  'haryana',
+  'himachal',
+  'jharkhand',
+  'karnataka',
+  'kerala',
+  'madhya',
+  'maharashtra',
+  'manipur',
+  'meghalaya',
+  'mizoram',
+  'nagaland',
+  'odisha',
+  'punjab',
+  'rajasthan',
+  'sikkim',
+  'tamil',
+  'telangana',
+  'tripura',
+  'uttar',
+  'uttarakhand',
+  'bengal',
+  'delhi',
+  'jammu',
+  'kashmir',
+  'ladakh',
 ])
 
 const templeFiles = fs
@@ -131,22 +211,33 @@ const cleanTempleName = (name) =>
     .replace(/\s+/g, ' ')
     .trim()
 
+const fullTempleName = (name) =>
+  String(name ?? '')
+    .replace(/[\u2013\u2014]/g, '-')
+    .replace(/[()]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+
 const toNameTokens = (name) =>
-  normalizeTokens(cleanTempleName(name)).filter(
+  normalizeTokens(fullTempleName(name)).filter(
     (token) => token.length >= 3 && !STOPWORDS.has(token)
   )
 
 const toLocationTokens = (temple) => {
-  const regionChunk = String(temple?.region ?? '').split(',').slice(0, 2).join(' ')
-  const raw = `${temple?.city ?? ''} ${temple?.district ?? ''} ${regionChunk} ${temple?.state ?? ''}`
+  const raw = `${temple?.city ?? ''} ${temple?.district ?? ''} ${temple?.state ?? ''}`
   return normalizeTokens(raw).filter(
     (token) => token.length >= 3 && !LOCATION_STOPWORDS.has(token) && !STOPWORDS.has(token)
   )
 }
 
+const toStateTokens = (state) =>
+  normalizeTokens(state).filter(
+    (token) => token.length >= 4 && !GENERIC_STATE_PARTS.has(token)
+  )
+
 const buildPrimaryPhrase = (name) => {
-  const parts = normalizeTokens(cleanTempleName(name)).filter((token) => !STOPWORDS.has(token))
-  return parts.slice(0, 5).join(' ')
+  const parts = normalizeTokens(fullTempleName(name)).filter((token) => !STOPWORDS.has(token))
+  return parts.slice(0, 4).join(' ')
 }
 
 const isDefaultTempleSvg = (imageUrl) => DEFAULT_SVG_RE.test(String(imageUrl || '').trim())
@@ -210,14 +301,38 @@ const scoreCandidate = (candidate, context) => {
   }
   if (badHits >= 2) return null
 
+  let templeHints = 0
+  for (const hint of TEMPLE_HINTS) {
+    if (titleTokens.has(hint)) templeHints += 1
+  }
+  if (templeHints === 0) return null
+
+  let shaivaHints = 0
+  for (const hint of SHAIVA_HINTS) {
+    if (titleTokens.has(hint)) shaivaHints += 1
+  }
+
   let matchedName = 0
   for (const token of context.nameTokens) {
     if (titleTokens.has(token)) matchedName += 1
   }
 
+  let matchedDistinctive = 0
+  for (const token of context.distinctiveNameTokens) {
+    if (titleTokens.has(token)) matchedDistinctive += 1
+  }
+
+  if (shaivaHints === 0 && matchedDistinctive === 0) return null
+
   let matchedLocation = 0
   for (const token of context.locationTokens) {
     if (titleTokens.has(token)) matchedLocation += 1
+  }
+
+  const candidateStateMarkers = [...titleTokens].filter((token) => INDIAN_STATE_MARKERS.has(token))
+  if (candidateStateMarkers.length > 0 && context.stateTokens.length > 0) {
+    const stateOverlap = candidateStateMarkers.some((token) => context.stateTokens.includes(token))
+    if (!stateOverlap) return null
   }
 
   const phraseBonus =
@@ -227,11 +342,17 @@ const scoreCandidate = (candidate, context) => {
         : 0
       : 0
 
-  const minNameMatches = context.nameTokens.length >= 4 ? 2 : 1
+  const minNameMatches = context.nameTokens.length >= 5 ? 2 : 1
   if (matchedName < minNameMatches && phraseBonus === 0) return null
 
+  // Avoid cross-city false positives for common temple names.
+  // Prefer locality overlap, but allow strong name matches.
+  if (context.locationTokens.length > 0 && matchedLocation === 0 && matchedName < 3 && phraseBonus === 0) {
+    return null
+  }
+
   const score = matchedName * 4 + matchedLocation * 2 + phraseBonus - badHits * 2
-  if (score < 8) return null
+  if (score < 6) return null
 
   return {
     score,
@@ -242,24 +363,40 @@ const scoreCandidate = (candidate, context) => {
 }
 
 const buildQueries = (temple) => {
+  const nameWithLocality = fullTempleName(temple?.name)
   const name = cleanTempleName(temple?.name)
+  const significantTokens = toNameTokens(temple?.name)
+  const significantName = significantTokens.slice(0, 4).join(' ')
+  const keyToken = significantTokens[0] || ''
   const city = String(temple?.city || '').trim()
   const district = String(temple?.district || '').trim()
   const state = String(temple?.state || '').trim()
   const location = district || city
+  const hasTempleWord = /\b(temple|mandir|mahadev|shiva|shiv)\b/i.test(nameWithLocality)
+  const suffix = hasTempleWord ? '' : ' temple'
   return unique([
-    `${name} ${location} ${state} temple`.trim(),
+    `${nameWithLocality} ${location} ${state}${suffix}`.trim(),
+    `${nameWithLocality} ${location}`.trim(),
+    `${name} ${location} ${state}${suffix}`.trim(),
     `${name} ${location}`.trim(),
-    `${name} ${state}`.trim(),
-    `${name} temple`.trim(),
+    `${name} ${state}${suffix}`.trim(),
+    `${name}${suffix}`.trim(),
+    significantName ? `${significantName} ${location} ${state}`.trim() : '',
+    significantName ? `${significantName}${suffix} ${location} ${state}`.trim() : '',
+    keyToken ? `${keyToken} temple ${city || location} ${state}`.trim() : '',
+    keyToken ? `${keyToken} temple ${district || city} ${state}`.trim() : '',
   ])
 }
 
 const findBestCommonsImage = async (temple) => {
+  const locationTokens = toLocationTokens(temple)
+  const nameTokens = toNameTokens(temple?.name)
   const context = {
-    nameTokens: toNameTokens(temple?.name),
-    locationTokens: toLocationTokens(temple),
+    nameTokens,
+    distinctiveNameTokens: nameTokens.filter((token) => !locationTokens.includes(token)),
+    locationTokens,
     primaryPhrase: buildPrimaryPhrase(temple?.name),
+    stateTokens: toStateTokens(temple?.state),
   }
   if (!context.nameTokens.length) return null
 

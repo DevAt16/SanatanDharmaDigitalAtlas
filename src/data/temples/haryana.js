@@ -3918,6 +3918,467 @@ export const haryanaTemples = [
     }
   },
   {
+    "name": "Pracheen Shiv Mandir",
+    "state": "Haryana",
+    "city": "Gurugram",
+    "region": "Gurugram district",
+    "tags": [
+      "Shaiva",
+      "Community Shrine",
+      "Pending Verification"
+    ],
+    "story": "Pracheen Shiv Mandir is a Shiva worship site in Gurugram district, included in the expanding Haryana Shaiva catalog.",
+    "highlight": "Historic-style local Shiva darshan point in Gurugram (verification in progress).",
+    "image": null,
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T23:05:00+05:30",
+    "bestTime": "Mahashivratri / Shravan.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Jalabhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship continuity is noted; deeper archival verification is pending.",
+      "architecture": "Regional shrine architecture; specific structural details pending field verification.",
+      "darshan": "Regular neighborhood-level Shiva worship.",
+      "seasonal": "Footfall generally rises in Shravan and during Shivratri.",
+      "visitorNotes": "Please verify latest access/timing details locally before travel.",
+      "festivals": "Mahashivratri and Shravan observances.",
+      "sources": [
+        {
+          "label": "Gurugram District Portal",
+          "url": "https://gurugram.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Radha Krishan Mandir and Prachin Shiv Mandir (Chakkarpur)",
+    "state": "Haryana",
+    "city": "Gurugram",
+    "region": "Chakkarpur, Gurugram district",
+    "tags": [
+      "Shaiva",
+      "Community Shrine",
+      "Pending Verification"
+    ],
+    "story": "This Chakkarpur temple complex includes an active Prachin Shiv Mandir node in Gurugram district.",
+    "highlight": "Dual-temple complex with local Shiva worship continuity in Chakkarpur.",
+    "image": null,
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T23:05:01+05:30",
+    "bestTime": "Mahashivratri / Shravan.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Confirm exact Chakkarpur locality and temple timings before travel.",
+    "rituals": [
+      "Jalabhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Recognized in local devotional usage; detailed historical layering remains under verification.",
+      "architecture": "Community temple-complex architecture with integrated Shaiva worship space.",
+      "darshan": "Regular local darshan with weekly worship traffic.",
+      "seasonal": "Higher turnout expected during key Shaiva observance windows.",
+      "visitorNotes": "Please verify access and schedule before planning visit.",
+      "festivals": "Mahashivratri and Shravan observances.",
+      "sources": [
+        {
+          "label": "Gurugram District Portal",
+          "url": "https://gurugram.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ancient Shiv Temple (Carterpuri)",
+    "state": "Haryana",
+    "city": "Carterpuri",
+    "region": "Carterpuri, Gurugram district",
+    "tags": [
+      "Shaiva",
+      "Community Shrine",
+      "Pending Verification"
+    ],
+    "story": "Ancient Shiv Temple in Carterpuri is included as a Gurugram district Shaiva worship node.",
+    "highlight": "Carterpuri's local ancient-style Shiva worship point (verification in progress).",
+    "image": null,
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T23:05:02+05:30",
+    "bestTime": "Mahashivratri / Shravan.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Confirm exact Carterpuri route and temple timings before travel.",
+    "rituals": [
+      "Jalabhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva association is documented in community usage; deeper provenance is pending verification.",
+      "architecture": "Regional temple profile, with detailed documentation to be updated.",
+      "darshan": "Regular local darshan.",
+      "seasonal": "Festival periods usually see increased attendance.",
+      "visitorNotes": "Verify local accessibility and darshan hours before travel.",
+      "festivals": "Mahashivratri and Shravan observances.",
+      "sources": [
+        {
+          "label": "Gurugram District Portal",
+          "url": "https://gurugram.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Prachin Shiv Shakti Temple",
+    "state": "Haryana",
+    "city": "Gurugram",
+    "region": "Gurugram district",
+    "tags": [
+      "Shaiva",
+      "Shiva-Shakti",
+      "Pending Verification"
+    ],
+    "story": "Prachin Shiv Shakti Temple is a Gurugram Shaiva-Shakta worship point with an active Shiva node.",
+    "highlight": "Local Shiva-Shakti temple continuity in Gurugram (verification in progress).",
+    "image": null,
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva",
+    "tradition": "Shaiva-Shakta",
+    "addedAt": "2026-02-26T23:05:03+05:30",
+    "bestTime": "Mahashivratri / Shravan / Navratri.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Jalabhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays",
+      "Navratri"
+    ],
+    "moreDetails": {
+      "history": "Local devotional continuity is noted; detailed historic documentation is pending.",
+      "architecture": "Community temple architecture with dual Shiva-Shakti worship focus.",
+      "darshan": "Active local darshan and routine puja.",
+      "seasonal": "Festival periods attract larger neighborhood participation.",
+      "visitorNotes": "Please verify timing and route before travel.",
+      "festivals": "Mahashivratri, Shravan, and Navratri observances.",
+      "sources": [
+        {
+          "label": "Gurugram District Portal",
+          "url": "https://gurugram.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiv Murti",
+    "state": "Haryana",
+    "city": "Gurugram",
+    "region": "Gurugram district",
+    "tags": [
+      "Shaiva",
+      "Landmark",
+      "Pending Verification"
+    ],
+    "story": "Shiv Murti is a notable Gurugram-area Shiva devotional landmark and worship point.",
+    "highlight": "Landmark Shiva worship node in the Gurugram urban corridor.",
+    "image": null,
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T23:05:04+05:30",
+    "bestTime": "Mahashivratri / Shravan.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Confirm current access conditions and timings before visit.",
+    "rituals": [
+      "Jalabhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Included in regional Shaiva devotional references; detailed archival notes are pending verification.",
+      "architecture": "Landmark-oriented devotional structure with Shiva iconography.",
+      "darshan": "Regular visitor and devotee flow.",
+      "seasonal": "Higher attendance on major Shaiva dates.",
+      "visitorNotes": "Use local traffic updates while planning visit windows.",
+      "festivals": "Mahashivratri and Shravan observances.",
+      "sources": [
+        {
+          "label": "Gurugram District Portal",
+          "url": "https://gurugram.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shiv Mandir (Sector 5)",
+    "state": "Haryana",
+    "city": "Gurugram",
+    "region": "Sector 5, Gurugram district",
+    "tags": [
+      "Shaiva",
+      "Community Shrine",
+      "Pending Verification"
+    ],
+    "story": "Shiv Mandir in Sector 5 is a neighborhood Shiva worship site in Gurugram district.",
+    "highlight": "Sector 5 community-level Shiva darshan node.",
+    "image": null,
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T23:05:05+05:30",
+    "bestTime": "Mahashivratri / Shravan.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Confirm exact Sector 5 locality and timings before travel.",
+    "rituals": [
+      "Jalabhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Documented in local devotional circulation; archival depth is pending verification.",
+      "architecture": "Neighborhood temple profile with active daily worship.",
+      "darshan": "Regular local darshan and puja flow.",
+      "seasonal": "Footfall usually rises on Mondays and festival days.",
+      "visitorNotes": "Please verify latest timing schedule before visit.",
+      "festivals": "Mahashivratri and Shravan observances.",
+      "sources": [
+        {
+          "label": "Gurugram District Portal",
+          "url": "https://gurugram.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Shiv Narayan Sidheshwar Mandir",
+    "state": "Haryana",
+    "city": "Gurugram",
+    "region": "Gurugram district",
+    "tags": [
+      "Shaiva",
+      "Community Shrine",
+      "Pending Verification"
+    ],
+    "story": "Shri Shiv Narayan Sidheshwar Mandir is a Shiva worship site in Gurugram district.",
+    "highlight": "Sidheshwar-linked Shiva darshan point in Gurugram.",
+    "image": null,
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T23:05:06+05:30",
+    "bestTime": "Mahashivratri / Shravan.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Jalabhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Local worship continuity is noted, while deeper archival documentation remains pending.",
+      "architecture": "Regional shrine architecture with active neighborhood devotional use.",
+      "darshan": "Regular darshan and puja participation.",
+      "seasonal": "Festival turnout generally peaks during Shravan and Shivratri.",
+      "visitorNotes": "Please verify current access and timing details before travel.",
+      "festivals": "Mahashivratri and Shravan observances.",
+      "sources": [
+        {
+          "label": "Gurugram District Portal",
+          "url": "https://gurugram.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sector 46 Shiv Mandir",
+    "state": "Haryana",
+    "city": "Gurugram",
+    "region": "Sector 46, Gurugram district",
+    "tags": [
+      "Shaiva",
+      "Community Shrine",
+      "Pending Verification"
+    ],
+    "story": "Sector 46 Shiv Mandir is a local Shiva worship site in Gurugram district.",
+    "highlight": "Sector 46 neighborhood Shiva darshan point.",
+    "image": null,
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T23:05:07+05:30",
+    "bestTime": "Mahashivratri / Shravan.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Confirm exact Sector 46 location and temple timings before travel.",
+    "rituals": [
+      "Jalabhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Local devotional presence is recognized; deeper verification is in progress.",
+      "architecture": "Neighborhood shrine architecture with regular worship activity.",
+      "darshan": "Steady local darshan flow.",
+      "seasonal": "Mondays and festival cycles are typically busier.",
+      "visitorNotes": "Please verify latest schedule before visiting.",
+      "festivals": "Mahashivratri and Shravan observances.",
+      "sources": [
+        {
+          "label": "Gurugram District Portal",
+          "url": "https://gurugram.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tripundeshwar Mahadev Temple",
+    "state": "Haryana",
+    "city": "Gurugram",
+    "region": "Gurugram district",
+    "tags": [
+      "Shaiva",
+      "Community Shrine",
+      "Pending Verification"
+    ],
+    "story": "Tripundeshwar Mahadev Temple is a Shiva worship site in Gurugram district.",
+    "highlight": "Tripundeshwar Mahadev darshan in the Gurugram Shaiva circuit.",
+    "image": null,
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T23:05:08+05:30",
+    "bestTime": "Mahashivratri / Shravan.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Jalabhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva devotional circulation, with detailed archival references pending.",
+      "architecture": "Regional shrine architecture with active local worship.",
+      "darshan": "Regular worship with periodic festival crowd increases.",
+      "seasonal": "Highest attendance generally during major Shaiva observances.",
+      "visitorNotes": "Verify local route and timing updates before travel.",
+      "festivals": "Mahashivratri and Shravan observances.",
+      "sources": [
+        {
+          "label": "Gurugram District Portal",
+          "url": "https://gurugram.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Shri Mahakaleshwar Shiv Temple",
+    "state": "Haryana",
+    "city": "Gurugram",
+    "region": "Gurugram district",
+    "tags": [
+      "Shaiva",
+      "Community Shrine",
+      "Pending Verification"
+    ],
+    "story": "Shri Mahakaleshwar Shiv Temple is a Shiva worship site in Gurugram district.",
+    "highlight": "Mahakaleshwar-form Shiva darshan in Gurugram.",
+    "image": null,
+    "credit": "",
+    "creditUrl": "",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-26T23:05:09+05:30",
+    "bestTime": "Mahashivratri / Shravan.",
+    "timings": "Open daily.",
+    "dressCode": "Modest attire preferred.",
+    "entryNotes": "Confirm exact locality and temple timings before travel.",
+    "rituals": [
+      "Jalabhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Mondays"
+    ],
+    "moreDetails": {
+      "history": "Local Shaiva worship continuity is noted; deeper documentation remains under compilation.",
+      "architecture": "Community temple architecture with ongoing devotional practices.",
+      "darshan": "Regular local worship with increased festival footfall.",
+      "seasonal": "Shravan and Shivratri are peak visitation periods.",
+      "visitorNotes": "Please verify current access/timing details before planning travel.",
+      "festivals": "Mahashivratri and Shravan observances.",
+      "sources": [
+        {
+          "label": "Gurugram District Portal",
+          "url": "https://gurugram.gov.in/tourist-place/",
+          "type": "Government"
+        }
+      ]
+    }
+  },
+  {
     "name": "Bhadrakali Temple Shiva Node",
     "state": "Haryana",
     "city": "Kurukshetra",

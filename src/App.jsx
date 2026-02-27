@@ -877,7 +877,12 @@ function App() {
     return base
   }, [themedTemples, activeStates, showSavedOnly, savedTemples])
 
-  const states = useMemo(() => [ALL_STATES, ...activeStates], [activeStates])
+  const states = useMemo(() => {
+    const sorted = [...activeStates].sort((a, b) =>
+      a.localeCompare(b, language === 'hi' ? 'hi-IN' : 'en-IN')
+    )
+    return [ALL_STATES, ...sorted]
+  }, [activeStates, language])
 
   const statTemples = useMemo(() => visibleTemples, [visibleTemples])
 
@@ -962,10 +967,9 @@ function App() {
   )
 
   const cities = useMemo(() => {
+    const locale = language === 'hi' ? 'hi-IN' : 'en-IN'
     if (useServerData) {
-      const sorted = [...apiCities].sort((a, b) =>
-        a.localeCompare(b, language === 'hi' ? 'hi-IN' : 'en-IN')
-      )
+      const sorted = [...apiCities].sort((a, b) => a.localeCompare(b, locale))
       return [ALL_CITIES, ...sorted]
     }
     const pool =
@@ -973,7 +977,7 @@ function App() {
         ? visibleTemples
         : visibleTemples.filter((item) => item.state === selectedState)
     const unique = Array.from(new Set(pool.map((item) => item.city).filter(Boolean))).sort((a, b) =>
-      a.localeCompare(b, language === 'hi' ? 'hi-IN' : 'en-IN')
+      a.localeCompare(b, locale)
     )
     return [ALL_CITIES, ...unique]
   }, [selectedState, visibleTemples, language, useServerData, apiCities])
