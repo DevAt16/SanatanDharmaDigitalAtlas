@@ -1,4 +1,4 @@
-﻿export const uttarPradeshTemples = [
+export const uttarPradeshTemples = [
   {
     "name": "Shri Kashi Vishwanath Jyotirlinga",
     "state": "Uttar Pradesh",
@@ -10400,2765 +10400,21348 @@
     "verificationStatus": "pending",
     "lastVerifiedAt": null
   },
-{
-    "name":  "Siddheshwar Mahadev Mandir (Old Market / Neverna)",
-    "state":  "Uttar Pradesh",
-    "city":  "Unnao",
-    "region":  "Old Market / Neverna, Unnao district",
-    "tags":  [
-                 "Siddheshwar Mahadev",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A historic local Siddheshwar temple in the old market belt, sustained by daily worship and Monday observances.",
-    "highlight":  "Old-market Siddheshwar anchor in urban Unnao.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Siddheshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Bilveshwar Mahadev Mandir (Bhadnag / Bharti Garhi)",
-    "state":  "Uttar Pradesh",
-    "city":  "Bhadnag",
-    "region":  "Bhadnag / Bharti Garhi, Unnao district",
-    "tags":  [
-                 "Bilveshwar Mahadev",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A traditional Bilveshwar shrine in the Bhadnag-Bharti Garhi belt with rooted village devotion.",
-    "highlight":  "Bilveshwar rural Shaiva node of central Unnao.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Bilveshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Gokul Baba Temple (Magarwara)",
-    "state":  "Uttar Pradesh",
-    "city":  "Magarwara",
-    "region":  "Magarwara, Unnao district",
-    "tags":  [
-                 "Gokul Baba Temple",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A prominent Magarwara temple complex with an active Shiva worship stream in local ritual practice.",
-    "highlight":  "Magarwara devotional hub with Shaiva continuity.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva-linked local tradition",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shri Shri Jungleshwar Harihar Shakti Peeth Dham (Shivpur Grant)",
-    "state":  "Uttar Pradesh",
-    "city":  "Shivpur Grant",
-    "region":  "Shivpur Grant, Unnao district",
-    "tags":  [
-                 "Jungleshwar Harihar Dham",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A large local dham combining Harihar-Shakti devotional elements with a dedicated Shiva-centered sanctum.",
-    "highlight":  "Major Shivpur Grant multi-tradition Shaiva-Shakti node.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Jungleshwar / Harihar tradition)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Balkhandeshwar Mandir (Pariyar)",
-    "state":  "Uttar Pradesh",
-    "city":  "Pariyar",
-    "region":  "Pariyar, Unnao district",
-    "tags":  [
-                 "Balkhandeshwar Mandir",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A Pariyar Shaiva shrine preserved through local pilgrimage and recurring seasonal worship cycles.",
-    "highlight":  "Pariyar Balkhandeshwar rural anchor.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Balkhandeshwar)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Triambkeshwar Shiv Mandir (Kabba Khera)",
-    "state":  "Uttar Pradesh",
-    "city":  "Kabba Khera",
-    "region":  "Kabba Khera, Unnao district",
-    "tags":  [
-                 "Triambkeshwar Shiv Mandir",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A village-level Triambkeshwar Shiva temple in Kabba Khera with stable local participation.",
-    "highlight":  "Kabba Khera Triambkeshwar darshan point.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Triambkeshwar)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shri Rameshwar Mahadev Mandir (Chaudrana / Jagannath Ganj)",
-    "state":  "Uttar Pradesh",
-    "city":  "Chaudrana",
-    "region":  "Chaudrana / Jagannath Ganj, Unnao district",
-    "tags":  [
-                 "Rameshwar Mahadev",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A Rameshwar Mahadev shrine in the Chaudrana-Jagannath Ganj corridor with steady puja tradition.",
-    "highlight":  "Chaudrana Rameshwar regional Shaiva center.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Rameshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Kalyaneshwar Mahadev Mandir (Kalyani)",
-    "state":  "Uttar Pradesh",
-    "city":  "Kalyani",
-    "region":  "Kalyani, Unnao district",
-    "tags":  [
-                 "Kalyaneshwar Mahadev",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A Kalyani temple dedicated to Kalyaneshwar Mahadev, maintained as a local devotional stabilizer.",
-    "highlight":  "Kalyani Kalyaneshwar Mahadev node.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Kalyaneshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shree Narmadeshwar Mahadev Mandir (Kalyani)",
-    "state":  "Uttar Pradesh",
-    "city":  "Kalyani",
-    "region":  "Kalyani, Unnao district",
-    "tags":  [
-                 "Narmadeshwar Mahadev",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A Narmadeshwar-focused Shiva shrine in Kalyani with active daily worship and Monday crowds.",
-    "highlight":  "Kalyani Narmadeshwar Shaiva anchor.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Narmadeshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Peepleshwar Mahadev Mandir (Jajmau Bridge)",
-    "state":  "Uttar Pradesh",
-    "city":  "Unnao",
-    "region":  "Jajmau Bridge corridor, Unnao district",
-    "tags":  [
-                 "Peepleshwar Mahadev",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A bridge-corridor Mahadev shrine known for accessible urban-edge darshan and regular abhishek.",
-    "highlight":  "Jajmau-bridge Peepleshwar worship point.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Peepleshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Moteswar Mahadev Temple (Safipur / Maurawan)",
-    "state":  "Uttar Pradesh",
-    "city":  "Safipur",
-    "region":  "Safipur / Maurawan, Unnao district",
-    "tags":  [
-                 "Moteswar Mahadev",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A prominent Mahadev temple in the Safipur-Maurawan sector with recurring district-level devotion.",
-    "highlight":  "Safipur-Maurawan Moteswar temple anchor.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Moteswar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Girjeshwar Mahadev Temple (Chaudrana)",
-    "state":  "Uttar Pradesh",
-    "city":  "Chaudrana",
-    "region":  "Chaudrana, Unnao district",
-    "tags":  [
-                 "Girjeshwar Mahadev",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A traditional Girjeshwar shrine in Chaudrana serving nearby settlements through daily puja.",
-    "highlight":  "Chaudrana Girjeshwar rural Shaiva node.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Girjeshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Sahastra Lingeshwar Shiv Mandir (Takiya)",
-    "state":  "Uttar Pradesh",
-    "city":  "Takiya",
-    "region":  "Takiya, Unnao district",
-    "tags":  [
-                 "Sahastra Lingeshwar",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A Sahastra-Lingeshwar temple in Takiya reflecting multi-linga symbolism within local Shaiva practice.",
-    "highlight":  "Takiya Sahastra-Lingeshwar specialty shrine.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Sahastra Lingeshwar)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shri Shankareshwar Mahadev Mandir (Narendra Nagar)",
-    "state":  "Uttar Pradesh",
-    "city":  "Unnao",
-    "region":  "Narendra Nagar, Unnao district",
-    "tags":  [
-                 "Shankareshwar Mahadev",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A neighborhood Shankareshwar Mahadev mandir in Narendra Nagar with steady local darshan.",
-    "highlight":  "Narendra Nagar Shankareshwar urban node.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Shankareshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shri Jilleshwar Mahadev Temple (Unnao)",
-    "state":  "Uttar Pradesh",
-    "city":  "Unnao",
-    "region":  "Unnao district",
-    "tags":  [
-                 "Jilleshwar Mahadev",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A district-level Jilleshwar Mahadev shrine serving broad local devotional traffic.",
-    "highlight":  "Jilleshwar Mahadev city-level stabilizer.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Jilleshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Lord Shiva Temple (Narendra Nagar / Sharda Nahar)",
-    "state":  "Uttar Pradesh",
-    "city":  "Unnao",
-    "region":  "Narendra Nagar / Sharda Nahar, Unnao district",
-    "tags":  [
-                 "Lord Shiva Temple",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A Sharda Nahar-side Shiva temple integrated into the Narendra Nagar local worship circuit.",
-    "highlight":  "Canal-corridor Shiva shrine in Narendra Nagar.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Sri Baba Pasupati Nath Mahadev (Jawahar Nagar)",
-    "state":  "Uttar Pradesh",
-    "city":  "Unnao",
-    "region":  "Jawahar Nagar, Unnao district",
-    "tags":  [
-                 "Pasupati Nath Mahadev",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A Jawahar Nagar shrine dedicated to Baba Pasupati Nath Mahadev with active community devotion.",
-    "highlight":  "Jawahar Nagar Pashupati-Nath Shaiva point.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Pashupati Nath)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Harihareshwar Mahadev Temple (Jurakhan Khera)",
-    "state":  "Uttar Pradesh",
-    "city":  "Jurakhan Khera",
-    "region":  "Jurakhan Khera, Unnao district",
-    "tags":  [
-                 "Harihareshwar Mahadev",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A Jurakhan Khera Harihareshwar temple representing Shiva-Hari synthesis in local devotional practice.",
-    "highlight":  "Jurakhan Khera Harihareshwar rural anchor.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Harihareshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shri Hardeveshwar Mahadev Mandir (Bichhiya)",
-    "state":  "Uttar Pradesh",
-    "city":  "Bichhiya",
-    "region":  "Bichhiya, Unnao district",
-    "tags":  [
-                 "Hardeveshwar Mahadev",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A Bichhiya Mahadev temple preserved through village-level puja traditions and festival participation.",
-    "highlight":  "Bichhiya Hardeveshwar village shrine.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Hardeveshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Bhole Nath Mandir Muslawa (Auras Road)",
-    "state":  "Uttar Pradesh",
-    "city":  "Unnao",
-    "region":  "Auras Road / Muslawa, Unnao district",
-    "tags":  [
-                 "Bhole Nath Mandir",
-                 "Unnao",
-                 "Shiva"
-             ],
-    "story":  "A roadside Bhole Nath temple on the Auras corridor with regular local abhishek and aarti.",
-    "highlight":  "Auras-road Bhole Nath darshan stop.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Bhole Nath)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:35:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
-                        "architecture":  "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Unnao district",
-                                            "url":  "https://en.wikipedia.org/wiki/Unnao_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Unnao",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Janwarinath Dham Temple (Ghatampur, Lambhua)",
-    "state":  "Uttar Pradesh",
-    "city":  "Lambhua",
-    "region":  "Ghatampur, Lambhua, Sultanpur district",
-    "tags":  [
-                 "Janwarinath Dham",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Janwarinath Dham shrine in the Lambhua belt, sustained by regular local worship and seasonal observance.",
-    "highlight":  "Lambhua Janwarinath Shaiva anchor.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Janwarinath)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Mahadevan Shiv Mandir (Alampur, Ramganj)",
-    "state":  "Uttar Pradesh",
-    "city":  "Ramganj",
-    "region":  "Alampur, Ramganj, Sultanpur district",
-    "tags":  [
-                 "Mahadevan Shiv Mandir",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Ramganj-area Shiva temple in Alampur with stable daily puja tradition.",
-    "highlight":  "Alampur-Ramganj Mahadevan worship point.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Mahadevan)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shivalaya - Shiva Mandir (Parsipur)",
-    "state":  "Uttar Pradesh",
-    "city":  "Parsipur",
-    "region":  "Parsipur, Sultanpur district",
-    "tags":  [
-                 "Shivalaya Parsipur",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Parsipur Shivalaya preserving local Shaiva continuity through daily rituals.",
-    "highlight":  "Parsipur village Shivalaya node.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Satteshwar Mahadev Temple (Jagdishpur)",
-    "state":  "Uttar Pradesh",
-    "city":  "Jagdishpur",
-    "region":  "Jagdishpur, Sultanpur district",
-    "tags":  [
-                 "Satteshwar Mahadev",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Jagdishpur Mahadev shrine maintained as a regional devotional center.",
-    "highlight":  "Jagdishpur Satteshwar Mahadev anchor.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Satteshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Baba Maheshnath Temple (Dhammaur)",
-    "state":  "Uttar Pradesh",
-    "city":  "Dhammaur",
-    "region":  "Dhammaur, Sultanpur district",
-    "tags":  [
-                 "Baba Maheshnath",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Dhammaur temple devoted to Baba Maheshnath with regular community worship.",
-    "highlight":  "Dhammaur Maheshnath local center.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Maheshnath)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Sarveshwar Mahadev Mandir (Beruka Athaisi)",
-    "state":  "Uttar Pradesh",
-    "city":  "Beruka Athaisi",
-    "region":  "Beruka Athaisi, Sultanpur district",
-    "tags":  [
-                 "Sarveshwar Mahadev",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Sarveshwar Mahadev mandir in Beruka Athaisi rooted in local ritual tradition.",
-    "highlight":  "Beruka Athaisi Sarveshwar Shaiva point.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Sarveshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shree Bhuvaneshwarnath Mahadev Mandir (Belwai)",
-    "state":  "Uttar Pradesh",
-    "city":  "Belwai",
-    "region":  "Belwai, Sultanpur district",
-    "tags":  [
-                 "Bhuvaneshwarnath Mahadev",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Belwai Mahadev temple with established daily darshan and festival attendance.",
-    "highlight":  "Belwai Bhuvaneshwarnath temple node.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Bhuvaneshwarnath Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Dandeshwar Temple (Kotwa Pipari)",
-    "state":  "Uttar Pradesh",
-    "city":  "Kotwa Pipari",
-    "region":  "Kotwa Pipari, Sultanpur district",
-    "tags":  [
-                 "Dandeshwar Temple",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Dandeshwar shrine in Kotwa Pipari integrated into local Shaiva worship routes.",
-    "highlight":  "Kotwa Pipari Dandeshwar anchor.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Dandeshwar)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shiv Dham Belwai (Akhandnagar)",
-    "state":  "Uttar Pradesh",
-    "city":  "Akhandnagar",
-    "region":  "Belwai, Akhandnagar, Sultanpur district",
-    "tags":  [
-                 "Shiv Dham Belwai",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Shiv Dham in the Belwai-Akhandnagar sector serving surrounding communities.",
-    "highlight":  "Akhandnagar belt Shiv Dham node.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Gauri Shankar Mahadev Dham (Dewarh)",
-    "state":  "Uttar Pradesh",
-    "city":  "Dewarh",
-    "region":  "Dewarh, Sultanpur district",
-    "tags":  [
-                 "Gauri Shankar Mahadev",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Gauri Shankar Mahadev dham in Dewarh with steady ritual continuity.",
-    "highlight":  "Dewarh Gauri-Shankar Shaiva center.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Gauri Shankar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Diheshwar Mahadev Dham (Bansgaon)",
-    "state":  "Uttar Pradesh",
-    "city":  "Bansgaon",
-    "region":  "Bansgaon, Sultanpur district",
-    "tags":  [
-                 "Diheshwar Mahadev",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Bansgaon Mahadev dham preserved through village-level devotion.",
-    "highlight":  "Bansgaon Diheshwar rural anchor.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Diheshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shiv Baba Mandir Seva Samiti (Saifullaganj)",
-    "state":  "Uttar Pradesh",
-    "city":  "Saifullaganj",
-    "region":  "Saifullaganj, Sultanpur district",
-    "tags":  [
-                 "Shiv Baba Mandir",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A community-managed Shiva shrine in Saifullaganj with regular seva-led worship.",
-    "highlight":  "Saifullaganj seva-based Shiva temple.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Shiv Baba)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Lord Shiva Temple (Jaisinghpur)",
-    "state":  "Uttar Pradesh",
-    "city":  "Jaisinghpur",
-    "region":  "Jaisinghpur, Sultanpur district",
-    "tags":  [
-                 "Lord Shiva Temple",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Jaisinghpur Shiva temple serving as a local devotional anchor in the sub-region.",
-    "highlight":  "Jaisinghpur city-level Shiva node.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shiv Mandir (Dostpur)",
-    "state":  "Uttar Pradesh",
-    "city":  "Dostpur",
-    "region":  "Dostpur, Sultanpur district",
-    "tags":  [
-                 "Shiv Mandir Dostpur",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A neighborhood Shiva mandir in Dostpur with consistent local darshan.",
-    "highlight":  "Dostpur community Shiva shrine.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shiv Mandir Of Pankaj Pathak (Pyarepatti)",
-    "state":  "Uttar Pradesh",
-    "city":  "Pyarepatti",
-    "region":  "Pyarepatti, Sultanpur district",
-    "tags":  [
-                 "Shiv Mandir Pyarepatti",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A local Shiva temple in Pyarepatti maintained through personal and community devotional support.",
-    "highlight":  "Pyarepatti Shiva mandir node.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Rameshwar Shiv Temple (Sewtari, Jaisinghpur)",
-    "state":  "Uttar Pradesh",
-    "city":  "Jaisinghpur",
-    "region":  "Sewtari, Jaisinghpur, Sultanpur district",
-    "tags":  [
-                 "Rameshwar Shiv Temple",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Rameshwar Shiva temple in Sewtari serving Jaisinghpur-area devotees.",
-    "highlight":  "Sewtari Rameshwar Shaiva point.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Rameshwar)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shiv Dham (Payagipur)",
-    "state":  "Uttar Pradesh",
-    "city":  "Payagipur",
-    "region":  "Payagipur, Sultanpur district",
-    "tags":  [
-                 "Shiv Dham Payagipur",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Payagipur Shiv Dham with regular village-to-town devotional flow.",
-    "highlight":  "Payagipur Shiv Dham anchor.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Kishtinagar Shiv Mandir (Islam Pur)",
-    "state":  "Uttar Pradesh",
-    "city":  "Islam Pur",
-    "region":  "Kishtinagar, Islam Pur, Sultanpur district",
-    "tags":  [
-                 "Kishtinagar Shiv Mandir",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Kishtinagar Shiva temple in Islam Pur supporting routine local worship and festivals.",
-    "highlight":  "Islam Pur Kishtinagar Shiva shrine.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Prachin Shiv Mandir Hariharpur (Shivgarh)",
-    "state":  "Uttar Pradesh",
-    "city":  "Shivgarh",
-    "region":  "Hariharpur, Shivgarh, Sultanpur district",
-    "tags":  [
-                 "Prachin Shiv Mandir Hariharpur",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "An old Shiva temple in Hariharpur-Shivgarh retained through long-standing local devotion.",
-    "highlight":  "Shivgarh heritage Shiva mandir.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shiv Mandir Bol Bam (Majhana)",
-    "state":  "Uttar Pradesh",
-    "city":  "Majhana",
-    "region":  "Majhana, Sultanpur district",
-    "tags":  [
-                 "Shiv Mandir Bol Bam",
-                 "Sultanpur",
-                 "Shiva"
-             ],
-    "story":  "A Bol-Bam associated Shiva temple in Majhana active during Shravan and annual festival cycles.",
-    "highlight":  "Majhana Bol-Bam Shaiva center.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T22:50:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These temples extend Sultanpur district\u0027s distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
-                        "architecture":  "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sultanpur district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sultanpur_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sultanpur",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shri Renukeshwar Mahadev Mandir (Renukoot)",
-    "state":  "Uttar Pradesh",
-    "city":  "Renukoot",
-    "region":  "Renukoot, Sonbhadra district",
-    "tags":  [
-                 "Renukeshwar Mahadev",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A major Renukoot Shaiva shrine with steady local darshan and district-wide devotional relevance.",
-    "highlight":  "Renukoot Renukeshwar anchor in Sonbhadra.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Renukeshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shiv Dwaar / Uma Maheshwar Temple (Ghorawal)",
-    "state":  "Uttar Pradesh",
-    "city":  "Ghorawal",
-    "region":  "Ghorawal, Sonbhadra district",
-    "tags":  [
-                 "Shiv Dwaar Uma Maheshwar",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Ghorawal temple associated with Uma-Maheshwar worship and regular local pilgrimage flow.",
-    "highlight":  "Ghorawal Shiv-Dwaar Shaiva-Shakti node.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Uma Maheshwar)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Mangleshwar Mahadev Temple (Chopan)",
-    "state":  "Uttar Pradesh",
-    "city":  "Chopan",
-    "region":  "Chopan, Sonbhadra district",
-    "tags":  [
-                 "Mangleshwar Mahadev",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Chopan Mahadev temple maintained through daily worship and seasonal festival observances.",
-    "highlight":  "Chopan Mangleshwar regional worship center.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Mangleshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Panchmukhi Temple (Churk)",
-    "state":  "Uttar Pradesh",
-    "city":  "Churk",
-    "region":  "Churk, Sonbhadra district",
-    "tags":  [
-                 "Panchmukhi Temple",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Panchmukhi Shiva temple in Churk recognized in local devotional circuits.",
-    "highlight":  "Churk Panchmukhi Shaiva shrine.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Panchmukhi tradition)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Sri Achaleshwar Mahadev Mandir (Dalla)",
-    "state":  "Uttar Pradesh",
-    "city":  "Dalla",
-    "region":  "Dalla, Sonbhadra district",
-    "tags":  [
-                 "Achaleshwar Mahadev",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Dalla-based Achaleshwar Mahadev shrine with continuing community worship.",
-    "highlight":  "Dalla Achaleshwar Mahadev anchor.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Achaleshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Somnath Mandir (Barauli)",
-    "state":  "Uttar Pradesh",
-    "city":  "Barauli",
-    "region":  "Barauli, Sonbhadra district",
-    "tags":  [
-                 "Somnath Mandir",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Somnath-named Shiva temple in Barauli serving nearby settlements.",
-    "highlight":  "Barauli Somnath Shaiva node.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Somnath)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Purana Shiv Mandir (Anpara)",
-    "state":  "Uttar Pradesh",
-    "city":  "Anpara",
-    "region":  "Anpara, Sonbhadra district",
-    "tags":  [
-                 "Purana Shiv Mandir",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "An old Shiva temple in Anpara preserved as a local historical worship point.",
-    "highlight":  "Anpara heritage Shiva shrine.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Kandakot Shiv Temple (Bahuar)",
-    "state":  "Uttar Pradesh",
-    "city":  "Bahuar",
-    "region":  "Bahuar, Sonbhadra district",
-    "tags":  [
-                 "Kandakot Shiv Temple",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Bahuar Shiva temple rooted in village-level devotional continuity.",
-    "highlight":  "Bahuar Kandakot Shiva point.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Gotthani Shiv Mandir (Gupta Kashi, Chopan)",
-    "state":  "Uttar Pradesh",
-    "city":  "Chopan",
-    "region":  "Gupta Kashi belt, Chopan, Sonbhadra district",
-    "tags":  [
-                 "Gotthani Shiv Mandir",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Gupta Kashi-associated Shiva mandir in Chopan with sustained local observance.",
-    "highlight":  "Gupta-Kashi Chopan Shaiva marker.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Mahakaleshwar Shiv Mandir (Kuldomari)",
-    "state":  "Uttar Pradesh",
-    "city":  "Kuldomari",
-    "region":  "Kuldomari, Sonbhadra district",
-    "tags":  [
-                 "Mahakaleshwar Shiv Mandir",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Kuldomari Mahakaleshwar temple with regular abhishek and aarti tradition.",
-    "highlight":  "Kuldomari Mahakaleshwar anchor.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Mahakaleshwar)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Rameshwar Mahadev Temple (Chopan)",
-    "state":  "Uttar Pradesh",
-    "city":  "Chopan",
-    "region":  "Chopan, Sonbhadra district",
-    "tags":  [
-                 "Rameshwar Mahadev",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Rameshwar Mahadev shrine in Chopan with recurring district-level devotional participation.",
-    "highlight":  "Chopan Rameshwar Shaiva center.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Rameshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Someshwar Mahadev Mandir (Shendhuriya)",
-    "state":  "Uttar Pradesh",
-    "city":  "Shendhuriya",
-    "region":  "Shendhuriya, Sonbhadra district",
-    "tags":  [
-                 "Someshwar Mahadev",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Someshwar Mahadev temple in Shendhuriya serving nearby communities.",
-    "highlight":  "Shendhuriya Someshwar village node.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Someshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Kailash Mandir (Chopan)",
-    "state":  "Uttar Pradesh",
-    "city":  "Chopan",
-    "region":  "Chopan, Sonbhadra district",
-    "tags":  [
-                 "Kailash Mandir",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Kailash-named Shiva temple in Chopan with active local worship.",
-    "highlight":  "Chopan Kailash temple point.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Kailash form tradition)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shri Narvadeshvar Mahadev Mandir (Chopan)",
-    "state":  "Uttar Pradesh",
-    "city":  "Chopan",
-    "region":  "Chopan, Sonbhadra district",
-    "tags":  [
-                 "Narvadeshvar Mahadev",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Narvadeshvar Mahadev temple in Chopan integrated into daily puja circuits.",
-    "highlight":  "Chopan Narvadeshvar Shaiva shrine.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Narvadeshvar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Lodhi Mahadev Mandir (Robertsganj)",
-    "state":  "Uttar Pradesh",
-    "city":  "Robertsganj",
-    "region":  "Robertsganj, Sonbhadra district",
-    "tags":  [
-                 "Lodhi Mahadev",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Robertsganj Mahadev temple serving as a local devotional anchor for the township.",
-    "highlight":  "Robertsganj Lodhi Mahadev center.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Lodhi Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shiv Mandir (Ntpc Colony, Shaktinagar)",
-    "state":  "Uttar Pradesh",
-    "city":  "Shaktinagar",
-    "region":  "NTPC Colony, Shaktinagar, Sonbhadra district",
-    "tags":  [
-                 "Shiv Mandir NTPC Colony",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Shaktinagar colony Shiva temple with regular resident participation in worship.",
-    "highlight":  "NTPC-colony Shiva shrine in Shaktinagar.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Bholenath Mandir (Churk Bazar)",
-    "state":  "Uttar Pradesh",
-    "city":  "Churk",
-    "region":  "Churk Bazar, Sonbhadra district",
-    "tags":  [
-                 "Bholenath Mandir",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A market-area Bholenath temple in Churk with steady daily darshan.",
-    "highlight":  "Churk Bazar Bholenath node.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Bholenath)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shri Chandrakeshwar Mahadev Mandir (Ghorawal)",
-    "state":  "Uttar Pradesh",
-    "city":  "Ghorawal",
-    "region":  "Ghorawal, Sonbhadra district",
-    "tags":  [
-                 "Chandrakeshwar Mahadev",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Chandrakeshwar Mahadev temple in Ghorawal with rooted local worship continuity.",
-    "highlight":  "Ghorawal Chandrakeshwar Mahadev anchor.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Chandrakeshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Shri Dwarkeshwar Narmdeshwar Mahadev Mandir (Dudhi)",
-    "state":  "Uttar Pradesh",
-    "city":  "Dudhi",
-    "region":  "Dudhi, Sonbhadra district",
-    "tags":  [
-                 "Dwarkeshwar Narmdeshwar Mahadev",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A Dudhi Mahadev shrine carrying Dwarkeshwar-Narmdeshwar devotional identity.",
-    "highlight":  "Dudhi dual-named Mahadev temple node.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva (Dwarkeshwar Narmdeshwar Mahadev)",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-},
-{
-    "name":  "Sanatan Shiv Mandir (Majhgawan Chauhan)",
-    "state":  "Uttar Pradesh",
-    "city":  "Majhgawan Chauhan",
-    "region":  "Majhgawan Chauhan, Sonbhadra district",
-    "tags":  [
-                 "Sanatan Shiv Mandir",
-                 "Sonbhadra",
-                 "Shiva"
-             ],
-    "story":  "A local Sanatan Shiva temple in Majhgawan Chauhan preserved through regular worship and local support.",
-    "highlight":  "Majhgawan Chauhan Sanatan Shiva anchor.",
-    "image":  "/temples/temple-05.svg",
-    "credit":  "",
-    "creditUrl":  "/temples/temple-05.svg",
-    "deity":  "Shiva",
-    "tradition":  "Shaiva",
-    "addedAt":  "2026-02-27T23:05:00+05:30",
-    "bestTime":  "October to March.",
-    "timings":  "Open daily; local timings vary.",
-    "dressCode":  "Modest attire recommended.",
-    "entryNotes":  "Confirm exact locality and temple timing before travel.",
-    "rituals":  [
-                    "Jal abhishek",
-                    "Aarti"
-                ],
-    "festivals":  [
-                      "Mahashivratri",
-                      "Shravan month"
-                  ],
-    "moreDetails":  {
-                        "history":  "These entries map Sonbhadra\u0027s distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
-                        "architecture":  "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
-                        "visitorNotes":  "Weekday mornings generally provide smoother darshan conditions.",
-                        "sources":  [
-                                        {
-                                            "label":  "Sonbhadra district",
-                                            "url":  "https://en.wikipedia.org/wiki/Sonbhadra_district",
-                                            "type":  "District reference"
-                                        }
-                                    ]
-                    },
-    "district":  "Sonbhadra",
-    "verificationStatus":  "pending",
-    "lastVerifiedAt":  null
-}
+  {
+    "name": "Siddheshwar Mahadev Mandir (Old Market / Neverna)",
+    "state": "Uttar Pradesh",
+    "city": "Unnao",
+    "region": "Old Market / Neverna, Unnao district",
+    "tags": [
+      "Siddheshwar Mahadev",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A historic local Siddheshwar temple in the old market belt, sustained by daily worship and Monday observances.",
+    "highlight": "Old-market Siddheshwar anchor in urban Unnao.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Siddheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bilveshwar Mahadev Mandir (Bhadnag / Bharti Garhi)",
+    "state": "Uttar Pradesh",
+    "city": "Bhadnag",
+    "region": "Bhadnag / Bharti Garhi, Unnao district",
+    "tags": [
+      "Bilveshwar Mahadev",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A traditional Bilveshwar shrine in the Bhadnag-Bharti Garhi belt with rooted village devotion.",
+    "highlight": "Bilveshwar rural Shaiva node of central Unnao.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bilveshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Gokul Baba Temple (Magarwara)",
+    "state": "Uttar Pradesh",
+    "city": "Magarwara",
+    "region": "Magarwara, Unnao district",
+    "tags": [
+      "Gokul Baba Temple",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A prominent Magarwara temple complex with an active Shiva worship stream in local ritual practice.",
+    "highlight": "Magarwara devotional hub with Shaiva continuity.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva-linked local tradition",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Shri Jungleshwar Harihar Shakti Peeth Dham (Shivpur Grant)",
+    "state": "Uttar Pradesh",
+    "city": "Shivpur Grant",
+    "region": "Shivpur Grant, Unnao district",
+    "tags": [
+      "Jungleshwar Harihar Dham",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A large local dham combining Harihar-Shakti devotional elements with a dedicated Shiva-centered sanctum.",
+    "highlight": "Major Shivpur Grant multi-tradition Shaiva-Shakti node.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Jungleshwar / Harihar tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Balkhandeshwar Mandir (Pariyar)",
+    "state": "Uttar Pradesh",
+    "city": "Pariyar",
+    "region": "Pariyar, Unnao district",
+    "tags": [
+      "Balkhandeshwar Mandir",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A Pariyar Shaiva shrine preserved through local pilgrimage and recurring seasonal worship cycles.",
+    "highlight": "Pariyar Balkhandeshwar rural anchor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Balkhandeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Triambkeshwar Shiv Mandir (Kabba Khera)",
+    "state": "Uttar Pradesh",
+    "city": "Kabba Khera",
+    "region": "Kabba Khera, Unnao district",
+    "tags": [
+      "Triambkeshwar Shiv Mandir",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A village-level Triambkeshwar Shiva temple in Kabba Khera with stable local participation.",
+    "highlight": "Kabba Khera Triambkeshwar darshan point.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Triambkeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Rameshwar Mahadev Mandir (Chaudrana / Jagannath Ganj)",
+    "state": "Uttar Pradesh",
+    "city": "Chaudrana",
+    "region": "Chaudrana / Jagannath Ganj, Unnao district",
+    "tags": [
+      "Rameshwar Mahadev",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A Rameshwar Mahadev shrine in the Chaudrana-Jagannath Ganj corridor with steady puja tradition.",
+    "highlight": "Chaudrana Rameshwar regional Shaiva center.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Rameshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kalyaneshwar Mahadev Mandir (Kalyani)",
+    "state": "Uttar Pradesh",
+    "city": "Kalyani",
+    "region": "Kalyani, Unnao district",
+    "tags": [
+      "Kalyaneshwar Mahadev",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A Kalyani temple dedicated to Kalyaneshwar Mahadev, maintained as a local devotional stabilizer.",
+    "highlight": "Kalyani Kalyaneshwar Mahadev node.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Kalyaneshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Narmadeshwar Mahadev Mandir (Kalyani)",
+    "state": "Uttar Pradesh",
+    "city": "Kalyani",
+    "region": "Kalyani, Unnao district",
+    "tags": [
+      "Narmadeshwar Mahadev",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A Narmadeshwar-focused Shiva shrine in Kalyani with active daily worship and Monday crowds.",
+    "highlight": "Kalyani Narmadeshwar Shaiva anchor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Narmadeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Peepleshwar Mahadev Mandir (Jajmau Bridge)",
+    "state": "Uttar Pradesh",
+    "city": "Unnao",
+    "region": "Jajmau Bridge corridor, Unnao district",
+    "tags": [
+      "Peepleshwar Mahadev",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A bridge-corridor Mahadev shrine known for accessible urban-edge darshan and regular abhishek.",
+    "highlight": "Jajmau-bridge Peepleshwar worship point.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Peepleshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Moteswar Mahadev Temple (Safipur / Maurawan)",
+    "state": "Uttar Pradesh",
+    "city": "Safipur",
+    "region": "Safipur / Maurawan, Unnao district",
+    "tags": [
+      "Moteswar Mahadev",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A prominent Mahadev temple in the Safipur-Maurawan sector with recurring district-level devotion.",
+    "highlight": "Safipur-Maurawan Moteswar temple anchor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Moteswar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Girjeshwar Mahadev Temple (Chaudrana)",
+    "state": "Uttar Pradesh",
+    "city": "Chaudrana",
+    "region": "Chaudrana, Unnao district",
+    "tags": [
+      "Girjeshwar Mahadev",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A traditional Girjeshwar shrine in Chaudrana serving nearby settlements through daily puja.",
+    "highlight": "Chaudrana Girjeshwar rural Shaiva node.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Girjeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sahastra Lingeshwar Shiv Mandir (Takiya)",
+    "state": "Uttar Pradesh",
+    "city": "Takiya",
+    "region": "Takiya, Unnao district",
+    "tags": [
+      "Sahastra Lingeshwar",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A Sahastra-Lingeshwar temple in Takiya reflecting multi-linga symbolism within local Shaiva practice.",
+    "highlight": "Takiya Sahastra-Lingeshwar specialty shrine.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Sahastra Lingeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Shankareshwar Mahadev Mandir (Narendra Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Unnao",
+    "region": "Narendra Nagar, Unnao district",
+    "tags": [
+      "Shankareshwar Mahadev",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A neighborhood Shankareshwar Mahadev mandir in Narendra Nagar with steady local darshan.",
+    "highlight": "Narendra Nagar Shankareshwar urban node.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Shankareshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Jilleshwar Mahadev Temple (Unnao)",
+    "state": "Uttar Pradesh",
+    "city": "Unnao",
+    "region": "Unnao district",
+    "tags": [
+      "Jilleshwar Mahadev",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A district-level Jilleshwar Mahadev shrine serving broad local devotional traffic.",
+    "highlight": "Jilleshwar Mahadev city-level stabilizer.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Jilleshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lord Shiva Temple (Narendra Nagar / Sharda Nahar)",
+    "state": "Uttar Pradesh",
+    "city": "Unnao",
+    "region": "Narendra Nagar / Sharda Nahar, Unnao district",
+    "tags": [
+      "Lord Shiva Temple",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A Sharda Nahar-side Shiva temple integrated into the Narendra Nagar local worship circuit.",
+    "highlight": "Canal-corridor Shiva shrine in Narendra Nagar.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Temple_of_Lord_Shiva.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Lord_Shiva.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sri Baba Pasupati Nath Mahadev (Jawahar Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Unnao",
+    "region": "Jawahar Nagar, Unnao district",
+    "tags": [
+      "Pasupati Nath Mahadev",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A Jawahar Nagar shrine dedicated to Baba Pasupati Nath Mahadev with active community devotion.",
+    "highlight": "Jawahar Nagar Pashupati-Nath Shaiva point.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Pashupati Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Harihareshwar Mahadev Temple (Jurakhan Khera)",
+    "state": "Uttar Pradesh",
+    "city": "Jurakhan Khera",
+    "region": "Jurakhan Khera, Unnao district",
+    "tags": [
+      "Harihareshwar Mahadev",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A Jurakhan Khera Harihareshwar temple representing Shiva-Hari synthesis in local devotional practice.",
+    "highlight": "Jurakhan Khera Harihareshwar rural anchor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Harihareshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Hardeveshwar Mahadev Mandir (Bichhiya)",
+    "state": "Uttar Pradesh",
+    "city": "Bichhiya",
+    "region": "Bichhiya, Unnao district",
+    "tags": [
+      "Hardeveshwar Mahadev",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A Bichhiya Mahadev temple preserved through village-level puja traditions and festival participation.",
+    "highlight": "Bichhiya Hardeveshwar village shrine.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Hardeveshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhole Nath Mandir Muslawa (Auras Road)",
+    "state": "Uttar Pradesh",
+    "city": "Unnao",
+    "region": "Auras Road / Muslawa, Unnao district",
+    "tags": [
+      "Bhole Nath Mandir",
+      "Unnao",
+      "Shiva"
+    ],
+    "story": "A roadside Bhole Nath temple on the Auras corridor with regular local abhishek and aarti.",
+    "highlight": "Auras-road Bhole Nath darshan stop.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bhole Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend the Unnao district Shaiva map across market, neighborhood, village, and road-corridor worship points.",
+      "architecture": "A mix of compact local mandirs, older district shrines, and multi-deity devotional complexes.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Unnao district",
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Unnao",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Janwarinath Dham Temple (Ghatampur, Lambhua)",
+    "state": "Uttar Pradesh",
+    "city": "Lambhua",
+    "region": "Ghatampur, Lambhua, Sultanpur district",
+    "tags": [
+      "Janwarinath Dham",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Janwarinath Dham shrine in the Lambhua belt, sustained by regular local worship and seasonal observance.",
+    "highlight": "Lambhua Janwarinath Shaiva anchor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Janwarinath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahadevan Shiv Mandir (Alampur, Ramganj)",
+    "state": "Uttar Pradesh",
+    "city": "Ramganj",
+    "region": "Alampur, Ramganj, Sultanpur district",
+    "tags": [
+      "Mahadevan Shiv Mandir",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Ramganj-area Shiva temple in Alampur with stable daily puja tradition.",
+    "highlight": "Alampur-Ramganj Mahadevan worship point.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadevan)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shivalaya - Shiva Mandir (Parsipur)",
+    "state": "Uttar Pradesh",
+    "city": "Parsipur",
+    "region": "Parsipur, Sultanpur district",
+    "tags": [
+      "Shivalaya Parsipur",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Parsipur Shivalaya preserving local Shaiva continuity through daily rituals.",
+    "highlight": "Parsipur village Shivalaya node.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Satteshwar Mahadev Temple (Jagdishpur)",
+    "state": "Uttar Pradesh",
+    "city": "Jagdishpur",
+    "region": "Jagdishpur, Sultanpur district",
+    "tags": [
+      "Satteshwar Mahadev",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Jagdishpur Mahadev shrine maintained as a regional devotional center.",
+    "highlight": "Jagdishpur Satteshwar Mahadev anchor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Satteshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Maheshnath Temple (Dhammaur)",
+    "state": "Uttar Pradesh",
+    "city": "Dhammaur",
+    "region": "Dhammaur, Sultanpur district",
+    "tags": [
+      "Baba Maheshnath",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Dhammaur temple devoted to Baba Maheshnath with regular community worship.",
+    "highlight": "Dhammaur Maheshnath local center.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Maheshnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sarveshwar Mahadev Mandir (Beruka Athaisi)",
+    "state": "Uttar Pradesh",
+    "city": "Beruka Athaisi",
+    "region": "Beruka Athaisi, Sultanpur district",
+    "tags": [
+      "Sarveshwar Mahadev",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Sarveshwar Mahadev mandir in Beruka Athaisi rooted in local ritual tradition.",
+    "highlight": "Beruka Athaisi Sarveshwar Shaiva point.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Sarveshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Bhuvaneshwarnath Mahadev Mandir (Belwai)",
+    "state": "Uttar Pradesh",
+    "city": "Belwai",
+    "region": "Belwai, Sultanpur district",
+    "tags": [
+      "Bhuvaneshwarnath Mahadev",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Belwai Mahadev temple with established daily darshan and festival attendance.",
+    "highlight": "Belwai Bhuvaneshwarnath temple node.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bhuvaneshwarnath Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dandeshwar Temple (Kotwa Pipari)",
+    "state": "Uttar Pradesh",
+    "city": "Kotwa Pipari",
+    "region": "Kotwa Pipari, Sultanpur district",
+    "tags": [
+      "Dandeshwar Temple",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Dandeshwar shrine in Kotwa Pipari integrated into local Shaiva worship routes.",
+    "highlight": "Kotwa Pipari Dandeshwar anchor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Dandeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Dham Belwai (Akhandnagar)",
+    "state": "Uttar Pradesh",
+    "city": "Akhandnagar",
+    "region": "Belwai, Akhandnagar, Sultanpur district",
+    "tags": [
+      "Shiv Dham Belwai",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Shiv Dham in the Belwai-Akhandnagar sector serving surrounding communities.",
+    "highlight": "Akhandnagar belt Shiv Dham node.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Gauri Shankar Mahadev Dham (Dewarh)",
+    "state": "Uttar Pradesh",
+    "city": "Dewarh",
+    "region": "Dewarh, Sultanpur district",
+    "tags": [
+      "Gauri Shankar Mahadev",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Gauri Shankar Mahadev dham in Dewarh with steady ritual continuity.",
+    "highlight": "Dewarh Gauri-Shankar Shaiva center.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Gauri Shankar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Diheshwar Mahadev Dham (Bansgaon)",
+    "state": "Uttar Pradesh",
+    "city": "Bansgaon",
+    "region": "Bansgaon, Sultanpur district",
+    "tags": [
+      "Diheshwar Mahadev",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Bansgaon Mahadev dham preserved through village-level devotion.",
+    "highlight": "Bansgaon Diheshwar rural anchor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Diheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Baba Mandir Seva Samiti (Saifullaganj)",
+    "state": "Uttar Pradesh",
+    "city": "Saifullaganj",
+    "region": "Saifullaganj, Sultanpur district",
+    "tags": [
+      "Shiv Baba Mandir",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A community-managed Shiva shrine in Saifullaganj with regular seva-led worship.",
+    "highlight": "Saifullaganj seva-based Shiva temple.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Shiv Baba)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lord Shiva Temple (Jaisinghpur)",
+    "state": "Uttar Pradesh",
+    "city": "Jaisinghpur",
+    "region": "Jaisinghpur, Sultanpur district",
+    "tags": [
+      "Lord Shiva Temple",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Jaisinghpur Shiva temple serving as a local devotional anchor in the sub-region.",
+    "highlight": "Jaisinghpur city-level Shiva node.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Temple_of_Lord_Shiva.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Lord_Shiva.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Dostpur)",
+    "state": "Uttar Pradesh",
+    "city": "Dostpur",
+    "region": "Dostpur, Sultanpur district",
+    "tags": [
+      "Shiv Mandir Dostpur",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A neighborhood Shiva mandir in Dostpur with consistent local darshan.",
+    "highlight": "Dostpur community Shiva shrine.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiv_mandir-_Hargaon.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3AShiv_mandir-_Hargaon.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Of Pankaj Pathak (Pyarepatti)",
+    "state": "Uttar Pradesh",
+    "city": "Pyarepatti",
+    "region": "Pyarepatti, Sultanpur district",
+    "tags": [
+      "Shiv Mandir Pyarepatti",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A local Shiva temple in Pyarepatti maintained through personal and community devotional support.",
+    "highlight": "Pyarepatti Shiva mandir node.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Rameshwar Shiv Temple (Sewtari, Jaisinghpur)",
+    "state": "Uttar Pradesh",
+    "city": "Jaisinghpur",
+    "region": "Sewtari, Jaisinghpur, Sultanpur district",
+    "tags": [
+      "Rameshwar Shiv Temple",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Rameshwar Shiva temple in Sewtari serving Jaisinghpur-area devotees.",
+    "highlight": "Sewtari Rameshwar Shaiva point.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Rameshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Dham (Payagipur)",
+    "state": "Uttar Pradesh",
+    "city": "Payagipur",
+    "region": "Payagipur, Sultanpur district",
+    "tags": [
+      "Shiv Dham Payagipur",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Payagipur Shiv Dham with regular village-to-town devotional flow.",
+    "highlight": "Payagipur Shiv Dham anchor.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shree_Shiv_Shakti_Mannat_Dham%2C_Kamalpur_(Baba_Sheetal_Das_Temple).jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3AShree_Shiv_Shakti_Mannat_Dham%2C_Kamalpur_(Baba_Sheetal_Das_Temple).jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kishtinagar Shiv Mandir (Islam Pur)",
+    "state": "Uttar Pradesh",
+    "city": "Islam Pur",
+    "region": "Kishtinagar, Islam Pur, Sultanpur district",
+    "tags": [
+      "Kishtinagar Shiv Mandir",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Kishtinagar Shiva temple in Islam Pur supporting routine local worship and festivals.",
+    "highlight": "Islam Pur Kishtinagar Shiva shrine.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir Hariharpur (Shivgarh)",
+    "state": "Uttar Pradesh",
+    "city": "Shivgarh",
+    "region": "Hariharpur, Shivgarh, Sultanpur district",
+    "tags": [
+      "Prachin Shiv Mandir Hariharpur",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "An old Shiva temple in Hariharpur-Shivgarh retained through long-standing local devotion.",
+    "highlight": "Shivgarh heritage Shiva mandir.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Bol Bam (Majhana)",
+    "state": "Uttar Pradesh",
+    "city": "Majhana",
+    "region": "Majhana, Sultanpur district",
+    "tags": [
+      "Shiv Mandir Bol Bam",
+      "Sultanpur",
+      "Shiva"
+    ],
+    "story": "A Bol-Bam associated Shiva temple in Majhana active during Shravan and annual festival cycles.",
+    "highlight": "Majhana Bol-Bam Shaiva center.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T22:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These temples extend Sultanpur district's distributed Shaiva network across Lambhua, Jaisinghpur, Dostpur, Shivgarh, and surrounding localities.",
+      "architecture": "A mix of older local mandirs, village shrines, and neighborhood temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sultanpur district",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sultanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Renukeshwar Mahadev Mandir (Renukoot)",
+    "state": "Uttar Pradesh",
+    "city": "Renukoot",
+    "region": "Renukoot, Sonbhadra district",
+    "tags": [
+      "Renukeshwar Mahadev",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A major Renukoot Shaiva shrine with steady local darshan and district-wide devotional relevance.",
+    "highlight": "Renukoot Renukeshwar anchor in Sonbhadra.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Renukeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Dwaar / Uma Maheshwar Temple (Ghorawal)",
+    "state": "Uttar Pradesh",
+    "city": "Ghorawal",
+    "region": "Ghorawal, Sonbhadra district",
+    "tags": [
+      "Shiv Dwaar Uma Maheshwar",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Ghorawal temple associated with Uma-Maheshwar worship and regular local pilgrimage flow.",
+    "highlight": "Ghorawal Shiv-Dwaar Shaiva-Shakti node.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Uma Maheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mangleshwar Mahadev Temple (Chopan)",
+    "state": "Uttar Pradesh",
+    "city": "Chopan",
+    "region": "Chopan, Sonbhadra district",
+    "tags": [
+      "Mangleshwar Mahadev",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Chopan Mahadev temple maintained through daily worship and seasonal festival observances.",
+    "highlight": "Chopan Mangleshwar regional worship center.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mangleshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Panchmukhi Temple (Churk)",
+    "state": "Uttar Pradesh",
+    "city": "Churk",
+    "region": "Churk, Sonbhadra district",
+    "tags": [
+      "Panchmukhi Temple",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Panchmukhi Shiva temple in Churk recognized in local devotional circuits.",
+    "highlight": "Churk Panchmukhi Shaiva shrine.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0121321_Chaturbhuj_Temple%2C_Orchha_Madhya_Pradesh_026.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3A0121321_Chaturbhuj_Temple%2C_Orchha_Madhya_Pradesh_026.jpg",
+    "deity": "Shiva (Panchmukhi tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sri Achaleshwar Mahadev Mandir (Dalla)",
+    "state": "Uttar Pradesh",
+    "city": "Dalla",
+    "region": "Dalla, Sonbhadra district",
+    "tags": [
+      "Achaleshwar Mahadev",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Dalla-based Achaleshwar Mahadev shrine with continuing community worship.",
+    "highlight": "Dalla Achaleshwar Mahadev anchor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Achaleshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Somnath Mandir (Barauli)",
+    "state": "Uttar Pradesh",
+    "city": "Barauli",
+    "region": "Barauli, Sonbhadra district",
+    "tags": [
+      "Somnath Mandir",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Somnath-named Shiva temple in Barauli serving nearby settlements.",
+    "highlight": "Barauli Somnath Shaiva node.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Somnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Purana Shiv Mandir (Anpara)",
+    "state": "Uttar Pradesh",
+    "city": "Anpara",
+    "region": "Anpara, Sonbhadra district",
+    "tags": [
+      "Purana Shiv Mandir",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "An old Shiva temple in Anpara preserved as a local historical worship point.",
+    "highlight": "Anpara heritage Shiva shrine.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kandakot Shiv Temple (Bahuar)",
+    "state": "Uttar Pradesh",
+    "city": "Bahuar",
+    "region": "Bahuar, Sonbhadra district",
+    "tags": [
+      "Kandakot Shiv Temple",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Bahuar Shiva temple rooted in village-level devotional continuity.",
+    "highlight": "Bahuar Kandakot Shiva point.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Gotthani Shiv Mandir (Gupta Kashi, Chopan)",
+    "state": "Uttar Pradesh",
+    "city": "Chopan",
+    "region": "Gupta Kashi belt, Chopan, Sonbhadra district",
+    "tags": [
+      "Gotthani Shiv Mandir",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Gupta Kashi-associated Shiva mandir in Chopan with sustained local observance.",
+    "highlight": "Gupta-Kashi Chopan Shaiva marker.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahakaleshwar Shiv Mandir (Kuldomari)",
+    "state": "Uttar Pradesh",
+    "city": "Kuldomari",
+    "region": "Kuldomari, Sonbhadra district",
+    "tags": [
+      "Mahakaleshwar Shiv Mandir",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Kuldomari Mahakaleshwar temple with regular abhishek and aarti tradition.",
+    "highlight": "Kuldomari Mahakaleshwar anchor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahakaleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Rameshwar Mahadev Temple (Chopan)",
+    "state": "Uttar Pradesh",
+    "city": "Chopan",
+    "region": "Chopan, Sonbhadra district",
+    "tags": [
+      "Rameshwar Mahadev",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Rameshwar Mahadev shrine in Chopan with recurring district-level devotional participation.",
+    "highlight": "Chopan Rameshwar Shaiva center.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Rameshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Someshwar Mahadev Mandir (Shendhuriya)",
+    "state": "Uttar Pradesh",
+    "city": "Shendhuriya",
+    "region": "Shendhuriya, Sonbhadra district",
+    "tags": [
+      "Someshwar Mahadev",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Someshwar Mahadev temple in Shendhuriya serving nearby communities.",
+    "highlight": "Shendhuriya Someshwar village node.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Someshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kailash Mandir (Chopan)",
+    "state": "Uttar Pradesh",
+    "city": "Chopan",
+    "region": "Chopan, Sonbhadra district",
+    "tags": [
+      "Kailash Mandir",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Kailash-named Shiva temple in Chopan with active local worship.",
+    "highlight": "Chopan Kailash temple point.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Kailash form tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Narvadeshvar Mahadev Mandir (Chopan)",
+    "state": "Uttar Pradesh",
+    "city": "Chopan",
+    "region": "Chopan, Sonbhadra district",
+    "tags": [
+      "Narvadeshvar Mahadev",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Narvadeshvar Mahadev temple in Chopan integrated into daily puja circuits.",
+    "highlight": "Chopan Narvadeshvar Shaiva shrine.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Narvadeshvar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lodhi Mahadev Mandir (Robertsganj)",
+    "state": "Uttar Pradesh",
+    "city": "Robertsganj",
+    "region": "Robertsganj, Sonbhadra district",
+    "tags": [
+      "Lodhi Mahadev",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Robertsganj Mahadev temple serving as a local devotional anchor for the township.",
+    "highlight": "Robertsganj Lodhi Mahadev center.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Lodhi Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Ntpc Colony, Shaktinagar)",
+    "state": "Uttar Pradesh",
+    "city": "Shaktinagar",
+    "region": "NTPC Colony, Shaktinagar, Sonbhadra district",
+    "tags": [
+      "Shiv Mandir NTPC Colony",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Shaktinagar colony Shiva temple with regular resident participation in worship.",
+    "highlight": "NTPC-colony Shiva shrine in Shaktinagar.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiv_mandir-_Hargaon.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3AShiv_mandir-_Hargaon.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bholenath Mandir (Churk Bazar)",
+    "state": "Uttar Pradesh",
+    "city": "Churk",
+    "region": "Churk Bazar, Sonbhadra district",
+    "tags": [
+      "Bholenath Mandir",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A market-area Bholenath temple in Churk with steady daily darshan.",
+    "highlight": "Churk Bazar Bholenath node.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bholenath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Chandrakeshwar Mahadev Mandir (Ghorawal)",
+    "state": "Uttar Pradesh",
+    "city": "Ghorawal",
+    "region": "Ghorawal, Sonbhadra district",
+    "tags": [
+      "Chandrakeshwar Mahadev",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Chandrakeshwar Mahadev temple in Ghorawal with rooted local worship continuity.",
+    "highlight": "Ghorawal Chandrakeshwar Mahadev anchor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Chandrakeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Dwarkeshwar Narmdeshwar Mahadev Mandir (Dudhi)",
+    "state": "Uttar Pradesh",
+    "city": "Dudhi",
+    "region": "Dudhi, Sonbhadra district",
+    "tags": [
+      "Dwarkeshwar Narmdeshwar Mahadev",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A Dudhi Mahadev shrine carrying Dwarkeshwar-Narmdeshwar devotional identity.",
+    "highlight": "Dudhi dual-named Mahadev temple node.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Dwarkeshwar Narmdeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sanatan Shiv Mandir (Majhgawan Chauhan)",
+    "state": "Uttar Pradesh",
+    "city": "Majhgawan Chauhan",
+    "region": "Majhgawan Chauhan, Sonbhadra district",
+    "tags": [
+      "Sanatan Shiv Mandir",
+      "Sonbhadra",
+      "Shiva"
+    ],
+    "story": "A local Sanatan Shiva temple in Majhgawan Chauhan preserved through regular worship and local support.",
+    "highlight": "Majhgawan Chauhan Sanatan Shiva anchor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-27T23:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sonbhadra's distributed Shaiva network across Renukoot, Ghorawal, Chopan, Robertsganj, Dudhi, and nearby village clusters.",
+      "architecture": "A mix of older local shrines, market-area mandirs, and colony or village temples with active ritual continuity.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sonbhadra district",
+          "url": "https://en.wikipedia.org/wiki/Sonbhadra_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sonbhadra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Baba Shyam Nath Shiv Temple (Sitapur City)",
+    "state": "Uttar Pradesh",
+    "city": "Sitapur",
+    "region": "Sitapur City, Sitapur district",
+    "tags": [
+      "Baba Shyam Nath Shiv Temple",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Shyam Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Rudravart Mahadev Temple (Naimisharanya)",
+    "state": "Uttar Pradesh",
+    "city": "Naimisharanya",
+    "region": "Naimisharanya, Sitapur district",
+    "tags": [
+      "Rudravart Mahadev",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Rudravart Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhooteshwar Nath Temple (Naimisharanya)",
+    "state": "Uttar Pradesh",
+    "city": "Naimisharanya",
+    "region": "Naimisharanya, Sitapur district",
+    "tags": [
+      "Bhooteshwar Nath",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bhooteshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dev Deveshwar Dhaam (Thakur Nagar, Naimisharanya)",
+    "state": "Uttar Pradesh",
+    "city": "Naimisharanya",
+    "region": "Thakur Nagar, Naimisharanya, Sitapur district",
+    "tags": [
+      "Dev Deveshwar Dhaam",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Deveshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Patthar Shivalala (Biswan)",
+    "state": "Uttar Pradesh",
+    "city": "Biswan",
+    "region": "Biswan, Sitapur district",
+    "tags": [
+      "Patthar Shivalala",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Hargaon Teerth Shiv Temple (Hargaon)",
+    "state": "Uttar Pradesh",
+    "city": "Hargaon",
+    "region": "Hargaon, Sitapur district",
+    "tags": [
+      "Hargaon Teerth Shiv Temple",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiv_mandir-_Hargaon.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3AShiv_mandir-_Hargaon.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Rameshwaram Temple (Ramkot)",
+    "state": "Uttar Pradesh",
+    "city": "Ramkot",
+    "region": "Ramkot, Sitapur district",
+    "tags": [
+      "Rameshwaram Temple",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Rameshwaram)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dudhnath Temple (Shankar Ganj, Biswan)",
+    "state": "Uttar Pradesh",
+    "city": "Biswan",
+    "region": "Shankar Ganj, Biswan, Sitapur district",
+    "tags": [
+      "Dudhnath Temple",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Dudhnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Siddheshwar Mahadev Mandir (Sidhauli)",
+    "state": "Uttar Pradesh",
+    "city": "Sidhauli",
+    "region": "Sidhauli, Sitapur district",
+    "tags": [
+      "Siddheshwar Mahadev",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Siddheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Jangli Nath Mandir (Sitapur City)",
+    "state": "Uttar Pradesh",
+    "city": "Sitapur",
+    "region": "Sitapur City, Sitapur district",
+    "tags": [
+      "Baba Jangli Nath Mandir",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Jangli Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Vinay Shiv Mandir (Unchakhera Kalan)",
+    "state": "Uttar Pradesh",
+    "city": "Unchakhera Kalan",
+    "region": "Unchakhera Kalan, Sitapur district",
+    "tags": [
+      "Vinay Shiv Mandir",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shivala Nabinagar (Laharpur)",
+    "state": "Uttar Pradesh",
+    "city": "Laharpur",
+    "region": "Laharpur, Sitapur district",
+    "tags": [
+      "Shivala Nabinagar",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Tarak Nath Mandir (Tareenpur)",
+    "state": "Uttar Pradesh",
+    "city": "Tareenpur",
+    "region": "Tareenpur, Sitapur district",
+    "tags": [
+      "Tarak Nath Mandir",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Tarak Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Trikonanath Mandir (Lohar Bagh)",
+    "state": "Uttar Pradesh",
+    "city": "Sitapur",
+    "region": "Lohar Bagh, Sitapur district",
+    "tags": [
+      "Trikonanath Mandir",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Trikonanath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Koteshwar Mahadev Mandir (Pakka Bagh)",
+    "state": "Uttar Pradesh",
+    "city": "Sitapur",
+    "region": "Pakka Bagh, Sitapur district",
+    "tags": [
+      "Koteshwar Mahadev",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Koteshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple Machhrehta (Matasiya Lakhnsepur)",
+    "state": "Uttar Pradesh",
+    "city": "Machhrehta",
+    "region": "Matasiya Lakhnsepur, Machhrehta, Sitapur district",
+    "tags": [
+      "Shiv Temple Machhrehta",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Thakurdwara Shiv Mandir (Tambaur)",
+    "state": "Uttar Pradesh",
+    "city": "Tambaur",
+    "region": "Tambaur, Sitapur district",
+    "tags": [
+      "Thakurdwara Shiv Mandir",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Chandra Bhal Shiv Mandir (Rayapur)",
+    "state": "Uttar Pradesh",
+    "city": "Rayapur",
+    "region": "Rayapur, Sitapur district",
+    "tags": [
+      "Chandra Bhal Shiv Mandir",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Chandra Bhal)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Satendreswar Mahadev Mandir (Maholi)",
+    "state": "Uttar Pradesh",
+    "city": "Maholi",
+    "region": "Maholi, Sitapur district",
+    "tags": [
+      "Satendreswar Mahadev",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Satendreswar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Deveshwar Mandir (Daheliya Sultanpur)",
+    "state": "Uttar Pradesh",
+    "city": "Daheliya Sultanpur",
+    "region": "Daheliya Sultanpur, Sitapur district",
+    "tags": [
+      "Shri Deveshwar Mandir",
+      "Sitapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sitapur district with active daily worship and festival observance.",
+    "highlight": "Part of Sitapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Deveshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Sitapur district's Shiva worship across Naimisharanya, Sitapur city, Biswan, Sidhauli, Laharpur, and surrounding localities.",
+      "architecture": "A blend of traditional local mandirs, ancient shrines, and community-maintained temple spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sitapur district",
+          "url": "https://en.wikipedia.org/wiki/Sitapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sitapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shingheswari Mandir - Naugarh",
+    "state": "Uttar Pradesh",
+    "city": "Naugarh",
+    "region": "Naugarh, Siddharthnagar district",
+    "tags": [
+      "Shingheswari Mandir",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kateshwar Nath Dham/Madir - Itwa",
+    "state": "Uttar Pradesh",
+    "city": "Itwa",
+    "region": "Itwa, Siddharthnagar district",
+    "tags": [
+      "Kateshwar Nath Dham",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Kateshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Shree Baba Paltan Nath Mandir - Mahadewa/Naugarh",
+    "state": "Uttar Pradesh",
+    "city": "Naugarh",
+    "region": "Mahadewa, Naugarh, Siddharthnagar district",
+    "tags": [
+      "Baba Paltan Nath Mandir",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Paltan Nath tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Mateshwar Nath Shiv Temple (Pali) - Mithwal",
+    "state": "Uttar Pradesh",
+    "city": "Mithwal",
+    "region": "Pali, Mithwal, Siddharthnagar district",
+    "tags": [
+      "Mateshwar Nath Shiv Temple",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mateshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Bagiyawa) - Naugarh",
+    "state": "Uttar Pradesh",
+    "city": "Naugarh",
+    "region": "Bagiyawa, Naugarh, Siddharthnagar district",
+    "tags": [
+      "Shiv Mandir Bagiyawa",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bharat Bhari Temple - Domariyaganj",
+    "state": "Uttar Pradesh",
+    "city": "Domariyaganj",
+    "region": "Domariyaganj, Siddharthnagar district",
+    "tags": [
+      "Bharat Bhari Temple",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva-linked local tradition",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Rithiya Shiv Mandir - Rithia Bazar",
+    "state": "Uttar Pradesh",
+    "city": "Rithia Bazar",
+    "region": "Rithia Bazar, Siddharthnagar district",
+    "tags": [
+      "Rithiya Shiv Mandir",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Aichani - Banauli",
+    "state": "Uttar Pradesh",
+    "city": "Banauli",
+    "region": "Aichani, Banauli, Siddharthnagar district",
+    "tags": [
+      "Shiv Mandir Aichani",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Madhukarpur Shiv Mandir - Bansi/Madhukarpur",
+    "state": "Uttar Pradesh",
+    "city": "Bansi",
+    "region": "Madhukarpur, Bansi, Siddharthnagar district",
+    "tags": [
+      "Madhukarpur Shiv Mandir",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Khuniyawan",
+    "state": "Uttar Pradesh",
+    "city": "Khuniyawan",
+    "region": "Khuniyawan, Siddharthnagar district",
+    "tags": [
+      "Shiv Mandir Khuniyawan",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Shohrat Nath Temple - Shohratgarh",
+    "state": "Uttar Pradesh",
+    "city": "Shohratgarh",
+    "region": "Shohratgarh, Siddharthnagar district",
+    "tags": [
+      "Shohrat Nath Temple",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Shohrat Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple Bharama/Shivalay Mandir - Bansi",
+    "state": "Uttar Pradesh",
+    "city": "Bansi",
+    "region": "Bharama, Bansi, Siddharthnagar district",
+    "tags": [
+      "Shivalay Mandir Bharama",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "SHIVA TEMPLE CHAUKHARA - Domariyaganj",
+    "state": "Uttar Pradesh",
+    "city": "Domariyaganj",
+    "region": "Chaukhara, Domariyaganj, Siddharthnagar district",
+    "tags": [
+      "Shiva Temple Chaukhara",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Sankteshwarnath Shiv Mandir (Sakatpur Dham) - Naugarh/Bansi",
+    "state": "Uttar Pradesh",
+    "city": "Naugarh",
+    "region": "Sakatpur Dham (Naugarh-Bansi belt), Siddharthnagar district",
+    "tags": [
+      "Sankteshwarnath Shiv Mandir",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Sankteshwarnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Chanchai Mata And Shiv Temple - Bansi",
+    "state": "Uttar Pradesh",
+    "city": "Bansi",
+    "region": "Bansi, Siddharthnagar district",
+    "tags": [
+      "Chanchai Mata And Shiv Temple",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (within Chanchai Mata complex)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple - Mahariya/Naugarh",
+    "state": "Uttar Pradesh",
+    "city": "Naugarh",
+    "region": "Mahariya, Naugarh, Siddharthnagar district",
+    "tags": [
+      "Shiv Temple Mahariya",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple - Kodara Grant/Naugarh",
+    "state": "Uttar Pradesh",
+    "city": "Naugarh",
+    "region": "Kodara Grant, Naugarh, Siddharthnagar district",
+    "tags": [
+      "Shiv Temple Kodara Grant",
+      "Siddharthnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Siddharthnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Siddharthnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T09:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries extend Siddharthnagar district's Shiva worship map across Naugarh, Itwa, Bansi, Domariyaganj, Shohratgarh, and nearby localities.",
+      "architecture": "A mix of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Siddharthnagar district",
+          "url": "https://en.wikipedia.org/wiki/Siddharthnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Siddharthnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Vibhuti Nath Temple - Shravasti/Sirsia",
+    "state": "Uttar Pradesh",
+    "city": "Sirsia",
+    "region": "Sirsia, Shravasti district",
+    "tags": [
+      "Vibhuti Nath Temple",
+      "Shravasti",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shravasti district with active daily worship and festival observance.",
+    "highlight": "Part of Shravasti's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Vibhuti Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sirsia, Ikauna, Bhinga, and Gilaula sectors of Shravasti district.",
+      "architecture": "A blend of local mandirs, traditional shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shravasti district",
+          "url": "https://en.wikipedia.org/wiki/Shravasti_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shravasti",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Shravasti/Ikauna (Wajahi)",
+    "state": "Uttar Pradesh",
+    "city": "Ikauna",
+    "region": "Wajahi, Ikauna, Shravasti district",
+    "tags": [
+      "Shiv Mandir Wajahi",
+      "Shravasti",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shravasti district with active daily worship and festival observance.",
+    "highlight": "Part of Shravasti's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sirsia, Ikauna, Bhinga, and Gilaula sectors of Shravasti district.",
+      "architecture": "A blend of local mandirs, traditional shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shravasti district",
+          "url": "https://en.wikipedia.org/wiki/Shravasti_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shravasti",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bargadhi Shiv Kailash Mandir - Shravasti/Ikauna",
+    "state": "Uttar Pradesh",
+    "city": "Ikauna",
+    "region": "Bargadhi, Ikauna, Shravasti district",
+    "tags": [
+      "Bargadhi Shiv Kailash Mandir",
+      "Shravasti",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shravasti district with active daily worship and festival observance.",
+    "highlight": "Part of Shravasti's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Kailash form tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sirsia, Ikauna, Bhinga, and Gilaula sectors of Shravasti district.",
+      "architecture": "A blend of local mandirs, traditional shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shravasti district",
+          "url": "https://en.wikipedia.org/wiki/Shravasti_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shravasti",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pachdewari Shiv Mandir - Shravasti/Bhinga (Katha)",
+    "state": "Uttar Pradesh",
+    "city": "Bhinga",
+    "region": "Katha, Bhinga, Shravasti district",
+    "tags": [
+      "Pachdewari Shiv Mandir",
+      "Shravasti",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shravasti district with active daily worship and festival observance.",
+    "highlight": "Part of Shravasti's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sirsia, Ikauna, Bhinga, and Gilaula sectors of Shravasti district.",
+      "architecture": "A blend of local mandirs, traditional shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shravasti district",
+          "url": "https://en.wikipedia.org/wiki/Shravasti_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shravasti",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Shravasti/Bhinga",
+    "state": "Uttar Pradesh",
+    "city": "Bhinga",
+    "region": "Bhinga, Shravasti district",
+    "tags": [
+      "Shiv Mandir Bhinga",
+      "Shravasti",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shravasti district with active daily worship and festival observance.",
+    "highlight": "Part of Shravasti's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sirsia, Ikauna, Bhinga, and Gilaula sectors of Shravasti district.",
+      "architecture": "A blend of local mandirs, traditional shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shravasti district",
+          "url": "https://en.wikipedia.org/wiki/Shravasti_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shravasti",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Nageshwar Nath Mandir - Shravasti/Sirsia (Madhwapur)",
+    "state": "Uttar Pradesh",
+    "city": "Sirsia",
+    "region": "Madhwapur, Sirsia, Shravasti district",
+    "tags": [
+      "Nageshwar Nath Mandir",
+      "Shravasti",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shravasti district with active daily worship and festival observance.",
+    "highlight": "Part of Shravasti's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nageshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sirsia, Ikauna, Bhinga, and Gilaula sectors of Shravasti district.",
+      "architecture": "A blend of local mandirs, traditional shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shravasti district",
+          "url": "https://en.wikipedia.org/wiki/Shravasti_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shravasti",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Shakti Mandir - Shravasti/Bhinga (Dadauli)",
+    "state": "Uttar Pradesh",
+    "city": "Bhinga",
+    "region": "Dadauli, Bhinga, Shravasti district",
+    "tags": [
+      "Shiv Shakti Mandir",
+      "Shravasti",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shravasti district with active daily worship and festival observance.",
+    "highlight": "Part of Shravasti's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (within Shiv-Shakti complex)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sirsia, Ikauna, Bhinga, and Gilaula sectors of Shravasti district.",
+      "architecture": "A blend of local mandirs, traditional shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shravasti district",
+          "url": "https://en.wikipedia.org/wiki/Shravasti_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shravasti",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Jharkhandi Baba - Shravasti/Ikauna (Harbanshpur)",
+    "state": "Uttar Pradesh",
+    "city": "Ikauna",
+    "region": "Harbanshpur, Ikauna, Shravasti district",
+    "tags": [
+      "Jharkhandi Baba",
+      "Shravasti",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shravasti district with active daily worship and festival observance.",
+    "highlight": "Part of Shravasti's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Jharkhandi Baba tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sirsia, Ikauna, Bhinga, and Gilaula sectors of Shravasti district.",
+      "architecture": "A blend of local mandirs, traditional shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shravasti district",
+          "url": "https://en.wikipedia.org/wiki/Shravasti_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shravasti",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Shravasti/Gilaula",
+    "state": "Uttar Pradesh",
+    "city": "Gilaula",
+    "region": "Gilaula, Shravasti district",
+    "tags": [
+      "Shiv Mandir Gilaula",
+      "Shravasti",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shravasti district with active daily worship and festival observance.",
+    "highlight": "Part of Shravasti's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sirsia, Ikauna, Bhinga, and Gilaula sectors of Shravasti district.",
+      "architecture": "A blend of local mandirs, traditional shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shravasti district",
+          "url": "https://en.wikipedia.org/wiki/Shravasti_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shravasti",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Murti (Gandhi Chowk)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Gandhi Chowk, Shamli, Shamli district",
+    "tags": [
+      "Shiv Murti Gandhi Chowk",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Barkhandi Mahadev Temple",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Shamli, Shamli district",
+    "tags": [
+      "Barkhandi Mahadev Temple",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Barkhandi Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiva Temple (Jahanpur) - Shamli/Kairana",
+    "state": "Uttar Pradesh",
+    "city": "Kairana",
+    "region": "Jahanpur, Kairana, Shamli district",
+    "tags": [
+      "Shiva Temple Jahanpur",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Satyanarayan Shiv Mandir (Bara Bazar)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Bara Bazar, Shamli, Shamli district",
+    "tags": [
+      "Satyanarayan Shiv Mandir",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Kaka Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Kaka Nagar, Shamli, Shamli district",
+    "tags": [
+      "Shiv Mandir Kaka Nagar",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Charauli)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Charauli, Shamli district",
+    "tags": [
+      "Shiv Mandir Charauli",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Titoli Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Titoli, Shamli district",
+    "tags": [
+      "Titoli Shiv Mandir",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sadha Shiv Mandir (Shanti Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Shanti Nagar, Shamli district",
+    "tags": [
+      "Sadha Shiv Mandir",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Tajpur Simbhalka)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Tajpur Simbhalka, Shamli district",
+    "tags": [
+      "Shiv Temple Tajpur Simbhalka",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Adampur)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Adampur, Shamli district",
+    "tags": [
+      "Shiv Mandir Adampur",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Bhoot Patti)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Bhoot Patti, Shamli district",
+    "tags": [
+      "Shiv Mandir Bhoot Patti",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Shiv Ji Temple (Rasoolpur Jatan)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Rasoolpur Jatan, Shamli district",
+    "tags": [
+      "Shri Shiv Ji Temple",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Kadargarh)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Kadargarh, Shamli district",
+    "tags": [
+      "Shiv Mandir Kadargarh",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Silawar)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Silawar, Shamli district",
+    "tags": [
+      "Shiv Mandir Silawar",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Karoda)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Karoda, Shamli district",
+    "tags": [
+      "Shiv Mandir Karoda",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Gadh Shayshtpur) - Shamli/Kairana",
+    "state": "Uttar Pradesh",
+    "city": "Kairana",
+    "region": "Gadh Shayshtpur, Kairana, Shamli district",
+    "tags": [
+      "Shiv Mandir Gadh Shayshtpur",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Khusropur)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Khusropur, Shamli district",
+    "tags": [
+      "Shiv Mandir Khusropur",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shivalay Mandir (Bhora Khurd)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Bhora Khurd, Shamli district",
+    "tags": [
+      "Shivalay Mandir Bhora Khurd",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Radha Krishna Temple (Kharar)",
+    "state": "Uttar Pradesh",
+    "city": "Shamli",
+    "region": "Kharar, Shamli district",
+    "tags": [
+      "Shiv Radha Krishna Temple",
+      "Shamli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shamli district with active daily worship and festival observance.",
+    "highlight": "Part of Shamli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (with Radha Krishna complex)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shamli and Kairana sectors, including market, colony, and village mandir nodes.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and traditional worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shamli district",
+          "url": "https://en.wikipedia.org/wiki/Shamli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shamli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Vishwanath Temple (Sadar Bazar)",
+    "state": "Uttar Pradesh",
+    "city": "Shahjahanpur",
+    "region": "Sadar Bazar, Shahjahanpur district",
+    "tags": [
+      "Baba Vishwanath Temple",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Vishwanath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Shiv Triloki Nath Dham (Paina Bujurg)",
+    "state": "Uttar Pradesh",
+    "city": "Paina Bujurg",
+    "region": "Paina Bujurg, Shahjahanpur district",
+    "tags": [
+      "Shiv Triloki Nath Dham",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Triloki Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Trilokinath Shiv Mandir (Bijlipura)",
+    "state": "Uttar Pradesh",
+    "city": "Bijlipura",
+    "region": "Bijlipura, Shahjahanpur district",
+    "tags": [
+      "Trilokinath Shiv Mandir",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Trilokinath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Tedheshwar Nath Temple",
+    "state": "Uttar Pradesh",
+    "city": "Shahjahanpur",
+    "region": "Shahjahanpur district",
+    "tags": [
+      "Tedheshwar Nath Temple",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Tedheshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mankameswar Mahadev Mandir (Chinnor)",
+    "state": "Uttar Pradesh",
+    "city": "Chinnor",
+    "region": "Chinnor, Shahjahanpur district",
+    "tags": [
+      "Mankameswar Mahadev",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mankameswar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Bankhandi Nath Mandir (Chamkani)",
+    "state": "Uttar Pradesh",
+    "city": "Chamkani",
+    "region": "Chamkani, Shahjahanpur district",
+    "tags": [
+      "Bankhandi Nath Mandir",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bankhandi Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiva Temple (Mishripur)",
+    "state": "Uttar Pradesh",
+    "city": "Mishripur",
+    "region": "Mishripur, Shahjahanpur district",
+    "tags": [
+      "Shiva Temple Mishripur",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Om Kaleshwar Nath Mandir (Dalel Ganj)",
+    "state": "Uttar Pradesh",
+    "city": "Shahjahanpur",
+    "region": "Dalel Ganj, Shahjahanpur district",
+    "tags": [
+      "Kaleshwar Nath Mandir",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Kaleshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Neel Kanth Shiv Mandir (Babu Ji Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Shahjahanpur",
+    "region": "Babu Ji Nagar, Shahjahanpur district",
+    "tags": [
+      "Neel Kanth Shiv Mandir",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Neel Kanth)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sunasir Nath Temple",
+    "state": "Uttar Pradesh",
+    "city": "Shahjahanpur",
+    "region": "Shahjahanpur district",
+    "tags": [
+      "Sunasir Nath Temple",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunasirnath.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3ASunasirnath.jpg",
+    "deity": "Shiva (Sunasir Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahadevan Shiv Mandir - Khudaganj",
+    "state": "Uttar Pradesh",
+    "city": "Khudaganj",
+    "region": "Khudaganj, Shahjahanpur district",
+    "tags": [
+      "Mahadevan Shiv Mandir",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadevan)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Anandeshwar Nath Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Shahjahanpur",
+    "region": "Shahjahanpur district",
+    "tags": [
+      "Anandeshwar Nath Shiv Mandir",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Anandeshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Tilhar (Sua Kheri)",
+    "state": "Uttar Pradesh",
+    "city": "Tilhar",
+    "region": "Sua Kheri, Tilhar, Shahjahanpur district",
+    "tags": [
+      "Shiv Mandir Tilhar",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Baldevpur (Guteti Uttar)",
+    "state": "Uttar Pradesh",
+    "city": "Baldevpur",
+    "region": "Guteti Uttar, Baldevpur, Shahjahanpur district",
+    "tags": [
+      "Shiv Mandir Baldevpur",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Nagtara (Bilandpur)",
+    "state": "Uttar Pradesh",
+    "city": "Nagtara",
+    "region": "Bilandpur, Nagtara, Shahjahanpur district",
+    "tags": [
+      "Shiv Mandir Nagtara",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Gogepur (Sunaura)",
+    "state": "Uttar Pradesh",
+    "city": "Gogepur",
+    "region": "Sunaura, Gogepur, Shahjahanpur district",
+    "tags": [
+      "Shiv Mandir Gogepur",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Langhoti Baba Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Shahjahanpur",
+    "region": "Shahjahanpur district",
+    "tags": [
+      "Langhoti Baba Mandir",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Langhoti Baba tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mishripur Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Mishripur",
+    "region": "Mishripur, Shahjahanpur district",
+    "tags": [
+      "Mishripur Shiv Mandir",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Jalalabad",
+    "state": "Uttar Pradesh",
+    "city": "Jalalabad",
+    "region": "Jalalabad, Shahjahanpur district",
+    "tags": [
+      "Shiv Mandir Jalalabad",
+      "Shahjahanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Shahjahanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Shahjahanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T10:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Shahjahanpur city, Khudaganj, Tilhar, Jalalabad, and surrounding localities.",
+      "architecture": "A mix of local mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Shahjahanpur district",
+          "url": "https://en.wikipedia.org/wiki/Shahjahanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Shahjahanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Pataleshwar Shiv Mandir - Gunnaur (Sadatwari)",
+    "state": "Uttar Pradesh",
+    "city": "Gunnaur",
+    "region": "Sadatwari, Gunnaur, Sambhal district",
+    "tags": [
+      "Pataleshwar Shiv Mandir",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Pataleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Saidpur Fatehpur Samsoi)",
+    "state": "Uttar Pradesh",
+    "city": "Sambhal",
+    "region": "Saidpur Fatehpur Samsoi, Sambhal district",
+    "tags": [
+      "Shiv Mandir Saidpur Fatehpur Samsoi",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dehpa Shiv Mandir (Fatehpur Dev)",
+    "state": "Uttar Pradesh",
+    "city": "Fatehpur Dev",
+    "region": "Fatehpur Dev, Sambhal district",
+    "tags": [
+      "Dehpa Shiv Mandir",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Shahjahanabad)",
+    "state": "Uttar Pradesh",
+    "city": "Shahjahanabad",
+    "region": "Shahjahanabad, Sambhal district",
+    "tags": [
+      "Shiv Mandir Shahjahanabad",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Praktashwar Mahadev Mandir (Singhpur Sani)",
+    "state": "Uttar Pradesh",
+    "city": "Singhpur Sani",
+    "region": "Singhpur Sani, Sambhal district",
+    "tags": [
+      "Praktashwar Mahadev Mandir",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Praktashwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Bhirawati)",
+    "state": "Uttar Pradesh",
+    "city": "Bhirawati",
+    "region": "Bhirawati, Sambhal district",
+    "tags": [
+      "Shiv Mandir Bhirawati",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pataleshwar Shiv Mandir - Chandausi (Sakatpur Kasauli)",
+    "state": "Uttar Pradesh",
+    "city": "Chandausi",
+    "region": "Sakatpur Kasauli, Chandausi, Sambhal district",
+    "tags": [
+      "Pataleshwar Shiv Mandir Chandausi",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Pataleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Dhanari) - Gunnaur",
+    "state": "Uttar Pradesh",
+    "city": "Gunnaur",
+    "region": "Dhanari, Gunnaur, Sambhal district",
+    "tags": [
+      "Shiv Temple Dhanari",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Chimiyawli)",
+    "state": "Uttar Pradesh",
+    "city": "Chimiyawli",
+    "region": "Chimiyawli, Sambhal district",
+    "tags": [
+      "Shiv Mandir Chimiyawli",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shivji Temple (Jianagla)",
+    "state": "Uttar Pradesh",
+    "city": "Jianagla",
+    "region": "Jianagla, Sambhal district",
+    "tags": [
+      "Shivji Temple Jianagla",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Nooryon Sarai)",
+    "state": "Uttar Pradesh",
+    "city": "Nooryon Sarai",
+    "region": "Nooryon Sarai, Sambhal district",
+    "tags": [
+      "Shiv Mandir Nooryon Sarai",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Atrasi",
+    "state": "Uttar Pradesh",
+    "city": "Atrasi",
+    "region": "Atrasi, Sambhal district",
+    "tags": [
+      "Shiv Mandir Atrasi",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kaka Soap Shiv Mandir (Brahm Bazar)",
+    "state": "Uttar Pradesh",
+    "city": "Sambhal",
+    "region": "Brahm Bazar, Sambhal district",
+    "tags": [
+      "Kaka Soap Shiv Mandir",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Dham Mandir (Hazrat Nagar Garhi)",
+    "state": "Uttar Pradesh",
+    "city": "Hazrat Nagar Garhi",
+    "region": "Hazrat Nagar Garhi, Sambhal district",
+    "tags": [
+      "Shiv Dham Mandir",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Purana Shiv Mandir - Bahjoi",
+    "state": "Uttar Pradesh",
+    "city": "Bahjoi",
+    "region": "Bahjoi, Sambhal district",
+    "tags": [
+      "Purana Shiv Mandir Bahjoi",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Kaima Salarpur Kalan)",
+    "state": "Uttar Pradesh",
+    "city": "Kaima Salarpur Kalan",
+    "region": "Kaima Salarpur Kalan, Sambhal district",
+    "tags": [
+      "Shiv Mandir Kaima Salarpur Kalan",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Ladm Sarai)",
+    "state": "Uttar Pradesh",
+    "city": "Ladm Sarai",
+    "region": "Ladm Sarai, Sambhal district",
+    "tags": [
+      "Shiv Mandir Ladm Sarai",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Chndreswar Mahadev Mandir (Chandayan)",
+    "state": "Uttar Pradesh",
+    "city": "Chandayan",
+    "region": "Chandayan, Sambhal district",
+    "tags": [
+      "Chndreswar Mahadev Mandir",
+      "Sambhal",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sambhal district with active daily worship and festival observance.",
+    "highlight": "Part of Sambhal's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Chndreswar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Gunnaur, Chandausi, Bahjoi, and surrounding Sambhal district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sambhal district",
+          "url": "https://en.wikipedia.org/wiki/Sambhal_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sambhal",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Tameshwar Nath Dham - Khalilabad",
+    "state": "Uttar Pradesh",
+    "city": "Khalilabad",
+    "region": "Khalilabad, Sant Kabir Nagar district",
+    "tags": [
+      "Tameshwar Nath Dham",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Tameshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Shiv Mandir Kopiya (Baba Kopeshwarnath) - Khalilabad (Bakhira)",
+    "state": "Uttar Pradesh",
+    "city": "Khalilabad",
+    "region": "Bakhira, Khalilabad, Sant Kabir Nagar district",
+    "tags": [
+      "Kopiya Shiv Mandir",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Baba Kopeshwarnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Bhangeshwarnath Mandir - Khalilabad (Bakhira)",
+    "state": "Uttar Pradesh",
+    "city": "Khalilabad",
+    "region": "Bakhira, Khalilabad, Sant Kabir Nagar district",
+    "tags": [
+      "Bhangeshwarnath Mandir",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bhangeshwarnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Dabra - Mehdawal",
+    "state": "Uttar Pradesh",
+    "city": "Mehdawal",
+    "region": "Dabra, Mehdawal, Sant Kabir Nagar district",
+    "tags": [
+      "Shiv Mandir Dabra",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pakka Pokhara Shiv Mandir - Mehdawal",
+    "state": "Uttar Pradesh",
+    "city": "Mehdawal",
+    "region": "Mehdawal, Sant Kabir Nagar district",
+    "tags": [
+      "Pakka Pokhara Shiv Mandir",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Makkeshwaram Mahadev Mandir - Mehdawal",
+    "state": "Uttar Pradesh",
+    "city": "Mehdawal",
+    "region": "Mehdawal, Sant Kabir Nagar district",
+    "tags": [
+      "Makkeshwaram Mahadev",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Makkeshwaram Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Haseswar Nath Mandir - Ghanghata (Haisheri)",
+    "state": "Uttar Pradesh",
+    "city": "Ghanghata",
+    "region": "Haisheri, Ghanghata, Sant Kabir Nagar district",
+    "tags": [
+      "Haseswar Nath Mandir",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Haseswar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Natheshvar Nath Shiv Mandir - Khalilabad (Mukhlishpur)",
+    "state": "Uttar Pradesh",
+    "city": "Khalilabad",
+    "region": "Mukhlishpur, Khalilabad, Sant Kabir Nagar district",
+    "tags": [
+      "Natheshvar Nath Shiv Mandir",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Natheshvar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lord Shiva Temple Mahadevpur - Khalilabad",
+    "state": "Uttar Pradesh",
+    "city": "Khalilabad",
+    "region": "Mahadevpur, Khalilabad, Sant Kabir Nagar district",
+    "tags": [
+      "Lord Shiva Temple Mahadevpur",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Bakaha) - Khalilabad",
+    "state": "Uttar Pradesh",
+    "city": "Khalilabad",
+    "region": "Bakaha, Khalilabad, Sant Kabir Nagar district",
+    "tags": [
+      "Shiv Temple Bakaha",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Hardi) - Khalilabad",
+    "state": "Uttar Pradesh",
+    "city": "Khalilabad",
+    "region": "Hardi, Khalilabad, Sant Kabir Nagar district",
+    "tags": [
+      "Shiv Mandir Hardi",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Ama Pipra) - Santha",
+    "state": "Uttar Pradesh",
+    "city": "Santha",
+    "region": "Ama Pipra, Santha, Sant Kabir Nagar district",
+    "tags": [
+      "Shiv Mandir Ama Pipra",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Goryabhar Shiv Mandir - Khalilabad (Karri Khas)",
+    "state": "Uttar Pradesh",
+    "city": "Khalilabad",
+    "region": "Karri Khas, Khalilabad, Sant Kabir Nagar district",
+    "tags": [
+      "Goryabhar Shiv Mandir",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Harihar Nath Shiv Temple - Ghanghata (Belduha)",
+    "state": "Uttar Pradesh",
+    "city": "Ghanghata",
+    "region": "Belduha, Ghanghata, Sant Kabir Nagar district",
+    "tags": [
+      "Harihar Nath Shiv Temple",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Harihar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kashi Mahadev Temple - Mehdawal",
+    "state": "Uttar Pradesh",
+    "city": "Mehdawal",
+    "region": "Mehdawal, Sant Kabir Nagar district",
+    "tags": [
+      "Kashi Mahadev Temple",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Kashi Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Sadhneshwar Naath Shiv Temple - Ghanghata",
+    "state": "Uttar Pradesh",
+    "city": "Ghanghata",
+    "region": "Ghanghata, Sant Kabir Nagar district",
+    "tags": [
+      "Sadhneshwar Naath Shiv Temple",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Sadhneshwar Naath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Rampur Barakoni) - Khalilabad",
+    "state": "Uttar Pradesh",
+    "city": "Khalilabad",
+    "region": "Rampur Barakoni, Khalilabad, Sant Kabir Nagar district",
+    "tags": [
+      "Shiv Mandir Rampur Barakoni",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Padaraha) - Khalilabad",
+    "state": "Uttar Pradesh",
+    "city": "Khalilabad",
+    "region": "Padaraha, Khalilabad, Sant Kabir Nagar district",
+    "tags": [
+      "Shiv Temple Padaraha",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Yogeshar Nath Temple - Khalilabad (Bhogipur)",
+    "state": "Uttar Pradesh",
+    "city": "Khalilabad",
+    "region": "Bhogipur, Khalilabad, Sant Kabir Nagar district",
+    "tags": [
+      "Yogeshar Nath Temple",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Yogeshar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Rangewarnath Shiva Mandir - Mehdawal (Hansawa)",
+    "state": "Uttar Pradesh",
+    "city": "Mehdawal",
+    "region": "Hansawa, Mehdawal, Sant Kabir Nagar district",
+    "tags": [
+      "Rangewarnath Shiva Mandir",
+      "Sant Kabir Nagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Sant Kabir Nagar district with active daily worship and festival observance.",
+    "highlight": "Part of Sant Kabir Nagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Rangewarnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Khalilabad, Mehdawal, Ghanghata, and Santha sectors of Sant Kabir Nagar district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Sant Kabir Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Sant_Kabir_Nagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Sant Kabir Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Bhuteshwar Mahadev Temple - (Sadar)",
+    "state": "Uttar Pradesh",
+    "city": "Saharanpur",
+    "region": "Sadar, Saharanpur district",
+    "tags": [
+      "Bhuteshwar Mahadev Temple",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bhuteshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bageshawar Mahadev Temple (Company Bagh) - (Sadar)",
+    "state": "Uttar Pradesh",
+    "city": "Saharanpur",
+    "region": "Company Bagh (Sadar), Saharanpur district",
+    "tags": [
+      "Bageshawar Mahadev Temple",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bageshawar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shivadham Temple - (Brij Vihar)",
+    "state": "Uttar Pradesh",
+    "city": "Saharanpur",
+    "region": "Brij Vihar, Saharanpur district",
+    "tags": [
+      "Shivadham Temple",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pataleshwar Mahadev Temple - (Rani Bazar)",
+    "state": "Uttar Pradesh",
+    "city": "Saharanpur",
+    "region": "Rani Bazar, Saharanpur district",
+    "tags": [
+      "Pataleshwar Mahadev Temple",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Pataleshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Nanauta",
+    "state": "Uttar Pradesh",
+    "city": "Nanauta",
+    "region": "Nanauta, Saharanpur district",
+    "tags": [
+      "Shiv Mandir Nanauta",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Tehsil Shiv Mandir - (Haqikat Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Saharanpur",
+    "region": "Haqikat Nagar, Saharanpur district",
+    "tags": [
+      "Tehsil Shiv Mandir",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Badkeshwar Mahadev Temple - Behat (Haiderpur)",
+    "state": "Uttar Pradesh",
+    "city": "Behat",
+    "region": "Haiderpur, Behat, Saharanpur district",
+    "tags": [
+      "Badkeshwar Mahadev Temple",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Badkeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple - Behat (Islamnagar)",
+    "state": "Uttar Pradesh",
+    "city": "Behat",
+    "region": "Islamnagar, Behat, Saharanpur district",
+    "tags": [
+      "Shiv Temple Behat Islamnagar",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lord Shiva Temple - Sarsawa (Sabdalpur)",
+    "state": "Uttar Pradesh",
+    "city": "Sarsawa",
+    "region": "Sabdalpur, Sarsawa, Saharanpur district",
+    "tags": [
+      "Lord Shiva Temple Sarsawa",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mora Shiv Mandir - (Mora)",
+    "state": "Uttar Pradesh",
+    "city": "Mora",
+    "region": "Mora, Saharanpur district",
+    "tags": [
+      "Mora Shiv Mandir",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Gangoh",
+    "state": "Uttar Pradesh",
+    "city": "Gangoh",
+    "region": "Gangoh, Saharanpur district",
+    "tags": [
+      "Shiv Mandir Gangoh",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pracheen Kodiram Shiv Mandir - (Ram Jivan Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Saharanpur",
+    "region": "Ram Jivan Nagar, Saharanpur district",
+    "tags": [
+      "Pracheen Kodiram Shiv Mandir",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Chowk - Nagal",
+    "state": "Uttar Pradesh",
+    "city": "Nagal",
+    "region": "Nagal, Saharanpur district",
+    "tags": [
+      "Shiv Chowk Nagal",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shivji Mandir - Behat (Badshahi Bagh)",
+    "state": "Uttar Pradesh",
+    "city": "Behat",
+    "region": "Badshahi Bagh, Behat, Saharanpur district",
+    "tags": [
+      "Shivji Mandir Behat",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Khera Afgan - Nakur",
+    "state": "Uttar Pradesh",
+    "city": "Nakur",
+    "region": "Khera Afgan, Nakur, Saharanpur district",
+    "tags": [
+      "Shiv Mandir Khera Afgan",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Chandi - Muzaffarabad",
+    "state": "Uttar Pradesh",
+    "city": "Muzaffarabad",
+    "region": "Muzaffarabad, Saharanpur district",
+    "tags": [
+      "Shiv Mandir Chandi",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Deoband (Chimmipwara)",
+    "state": "Uttar Pradesh",
+    "city": "Deoband",
+    "region": "Chimmipwara, Deoband, Saharanpur district",
+    "tags": [
+      "Shiv Mandir Deoband",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Rampur Maniharan (Shiv Puri)",
+    "state": "Uttar Pradesh",
+    "city": "Rampur Maniharan",
+    "region": "Shiv Puri, Rampur Maniharan, Saharanpur district",
+    "tags": [
+      "Shiv Mandir Rampur Maniharan",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shivmandir Alipura - (Alipura)",
+    "state": "Uttar Pradesh",
+    "city": "Alipura",
+    "region": "Alipura, Saharanpur district",
+    "tags": [
+      "Shivmandir Alipura",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sidhh Indreshwar Mahadev - Behat (Bhuradev)",
+    "state": "Uttar Pradesh",
+    "city": "Behat",
+    "region": "Bhuradev, Behat, Saharanpur district",
+    "tags": [
+      "Sidhh Indreshwar Mahadev",
+      "Saharanpur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Saharanpur district with active daily worship and festival observance.",
+    "highlight": "Part of Saharanpur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Indreshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T11:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Saharanpur city, Behat, Nanauta, Gangoh, Nakur, Muzaffarabad, Deoband, and nearby localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Saharanpur district",
+          "url": "https://en.wikipedia.org/wiki/Saharanpur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Saharanpur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Rathonda - Shahabad",
+    "state": "Uttar Pradesh",
+    "city": "Shahabad",
+    "region": "Rathonda, Shahabad, Rampur district",
+    "tags": [
+      "Shiv Mandir Rathonda",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pataleshwar Mahadev Temple (Bhamraua) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Rampur",
+    "region": "Bhamraua (Sadar), Rampur district",
+    "tags": [
+      "Pataleshwar Mahadev Temple",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Pataleshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahakaal Shiv Mandir - Shahabad",
+    "state": "Uttar Pradesh",
+    "city": "Shahabad",
+    "region": "Shahabad, Rampur district",
+    "tags": [
+      "Mahakaal Shiv Mandir",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahakaal)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Vaidhnath Dham - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Rampur",
+    "region": "Sadar, Rampur district",
+    "tags": [
+      "Vaidhnath Dham",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Vaidhnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Old Lord Shiva Temple - Milak (Pranpura)",
+    "state": "Uttar Pradesh",
+    "city": "Milak",
+    "region": "Pranpura, Milak, Rampur district",
+    "tags": [
+      "Old Lord Shiva Temple",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Barhpura Sharqi) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Rampur",
+    "region": "Barhpura Sharqi (Sadar), Rampur district",
+    "tags": [
+      "Shiv Mandir Barhpura Sharqi",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mota-Mahadev Mandir - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Rampur",
+    "region": "Sadar, Rampur district",
+    "tags": [
+      "Mota-Mahadev Mandir",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Punjabnagar - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Rampur",
+    "region": "Punjabnagar (Sadar), Rampur district",
+    "tags": [
+      "Shiv Mandir Punjabnagar",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Bara Khas) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Rampur",
+    "region": "Bara Khas (Sadar), Rampur district",
+    "tags": [
+      "Shiv Mandir Bara Khas",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pataleshwar Shiv Temple Lakhna Khera - Milak",
+    "state": "Uttar Pradesh",
+    "city": "Milak",
+    "region": "Lakhna Khera, Milak, Rampur district",
+    "tags": [
+      "Pataleshwar Shiv Temple Lakhna Khera",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Pataleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Leela Temple - Milak (Baboora)",
+    "state": "Uttar Pradesh",
+    "city": "Milak",
+    "region": "Baboora, Milak, Rampur district",
+    "tags": [
+      "Shiv Leela Temple",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Shiv Guru Gorakhnath Dham (Madi) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Rampur",
+    "region": "Madi (Sadar), Rampur district",
+    "tags": [
+      "Shiv Guru Gorakhnath Dham",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (with Gorakhnath tradition)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Kamora) - Milak",
+    "state": "Uttar Pradesh",
+    "city": "Milak",
+    "region": "Kamora, Milak, Rampur district",
+    "tags": [
+      "Shiv Mandir Kamora",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhanvareshvar Mandir - Sudauli",
+    "state": "Uttar Pradesh",
+    "city": "Sudauli",
+    "region": "Sudauli, Rampur district",
+    "tags": [
+      "Bhanvareshvar Mandir",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bhanvareshvar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Temple - Suar",
+    "state": "Uttar Pradesh",
+    "city": "Suar",
+    "region": "Suar, Rampur district",
+    "tags": [
+      "Prachin Shiv Temple",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Mannu Nagar) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Rampur",
+    "region": "Mannu Nagar (Sadar), Rampur district",
+    "tags": [
+      "Shiv Mandir Mannu Nagar",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Tiwari Bale Baba Shiv Mandir - Milak",
+    "state": "Uttar Pradesh",
+    "city": "Milak",
+    "region": "Milak, Rampur district",
+    "tags": [
+      "Tiwari Bale Baba Shiv Mandir",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Bhole Nath Mandir (Sihari) - Milak",
+    "state": "Uttar Pradesh",
+    "city": "Milak",
+    "region": "Sihari, Milak, Rampur district",
+    "tags": [
+      "Bhole Nath Mandir Sihari",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bhole Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Ji Temple - Sadar (Sai Vihar)",
+    "state": "Uttar Pradesh",
+    "city": "Rampur",
+    "region": "Sai Vihar (Sadar), Rampur district",
+    "tags": [
+      "Shiv Ji Temple Sai Vihar",
+      "Rampur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rampur district with active daily worship and festival observance.",
+    "highlight": "Part of Rampur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Shahabad, Milak, Suar, and surrounding Rampur district localities.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rampur district",
+          "url": "https://en.wikipedia.org/wiki/Rampur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rampur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhawreshwar/Bhanvareshwar Mandir - Bachhrawan (Barenda)",
+    "state": "Uttar Pradesh",
+    "city": "Bachhrawan",
+    "region": "Barenda, Bachhrawan, Rae Bareli district",
+    "tags": [
+      "Bhawreshwar Bhanvareshwar Mandir",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bhanvareshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Achleshwar Mahadev Mandir - Bachhrawan (Rahwa)",
+    "state": "Uttar Pradesh",
+    "city": "Bachhrawan",
+    "region": "Rahwa, Bachhrawan, Rae Bareli district",
+    "tags": [
+      "Achleshwar Mahadev Mandir",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Achleshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Mrityunjay Shiv Mandir - (Sadar)",
+    "state": "Uttar Pradesh",
+    "city": "Rae Bareli",
+    "region": "Sadar, Rae Bareli district",
+    "tags": [
+      "Mrityunjay Shiv Mandir",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mrityunjay)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahakaleshwar Mandir - (Sadar)",
+    "state": "Uttar Pradesh",
+    "city": "Rae Bareli",
+    "region": "Sadar, Rae Bareli district",
+    "tags": [
+      "Mahakaleshwar Mandir",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahakaleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Jhalleshvar Shiv Temple - (Mohammadpur)",
+    "state": "Uttar Pradesh",
+    "city": "Mohammadpur",
+    "region": "Mohammadpur, Rae Bareli district",
+    "tags": [
+      "Jhalleshvar Shiv Temple",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Jhalleshvar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Jageshwar Baba Shiv Mandir - (Tikra)",
+    "state": "Uttar Pradesh",
+    "city": "Tikra",
+    "region": "Tikra, Rae Bareli district",
+    "tags": [
+      "Jageshwar Baba Shiv Mandir",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Jageshwar Baba)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sarveshwar Shiv Mandir - (Sadar)",
+    "state": "Uttar Pradesh",
+    "city": "Rae Bareli",
+    "region": "Sadar, Rae Bareli district",
+    "tags": [
+      "Sarveshwar Shiv Mandir",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Sarveshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Sushmeswar Mahadev Temple - (Sadar)",
+    "state": "Uttar Pradesh",
+    "city": "Rae Bareli",
+    "region": "Sadar, Rae Bareli district",
+    "tags": [
+      "Sushmeswar Mahadev Temple",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Sushmeswar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Balheshwar Temple - Lalganj (Aihar)",
+    "state": "Uttar Pradesh",
+    "city": "Lalganj",
+    "region": "Aihar, Lalganj, Rae Bareli district",
+    "tags": [
+      "Balheshwar Temple",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Balheshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Kanjeshwar Mahadev Mandir - Harchandpur (Pastaur)",
+    "state": "Uttar Pradesh",
+    "city": "Harchandpur",
+    "region": "Pastaur, Harchandpur, Rae Bareli district",
+    "tags": [
+      "Kanjeshwar Mahadev Mandir",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Kanjeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mankameshwar Mandir - Unchahar (Baherawa)",
+    "state": "Uttar Pradesh",
+    "city": "Unchahar",
+    "region": "Baherawa, Unchahar, Rae Bareli district",
+    "tags": [
+      "Mankameshwar Mandir",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mankameshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Budhe Nath Baba Mandir - Unchahar (Mirzapur Aihari)",
+    "state": "Uttar Pradesh",
+    "city": "Unchahar",
+    "region": "Mirzapur Aihari, Unchahar, Rae Bareli district",
+    "tags": [
+      "Budhe Nath Baba Mandir",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Budhe Nath Baba)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Omkareshwar Shiv Temple - Lalganj (Sultanpur Khera)",
+    "state": "Uttar Pradesh",
+    "city": "Lalganj",
+    "region": "Sultanpur Khera, Lalganj, Rae Bareli district",
+    "tags": [
+      "Omkareshwar Shiv Temple",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Omkareshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Jharkhandesware Mahadev Mandir - Sareni",
+    "state": "Uttar Pradesh",
+    "city": "Sareni",
+    "region": "Sareni, Rae Bareli district",
+    "tags": [
+      "Jharkhandesware Mahadev Mandir",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Jharkhandesware Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Suryeshwar Mahadev Mandir - Lalganj (Barha)",
+    "state": "Uttar Pradesh",
+    "city": "Lalganj",
+    "region": "Barha, Lalganj, Rae Bareli district",
+    "tags": [
+      "Suryeshwar Mahadev Mandir",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Suryeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Gauri Shankar Baba Mandir - Sareni (Hamidpur)",
+    "state": "Uttar Pradesh",
+    "city": "Sareni",
+    "region": "Hamidpur, Sareni, Rae Bareli district",
+    "tags": [
+      "Gauri Shankar Baba Mandir",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Gauri Shankar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Narmadeshwar Mahadev Mandir - Bachhrawan",
+    "state": "Uttar Pradesh",
+    "city": "Bachhrawan",
+    "region": "Bachhrawan, Rae Bareli district",
+    "tags": [
+      "Narmadeshwar Mahadev Mandir",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Narmadeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Pure Jorawer - Lalganj (Rampur Kalan)",
+    "state": "Uttar Pradesh",
+    "city": "Lalganj",
+    "region": "Rampur Kalan, Lalganj, Rae Bareli district",
+    "tags": [
+      "Shiv Mandir Pure Jorawer",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Deveshwer Mahadev - Sadar (Ghuri Khera)",
+    "state": "Uttar Pradesh",
+    "city": "Rae Bareli",
+    "region": "Ghuri Khera, Sadar, Rae Bareli district",
+    "tags": [
+      "Shiv Deveshwer Mahadev",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Deveshwer Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shivalay Mandir Shankar Ji - Salon (Nasirabad)",
+    "state": "Uttar Pradesh",
+    "city": "Salon",
+    "region": "Nasirabad, Salon, Rae Bareli district",
+    "tags": [
+      "Shivalay Mandir Shankar Ji",
+      "Rae Bareli",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Rae Bareli district with active daily worship and festival observance.",
+    "highlight": "Part of Rae Bareli's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Shankar Ji)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T12:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Bachhrawan, Lalganj, Sareni, Unchahar, Harchandpur, and Salon sectors of Rae Bareli district.",
+      "architecture": "A blend of local mandirs, older shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Weekday mornings generally provide smoother darshan conditions.",
+      "sources": [
+        {
+          "label": "Rae Bareli district",
+          "url": "https://en.wikipedia.org/wiki/Rae_Bareli_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Rae Bareli",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Mankameshwar Mahadev Temple - Sadar (Kydganj)",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "region": "Kydganj, Sadar, Prayagraj district",
+    "tags": [
+      "Shri Mankameshwar Mahadev Temple",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mankameshwar_Temple_Prayagraj.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Mankameshwar_Temple_Prayagraj.jpg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Someshwar Nath Mahadev Mandir - Karchana (Arail)",
+    "state": "Uttar Pradesh",
+    "city": "Karchana",
+    "region": "Arail, Karchana, Prayagraj district",
+    "tags": [
+      "Someshwar Nath Mahadev Mandir",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Patalpuri Temple - Sadar (Prayagraj Fort)",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "region": "Prayagraj Fort, Sadar, Prayagraj district",
+    "tags": [
+      "Patalpuri Temple",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Niche_with_Idol_-_Outside_Patalpuri_Temple_-_Sangam_Site_-_Allahabad_-_Uttar_Pradesh_-_India_(12588866405).jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Niche_with_Idol_-_Outside_Patalpuri_Temple_-_Sangam_Site_-_Allahabad_-_Uttar_Pradesh_-_India_(12588866405).jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Takshakeshwar Nath Temple - Sadar (Dariyabad)",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "region": "Dariyabad, Sadar, Prayagraj district",
+    "tags": [
+      "Takshakeshwar Nath Temple",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Nag Vasuki Temple - Sadar (Daraganj)",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "region": "Daraganj, Sadar, Prayagraj district",
+    "tags": [
+      "Nag Vasuki Temple",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nag_Vasuki_Temple_Prayagraj.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nag_Vasuki_Temple_Prayagraj.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shankar Viman Mandapam - Sadar (Sangam Area)",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "region": "Sangam Area, Sadar, Prayagraj district",
+    "tags": [
+      "Shankar Viman Mandapam",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shivkoti Mahadev Temple - Sadar (Bakshi Bandh)",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "region": "Bakshi Bandh, Sadar, Prayagraj district",
+    "tags": [
+      "Shivkoti Mahadev Temple",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dashashwamedh Temple - Sadar (Daraganj)",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "region": "Daraganj, Sadar, Prayagraj district",
+    "tags": [
+      "Dashashwamedh Temple",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kashi Mahadev Temple - Meja",
+    "state": "Uttar Pradesh",
+    "city": "Meja",
+    "region": "Meja, Prayagraj district",
+    "tags": [
+      "Kashi Mahadev Temple",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Soraon (Kamlanagar)",
+    "state": "Uttar Pradesh",
+    "city": "Soraon",
+    "region": "Kamlanagar, Soraon, Prayagraj district",
+    "tags": [
+      "Shiv Mandir",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Gokuleshwar Mahadev Mandir - Karchana (Arail)",
+    "state": "Uttar Pradesh",
+    "city": "Karchana",
+    "region": "Arail, Karchana, Prayagraj district",
+    "tags": [
+      "Gokuleshwar Mahadev Mandir",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sultankeshwar Mahadev Prachin Mandir - Karchana (Arail)",
+    "state": "Uttar Pradesh",
+    "city": "Karchana",
+    "region": "Arail, Karchana, Prayagraj district",
+    "tags": [
+      "Sultankeshwar Mahadev Prachin Mandir",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Alarkeshwar Shiv Dham - Karchana (Arail)",
+    "state": "Uttar Pradesh",
+    "city": "Karchana",
+    "region": "Arail, Karchana, Prayagraj district",
+    "tags": [
+      "Alarkeshwar Shiv Dham",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Ram Khelawan Shiv Mandir - Sadar (Naini)",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "region": "Naini, Sadar, Prayagraj district",
+    "tags": [
+      "Ram Khelawan Shiv Mandir",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Phulpur",
+    "state": "Uttar Pradesh",
+    "city": "Phulpur",
+    "region": "Phulpur, Prayagraj district",
+    "tags": [
+      "Shiv Mandir",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Bhadarpur Urf Deenapur - Soraon",
+    "state": "Uttar Pradesh",
+    "city": "Soraon",
+    "region": "Soraon, Prayagraj district",
+    "tags": [
+      "Shiv Mandir Bhadarpur Urf Deenapur",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Jharkhandi Mahadev Mandir - Handia",
+    "state": "Uttar Pradesh",
+    "city": "Handia",
+    "region": "Handia, Prayagraj district",
+    "tags": [
+      "Jharkhandi Mahadev Mandir",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir - Bara",
+    "state": "Uttar Pradesh",
+    "city": "Bara",
+    "region": "Bara, Prayagraj district",
+    "tags": [
+      "Prachin Shiv Mandir",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Koraon",
+    "state": "Uttar Pradesh",
+    "city": "Koraon",
+    "region": "Koraon, Prayagraj district",
+    "tags": [
+      "Shiv Mandir",
+      "Prayagraj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Prayagraj district with active daily worship and festival observance.",
+    "highlight": "Part of Prayagraj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Karchana, Meja, Soraon, Handia, Bara, Koraon, and Phulpur sectors of Prayagraj district.",
+      "architecture": "A blend of riverfront shrines, old mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Prayagraj district",
+          "url": "https://en.wikipedia.org/wiki/Prayagraj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Prayagraj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Bhayaharan Nath Dham - Kunda (Katra Gulab Singh)",
+    "state": "Uttar Pradesh",
+    "city": "Kunda",
+    "region": "Katra Gulab Singh, Kunda, Pratapgarh district",
+    "tags": [
+      "Baba Bhayaharan Nath Dham",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhayaharan_Nath_Dham.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhayaharan_Nath_Dham.jpg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Ghusmeshwar Nath Dham - Lalganj (Ajhara)",
+    "state": "Uttar Pradesh",
+    "city": "Lalganj",
+    "region": "Ajhara, Lalganj, Pratapgarh district",
+    "tags": [
+      "Ghusmeshwar Nath Dham",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Haudeshwar Nath Mandir - Kunda (Bihar)",
+    "state": "Uttar Pradesh",
+    "city": "Kunda",
+    "region": "Bihar, Kunda, Pratapgarh district",
+    "tags": [
+      "Haudeshwar Nath Mandir",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Belkhar Nath Dham - Patti (Khujhi Kala)",
+    "state": "Uttar Pradesh",
+    "city": "Patti",
+    "region": "Khujhi Kala, Patti, Pratapgarh district",
+    "tags": [
+      "Baba Belkhar Nath Dham",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Kamleshwer Nath Dham - Raniganj (Mau Jamtali)",
+    "state": "Uttar Pradesh",
+    "city": "Raniganj",
+    "region": "Mau Jamtali, Raniganj, Pratapgarh district",
+    "tags": [
+      "Baba Kamleshwer Nath Dham",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiva Temple - Sadar (Yadavpur)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Yadavpur, Sadar, Pratapgarh district",
+    "tags": [
+      "Shiva Temple",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Madhaveshwar Mahadev Mandir - Kunda (Pure Madhosingh)",
+    "state": "Uttar Pradesh",
+    "city": "Kunda",
+    "region": "Pure Madhosingh, Kunda, Pratapgarh district",
+    "tags": [
+      "Shree Madhaveshwar Mahadev Mandir",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Shri Shuklan Ka Purwa - Kunda",
+    "state": "Uttar Pradesh",
+    "city": "Kunda",
+    "region": "Shuklan Ka Purwa, Kunda, Pratapgarh district",
+    "tags": [
+      "Shiv Mandir Shri Shuklan Ka Purwa",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Parmeshwar Mahadev Mandir - Raniganj (Ratipur Rajgarh)",
+    "state": "Uttar Pradesh",
+    "city": "Raniganj",
+    "region": "Ratipur Rajgarh, Raniganj, Pratapgarh district",
+    "tags": [
+      "Parmeshwar Mahadev Mandir",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Bhole Temple (Jay Mahakal) - Sadar (Vishwanathganj)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Vishwanathganj, Sadar, Pratapgarh district",
+    "tags": [
+      "Shiv Bhole Temple (Jay Mahakal)",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Kadeswar Mahadev - Sadar (Sarai Amma)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Sarai Amma, Sadar, Pratapgarh district",
+    "tags": [
+      "Shri Kadeswar Mahadev",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Dham Barachha - Sadar (Chilbila)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Chilbila, Sadar, Pratapgarh district",
+    "tags": [
+      "Shiv Mandir Dham Barachha",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Hathaura Sarai - Raniganj",
+    "state": "Uttar Pradesh",
+    "city": "Raniganj",
+    "region": "Hathaura Sarai, Raniganj, Pratapgarh district",
+    "tags": [
+      "Shiv Mandir Hathaura Sarai",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Divya Shiv Mandir - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Sadar, Pratapgarh district",
+    "tags": [
+      "Divya Shiv Mandir",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Sadar (Harparmau)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Harparmau, Sadar, Pratapgarh district",
+    "tags": [
+      "Shiv Mandir",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Shakti Dham - Kunda (Naubasta)",
+    "state": "Uttar Pradesh",
+    "city": "Kunda",
+    "region": "Naubasta, Kunda, Pratapgarh district",
+    "tags": [
+      "Shiv Shakti Dham",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandeer - Kunda",
+    "state": "Uttar Pradesh",
+    "city": "Kunda",
+    "region": "Kunda, Pratapgarh district",
+    "tags": [
+      "Shiv Mandeer",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiva Temple - Sadar (Akhayrajpur)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Akhayrajpur, Sadar, Pratapgarh district",
+    "tags": [
+      "Shiva Temple",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lord Shiva Temple - Sadar (Behta Sonpura)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Behta Sonpura, Sadar, Pratapgarh district",
+    "tags": [
+      "Lord Shiva Temple",
+      "Pratapgarh",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pratapgarh district with active daily worship and festival observance.",
+    "highlight": "Part of Pratapgarh's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Kunda, Lalganj, Patti, Raniganj, and Sadar sectors of Pratapgarh district.",
+      "architecture": "A blend of old mandirs, dham complexes, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pratapgarh district (Uttar Pradesh)",
+          "url": "https://en.wikipedia.org/wiki/Pratapgarh_district,_Uttar_Pradesh",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pratapgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Gauri Shankar Mandir - (Sadar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Sadar, Pilibhit district",
+    "tags": [
+      "Shree Gauri Shankar Mandir",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaurishankar_mandir_pilibhit01.JPG",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gaurishankar_mandir_pilibhit01.JPG",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Ikottar Nath Temple - Puranpur",
+    "state": "Uttar Pradesh",
+    "city": "Puranpur",
+    "region": "Puranpur, Pilibhit district",
+    "tags": [
+      "Baba Ikottar Nath Temple",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Ardhanarishwara Temple - (Sadar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Sadar, Pilibhit district",
+    "tags": [
+      "Ardhanarishwara Temple",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Ardhanarishwara)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Nageshwar Mahadev Temple - (Sadar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Sadar, Pilibhit district",
+    "tags": [
+      "Nageshwar Mahadev Temple",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Naibasti) - (Sadar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Naibasti, Sadar, Pilibhit district",
+    "tags": [
+      "Shiv Mandir (Naibasti)",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahakaleshwar Nath Temple - Bisalpur",
+    "state": "Uttar Pradesh",
+    "city": "Bisalpur",
+    "region": "Bisalpur, Pilibhit district",
+    "tags": [
+      "Mahakaleshwar Nath Temple",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sivji Temple (Tondarpur) - (Sadar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Tondarpur, Sadar, Pilibhit district",
+    "tags": [
+      "Sivji Temple (Tondarpur)",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Kabir Ganj) - (Sadar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Kabir Ganj, Sadar, Pilibhit district",
+    "tags": [
+      "Shiv Mandir (Kabir Ganj)",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dev Sthan Shiv Temple - (Sadar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Sadar, Pilibhit district",
+    "tags": [
+      "Dev Sthan Shiv Temple",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lilahar Shiv Temple - Puranpur",
+    "state": "Uttar Pradesh",
+    "city": "Puranpur",
+    "region": "Puranpur, Pilibhit district",
+    "tags": [
+      "Lilahar Shiv Temple",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Amaria) - Amaria",
+    "state": "Uttar Pradesh",
+    "city": "Amaria",
+    "region": "Amaria, Pilibhit district",
+    "tags": [
+      "Shiv Mandir (Amaria)",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Narmadeshwar Shiv Mandir - Puranpur",
+    "state": "Uttar Pradesh",
+    "city": "Puranpur",
+    "region": "Puranpur, Pilibhit district",
+    "tags": [
+      "Narmadeshwar Shiv Mandir",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir (Gauneri Dan) - (Sadar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Gauneri Dan, Sadar, Pilibhit district",
+    "tags": [
+      "Prachin Shiv Mandir (Gauneri Dan)",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Shankarji Virajman Mandir - Bisalpur",
+    "state": "Uttar Pradesh",
+    "city": "Bisalpur",
+    "region": "Bisalpur, Pilibhit district",
+    "tags": [
+      "Shri Shankarji Virajman Mandir",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Lamua) - Bisalpur",
+    "state": "Uttar Pradesh",
+    "city": "Bisalpur",
+    "region": "Lamua, Bisalpur, Pilibhit district",
+    "tags": [
+      "Shiv Temple (Lamua)",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Madaha Naath Mandir - Bilsanda",
+    "state": "Uttar Pradesh",
+    "city": "Bilsanda",
+    "region": "Bilsanda, Pilibhit district",
+    "tags": [
+      "Madaha Naath Mandir",
+      "Pilibhit",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Pilibhit district with active daily worship and festival observance.",
+    "highlight": "Part of Pilibhit's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Puranpur, Bisalpur, Amaria, and Bilsanda sectors of Pilibhit district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Pilibhit district",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Pilibhit",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Chowk (Mahadev Mandir) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Sadar, Muzaffarnagar district",
+    "tags": [
+      "Shiv Chowk (Mahadev Mandir)",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiva Temple (Bhartiya Colony) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Bhartiya Colony, Sadar, Muzaffarnagar district",
+    "tags": [
+      "Shiva Temple (Bhartiya Colony)",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Thaneshwara Mahadev Mandir - Khatauli",
+    "state": "Uttar Pradesh",
+    "city": "Khatauli",
+    "region": "Khatauli, Muzaffarnagar district",
+    "tags": [
+      "Shri Thaneshwara Mahadev Mandir",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Sarveshwar Shiv Mandir - Khatauli (Bhainsi)",
+    "state": "Uttar Pradesh",
+    "city": "Khatauli",
+    "region": "Bhainsi, Khatauli, Muzaffarnagar district",
+    "tags": [
+      "Shree Sarveshwar Shiv Mandir",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir - Jansath (Saifpur Firojpur)",
+    "state": "Uttar Pradesh",
+    "city": "Jansath",
+    "region": "Saifpur Firojpur, Jansath, Muzaffarnagar district",
+    "tags": [
+      "Prachin Shiv Mandir",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Saket - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Saket, Sadar, Muzaffarnagar district",
+    "tags": [
+      "Shiv Mandir Saket",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Gandhi Colony) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Gandhi Colony, Sadar, Muzaffarnagar district",
+    "tags": [
+      "Shiv Mandir (Gandhi Colony)",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Chhapar) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Chhapar, Sadar, Muzaffarnagar district",
+    "tags": [
+      "Shiv Mandir (Chhapar)",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Old Shiv Temple (Sher Nagar) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Sher Nagar, Sadar, Muzaffarnagar district",
+    "tags": [
+      "Old Shiv Temple (Sher Nagar)",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Krishnapuri) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Krishnapuri, Sadar, Muzaffarnagar district",
+    "tags": [
+      "Shiv Mandir (Krishnapuri)",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachine Shree Shiv Shakti Mandir - Khatauli (Satheri)",
+    "state": "Uttar Pradesh",
+    "city": "Khatauli",
+    "region": "Satheri, Khatauli, Muzaffarnagar district",
+    "tags": [
+      "Prachine Shree Shiv Shakti Mandir",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Ghatayan) - Khatauli",
+    "state": "Uttar Pradesh",
+    "city": "Khatauli",
+    "region": "Ghatayan, Khatauli, Muzaffarnagar district",
+    "tags": [
+      "Shiv Mandir (Ghatayan)",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Panchmukhi Mahadev Mandir - Jansath (Miranpur)",
+    "state": "Uttar Pradesh",
+    "city": "Jansath",
+    "region": "Miranpur, Jansath, Muzaffarnagar district",
+    "tags": [
+      "Panchmukhi Mahadev Mandir",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Panchmukhi Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Ratneshwar Mahadev Shiv Dham - Jansath (Shukratal)",
+    "state": "Uttar Pradesh",
+    "city": "Jansath",
+    "region": "Shukratal, Jansath, Muzaffarnagar district",
+    "tags": [
+      "Ratneshwar Mahadev Shiv Dham",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mander (Rohana Kalan) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Rohana Kalan, Sadar, Muzaffarnagar district",
+    "tags": [
+      "Shiv Mander (Rohana Kalan)",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Charauli) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Charauli, Sadar, Muzaffarnagar district",
+    "tags": [
+      "Shiv Mandir (Charauli)",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Purmafi) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Purmafi, Sadar, Muzaffarnagar district",
+    "tags": [
+      "Shiv Mandir (Purmafi)",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahadev Mandir - Charthawal",
+    "state": "Uttar Pradesh",
+    "city": "Charthawal",
+    "region": "Charthawal, Muzaffarnagar district",
+    "tags": [
+      "Mahadev Mandir",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sisona Shiv Mandir - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Sisona, Sadar, Muzaffarnagar district",
+    "tags": [
+      "Sisona Shiv Mandir",
+      "Muzaffarnagar",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Muzaffarnagar district with active daily worship and festival observance.",
+    "highlight": "Part of Muzaffarnagar's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T13:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Khatauli, Jansath, and Charthawal sectors of Muzaffarnagar district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Muzaffarnagar district",
+          "url": "https://en.wikipedia.org/wiki/Muzaffarnagar_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Muzaffarnagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahakaleshwar Dham Om Enclave - Sadar (New Moradabad)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "New Moradabad, Sadar, Moradabad district",
+    "tags": [
+      "Mahakaleshwar Dham Om Enclave",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kailash Mansarovar Shiv Mandir - Sadar (Delhi Road)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Delhi Road, Sadar, Moradabad district",
+    "tags": [
+      "Kailash Mansarovar Shiv Mandir",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Rinmukteshwar Mahadev Mandir - Sadar (Buddhi Vihar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Buddhi Vihar, Sadar, Moradabad district",
+    "tags": [
+      "Rinmukteshwar Mahadev Mandir",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Chinta Haran Mahadev Mandir - Sadar (Adarsh Colony)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Adarsh Colony, Sadar, Moradabad district",
+    "tags": [
+      "Chinta Haran Mahadev Mandir",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Double Phatak) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Double Phatak, Sadar, Moradabad district",
+    "tags": [
+      "Shiv Mandir (Double Phatak)",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Tryambkeshwar Mandir - Sadar (Kashiram Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Kashiram Nagar, Sadar, Moradabad district",
+    "tags": [
+      "Tryambkeshwar Mandir",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Tryambakeshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bada Shiv Temple - Sadar (Vikas Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Vikas Nagar, Sadar, Moradabad district",
+    "tags": [
+      "Bada Shiv Temple",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prakateshwar Shiv Mandir - Kanth",
+    "state": "Uttar Pradesh",
+    "city": "Kanth",
+    "region": "Kanth, Moradabad district",
+    "tags": [
+      "Prakateshwar Shiv Mandir",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Sahai Mandir - Sadar (Pakwara)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Pakwara, Sadar, Moradabad district",
+    "tags": [
+      "Shiv Sahai Mandir",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Ardhanarishvari Shiv Mandir - Sadar (Himgiri Colony)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Himgiri Colony, Sadar, Moradabad district",
+    "tags": [
+      "Ardhanarishvari Shiv Mandir",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Ardhanarishvara)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Govind Nagar) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Govind Nagar, Sadar, Moradabad district",
+    "tags": [
+      "Shiv Mandir (Govind Nagar)",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lord Shiva Temple - Sadar (Ashiyana Colony)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Ashiyana Colony, Sadar, Moradabad district",
+    "tags": [
+      "Lord Shiva Temple",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pracheen Shiv Mandir - Sadar (Ratanpur Kalan)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Ratanpur Kalan, Sadar, Moradabad district",
+    "tags": [
+      "Pracheen Shiv Mandir",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Bagadpur) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Bagadpur, Sadar, Moradabad district",
+    "tags": [
+      "Shiv Mandir (Bagadpur)",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pipal Wala Mandir Shiv - Sadar (Azad Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Azad Nagar, Sadar, Moradabad district",
+    "tags": [
+      "Pipal Wala Mandir Shiv",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Machhariya) - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Machhariya, Sadar, Moradabad district",
+    "tags": [
+      "Shiv Mandir (Machhariya)",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir Milak - Sadar",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Milak, Sadar, Moradabad district",
+    "tags": [
+      "Prachin Shiv Mandir Milak",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Jhagra Jeet Mandir - Sadar (Pakwara)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Pakwara, Sadar, Moradabad district",
+    "tags": [
+      "Jhagra Jeet Mandir",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Manokamna Mandir - Sadar (Harthala)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Harthala, Sadar, Moradabad district",
+    "tags": [
+      "Shiv Manokamna Mandir",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Maa Durga Shiv Shakti Mandir - Sadar (Majhola)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Majhola, Sadar, Moradabad district",
+    "tags": [
+      "Maa Durga Shiv Shakti Mandir",
+      "Moradabad",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Moradabad district with active daily worship and festival observance.",
+    "highlight": "Part of Moradabad's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:05:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar and Kanth sectors of Moradabad district.",
+      "architecture": "A blend of older shrines, neighborhood mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Moradabad district",
+          "url": "https://en.wikipedia.org/wiki/Moradabad_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Moradabad",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Rameshwar Mahadev Temple - Vindhyachal (Shivpur)",
+    "state": "Uttar Pradesh",
+    "city": "Vindhyachal",
+    "region": "Shivpur, Vindhyachal, Mirzapur district",
+    "tags": [
+      "Rameshwar Mahadev Temple",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Budhe Nath Temple - Sadar (Budhe Nath Marg)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Budhe Nath Marg, Sadar, Mirzapur district",
+    "tags": [
+      "Budhe Nath Temple",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Budhe%20Nath%20Temple%20Complex%20Entry.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Budhe_Nath_Temple_Complex_Entry.jpg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Gangeshwar Mahadev Temple - Sadar (Malviya Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Malviya Nagar, Sadar, Mirzapur district",
+    "tags": [
+      "Gangeshwar Mahadev Temple",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Tarakeshwar Mahadev Mandir - Sadar (Wellesly Ganj)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Wellesly Ganj, Sadar, Mirzapur district",
+    "tags": [
+      "Tarakeshwar Mahadev Mandir",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhuwaneshwar Mahadev (Hardaul Lala Temple) - Sadar (Ganesh Ganj)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Ganesh Ganj, Sadar, Mirzapur district",
+    "tags": [
+      "Bhuwaneshwar Mahadev (Hardaul Lala Temple)",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Badewra Nath Dham - Lalganj (Jigna)",
+    "state": "Uttar Pradesh",
+    "city": "Lalganj",
+    "region": "Jigna, Lalganj, Mirzapur district",
+    "tags": [
+      "Baba Badewra Nath Dham",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "The Shiva Temple-Kotar Nath - Lalganj (Sarahara)",
+    "state": "Uttar Pradesh",
+    "city": "Lalganj",
+    "region": "Sarahara, Lalganj, Mirzapur district",
+    "tags": [
+      "The Shiva Temple-Kotar Nath",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Gjanand Mahadev Mandir - Sadar (Bharuhana)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Bharuhana, Sadar, Mirzapur district",
+    "tags": [
+      "Gjanand Mahadev Mandir",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Lok Shiv Temple - Sadar (Kapsaur)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Kapsaur, Sadar, Mirzapur district",
+    "tags": [
+      "Shiv Lok Shiv Temple",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Panch Mukhi Mahadev - Chunar",
+    "state": "Uttar Pradesh",
+    "city": "Chunar",
+    "region": "Chunar, Mirzapur district",
+    "tags": [
+      "Panch Mukhi Mahadev",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Panchmukhi Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Narmadeshwar Mahadev Mandir - Chunar",
+    "state": "Uttar Pradesh",
+    "city": "Chunar",
+    "region": "Chunar, Mirzapur district",
+    "tags": [
+      "Shree Narmadeshwar Mahadev Mandir",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Viseshwarnath Jagguram Mahadev Temple - Sadar (Gosain Tola)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Gosain Tola, Sadar, Mirzapur district",
+    "tags": [
+      "Viseshwarnath Jagguram Mahadev Temple",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir - Sadar (Ghatampur)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Ghatampur, Sadar, Mirzapur district",
+    "tags": [
+      "Prachin Shiv Mandir",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Marihan (Padari Thana)",
+    "state": "Uttar Pradesh",
+    "city": "Marihan",
+    "region": "Padari Thana, Marihan, Mirzapur district",
+    "tags": [
+      "Shiv Mandir",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Vishvanath Temple - Sadar (Rajpur Ahungi Kalan)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Rajpur Ahungi Kalan, Sadar, Mirzapur district",
+    "tags": [
+      "Baba Vishvanath Temple",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sankat Mochan Shiv Mandir - Sadar (Ramaipatti)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Ramaipatti, Sadar, Mirzapur district",
+    "tags": [
+      "Sankat Mochan Shiv Mandir",
+      "Mirzapur",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mirzapur district with active daily worship and festival observance.",
+    "highlight": "Part of Mirzapur's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Vindhyachal, Lalganj, Chunar, and Marihan sectors of Mirzapur district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mirzapur district",
+          "url": "https://en.wikipedia.org/wiki/Mirzapur_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mirzapur",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Baba Augharnath Shiv Mandir (Kali Paltan)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Kali Paltan, Sadar, Meerut district",
+    "tags": [
+      "Shri Baba Augharnath Shiv Mandir (Kali Paltan)",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Augarnath_Temple%2C_Meerut_at_2nd_Navratri_Night.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Augarnath_Temple%2C_Meerut_at_2nd_Navratri_Night.jpg",
+    "deity": "Shiva (Augharnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Billeshwarnath Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Sadar, Meerut district",
+    "tags": [
+      "Billeshwarnath Mandir",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pandeshwar Mahadev Mandir - Mawana (Hastinapur)",
+    "state": "Uttar Pradesh",
+    "city": "Mawana",
+    "region": "Hastinapur, Mawana, Meerut district",
+    "tags": [
+      "Pandeshwar Mahadev Mandir",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pandeshwar_Temple_Hastinapur.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Pandeshwar_Temple_Hastinapur.jpg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Parshurameshwar Mahadev Mandir - (Shastri Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Shastri Nagar, Sadar, Meerut district",
+    "tags": [
+      "Parshurameshwar Mahadev Mandir",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bada Mahadev Mandir - Mawana",
+    "state": "Uttar Pradesh",
+    "city": "Mawana",
+    "region": "Mawana, Meerut district",
+    "tags": [
+      "Bada Mahadev Mandir",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Jharkhandeshwar Mahadev Mandir - (Mataur)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Mataur, Sadar, Meerut district",
+    "tags": [
+      "Jharkhandeshwar Mahadev Mandir",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sakoti Shiv Mandir - Mawana",
+    "state": "Uttar Pradesh",
+    "city": "Mawana",
+    "region": "Mawana, Meerut district",
+    "tags": [
+      "Sakoti Shiv Mandir",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Fatehpur Shiv Mandir - Sardhana (Dabathwa)",
+    "state": "Uttar Pradesh",
+    "city": "Sardhana",
+    "region": "Dabathwa, Sardhana, Meerut district",
+    "tags": [
+      "Fatehpur Shiv Mandir",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Thapar Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Thapar Nagar, Sadar, Meerut district",
+    "tags": [
+      "Shiv Mandir (Thapar Nagar)",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kabari Bazar Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Kabari Bazar, Sadar, Meerut district",
+    "tags": [
+      "Kabari Bazar Shiv Mandir",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Jharkhandi Mandir - Mawana",
+    "state": "Uttar Pradesh",
+    "city": "Mawana",
+    "region": "Mawana, Meerut district",
+    "tags": [
+      "Jharkhandi Mandir",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sacha Mahadev Mandir - (Shastri Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Shastri Nagar, Sadar, Meerut district",
+    "tags": [
+      "Sacha Mahadev Mandir",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Bholeshwar Mandir - (Shastri Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Shastri Nagar, Sadar, Meerut district",
+    "tags": [
+      "Shree Bholeshwar Mandir",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Shakti Dham Mandir - (Janakpuri)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Janakpuri, Sadar, Meerut district",
+    "tags": [
+      "Shiv Shakti Dham Mandir",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Nav Shiv Mandir - Mawana",
+    "state": "Uttar Pradesh",
+    "city": "Mawana",
+    "region": "Mawana, Meerut district",
+    "tags": [
+      "Nav Shiv Mandir",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple - Mawana (Akbarpur Garhi)",
+    "state": "Uttar Pradesh",
+    "city": "Mawana",
+    "region": "Akbarpur Garhi, Mawana, Meerut district",
+    "tags": [
+      "Shiv Temple",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - (Gunj Bazar)",
+    "state": "Uttar Pradesh",
+    "city": "Sadar",
+    "region": "Gunj Bazar, Sadar, Meerut district",
+    "tags": [
+      "Shiv Mandir",
+      "Meerut",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Meerut district with active daily worship and festival observance.",
+    "highlight": "Part of Meerut's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T14:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Sadar, Mawana, Sardhana, and Hastinapur sectors of Meerut district.",
+      "architecture": "A blend of old mandirs, local shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Meerut district",
+          "url": "https://en.wikipedia.org/wiki/Meerut_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Meerut",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Barah Duariya Shiv Mandir  (Nausemar)",
+    "state": "Uttar Pradesh",
+    "city": "Maunath Bhanjan",
+    "region": "Nausemar, Maunath Bhanjan, Mau district",
+    "tags": [
+      "Barah Duariya Shiv Mandir  (Nausemar)",
+      "Mau",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mau district with active daily worship and festival observance.",
+    "highlight": "Part of Mau's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maunath Bhanjan, Madhuban, and Muhammadabad Gohna sectors of Mau district.",
+      "architecture": "A blend of local shrines and community-maintained mandirs.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mau Mahadev Dham  (Nizamuddinpura)",
+    "state": "Uttar Pradesh",
+    "city": "Maunath Bhanjan",
+    "region": "Nizamuddinpura, Maunath Bhanjan, Mau district",
+    "tags": [
+      "Mau Mahadev Dham  (Nizamuddinpura)",
+      "Mau",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mau district with active daily worship and festival observance.",
+    "highlight": "Part of Mau's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maunath Bhanjan, Madhuban, and Muhammadabad Gohna sectors of Mau district.",
+      "architecture": "A blend of local shrines and community-maintained mandirs.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kailashpuri Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Maunath Bhanjan",
+    "region": "Maunath Bhanjan, Mau district",
+    "tags": [
+      "Kailashpuri Mandir",
+      "Mau",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mau district with active daily worship and festival observance.",
+    "highlight": "Part of Mau's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maunath Bhanjan, Madhuban, and Muhammadabad Gohna sectors of Mau district.",
+      "architecture": "A blend of local shrines and community-maintained mandirs.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Panti) - Madhuban",
+    "state": "Uttar Pradesh",
+    "city": "Madhuban",
+    "region": "Panti, Madhuban, Mau district",
+    "tags": [
+      "Shiv Mandir (Panti)",
+      "Mau",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mau district with active daily worship and festival observance.",
+    "highlight": "Part of Mau's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maunath Bhanjan, Madhuban, and Muhammadabad Gohna sectors of Mau district.",
+      "architecture": "A blend of local shrines and community-maintained mandirs.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Devlas) - Muhammadabad Gohna",
+    "state": "Uttar Pradesh",
+    "city": "Muhammadabad Gohna",
+    "region": "Devlas, Muhammadabad Gohna, Mau district",
+    "tags": [
+      "Shiv Mandir (Devlas)",
+      "Mau",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mau district with active daily worship and festival observance.",
+    "highlight": "Part of Mau's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maunath Bhanjan, Madhuban, and Muhammadabad Gohna sectors of Mau district.",
+      "architecture": "A blend of local shrines and community-maintained mandirs.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Nadwasarai) - Muhammadabad Gohna",
+    "state": "Uttar Pradesh",
+    "city": "Muhammadabad Gohna",
+    "region": "Nadwasarai, Muhammadabad Gohna, Mau district",
+    "tags": [
+      "Shiv Mandir (Nadwasarai)",
+      "Mau",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mau district with active daily worship and festival observance.",
+    "highlight": "Part of Mau's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maunath Bhanjan, Madhuban, and Muhammadabad Gohna sectors of Mau district.",
+      "architecture": "A blend of local shrines and community-maintained mandirs.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Shankar Mandir (Barhadpur) - Muhammadabad Gohna",
+    "state": "Uttar Pradesh",
+    "city": "Muhammadabad Gohna",
+    "region": "Barhadpur, Muhammadabad Gohna, Mau district",
+    "tags": [
+      "Shiv Shankar Mandir (Barhadpur)",
+      "Mau",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mau district with active daily worship and festival observance.",
+    "highlight": "Part of Mau's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Shankar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maunath Bhanjan, Madhuban, and Muhammadabad Gohna sectors of Mau district.",
+      "architecture": "A blend of local shrines and community-maintained mandirs.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Astupura)",
+    "state": "Uttar Pradesh",
+    "city": "Maunath Bhanjan",
+    "region": "Astupura, Maunath Bhanjan, Mau district",
+    "tags": [
+      "Shiv Mandir (Astupura)",
+      "Mau",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mau district with active daily worship and festival observance.",
+    "highlight": "Part of Mau's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maunath Bhanjan, Madhuban, and Muhammadabad Gohna sectors of Mau district.",
+      "architecture": "A blend of local shrines and community-maintained mandirs.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Mubarakpur)",
+    "state": "Uttar Pradesh",
+    "city": "Maunath Bhanjan",
+    "region": "Mubarakpur, Maunath Bhanjan, Mau district",
+    "tags": [
+      "Shiv Mandir (Mubarakpur)",
+      "Mau",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mau district with active daily worship and festival observance.",
+    "highlight": "Part of Mau's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maunath Bhanjan, Madhuban, and Muhammadabad Gohna sectors of Mau district.",
+      "architecture": "A blend of local shrines and community-maintained mandirs.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Chakiya)",
+    "state": "Uttar Pradesh",
+    "city": "Maunath Bhanjan",
+    "region": "Chakiya, Maunath Bhanjan, Mau district",
+    "tags": [
+      "Shiv Mandir (Chakiya)",
+      "Mau",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mau district with active daily worship and festival observance.",
+    "highlight": "Part of Mau's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maunath Bhanjan, Madhuban, and Muhammadabad Gohna sectors of Mau district.",
+      "architecture": "A blend of local shrines and community-maintained mandirs.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Bandighat)",
+    "state": "Uttar Pradesh",
+    "city": "Maunath Bhanjan",
+    "region": "Bandighat, Maunath Bhanjan, Mau district",
+    "tags": [
+      "Shiv Temple (Bandighat)",
+      "Mau",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mau district with active daily worship and festival observance.",
+    "highlight": "Part of Mau's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maunath Bhanjan, Madhuban, and Muhammadabad Gohna sectors of Mau district.",
+      "architecture": "A blend of local shrines and community-maintained mandirs.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Saryan) - Muhammadabad Gohna",
+    "state": "Uttar Pradesh",
+    "city": "Muhammadabad Gohna",
+    "region": "Saryan, Muhammadabad Gohna, Mau district",
+    "tags": [
+      "Shiv Mandir (Saryan)",
+      "Mau",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mau district with active daily worship and festival observance.",
+    "highlight": "Part of Mau's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maunath Bhanjan, Madhuban, and Muhammadabad Gohna sectors of Mau district.",
+      "architecture": "A blend of local shrines and community-maintained mandirs.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Mathiya Tola)",
+    "state": "Uttar Pradesh",
+    "city": "Maunath Bhanjan",
+    "region": "Mathiya Tola, Maunath Bhanjan, Mau district",
+    "tags": [
+      "Shiv Mandir (Mathiya Tola)",
+      "Mau",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mau district with active daily worship and festival observance.",
+    "highlight": "Part of Mau's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maunath Bhanjan, Madhuban, and Muhammadabad Gohna sectors of Mau district.",
+      "architecture": "A blend of local shrines and community-maintained mandirs.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir (Hardaspur)",
+    "state": "Uttar Pradesh",
+    "city": "Maunath Bhanjan",
+    "region": "Hardaspur, Maunath Bhanjan, Mau district",
+    "tags": [
+      "Prachin Shiv Mandir (Hardaspur)",
+      "Mau",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mau district with active daily worship and festival observance.",
+    "highlight": "Part of Mau's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:25:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maunath Bhanjan, Madhuban, and Muhammadabad Gohna sectors of Mau district.",
+      "architecture": "A blend of local shrines and community-maintained mandirs.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mau district",
+          "url": "https://en.wikipedia.org/wiki/Mau_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mau",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Bhuteshwar Mahadev Temple",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "region": "Mathura, Mathura district",
+    "tags": [
+      "Shri Bhuteshwar Mahadev Temple",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bhuteshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Chinta Haran Mahadev - Mahavan",
+    "state": "Uttar Pradesh",
+    "city": "Mahavan",
+    "region": "Mahavan, Mathura district",
+    "tags": [
+      "Chinta Haran Mahadev",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Rangeshwar Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "region": "Mathura, Mathura district",
+    "tags": [
+      "Shri Rangeshwar Mahadev Mandir",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Gopeshwar Mahadev Temple (Vrindavan)",
+    "state": "Uttar Pradesh",
+    "city": "Vrindavan",
+    "region": "Vrindavan, Mathura district",
+    "tags": [
+      "Gopeshwar Mahadev Temple (Vrindavan)",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Gopeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Alkheswar Mahadev Mandir - Chhata",
+    "state": "Uttar Pradesh",
+    "city": "Chhata",
+    "region": "Chhata, Mathura district",
+    "tags": [
+      "Shri Alkheswar Mahadev Mandir",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Peepleshwar Mahadeo Temple",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "region": "Mathura, Mathura district",
+    "tags": [
+      "Peepleshwar Mahadeo Temple",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mankameshvar Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "region": "Mathura, Mathura district",
+    "tags": [
+      "Mankameshvar Shiv Mandir",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Radheshwar Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "region": "Mathura, Mathura district",
+    "tags": [
+      "Shri Radheshwar Mahadev Mandir",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Om Shri Tapeshwar Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "region": "Mathura, Mathura district",
+    "tags": [
+      "Om Shri Tapeshwar Mahadev Mandir",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Narmadeshwar Temple",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "region": "Mathura, Mathura district",
+    "tags": [
+      "Narmadeshwar Temple",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Govindeshwar Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "region": "Mathura, Mathura district",
+    "tags": [
+      "Govindeshwar Mandir",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kandeshwar Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "region": "Mathura, Mathura district",
+    "tags": [
+      "Kandeshwar Mahadev Mandir",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Gopalpur Gaon)",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "region": "Gopalpur Gaon, Mathura district",
+    "tags": [
+      "Shiv Mandir (Gopalpur Gaon)",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Shankar Mandir (Suraj Kund Road)",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "region": "Suraj Kund Road, Mathura district",
+    "tags": [
+      "Shiv Shankar Mandir (Suraj Kund Road)",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Shankar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir (Gauneri Dan)",
+    "state": "Uttar Pradesh",
+    "city": "Mathura",
+    "region": "Gauneri Dan, Mathura district",
+    "tags": [
+      "Prachin Shiv Mandir (Gauneri Dan)",
+      "Mathura",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mathura district with active daily worship and festival observance.",
+    "highlight": "Part of Mathura's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T15:45:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mathura, Vrindavan, Mahavan, and Chhata sectors of Mathura district.",
+      "architecture": "A blend of ancient shrines, local mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mathura district",
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mathura",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhimsen Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Mainpuri",
+    "region": "Mainpuri, Mainpuri district",
+    "tags": [
+      "Bhimsen Mandir",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Chandeshwar Dham Shivalaya",
+    "state": "Uttar Pradesh",
+    "city": "Mainpuri",
+    "region": "Mainpuri, Mainpuri district",
+    "tags": [
+      "Chandeshwar Dham Shivalaya",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Vankhandeswar Shiv Temple - (Kharpari)",
+    "state": "Uttar Pradesh",
+    "city": "Mainpuri",
+    "region": "Kharpari, Mainpuri district",
+    "tags": [
+      "Vankhandeswar Shiv Temple",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Neelkanth Mahadev Mandir - (Awas Vikas Colony)",
+    "state": "Uttar Pradesh",
+    "city": "Mainpuri",
+    "region": "Awas Vikas Colony, Mainpuri district",
+    "tags": [
+      "Neelkanth Mahadev Mandir",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Ghitoli)",
+    "state": "Uttar Pradesh",
+    "city": "Mainpuri",
+    "region": "Ghitoli, Mainpuri district",
+    "tags": [
+      "Shiv Mandir (Ghitoli)",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Seghnatg Mandir - (Kumhaul)",
+    "state": "Uttar Pradesh",
+    "city": "Mainpuri",
+    "region": "Kumhaul, Mainpuri district",
+    "tags": [
+      "Baba Seghnatg Mandir",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Shiv Hari Mandir - Mainpuri/Kishni (Sahara)",
+    "state": "Uttar Pradesh",
+    "city": "Kishni",
+    "region": "Sahara, Kishni, Mainpuri district",
+    "tags": [
+      "Shree Shiv Hari Mandir",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Redhapur)",
+    "state": "Uttar Pradesh",
+    "city": "Mainpuri",
+    "region": "Redhapur, Mainpuri district",
+    "tags": [
+      "Shiv Mandir (Redhapur)",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Narmadeshwar Shiv Mandir - (Hajipur Nera)",
+    "state": "Uttar Pradesh",
+    "city": "Mainpuri",
+    "region": "Hajipur Nera, Mainpuri district",
+    "tags": [
+      "Narmadeshwar Shiv Mandir",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Baba Temple - (Belahaar)",
+    "state": "Uttar Pradesh",
+    "city": "Mainpuri",
+    "region": "Belahaar, Mainpuri district",
+    "tags": [
+      "Shiv Baba Temple",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Jagir)",
+    "state": "Uttar Pradesh",
+    "city": "Mainpuri",
+    "region": "Jagir, Mainpuri district",
+    "tags": [
+      "Shiv Mandir (Jagir)",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mankamewar Ji Shiv Mandir - Mainpuri/Kishni (Sahara)",
+    "state": "Uttar Pradesh",
+    "city": "Kishni",
+    "region": "Sahara, Kishni, Mainpuri district",
+    "tags": [
+      "Mankamewar Ji Shiv Mandir",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Kusmara) - Mainpuri/Bhogaon",
+    "state": "Uttar Pradesh",
+    "city": "Bhogaon",
+    "region": "Kusmara, Bhogaon, Mainpuri district",
+    "tags": [
+      "Shiv Mandir (Kusmara)",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lord Shiva Temple - (Garhiya Chhinkaura)",
+    "state": "Uttar Pradesh",
+    "city": "Mainpuri",
+    "region": "Garhiya Chhinkaura, Mainpuri district",
+    "tags": [
+      "Lord Shiva Temple",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Sunnamai)",
+    "state": "Uttar Pradesh",
+    "city": "Mainpuri",
+    "region": "Sunnamai, Mainpuri district",
+    "tags": [
+      "Shiv Mandir (Sunnamai)",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Baba Vaidhnath Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Mainpuri",
+    "region": "Mainpuri, Mainpuri district",
+    "tags": [
+      "Shree Baba Vaidhnath Shiv Mandir",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Vaidyanath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Bhairav Temple - (Bewar)",
+    "state": "Uttar Pradesh",
+    "city": "Bewar",
+    "region": "Bewar, Mainpuri district",
+    "tags": [
+      "Shiv Bhairav Temple",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bhairava)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kailash Pati Mahadev Temple - (Badi Nagriya)",
+    "state": "Uttar Pradesh",
+    "city": "Mainpuri",
+    "region": "Badi Nagriya, Mainpuri district",
+    "tags": [
+      "Kailash Pati Mahadev Temple",
+      "Mainpuri",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mainpuri district with active daily worship and festival observance.",
+    "highlight": "Part of Mainpuri's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:00:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mainpuri, Kishni, Bhogaon, and Bewar sectors of Mainpuri district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mainpuri district",
+          "url": "https://en.wikipedia.org/wiki/Mainpuri_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mainpuri",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Gokhar Hill Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Mahoba",
+    "region": "Gokhar Hill, Mahoba district",
+    "tags": [
+      "Shri Gokhar Hill Shiv Mandir",
+      "Mahoba",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mahoba district with active daily worship and festival observance.",
+    "highlight": "Part of Mahoba's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mahoba, Charkhari, Kabrai, Panwari, and nearby sectors of Mahoba district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Nilkanth Mahadev Temple (Kalinjar Road) - Naraini (Badausa)",
+    "state": "Uttar Pradesh",
+    "city": "Naraini",
+    "region": "Kalinjar Road, Naraini (Badausa), Mahoba district",
+    "tags": [
+      "Nilkanth Mahadev Temple (Kalinjar Road)",
+      "Mahoba",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mahoba district with active daily worship and festival observance.",
+    "highlight": "Part of Mahoba's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Neelkanth Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mahoba, Charkhari, Kabrai, Panwari, and nearby sectors of Mahoba district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Kajali Kirat Sagar)",
+    "state": "Uttar Pradesh",
+    "city": "Mahoba",
+    "region": "Kajali Kirat Sagar, Mahoba district",
+    "tags": [
+      "Shiv Mandir (Kajali Kirat Sagar)",
+      "Mahoba",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mahoba district with active daily worship and festival observance.",
+    "highlight": "Part of Mahoba's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mahoba, Charkhari, Kabrai, Panwari, and nearby sectors of Mahoba district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Makarbai)",
+    "state": "Uttar Pradesh",
+    "city": "Mahoba",
+    "region": "Makarbai, Mahoba district",
+    "tags": [
+      "Shiv Mandir (Makarbai)",
+      "Mahoba",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mahoba district with active daily worship and festival observance.",
+    "highlight": "Part of Mahoba's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mahoba, Charkhari, Kabrai, Panwari, and nearby sectors of Mahoba district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhole Baba Mandir (Alipura)",
+    "state": "Uttar Pradesh",
+    "city": "Mahoba",
+    "region": "Alipura, Mahoba district",
+    "tags": [
+      "Bhole Baba Mandir (Alipura)",
+      "Mahoba",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mahoba district with active daily worship and festival observance.",
+    "highlight": "Part of Mahoba's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Bholenath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mahoba, Charkhari, Kabrai, Panwari, and nearby sectors of Mahoba district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Srinagar)",
+    "state": "Uttar Pradesh",
+    "city": "Srinagar",
+    "region": "Srinagar, Mahoba district",
+    "tags": [
+      "Shiv Temple (Srinagar)",
+      "Mahoba",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mahoba district with active daily worship and festival observance.",
+    "highlight": "Part of Mahoba's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mahoba, Charkhari, Kabrai, Panwari, and nearby sectors of Mahoba district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Kabrai)",
+    "state": "Uttar Pradesh",
+    "city": "Kabrai",
+    "region": "Kabrai, Mahoba district",
+    "tags": [
+      "Shiv Mandir (Kabrai)",
+      "Mahoba",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mahoba district with active daily worship and festival observance.",
+    "highlight": "Part of Mahoba's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mahoba, Charkhari, Kabrai, Panwari, and nearby sectors of Mahoba district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Dham (Charkhari Road) - Charkhari",
+    "state": "Uttar Pradesh",
+    "city": "Charkhari",
+    "region": "Charkhari Road, Charkhari, Mahoba district",
+    "tags": [
+      "Shiv Dham (Charkhari Road)",
+      "Mahoba",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mahoba district with active daily worship and festival observance.",
+    "highlight": "Part of Mahoba's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mahoba, Charkhari, Kabrai, Panwari, and nearby sectors of Mahoba district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pracheen Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Mahoba",
+    "region": "Mahoba district",
+    "tags": [
+      "Pracheen Shiv Mandir",
+      "Mahoba",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mahoba district with active daily worship and festival observance.",
+    "highlight": "Part of Mahoba's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mahoba, Charkhari, Kabrai, Panwari, and nearby sectors of Mahoba district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Shakti Mandir (Rath Road)",
+    "state": "Uttar Pradesh",
+    "city": "Mahoba",
+    "region": "Rath Road, Mahoba district",
+    "tags": [
+      "Shiv Shakti Mandir (Rath Road)",
+      "Mahoba",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mahoba district with active daily worship and festival observance.",
+    "highlight": "Part of Mahoba's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mahoba, Charkhari, Kabrai, Panwari, and nearby sectors of Mahoba district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Kedareshwar Mahadev Temple - Charkhari",
+    "state": "Uttar Pradesh",
+    "city": "Charkhari",
+    "region": "Charkhari, Mahoba district",
+    "tags": [
+      "Shree Kedareshwar Mahadev Temple",
+      "Mahoba",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mahoba district with active daily worship and festival observance.",
+    "highlight": "Part of Mahoba's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Kedareshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mahoba, Charkhari, Kabrai, Panwari, and nearby sectors of Mahoba district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Panwari)",
+    "state": "Uttar Pradesh",
+    "city": "Panwari",
+    "region": "Panwari, Mahoba district",
+    "tags": [
+      "Shiv Mandir (Panwari)",
+      "Mahoba",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mahoba district with active daily worship and festival observance.",
+    "highlight": "Part of Mahoba's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mahoba, Charkhari, Kabrai, Panwari, and nearby sectors of Mahoba district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Ajnar)",
+    "state": "Uttar Pradesh",
+    "city": "Ajnar",
+    "region": "Ajnar, Mahoba district",
+    "tags": [
+      "Shiv Temple (Ajnar)",
+      "Mahoba",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Mahoba district with active daily worship and festival observance.",
+    "highlight": "Part of Mahoba's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:20:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Mahoba, Charkhari, Kabrai, Panwari, and nearby sectors of Mahoba district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Mahoba district",
+          "url": "https://en.wikipedia.org/wiki/Mahoba_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Mahoba",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Itahiya Shiv Mandir - Nichlaul",
+    "state": "Uttar Pradesh",
+    "city": "Nichlaul",
+    "region": "Itahiya, Nichlaul, Maharajganj district",
+    "tags": [
+      "Itahiya Shiv Mandir",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Katahara Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Maharajganj",
+    "region": "Katahara, Maharajganj district",
+    "tags": [
+      "Katahara Shiv Mandir",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kanchswar Nath Mandir - Pharenda",
+    "state": "Uttar Pradesh",
+    "city": "Pharenda",
+    "region": "Pharenda, Maharajganj district",
+    "tags": [
+      "Kanchswar Nath Mandir",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Nebuiya Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Maharajganj",
+    "region": "Nebuiya, Maharajganj district",
+    "tags": [
+      "Nebuiya Shiv Mandir",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Paniyara Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Paniyara",
+    "region": "Paniyara, Maharajganj district",
+    "tags": [
+      "Paniyara Shiv Mandir",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Pokharbhinda - Nautanwa",
+    "state": "Uttar Pradesh",
+    "city": "Nautanwa",
+    "region": "Pokharbhinda, Nautanwa, Maharajganj district",
+    "tags": [
+      "Shiv Mandir Pokharbhinda",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Ancient Shiva Temple (Jungal Baki)",
+    "state": "Uttar Pradesh",
+    "city": "Maharajganj",
+    "region": "Jungal Baki, Maharajganj district",
+    "tags": [
+      "Ancient Shiva Temple (Jungal Baki)",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Babhnauli Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Maharajganj",
+    "region": "Babhnauli, Maharajganj district",
+    "tags": [
+      "Babhnauli Shiv Mandir",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pharenda Khurd Shiv Mandir - Pharenda",
+    "state": "Uttar Pradesh",
+    "city": "Pharenda",
+    "region": "Pharenda Khurd, Pharenda, Maharajganj district",
+    "tags": [
+      "Pharenda Khurd Shiv Mandir",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Madu Bani) - Nichlaul",
+    "state": "Uttar Pradesh",
+    "city": "Nichlaul",
+    "region": "Madu Bani, Nichlaul, Maharajganj district",
+    "tags": [
+      "Shiv Mandir (Madu Bani)",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Narayanpur - Nichlaul",
+    "state": "Uttar Pradesh",
+    "city": "Nichlaul",
+    "region": "Narayanpur, Nichlaul, Maharajganj district",
+    "tags": [
+      "Shiv Mandir Narayanpur",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Rajdhani",
+    "state": "Uttar Pradesh",
+    "city": "Maharajganj",
+    "region": "Rajdhani, Maharajganj district",
+    "tags": [
+      "Shiv Mandir Rajdhani",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir Jhamat - Pharenda",
+    "state": "Uttar Pradesh",
+    "city": "Pharenda",
+    "region": "Jhamat, Pharenda, Maharajganj district",
+    "tags": [
+      "Prachin Shiv Mandir Jhamat",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Mani Kaura) - Nautanwa",
+    "state": "Uttar Pradesh",
+    "city": "Nautanwa",
+    "region": "Mani Kaura, Nautanwa, Maharajganj district",
+    "tags": [
+      "Shiv Temple (Mani Kaura)",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Barahara)",
+    "state": "Uttar Pradesh",
+    "city": "Maharajganj",
+    "region": "Barahara, Maharajganj district",
+    "tags": [
+      "Shiv Mandir (Barahara)",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Harkhoda Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Maharajganj",
+    "region": "Harkhoda, Maharajganj district",
+    "tags": [
+      "Harkhoda Shiv Mandir",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Darahata)",
+    "state": "Uttar Pradesh",
+    "city": "Maharajganj",
+    "region": "Darahata, Maharajganj district",
+    "tags": [
+      "Shiv Mandir (Darahata)",
+      "Maharajganj",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Maharajganj district with active daily worship and festival observance.",
+    "highlight": "Part of Maharajganj's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:35:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Maharajganj, Nichlaul, Pharenda, Nautanwa, and Paniyara sectors of Maharajganj district.",
+      "architecture": "A blend of local shrines, older mandirs, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Maharajganj district",
+          "url": "https://en.wikipedia.org/wiki/Maharajganj_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Maharajganj",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Mankameshwar Temple",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Shri Mankameshwar Temple",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mankameshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Buddheshwar Mahadev Temple",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Buddheshwar Mahadev Temple",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Buddheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Koneshwar Mahadev Temple",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Koneshwar Mahadev Temple",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Koneshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhootnath Temple",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Bhootnath Temple",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Nageshwar Shiva Temple",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Nageshwar Shiva Temple",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nageshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kashishwar Mahadev Temple - Mohanlalganj",
+    "state": "Uttar Pradesh",
+    "city": "Mohanlalganj",
+    "region": "Mohanlalganj, Lucknow district",
+    "tags": [
+      "Kashishwar Mahadev Temple",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Siddheshwar Mahadev Shiv Ji Temple",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Siddheshwar Mahadev Shiv Ji Temple",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Omkareshwar Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Omkareshwar Shiv Mandir",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Vrindeshwar Shiv Temple",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Vrindeshwar Shiv Temple",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Siddhnath Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Siddhnath Mandir",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Gomeshwar Shiv Temple",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Gomeshwar Shiv Temple",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Chandreshwar Temple",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Chandreshwar Temple",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahakaleshwar Baba Temple",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Mahakaleshwar Baba Temple",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sri Amreshwar Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Sri Amreshwar Mahadev Mandir",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Jalimeshwar Nath Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Shri Jalimeshwar Nath Mandir",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Someshwar Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Someshwar Mahadev Mandir",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Jageshwar Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Jageshwar Mahadev Mandir",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kalyaneshwar Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Kalyaneshwar Mandir",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Anandeshwar Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Shri Anandeshwar Mahadev Mandir",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mukteshwar Mahadev Temple",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "region": "Lucknow, Lucknow district",
+    "tags": [
+      "Mukteshwar Mahadev Temple",
+      "Lucknow",
+      "Shiva"
+    ],
+    "story": "A locally revered Shiva shrine in Lucknow district with active daily worship and festival observance.",
+    "highlight": "Part of Lucknow's distributed Shaiva worship network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-02-28T16:50:00+05:30",
+    "bestTime": "October to March.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest attire recommended.",
+    "entryNotes": "Confirm exact locality and temple timing before travel.",
+    "rituals": [
+      "Jal abhishek",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "These entries map Shiva worship across Lucknow city and Mohanlalganj sectors of Lucknow district.",
+      "architecture": "A blend of old mandirs, neighborhood shrines, and community-maintained worship spaces.",
+      "visitorNotes": "Morning and evening darshan windows are typically the most active.",
+      "sources": [
+        {
+          "label": "Lucknow district",
+          "url": "https://en.wikipedia.org/wiki/Lucknow_district",
+          "type": "District reference"
+        }
+      ]
+    },
+    "district": "Lucknow",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  }
 ];
-

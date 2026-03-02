@@ -1,0 +1,283 @@
+Papeshwar Temple | Beed |  | maharashtra.js
+Khandeshwar Mahadev Temple | Beed |  | maharashtra.js
+Rameshwar Mahadev Temple (Beed) | Beed |  | maharashtra.js
+Karhateshwar Temple | Ratnagiri |  | maharashtra.js
+Swayambhu Shree Someshwar Mandir | Ratnagiri |  | maharashtra.js
+Shri Swayambhu Sapteshwar Temple | Ratnagiri |  | maharashtra.js
+Parwateshwar Shiva Temple | Ratnagiri |  | maharashtra.js
+Chafanath Shiva Temple | Ratnagiri |  | maharashtra.js
+Tikaleshwar Temple | Ratnagiri |  | maharashtra.js
+Vimleshwar Temple | Ratnagiri |  | maharashtra.js
+Kedarnath Temple | Ratnagiri |  | maharashtra.js
+Swayambhu Mahadev Pandav Kalin Mandir | Ratnagiri |  | maharashtra.js
+Vishshweshwar Mandir | Ratnagiri |  | maharashtra.js
+Kedarling Mandir | Ratnagiri |  | maharashtra.js
+Sagwekar Somnath Mandir | Ratnagiri |  | maharashtra.js
+Someshwar Katre Kuladevta | Ratnagiri |  | maharashtra.js
+Vyadeshwar Mandir | Ratnagiri |  | maharashtra.js
+Kunkeshwar Mandir | Devgad |  | maharashtra.js
+Vimleshwar Shiva Temple (Wada) | Wada |  | maharashtra.js
+Shri Dev Wagheshwar Mandir (Tondavali) | Tondavali |  | maharashtra.js
+Shree Dev Kudaleshwar Temple | Kudal |  | maharashtra.js
+Swayambhu Mahadev Temple (Redi) | Redi |  | maharashtra.js
+Lingeshwar Mandir (Girgaon) | Girgaon |  | maharashtra.js
+Brameshwar Mandir (Bambuli) | Bambuli |  | maharashtra.js
+Margeshwar Temple (Hadi) | Hadi |  | maharashtra.js
+Gangeshwar Temple (Harkul Budruk) | Harkul Budruk |  | maharashtra.js
+Ling Mandir Lingeshwar (Savdav) | Savdav |  | maharashtra.js
+Kalbhairav Mandir (Kharepatan) | Kharepatan |  | maharashtra.js
+Sargeshwar Shiva Temple | Sindhudurg |  | maharashtra.js
+Pokharbav Mahadev Temple (Dabhole) | Dabhole |  | maharashtra.js
+Sagareshwar Temple (Vengurla) | Vengurla |  | maharashtra.js
+Shree Jagadishwar Temple (Raigad Fort) | Raigad Fort |  | maharashtra.js
+Shiva Temple, Gulsunde (Panvel, Rasayani) | Panvel |  | maharashtra.js
+Shri Vireshwar Temple (Khopoli/Mahad) | Mahad |  | maharashtra.js
+Hemadpanti Shiv Mandir (Umbardi, Mangaon) | Mangaon |  | maharashtra.js
+Khandeshwar Shiv Temple (Panvel, Khanda Colony) | Panvel |  | maharashtra.js
+Shiva Temple, Diwale Gaon (CBD Belapur) | CBD Belapur |  | maharashtra.js
+Shiv Temple, Sector 14 (Kamothe) | Kamothe |  | maharashtra.js
+Pali Ballaleshwar Shiva Shrine (Pali) | Pali |  | maharashtra.js
+Aatmeshwar Temple (Alibaug) | Alibaug |  | maharashtra.js
+Kusumeshwar Temple (Kusumbele) | Kusumbele |  | maharashtra.js
+Mandva Mahadev Temple (Mandwa) | Mandwa |  | maharashtra.js
+Dhavaleshwar Temple (Sudhagad) | Sudhagad |  | maharashtra.js
+Gokarneshwar Temple (Uran) | Uran |  | maharashtra.js
+Sheshnag Mahadev Mandir (Virar East) | Virar |  | maharashtra.js
+Barfeshwar Mahadev Temple (Virar, Chandansar) | Virar |  | maharashtra.js
+Swayambhu Shiv Temple (Edwan) | Edwan |  | maharashtra.js
+Nagnath Shiv Temple (Manor, Uchat/Sartodi) | Manor |  | maharashtra.js
+Jagruteshwar Mahadev Temple (Khanivade) | Khanivade |  | maharashtra.js
+Ancient Parol Shiv Mandir (Majivali) | Majivali |  | maharashtra.js
+Shri Shitladevi Temple (Shiva Shrine, Kelwa) | Kelwa |  | maharashtra.js
+Aatmalingeswar Mahadev Mandir (Shivansai, Virar West) | Virar |  | maharashtra.js
+Pujeshwar Mahadev Mandir (Dhundalwadi, Dapchari) | Dhundalwadi |  | maharashtra.js
+Shri Datta Nagesh Mandir (Boisar) | Boisar |  | maharashtra.js
+Narmdeshwar Mahadev Mandir (Shirsad) | Shirsad |  | maharashtra.js
+Shree Nageshwar Shiva Temple (Somwar Peth) | Pune |  | maharashtra.js
+Shree Someshwar Temple (Pashan) | Pune |  | maharashtra.js
+Ghoravadeshwar Cave Temple (Talegaon Dabhade) | Talegaon Dabhade |  | maharashtra.js
+Wagheshwar Temple (Wagholi) | Wagholi |  | maharashtra.js
+Baneshwar Cave Temple (Pune Suburb) | Pune |  | maharashtra.js
+Atibaleshwar Temple (Old Mahabaleshwar) | Old Mahabaleshwar |  | maharashtra.js
+Pateshwar Temple (Degaon) | Degaon |  | maharashtra.js
+Shikhar Shingnapur (Shambhumaheshwar) Temple | Shikhar Shingnapur |  | maharashtra.js
+Uttar Chidambaram Nataraj Temple (Satara City) | Satara |  | maharashtra.js
+Yavateshwar Temple (Yavateshwar) | Yavateshwar |  | maharashtra.js
+Chandreshwar Temple (Chaphal) | Chaphal |  | maharashtra.js
+Shree Sagareshwar Mahadev Temple (Sagareshwar Wildlife Sanctuary) | Sagareshwar |  | maharashtra.js
+Shree Ramlingeshwar Temple (Hatkanangale/Sangli Border) | Hatkanangale Border |  | maharashtra.js
+Mallikarjun Temple (Jath) | Jath |  | maharashtra.js
+Panchmukhi Mahadev Mandir (Vishrambag) | Vishrambag |  | maharashtra.js
+Dhuloba Temple (Bhilawadi) | Bhilawadi |  | maharashtra.js
+Shree Shambhu Mahadev Temple (Vita) | Vita |  | maharashtra.js
+Ancient Chalukya Shri Shiva Temple (Anwa, Bhokardan) | Anwa |  | maharashtra.js
+Shri Panchmukhi Mahadev Temple (Vyankatesh Nagar, Gandhinagar) | Jalna |  | maharashtra.js
+Shambhu Mahadev Temple (Shambhu Sawargaon, Mantha) | Shambhu Sawargaon |  | maharashtra.js
+Kanakneshwar Mahadev Mandir (Old MIDC, Jalna) | Jalna |  | maharashtra.js
+Mahadev Temple Hills Station (Ranjani) | Ranjani |  | maharashtra.js
+Mukteshwar Mahadev Temple (Samarth Nagar, Jalna) | Jalna |  | maharashtra.js
+Shri Walkeshwar Mahadev Mandir (Maada Colony, Old Jalna) | Jalna |  | maharashtra.js
+Dhawaleshwar Mahadev Temple (New Mondha, Jalna) | Jalna |  | maharashtra.js
+Solgavhan Mahadev Temple (Partur) | Partur |  | maharashtra.js
+Shri Khadkeshwar Mahadev Mandir (Bhawani Nagar) | Jalna |  | maharashtra.js
+Bholeshwar Bhagwan (Kharpudi) | Kharpudi |  | maharashtra.js
+Melawarche Mahadev Mandir (Sawaladbara) | Sawaladbara |  | maharashtra.js
+Chapadeshwar Mandir (Chapadgaon) | Chapadgaon |  | maharashtra.js
+Shri Mrityunjay Pardeshwar Mahadev Mandir (Nath Nagar, Parbhani) | Parbhani |  | maharashtra.js
+Mudgaleshwar Temple (Mudgal) | Mudgal |  | maharashtra.js
+Ughda Mahadev Mandir (Mamta Colony, Parbhani) | Parbhani |  | maharashtra.js
+Shri Kshetra Tridhara Omkareshwar Devasthan (Dhangarwadi) | Dhangarwadi |  | maharashtra.js
+Shree Beleshwar Mahadev Mandir (Nath Nagar, Parbhani) | Parbhani |  | maharashtra.js
+Jabareshwar Temple (Parbhani Outskirts) | Parbhani |  | maharashtra.js
+Shri Siddheshwar Mandir (Mahagaon Kalgaon) | Mahagaon Kalgaon |  | maharashtra.js
+Manikeshwar Mahadev Mandir (Mankeshwar, Jintur) | Mankeshwar |  | maharashtra.js
+Anandeshwar Mahadev Temple (Datta Nagar, Parbhani) | Parbhani |  | maharashtra.js
+Shri Someshwar Mahadev Mandir (Parbhani City) | Parbhani |  | maharashtra.js
+Vitthal Rukmini Mahadev Mandir (Parbhani) | Parbhani |  | maharashtra.js
+Shri Murudeshwar Temple (Peth Shivani) | Peth Shivani |  | maharashtra.js
+Shukleswar Mandir (Peth Shivani) | Peth Shivani |  | maharashtra.js
+Shri Siddheshwar Devasthan (Solapur City) | Solapur |  | maharashtra.js
+Shree Sangameshwar Devasthan (Hattarsang Kudal) | Hattarsang Kudal |  | maharashtra.js
+Shri Veertapasvi Mandir (Akkalkot Road, Solapur) | Solapur |  | maharashtra.js
+Revansiddeshwar Temple (Vijapur Road, Solapur) | Solapur |  | maharashtra.js
+Shiv Parvati Temple (Geeta Colony, Akluj) | Akluj |  | maharashtra.js
+Shri Amrut Ling Siddheshwar Temple (Sidheshwar Temple Area) | Solapur |  | maharashtra.js
+Shri Papeshwar Ling (Sidheshwar Temple Area) | Solapur |  | maharashtra.js
+Motha Mahadev Mandir (Vadapur) | Vadapur |  | maharashtra.js
+Ogsiddha Temple (Siddapur Road, Arali) | Arali |  | maharashtra.js
+Shri Yoginath Ling (Jule Solapur) | Jule Solapur |  | maharashtra.js
+Shri Omkareshwar Ling (Jule Solapur) | Jule Solapur |  | maharashtra.js
+Kedareshwar Mahadev Temple (Pangari, Yavatmal City) | Yavatmal |  | maharashtra.js
+Mandev Shiv Temple (Manpur, Arni Road) | Manpur |  | maharashtra.js
+Chausala Shiv Mandir (Chausala Forest Area) | Chausala |  | maharashtra.js
+Jagrit Shiv Mandir (Shindola, Jugad) | Shindola |  | maharashtra.js
+Nilkantheshwar Mahadev Mandir (Husanapur, near Darwha) | Husanapur |  | maharashtra.js
+Dhankeshwar Temple (Pusad) | Pusad |  | maharashtra.js
+Ujjaineshwar Shiv Mandir (Darwha) | Darwha |  | maharashtra.js
+Kanakneshwar Mandir (Kalgaon, Mahagaon) | Kalgaon |  | maharashtra.js
+Omkareshwar Mahadev Mandir (Dabhadi) | Dabhadi |  | maharashtra.js
+Panchdhara Shiva Mandir (Yavatmal City) | Yavatmal |  | maharashtra.js
+Kundareshwar Temple (Near Wani) | Wani |  | maharashtra.js
+Ancient Chalukya Shri Siddheshwara Swamy Temple (Hottal) | Hottal |  | maharashtra.js
+Unkeshwar Mahadev Temple (Kinwat) | Kinwat |  | maharashtra.js
+Urvashi Mahadev Temple (Nanded City) | Nanded |  | maharashtra.js
+Kadyacha Mahadev Temple (Ghagardara) | Ghagardara |  | maharashtra.js
+Kedarnath Temple (Kedarguda) | Kedarguda |  | maharashtra.js
+Nagreshwar Mandir (Khadakpura) | Khadakpura |  | maharashtra.js
+Panchmukhi Mahadev Mandir (Degloor) | Degloor |  | maharashtra.js
+Ancient Chalukya era Shri Anandeshwar Temple (Lasur) | Lasur |  | maharashtra.js
+Shri Gadgadeshwar Mandir (Amravati City) | Amravati |  | maharashtra.js
+Satidham Temple | Amravati |  | maharashtra.js
+Gavhan Kund Shiv Mandir (Jarud) | Jarud |  | maharashtra.js
+Kailash Ashram Shiv Mandir (Kurli) | Kurli |  | maharashtra.js
+Shiv Shakti Mandir (Shivaji Nagar) | Amravati |  | maharashtra.js
+Sheshnag Mahadev Mandir (Virar) | Virar |  | maharashtra.js
+Barfeshwar Mahadev Temple (Virar) | Virar |  | maharashtra.js
+Aatmalingeswar Mahadev Mandir (Shivansai) | Shivansai |  | maharashtra.js
+Nagnath Shiv Temple (Manor) | Manor |  | maharashtra.js
+Pimpleshwar Shiv Temple (Virar) | Virar |  | maharashtra.js
+Shri Shitladevi Temple Shiva Shrine (Kelwa) | Kelwa |  | maharashtra.js
+Pujeshwar Mahadev Mandir (Dhundalwadi) | Dhundalwadi |  | maharashtra.js
+Shri Koteshwar Temple (Satephal) | Satephal |  | maharashtra.js
+MAHADEV PURA Mandir (Wardha City) | Wardha |  | maharashtra.js
+Ancient Shiv Mandir (Dhaga) | Dhaga |  | maharashtra.js
+Shri Narmadeshwar Shiv Mandir (Arvi Road) | Wardha |  | maharashtra.js
+Shiv Mandir, Shivnagri (Sawangi Meghe) | Sawangi Meghe |  | maharashtra.js
+Kapileshwardham Bholenath Mandir (Ashti) | Ashti |  | maharashtra.js
+Vishaveshvar Mahadev Temple (Lonsawali/Pulgaon) | Pulgaon |  | maharashtra.js
+Mishraji Shivling Mandir (Seloo) | Seloo |  | maharashtra.js
+Shree Someshwar Mahadev Mandir (Sindi) | Sindi |  | maharashtra.js
+Shri Trimbakeshwar Temple (Sevagram Road) | Wardha |  | maharashtra.js
+Panchmukhi Mahadev Mandir (Wardha) | Wardha |  | maharashtra.js
+Mahadev Mandir, Rajebag (Dharashiv City) | Dharashiv |  | maharashtra.js
+Ghat Shila Temple (Tuljapur) | Tuljapur |  | maharashtra.js
+Shree Kshetra Kapileshwar Mandir (Mudawad) | Mudawad |  | maharashtra.js
+Gajanan Maharaj Mandir Shiva Shrine (Om Nagar) | Dhule |  | maharashtra.js
+Shree Panjhareshwar Mahadev (Deopur) | Deopur |  | maharashtra.js
+Nilkantheshwar Shiv Temple (Ramchandra Nagar) | Dhule |  | maharashtra.js
+Shri Shiv Mandir (SRPF Colony) | Dhule |  | maharashtra.js
+Ekveera Devi Temple Shiva Shrine (Deopur) | Deopur |  | maharashtra.js
+Jamnagiri Mahadev Mandir (Old Dhule) | Dhule |  | maharashtra.js
+Kaleshwari Mandir (Dhule-Moghan Road) | Dhule |  | maharashtra.js
+Mangleshwar Mahadev Mandir (Dahivad) | Dahivad |  | maharashtra.js
+Gangeshwar Mahadev Temple (Chinchkhede) | Chinchkhede |  | maharashtra.js
+Shri Gupteshwar Mahadev Mandir (Agra Road) | Dhule |  | maharashtra.js
+Kedareshwar Mahakal Mandir (Gondur) | Gondur |  | maharashtra.js
+Budhaneshwar Temple (Madh) | Madh |  | maharashtra.js
+Ancient Chalukya Shri Shiva Temple (Sakegaon) | Sakegaon |  | maharashtra.js
+Koleshwar Mahadev Mandir (Rohinkhed) | Rohinkhed |  | maharashtra.js
+Gautameshwar Sansthan Mahadev Mandir (Gomedhar) | Gomedhar |  | maharashtra.js
+Papahareshwar Temple (Lonar) | Lonar |  | maharashtra.js
+Andhera Mahadeo Mandir (Chikhli) | Chikhli |  | maharashtra.js
+Panchmukhi Mahadev Mandir (Chikhli) | Chikhli |  | maharashtra.js
+Dhupeshwar Mahadev Temple (Harsoda) | Harsoda |  | maharashtra.js
+Kotheshwar Mahadev Mandir (Narvel) | Narvel |  | maharashtra.js
+Suryamukhi Shivmandir (Matla) | Matla |  | maharashtra.js
+Mungla Mahadev Temple (Lonar) | Lonar |  | maharashtra.js
+Chopda Mahadev Temple (Lonar) | Lonar |  | maharashtra.js
+Madhyameshwar Temple (Saudagar Pura, Washim) | Washim |  | maharashtra.js
+Shri Satteshwar Mahadev Temple (Washim) | Washim |  | maharashtra.js
+Nagnath Mahadev Mandir (Washim) | Washim |  | maharashtra.js
+Nileshwar Mahadev Mandir (Gondeshwar) | Gondeshwar |  | maharashtra.js
+Krushneshwar Mahadev Temple (Ukalipen) | Ukalipen |  | maharashtra.js
+Shree Jhuleshwar Mahadev Mandir (Sindhi Camp, Washim) | Washim |  | maharashtra.js
+Pimpleshwar Mahadev Mandir (Mangrulpir) | Mangrulpir |  | maharashtra.js
+Karuneshwar Mandir (Ganesh Peth, Washim) | Washim |  | maharashtra.js
+Kumareshwar Mahadev Temple (Mop, Risod) | Risod |  | maharashtra.js
+Shri Murudeshwar Temple (Rithad) | Rithad |  | maharashtra.js
+Shiv Parvati Temple (Nagapur) | Nagapur |  | maharashtra.js
+Shri Nageshwar Jyotirlinga (Aundha Nagnath) | Aundha Nagnath |  | maharashtra.js
+Jaleshwar Mahadev Mandir (Hingoli City) | Hingoli |  | maharashtra.js
+Shree Nilkantheshwar Shivling & Annapurna Devi Mandir (Aundha Nagnath) | Aundha Nagnath |  | maharashtra.js
+Shri Hattkeshwar Sansthan (Hatta) | Hatta |  | maharashtra.js
+Lord Rokdeshwar Temple (Pangra Shinde) | Pangra Shinde |  | maharashtra.js
+Shree Adi Nagnath Temple (Aundha Nagnath) | Aundha Nagnath |  | maharashtra.js
+Shri Jatashankar Temple (Dongarkada) | Dongarkada |  | maharashtra.js
+Shree Kubereshwar Mahadev Mandir (Hingoli) | Hingoli |  | maharashtra.js
+Shree Ratneshwar Temple (SRPF Camp) | Hingoli |  | maharashtra.js
+Dhaneshar Temple (Kolasa) | Kolasa |  | maharashtra.js
+Bhavani Mata Temple Shiva Shrine (Waranga Phata) | Waranga Phata |  | maharashtra.js
+Shiv Dham (Fulchur Peth) | Gondia |  | maharashtra.js
+Pongezara Shiv Mandir (Goregaon) | Goregaon |  | maharashtra.js
+Ardh Nareshwar Shiv Temple (Salekasa) | Salekasa |  | maharashtra.js
+Dhaneshwar Mahadev Temple (Sindhi Colony) | Gondia |  | maharashtra.js
+Sivanibandh Shiv Murti (Zadgaon) | Zadgaon |  | maharashtra.js
+Bholenath Mandir (Asoli) | Asoli |  | maharashtra.js
+Asordi Mahadev Pahadi (Asordi) | Asordi |  | maharashtra.js
+Kashighat Shiv Temple (Garada) | Garada |  | maharashtra.js
+Bhole Baba Mandir (Halbitola) | Halbitola |  | maharashtra.js
+Shri Mankeshwar Temple (Jintur Road) | Gadchiroli |  | maharashtra.js
+Shiva Shankar Sri Ganesh Mandad (Tekdamotla) | Tekdamotla |  | maharashtra.js
+Shankar Ghat Shiva Temple (Gadchiroli) | Gadchiroli |  | maharashtra.js
+Kapileshwar Mandir Mudawad (Mudavad) | Mudavad |  | maharashtra.js
+Gangeshwar Mahadev Temple (Pimpri Amarale) | Pimpri Amarale |  | maharashtra.js
+Kedareshwar Mahakal Mandir (Dhule) | Dhule |  | maharashtra.js
+Shiv Temple Dahiwad (Shirpur) | Shirpur |  | maharashtra.js
+Ghrisneshwar Mahadev Mandir (Chopdai) | Chopdai |  | maharashtra.js
+Gangeshwar Mahadev Mandir (Samode) | Samode |  | maharashtra.js
+Nilkanth Mahadev Temple (Kokale) | Kokale |  | maharashtra.js
+Navnath Mandir (Wadibhokar) | Wadibhokar |  | maharashtra.js
+Trilokeshwar Shivdham Temple (Datarti) | Datarti |  | maharashtra.js
+Shri Raj Rajeshwar Mandir (Akola Fort) | Akola |  | maharashtra.js
+Om Shri Baara Jyotirlinga Shiv Mandir (Ranpise Nagar) | Akola |  | maharashtra.js
+Salasar Balaji Temple Shiva Parivar (Dahigaon Gawande) | Dahigaon Gawande |  | maharashtra.js
+Shree Narmadeshwar Shiv Mandir (Chhoti Umari) | Chhoti Umari |  | maharashtra.js
+Wnageshwar Mahadev Mandir (Telhara) | Telhara |  | maharashtra.js
+Mahakali Mandir Shiva Shrine (Mothi Umri) | Mothi Umri |  | maharashtra.js
+Jageshwar Devsthan Mandir (Shivaji Nagar) | Akola |  | maharashtra.js
+Shree Shiv Mandir (Khadki) | Khadki |  | maharashtra.js
+Chaitanyashwar Shiv Mandir (Samata Colony) | Akola |  | maharashtra.js
+Siddheshwar Mahadev Mandir (Old Market / Neverna) | Unnao | Unnao | uttarPradesh.js
+Bilveshwar Mahadev Mandir (Bhadnag / Bharti Garhi) | Bhadnag | Unnao | uttarPradesh.js
+Gokul Baba Temple (Magarwara) | Magarwara | Unnao | uttarPradesh.js
+Shri Shri Jungleshwar Harihar Shakti Peeth Dham (Shivpur Grant) | Shivpur Grant | Unnao | uttarPradesh.js
+Balkhandeshwar Mandir (Pariyar) | Pariyar | Unnao | uttarPradesh.js
+Triambkeshwar Shiv Mandir (Kabba Khera) | Kabba Khera | Unnao | uttarPradesh.js
+Shri Rameshwar Mahadev Mandir (Chaudrana / Jagannath Ganj) | Chaudrana | Unnao | uttarPradesh.js
+Kalyaneshwar Mahadev Mandir (Kalyani) | Kalyani | Unnao | uttarPradesh.js
+Shree Narmadeshwar Mahadev Mandir (Kalyani) | Kalyani | Unnao | uttarPradesh.js
+Peepleshwar Mahadev Mandir (Jajmau Bridge) | Unnao | Unnao | uttarPradesh.js
+Moteswar Mahadev Temple (Safipur / Maurawan) | Safipur | Unnao | uttarPradesh.js
+Girjeshwar Mahadev Temple (Chaudrana) | Chaudrana | Unnao | uttarPradesh.js
+Sahastra Lingeshwar Shiv Mandir (Takiya) | Takiya | Unnao | uttarPradesh.js
+Shri Shankareshwar Mahadev Mandir (Narendra Nagar) | Unnao | Unnao | uttarPradesh.js
+Shri Jilleshwar Mahadev Temple (Unnao) | Unnao | Unnao | uttarPradesh.js
+Sri Baba Pasupati Nath Mahadev (Jawahar Nagar) | Unnao | Unnao | uttarPradesh.js
+Harihareshwar Mahadev Temple (Jurakhan Khera) | Jurakhan Khera | Unnao | uttarPradesh.js
+Shri Hardeveshwar Mahadev Mandir (Bichhiya) | Bichhiya | Unnao | uttarPradesh.js
+Bhole Nath Mandir Muslawa (Auras Road) | Unnao | Unnao | uttarPradesh.js
+Janwarinath Dham Temple (Ghatampur, Lambhua) | Lambhua | Sultanpur | uttarPradesh.js
+Mahadevan Shiv Mandir (Alampur, Ramganj) | Ramganj | Sultanpur | uttarPradesh.js
+Shivalaya - Shiva Mandir (Parsipur) | Parsipur | Sultanpur | uttarPradesh.js
+Satteshwar Mahadev Temple (Jagdishpur) | Jagdishpur | Sultanpur | uttarPradesh.js
+Baba Maheshnath Temple (Dhammaur) | Dhammaur | Sultanpur | uttarPradesh.js
+Sarveshwar Mahadev Mandir (Beruka Athaisi) | Beruka Athaisi | Sultanpur | uttarPradesh.js
+Shree Bhuvaneshwarnath Mahadev Mandir (Belwai) | Belwai | Sultanpur | uttarPradesh.js
+Dandeshwar Temple (Kotwa Pipari) | Kotwa Pipari | Sultanpur | uttarPradesh.js
+Shiv Dham Belwai (Akhandnagar) | Akhandnagar | Sultanpur | uttarPradesh.js
+Gauri Shankar Mahadev Dham (Dewarh) | Dewarh | Sultanpur | uttarPradesh.js
+Diheshwar Mahadev Dham (Bansgaon) | Bansgaon | Sultanpur | uttarPradesh.js
+Shiv Baba Mandir Seva Samiti (Saifullaganj) | Saifullaganj | Sultanpur | uttarPradesh.js
+Shiv Mandir Of Pankaj Pathak (Pyarepatti) | Pyarepatti | Sultanpur | uttarPradesh.js
+Rameshwar Shiv Temple (Sewtari, Jaisinghpur) | Jaisinghpur | Sultanpur | uttarPradesh.js
+Kishtinagar Shiv Mandir (Islam Pur) | Islam Pur | Sultanpur | uttarPradesh.js
+Prachin Shiv Mandir Hariharpur (Shivgarh) | Shivgarh | Sultanpur | uttarPradesh.js
+Shiv Mandir Bol Bam (Majhana) | Majhana | Sultanpur | uttarPradesh.js
+Shri Renukeshwar Mahadev Mandir (Renukoot) | Renukoot | Sonbhadra | uttarPradesh.js
+Shiv Dwaar / Uma Maheshwar Temple (Ghorawal) | Ghorawal | Sonbhadra | uttarPradesh.js
+Mangleshwar Mahadev Temple (Chopan) | Chopan | Sonbhadra | uttarPradesh.js
+Sri Achaleshwar Mahadev Mandir (Dalla) | Dalla | Sonbhadra | uttarPradesh.js
+Somnath Mandir (Barauli) | Barauli | Sonbhadra | uttarPradesh.js
+Purana Shiv Mandir (Anpara) | Anpara | Sonbhadra | uttarPradesh.js
+Kandakot Shiv Temple (Bahuar) | Bahuar | Sonbhadra | uttarPradesh.js
+Gotthani Shiv Mandir (Gupta Kashi, Chopan) | Chopan | Sonbhadra | uttarPradesh.js
+Mahakaleshwar Shiv Mandir (Kuldomari) | Kuldomari | Sonbhadra | uttarPradesh.js
+Rameshwar Mahadev Temple (Chopan) | Chopan | Sonbhadra | uttarPradesh.js
+Someshwar Mahadev Mandir (Shendhuriya) | Shendhuriya | Sonbhadra | uttarPradesh.js
+Kailash Mandir (Chopan) | Chopan | Sonbhadra | uttarPradesh.js
+Shri Narvadeshvar Mahadev Mandir (Chopan) | Chopan | Sonbhadra | uttarPradesh.js
+Lodhi Mahadev Mandir (Robertsganj) | Robertsganj | Sonbhadra | uttarPradesh.js
+Bholenath Mandir (Churk Bazar) | Churk | Sonbhadra | uttarPradesh.js
+Shri Chandrakeshwar Mahadev Mandir (Ghorawal) | Ghorawal | Sonbhadra | uttarPradesh.js
+Shri Dwarkeshwar Narmdeshwar Mahadev Mandir (Dudhi) | Dudhi | Sonbhadra | uttarPradesh.js
+Sanatan Shiv Mandir (Majhgawan Chauhan) | Majhgawan Chauhan | Sonbhadra | uttarPradesh.js
