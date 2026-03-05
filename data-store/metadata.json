@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-03T06:40:54.586Z",
-  "total": 4685,
+  "generatedAt": "2026-03-05T04:44:04.523Z",
+  "total": 5281,
   "countsByMode": {
-    "shiva": 4415,
+    "shiva": 5011,
     "shakti": 270
   },
   "countsByState": {
@@ -27,7 +27,7 @@
     "Tamil Nadu": 258,
     "Telangana": 84,
     "Tripura": 67,
-    "Uttar Pradesh": 770,
+    "Uttar Pradesh": 1366,
     "Uttarakhand": 152,
     "West Bengal": 83
   },
@@ -55,7 +55,7 @@
     "shiva:Tamil Nadu": 258,
     "shiva:Telangana": 84,
     "shiva:Tripura": 67,
-    "shiva:Uttar Pradesh": 686,
+    "shiva:Uttar Pradesh": 1282,
     "shakti:Uttar Pradesh": 84,
     "shiva:Uttarakhand": 132,
     "shakti:Uttarakhand": 20,

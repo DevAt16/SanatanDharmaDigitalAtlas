@@ -22,7 +22,8 @@
     "stamp:addedat": "node scripts/stampAddedAt.mjs",
     "images:wikimedia": "node scripts/fetchWikimediaImages.mjs",
     "store:export": "node scripts/exportTempleStore.mjs",
-    "store:ingest": "node scripts/ingestTempleStore.mjs"
+    "store:ingest": "node scripts/ingestTempleStore.mjs",
+    "seed:state": "node scripts/exportStateSeedFromJs.mjs"
   },
   "dependencies": {
     "@ishubhamx/panchangam-js": "^2.2.2",

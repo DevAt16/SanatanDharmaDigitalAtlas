@@ -32400,9 +32400,9 @@ export const uttarPradeshTemples = [
     ],
     "story": "A locally revered Shiva shrine in Lakhimpur Kheri district with active daily worship and festival observance.",
     "highlight": "Part of Lakhimpur Kheri's distributed Shaiva worship network.",
-    "image": "/temples/temple-05.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-05.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gola0.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gola0.jpg",
     "deity": "Shiva (Nath)",
     "tradition": "Shaiva",
     "addedAt": "2026-03-04T10:50:00+05:30",
@@ -35574,9 +35574,9 @@ export const uttarPradeshTemples = [
     ],
     "story": "A locally revered Shiva shrine in Kanpur Nagar district with active daily worship and festival observance.",
     "highlight": "Part of Kanpur Nagar's distributed Shaiva worship network.",
-    "image": "/temples/temple-05.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-05.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anandeshwar_Temple_Kanpur.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Anandeshwar_Temple_Kanpur.jpg",
     "deity": "Shiva (Anandeshwar)",
     "tradition": "Shaiva",
     "addedAt": "2026-03-04T11:55:00+05:30",
@@ -45188,9 +45188,9 @@ export const uttarPradeshTemples = [
     ],
     "story": "A locally revered Shiva shrine in Ghaziabad district with active daily worship and festival observance.",
     "highlight": "Part of Ghaziabad's distributed Shaiva worship network.",
-    "image": "/temples/temple-05.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-05.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dudheshwar_Nath_Temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Dudheshwar_Nath_Temple.jpg",
     "deity": "Shiva (Dudheshwar Nath Mahadev)",
     "tradition": "Shaiva",
     "addedAt": "2026-03-04T14:20:00+05:30",
@@ -55768,9 +55768,9 @@ export const uttarPradeshTemples = [
     ],
     "story": "A locally revered Shiva shrine in Bareilly district with active daily worship and festival observance.",
     "highlight": "Part of Bareilly's distributed Shaiva worship network.",
-    "image": "/temples/temple-05.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-05.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alakhnath_Bareilly_02.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Alakhnath_Bareilly_02.jpg",
     "deity": "Shiva (Alakhnath)",
     "tradition": "Shaiva",
     "addedAt": "2026-03-04T17:50:00+05:30",
@@ -55814,9 +55814,9 @@ export const uttarPradeshTemples = [
     ],
     "story": "A locally revered Shiva shrine in Bareilly district with active daily worship and festival observance.",
     "highlight": "Part of Bareilly's distributed Shaiva worship network.",
-    "image": "/temples/temple-05.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-05.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trivatinath_Bareilly_12.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Trivatinath_Bareilly_12.jpg",
     "deity": "Shiva (Trivatinath)",
     "tradition": "Shaiva",
     "addedAt": "2026-03-04T17:50:00+05:30",
@@ -57332,9 +57332,9 @@ export const uttarPradeshTemples = [
     ],
     "story": "A locally revered Shiva shrine in Banda district with active daily worship and festival observance.",
     "highlight": "Part of Banda's distributed Shaiva worship network.",
-    "image": "/temples/temple-05.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-05.svg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0121921_Neelkanth_temple_of_Kalinjar_fort%2C_Banda_District_%E2%80%93_133.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:0121921_Neelkanth_temple_of_Kalinjar_fort%2C_Banda_District_%E2%80%93_133.jpg",
     "deity": "Shiva (Neelkanth Mahadev)",
     "tradition": "Shaiva",
     "addedAt": "2026-03-04T18:20:00+05:30",
@@ -59157,6 +59157,7963 @@ export const uttarPradeshTemples = [
       ]
     },
     "district": "Ballia",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Siddheshwar Nath Temple",
+    "state": "Uttar Pradesh",
+    "city": "Bahraich",
+    "region": "Bahraich city, Bahraich district",
+    "tags": [
+      "Siddheshwar Nath",
+      "Bahraich",
+      "Shiva"
+    ],
+    "story": "Siddheshwar Nath Temple is a local Shiva temple in the Bahraich city belt with regular worship and Monday observances.",
+    "highlight": "A city-based Shiva shrine with steady daily darshan activity.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Siddheshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T20:10:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwar Nath Temple is maintained as a neighborhood Shiva shrine in the Bahraich district devotional network.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Siddheshwar%20Nath%20Temple%20Bahraich",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Junglee Nath Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Bahraich",
+    "region": "Bahraich city, Bahraich district",
+    "tags": [
+      "Junglee Nath",
+      "Bahraich",
+      "Shiva"
+    ],
+    "story": "Junglee Nath Mandir is a local Shiva temple in Bahraich with active daily puja and festival observance.",
+    "highlight": "A Bahraich Shiva shrine with regular community worship.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T20:10:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Junglee Nath Mandir functions as a neighborhood Shaiva shrine in Bahraich district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Junglee%20Nath%20Mandir%20Bahraich",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Bhaleshwar Nath Mandir - Jarwal",
+    "state": "Uttar Pradesh",
+    "city": "Jarwal",
+    "region": "Jarwal, Bahraich district",
+    "tags": [
+      "Bhaleshwar Nath",
+      "Jarwal",
+      "Bahraich"
+    ],
+    "story": "Baba Bhaleshwar Nath Mandir is a local Shiva temple in Jarwal, Bahraich district, with regular daily worship.",
+    "highlight": "A Jarwal-area Shiva shrine with seasonal festival activity.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Bhaleshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T20:10:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Baba Bhaleshwar Nath Mandir is part of Jarwal's local Shaiva worship continuity in Bahraich district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Baba%20Bhaleshwar%20Nath%20Mandir%20Jarwal%20Bahraich",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mari Mata Mandir (Shiv Section)",
+    "state": "Uttar Pradesh",
+    "city": "Bahraich",
+    "region": "Bahraich district",
+    "tags": [
+      "Mari Mata",
+      "Shiv Section",
+      "Bahraich"
+    ],
+    "story": "Mari Mata Mandir (Shiv Section) represents Shiva worship within a broader local temple complex in Bahraich district.",
+    "highlight": "A mixed-tradition complex with an active Shiva worship section.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-03-05T20:10:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "The Shiva section in this local complex contributes to Bahraich district's neighborhood Shaiva practice pattern.",
+      "architecture": "Local mixed-shrine architecture with separate worship sections.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mari%20Mata%20Mandir%20Shiv%20Section%20Bahraich",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir (Chayalipur)",
+    "state": "Uttar Pradesh",
+    "city": "Chayalipur",
+    "region": "Chayalipur, Bahraich district",
+    "tags": [
+      "Prachin Shiv Mandir",
+      "Chayalipur",
+      "Bahraich"
+    ],
+    "story": "Prachin Shiv Mandir is a local Shiva temple in Chayalipur with regular puja and seasonal observances.",
+    "highlight": "A Chayalipur-area neighborhood Shiva shrine.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T20:10:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Prachin Shiv Mandir (Chayalipur) is part of local village-level Shiva worship continuity in Bahraich district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Shiv%20Mandir%20Chayalipur%20Bahraich",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Nanpara) - Nanpara",
+    "state": "Uttar Pradesh",
+    "city": "Nanpara",
+    "region": "Nanpara, Bahraich district",
+    "tags": [
+      "Shiv Mandir",
+      "Nanpara",
+      "Bahraich"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Nanpara with regular daily worship and Monday observances.",
+    "highlight": "A Nanpara-based Shiva shrine serving local devotees.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T20:10:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Nanpara) is a neighborhood Shaiva shrine within the Bahraich district worship network.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Nanpara%20Bahraich",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Siddheshwar Mahadev Mandir - Kaisarganj",
+    "state": "Uttar Pradesh",
+    "city": "Kaisarganj",
+    "region": "Kaisarganj, Bahraich district",
+    "tags": [
+      "Siddheshwar Mahadev",
+      "Kaisarganj",
+      "Bahraich"
+    ],
+    "story": "Shree Siddheshwar Mahadev Mandir is a local Shiva temple in Kaisarganj with regular puja and seasonal observances.",
+    "highlight": "A Kaisarganj-area Siddheshwar Mahadev shrine.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Siddheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T20:10:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shree Siddheshwar Mahadev Mandir is part of Kaisarganj's local Shaiva worship continuity in Bahraich district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shree%20Siddheshwar%20Mahadev%20Mandir%20Kaisarganj%20Bahraich",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Payagpur) - Payagpur",
+    "state": "Uttar Pradesh",
+    "city": "Payagpur",
+    "region": "Payagpur, Bahraich district",
+    "tags": [
+      "Shiv Mandir",
+      "Payagpur",
+      "Bahraich"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Payagpur with daily puja and strong Shravan participation.",
+    "highlight": "A Payagpur-area Shiva shrine in regular community use.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T20:10:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Payagpur) is part of the local Shaiva worship pattern in Bahraich district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Payagpur%20Bahraich",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Mihinpurwa) - Nanpara",
+    "state": "Uttar Pradesh",
+    "city": "Nanpara",
+    "region": "Mihinpurwa, Nanpara, Bahraich district",
+    "tags": [
+      "Shiv Temple",
+      "Mihinpurwa",
+      "Nanpara"
+    ],
+    "story": "Shiv Temple is a local Shiva shrine associated with the Mihinpurwa-Nanpara belt in Bahraich district.",
+    "highlight": "A border-side Shiva temple node in the Nanpara sector.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T20:10:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Temple (Mihinpurwa) contributes to local Shaiva continuity in the Nanpara-adjacent belt.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Temple%20Mihinpurwa%20Nanpara%20Bahraich",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Risia)",
+    "state": "Uttar Pradesh",
+    "city": "Risia",
+    "region": "Risia, Bahraich district",
+    "tags": [
+      "Shiv Mandir",
+      "Risia",
+      "Bahraich"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Risia with daily worship and strong Monday attendance.",
+    "highlight": "A Risia-area Shiva shrine with regular puja activity.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T20:10:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Risia) is maintained as a neighborhood Shaiva shrine in Bahraich district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Risia%20Bahraich",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Fakharpur) - Kaisarganj",
+    "state": "Uttar Pradesh",
+    "city": "Kaisarganj",
+    "region": "Fakharpur, Kaisarganj, Bahraich district",
+    "tags": [
+      "Shiv Mandir",
+      "Fakharpur",
+      "Kaisarganj"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in the Fakharpur-Kaisarganj belt of Bahraich district.",
+    "highlight": "A Fakharpur-area Shiva shrine with regular neighborhood worship.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T20:10:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Fakharpur) contributes to local Shaiva continuity in the Kaisarganj side of Bahraich district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Fakharpur%20Kaisarganj%20Bahraich",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Shakti Dham - Mahasi",
+    "state": "Uttar Pradesh",
+    "city": "Mahasi",
+    "region": "Mahasi, Bahraich district",
+    "tags": [
+      "Shiv Shakti Dham",
+      "Mahasi",
+      "Bahraich"
+    ],
+    "story": "Shiv Shakti Dham is a local Shiva-focused worship site in Mahasi with regular puja and seasonal observances.",
+    "highlight": "A Mahasi-area Shiv Shakti center with active devotional flow.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Shiv Shakti)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T20:10:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Shakti Dham (Mahasi) serves as a local Shaiva focal point within Bahraich district's devotional network.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Bahraich district",
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Shakti%20Dham%20Mahasi%20Bahraich",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Bahraich",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pura Mahadev Mandir - (Pura)",
+    "state": "Uttar Pradesh",
+    "city": "Pura",
+    "region": "Pura, Baghpat district",
+    "tags": [
+      "Pura Mahadev",
+      "Pura",
+      "Baghpat"
+    ],
+    "story": "Pura Mahadev Mandir is a local Shiva temple in Pura village, Baghpat district, with active daily worship and Monday observances.",
+    "highlight": "A Pura-village Shiva shrine in regular community worship.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pura%20Mahadev%20Baghpat.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Pura_Mahadev_Baghpat.jpg",
+    "deity": "Shiva (Pura Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Pura Mahadev Mandir - (Pura) is maintained as a local Shaiva anchor in Baghpat district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Pura%20Mahadev%20Mandir%20Pura%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bageshwar Temple",
+    "state": "Uttar Pradesh",
+    "city": "Baghpat",
+    "region": "Baghpat district",
+    "tags": [
+      "Bageshwar",
+      "Baghpat",
+      "Shiva"
+    ],
+    "story": "Bageshwar Temple is a local Shiva temple in Baghpat district with steady daily puja and seasonal observances.",
+    "highlight": "A Baghpat-area Shiva shrine with active neighborhood devotion.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Bageshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bageshwar Temple participates in Baghpat district's local Shaiva worship continuity.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bageshwar%20Temple%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Tyodhi) - Baghpat/Baraut",
+    "state": "Uttar Pradesh",
+    "city": "Baraut",
+    "region": "Tyodhi, Baraut, Baghpat district",
+    "tags": [
+      "Shiv Mandir",
+      "Tyodhi",
+      "Baraut"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in the Tyodhi-Baraut belt of Baghpat district with regular daily worship.",
+    "highlight": "A Tyodhi-area Shiva shrine in the Baraut sector.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Tyodhi) is part of local Shaiva practice in the Baraut side of Baghpat district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Tyodhi%20Baraut%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Temple (Hisawada) - Baghpat/Baraut",
+    "state": "Uttar Pradesh",
+    "city": "Baraut",
+    "region": "Hisawada, Baraut, Baghpat district",
+    "tags": [
+      "Prachin Shiv Temple",
+      "Hisawada",
+      "Baraut"
+    ],
+    "story": "Prachin Shiv Temple is a local Shiva shrine in Hisawada-Baraut with regular neighborhood worship cycles.",
+    "highlight": "A Hisawada-area traditional Shiva worship node.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Prachin Shiv Temple (Hisawada) is maintained in local continuity in the Baraut-Baghpat devotional landscape.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Shiv%20Temple%20Hisawada%20Baraut%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Budhera) - Baghpat/Baraut",
+    "state": "Uttar Pradesh",
+    "city": "Baraut",
+    "region": "Budhera, Baraut, Baghpat district",
+    "tags": [
+      "Shiv Mandir",
+      "Budhera",
+      "Baraut"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Budhera-Baraut with active daily puja and festival observances.",
+    "highlight": "A Budhera-area neighborhood Shiva temple in the Baraut belt.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Budhera) contributes to local Shaiva continuity in the Baraut side of Baghpat district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Budhera%20Baraut%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Khekra) - Baghpat/Khekra",
+    "state": "Uttar Pradesh",
+    "city": "Khekra",
+    "region": "Khekra, Baghpat district",
+    "tags": [
+      "Shiv Mandir",
+      "Khekra",
+      "Baghpat"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Khekra with regular daily worship and Monday attendance.",
+    "highlight": "A core Khekra Shiva shrine in Baghpat district.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Khekra) is part of Khekra's neighborhood Shaiva worship continuity.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Khekra%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Gufa Wale Baba (Shiv Section) - (Saroorpur Kalan)",
+    "state": "Uttar Pradesh",
+    "city": "Saroorpur Kalan",
+    "region": "Saroorpur Kalan, Baghpat district",
+    "tags": [
+      "Gufa Wale Baba",
+      "Shiv Section",
+      "Saroorpur Kalan"
+    ],
+    "story": "Gufa Wale Baba (Shiv Section) is a local Shiva-focused section within a broader devotional site in Saroorpur Kalan.",
+    "highlight": "A cave-associated local Shiva worship section in Baghpat district.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "The Shiv section at Gufa Wale Baba is part of local mixed devotional continuity in Baghpat district.",
+      "architecture": "Local mixed-shrine architecture with separate worship sections.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gufa%20Wale%20Baba%20Saroorpur%20Kalan%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Pabla Baidyanath)",
+    "state": "Uttar Pradesh",
+    "city": "Pabla Baidyanath",
+    "region": "Pabla Baidyanath, Baghpat district",
+    "tags": [
+      "Shiv Mandir",
+      "Pabla Baidyanath",
+      "Baghpat"
+    ],
+    "story": "Shiv Mandir is a local Shiva shrine in Pabla Baidyanath with routine daily puja and festive observance.",
+    "highlight": "A village-level Shiva node in the Pabla Baidyanath area.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Pabla Baidyanath) is part of village-level Shaiva continuity in Baghpat district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Pabla%20Baidyanath%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Doula)",
+    "state": "Uttar Pradesh",
+    "city": "Doula",
+    "region": "Doula, Baghpat district",
+    "tags": [
+      "Shiv Mandir",
+      "Doula",
+      "Baghpat"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Doula with regular daily worship and seasonal festival gatherings.",
+    "highlight": "A Doula-area local Shiva worship node.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Doula) remains part of local Shaiva continuity in Baghpat district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Doula%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Fadalpur Fazalpur)",
+    "state": "Uttar Pradesh",
+    "city": "Fadalpur Fazalpur",
+    "region": "Fadalpur Fazalpur, Baghpat district",
+    "tags": [
+      "Shiv Mandir",
+      "Fadalpur Fazalpur",
+      "Baghpat"
+    ],
+    "story": "Shiv Mandir is a local Shiva shrine in Fadalpur Fazalpur with active daily worship and Monday puja.",
+    "highlight": "A Fadalpur Fazalpur neighborhood Shiva temple.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Fadalpur Fazalpur) is part of Baghpat's village-level Shaiva worship continuity.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Fadalpur%20Fazalpur%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Katha) - Baghpat/Khekra",
+    "state": "Uttar Pradesh",
+    "city": "Khekra",
+    "region": "Katha, Khekra, Baghpat district",
+    "tags": [
+      "Shiv Mandir",
+      "Katha",
+      "Khekra"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Katha village of the Khekra belt, with regular worship by local devotees.",
+    "highlight": "A Katha village Shiva shrine in the Khekra sector.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Katha) contributes to local Shaiva continuity in the Khekra side of Baghpat district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Katha%20Khekra%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shive Mandir (Ibhrimabad Gawri)",
+    "state": "Uttar Pradesh",
+    "city": "Ibhrimabad Gawri",
+    "region": "Ibhrimabad Gawri, Baghpat district",
+    "tags": [
+      "Shive Mandir",
+      "Ibhrimabad Gawri",
+      "Baghpat"
+    ],
+    "story": "Shive Mandir is a local Shiva temple in Ibhrimabad Gawri with regular community worship and Monday offerings.",
+    "highlight": "A local Shiva shrine in Ibhrimabad Gawri.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shive Mandir (Ibhrimabad Gawri) is a village-level Shaiva continuity point in Baghpat district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shive%20Mandir%20Ibhrimabad%20Gawri%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Azad Nagar) - Baghpat/Baraut",
+    "state": "Uttar Pradesh",
+    "city": "Baraut",
+    "region": "Azad Nagar, Baraut, Baghpat district",
+    "tags": [
+      "Shiv Mandir",
+      "Azad Nagar",
+      "Baraut"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Azad Nagar (Baraut) with routine daily worship and seasonal observances.",
+    "highlight": "An Azad Nagar Shiva shrine in the Baraut urban belt.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Azad Nagar) supports local Shaiva continuity in Baraut, Baghpat district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Azad%20Nagar%20Baraut%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lord Shiva Temple (Anandpur Urf Bandpur)",
+    "state": "Uttar Pradesh",
+    "city": "Anandpur Urf Bandpur",
+    "region": "Anandpur Urf Bandpur, Baghpat district",
+    "tags": [
+      "Lord Shiva Temple",
+      "Anandpur Urf Bandpur",
+      "Baghpat"
+    ],
+    "story": "Lord Shiva Temple is a local Shiva shrine in Anandpur Urf Bandpur with active daily worship and Monday observances.",
+    "highlight": "A village Shiva temple in the Anandpur Urf Bandpur belt.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Lord Shiva Temple (Anandpur Urf Bandpur) is part of village-level Shaiva continuity in Baghpat district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Lord%20Shiva%20Temple%20Anandpur%20Urf%20Bandpur%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Basoli) - Baghpat/Khekra",
+    "state": "Uttar Pradesh",
+    "city": "Khekra",
+    "region": "Basoli, Khekra, Baghpat district",
+    "tags": [
+      "Shiv Mandir",
+      "Basoli",
+      "Khekra"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Basoli village of the Khekra sector, with regular worship by local devotees.",
+    "highlight": "A Basoli village Shiva shrine in the Khekra belt.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Basoli) supports village-level Shaiva continuity in the Khekra side of Baghpat district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Basoli%20Khekra%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Malakpur) - Baghpat/Baraut",
+    "state": "Uttar Pradesh",
+    "city": "Baraut",
+    "region": "Malakpur, Baraut, Baghpat district",
+    "tags": [
+      "Shiv Mandir",
+      "Malakpur",
+      "Baraut"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Malakpur-Baraut with daily puja and active festival attendance.",
+    "highlight": "A Malakpur-area Shiva shrine in the Baraut belt.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Malakpur) contributes to local Shaiva continuity in the Baraut side of Baghpat district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Malakpur%20Baraut%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Oghad Nath Mandir - (Dhanaura Silver Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Dhanaura Silver Nagar",
+    "region": "Dhanaura Silver Nagar, Baghpat district",
+    "tags": [
+      "Oghad Nath",
+      "Dhanaura Silver Nagar",
+      "Baghpat"
+    ],
+    "story": "Oghad Nath Mandir is a local Shiva temple in Dhanaura Silver Nagar with daily worship and seasonal observances.",
+    "highlight": "A Dhanaura Silver Nagar Shiva shrine with regular local devotion.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Oghad Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Oghad Nath Mandir is maintained as a local Shaiva worship node in Baghpat district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Baghpat district",
+          "url": "https://en.wikipedia.org/wiki/Baghpat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Oghad%20Nath%20Mandir%20Dhanaura%20Silver%20Nagar%20Baghpat",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Baghpat",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Birua Bari Temple",
+    "state": "Uttar Pradesh",
+    "city": "Budaun",
+    "region": "Budaun city, Budaun district",
+    "tags": [
+      "Birua Bari",
+      "Budaun",
+      "Shiva"
+    ],
+    "story": "Birua Bari Temple is a local Shiva temple in the Budaun city belt with regular daily worship and Monday observances.",
+    "highlight": "A city-side Shiva shrine in Budaun's neighborhood devotional circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:30:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Birua Bari Temple is maintained as a local Shaiva shrine in Budaun district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Budaun district",
+          "url": "https://en.wikipedia.org/wiki/Budaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Birua%20Bari%20Temple%20Budaun",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Budaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Gauri Shankar Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Budaun",
+    "region": "Budaun district",
+    "tags": [
+      "Gauri Shankar",
+      "Budaun",
+      "Shiva"
+    ],
+    "story": "Gauri Shankar Mandir is a local Shiva temple in Budaun district with regular puja and festival observances.",
+    "highlight": "A Gauri-Shankar Shiva shrine serving local devotees.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Gauri Shankar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:30:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gauri Shankar Mandir contributes to local Shaiva continuity in Budaun district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Budaun district",
+          "url": "https://en.wikipedia.org/wiki/Budaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gauri%20Shankar%20Mandir%20Budaun",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Budaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Nagla Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Budaun",
+    "region": "Nagla area, Budaun district",
+    "tags": [
+      "Nagla",
+      "Shiv Mandir",
+      "Budaun"
+    ],
+    "story": "Nagla Shiv Mandir is a local Shiva shrine in the Nagla area of Budaun district with regular neighborhood worship.",
+    "highlight": "A Nagla-area Shiva node with active daily puja.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:30:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Nagla Shiv Mandir is part of local village/ward-level Shaiva continuity in Budaun district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Budaun district",
+          "url": "https://en.wikipedia.org/wiki/Budaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nagla%20Shiv%20Mandir%20Budaun",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Budaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pashupati Nath Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Budaun",
+    "region": "Budaun district",
+    "tags": [
+      "Pashupati Nath",
+      "Budaun",
+      "Shiva"
+    ],
+    "story": "Pashupati Nath Mandir is a local Shiva temple in Budaun district with regular darshan and seasonal observances.",
+    "highlight": "A Pashupati tradition Shiva shrine in Budaun.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Pashupati Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:30:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Pashupati Nath Mandir is maintained as part of local Shaiva worship continuity in Budaun district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Budaun district",
+          "url": "https://en.wikipedia.org/wiki/Budaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Pashupati%20Nath%20Mandir%20Budaun",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Budaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Siddheshwar Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Budaun",
+    "region": "Budaun district",
+    "tags": [
+      "Siddheshwar Mahadev",
+      "Budaun",
+      "Shiva"
+    ],
+    "story": "Siddheshwar Mahadev Mandir is a local Shiva temple in Budaun district with regular daily worship and Monday observances.",
+    "highlight": "A Siddheshwar Mahadev shrine in Budaun's local devotional network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Siddheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:30:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwar Mahadev Mandir is part of local Shaiva continuity in Budaun district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Budaun district",
+          "url": "https://en.wikipedia.org/wiki/Budaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Siddheshwar%20Mahadev%20Mandir%20Budaun",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Budaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Ujhani)",
+    "state": "Uttar Pradesh",
+    "city": "Ujhani",
+    "region": "Ujhani, Budaun district",
+    "tags": [
+      "Shiv Mandir",
+      "Ujhani",
+      "Budaun"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Ujhani with active daily worship and seasonal observances.",
+    "highlight": "A Ujhani-area Shiva shrine with regular neighborhood devotion.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:30:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Ujhani) supports local Shaiva worship continuity in Budaun district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Budaun district",
+          "url": "https://en.wikipedia.org/wiki/Budaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Ujhani%20Budaun",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Budaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhood Wale Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Budaun",
+    "region": "Bhood area, Budaun district",
+    "tags": [
+      "Bhood Wale",
+      "Shiv Mandir",
+      "Budaun"
+    ],
+    "story": "Bhood Wale Shiv Mandir is a local Shiva shrine in the Bhood area of Budaun with regular daily puja.",
+    "highlight": "A Bhood-area neighborhood Shiva temple.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:30:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bhood Wale Shiv Mandir contributes to local Shaiva continuity in Budaun district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Budaun district",
+          "url": "https://en.wikipedia.org/wiki/Budaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhood%20Wale%20Shiv%20Mandir%20Budaun",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Budaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Kakrala) - Dataganj",
+    "state": "Uttar Pradesh",
+    "city": "Dataganj",
+    "region": "Kakrala, Dataganj, Budaun district",
+    "tags": [
+      "Shiv Mandir",
+      "Kakrala",
+      "Dataganj"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in the Kakrala-Dataganj belt with active daily worship.",
+    "highlight": "A Kakrala-area Shiva shrine linked to Dataganj sector devotees.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:30:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Kakrala) is part of Dataganj-side Shaiva continuity in Budaun district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Budaun district",
+          "url": "https://en.wikipedia.org/wiki/Budaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Kakrala%20Dataganj%20Budaun",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Budaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Islamnagar) - Bisauli",
+    "state": "Uttar Pradesh",
+    "city": "Bisauli",
+    "region": "Islamnagar, Bisauli, Budaun district",
+    "tags": [
+      "Shiv Mandir",
+      "Islamnagar",
+      "Bisauli"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Islamnagar of the Bisauli belt with regular puja and festival observances.",
+    "highlight": "An Islamnagar-area Shiva shrine in the Bisauli sector.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:30:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Islamnagar) contributes to local Shaiva continuity in the Bisauli side of Budaun district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Budaun district",
+          "url": "https://en.wikipedia.org/wiki/Budaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Islamnagar%20Bisauli%20Budaun",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Budaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir - Sahaswan",
+    "state": "Uttar Pradesh",
+    "city": "Sahaswan",
+    "region": "Sahaswan, Budaun district",
+    "tags": [
+      "Prachin Shiv Mandir",
+      "Sahaswan",
+      "Budaun"
+    ],
+    "story": "Prachin Shiv Mandir is a local Shiva temple in Sahaswan with regular daily worship and Monday observances.",
+    "highlight": "A Sahaswan-area old Shiva worship node.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:30:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Prachin Shiv Mandir - Sahaswan is part of long-standing local Shaiva continuity in Budaun district.",
+      "architecture": "Primarily modern local temple architecture with older shrine identity.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Budaun district",
+          "url": "https://en.wikipedia.org/wiki/Budaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Shiv%20Mandir%20Sahaswan%20Budaun",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Budaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Wazirganj) - Bisauli",
+    "state": "Uttar Pradesh",
+    "city": "Bisauli",
+    "region": "Wazirganj, Bisauli, Budaun district",
+    "tags": [
+      "Shiv Mandir",
+      "Wazirganj",
+      "Bisauli"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Wazirganj of the Bisauli belt with regular daily puja.",
+    "highlight": "A Wazirganj-area Shiva shrine in the Bisauli sector.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:30:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Wazirganj) contributes to local Shaiva continuity in the Bisauli side of Budaun district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Budaun district",
+          "url": "https://en.wikipedia.org/wiki/Budaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Wazirganj%20Bisauli%20Budaun",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Budaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahakaal Mandir (Bilsi Road) - Bilsi",
+    "state": "Uttar Pradesh",
+    "city": "Bilsi",
+    "region": "Bilsi Road, Bilsi, Budaun district",
+    "tags": [
+      "Mahakaal Mandir",
+      "Bilsi Road",
+      "Bilsi"
+    ],
+    "story": "Mahakaal Mandir is a local Shiva temple on Bilsi Road in Bilsi with active daily worship and seasonal observances.",
+    "highlight": "A Mahakaal-focused Shiva shrine in Bilsi's road-corridor belt.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Mahakaal)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:30:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Mahakaal Mandir (Bilsi Road) is part of Bilsi-side Shaiva continuity in Budaun district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Budaun district",
+          "url": "https://en.wikipedia.org/wiki/Budaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahakaal%20Mandir%20Bilsi%20Road%20Bilsi%20Budaun",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Budaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Shakti Dham - Dataganj",
+    "state": "Uttar Pradesh",
+    "city": "Dataganj",
+    "region": "Dataganj, Budaun district",
+    "tags": [
+      "Shiv Shakti Dham",
+      "Dataganj",
+      "Budaun"
+    ],
+    "story": "Shiv Shakti Dham is a local Shiva-focused worship center in Dataganj with regular puja and festival observances.",
+    "highlight": "A Dataganj Shiv-Shakti devotional node with steady daily activity.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Shiv Shakti)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:30:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Shakti Dham - Dataganj is part of local Shaiva continuity in Budaun district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Budaun district",
+          "url": "https://en.wikipedia.org/wiki/Budaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Shakti%20Dham%20Dataganj%20Budaun",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Budaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lord Shiva Temple - (Sheikhupur)",
+    "state": "Uttar Pradesh",
+    "city": "Sheikhupur",
+    "region": "Sheikhupur, Budaun district",
+    "tags": [
+      "Lord Shiva Temple",
+      "Sheikhupur",
+      "Budaun"
+    ],
+    "story": "Lord Shiva Temple is a local Shiva shrine in Sheikhupur with active daily worship and Monday observances.",
+    "highlight": "A Sheikhupur Shiva temple in Budaun district's neighborhood worship network.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T21:30:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Lord Shiva Temple - (Sheikhupur) contributes to local Shaiva continuity in Budaun district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Budaun district",
+          "url": "https://en.wikipedia.org/wiki/Budaun_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Lord%20Shiva%20Temple%20Sheikhupur%20Budaun",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Budaun",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhanwar Nath Temple",
+    "state": "Uttar Pradesh",
+    "city": "Azamgarh",
+    "region": "Azamgarh district",
+    "tags": [
+      "Bhanwar Nath",
+      "Azamgarh",
+      "Shiva"
+    ],
+    "story": "Bhanwar Nath Temple is a local Shiva temple in Azamgarh district with active daily worship and Monday observances.",
+    "highlight": "A local Shiva anchor in Azamgarh's neighborhood devotional network.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Bhanwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bhanwar Nath Temple is maintained as part of local Shaiva continuity in Azamgarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Azamgarh district",
+          "url": "https://en.wikipedia.org/wiki/Azamgarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhanwar%20Nath%20Temple%20Azamgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Azamgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Durvasa Rishi Ashram (Shiv Temple) - Phulpur",
+    "state": "Uttar Pradesh",
+    "city": "Phulpur",
+    "region": "Phulpur, Azamgarh district",
+    "tags": [
+      "Durvasa Rishi Ashram",
+      "Phulpur",
+      "Shiva"
+    ],
+    "story": "Durvasa Rishi Ashram (Shiv Temple) is a local Shiva worship point in the Phulpur belt of Azamgarh district.",
+    "highlight": "A sage-linked Shiva shrine in the Phulpur sector.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Durvasa%20Rishi's%20Ashram%20-%20Dhyan%20Mandir.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Durvasa_Rishi%27s_Ashram_-_Dhyan_Mandir.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Durvasa-linked Shiva worship traditions are preserved locally in the Phulpur side of Azamgarh district.",
+      "architecture": "Local ashram-temple architecture.",
+      "visitorNotes": "Expect highest footfall on Mondays and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Azamgarh district",
+          "url": "https://en.wikipedia.org/wiki/Azamgarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Durvasa%20Rishi%20Ashram%20Shiv%20Temple%20Phulpur%20Azamgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Azamgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dattatreya Dham (Shiv Section) - Nizamabad",
+    "state": "Uttar Pradesh",
+    "city": "Nizamabad",
+    "region": "Nizamabad, Azamgarh district",
+    "tags": [
+      "Dattatreya Dham",
+      "Nizamabad",
+      "Shiv Section"
+    ],
+    "story": "Dattatreya Dham (Shiv Section) represents Shiva worship within a broader local dham setting in Nizamabad.",
+    "highlight": "A mixed-tradition dham with an active Shiva section in Nizamabad.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva/Smarta",
+    "addedAt": "2026-03-05T22:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "The Shiva section at Dattatreya Dham contributes to Nizamabad-side Shaiva continuity in Azamgarh district.",
+      "architecture": "Local dham complex with sectioned shrine spaces.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Azamgarh district",
+          "url": "https://en.wikipedia.org/wiki/Azamgarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dattatreya%20Dham%20Shiv%20Section%20Nizamabad%20Azamgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Azamgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mooneshwar Nath Mandir - Sagri (Jiyanpur)",
+    "state": "Uttar Pradesh",
+    "city": "Jiyanpur",
+    "region": "Sagri (Jiyanpur), Azamgarh district",
+    "tags": [
+      "Mooneshwar Nath",
+      "Sagri",
+      "Jiyanpur"
+    ],
+    "story": "Mooneshwar Nath Mandir is a local Shiva temple in the Sagri-Jiyanpur belt with active daily worship.",
+    "highlight": "A Sagri-sector Shiva shrine serving Jiyanpur and nearby devotees.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Mooneshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Mooneshwar Nath Mandir is part of local Shaiva continuity in the Sagri side of Azamgarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Azamgarh district",
+          "url": "https://en.wikipedia.org/wiki/Azamgarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mooneshwar%20Nath%20Mandir%20Jiyanpur%20Sagri%20Azamgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Azamgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Avantika Puri (Avankapuri) Shiv Temple - Mohammadabad Gohna (Border area)",
+    "state": "Uttar Pradesh",
+    "city": "Mohammadabad Gohna (Border area)",
+    "region": "Azamgarh-Mohammadabad Gohna border area",
+    "tags": [
+      "Avantika Puri",
+      "Avankapuri",
+      "Border Temple"
+    ],
+    "story": "Avantika Puri (Avankapuri) Shiv Temple is a border-belt Shiva shrine serving devotees from adjoining Azamgarh areas.",
+    "highlight": "A border-area Shiva temple in the Mohammadabad Gohna-facing corridor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Border-area listing; verify exact jurisdiction, timing, and route locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Avantika Puri (Avankapuri) Shiv Temple is preserved in local continuity along the Azamgarh border devotional belt.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Azamgarh district",
+          "url": "https://en.wikipedia.org/wiki/Azamgarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Avantika%20Puri%20Avankapuri%20Shiv%20Temple%20Mohammadabad%20Gohna",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Azamgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Raidopur)",
+    "state": "Uttar Pradesh",
+    "city": "Azamgarh",
+    "region": "Raidopur, Azamgarh district",
+    "tags": [
+      "Shiv Mandir",
+      "Raidopur",
+      "Azamgarh"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Raidopur with active daily worship and Monday observances.",
+    "highlight": "A Raidopur-area Shiva shrine in Azamgarh's urban devotional belt.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Raidopur) contributes to local Shaiva continuity in Azamgarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Azamgarh district",
+          "url": "https://en.wikipedia.org/wiki/Azamgarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Raidopur%20Azamgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Azamgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Panchmukhi Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Azamgarh",
+    "region": "Azamgarh district",
+    "tags": [
+      "Panchmukhi Mahadev",
+      "Azamgarh",
+      "Shiva"
+    ],
+    "story": "Panchmukhi Mahadev Mandir is a local Shiva temple in Azamgarh district with regular worship and seasonal observances.",
+    "highlight": "A Panchmukhi Mahadev shrine in Azamgarh's Shaiva network.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Panchmukhi Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Panchmukhi Mahadev Mandir is maintained as part of local Shaiva continuity in Azamgarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Azamgarh district",
+          "url": "https://en.wikipedia.org/wiki/Azamgarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Panchmukhi%20Mahadev%20Mandir%20Azamgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Azamgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhairav Nath Mandir - Mehnagar",
+    "state": "Uttar Pradesh",
+    "city": "Mehnagar",
+    "region": "Mehnagar, Azamgarh district",
+    "tags": [
+      "Bhairav Nath",
+      "Mehnagar",
+      "Azamgarh"
+    ],
+    "story": "Bhairav Nath Mandir is a local Bhairav-Shiva tradition temple in Mehnagar with regular daily worship.",
+    "highlight": "A Mehnagar Bhairav-Nath shrine in Azamgarh district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Bhairav Nath (Shiva)",
+    "tradition": "Shaiva (Bhairava)",
+    "addedAt": "2026-03-05T22:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar",
+      "Bhairav Ashtami"
+    ],
+    "moreDetails": {
+      "history": "Bhairav Nath Mandir - Mehnagar is part of local Shaiva-Bhairava continuity in Azamgarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Azamgarh district",
+          "url": "https://en.wikipedia.org/wiki/Azamgarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhairav%20Nath%20Mandir%20Mehnagar%20Azamgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Azamgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Bilariyaganj) - Sagri",
+    "state": "Uttar Pradesh",
+    "city": "Bilariyaganj",
+    "region": "Bilariyaganj, Sagri, Azamgarh district",
+    "tags": [
+      "Shiv Mandir",
+      "Bilariyaganj",
+      "Sagri"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Bilariyaganj of the Sagri belt with regular daily worship.",
+    "highlight": "A Bilariyaganj Shiva shrine in the Sagri sector.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Bilariyaganj) contributes to local Shaiva continuity in the Sagri side of Azamgarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Azamgarh district",
+          "url": "https://en.wikipedia.org/wiki/Azamgarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Bilariyaganj%20Sagri%20Azamgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Azamgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lord Shiva Temple (Aterith) - Lalganj",
+    "state": "Uttar Pradesh",
+    "city": "Lalganj",
+    "region": "Aterith, Lalganj, Azamgarh district",
+    "tags": [
+      "Lord Shiva Temple",
+      "Aterith",
+      "Lalganj"
+    ],
+    "story": "Lord Shiva Temple is a local Shiva shrine in Aterith-Lalganj with active daily worship and Monday observances.",
+    "highlight": "An Aterith-area Shiva shrine in the Lalganj sector.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Lord Shiva Temple (Aterith) is part of local Shaiva continuity in the Lalganj side of Azamgarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Azamgarh district",
+          "url": "https://en.wikipedia.org/wiki/Azamgarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Lord%20Shiva%20Temple%20Aterith%20Lalganj%20Azamgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Azamgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir (Sarai Mir) - Nizamabad",
+    "state": "Uttar Pradesh",
+    "city": "Nizamabad",
+    "region": "Sarai Mir, Nizamabad, Azamgarh district",
+    "tags": [
+      "Prachin Shiv Mandir",
+      "Sarai Mir",
+      "Nizamabad"
+    ],
+    "story": "Prachin Shiv Mandir is a local Shiva temple in Sarai Mir of the Nizamabad belt with regular worship.",
+    "highlight": "A Sarai Mir Shiva shrine in the Nizamabad sector.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Prachin Shiv Mandir (Sarai Mir) contributes to local Shaiva continuity in the Nizamabad side of Azamgarh district.",
+      "architecture": "Primarily modern local temple architecture with older shrine identity.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Azamgarh district",
+          "url": "https://en.wikipedia.org/wiki/Azamgarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Shiv%20Mandir%20Sarai%20Mir%20Nizamabad%20Azamgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Azamgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Mahrajganj) - Sagri",
+    "state": "Uttar Pradesh",
+    "city": "Mahrajganj",
+    "region": "Mahrajganj, Sagri, Azamgarh district",
+    "tags": [
+      "Shiv Mandir",
+      "Mahrajganj",
+      "Sagri"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in the Mahrajganj-Sagri belt with active daily worship.",
+    "highlight": "A Mahrajganj Shiva shrine in the Sagri sector.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Mahrajganj) contributes to local Shaiva continuity in the Sagri side of Azamgarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Azamgarh district",
+          "url": "https://en.wikipedia.org/wiki/Azamgarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Mahrajganj%20Sagri%20Azamgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Azamgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Siddheshwar Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Azamgarh",
+    "region": "Azamgarh district",
+    "tags": [
+      "Siddheshwar Mahadev",
+      "Azamgarh",
+      "Shiva"
+    ],
+    "story": "Siddheshwar Mahadev Mandir is a local Shiva temple in Azamgarh district with regular daily worship and Monday observances.",
+    "highlight": "A Siddheshwar Mahadev shrine in Azamgarh's neighborhood devotional network.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Siddheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:00:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwar Mahadev Mandir is maintained as local Shaiva continuity in Azamgarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Azamgarh district",
+          "url": "https://en.wikipedia.org/wiki/Azamgarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Siddheshwar%20Mahadev%20Mandir%20Azamgarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Azamgarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Nageshwar Nath Temple",
+    "state": "Uttar Pradesh",
+    "city": "Ayodhya",
+    "region": "Ayodhya district",
+    "tags": [
+      "Nageshwar Nath",
+      "Ayodhya",
+      "Shiva"
+    ],
+    "story": "Nageshwar Nath Temple is a local Shiva temple in Ayodhya district with regular daily worship and major Shravan observances.",
+    "highlight": "A Nageshwar Nath Shiva shrine in Ayodhya's core devotional circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Nageshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Nageshwar Nath Temple is preserved in Ayodhya's local Shaiva continuity.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ayodhya district",
+          "url": "https://en.wikipedia.org/wiki/Ayodhya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nageshwar%20Nath%20Temple%20Ayodhya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ayodhya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Vighneshwar Nath Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Ayodhya",
+    "region": "Ayodhya district",
+    "tags": [
+      "Vighneshwar Nath",
+      "Ayodhya",
+      "Shiva"
+    ],
+    "story": "Vighneshwar Nath Shiv Mandir is a local Shiva temple in Ayodhya district with active daily worship and seasonal festivals.",
+    "highlight": "A Vighneshwar Nath Shiva shrine in Ayodhya's neighborhood temple network.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Vighneshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Vighneshwar Nath Shiv Mandir contributes to local Shaiva continuity in Ayodhya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ayodhya district",
+          "url": "https://en.wikipedia.org/wiki/Ayodhya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Vighneshwar%20Nath%20Shiv%20Mandir%20Ayodhya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ayodhya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiva Mandir (Ram Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Ayodhya",
+    "region": "Ram Nagar, Ayodhya district",
+    "tags": [
+      "Shiva Mandir",
+      "Ram Nagar",
+      "Ayodhya"
+    ],
+    "story": "Shiva Mandir is a local Shiva shrine in the Ram Nagar belt of Ayodhya district with regular daily worship.",
+    "highlight": "A Ram Nagar-area Shiva shrine serving neighborhood devotees.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiva Mandir (Ram Nagar) is part of local Shaiva continuity in Ayodhya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ayodhya district",
+          "url": "https://en.wikipedia.org/wiki/Ayodhya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiva%20Mandir%20Ram%20Nagar%20Ayodhya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ayodhya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dukh Haran Nath Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Ayodhya",
+    "region": "Ayodhya district",
+    "tags": [
+      "Dukh Haran Nath",
+      "Mahadev",
+      "Ayodhya"
+    ],
+    "story": "Dukh Haran Nath Mahadev Mandir is a local Shiva temple in Ayodhya district associated with relief-seeking devotional worship.",
+    "highlight": "A Dukh Haran Nath Mahadev shrine in Ayodhya's local Shaiva circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Dukh Haran Nath Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Dukh Haran Nath Mahadev Mandir is maintained as part of local Shaiva continuity in Ayodhya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ayodhya district",
+          "url": "https://en.wikipedia.org/wiki/Ayodhya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dukh%20Haran%20Nath%20Mahadev%20Mandir%20Ayodhya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ayodhya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Rameshwar Mahadev",
+    "state": "Uttar Pradesh",
+    "city": "Ayodhya",
+    "region": "Ayodhya district",
+    "tags": [
+      "Rameshwar Mahadev",
+      "Ayodhya",
+      "Shiva"
+    ],
+    "story": "Shri Rameshwar Mahadev is a local Shiva temple in Ayodhya district with regular puja and seasonal observances.",
+    "highlight": "A Rameshwar Mahadev shrine in Ayodhya's local devotional landscape.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Rameshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shri Rameshwar Mahadev contributes to local Shaiva continuity in Ayodhya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ayodhya district",
+          "url": "https://en.wikipedia.org/wiki/Ayodhya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Rameshwar%20Mahadev%20Ayodhya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ayodhya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Pure Dala Khandasa - Milkipur",
+    "state": "Uttar Pradesh",
+    "city": "Milkipur",
+    "region": "Pure Dala Khandasa, Milkipur, Ayodhya district",
+    "tags": [
+      "Shiv Mandir",
+      "Pure Dala Khandasa",
+      "Milkipur"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in the Pure Dala Khandasa-Milkipur belt with regular daily worship.",
+    "highlight": "A Milkipur-side Shiva shrine in Ayodhya district's rural devotional network.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir Pure Dala Khandasa - Milkipur is part of local Shaiva continuity in Ayodhya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ayodhya district",
+          "url": "https://en.wikipedia.org/wiki/Ayodhya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Pure%20Dala%20Khandasa%20Milkipur%20Ayodhya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ayodhya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahadevan Temple Karamdanda - Bikapur",
+    "state": "Uttar Pradesh",
+    "city": "Bikapur",
+    "region": "Karamdanda, Bikapur, Ayodhya district",
+    "tags": [
+      "Mahadevan Temple",
+      "Karamdanda",
+      "Bikapur"
+    ],
+    "story": "Mahadevan Temple is a local Shiva temple in Karamdanda of the Bikapur belt with regular daily worship.",
+    "highlight": "A Bikapur-side Shiva shrine in the Karamdanda area.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Mahadevan)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Mahadevan Temple Karamdanda - Bikapur contributes to local Shaiva continuity in Ayodhya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ayodhya district",
+          "url": "https://en.wikipedia.org/wiki/Ayodhya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahadevan%20Temple%20Karamdanda%20Bikapur%20Ayodhya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ayodhya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Maa Foolmti Mandir (Shivpuri) - Rudauli",
+    "state": "Uttar Pradesh",
+    "city": "Rudauli",
+    "region": "Shivpuri, Rudauli, Ayodhya district",
+    "tags": [
+      "Maa Foolmti Mandir",
+      "Shivpuri",
+      "Rudauli"
+    ],
+    "story": "Maa Foolmti Mandir (Shivpuri) includes local Shiva worship traditions in the Rudauli belt of Ayodhya district.",
+    "highlight": "A mixed-tradition shrine with Shiva devotional activity in Shivpuri-Rudauli.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Shiv Section)",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-03-05T22:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maa Foolmti Mandir (Shivpuri) preserves mixed local devotional continuity including Shiva worship.",
+      "architecture": "Local mixed-shrine architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ayodhya district",
+          "url": "https://en.wikipedia.org/wiki/Ayodhya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Maa%20Foolmti%20Mandir%20Shivpuri%20Rudauli%20Ayodhya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ayodhya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Kuri Purushottampur - Bikapur",
+    "state": "Uttar Pradesh",
+    "city": "Bikapur",
+    "region": "Kuri Purushottampur, Bikapur, Ayodhya district",
+    "tags": [
+      "Shiv Mandir",
+      "Kuri Purushottampur",
+      "Bikapur"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Kuri Purushottampur of the Bikapur belt with regular daily worship.",
+    "highlight": "A Kuri Purushottampur Shiva shrine in Ayodhya's Bikapur sector.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir Kuri Purushottampur - Bikapur contributes to local Shaiva continuity in Ayodhya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ayodhya district",
+          "url": "https://en.wikipedia.org/wiki/Ayodhya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Kuri%20Purushottampur%20Bikapur%20Ayodhya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ayodhya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahakaleshwar Ji Ka Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Ayodhya",
+    "region": "Ayodhya district",
+    "tags": [
+      "Mahakaleshwar",
+      "Ayodhya",
+      "Shiva"
+    ],
+    "story": "Mahakaleshwar Ji Ka Mandir is a local Shiva temple in Ayodhya district with regular daily worship and Shravan observances.",
+    "highlight": "A Mahakaleshwar-focused Shiva shrine in Ayodhya's neighborhood circuit.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Mahakaleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Mahakaleshwar Ji Ka Mandir contributes to local Shaiva continuity in Ayodhya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ayodhya district",
+          "url": "https://en.wikipedia.org/wiki/Ayodhya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahakaleshwar%20Ji%20Ka%20Mandir%20Ayodhya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ayodhya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Sri Mankameshwar Nath Mahadev Ji",
+    "state": "Uttar Pradesh",
+    "city": "Ayodhya",
+    "region": "Ayodhya district",
+    "tags": [
+      "Mankameshwar Nath",
+      "Ayodhya",
+      "Shiva"
+    ],
+    "story": "Sri Mankameshwar Nath Mahadev Ji is a local Shiva temple in Ayodhya district with regular daily worship and vow-based observances.",
+    "highlight": "A Mankameshwar Nath Mahadev shrine in Ayodhya's local Shaiva network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mankameshwar Nath Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Sri Mankameshwar Nath Mahadev Ji contributes to local Shaiva continuity in Ayodhya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ayodhya district",
+          "url": "https://en.wikipedia.org/wiki/Ayodhya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sri%20Mankameshwar%20Nath%20Mahadev%20Ji%20Ayodhya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ayodhya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Devkali Temple",
+    "state": "Uttar Pradesh",
+    "city": "Auraiya",
+    "region": "Auraiya district",
+    "tags": [
+      "Devkali",
+      "Auraiya",
+      "Shiva"
+    ],
+    "story": "Devkali Temple is a local Shiva-focused shrine in Auraiya district with regular daily worship and Monday observances.",
+    "highlight": "A Devkali-linked Shiva worship node in Auraiya's district devotional network.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:35:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Devkali Temple contributes to local Shaiva continuity in Auraiya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Auraiya district",
+          "url": "https://en.wikipedia.org/wiki/Auraiya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Devkali%20Temple%20Auraiya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Auraiya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mangala Kali Temple (Shiv Section)",
+    "state": "Uttar Pradesh",
+    "city": "Auraiya",
+    "region": "Auraiya district",
+    "tags": [
+      "Mangala Kali Temple",
+      "Shiv Section",
+      "Auraiya"
+    ],
+    "story": "Mangala Kali Temple (Shiv Section) includes local Shiva worship traditions in Auraiya district.",
+    "highlight": "A mixed-tradition temple with an active Shiva worship section.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Shiv Section)",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-03-05T22:35:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "The Shiv section at Mangala Kali Temple contributes to local Shaiva continuity in Auraiya district.",
+      "architecture": "Local mixed-shrine architecture with sectioned worship spaces.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Auraiya district",
+          "url": "https://en.wikipedia.org/wiki/Auraiya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mangala%20Kali%20Temple%20Shiv%20Section%20Auraiya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Auraiya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Badi Devi Temple (Shiv Shivalaya) - Bidhuna",
+    "state": "Uttar Pradesh",
+    "city": "Bidhuna",
+    "region": "Bidhuna, Auraiya district",
+    "tags": [
+      "Badi Devi Temple",
+      "Shiv Shivalaya",
+      "Bidhuna"
+    ],
+    "story": "Badi Devi Temple (Shiv Shivalaya) includes a local Shiva worship section in the Bidhuna belt of Auraiya district.",
+    "highlight": "A Bidhuna mixed-tradition temple with active Shiv Shivalaya worship.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Shiv Shivalaya)",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-03-05T22:35:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "The Shiv Shivalaya section at Badi Devi Temple contributes to local Shaiva continuity in Auraiya district.",
+      "architecture": "Local mixed-shrine architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Auraiya district",
+          "url": "https://en.wikipedia.org/wiki/Auraiya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Badi%20Devi%20Temple%20Shiv%20Shivalaya%20Bidhuna",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Auraiya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Phaphund)",
+    "state": "Uttar Pradesh",
+    "city": "Phaphund",
+    "region": "Phaphund, Auraiya district",
+    "tags": [
+      "Shiv Mandir",
+      "Phaphund",
+      "Auraiya"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Phaphund with regular daily puja and Monday observances.",
+    "highlight": "A Phaphund-area neighborhood Shiva shrine in Auraiya district.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:35:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Phaphund) contributes to local Shaiva continuity in Auraiya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Auraiya district",
+          "url": "https://en.wikipedia.org/wiki/Auraiya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Phaphund%20Auraiya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Auraiya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir (Dibiyapur)",
+    "state": "Uttar Pradesh",
+    "city": "Dibiyapur",
+    "region": "Dibiyapur, Auraiya district",
+    "tags": [
+      "Prachin Shiv Mandir",
+      "Dibiyapur",
+      "Auraiya"
+    ],
+    "story": "Prachin Shiv Mandir is a local Shiva temple in Dibiyapur with regular daily worship and traditional observances.",
+    "highlight": "A Dibiyapur old-shrine Shiva node in Auraiya district.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:35:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Prachin Shiv Mandir (Dibiyapur) contributes to local Shaiva continuity in Auraiya district.",
+      "architecture": "Primarily modern local temple architecture with older shrine identity.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Auraiya district",
+          "url": "https://en.wikipedia.org/wiki/Auraiya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Shiv%20Mandir%20Dibiyapur%20Auraiya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Auraiya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Sahayal) - Bidhuna",
+    "state": "Uttar Pradesh",
+    "city": "Bidhuna",
+    "region": "Sahayal, Bidhuna, Auraiya district",
+    "tags": [
+      "Shiv Mandir",
+      "Sahayal",
+      "Bidhuna"
+    ],
+    "story": "Shiv Mandir is a local Shiva shrine in Sahayal of the Bidhuna belt with regular daily worship.",
+    "highlight": "A Sahayal-area Shiva temple in Auraiya district's Bidhuna sector.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:35:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Sahayal) contributes to local Shaiva continuity in Auraiya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Auraiya district",
+          "url": "https://en.wikipedia.org/wiki/Auraiya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Sahayal%20Bidhuna%20Auraiya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Auraiya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Panchmukhi Mahadev Mandir - Ajeetmal",
+    "state": "Uttar Pradesh",
+    "city": "Ajeetmal",
+    "region": "Ajeetmal, Auraiya district",
+    "tags": [
+      "Panchmukhi Mahadev",
+      "Ajeetmal",
+      "Auraiya"
+    ],
+    "story": "Panchmukhi Mahadev Mandir is a local Shiva temple in Ajeetmal with regular daily worship and seasonal observances.",
+    "highlight": "A Panchmukhi Mahadev shrine in the Ajeetmal belt.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Panchmukhi Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:35:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Panchmukhi Mahadev Mandir - Ajeetmal contributes to local Shaiva continuity in Auraiya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Auraiya district",
+          "url": "https://en.wikipedia.org/wiki/Auraiya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Panchmukhi%20Mahadev%20Mandir%20Ajeetmal%20Auraiya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Auraiya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Siddheshwar Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Auraiya",
+    "region": "Auraiya district",
+    "tags": [
+      "Siddheshwar Mahadev",
+      "Auraiya",
+      "Shiva"
+    ],
+    "story": "Siddheshwar Mahadev Mandir is a local Shiva temple in Auraiya district with regular daily worship and Monday observances.",
+    "highlight": "A Siddheshwar Mahadev shrine in Auraiya's local devotional network.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Siddheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:35:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwar Mahadev Mandir contributes to local Shaiva continuity in Auraiya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Auraiya district",
+          "url": "https://en.wikipedia.org/wiki/Auraiya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Siddheshwar%20Mahadev%20Mandir%20Auraiya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Auraiya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Babarpur) - Ajeetmal",
+    "state": "Uttar Pradesh",
+    "city": "Ajeetmal",
+    "region": "Babarpur, Ajeetmal, Auraiya district",
+    "tags": [
+      "Shiv Mandir",
+      "Babarpur",
+      "Ajeetmal"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Babarpur of the Ajeetmal belt with regular daily worship.",
+    "highlight": "A Babarpur-area Shiva shrine in Auraiya district's Ajeetmal sector.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:35:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Babarpur) contributes to local Shaiva continuity in Auraiya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Auraiya district",
+          "url": "https://en.wikipedia.org/wiki/Auraiya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Babarpur%20Ajeetmal%20Auraiya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Auraiya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Kudarkot) - Bidhuna",
+    "state": "Uttar Pradesh",
+    "city": "Bidhuna",
+    "region": "Kudarkot, Bidhuna, Auraiya district",
+    "tags": [
+      "Shiv Temple",
+      "Kudarkot",
+      "Bidhuna"
+    ],
+    "story": "Shiv Temple is a local Shiva shrine in Kudarkot of the Bidhuna belt with regular daily worship.",
+    "highlight": "A Kudarkot-area Shiva shrine in Auraiya district's Bidhuna sector.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:35:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Temple (Kudarkot) contributes to local Shaiva continuity in Auraiya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Auraiya district",
+          "url": "https://en.wikipedia.org/wiki/Auraiya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Temple%20Kudarkot%20Bidhuna%20Auraiya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Auraiya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Ayana) - Ajeetmal",
+    "state": "Uttar Pradesh",
+    "city": "Ajeetmal",
+    "region": "Ayana, Ajeetmal, Auraiya district",
+    "tags": [
+      "Shiv Mandir",
+      "Ayana",
+      "Ajeetmal"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Ayana of the Ajeetmal belt with regular daily worship.",
+    "highlight": "An Ayana-area Shiva shrine in Auraiya district's Ajeetmal sector.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:35:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Ayana) contributes to local Shaiva continuity in Auraiya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Auraiya district",
+          "url": "https://en.wikipedia.org/wiki/Auraiya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Ayana%20Ajeetmal%20Auraiya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Auraiya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Shakti Dham -  (Khanpur)",
+    "state": "Uttar Pradesh",
+    "city": "Khanpur",
+    "region": "Khanpur, Auraiya district",
+    "tags": [
+      "Shiv Shakti Dham",
+      "Khanpur",
+      "Auraiya"
+    ],
+    "story": "Shiv Shakti Dham is a local Shiva-focused worship center in Khanpur with regular puja and seasonal observances.",
+    "highlight": "A Khanpur Shiv-Shakti devotional node in Auraiya district.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Shiv Shakti)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:35:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Shakti Dham -  (Khanpur) contributes to local Shaiva continuity in Auraiya district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Auraiya district",
+          "url": "https://en.wikipedia.org/wiki/Auraiya_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Shakti%20Dham%20Khanpur%20Auraiya",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Auraiya",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Vasudev Temple (Vasudev Teerth)",
+    "state": "Uttar Pradesh",
+    "city": "Amroha",
+    "region": "Vasudev Teerth, Amroha district",
+    "tags": [
+      "Vasudev Teerth",
+      "Amroha",
+      "Shiva"
+    ],
+    "story": "Vasudev Temple (Vasudev Teerth) is a local Shiva-focused devotional node in Amroha district with regular daily worship.",
+    "highlight": "A Vasudev Teerth-linked Shiva shrine in Amroha's temple network.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:50:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Vasudev Temple (Vasudev Teerth) contributes to local Shaiva continuity in Amroha district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amroha district",
+          "url": "https://en.wikipedia.org/wiki/Amroha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Vasudev%20Temple%20Vasudev%20Teerth%20Amroha",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amroha",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahadev Mandir - Dhanaura",
+    "state": "Uttar Pradesh",
+    "city": "Dhanaura",
+    "region": "Dhanaura, Amroha district",
+    "tags": [
+      "Mahadev Mandir",
+      "Dhanaura",
+      "Amroha"
+    ],
+    "story": "Mahadev Mandir is a local Shiva temple in Dhanaura with regular daily worship and seasonal observances.",
+    "highlight": "A Dhanaura Shiva shrine in Amroha district's local devotional grid.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:50:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Mahadev Mandir - Dhanaura contributes to local Shaiva continuity in Amroha district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amroha district",
+          "url": "https://en.wikipedia.org/wiki/Amroha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahadev%20Mandir%20Dhanaura%20Amroha",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amroha",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shivalya Temple - Hasanpur",
+    "state": "Uttar Pradesh",
+    "city": "Hasanpur",
+    "region": "Hasanpur, Amroha district",
+    "tags": [
+      "Shivalya Temple",
+      "Hasanpur",
+      "Amroha"
+    ],
+    "story": "Shivalya Temple is a local Shiva shrine in Hasanpur with regular daily puja and Monday observances.",
+    "highlight": "A Hasanpur Shiva temple in Amroha district's neighborhood worship network.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:50:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shivalya Temple - Hasanpur contributes to local Shaiva continuity in Amroha district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amroha district",
+          "url": "https://en.wikipedia.org/wiki/Amroha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shivalya%20Temple%20Hasanpur%20Amroha",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amroha",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Ancient Shiva Temple - Naugawan Sadat",
+    "state": "Uttar Pradesh",
+    "city": "Naugawan Sadat",
+    "region": "Naugawan Sadat, Amroha district",
+    "tags": [
+      "Ancient Shiva Temple",
+      "Naugawan Sadat",
+      "Amroha"
+    ],
+    "story": "Ancient Shiva Temple is a local Shiva shrine in Naugawan Sadat with regular daily worship and traditional observances.",
+    "highlight": "A Naugawan Sadat old-shrine Shiva node in Amroha district.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:50:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Ancient Shiva Temple - Naugawan Sadat contributes to local Shaiva continuity in Amroha district.",
+      "architecture": "Primarily modern local temple architecture with older shrine identity.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amroha district",
+          "url": "https://en.wikipedia.org/wiki/Amroha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Ancient%20Shiva%20Temple%20Naugawan%20Sadat%20Amroha",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amroha",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dehpa Shiv Mandir - Hasanpur",
+    "state": "Uttar Pradesh",
+    "city": "Hasanpur",
+    "region": "Hasanpur, Amroha district",
+    "tags": [
+      "Dehpa Shiv Mandir",
+      "Hasanpur",
+      "Amroha"
+    ],
+    "story": "Dehpa Shiv Mandir is a local Shiva temple in Hasanpur with regular daily worship and Monday observances.",
+    "highlight": "A Dehpa-linked Shiva shrine in Hasanpur's neighborhood devotional network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:50:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Dehpa Shiv Mandir - Hasanpur contributes to local Shaiva continuity in Amroha district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amroha district",
+          "url": "https://en.wikipedia.org/wiki/Amroha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dehpa%20Shiv%20Mandir%20Hasanpur%20Amroha",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amroha",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Asgaripur",
+    "state": "Uttar Pradesh",
+    "city": "Asgaripur",
+    "region": "Asgaripur, Amroha district",
+    "tags": [
+      "Shiv Mandir",
+      "Asgaripur",
+      "Amroha"
+    ],
+    "story": "Shiv Mandir Asgaripur is a local Shiva shrine with regular daily worship in Amroha district.",
+    "highlight": "An Asgaripur-area Shiva shrine in Amroha's neighborhood temple grid.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:50:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir Asgaripur contributes to local Shaiva continuity in Amroha district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amroha district",
+          "url": "https://en.wikipedia.org/wiki/Amroha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Asgaripur%20Amroha",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amroha",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Ganga Pyau Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Amroha",
+    "region": "Amroha district",
+    "tags": [
+      "Ganga Pyau",
+      "Shiv Mandir",
+      "Amroha"
+    ],
+    "story": "Ganga Pyau Shiv Mandir is a local Shiva shrine in Amroha district with regular daily worship.",
+    "highlight": "A Ganga Pyau-linked Shiva node in Amroha's neighborhood devotional network.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:50:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Ganga Pyau Shiv Mandir contributes to local Shaiva continuity in Amroha district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amroha district",
+          "url": "https://en.wikipedia.org/wiki/Amroha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Ganga%20Pyau%20Shiv%20Mandir%20Amroha",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amroha",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Jai Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Amroha",
+    "region": "Amroha district",
+    "tags": [
+      "Jai Shiv Mandir",
+      "Amroha",
+      "Shiva"
+    ],
+    "story": "Jai Shiv Mandir is a local Shiva temple in Amroha district with regular daily puja and Monday observances.",
+    "highlight": "A Jai-Shiv devotional shrine in Amroha's local temple grid.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:50:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jai Shiv Mandir contributes to local Shaiva continuity in Amroha district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amroha district",
+          "url": "https://en.wikipedia.org/wiki/Amroha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Jai%20Shiv%20Mandir%20Amroha",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amroha",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Dingra",
+    "state": "Uttar Pradesh",
+    "city": "Dingra",
+    "region": "Dingra, Amroha district",
+    "tags": [
+      "Shiv Mandir",
+      "Dingra",
+      "Amroha"
+    ],
+    "story": "Shiv Mandir Dingra is a local Shiva shrine in Dingra with regular daily worship and seasonal observances.",
+    "highlight": "A Dingra-area Shiva shrine in Amroha district.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:50:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir Dingra contributes to local Shaiva continuity in Amroha district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amroha district",
+          "url": "https://en.wikipedia.org/wiki/Amroha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Dingra%20Amroha",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amroha",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Manauta Shiv Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Manauta",
+    "region": "Manauta, Amroha district",
+    "tags": [
+      "Manauta",
+      "Shiv Mandir",
+      "Amroha"
+    ],
+    "story": "Manauta Shiv Mandir is a local Shiva temple in Manauta with regular daily worship and Monday observances.",
+    "highlight": "A Manauta-area Shiva shrine in Amroha district's local devotional network.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:50:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Manauta Shiv Mandir contributes to local Shaiva continuity in Amroha district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amroha district",
+          "url": "https://en.wikipedia.org/wiki/Amroha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Manauta%20Shiv%20Mandir%20Amroha",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amroha",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Shiv Mandir (Nanhera)",
+    "state": "Uttar Pradesh",
+    "city": "Nanhera",
+    "region": "Nanhera, Amroha district",
+    "tags": [
+      "Shri Shiv Mandir",
+      "Nanhera",
+      "Amroha"
+    ],
+    "story": "Shri Shiv Mandir (Nanhera) is a local Shiva shrine with regular daily worship in Amroha district.",
+    "highlight": "A Nanhera-area Shiva temple in Amroha's neighborhood devotional network.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:50:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shri Shiv Mandir (Nanhera) contributes to local Shaiva continuity in Amroha district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amroha district",
+          "url": "https://en.wikipedia.org/wiki/Amroha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Shiv%20Mandir%20Nanhera%20Amroha",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amroha",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Subodh Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Amroha",
+    "region": "Subodh Nagar, Amroha district",
+    "tags": [
+      "Shiv Mandir",
+      "Subodh Nagar",
+      "Amroha"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Subodh Nagar with regular daily puja and Monday observances.",
+    "highlight": "A Subodh Nagar neighborhood Shiva shrine in Amroha district.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:50:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Subodh Nagar) contributes to local Shaiva continuity in Amroha district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amroha district",
+          "url": "https://en.wikipedia.org/wiki/Amroha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Subodh%20Nagar%20Amroha",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amroha",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Station Road)",
+    "state": "Uttar Pradesh",
+    "city": "Amroha",
+    "region": "Station Road, Amroha district",
+    "tags": [
+      "Shiv Mandir",
+      "Station Road",
+      "Amroha"
+    ],
+    "story": "Shiv Mandir is a local Shiva shrine on Station Road in Amroha with regular daily worship.",
+    "highlight": "A Station Road Shiva temple in Amroha's urban devotional belt.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:50:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Station Road) contributes to local Shaiva continuity in Amroha district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amroha district",
+          "url": "https://en.wikipedia.org/wiki/Amroha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Station%20Road%20Amroha",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amroha",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Bahlolpur)",
+    "state": "Uttar Pradesh",
+    "city": "Bahlolpur",
+    "region": "Bahlolpur, Amroha district",
+    "tags": [
+      "Shiv Temple",
+      "Bahlolpur",
+      "Amroha"
+    ],
+    "story": "Shiv Temple is a local Shiva shrine in Bahlolpur with regular daily worship and seasonal observances.",
+    "highlight": "A Bahlolpur-area Shiva node in Amroha district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T22:50:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Temple (Bahlolpur) contributes to local Shaiva continuity in Amroha district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amroha district",
+          "url": "https://en.wikipedia.org/wiki/Amroha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Temple%20Bahlolpur%20Amroha",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amroha",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dukh Haran Nath Dham Shiv Temple - (Jangal Ramnagar)",
+    "state": "Uttar Pradesh",
+    "city": "Jangal Ramnagar",
+    "region": "Jangal Ramnagar, Amethi district",
+    "tags": [
+      "Dukh Haran Nath",
+      "Jangal Ramnagar",
+      "Amethi"
+    ],
+    "story": "Dukh Haran Nath Dham Shiv Temple is a local Shiva temple in Jangal Ramnagar with regular daily worship and Monday observances.",
+    "highlight": "A Dukh Haran Nath Shiva shrine in Amethi's local devotional network.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Dukh Haran Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Dukh Haran Nath Dham Shiv Temple contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dukh%20Haran%20Nath%20Dham%20Shiv%20Temple%20Jangal%20Ramnagar%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Kaka Ganj) - Gauriganj",
+    "state": "Uttar Pradesh",
+    "city": "Gauriganj",
+    "region": "Kaka Ganj, Gauriganj, Amethi district",
+    "tags": [
+      "Shiv Mandir",
+      "Kaka Ganj",
+      "Gauriganj"
+    ],
+    "story": "Shiv Mandir is a local Shiva temple in Kaka Ganj of the Gauriganj belt with regular daily worship.",
+    "highlight": "A Kaka Ganj-area Shiva shrine in the Gauriganj sector.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Kaka Ganj) contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Kaka%20Ganj%20Gauriganj%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Gauriganj-Atheha Road) - Gauriganj",
+    "state": "Uttar Pradesh",
+    "city": "Gauriganj",
+    "region": "Gauriganj-Atheha Road, Gauriganj, Amethi district",
+    "tags": [
+      "Shiv Temple",
+      "Atheha Road",
+      "Gauriganj"
+    ],
+    "story": "Shiv Temple is a local Shiva shrine on the Gauriganj-Atheha Road corridor with regular daily worship.",
+    "highlight": "A road-corridor Shiva shrine in the Gauriganj sector.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Temple (Gauriganj-Atheha Road) contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Temple%20Gauriganj%20Atheha%20Road%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Pure Shiva Tiwari) - Musafirkhana",
+    "state": "Uttar Pradesh",
+    "city": "Musafirkhana",
+    "region": "Pure Shiva Tiwari, Musafirkhana, Amethi district",
+    "tags": [
+      "Shiv Temple",
+      "Pure Shiva Tiwari",
+      "Musafirkhana"
+    ],
+    "story": "Shiv Temple is a local Shiva shrine in Pure Shiva Tiwari of the Musafirkhana belt with regular daily worship.",
+    "highlight": "A Musafirkhana-side Shiva shrine in Amethi district.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Temple (Pure Shiva Tiwari) contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Temple%20Pure%20Shiva%20Tiwari%20Musafirkhana%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahakaleshwar Dham - (Oripur)",
+    "state": "Uttar Pradesh",
+    "city": "Oripur",
+    "region": "Oripur, Amethi district",
+    "tags": [
+      "Mahakaleshwar Dham",
+      "Oripur",
+      "Amethi"
+    ],
+    "story": "Mahakaleshwar Dham is a local Shiva temple in Oripur with regular daily worship and Shravan observances.",
+    "highlight": "A Mahakaleshwar-focused Shiva shrine in Oripur.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Mahakaleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Mahakaleshwar Dham - (Oripur) contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahakaleshwar%20Dham%20Oripur%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Dukhharan Nath Shiv Mandir - (Mahmoodpur)",
+    "state": "Uttar Pradesh",
+    "city": "Mahmoodpur",
+    "region": "Mahmoodpur, Amethi district",
+    "tags": [
+      "Dukhharan Nath",
+      "Mahmoodpur",
+      "Amethi"
+    ],
+    "story": "Dukhharan Nath Shiv Mandir is a local Shiva shrine in Mahmoodpur with regular daily worship and Monday observances.",
+    "highlight": "A Dukhharan Nath Shiva shrine in Mahmoodpur.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Dukhharan Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Dukhharan Nath Shiv Mandir - (Mahmoodpur) contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dukhharan%20Nath%20Shiv%20Mandir%20Mahmoodpur%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahevan Nath Dham - (Tikara)",
+    "state": "Uttar Pradesh",
+    "city": "Tikara",
+    "region": "Tikara, Amethi district",
+    "tags": [
+      "Mahevan Nath Dham",
+      "Tikara",
+      "Amethi"
+    ],
+    "story": "Mahevan Nath Dham is a local Shiva shrine in Tikara with regular daily worship and seasonal observances.",
+    "highlight": "A Mahevan Nath Shiva shrine in Tikara's local devotional belt.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Mahevan Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Mahevan Nath Dham - (Tikara) contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahevan%20Nath%20Dham%20Tikara%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Vishweshwar Dham - (Bahorapur)",
+    "state": "Uttar Pradesh",
+    "city": "Bahorapur",
+    "region": "Bahorapur, Amethi district",
+    "tags": [
+      "Vishweshwar Dham",
+      "Bahorapur",
+      "Amethi"
+    ],
+    "story": "Vishweshwar Dham is a local Shiva temple in Bahorapur with regular daily worship and Monday observances.",
+    "highlight": "A Vishweshwar-focused Shiva shrine in Bahorapur.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Vishweshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Vishweshwar Dham - (Bahorapur) contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Vishweshwar%20Dham%20Bahorapur%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mahadewan Dham - (Bhaganpur)",
+    "state": "Uttar Pradesh",
+    "city": "Bhaganpur",
+    "region": "Bhaganpur, Amethi district",
+    "tags": [
+      "Mahadewan Dham",
+      "Bhaganpur",
+      "Amethi"
+    ],
+    "story": "Mahadewan Dham is a local Shiva shrine in Bhaganpur with regular daily worship and seasonal observances.",
+    "highlight": "A Mahadewan Shiva shrine in Bhaganpur's local devotional network.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Mahadewan)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Mahadewan Dham - (Bhaganpur) contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahadewan%20Dham%20Bhaganpur%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Suflaswar Mahadev Mandir - (Chandaipur)",
+    "state": "Uttar Pradesh",
+    "city": "Chandaipur",
+    "region": "Chandaipur, Amethi district",
+    "tags": [
+      "Suflaswar Mahadev",
+      "Chandaipur",
+      "Amethi"
+    ],
+    "story": "Baba Suflaswar Mahadev Mandir is a local Shiva shrine in Chandaipur with regular daily worship and Monday observances.",
+    "highlight": "A Suflaswar Mahadev shrine in Chandaipur.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Suflaswar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Baba Suflaswar Mahadev Mandir - (Chandaipur) contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Baba%20Suflaswar%20Mahadev%20Mandir%20Chandaipur%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Kakwa Road) - Amethi",
+    "state": "Uttar Pradesh",
+    "city": "Amethi",
+    "region": "Kakwa Road, Amethi district",
+    "tags": [
+      "Shiv Mandir",
+      "Kakwa Road",
+      "Amethi"
+    ],
+    "story": "Shiv Mandir is a local Shiva shrine on Kakwa Road in Amethi with regular daily worship.",
+    "highlight": "A Kakwa Road Shiva temple in Amethi's urban devotional corridor.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Kakwa Road) contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Kakwa%20Road%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Lalapur) - Amethi",
+    "state": "Uttar Pradesh",
+    "city": "Amethi",
+    "region": "Lalapur, Amethi district",
+    "tags": [
+      "Shiv Temple",
+      "Lalapur",
+      "Amethi"
+    ],
+    "story": "Shiv Temple is a local Shiva shrine in Lalapur with regular daily worship and seasonal observances.",
+    "highlight": "A Lalapur-area Shiva shrine in Amethi district.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Temple (Lalapur) contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Temple%20Lalapur%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhole Nath Temple - (Bahan Pur)",
+    "state": "Uttar Pradesh",
+    "city": "Bahan Pur",
+    "region": "Bahan Pur, Amethi district",
+    "tags": [
+      "Bhole Nath",
+      "Bahan Pur",
+      "Amethi"
+    ],
+    "story": "Bhole Nath Temple is a local Shiva shrine in Bahan Pur with regular daily worship and Monday observances.",
+    "highlight": "A Bhole Nath Shiva shrine in Bahan Pur.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Bhole Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bhole Nath Temple - (Bahan Pur) contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhole%20Nath%20Temple%20Bahan%20Pur%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kamta Prasad Shiv Mandir - Amethi",
+    "state": "Uttar Pradesh",
+    "city": "Amethi",
+    "region": "Amethi district",
+    "tags": [
+      "Kamta Prasad Shiv Mandir",
+      "Amethi",
+      "Shiva"
+    ],
+    "story": "Kamta Prasad Shiv Mandir is a local Shiva shrine in Amethi with regular daily worship and Monday observances.",
+    "highlight": "A Kamta Prasad Shiva shrine in Amethi's local devotional network.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kamta Prasad Shiv Mandir - Amethi contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kamta%20Prasad%20Shiv%20Mandir%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Mukutnath Dham Mahadevan - (Loharta)",
+    "state": "Uttar Pradesh",
+    "city": "Loharta",
+    "region": "Loharta, Amethi district",
+    "tags": [
+      "Mukutnath Dham",
+      "Mahadevan",
+      "Loharta"
+    ],
+    "story": "Shri Mukutnath Dham Mahadevan is a local Shiva shrine in Loharta with regular daily worship and festival observances.",
+    "highlight": "A Mukutnath-Mahadevan Shiva shrine in Loharta.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Mukutnath Mahadevan)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shri Mukutnath Dham Mahadevan - (Loharta) contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Mukutnath%20Dham%20Mahadevan%20Loharta%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Maha Mrityunjay Dham - (Banwari Pur)",
+    "state": "Uttar Pradesh",
+    "city": "Banwari Pur",
+    "region": "Banwari Pur, Amethi district",
+    "tags": [
+      "Maha Mrityunjay Dham",
+      "Banwari Pur",
+      "Amethi"
+    ],
+    "story": "Maha Mrityunjay Dham is a local Shiva shrine in Banwari Pur with regular daily worship and vow-based observances.",
+    "highlight": "A Mrityunjay-focused Shiva shrine in Banwari Pur.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Mrityunjay)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:05:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Maha Mrityunjaya Jaap",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maha Mrityunjay Dham - (Banwari Pur) contributes to local Shaiva continuity in Amethi district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Amethi district",
+          "url": "https://en.wikipedia.org/wiki/Amethi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Maha%20Mrityunjay%20Dham%20Banwari%20Pur%20Amethi",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Amethi",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Baba Temple - Akbarpur",
+    "state": "Uttar Pradesh",
+    "city": "Akbarpur",
+    "region": "Akbarpur, Ambedkar Nagar district",
+    "tags": [
+      "Shiv Baba",
+      "Akbarpur",
+      "Ambedkar Nagar"
+    ],
+    "story": "Shiv Baba Temple is a local Shiva shrine in Akbarpur with regular daily worship and Shravan observances.",
+    "highlight": "An Akbarpur-area Shiva shrine in Ambedkar Nagar district.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Baba Temple - Akbarpur contributes to local Shaiva continuity in Ambedkar Nagar district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ambedkar Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Ambedkar_Nagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Baba%20Temple%20Akbarpur%20Ambedkar%20Nagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ambedkar Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Jharkhandeshwar Nath Mandir - Tanda",
+    "state": "Uttar Pradesh",
+    "city": "Tanda",
+    "region": "Tanda, Ambedkar Nagar district",
+    "tags": [
+      "Jharkhandeshwar Nath",
+      "Tanda",
+      "Ambedkar Nagar"
+    ],
+    "story": "Baba Jharkhandeshwar Nath Mandir is a local Shiva shrine in Tanda with daily puja and seasonal observances.",
+    "highlight": "A Jharkhandeshwar Nath Shiva shrine in Tanda.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Jharkhandeshwar Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Baba Jharkhandeshwar Nath Mandir - Tanda contributes to local Shaiva continuity in Ambedkar Nagar district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ambedkar Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Ambedkar_Nagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Baba%20Jharkhandeshwar%20Nath%20Mandir%20Tanda%20Ambedkar%20Nagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ambedkar Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Siddheshwar Mahadev Mandir - Akbarpur",
+    "state": "Uttar Pradesh",
+    "city": "Akbarpur",
+    "region": "Akbarpur, Ambedkar Nagar district",
+    "tags": [
+      "Siddheshwar Mahadev",
+      "Akbarpur",
+      "Ambedkar Nagar"
+    ],
+    "story": "Siddheshwar Mahadev Mandir is a local Shiva shrine in Akbarpur with regular daily worship and festival observances.",
+    "highlight": "A Siddheshwar Mahadev shrine in Akbarpur.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Siddheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Siddheshwar Mahadev Mandir - Akbarpur contributes to local Shaiva continuity in Ambedkar Nagar district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ambedkar Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Ambedkar_Nagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Siddheshwar%20Mahadev%20Mandir%20Akbarpur%20Ambedkar%20Nagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ambedkar Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Kachahari) - Akbarpur",
+    "state": "Uttar Pradesh",
+    "city": "Akbarpur",
+    "region": "Kachahari, Akbarpur, Ambedkar Nagar district",
+    "tags": [
+      "Shiv Mandir",
+      "Kachahari",
+      "Akbarpur"
+    ],
+    "story": "Shiv Mandir (Kachahari) is a local Shiva shrine in the Akbarpur area with regular daily worship.",
+    "highlight": "A Kachahari-area Shiva shrine in Akbarpur.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Kachahari) - Akbarpur contributes to local Shaiva continuity in Ambedkar Nagar district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ambedkar Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Ambedkar_Nagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Kachahari%20Akbarpur%20Ambedkar%20Nagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ambedkar Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir (Iltifatganj) - Tanda",
+    "state": "Uttar Pradesh",
+    "city": "Tanda",
+    "region": "Iltifatganj, Tanda, Ambedkar Nagar district",
+    "tags": [
+      "Prachin",
+      "Iltifatganj",
+      "Tanda"
+    ],
+    "story": "Prachin Shiv Mandir in Iltifatganj is a local Shiva shrine with regular worship and traditional observances.",
+    "highlight": "A Prachin Shiv shrine in Iltifatganj-Tanda belt.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Prachin Shiv Mandir (Iltifatganj) - Tanda contributes to local Shaiva continuity in Ambedkar Nagar district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ambedkar Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Ambedkar_Nagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Shiv%20Mandir%20Iltifatganj%20Tanda%20Ambedkar%20Nagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ambedkar Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Baba Bhairavnath Mandir (Shiv Section) - Jalalpur",
+    "state": "Uttar Pradesh",
+    "city": "Jalalpur",
+    "region": "Jalalpur, Ambedkar Nagar district",
+    "tags": [
+      "Bhairavnath",
+      "Shiv Section",
+      "Jalalpur"
+    ],
+    "story": "Baba Bhairavnath Mandir (Shiv Section) is a local Shiva-linked shrine in Jalalpur with regular worship.",
+    "highlight": "A Bhairavnath shrine with Shiva section in Jalalpur.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Bhairavnath section)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Bhairav Ashtami"
+    ],
+    "moreDetails": {
+      "history": "Baba Bhairavnath Mandir (Shiv Section) - Jalalpur contributes to local Shaiva continuity in Ambedkar Nagar district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ambedkar Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Ambedkar_Nagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Baba%20Bhairavnath%20Mandir%20Jalalpur%20Ambedkar%20Nagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ambedkar Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Hanswar) - Tanda",
+    "state": "Uttar Pradesh",
+    "city": "Tanda",
+    "region": "Hanswar, Tanda, Ambedkar Nagar district",
+    "tags": [
+      "Shiv Mandir",
+      "Hanswar",
+      "Tanda"
+    ],
+    "story": "Shiv Mandir (Hanswar) is a local Shiva shrine in the Tanda belt with regular daily worship.",
+    "highlight": "A Hanswar-area Shiva shrine in Tanda.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Hanswar) - Tanda contributes to local Shaiva continuity in Ambedkar Nagar district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ambedkar Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Ambedkar_Nagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Hanswar%20Tanda%20Ambedkar%20Nagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ambedkar Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Temple (Jahangirganj) - Alapur",
+    "state": "Uttar Pradesh",
+    "city": "Alapur",
+    "region": "Jahangirganj, Alapur, Ambedkar Nagar district",
+    "tags": [
+      "Shiv Temple",
+      "Jahangirganj",
+      "Alapur"
+    ],
+    "story": "Shiv Temple in Jahangirganj is a local Shiva shrine in Alapur tehsil with daily puja and Jal Abhishek.",
+    "highlight": "A Jahangirganj-area Shiva shrine in Alapur belt.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Temple (Jahangirganj) - Alapur contributes to local Shaiva continuity in Ambedkar Nagar district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ambedkar Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Ambedkar_Nagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Temple%20Jahangirganj%20Alapur%20Ambedkar%20Nagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ambedkar Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhole Nath Mandir (Ramnagar) - Alapur",
+    "state": "Uttar Pradesh",
+    "city": "Alapur",
+    "region": "Ramnagar, Alapur, Ambedkar Nagar district",
+    "tags": [
+      "Bhole Nath",
+      "Ramnagar",
+      "Alapur"
+    ],
+    "story": "Bhole Nath Mandir in Ramnagar is a local Shiva shrine in Alapur with regular daily worship and Monday observances.",
+    "highlight": "A Bhole Nath Shiva shrine in Ramnagar-Alapur belt.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Bhole Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bhole Nath Mandir (Ramnagar) - Alapur contributes to local Shaiva continuity in Ambedkar Nagar district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ambedkar Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Ambedkar_Nagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhole%20Nath%20Mandir%20Ramnagar%20Alapur%20Ambedkar%20Nagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ambedkar Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Mahrua) - Bhiti",
+    "state": "Uttar Pradesh",
+    "city": "Bhiti",
+    "region": "Mahrua, Bhiti, Ambedkar Nagar district",
+    "tags": [
+      "Shiv Mandir",
+      "Mahrua",
+      "Bhiti"
+    ],
+    "story": "Shiv Mandir (Mahrua) is a local Shiva shrine in Bhiti with regular daily worship and seasonal observances.",
+    "highlight": "A Mahrua-area Shiva shrine in Bhiti tehsil.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Mahrua) - Bhiti contributes to local Shaiva continuity in Ambedkar Nagar district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ambedkar Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Ambedkar_Nagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Mahrua%20Bhiti%20Ambedkar%20Nagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ambedkar Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Shakti Dham (Mali Pur) - Jalalpur",
+    "state": "Uttar Pradesh",
+    "city": "Jalalpur",
+    "region": "Mali Pur, Jalalpur, Ambedkar Nagar district",
+    "tags": [
+      "Shiv Shakti",
+      "Mali Pur",
+      "Jalalpur"
+    ],
+    "story": "Shiv Shakti Dham in Mali Pur is a local Shiva-centered shrine in Jalalpur with regular worship.",
+    "highlight": "A Shiv-Shakti devotional node in Mali Pur.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-03-05T23:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Shakti Dham (Mali Pur) - Jalalpur contributes to local Shaiva continuity in Ambedkar Nagar district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ambedkar Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Ambedkar_Nagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Shakti%20Dham%20Mali%20Pur%20Jalalpur%20Ambedkar%20Nagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ambedkar Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Baskhari) - Tanda",
+    "state": "Uttar Pradesh",
+    "city": "Tanda",
+    "region": "Baskhari, Tanda, Ambedkar Nagar district",
+    "tags": [
+      "Shiv Mandir",
+      "Baskhari",
+      "Tanda"
+    ],
+    "story": "Shiv Mandir (Baskhari) is a local Shiva shrine in the Tanda region with regular puja and Jal Abhishek.",
+    "highlight": "A Baskhari-area Shiva shrine in Tanda belt.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Baskhari) - Tanda contributes to local Shaiva continuity in Ambedkar Nagar district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ambedkar Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Ambedkar_Nagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Baskhari%20Tanda%20Ambedkar%20Nagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ambedkar Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lord Shiva Temple (Ariyawa) - Akbarpur",
+    "state": "Uttar Pradesh",
+    "city": "Akbarpur",
+    "region": "Ariyawa, Akbarpur, Ambedkar Nagar district",
+    "tags": [
+      "Lord Shiva Temple",
+      "Ariyawa",
+      "Akbarpur"
+    ],
+    "story": "Lord Shiva Temple in Ariyawa is a local Shiva shrine in the Akbarpur region with daily worship traditions.",
+    "highlight": "Ariyawa's local Shiva temple in Akbarpur belt.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Lord Shiva Temple (Ariyawa) - Akbarpur contributes to local Shaiva continuity in Ambedkar Nagar district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ambedkar Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Ambedkar_Nagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Lord%20Shiva%20Temple%20Ariyawa%20Akbarpur%20Ambedkar%20Nagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ambedkar Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir (Katehari) - Akbarpur",
+    "state": "Uttar Pradesh",
+    "city": "Akbarpur",
+    "region": "Katehari, Akbarpur, Ambedkar Nagar district",
+    "tags": [
+      "Shiv Mandir",
+      "Katehari",
+      "Akbarpur"
+    ],
+    "story": "Shiv Mandir (Katehari) is a local Shiva shrine in Akbarpur tehsil with regular daily worship and Shravan observances.",
+    "highlight": "A Katehari-area Shiva shrine in Akbarpur belt.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:20:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir (Katehari) - Akbarpur contributes to local Shaiva continuity in Ambedkar Nagar district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Ambedkar Nagar district",
+          "url": "https://en.wikipedia.org/wiki/Ambedkar_Nagar_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Katehari%20Akbarpur%20Ambedkar%20Nagar",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Ambedkar Nagar",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Khereshwar Mahadev Dham - Koil",
+    "state": "Uttar Pradesh",
+    "city": "Aligarh",
+    "region": "Koil, Aligarh district",
+    "tags": [
+      "Khereshwar Mahadev",
+      "Koil",
+      "Aligarh"
+    ],
+    "story": "Khereshwar Mahadev Dham - Koil is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Koil, Aligarh district.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Khereshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Khereshwar Mahadev Dham - Koil contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Khereshwar%20Mahadev%20Dham%20-%20Koil%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bankhandi Mahadev Mandir - Koil (Ainchana)",
+    "state": "Uttar Pradesh",
+    "city": "Aligarh",
+    "region": "Ainchana, Koil, Aligarh district",
+    "tags": [
+      "Bankhandi Mahadev",
+      "Koil",
+      "Ainchana"
+    ],
+    "story": "Bankhandi Mahadev Mandir - Koil (Ainchana) is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Ainchana, Koil, Aligarh district.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Bankhandi Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bankhandi Mahadev Mandir - Koil (Ainchana) contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bankhandi%20Mahadev%20Mandir%20-%20Koil%20(Ainchana)%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Neelkant Mahadev Mandir - Koil (Pratibha Colony)",
+    "state": "Uttar Pradesh",
+    "city": "Aligarh",
+    "region": "Pratibha Colony, Koil, Aligarh district",
+    "tags": [
+      "Neelkant Mahadev",
+      "Pratibha Colony",
+      "Koil"
+    ],
+    "story": "Neelkant Mahadev Mandir - Koil (Pratibha Colony) is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Pratibha Colony, Koil, Aligarh district.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Neelkant Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Neelkant Mahadev Mandir - Koil (Pratibha Colony) contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Neelkant%20Mahadev%20Mandir%20-%20Koil%20(Pratibha%20Colony)%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Mangaleshwar Mahadev Temple - Koil",
+    "state": "Uttar Pradesh",
+    "city": "Aligarh",
+    "region": "Koil, Aligarh district",
+    "tags": [
+      "Mangaleshwar Mahadev",
+      "Koil",
+      "Aligarh"
+    ],
+    "story": "Mangaleshwar Mahadev Temple - Koil is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Koil, Aligarh district.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Mangaleshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Mangaleshwar Mahadev Temple - Koil contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mangaleshwar%20Mahadev%20Temple%20-%20Koil%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Mankameshwar Mahadev Mandir - Koil (Surya Vihar)",
+    "state": "Uttar Pradesh",
+    "city": "Aligarh",
+    "region": "Surya Vihar, Koil, Aligarh district",
+    "tags": [
+      "Mankameshwar Mahadev",
+      "Surya Vihar",
+      "Koil"
+    ],
+    "story": "Shri Mankameshwar Mahadev Mandir - Koil (Surya Vihar) is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Surya Vihar, Koil, Aligarh district.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Mankameshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shri Mankameshwar Mahadev Mandir - Koil (Surya Vihar) contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Mankameshwar%20Mahadev%20Mandir%20-%20Koil%20(Surya%20Vihar)%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Vishal Shiv Mandir - Koil (Burj Ki Sarai)",
+    "state": "Uttar Pradesh",
+    "city": "Aligarh",
+    "region": "Burj Ki Sarai, Koil, Aligarh district",
+    "tags": [
+      "Vishal Shiv Mandir",
+      "Burj Ki Sarai",
+      "Koil"
+    ],
+    "story": "Vishal Shiv Mandir - Koil (Burj Ki Sarai) is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Burj Ki Sarai, Koil, Aligarh district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Vishal Shiv Mandir - Koil (Burj Ki Sarai) contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Vishal%20Shiv%20Mandir%20-%20Koil%20(Burj%20Ki%20Sarai)%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Shiv Mandir - Koil (Bankner)",
+    "state": "Uttar Pradesh",
+    "city": "Aligarh",
+    "region": "Bankner, Koil, Aligarh district",
+    "tags": [
+      "Prachin Shiv Mandir",
+      "Bankner",
+      "Koil"
+    ],
+    "story": "Prachin Shiv Mandir - Koil (Bankner) is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Bankner, Koil, Aligarh district.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Prachin Shiv Mandir - Koil (Bankner) contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Shiv%20Mandir%20-%20Koil%20(Bankner)%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Atrauli (Chharra)",
+    "state": "Uttar Pradesh",
+    "city": "Atrauli",
+    "region": "Chharra, Atrauli, Aligarh district",
+    "tags": [
+      "Shiv Mandir",
+      "Atrauli",
+      "Chharra"
+    ],
+    "story": "Shiv Mandir - Atrauli (Chharra) is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Chharra, Atrauli, Aligarh district.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir - Atrauli (Chharra) contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20-%20Atrauli%20(Chharra)%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Saveshwar Dham Mandir - Koil (Dodhpur)",
+    "state": "Uttar Pradesh",
+    "city": "Aligarh",
+    "region": "Dodhpur, Koil, Aligarh district",
+    "tags": [
+      "Saveshwar Dham",
+      "Dodhpur",
+      "Koil"
+    ],
+    "story": "Saveshwar Dham Mandir - Koil (Dodhpur) is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Dodhpur, Koil, Aligarh district.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Saveshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Saveshwar Dham Mandir - Koil (Dodhpur) contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Saveshwar%20Dham%20Mandir%20-%20Koil%20(Dodhpur)%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Nagla Virua Prachin Shiv Mandir - Koil",
+    "state": "Uttar Pradesh",
+    "city": "Aligarh",
+    "region": "Nagla Virua, Koil, Aligarh district",
+    "tags": [
+      "Nagla Virua",
+      "Prachin Shiv Mandir",
+      "Koil"
+    ],
+    "story": "Nagla Virua Prachin Shiv Mandir - Koil is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Nagla Virua, Koil, Aligarh district.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Nagla Virua Prachin Shiv Mandir - Koil contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nagla%20Virua%20Prachin%20Shiv%20Mandir%20-%20Koil%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Nabavpur - Koil",
+    "state": "Uttar Pradesh",
+    "city": "Aligarh",
+    "region": "Nabavpur, Koil, Aligarh district",
+    "tags": [
+      "Shiv Mandir",
+      "Nabavpur",
+      "Koil"
+    ],
+    "story": "Shiv Mandir Nabavpur - Koil is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Nabavpur, Koil, Aligarh district.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir Nabavpur - Koil contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Nabavpur%20-%20Koil%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bhole Mandir - Koil (Jiroli Hira Singh)",
+    "state": "Uttar Pradesh",
+    "city": "Aligarh",
+    "region": "Jiroli Hira Singh, Koil, Aligarh district",
+    "tags": [
+      "Bhole Mandir",
+      "Jiroli Hira Singh",
+      "Koil"
+    ],
+    "story": "Bhole Mandir - Koil (Jiroli Hira Singh) is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Jiroli Hira Singh, Koil, Aligarh district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Bhole Nath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bhole Mandir - Koil (Jiroli Hira Singh) contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhole%20Mandir%20-%20Koil%20(Jiroli%20Hira%20Singh)%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "New Shiv Mandir God Ji Shivkumar - Koil (Bajeedpur)",
+    "state": "Uttar Pradesh",
+    "city": "Aligarh",
+    "region": "Bajeedpur, Koil, Aligarh district",
+    "tags": [
+      "New Shiv Mandir",
+      "Bajeedpur",
+      "Koil"
+    ],
+    "story": "New Shiv Mandir God Ji Shivkumar - Koil (Bajeedpur) is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Bajeedpur, Koil, Aligarh district.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "New Shiv Mandir God Ji Shivkumar - Koil (Bajeedpur) contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=New%20Shiv%20Mandir%20God%20Ji%20Shivkumar%20-%20Koil%20(Bajeedpur)%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir Jirauli Dhoom Singh - Koil",
+    "state": "Uttar Pradesh",
+    "city": "Aligarh",
+    "region": "Jirauli Dhoom Singh, Koil, Aligarh district",
+    "tags": [
+      "Shiv Mandir",
+      "Jirauli Dhoom Singh",
+      "Koil"
+    ],
+    "story": "Shiv Mandir Jirauli Dhoom Singh - Koil is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Jirauli Dhoom Singh, Koil, Aligarh district.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir Jirauli Dhoom Singh - Koil contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Jirauli%20Dhoom%20Singh%20-%20Koil%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Koil (Faridpur Sumera)",
+    "state": "Uttar Pradesh",
+    "city": "Aligarh",
+    "region": "Faridpur Sumera, Koil, Aligarh district",
+    "tags": [
+      "Shiv Mandir",
+      "Faridpur Sumera",
+      "Koil"
+    ],
+    "story": "Shiv Mandir - Koil (Faridpur Sumera) is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Faridpur Sumera, Koil, Aligarh district.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir - Koil (Faridpur Sumera) contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20-%20Koil%20(Faridpur%20Sumera)%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Mandir - Iglas (Bijauli)",
+    "state": "Uttar Pradesh",
+    "city": "Iglas",
+    "region": "Bijauli, Iglas, Aligarh district",
+    "tags": [
+      "Shiv Mandir",
+      "Iglas",
+      "Bijauli"
+    ],
+    "story": "Shiv Mandir - Iglas (Bijauli) is a local Shiva shrine in the Aligarh district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Bijauli, Iglas, Aligarh district.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:45:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Mandir - Iglas (Bijauli) contributes to local Shaiva continuity in Aligarh district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Aligarh district",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20-%20Iglas%20(Bijauli)%20Aligarh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Aligarh",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Mankameshwar Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Agra city, Agra district",
+    "tags": [
+      "Mankameshwar",
+      "Agra",
+      "Shiva"
+    ],
+    "story": "Shri Mankameshwar Mandir is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Agra city, Agra district.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shri%20Mankameshwar%20Mandir%20Agra.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Shri_Mankameshwar_Mandir_Agra.jpg",
+    "deity": "Shiva (Mankameshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shri Mankameshwar Mandir contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Mankameshwar%20Mandir%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Balkeshwar Mahadev Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Balkeshwar, Agra district",
+    "tags": [
+      "Balkeshwar Mahadev",
+      "Agra",
+      "Shiva"
+    ],
+    "story": "Balkeshwar Mahadev Mandir is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Balkeshwar, Agra district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Balkeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Balkeshwar Mahadev Mandir contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Balkeshwar%20Mahadev%20Mandir%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Kailash Mandir - (Sikandra)",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Sikandra, Agra district",
+    "tags": [
+      "Kailash Mandir",
+      "Sikandra",
+      "Agra"
+    ],
+    "story": "Kailash Mandir - (Sikandra) is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Sikandra, Agra district.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kailash Mandir - (Sikandra) contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kailash%20Mandir%20-%20(Sikandra)%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prithvinath Mahadev Temple - (Shahganj)",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Shahganj, Agra district",
+    "tags": [
+      "Prithvinath Mahadev",
+      "Shahganj",
+      "Agra"
+    ],
+    "story": "Prithvinath Mahadev Temple - (Shahganj) is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Shahganj, Agra district.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Prithvinath Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Prithvinath Mahadev Temple - (Shahganj) contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prithvinath%20Mahadev%20Temple%20-%20(Shahganj)%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Rawli Mahadev Temple - (Collectorate)",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Collectorate area, Agra district",
+    "tags": [
+      "Rawli Mahadev",
+      "Collectorate",
+      "Agra"
+    ],
+    "story": "Rawli Mahadev Temple - (Collectorate) is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Collectorate area, Agra district.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Rawli Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Rawli Mahadev Temple - (Collectorate) contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Rawli%20Mahadev%20Temple%20-%20(Collectorate)%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Prachin Rajeshwar Mahadev Temple - (Shamsabad Road)",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Shamsabad Road, Agra district",
+    "tags": [
+      "Prachin Rajeshwar Mahadev",
+      "Shamsabad Road",
+      "Agra"
+    ],
+    "story": "Prachin Rajeshwar Mahadev Temple - (Shamsabad Road) is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Shamsabad Road, Agra district.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Rajeshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Prachin Rajeshwar Mahadev Temple - (Shamsabad Road) contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Prachin%20Rajeshwar%20Mahadev%20Temple%20-%20(Shamsabad%20Road)%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bateshwar Temples (101 Shiva Temples) - Agra/Bah",
+    "state": "Uttar Pradesh",
+    "city": "Bah",
+    "region": "Bah (Bateshwar), Agra district",
+    "tags": [
+      "Bateshwar",
+      "101 Temples",
+      "Bah"
+    ],
+    "story": "Bateshwar Temples (101 Shiva Temples) - Agra/Bah is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Bah (Bateshwar), Agra district.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Bateshwarnath)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bateshwar Temples (101 Shiva Temples) - Agra/Bah contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bateshwar%20Temples%20(101%20Shiva%20Temples)%20-%20Agra%2FBah%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Nageshwar Mahadev Mandir - (Bainpur)",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Bainpur, Agra district",
+    "tags": [
+      "Nageshwar Mahadev",
+      "Bainpur",
+      "Agra"
+    ],
+    "story": "Nageshwar Mahadev Mandir - (Bainpur) is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Bainpur, Agra district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Nageshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Nageshwar Mahadev Mandir - (Bainpur) contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nageshwar%20Mahadev%20Mandir%20-%20(Bainpur)%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shree Shiv Durga Mandir - (Mathura Road)",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Mathura Road, Agra district",
+    "tags": [
+      "Shiv Durga Mandir",
+      "Mathura Road",
+      "Agra"
+    ],
+    "story": "Shree Shiv Durga Mandir - (Mathura Road) is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Mathura Road, Agra district.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva and Durga",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shree Shiv Durga Mandir - (Mathura Road) contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shree%20Shiv%20Durga%20Mandir%20-%20(Mathura%20Road)%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Lakanpur Mahadev Mandir - (Shastripuram)",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Shastripuram, Agra district",
+    "tags": [
+      "Lakanpur Mahadev",
+      "Shastripuram",
+      "Agra"
+    ],
+    "story": "Lakanpur Mahadev Mandir - (Shastripuram) is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Shastripuram, Agra district.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Lakanpur Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Lakanpur Mahadev Mandir - (Shastripuram) contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Lakanpur%20Mahadev%20Mandir%20-%20(Shastripuram)%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Bainpur Bada Mandir",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Bainpur, Agra district",
+    "tags": [
+      "Bainpur Bada Mandir",
+      "Bainpur",
+      "Agra"
+    ],
+    "story": "Bainpur Bada Mandir is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Bainpur, Agra district.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bainpur Bada Mandir contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bainpur%20Bada%20Mandir%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shri Mahakaleshwar Mahadev Mandir - (Sikandra Road)",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Sikandra Road, Agra district",
+    "tags": [
+      "Mahakaleshwar Mahadev",
+      "Sikandra Road",
+      "Agra"
+    ],
+    "story": "Shri Mahakaleshwar Mahadev Mandir - (Sikandra Road) is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Sikandra Road, Agra district.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (Mahakaleshwar)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shri Mahakaleshwar Mahadev Mandir - (Sikandra Road) contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Mahakaleshwar%20Mahadev%20Mandir%20-%20(Sikandra%20Road)%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Pancheswar Mahadev Mandir - (Idgah Colony)",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Idgah Colony, Agra district",
+    "tags": [
+      "Pancheswar Mahadev",
+      "Idgah Colony",
+      "Agra"
+    ],
+    "story": "Pancheswar Mahadev Mandir - (Idgah Colony) is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Idgah Colony, Agra district.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva (Pancheshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Pancheswar Mahadev Mandir - (Idgah Colony) contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Pancheswar%20Mahadev%20Mandir%20-%20(Idgah%20Colony)%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Shiv Shakti Pipleshwar Mahadev Mandir - (Arjun Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Arjun Nagar, Agra district",
+    "tags": [
+      "Pipleshwar Mahadev",
+      "Arjun Nagar",
+      "Shiv Shakti"
+    ],
+    "story": "Shiv Shakti Pipleshwar Mahadev Mandir - (Arjun Nagar) is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Arjun Nagar, Agra district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva (Pipleshwar Mahadev)",
+    "tradition": "Shaiva/Shakta",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shiv Shakti Pipleshwar Mahadev Mandir - (Arjun Nagar) contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Shakti%20Pipleshwar%20Mahadev%20Mandir%20-%20(Arjun%20Nagar)%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Neelkanth Mahadev Mandir - (Arjun Nagar)",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Arjun Nagar, Agra district",
+    "tags": [
+      "Neelkanth Mahadev",
+      "Arjun Nagar",
+      "Agra"
+    ],
+    "story": "Neelkanth Mahadev Mandir - (Arjun Nagar) is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Arjun Nagar, Agra district.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (Neelkanth Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Neelkanth Mahadev Mandir - (Arjun Nagar) contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Neelkanth%20Mahadev%20Mandir%20-%20(Arjun%20Nagar)%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Phooleshwar Mahadev Temple - (Shahganj)",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Shahganj, Agra district",
+    "tags": [
+      "Phooleshwar Mahadev",
+      "Shahganj",
+      "Agra"
+    ],
+    "story": "Phooleshwar Mahadev Temple - (Shahganj) is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Shahganj, Agra district.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (Phooleshwar Mahadev)",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Phooleshwar Mahadev Temple - (Shahganj) contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Phooleshwar%20Mahadev%20Temple%20-%20(Shahganj)%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
+    "verificationStatus": "pending",
+    "lastVerifiedAt": null
+  },
+  {
+    "name": "Charbagh Shiv Mandir - (Shahganj)",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "region": "Shahganj, Agra district",
+    "tags": [
+      "Charbagh Shiv Mandir",
+      "Shahganj",
+      "Agra"
+    ],
+    "story": "Charbagh Shiv Mandir - (Shahganj) is a local Shiva shrine in the Agra district devotional network with regular daily worship and seasonal observances.",
+    "highlight": "A local Shiva shrine serving devotees in Shahganj, Agra district.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-05T23:58:00+05:30",
+    "bestTime": "Mahashivratri and Shravan month; mornings/evenings are generally preferred.",
+    "timings": "Typically open daily; exact darshan timings vary locally.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood temple listing; verify exact timing/address locally before visit.",
+    "rituals": [
+      "Daily Puja",
+      "Jal Abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Charbagh Shiv Mandir - (Shahganj) contributes to local Shaiva continuity in Agra district.",
+      "architecture": "Primarily modern local temple architecture.",
+      "visitorNotes": "Expect highest footfall on Monday evenings and during Mahashivratri.",
+      "sources": [
+        {
+          "label": "Agra district",
+          "url": "https://en.wikipedia.org/wiki/Agra_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Charbagh%20Shiv%20Mandir%20-%20(Shahganj)%20Agra",
+          "type": "Map search"
+        }
+      ]
+    },
+    "district": "Agra",
     "verificationStatus": "pending",
     "lastVerifiedAt": null
   }
