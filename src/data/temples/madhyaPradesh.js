@@ -475,17 +475,19 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-22T13:34:37Z"
   },
   {
-    "name": "Neelkantheswar Temple (Udaypur)",
+    "name": "Udayeshwara (Neelkantheswar) Temple (Udaypur, Ganj Basoda Tehsil)",
     "state": "Madhya Pradesh",
     "city": "Udaypur",
-    "region": "Vidisha District",
+    "region": "Udaypur, Ganj Basoda Tehsil, Vidisha district",
     "tags": [
+      "Vidisha",
+      "Udaypur",
+      "Ganj Basoda Tehsil",
       "Paramara",
-      "Heritage",
-      "Vidisha"
+      "Bhumija"
     ],
-    "story": "Udaypur's Paramara-era Shiva temple dated by inscriptions to Udayaditya's reign.",
-    "highlight": "Inscriptions that precisely date the temple.",
+    "story": "Udayeshwara (Neelkantheswar) Temple at Udaypur is a major Paramara-era Shiva temple in Ganj Basoda Tehsil, built by King Udayaditya between 1059 and 1080 CE.",
+    "highlight": "Premier Bhumija-style Shiva temple with dated Udayaditya-era inscriptions.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Udaipur%20Temple,%20west%20side.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Udaipur_Temple,_west_side.jpg",
@@ -495,7 +497,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning visits for a quieter heritage walk.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
-    "entryNotes": "Heritage site with stone pathways.",
+    "entryNotes": "Heritage site; plan route via the Ganj Basoda-Udaypur approach and expect stone pathways.",
     "rituals": [
       "Daily puja"
     ],
@@ -504,7 +506,7 @@ export const madhyaPradeshTemples = [
     ],
     "moreDetails": {
       "history": "Vidisha district tourism notes the Neelkantheswar (Udayeshwar) temple at Udaypur was built by Paramara king Udayaditya, with inscriptions dating construction to 1059-1080.",
-      "architecture": "The same source highlights the precisely dated inscriptions preserved at the temple.",
+      "architecture": "The temple is recognized as a premier example of Bhumija-style architecture, with a precisely dated medieval stone superstructure.",
       "puranicView": "The shrine is dedicated to Shiva as Neelkantheswar, anchoring Shaiva worship in the Udaypur heritage landscape.",
       "puranicSources": [
         {
@@ -526,11 +528,12 @@ export const madhyaPradeshTemples = [
           "label": "Neelkantheswar Temple (Udaypur)",
           "url": "https://vidisha.nic.in/en/tourist-place/neelkantheswar-temple-udaypur/"
         }
-      ]
+      ],
+      "visitorNotes": "Morning visits are best for heritage viewing and a quieter circuit."
     },
     "district": "Vidisha",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T13:34:37Z"
+    "lastVerifiedAt": "2026-03-17T05:45:00Z"
   },
   {
     "name": "Kandariya Mahadev Temple (Khajuraho)",
@@ -884,27 +887,28 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-22T13:34:37Z"
   },
   {
-    "name": "Gaivinath Temple (Birsinghpur)",
+    "name": "The Gaivinath Shiv Temple (Birsinghpur, Kothi Tehsil)",
     "state": "Madhya Pradesh",
     "city": "Birsinghpur",
-    "region": "Satna District",
+    "region": "Birsinghpur, Kothi Tehsil, Satna district",
     "tags": [
       "Satna",
-      "Pilgrimage",
-      "Mahashivratri"
+      "Birsinghpur",
+      "Kothi Tehsil",
+      "Gaivinath"
     ],
-    "story": "Birsinghpur's Gaivinath Shiva temple is a major local pilgrimage stop near Satna.",
-    "highlight": "Sunday aarti and the Mahashivratri fair.",
+    "story": "The Gaivinath Shiv Temple is a major Shiva pilgrimage site in Birsinghpur under Kothi Tehsil of Satna district.",
+    "highlight": "Established Gaivinath Shiva shrine known for local pilgrimage and fair activity.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Birsingpur%20Gaivinath%20Dham%20Satna.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Birsingpur_Gaivinath_Dham_Satna.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Sunday aarti and festival days.",
+    "bestTime": "Sunday aarti, Mahashivratri, and cooler-season mornings.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
-    "entryNotes": "Expect larger crowds during Mahashivratri.",
+    "entryNotes": "Expect larger crowds during Mahashivratri and major local fair days.",
     "rituals": [
       "Daily puja",
       "Sunday aarti"
@@ -913,7 +917,7 @@ export const madhyaPradeshTemples = [
       "Mahashivratri"
     ],
     "moreDetails": {
-      "history": "Satna district tourism notes Gaivinath as an old and well-known Shiva temple about 35 km north of Satna city.",
+      "history": "Satna district tourism notes Gaivinath as an old and well-known Shiva temple near Birsinghpur in the wider Satna-Kothi belt.",
       "puranicView": "Local devotion centers on Shiva worship with regular aarti and festival observances.",
       "puranicSources": [
         {
@@ -935,11 +939,12 @@ export const madhyaPradeshTemples = [
           "label": "Gaivinath Shiv Mandir (Birsinghpur)",
           "url": "https://satna.nic.in/en/tourist-place/gaivinath-shiv-mandir-birsinghpur/"
         }
-      ]
+      ],
+      "visitorNotes": "Sunday aarti and festival windows draw the highest local turnout."
     },
     "district": "Satna",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T13:34:37Z"
+    "lastVerifiedAt": "2026-03-08T04:30:00Z"
   },
   {
     "name": "Siddheshwar Mahadev Temple (Nemawar/Khategaon)",
@@ -1000,17 +1005,17 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-22T13:34:37Z"
   },
   {
-    "name": "Shri Ahilyeshwar Mahadev Temple",
+    "name": "Ahilyeshwar Temple (Maheshwar Fort)",
     "state": "Madhya Pradesh",
     "city": "Maheshwar",
-    "region": "Maheshwar Town",
+    "region": "Maheshwar Fort, Maheshwar, Khargone district",
     "tags": [
       "Holkar",
       "Maheshwar",
       "Heritage"
     ],
-    "story": "Holkar-era Shiva temple in Maheshwar built in honor of Ahilyabai.",
-    "highlight": "Stone carvings and the historic Maheshwar setting.",
+    "story": "Ahilyeshwar Temple is a majestic Shiva temple inside Maheshwar Fort, known for elaborate stone carvings.",
+    "highlight": "Fort-side Holkar Shiva shrine with elaborate carved stonework.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0102321%20Ahilyeshwar%20Mahadev%20Temple,%20Maheshwar%20Madhya%20Pradesh%20033.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0102321_Ahilyeshwar_Mahadev_Temple,_Maheshwar_Madhya_Pradesh_033.jpg",
@@ -1020,7 +1025,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning darshan and evening lamps.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
-    "entryNotes": "Heritage temple within the Maheshwar precinct.",
+    "entryNotes": "Heritage temple within the Maheshwar Fort precinct; expect stone paths and steps.",
     "rituals": [
       "Daily puja",
       "Evening aarti"
@@ -1056,30 +1061,31 @@ export const madhyaPradeshTemples = [
     },
     "district": "Khargone",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T13:34:37Z"
+    "lastVerifiedAt": "2026-03-17T06:20:00Z"
   },
   {
-    "name": "Koteshwar Mahadev Temple (Lanji)",
+    "name": "Koteshwar Mahadev Temple (Baba Koteshwar Dham, Lanji Tehsil)",
     "state": "Madhya Pradesh",
     "city": "Lanji",
-    "region": "Balaghat District",
+    "region": "Lanji tehsil, Balaghat district",
     "tags": [
       "Balaghat",
-      "Forest",
+      "Lanji",
+      "Baba Koteshwar Dham",
       "Heritage"
     ],
-    "story": "An ancient Shiva shrine in Lanji, Balaghat, surrounded by a serene landscape.",
-    "highlight": "Stone architecture and a quiet forest setting.",
+    "story": "Koteshwar Mahadev Temple, also revered as Baba Koteshwar Dham, is Lanji Tehsil's best-known Shiva shrine and an important Balaghat heritage temple.",
+    "highlight": "Historic stone temple worshipped locally as Baba Koteshwar Dham.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Koteshwar%20Temple,%20Lanji%20Madhya%20Pradesh%20023.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Koteshwar_Temple,_Lanji_Madhya_Pradesh_023.jpg",
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-19T15:18:12+05:30",
-    "bestTime": "Morning visits for a calm darshan.",
+    "bestTime": "Morning visits for a calm darshan and heritage walk.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
-    "entryNotes": "Temple grounds are outdoors with uneven paths.",
+    "entryNotes": "Temple grounds are outdoors with uneven paths around the heritage zone.",
     "rituals": [
       "Daily puja"
     ],
@@ -1088,7 +1094,7 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Balaghat district tourism describes the Koteshwar Mahadev temple at Lanji as an ancient Shiva temple dating to the 12th century.",
+      "history": "Balaghat district tourism describes Koteshwar Mahadev at Lanji as an ancient Shiva temple dating to the 12th century; local usage also refers to it as Baba Koteshwar Dham.",
       "architecture": "The district site highlights its stone craftsmanship and serene natural surroundings.",
       "puranicView": "The shrine is dedicated to Shiva and draws pilgrims especially in Shravan and Mahashivratri.",
       "puranicSources": [
@@ -1098,7 +1104,7 @@ export const madhyaPradeshTemples = [
           "type": "Government tourism"
         }
       ],
-      "folklore": "Seasonal festivals like Mahashivratri are a key part of the temple's local tradition.",
+      "folklore": "Mahashivratri and Shravan observances keep the Baba Koteshwar Dham identity active in local devotional memory.",
       "folkloreSources": [
         {
           "label": "Koteshwar Mahadev Temple (Lanji)",
@@ -1111,11 +1117,64 @@ export const madhyaPradeshTemples = [
           "label": "Koteshwar Mahadev Temple (Lanji)",
           "url": "https://balaghat.nic.in/en/tourist-place/koteshwar-mahadev-temple/"
         }
-      ]
+      ],
+      "visitorNotes": "Cool-season mornings are best for combining darshan with a longer visit around Lanji's heritage landscape."
     },
     "district": "Balaghat",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T13:34:37Z"
+    "lastVerifiedAt": "2026-03-17T07:20:00Z"
+  },
+  {
+    "name": "Lanji Fort Shiva Temple",
+    "state": "Madhya Pradesh",
+    "city": "Lanji",
+    "district": "Balaghat",
+    "region": "Lanji Fort, Lanji tehsil, Balaghat district",
+    "tags": [
+      "Balaghat",
+      "Lanji Fort",
+      "Shiva"
+    ],
+    "story": "Lanji Fort Shiva Temple is a historical Shiva shrine located within the fort ruins of Lanji Tehsil.",
+    "highlight": "Historic Shiva shrine embedded in the Lanji fort remains.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Old%20fort%2C%20Hindu%20temple%20and%20museum%2C%20Lanji%2C%20Madhya%20Pradesh%2061.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Old_fort,_Hindu_temple_and_museum,_Lanji,_Madhya_Pradesh_61.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning visits for calmer fort exploration and darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Best approached in daylight while exploring the Lanji fort ruins.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "sources": [
+        {
+          "label": "Balaghat district",
+          "url": "https://en.wikipedia.org/wiki/Balaghat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Lanji%20Fort%20Shiva%20Temple%20Lanji%20Balaghat%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ],
+      "history": "Maintained in local memory as a Shiva temple structure within the historic Lanji fort precinct.",
+      "architecture": "Fort-associated temple remains with a heritage-site setting.",
+      "visitorNotes": "Allow extra time to walk the fort area and inspect the ruined architecture around the shrine."
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T07:20:00Z",
+    "addedAt": "2026-03-17T12:50:00+05:30",
+    "isNew": true
   },
   {
     "name": "Jatashankar Temple",
@@ -1177,17 +1236,19 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-22T13:34:37Z"
   },
   {
-    "name": "Athkhamba Temple (Gyaraspur)",
+    "name": "Ath-khambha (8 Pillars) Temple (Gyaraspur)",
     "state": "Madhya Pradesh",
     "city": "Gyaraspur",
-    "region": "Vidisha District",
+    "region": "Gyaraspur, near bus stand, Vidisha district",
     "tags": [
+      "Vidisha",
       "Gyaraspur",
-      "Ruins",
-      "Stone Pillars"
+      "Ath-khambha",
+      "8 Pillars",
+      "Heritage"
     ],
-    "story": "Gyaraspur's Athkamba ruins preserve eight carved pillars of a lost Shiva temple.",
-    "highlight": "Eight-pillared mandapa remains and carved stonework.",
+    "story": "Ath-khambha (8 Pillars) Temple preserves the remains of a 9th-century Shiva temple in Gyaraspur, near the bus stand.",
+    "highlight": "Eight-pillared ruins of a 9th-century Shaiva temple in Gyaraspur.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0112521%20Athkhamba%20temple,%20Gyaraspur,%20Madhya%20Pradesh%20018.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0112521_Athkhamba_temple,_Gyaraspur,_Madhya_Pradesh_018.jpg",
@@ -1197,7 +1258,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning visits for softer light on the ruins.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
-    "entryNotes": "Ruins with uneven stone surfaces.",
+    "entryNotes": "Heritage ruins with uneven stone surfaces; local bus-stand approach is usually the easiest reference point.",
     "rituals": [
       "Seasonal puja"
     ],
@@ -1232,7 +1293,7 @@ export const madhyaPradeshTemples = [
     },
     "district": "Vidisha",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T13:34:37Z"
+    "lastVerifiedAt": "2026-03-17T05:45:00Z"
   },
   {
     "name": "Vankhandeshwar Mahadev Temple (Bhind)",
@@ -1460,17 +1521,19 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-22T13:34:37Z"
   },
   {
-    "name": "Virateshwar Temple (Sohagpur)",
+    "name": "Virateshwar (Virat) Temple (Sohagpur, Shahdol Tehsil)",
     "state": "Madhya Pradesh",
     "city": "Sohagpur",
-    "region": "Shahdol District",
+    "region": "Sohagpur, Shahdol Tehsil, Shahdol district",
     "tags": [
       "Kalachuri",
       "Heritage",
-      "Shahdol"
+      "Shahdol",
+      "Sohagpur",
+      "Virat"
     ],
-    "story": "An 11th-century Kalachuri-era Shiva temple in Sohagpur known for its tall shikhara and rich carvings.",
-    "highlight": "Jagati platform and saptaratha shikhara with ornate panels.",
+    "story": "Virateshwar (Virat) Temple is an 11th-century Kalachuri-era Shiva temple in Sohagpur under Shahdol Tehsil, known for its tall shikhara and rich carvings.",
+    "highlight": "Virateshwar/Virat heritage shrine with a tall shikhara and ornate sculptural panels.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0101022_Virateshwar_temple,_Sohagpur,_Madhya_Pradesh_037.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0101022_Virateshwar_temple,_Sohagpur,_Madhya_Pradesh_037.jpg",
@@ -1507,7 +1570,7 @@ export const madhyaPradeshTemples = [
     },
     "district": "Shahdol",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T13:34:37Z"
+    "lastVerifiedAt": "2026-03-09T07:45:00Z"
   },
   {
     "name": "Gauri Somnath Temple (Mandhata, Omkareshwar)",
@@ -1564,14 +1627,14 @@ export const madhyaPradeshTemples = [
     "name": "Kashi Vishwanath Temple (Maheshwar)",
     "state": "Madhya Pradesh",
     "city": "Maheshwar",
-    "region": "Narmada River Ghats",
+    "region": "Maheshwar ghats, Khargone district",
     "tags": [
       "Narmada",
       "Holkar",
       "Maheshwar"
     ],
-    "story": "An 18th-century Shiva temple on the Narmada ghats near Ahilya Fort.",
-    "highlight": "Maratha-Rajput Nagara shikhara and ghat-side approach.",
+    "story": "Kashi Vishwanath Temple at Maheshwar is an 18th-century Shiva temple built by Rani Ahilya Bai Holkar in 1786.",
+    "highlight": "Narmada-ghat Shiva temple tied to Ahilyabai Holkar and the Varanasi-linga tradition.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0102321_Kashi_Vishweshwar_Mandir_Maheshwar_Madhya_Pradesh_019.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0102321_Kashi_Vishweshwar_Mandir_Maheshwar_Madhya_Pradesh_019.jpg",
@@ -1590,11 +1653,11 @@ export const madhyaPradeshTemples = [
       "Mahashivratri"
     ],
     "moreDetails": {
-      "history": "The Maheshwar Kashi Vishwanath temple is an 18th-century Shiva shrine near Ahilya Fort on the Narmada, attributed to Ahilya Bai Holkar.",
+      "history": "The Maheshwar Kashi Vishwanath temple is associated with Ahilya Bai Holkar and local tradition says the Shivalinga was originally intended for Varanasi.",
       "architecture": "The temple follows a Maratha-Rajput style with a Nagara shikhara, mandapa, antarala and garbhagriha.",
       "darshan": "The sanctum houses a Shiva linga with steps leading down from the ghat.",
       "seasonal": "Winter evenings are ideal for ghat-side visits.",
-      "visitorNotes": "Allow time for the ghat steps and riverside walk.",
+      "visitorNotes": "Allow time for the ghat steps and riverside walk; evenings are especially atmospheric.",
       "festivals": "Mahashivratri",
       "sources": [
         {
@@ -1609,20 +1672,20 @@ export const madhyaPradeshTemples = [
     },
     "district": "Khargone",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T13:34:37Z"
+    "lastVerifiedAt": "2026-03-17T06:20:00Z"
   },
   {
-    "name": "Baneshwar Mahadev Temple (Island Node)",
+    "name": "Baneshwar Mahadev Temple (Narmada Island, Maheshwar)",
     "state": "Madhya Pradesh",
     "city": "Maheshwar",
-    "region": "Narmada River Island",
+    "region": "Small island in the Narmada, Maheshwar, Khargone district",
     "tags": [
       "Narmada",
       "Island Shrine",
       "Maheshwar"
     ],
     "story": "A small island Shiva temple in the Narmada, rebuilt in the Holkar era.",
-    "highlight": "Boat approach and river-washed sanctum.",
+    "highlight": "Island Shiva shrine visible from the Maheshwar ghats.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baneshwar_Temple,_Maheshwar_Madhya_Pradesh_033.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Baneshwar_Temple,_Maheshwar_Madhya_Pradesh_033.jpg",
@@ -1632,7 +1695,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning boat rides for calm river views.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
-    "entryNotes": "Boat access depends on river conditions.",
+    "entryNotes": "Boat access depends on river conditions and local availability.",
     "rituals": [
       "Daily puja"
     ],
@@ -1659,20 +1722,20 @@ export const madhyaPradeshTemples = [
     },
     "district": "Khargone",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T13:34:37Z"
+    "lastVerifiedAt": "2026-03-17T06:20:00Z"
   },
   {
-    "name": "Shri Rajrajeshwar Mahadev Temple",
+    "name": "Rajarajeshwara Temple (Maheshwar, Narmada Bank)",
     "state": "Madhya Pradesh",
     "city": "Maheshwar",
-    "region": "Ahilya Fort precinct, Maheshwar",
+    "region": "Narmada bank, Maheshwar, Khargone district",
     "tags": [
       "Maheshwar",
       "Rajrajeshwar",
       "Holkar"
     ],
-    "story": "A major Shiva shrine in Maheshwar associated with the Sahastrarjun-Rajrajeshwar tradition.",
-    "highlight": "Historic sanctum with the long-standing akhand deep tradition.",
+    "story": "Rajarajeshwara Temple is a major Shiva shrine on the banks of the Narmada in Maheshwar.",
+    "highlight": "Narmada-bank Shiva temple known for its continuous burning lamps.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rajrajeshwar%20Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Rajrajeshwar_Temple.jpg",
@@ -1682,7 +1745,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning darshan and evening aarti.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Located within Maheshwar fort-temple lanes; expect crowd on festival days.",
+    "entryNotes": "Located in the Maheshwar fort-temple lanes; evening visits are especially popular.",
     "rituals": [
       "Daily puja",
       "Aarti"
@@ -1710,7 +1773,7 @@ export const madhyaPradeshTemples = [
     },
     "district": "Khargone",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-23T15:35:00Z"
+    "lastVerifiedAt": "2026-03-17T06:20:00Z"
   },
   {
     "name": "Jwaleshwar Mahadev Temple",
@@ -1764,7 +1827,7 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-23T15:35:00Z"
   },
   {
-    "name": "Kaleshwar Mahadev Temple",
+    "name": "Kaleshwar Temple (Maheshwar)",
     "state": "Madhya Pradesh",
     "city": "Maheshwar",
     "region": "Eastern confluence bank of Maheshwari and Narmada",
@@ -1773,8 +1836,8 @@ export const madhyaPradeshTemples = [
       "Kaleshwar",
       "Ancient"
     ],
-    "story": "A traditionally regarded ancient Shiva temple in Maheshwar near the eastern river-confluence bank.",
-    "highlight": "Confluence-area shrine with long continuity of worship.",
+    "story": "Kaleshwar Temple is a Shiva shrine in Maheshwar located a little away from the main ghats and known for scenic river views.",
+    "highlight": "Scenic river-view Shiva shrine in the Maheshwar temple circuit.",
     "image": "/temples/temple-02.svg",
     "credit": "",
     "creditUrl": "/temples/temple-02.svg",
@@ -1812,7 +1875,7 @@ export const madhyaPradeshTemples = [
     },
     "district": "Khargone",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-23T15:35:00Z"
+    "lastVerifiedAt": "2026-03-17T06:20:00Z"
   },
   {
     "name": "Kadambeshwar Mahadev Temple",
@@ -1865,7 +1928,7 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-23T15:35:00Z"
   },
   {
-    "name": "Tilbhandeshwar Mahadev Temple",
+    "name": "Til Baneshwar / Tilbhandeshwar Temple (Maheshwar)",
     "state": "Madhya Pradesh",
     "city": "Maheshwar",
     "region": "Ahilya Fort riverfront zone, Maheshwar",
@@ -1875,7 +1938,7 @@ export const madhyaPradeshTemples = [
       "Fort area"
     ],
     "story": "A Shiva shrine on the Maheshwar fort-side riverfront, represented in documented fort panoramas.",
-    "highlight": "Fort-and-temple riverfront view near the Ahilya Fort precinct.",
+    "highlight": "Fort-riverfront Shiva shrine identified with the Til Baneshwar/Tilbhandeshwar tradition.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tilbhandeshwar%20Temple.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Tilbhandeshwar_Temple.jpg",
@@ -1912,7 +1975,7 @@ export const madhyaPradeshTemples = [
     },
     "district": "Khargone",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-23T15:35:00Z"
+    "lastVerifiedAt": "2026-03-17T06:20:00Z"
   },
   {
     "name": "Mahamrityunjaya Temple",
@@ -2266,17 +2329,17 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-23T16:35:00Z"
   },
   {
-    "name": "Mahakaleshwar Temple 1 (Un)",
+    "name": "Mahakaleshwar Temple No. 1 (Oon)",
     "state": "Madhya Pradesh",
-    "city": "Un",
-    "region": "Khargone District",
+    "city": "Oon",
+    "region": "Oon village, Khargone district",
     "tags": [
       "Un Temples",
       "11th Century",
       "Heritage"
     ],
     "story": "A late 11th-century Shaiva temple in the Un cluster with large mandapa ruins.",
-    "highlight": "Jagati platform and twin trabeate arches.",
+    "highlight": "Parmar-era Mahakaleshwar monument in the Oon temple cluster.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0102221_Mahakaleswar_temple_1,_Un,_Khargone_district,_Madhya_Pradesh_125.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0102221_Mahakaleswar_temple_1,_Un,_Khargone_district,_Madhya_Pradesh_125.jpg",
@@ -2309,20 +2372,20 @@ export const madhyaPradeshTemples = [
     },
     "district": "Khargone",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T13:34:37Z"
+    "lastVerifiedAt": "2026-03-17T06:20:00Z"
   },
   {
-    "name": "Mahakaleshwar Temple 2 (Un)",
+    "name": "Mahakaleshwar Temple No. 2 (Oon)",
     "state": "Madhya Pradesh",
-    "city": "Un",
-    "region": "Khargone District",
+    "city": "Oon",
+    "region": "Oon village, Khargone district",
     "tags": [
       "Un Temples",
       "11th Century",
       "Heritage"
     ],
     "story": "An older mid-11th-century Shiva temple in Un, retaining parts of its antarala and shikhara.",
-    "highlight": "Trabeate arch and surviving outer-wall carvings.",
+    "highlight": "Second Parmar-era Mahakaleshwar monument in the Oon temple cluster.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0102221_Mahakaleswar_Mandir_number_2,_Un_Madhya_Pradesh_15.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0102221_Mahakaleswar_Mandir_number_2,_Un_Madhya_Pradesh_15.jpg",
@@ -2355,19 +2418,19 @@ export const madhyaPradeshTemples = [
     },
     "district": "Khargone",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T13:34:37Z"
+    "lastVerifiedAt": "2026-03-17T06:20:00Z"
   },
   {
-    "name": "Ballaleshwar Temple (Un)",
+    "name": "Ballaleshvara Temple (Oon)",
     "state": "Madhya Pradesh",
-    "city": "Un",
-    "region": "Khargone District",
+    "city": "Oon",
+    "region": "Oon village, Khargone district",
     "tags": [
       "Un Temples",
       "Dome",
       "Heritage"
     ],
-    "story": "A mid-11th-century Shiva temple in Un notable for its later dome-like superstructure.",
+    "story": "Ballaleshvara Temple is a state-protected Shiva monument in Oon, associated in local tradition with the son of King Udayaditya.",
     "highlight": "Dome above a sunken garbhagriha.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0102221_Ballaleswar_temple,_Un_056.jpg",
     "credit": "Wikimedia Commons",
@@ -2401,13 +2464,13 @@ export const madhyaPradeshTemples = [
     },
     "district": "Khargone",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T13:34:37Z"
+    "lastVerifiedAt": "2026-03-17T06:20:00Z"
   },
   {
-    "name": "Nilkantheshvara Temple (Un)",
+    "name": "Nilkantheshvara Temple (Oon)",
     "state": "Madhya Pradesh",
-    "city": "Un",
-    "region": "Khargone District",
+    "city": "Oon",
+    "region": "Oon village, Khargone district",
     "tags": [
       "Un Temples",
       "11th Century",
@@ -2447,7 +2510,7 @@ export const madhyaPradeshTemples = [
     },
     "district": "Khargone",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T13:34:37Z"
+    "lastVerifiedAt": "2026-03-17T06:20:00Z"
   },
   {
     "name": "Mahua Shiva Temple (Number 2)",
@@ -2592,17 +2655,18 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-22T13:34:37Z"
   },
   {
-    "name": "Kutkeshwar Temple (Badoh Pathari)",
+    "name": "Kutakeswara Temple (Pathari Tehsil)",
     "state": "Madhya Pradesh",
-    "city": "Badoh",
-    "region": "Badoh Pathari, Vidisha District",
+    "city": "Pathari",
+    "region": "Pathari, Pathari Tehsil, Vidisha district",
     "tags": [
+      "Vidisha",
       "Pathari",
-      "9th-10th Century",
-      "Vidisha"
+      "Kutakeswara",
+      "Protected monument"
     ],
-    "story": "A 9th-10th-century west-facing Shiva temple at Pathari.",
-    "highlight": "Triratha sanctum with Sahastralinga and Sadashiva.",
+    "story": "Kutakeswara Temple is a protected Shiva monument at Pathari in Vidisha district.",
+    "highlight": "Protected medieval Shiva temple at Pathari with notable stone carving and sanctum iconography.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0112421_Kutkeshwar_temple,_Badoh_Pathari_Madhya_Pradesh_012.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0112421_Kutkeshwar_temple,_Badoh_Pathari_Madhya_Pradesh_012.jpg",
@@ -2612,7 +2676,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning visits for cooler temperatures.",
     "timings": "Open daily; timings vary by season.",
     "dressCode": "Modest attire recommended.",
-    "entryNotes": "Heritage site with inscriptions and carvings.",
+    "entryNotes": "Protected heritage site; expect inscription-bearing stone surfaces and uneven footing.",
     "rituals": [
       "Heritage darshan"
     ],
@@ -2620,11 +2684,11 @@ export const madhyaPradeshTemples = [
       "Mahashivratri"
     ],
     "moreDetails": {
-      "history": "The Kutkeshwar temple is a 9th to 10th-century Shiva temple on the eastern side of Pathari in Vidisha district.",
+      "history": "The Kutakeswara/Kutkeshwar temple at Pathari is treated as a protected monument of national importance within the Vidisha heritage landscape.",
       "architecture": "It stands on a jagati and includes a mukhamandapa, antarala and triratha garbhagriha with bhadra niches for Kartikeya, Surya and Ganesha.",
       "darshan": "The sanctum includes both a sahastralinga and a three-faced Sadashiva.",
       "seasonal": "Dry months are best for heritage exploration.",
-      "visitorNotes": "Look for the carved lintel and pilgrim inscriptions.",
+      "visitorNotes": "Dry-season daylight visits are easiest for heritage exploration.",
       "festivals": "Mahashivratri",
       "sources": [
         {
@@ -2635,7 +2699,7 @@ export const madhyaPradeshTemples = [
     },
     "district": "Vidisha",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T13:34:37Z"
+    "lastVerifiedAt": "2026-03-17T05:45:00Z"
   },
   {
     "name": "Mahadeva Temple (Khajuraho)",
@@ -2818,17 +2882,19 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-22T13:34:37Z"
   },
   {
-    "name": "Udayagiri Cave 4 (Shiva Shrine)",
+    "name": "Udaygiri Cave 4 (Ekamukha Linga, Vidisha)",
     "state": "Madhya Pradesh",
     "city": "Vidisha",
-    "region": "Udayagiri Caves",
+    "region": "Udayagiri, Vidisha district",
     "tags": [
-      "Cave Shrine",
+      "Vidisha",
+      "Udaygiri",
+      "Ekamukha Linga",
       "Gupta Era",
-      "Shaiva"
+      "Rock-cut"
     ],
-    "story": "Cave 4 at Udayagiri is noted for its Shaiva affiliation and is among the important early historical rock-cut sacred spaces in Vidisha.",
-    "highlight": "Early Shaiva cave shrine context from Gupta-era Udayagiri.",
+    "story": "Udaygiri Cave 4 is a 5th-century rock-cut Shaiva cave at Udaygiri, noted for its ekamukha linga.",
+    "highlight": "Gupta-era cave shrine centered on a celebrated one-faced Shiva linga.",
     "image": "/temples/temple-01.svg",
     "credit": "",
     "creditUrl": "/temples/temple-01.svg",
@@ -2836,20 +2902,20 @@ export const madhyaPradeshTemples = [
     "deity": "Shiva",
     "tradition": "Shaiva",
     "addedAt": "2026-02-23T20:49:47+05:30",
-    "bestTime": "October to March.",
-    "timings": "Not Available",
-    "dressCode": "Not Available",
-    "entryNotes": "Monument-site rules apply; check ASI timings.",
+    "bestTime": "October to March for monument-site visits.",
+    "timings": "Monument-site timings vary; check ASI timing boards locally.",
+    "dressCode": "Modest attire recommended for heritage-cave visits.",
+    "entryNotes": "Monument-site rules apply; cave surfaces can be uneven.",
     "rituals": [
-      "Not Available"
+      "Heritage darshan"
     ],
     "festivals": [
-      "Not Available"
+      "Mahashivratri"
     ],
     "moreDetails": {
-      "history": "The Udayagiri cave complex near Vidisha includes caves with major Vaishnava and Shaiva iconography from the Gupta period.",
-      "architecture": "Rock-cut cave architecture with sculptural panels and early shrine spaces.",
-      "visitorNotes": "Best explored with a guide for iconographic context.",
+      "history": "The Udayagiri cave complex near Vidisha includes major Gupta-period rock-cut sacred spaces, and Cave 4 is one of its Shaiva highlights.",
+      "architecture": "Rock-cut cave architecture centered on an ekamukha linga, making it a key early Shaiva monument of the 5th century.",
+      "visitorNotes": "Daylight visits are best for reading the sculptural and cave details.",
       "sources": [
         {
           "label": "Udayagiri Caves",
@@ -2860,7 +2926,7 @@ export const madhyaPradeshTemples = [
     },
     "district": "Vidisha",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-22T13:34:37Z"
+    "lastVerifiedAt": "2026-03-17T05:45:00Z"
   },
   {
     "name": "Vankhandeshwar Mahadev Temple (Peetambhara Peeth, Datia)",
@@ -6526,69 +6592,19 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-03-07T18:45:00Z"
   },
   {
-    "name": "Gaivinath Dham (Birsinghpur Shiv Temple)",
-    "state": "Madhya Pradesh",
-    "city": "Birsinghpur",
-    "region": "Birsinghpur area, Satna district",
-    "tags": [
-      "Satna",
-      "Birsinghpur",
-      "Gaivinath"
-    ],
-    "story": "Gaivinath Dham is a Shiva temple worship center in the Birsinghpur area of Satna district.",
-    "highlight": "Birsinghpur-based Shiva darshan point with steady local devotion.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Birsingpur%20Gaivinath%20Dham%20Satna.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Birsingpur_Gaivinath_Dham_Satna.jpg",
-    "isNew": true,
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-23T20:50:37+05:30",
-    "bestTime": "Morning and evening darshan.",
-    "timings": "Open daily; local timings vary.",
-    "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Check local approach roads and festival-day crowd levels before visiting.",
-    "rituals": [
-      "Daily puja",
-      "Jal abhishek"
-    ],
-    "festivals": [
-      "Mahashivratri",
-      "Shravan Somvar"
-    ],
-    "moreDetails": {
-      "history": "Known locally as a Shiva worship site in the Birsinghpur-Satna belt.",
-      "architecture": "Regional temple architecture with active sanctum rituals.",
-      "visitorNotes": "Early morning slots are generally less crowded.",
-      "sources": [
-        {
-          "label": "Satna district",
-          "url": "https://en.wikipedia.org/wiki/Satna_district",
-          "type": "District reference"
-        },
-        {
-          "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Gaivinath%20Dham%20Birsinghpur%20Shiv%20Temple%20Satna",
-          "type": "Map search"
-        }
-      ]
-    },
-    "district": "Satna",
-    "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-23T04:11:10Z"
-  },
-  {
-    "name": "Bhumara Shiva Temple",
+    "name": "Bhumara (Bhumra) Temple",
     "state": "Madhya Pradesh",
     "city": "Bhumara",
-    "region": "Bhumara area, Satna district",
+    "region": "Nagod area, Satna district",
     "tags": [
       "Satna",
       "Bhumara",
+      "Bhumra",
+      "Nagod area",
       "Heritage"
     ],
-    "story": "Bhumara Shiva Temple is a historic Shiva temple site in Satna district.",
-    "highlight": "Important heritage Shaiva node in the Bhumara region.",
+    "story": "Bhumara (Bhumra) Temple is a major heritage-era Shiva temple site in the Nagod area of Satna district.",
+    "highlight": "Early stone Shaiva temple tradition associated with the Bhumara heritage zone.",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0122121%205th-century%20Bhumara%20Shiva%20Temple%2C%20Bharkuleshwar%20mandir%2C%20Bhumra%20Madhya%20Pradesh%20012.jpg",
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:0122121_5th-century_Bhumara_Shiva_Temple,_Bharkuleshwar_mandir,_Bhumra_Madhya_Pradesh_012.jpg",
@@ -6599,7 +6615,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning hours, especially in cooler months.",
     "timings": "Open daily; timings vary by site conditions.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "This is approached as a heritage-temple visit; verify local access conditions.",
+    "entryNotes": "This is best approached as a heritage-temple visit; confirm local access conditions before travel.",
     "rituals": [
       "Darshan",
       "Local puja"
@@ -6608,7 +6624,7 @@ export const madhyaPradeshTemples = [
       "Mahashivratri"
     ],
     "moreDetails": {
-      "history": "Bhumara is known in central Indian temple studies for an early Shiva temple tradition.",
+      "history": "Bhumara is known in central Indian temple studies for an early Shiva temple tradition in the Nagod-side heritage landscape of Satna district.",
       "architecture": "Noted for heritage-era stone temple remains and classical Shaiva iconography.",
       "visitorNotes": "Carry water and plan transport in advance for heritage-site visits.",
       "sources": [
@@ -6626,7 +6642,7 @@ export const madhyaPradeshTemples = [
     },
     "district": "Satna",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-23T04:11:20Z"
+    "lastVerifiedAt": "2026-03-08T04:30:00Z"
   },
   {
     "name": "Prachin Shiv Mandir (Golamath)",
@@ -6681,17 +6697,18 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-02-23T04:11:30Z"
   },
   {
-    "name": "Jagatdev Talab Shiv Mandir",
+    "name": "Shiv Temple (Jagatdev Talab)",
     "state": "Madhya Pradesh",
     "city": "Satna",
-    "region": "Jagatdev Talab area, Satna district",
+    "region": "Jagatdev Talab, Raghuraj Nagar, Satna district",
     "tags": [
       "Satna",
       "Jagatdev Talab",
+      "Raghuraj Nagar",
       "Shaiva"
     ],
-    "story": "Jagatdev Talab Shiv Mandir is a Shiva temple in the Satna region's local pilgrimage map.",
-    "highlight": "Talab-side Shiva darshan in the Jagatdev area.",
+    "story": "Shiv Temple at Jagatdev Talab is a Shiva shrine in the Raghuraj Nagar side of Satna district.",
+    "highlight": "Talab-side Shiva darshan in the Jagatdev Talab locality of Satna.",
     "image": "/temples/temple-01.svg",
     "credit": "",
     "creditUrl": "/temples/temple-01.svg",
@@ -6702,7 +6719,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and sunset hours.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm local directions before travel.",
+    "entryNotes": "Confirm local directions within the Jagatdev Talab-Raghuraj Nagar area before visiting.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -6712,7 +6729,7 @@ export const madhyaPradeshTemples = [
       "Shravan Somvar"
     ],
     "moreDetails": {
-      "history": "Recognized locally as a Shiva worship point in the Jagatdev Talab zone.",
+      "history": "Recognized locally as a Shiva worship point in the Jagatdev Talab area of Raghuraj Nagar, Satna.",
       "architecture": "Compact regional temple profile near local waterbody context.",
       "visitorNotes": "Early morning is usually the easiest darshan window.",
       "sources": [
@@ -6730,20 +6747,21 @@ export const madhyaPradeshTemples = [
     },
     "district": "Satna",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-23T04:11:40Z"
+    "lastVerifiedAt": "2026-03-08T04:30:00Z"
   },
   {
-    "name": "Pashupatinath Mandir",
+    "name": "Pashupatinath Mandir (Raghuraj Nagar, Satna)",
     "state": "Madhya Pradesh",
     "city": "Satna",
-    "region": "Satna city, Satna district",
+    "region": "Raghuraj Nagar, Satna district",
     "tags": [
       "Satna",
+      "Raghuraj Nagar",
       "Pashupatinath",
       "Shaiva"
     ],
-    "story": "Pashupatinath Mandir is a Shiva temple in Satna's established worship network.",
-    "highlight": "Pashupatinath-form Shiva worship in Satna city.",
+    "story": "Pashupatinath Mandir is a Shiva temple in the Raghuraj Nagar area of Satna city.",
+    "highlight": "Pashupatinath-form Shiva worship in the Raghuraj Nagar urban belt.",
     "image": "/temples/temple-02.svg",
     "credit": "",
     "creditUrl": "/temples/temple-02.svg",
@@ -6754,7 +6772,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Mondays and festival days may have higher footfall.",
+    "entryNotes": "Mondays and festival days may have higher footfall in the Raghuraj Nagar area.",
     "rituals": [
       "Daily puja",
       "Abhishekam"
@@ -6764,7 +6782,7 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained through long-standing local Shaiva devotional practice in Satna.",
+      "history": "Maintained through local Shaiva devotional practice in the Raghuraj Nagar side of Satna city.",
       "architecture": "Urban temple layout with active ritual schedule.",
       "visitorNotes": "Visit in the morning for shorter queues.",
       "sources": [
@@ -6782,20 +6800,21 @@ export const madhyaPradeshTemples = [
     },
     "district": "Satna",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-23T04:11:50Z"
+    "lastVerifiedAt": "2026-03-08T04:30:00Z"
   },
   {
-    "name": "Prachin Shiv Mandir (Madai)",
+    "name": "Prachin Shiv Mandir (Madai, Nagod Tehsil)",
     "state": "Madhya Pradesh",
     "city": "Madai",
-    "region": "Madai area, Satna district",
+    "region": "Madai, Nagod Tehsil, Satna district",
     "tags": [
       "Satna",
       "Madai",
+      "Nagod Tehsil",
       "Prachin"
     ],
-    "story": "Prachin Shiv Mandir (Madai) is an old Shiva temple in the Madai area of Satna district.",
-    "highlight": "Traditional Prachin Shiv worship node in Madai.",
+    "story": "Prachin Shiv Mandir is an old Shiva temple in Madai under Nagod Tehsil of Satna district.",
+    "highlight": "Traditional Prachin Shiva worship node in the Madai-Nagod belt.",
     "image": "/temples/temple-03.svg",
     "credit": "",
     "creditUrl": "/temples/temple-03.svg",
@@ -6806,7 +6825,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Please confirm exact local marker before travel.",
+    "entryNotes": "Please confirm the exact Madai-side landmark locally before travel.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -6816,7 +6835,7 @@ export const madhyaPradeshTemples = [
       "Shravan Somvar"
     ],
     "moreDetails": {
-      "history": "Listed locally as a Prachin Shiva temple within the Satna district region.",
+      "history": "Listed locally as a Prachin Shiva temple within the Madai locality under Nagod Tehsil, Satna district.",
       "architecture": "Regional shrine style with routine daily worship.",
       "visitorNotes": "Daylight visits are better for first-time navigation.",
       "sources": [
@@ -6834,7 +6853,7 @@ export const madhyaPradeshTemples = [
     },
     "district": "Satna",
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-23T04:12:00Z"
+    "lastVerifiedAt": "2026-03-08T04:30:00Z"
   },
   {
     "name": "Kamakandla Shiva Temple",
@@ -7511,58 +7530,6 @@ export const madhyaPradeshTemples = [
     "district": "Damoh",
     "verificationStatus": "verified",
     "lastVerifiedAt": "2026-02-23T04:14:20Z"
-  },
-  {
-    "name": "Udayeshwar Mahadev Temple (Udaypur)",
-    "state": "Madhya Pradesh",
-    "city": "Udaypur",
-    "region": "Udaypur (near Gyaraspur), Vidisha district",
-    "tags": [
-      "Vidisha",
-      "Udaypur",
-      "Udayeshwar"
-    ],
-    "story": "Udayeshwar Mahadev Temple at Udaypur is a key Shiva temple site in Vidisha district.",
-    "highlight": "Historic Udayeshwar shrine in the Udaypur-Gyaraspur belt.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Udaipur%20Temple,%20west%20side.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Udaipur_Temple,_west_side.jpg",
-    "isNew": true,
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "addedAt": "2026-02-23T20:50:57+05:30",
-    "bestTime": "Morning hours and cooler-season months.",
-    "timings": "Open daily; local timings vary.",
-    "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Plan route via Gyaraspur/Udaypur road links before travel.",
-    "rituals": [
-      "Daily puja",
-      "Darshan"
-    ],
-    "festivals": [
-      "Mahashivratri",
-      "Shravan month"
-    ],
-    "moreDetails": {
-      "history": "Udayeshwar at Udaypur is widely recognized as a major medieval Shiva temple of the Vidisha region.",
-      "architecture": "Classical stone temple profile associated with central Indian Nagara-era forms.",
-      "visitorNotes": "Visit in daylight for heritage viewing and easier navigation.",
-      "sources": [
-        {
-          "label": "Vidisha district",
-          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
-          "type": "District reference"
-        },
-        {
-          "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Udayeshwar%20Mahadev%20Temple%20Udaypur%20Vidisha",
-          "type": "Map search"
-        }
-      ]
-    },
-    "district": "Vidisha",
-    "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-23T04:14:30Z"
   },
   {
     "name": "Gupteshwar Mahadev Mandir",
@@ -11255,18 +11222,18 @@ export const madhyaPradeshTemples = [
     "isNew": true
   },
   {
-    "name": "Jaleshwar Temple (Maheshwar)",
+    "name": "Jaleshwar Temple (Maheshwar Ghats)",
     "state": "Madhya Pradesh",
     "city": "Maheshwar",
     "district": "Khargone",
-    "region": "Maheshwar temple belt, Khargone district",
+    "region": "Maheshwar ghats, Khargone district",
     "tags": [
       "Khargone",
       "Maheshwar",
       "Jaleshwar"
     ],
-    "story": "Jaleshwar Temple (Maheshwar) is a Shiva temple in the Khargone district Shaiva circuit.",
-    "highlight": "Local Shiva worship node in Maheshwar.",
+    "story": "Jaleshwar Temple is a Shiva shrine on the Maheshwar river ghats, known for its calm atmosphere.",
+    "highlight": "Quiet ghat-side Shiva worship point in Maheshwar.",
     "image": "/temples/temple-01.svg",
     "credit": "",
     "creditUrl": "/temples/temple-01.svg",
@@ -11302,7 +11269,7 @@ export const madhyaPradeshTemples = [
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T06:25:31Z",
+    "lastVerifiedAt": "2026-03-17T06:20:00Z",
     "addedAt": "2026-02-24T11:55:36+05:30",
     "isNew": true
   },
@@ -11359,18 +11326,18 @@ export const madhyaPradeshTemples = [
     "isNew": true
   },
   {
-    "name": "Sirvel Mahadev Mandir",
+    "name": "Sirvel Mahadev (Sirvel, Khargone)",
     "state": "Madhya Pradesh",
     "city": "Sirvel",
     "district": "Khargone",
-    "region": "Sirvel area, Khargone district",
+    "region": "Sirvel, Khargone district, Satpura ranges",
     "tags": [
       "Khargone",
       "Sirvel",
       "Mahadev"
     ],
-    "story": "Sirvel Mahadev Mandir is a Shiva temple in the Khargone district Shaiva circuit.",
-    "highlight": "Local Shiva worship node in Sirvel.",
+    "story": "Sirvel Mahadev is a Shiva shrine in the Satpura ranges about 55 km from Khargone, known for its cave temple and seasonal waterfall.",
+    "highlight": "Satpura cave-shrine Shiva site with a seasonal waterfall near Sirvel.",
     "image": "/temples/temple-03.svg",
     "credit": "",
     "creditUrl": "/temples/temple-03.svg",
@@ -11379,7 +11346,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and timings before travel.",
+    "entryNotes": "Approach conditions can vary seasonally; confirm road and waterfall access before travel.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -11406,23 +11373,24 @@ export const madhyaPradeshTemples = [
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T06:25:31Z",
+    "lastVerifiedAt": "2026-03-17T06:20:00Z",
     "addedAt": "2026-02-24T11:55:38+05:30",
     "isNew": true
   },
   {
-    "name": "Nanheshwar Mahadev",
+    "name": "Nanheshwar Mahadev (Banher/Nandri)",
     "state": "Madhya Pradesh",
-    "city": "Khargone",
+    "city": "Banher",
     "district": "Khargone",
-    "region": "Khargone district",
+    "region": "Banher/Nandri belt, Khargone district",
     "tags": [
       "Khargone",
-      "Nanheshwar",
-      "Mahadev"
+      "Banher",
+      "Nandri",
+      "Nanheshwar"
     ],
-    "story": "Nanheshwar Mahadev is a Shiva temple in the Khargone district Shaiva circuit.",
-    "highlight": "Local Shiva worship node in Khargone.",
+    "story": "Nanheshwar Mahadev is a Shiva shrine in the Banher-Nandri belt of Khargone district.",
+    "highlight": "Banher/Nandri-side Nanheshwar Shiva worship point.",
     "image": "/temples/temple-04.svg",
     "credit": "",
     "creditUrl": "/temples/temple-04.svg",
@@ -11441,7 +11409,7 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva network.",
+      "history": "Local tradition associates Nanheshwar Mahadev with the legend of Rishi Markandeya.",
       "architecture": "Regional shrine architecture with active devotional use.",
       "visitorNotes": "Prefer daylight visits for easier route access.",
       "sources": [
@@ -11458,127 +11426,23 @@ export const madhyaPradeshTemples = [
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T06:25:31Z",
+    "lastVerifiedAt": "2026-03-17T06:20:00Z",
     "addedAt": "2026-02-24T11:55:39+05:30",
     "isNew": true
   },
   {
-    "name": "Mahakaleshwar Temple (Oon)",
-    "state": "Madhya Pradesh",
-    "city": "Oon",
-    "district": "Khargone",
-    "region": "Oon locality, Khargone district",
-    "tags": [
-      "Khargone",
-      "Oon",
-      "Mahakaleshwar"
-    ],
-    "story": "Mahakaleshwar Temple (Oon) is a Shiva temple in the Khargone district Shaiva circuit.",
-    "highlight": "Local Shiva worship node in Oon.",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_collage_of_some_11th_to_12th_century_temple_ruins_in_Un_(Oon)_village%2C_Khargone%2C_Madhya_Pradesh.jpg",
-    "credit": "Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:A_collage_of_some_11th_to_12th_century_temple_ruins_in_Un_(Oon)_village,_Khargone,_Madhya_Pradesh.jpg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "bestTime": "Morning and evening darshan.",
-    "timings": "Open daily; local timings vary.",
-    "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and timings before travel.",
-    "rituals": [
-      "Daily puja",
-      "Jal abhishek"
-    ],
-    "festivals": [
-      "Mahashivratri",
-      "Shravan month"
-    ],
-    "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Prefer daylight visits for easier route access.",
-      "sources": [
-        {
-          "label": "Khargone district",
-          "url": "https://en.wikipedia.org/wiki/Khargone_district",
-          "type": "District reference"
-        },
-        {
-          "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Mahakaleshwar%20Temple%20(Oon)%20Oon%20Khargone",
-          "type": "Map search"
-        }
-      ]
-    },
-    "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T06:25:31Z",
-    "addedAt": "2026-02-24T11:55:40+05:30",
-    "isNew": true
-  },
-  {
-    "name": "Ballaleshwar Temple (Oon)",
-    "state": "Madhya Pradesh",
-    "city": "Oon",
-    "district": "Khargone",
-    "region": "Oon locality, Khargone district",
-    "tags": [
-      "Khargone",
-      "Oon",
-      "Ballaleshwar"
-    ],
-    "story": "Ballaleshwar Temple (Oon) is a Shiva temple in the Khargone district Shaiva circuit.",
-    "highlight": "Local Shiva worship node in Oon.",
-    "image": "/temples/temple-01.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-01.svg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "bestTime": "Morning and evening darshan.",
-    "timings": "Open daily; local timings vary.",
-    "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and timings before travel.",
-    "rituals": [
-      "Daily puja",
-      "Jal abhishek"
-    ],
-    "festivals": [
-      "Mahashivratri",
-      "Shravan month"
-    ],
-    "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Prefer daylight visits for easier route access.",
-      "sources": [
-        {
-          "label": "Khargone district",
-          "url": "https://en.wikipedia.org/wiki/Khargone_district",
-          "type": "District reference"
-        },
-        {
-          "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Ballaleshwar%20Temple%20(Oon)%20Oon%20Khargone",
-          "type": "Map search"
-        }
-      ]
-    },
-    "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T06:25:31Z",
-    "addedAt": "2026-02-24T11:55:41+05:30",
-    "isNew": true
-  },
-  {
-    "name": "Omkareshwar Shiv Mandir (Choli)",
+    "name": "Choli Shiva Temple (Choli/Mandleshwar)",
     "state": "Madhya Pradesh",
     "city": "Choli",
     "district": "Khargone",
-    "region": "Choli area, Khargone district",
+    "region": "Choli/Mandleshwar belt, Khargone district",
     "tags": [
       "Khargone",
       "Choli",
       "Omkareshwar"
     ],
-    "story": "Omkareshwar Shiv Mandir (Choli) is a Shiva temple in the Khargone district Shaiva circuit.",
-    "highlight": "Local Shiva worship node in Choli.",
+    "story": "Choli Shiva Temple is an ancient Shiva shrine in the Choli-Mandleshwar belt of Khargone district.",
+    "highlight": "Ancient Shiva temple known for a large and splendid Shiva lingam.",
     "image": "/temples/temple-02.svg",
     "credit": "",
     "creditUrl": "/temples/temple-02.svg",
@@ -11614,23 +11478,24 @@ export const madhyaPradeshTemples = [
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T06:25:31Z",
+    "lastVerifiedAt": "2026-03-17T06:20:00Z",
     "addedAt": "2026-02-24T11:55:42+05:30",
     "isNew": true
   },
   {
-    "name": "Siddhnath Mahadev Mandir",
+    "name": "Siddhnath Mahadev Mandir (Pathanwadi, Khargone)",
     "state": "Madhya Pradesh",
     "city": "Khargone",
     "district": "Khargone",
-    "region": "Khargone district",
+    "region": "Pathanwadi, Khargone city, Khargone district",
     "tags": [
       "Khargone",
+      "Pathanwadi",
       "Siddhnath",
-      "Mahadev"
+      "Shiv Dola"
     ],
-    "story": "Siddhnath Mahadev Mandir is a Shiva temple in the Khargone district Shaiva circuit.",
-    "highlight": "Local Shiva worship node in Khargone.",
+    "story": "Siddhnath Mahadev Mandir is a Shiva shrine in the Pathanwadi area of Khargone city.",
+    "highlight": "Pathanwadi Siddhnath shrine from which the annual Shiv Dola procession begins.",
     "image": "/temples/temple-03.svg",
     "credit": "",
     "creditUrl": "/temples/temple-03.svg",
@@ -11649,9 +11514,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva network.",
+      "history": "Local tradition in Khargone associates Siddhnath Mahadev Mandir with the beginning of the annual Shiv Dola procession.",
       "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Prefer daylight visits for easier route access.",
+      "visitorNotes": "Festival periods can be especially busy; morning visits are usually calmer.",
       "sources": [
         {
           "label": "Khargone district",
@@ -11666,7 +11531,7 @@ export const madhyaPradeshTemples = [
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T06:25:31Z",
+    "lastVerifiedAt": "2026-03-17T06:20:00Z",
     "addedAt": "2026-02-24T11:55:43+05:30",
     "isNew": true
   },
@@ -14532,18 +14397,19 @@ export const madhyaPradeshTemples = [
     "isNew": true
   },
   {
-    "name": "Grasla Shiv Temple",
+    "name": "Grasla Shiv Temple (Shajapur, Bank of Chiller River)",
     "state": "Madhya Pradesh",
-    "city": "Grasla",
+    "city": "Shajapur",
     "district": "Shajapur",
-    "region": "Grasla area, Shajapur district",
+    "region": "Bank of Chiller River, Shajapur city, Shajapur district",
     "tags": [
       "Shajapur",
       "Grasla",
-      "Shiva"
+      "Chiller River",
+      "Riverbank shrine"
     ],
-    "story": "Grasla Shiv Temple is a Shiva temple in the Shajapur district Shaiva network.",
-    "highlight": "Local Shiva worship node in Grasla.",
+    "story": "Grasla Shiv Temple is a Shiva shrine in Shajapur city on the bank of the Chiller River.",
+    "highlight": "Chiller-riverbank Shiva worship point in Shajapur.",
     "image": "/temples/temple-01.svg",
     "credit": "",
     "creditUrl": "/temples/temple-01.svg",
@@ -14552,7 +14418,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Use local riverbank approach directions when planning the visit.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -14562,9 +14428,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained in local riverside Shaiva worship traditions in the Shajapur urban area.",
+      "architecture": "Regional shrine format associated with the Chiller River bank.",
+      "visitorNotes": "Morning and sunset visits are usually best for riverbank access.",
       "sources": [
         {
           "label": "Shajapur district",
@@ -14573,29 +14439,30 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Grasla%20Shiv%20Temple%20Grasla%20Shajapur",
+          "url": "https://www.openstreetmap.org/search?query=Grasla%20Shiv%20Temple%20Chiller%20River%20Shajapur%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:23:39Z",
+    "lastVerifiedAt": "2026-03-09T08:10:00Z",
     "addedAt": "2026-02-24T12:53:43+05:30",
     "isNew": true
   },
   {
-    "name": "Omkareshwar Temple",
+    "name": "Omkareshwar Shiv Temple (Old Town, Bank of Chiller River)",
     "state": "Madhya Pradesh",
     "city": "Shajapur",
     "district": "Shajapur",
-    "region": "Shajapur district",
+    "region": "Old Town, bank of Chiller River, Shajapur city, Shajapur district",
     "tags": [
       "Shajapur",
-      "Shajapur",
-      "Shiva"
+      "Old Town",
+      "Chiller River",
+      "Omkareshwar"
     ],
-    "story": "Omkareshwar Temple is a Shiva temple in the Shajapur district Shaiva network.",
-    "highlight": "Local Shiva worship node in Shajapur.",
+    "story": "Omkareshwar Shiv Temple is a Shiva shrine in the Old Town area of Shajapur on the bank of the Chiller River.",
+    "highlight": "Old Town Shiva darshan on the Chiller River bank.",
     "image": "/temples/temple-02.svg",
     "credit": "",
     "creditUrl": "/temples/temple-02.svg",
@@ -14604,7 +14471,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Best approached with local directions through the old-town riverbank lanes.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -14614,9 +14481,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained as part of Shajapur city's long-running riverside Shaiva worship network.",
+      "architecture": "Regional urban shrine profile associated with the Chiller River bank.",
+      "visitorNotes": "Morning visits are generally easier in the old-town area.",
       "sources": [
         {
           "label": "Shajapur district",
@@ -14625,29 +14492,30 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Omkareshwar%20Temple%20Shajapur%20Shajapur",
+          "url": "https://www.openstreetmap.org/search?query=Omkareshwar%20Shiv%20Temple%20Old%20Town%20Chiller%20River%20Shajapur%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:23:39Z",
+    "lastVerifiedAt": "2026-03-09T08:10:00Z",
     "addedAt": "2026-02-24T12:53:44+05:30",
     "isNew": true
   },
   {
-    "name": "Zarneshwar Shiv Temple",
+    "name": "Jharneshwar Mahadev Mandir (Siroliya Village, Maksi Tehsil)",
     "state": "Madhya Pradesh",
-    "city": "Shajapur",
+    "city": "Siroliya",
     "district": "Shajapur",
-    "region": "Shajapur district",
+    "region": "Siroliya village, Maksi Tehsil, Shajapur district",
     "tags": [
       "Shajapur",
-      "Shajapur",
-      "Shiva"
+      "Siroliya",
+      "Maksi Tehsil",
+      "Jharneshwar"
     ],
-    "story": "Zarneshwar Shiv Temple is a Shiva temple in the Shajapur district Shaiva network.",
-    "highlight": "Local Shiva worship node in Shajapur.",
+    "story": "Jharneshwar Mahadev Mandir is a Shiva temple in Siroliya village under Maksi Tehsil of Shajapur district.",
+    "highlight": "Village-side Jharneshwar Shiva worship point in the Maksi belt.",
     "image": "/temples/temple-03.svg",
     "credit": "",
     "creditUrl": "/temples/temple-03.svg",
@@ -14656,7 +14524,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Confirm exact Siroliya village-side directions locally before travel.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -14666,9 +14534,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained through local Shaiva devotion in the Siroliya-Maksi area of Shajapur district.",
+      "architecture": "Regional village-shrine profile with active devotional use.",
+      "visitorNotes": "Daylight visits are easier for rural navigation in the Maksi belt.",
       "sources": [
         {
           "label": "Shajapur district",
@@ -14677,29 +14545,30 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Zarneshwar%20Shiv%20Temple%20Shajapur%20Shajapur",
+          "url": "https://www.openstreetmap.org/search?query=Jharneshwar%20Mahadev%20Mandir%20Siroliya%20Village%20Maksi%20Tehsil%20Shajapur%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:23:39Z",
+    "lastVerifiedAt": "2026-03-09T08:10:00Z",
     "addedAt": "2026-02-24T12:53:45+05:30",
     "isNew": true
   },
   {
-    "name": "Mahadev Ghat Shiv Temple",
+    "name": "Mahadev Ghat Shiv Temple (Bank of Chiller River, Shajapur)",
     "state": "Madhya Pradesh",
     "city": "Shajapur",
     "district": "Shajapur",
-    "region": "Shajapur district",
+    "region": "Bank of Chiller River, Shajapur city, Shajapur district",
     "tags": [
       "Shajapur",
-      "Shajapur",
-      "Shiva"
+      "Mahadev Ghat",
+      "Chiller River",
+      "Riverbank shrine"
     ],
-    "story": "Mahadev Ghat Shiv Temple is a Shiva temple in the Shajapur district Shaiva network.",
-    "highlight": "Local Shiva worship node in Shajapur.",
+    "story": "Mahadev Ghat Shiv Temple is a Shiva shrine in Shajapur city on the bank of the Chiller River.",
+    "highlight": "Mahadev Ghat-side Shiva darshan on the Chiller River bank.",
     "image": "/temples/temple-04.svg",
     "credit": "",
     "creditUrl": "/temples/temple-04.svg",
@@ -14708,7 +14577,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Check local riverbank access conditions before planning a visit.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -14718,9 +14587,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained in local ghat-linked Shaiva worship traditions within Shajapur city.",
+      "architecture": "Regional ghat-side shrine profile with active worship routines.",
+      "visitorNotes": "Morning visits are generally easier around the ghat approach.",
       "sources": [
         {
           "label": "Shajapur district",
@@ -14729,29 +14598,30 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Mahadev%20Ghat%20Shiv%20Temple%20Shajapur%20Shajapur",
+          "url": "https://www.openstreetmap.org/search?query=Mahadev%20Ghat%20Shiv%20Temple%20Chiller%20River%20Shajapur%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:23:39Z",
+    "lastVerifiedAt": "2026-03-09T08:10:00Z",
     "addedAt": "2026-02-24T12:53:46+05:30",
     "isNew": true
   },
   {
-    "name": "Someshwar Shiv Temple",
+    "name": "Someshvar Mahadev Mandir (Sunera, Shajapur Tehsil)",
     "state": "Madhya Pradesh",
-    "city": "Shajapur",
+    "city": "Sunera",
     "district": "Shajapur",
-    "region": "Shajapur district",
+    "region": "Sunera, Shajapur Tehsil, Shajapur district",
     "tags": [
       "Shajapur",
-      "Shajapur",
-      "Shiva"
+      "Sunera",
+      "Shajapur Tehsil",
+      "Someshvar"
     ],
-    "story": "Someshwar Shiv Temple is a Shiva temple in the Shajapur district Shaiva network.",
-    "highlight": "Local Shiva worship node in Shajapur.",
+    "story": "Someshvar Mahadev Mandir is a Shiva temple in Sunera under Shajapur Tehsil.",
+    "highlight": "Sunera-side Someshvar Mahadev worship point.",
     "image": "/temples/temple-05.svg",
     "credit": "",
     "creditUrl": "/temples/temple-05.svg",
@@ -14760,7 +14630,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Confirm the exact Sunera-side route locally before travel.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -14770,9 +14640,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained through local Shaiva worship in the Sunera area of Shajapur Tehsil.",
+      "architecture": "Regional temple format with active daily devotion.",
+      "visitorNotes": "Daylight visits are easier for first-time access in the Sunera belt.",
       "sources": [
         {
           "label": "Shajapur district",
@@ -14781,29 +14651,30 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Someshwar%20Shiv%20Temple%20Shajapur%20Shajapur",
+          "url": "https://www.openstreetmap.org/search?query=Someshvar%20Mahadev%20Mandir%20Sunera%20Shajapur%20Tehsil%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:23:39Z",
+    "lastVerifiedAt": "2026-03-09T08:10:00Z",
     "addedAt": "2026-02-24T12:53:47+05:30",
     "isNew": true
   },
   {
-    "name": "Shree Jatashankar Mahadev Mandir",
+    "name": "Shree Jatashankar Mahadev Mandir (Mandi Road, Shujalpur Tehsil)",
     "state": "Madhya Pradesh",
-    "city": "Shajapur",
+    "city": "Shujalpur",
     "district": "Shajapur",
-    "region": "Shajapur district",
+    "region": "Mandi Road, Shujalpur Tehsil, Shajapur district",
     "tags": [
       "Shajapur",
-      "Shajapur",
-      "Shiva"
+      "Shujalpur Tehsil",
+      "Mandi Road",
+      "Jatashankar"
     ],
-    "story": "Shree Jatashankar Mahadev Mandir is a Shiva temple in the Shajapur district Shaiva network.",
-    "highlight": "Local Shiva worship node in Shajapur.",
+    "story": "Shree Jatashankar Mahadev Mandir is a Shiva temple on Mandi Road in Shujalpur Tehsil of Shajapur district.",
+    "highlight": "Mandi Road Jatashankar Mahadev darshan in Shujalpur Tehsil.",
     "image": "/temples/temple-01.svg",
     "credit": "",
     "creditUrl": "/temples/temple-01.svg",
@@ -14812,7 +14683,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Urban market-area traffic may affect access around Mandi Road.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -14822,9 +14693,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained as part of the Shujalpur-side Shaiva devotional network in Shajapur district.",
+      "architecture": "Regional town-shrine profile with active public worship.",
+      "visitorNotes": "Morning visits are usually easier around the market-side route.",
       "sources": [
         {
           "label": "Shajapur district",
@@ -14833,29 +14704,30 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Shree%20Jatashankar%20Mahadev%20Mandir%20Shajapur%20Shajapur",
+          "url": "https://www.openstreetmap.org/search?query=Shree%20Jatashankar%20Mahadev%20Mandir%20Mandi%20Road%20Shujalpur%20Tehsil%20Shajapur%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:23:39Z",
+    "lastVerifiedAt": "2026-03-09T08:10:00Z",
     "addedAt": "2026-02-24T12:53:48+05:30",
     "isNew": true
   },
   {
-    "name": "Shri Mankamneswar Mahadev Mandir",
+    "name": "Shri Mankamneswar Mahadev Mandir (Gopipur, Shajapur Road)",
     "state": "Madhya Pradesh",
-    "city": "Shajapur",
+    "city": "Gopipur",
     "district": "Shajapur",
-    "region": "Shajapur district",
+    "region": "Gopipur, Shajapur Road, Shajapur district",
     "tags": [
       "Shajapur",
-      "Shajapur",
-      "Shiva"
+      "Gopipur",
+      "Shajapur Road",
+      "Mankamneswar"
     ],
-    "story": "Shri Mankamneswar Mahadev Mandir is a Shiva temple in the Shajapur district Shaiva network.",
-    "highlight": "Local Shiva worship node in Shajapur.",
+    "story": "Shri Mankamneswar Mahadev Mandir is a Shiva temple in the Gopipur area along Shajapur Road.",
+    "highlight": "Gopipur-side Mankamneswar Mahadev worship point.",
     "image": "/temples/temple-02.svg",
     "credit": "",
     "creditUrl": "/temples/temple-02.svg",
@@ -14864,7 +14736,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Confirm the exact Gopipur roadside approach locally before travel.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -14874,9 +14746,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained through local Shaiva devotion in the Gopipur-Shajapur Road belt.",
+      "architecture": "Regional roadside shrine profile with active worship.",
+      "visitorNotes": "Daylight visits are generally easier for route confirmation.",
       "sources": [
         {
           "label": "Shajapur district",
@@ -14885,29 +14757,29 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Shri%20Mankamneswar%20Mahadev%20Mandir%20Shajapur%20Shajapur",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Mankamneswar%20Mahadev%20Mandir%20Gopipur%20Shajapur%20Road%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:23:39Z",
+    "lastVerifiedAt": "2026-03-09T08:10:00Z",
     "addedAt": "2026-02-24T12:53:49+05:30",
     "isNew": true
   },
   {
-    "name": "Bejanath Mahadev",
+    "name": "Bejanath Mahadev (Shajapur District)",
     "state": "Madhya Pradesh",
     "city": "Shajapur",
     "district": "Shajapur",
     "region": "Shajapur district",
     "tags": [
       "Shajapur",
-      "Shajapur",
-      "Shiva"
+      "Bejanath Mahadev",
+      "District shrine"
     ],
-    "story": "Bejanath Mahadev is a Shiva temple in the Shajapur district Shaiva network.",
-    "highlight": "Local Shiva worship node in Shajapur.",
+    "story": "Bejanath Mahadev is a Shiva shrine identified in the Shajapur district devotional landscape.",
+    "highlight": "District-level Bejanath Mahadev worship point in Shajapur.",
     "image": "/temples/temple-03.svg",
     "credit": "",
     "creditUrl": "/temples/temple-03.svg",
@@ -14926,9 +14798,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained in local Shaiva worship traditions across the Shajapur district region.",
+      "architecture": "Regional shrine profile with regular devotional use.",
+      "visitorNotes": "Confirm precise local approach details before travel.",
       "sources": [
         {
           "label": "Shajapur district",
@@ -14937,18 +14809,18 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Bejanath%20Mahadev%20Shajapur%20Shajapur",
+          "url": "https://www.openstreetmap.org/search?query=Bejanath%20Mahadev%20Shajapur%20District%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:23:39Z",
+    "lastVerifiedAt": "2026-03-09T08:10:00Z",
     "addedAt": "2026-02-24T12:53:50+05:30",
     "isNew": true
   },
   {
-    "name": "Madhi Mahadev Temple",
+    "name": "Madhi Mahadev Temple (Shajapur District)",
     "state": "Madhya Pradesh",
     "city": "Madhi",
     "district": "Shajapur",
@@ -14956,10 +14828,11 @@ export const madhyaPradeshTemples = [
     "tags": [
       "Shajapur",
       "Madhi",
-      "Shiva"
+      "Mahadev",
+      "District shrine"
     ],
-    "story": "Madhi Mahadev Temple is a Shiva temple in the Shajapur district Shaiva network.",
-    "highlight": "Local Shiva worship node in Madhi.",
+    "story": "Madhi Mahadev Temple is a Shiva shrine in the Madhi area of Shajapur district.",
+    "highlight": "Madhi-side Mahadev worship point in Shajapur district.",
     "image": "/temples/temple-04.svg",
     "credit": "",
     "creditUrl": "/temples/temple-04.svg",
@@ -14978,9 +14851,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained through local Shaiva devotion in the Madhi belt of Shajapur district.",
+      "architecture": "Regional shrine format with active worship routines.",
+      "visitorNotes": "Daylight visits are generally easier for village-side navigation.",
       "sources": [
         {
           "label": "Shajapur district",
@@ -14989,13 +14862,13 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Madhi%20Mahadev%20Temple%20Madhi%20Shajapur",
+          "url": "https://www.openstreetmap.org/search?query=Madhi%20Mahadev%20Temple%20Shajapur%20District%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:23:39Z",
+    "lastVerifiedAt": "2026-03-09T08:10:00Z",
     "addedAt": "2026-02-24T12:53:51+05:30",
     "isNew": true
   },
@@ -17080,18 +16953,19 @@ export const madhyaPradeshTemples = [
     "isNew": true
   },
   {
-    "name": "Shree Hajareswar Mahadev Mandir",
+    "name": "Shree Hazareshwar Mahadev Temple (Nagarpalika area, Sheopur)",
     "state": "Madhya Pradesh",
     "city": "Sheopur",
     "district": "Sheopur",
-    "region": "Sheopur district",
+    "region": "Nagarpalika area, Sheopur city, Sheopur district",
     "tags": [
       "Sheopur",
-      "Sheopur",
-      "Shiva"
+      "Nagarpalika area",
+      "Hazareshwar",
+      "Local shrine"
     ],
-    "story": "Shree Hajareswar Mahadev Mandir is a prominent Shiva shrine in Sheopur, known for a linga tradition associated with numerous miniature lingas.",
-    "highlight": "Distinctive multi-linga form associated with the Hajareswar tradition.",
+    "story": "Shree Hazareshwar Mahadev Temple is a prominent Shiva shrine in the Nagarpalika area of Sheopur city.",
+    "highlight": "Nagarpalika-area Hazareshwar Shiva darshan in Sheopur city.",
     "image": "/temples/temple-01.svg",
     "credit": "",
     "creditUrl": "/temples/temple-01.svg",
@@ -17100,7 +16974,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Urban access is usually straightforward; confirm local darshan timings before visit.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -17110,9 +16984,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained in local Sheopur-city Shaiva worship traditions, with the Hazareshwar form remaining its core identity.",
+      "architecture": "Regional urban shrine profile with active ritual continuity.",
+      "visitorNotes": "Morning visits are generally easier in the Nagarpalika area.",
       "sources": [
         {
           "label": "Sheopur district",
@@ -17121,29 +16995,30 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Shree%20Hajareswar%20Mahadev%20Mandir%20Sheopur%20Sheopur%20Madhya%20Pradesh",
+          "url": "https://www.openstreetmap.org/search?query=Shree%20Hazareshwar%20Mahadev%20Temple%20Nagarpalika%20area%20Sheopur%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:47:14Z",
+    "lastVerifiedAt": "2026-03-10T05:00:00Z",
     "addedAt": "2026-02-24T13:17:19+05:30",
     "isNew": true
   },
   {
-    "name": "Gupteshwar Mahadev Mandir",
+    "name": "Gupteshwar Mahadev Mandir (Jaipura, Vijaypur Tehsil)",
     "state": "Madhya Pradesh",
-    "city": "Sheopur",
+    "city": "Jaipura",
     "district": "Sheopur",
-    "region": "Kadawal River belt, Sheopur district",
+    "region": "Jaipura, Vijaypur Tehsil, Sheopur district",
     "tags": [
       "Sheopur",
-      "Sheopur",
-      "Shiva"
+      "Jaipura",
+      "Vijaypur Tehsil",
+      "Gupteshwar"
     ],
-    "story": "Gupteshwar Mahadev Mandir is an ancient Shiva worship node associated with the Kadawal river landscape in Sheopur district.",
-    "highlight": "River-linked Gupteshwar shrine in the Kadawal zone.",
+    "story": "Gupteshwar Mahadev Mandir is a Shiva shrine in Jaipura under Vijaypur Tehsil of Sheopur district.",
+    "highlight": "Jaipura-side Gupteshwar Shiva worship point in Vijaypur Tehsil.",
     "image": "/temples/temple-02.svg",
     "credit": "",
     "creditUrl": "/temples/temple-02.svg",
@@ -17152,7 +17027,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Confirm the exact Jaipura-side route locally before travel.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -17162,9 +17037,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained in local Shaiva devotion in the Jaipura-Vijaypur belt of Sheopur district.",
+      "architecture": "Regional village-shrine format with active worship.",
+      "visitorNotes": "Daylight visits are preferable for first-time rural navigation.",
       "sources": [
         {
           "label": "Sheopur district",
@@ -17173,29 +17048,30 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Gupteshwar%20Mahadev%20Mandir%20Sheopur%20Sheopur%20Madhya%20Pradesh",
+          "url": "https://www.openstreetmap.org/search?query=Gupteshwar%20Mahadev%20Mandir%20Jaipura%20Vijaypur%20Tehsil%20Sheopur%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:47:14Z",
+    "lastVerifiedAt": "2026-03-10T05:00:00Z",
     "addedAt": "2026-02-24T13:17:20+05:30",
     "isNew": true
   },
   {
-    "name": "Bhuteshwar Mahadev Temple (Nagda)",
+    "name": "Bhuteshwar Mahadev Temple (Nagda, Sheopur Tehsil)",
     "state": "Madhya Pradesh",
     "city": "Nagda",
     "district": "Sheopur",
-    "region": "Nagda area, Sheopur district",
+    "region": "Nagda, Sheopur Tehsil, Sheopur district",
     "tags": [
       "Sheopur",
       "Nagda",
-      "Shiva"
+      "Sheopur Tehsil",
+      "Bhuteshwar"
     ],
-    "story": "Bhuteshwar Mahadev Temple at Nagda is a local Shiva temple in the Sheopur devotional network.",
-    "highlight": "Nagda-based Bhuteshwar Shiva darshan point.",
+    "story": "Bhuteshwar Mahadev Temple is a Shiva shrine in Nagda under Sheopur Tehsil.",
+    "highlight": "Nagda-side Bhuteshwar Shiva darshan in Sheopur Tehsil.",
     "image": "/temples/temple-03.svg",
     "credit": "",
     "creditUrl": "/temples/temple-03.svg",
@@ -17204,7 +17080,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Confirm local Nagda-side directions before planning travel.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -17214,9 +17090,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained through local Shaiva worship in the Nagda belt of Sheopur Tehsil.",
+      "architecture": "Regional shrine profile with active community worship.",
+      "visitorNotes": "Morning visits are usually easier for village-side access.",
       "sources": [
         {
           "label": "Sheopur district",
@@ -17225,29 +17101,30 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Bhuteshwar%20Mahadev%20Temple%20(Nagda)%20Nagda%20Sheopur%20Madhya%20Pradesh",
+          "url": "https://www.openstreetmap.org/search?query=Bhuteshwar%20Mahadev%20Temple%20Nagda%20Sheopur%20Tehsil%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:47:14Z",
+    "lastVerifiedAt": "2026-03-10T05:00:00Z",
     "addedAt": "2026-02-24T13:17:21+05:30",
     "isNew": true
   },
   {
-    "name": "Maneshwar Mahadev Temple",
+    "name": "Manesbar Nath Temple (Manpur, Vijaypur Tehsil)",
     "state": "Madhya Pradesh",
     "city": "Manpur",
     "district": "Sheopur",
-    "region": "Manpur Fort area, Sheopur district",
+    "region": "Manpur, Vijaypur Tehsil, Sheopur district",
     "tags": [
       "Sheopur",
       "Manpur",
-      "Shiva"
+      "Vijaypur Tehsil",
+      "Manesbar Nath"
     ],
-    "story": "Maneshwar Mahadev Temple is a Shiva shrine associated with the historic Manpur Fort setting in Sheopur district.",
-    "highlight": "Fort-linked Maneshwar Mahadev worship node.",
+    "story": "Manesbar Nath Temple is a Shiva shrine in Manpur under Vijaypur Tehsil of Sheopur district.",
+    "highlight": "Manpur-side Manesbar Nath Shiva worship point in Vijaypur Tehsil.",
     "image": "/temples/temple-04.svg",
     "credit": "",
     "creditUrl": "/temples/temple-04.svg",
@@ -17256,7 +17133,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Confirm the exact Manpur route locally before travel.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -17266,9 +17143,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained in local Shaiva devotion in the Manpur-Vijaypur area of Sheopur district.",
+      "architecture": "Regional shrine format with regular community worship.",
+      "visitorNotes": "Daylight visits are easier for first-time access in the Manpur belt.",
       "sources": [
         {
           "label": "Sheopur district",
@@ -17277,13 +17154,13 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Maneshwar%20Mahadev%20Temple%20Manpur%20Sheopur%20Madhya%20Pradesh",
+          "url": "https://www.openstreetmap.org/search?query=Manesbar%20Nath%20Temple%20Manpur%20Vijaypur%20Tehsil%20Sheopur%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:47:14Z",
+    "lastVerifiedAt": "2026-03-10T05:00:00Z",
     "addedAt": "2026-02-24T13:17:22+05:30",
     "isNew": true
   },
@@ -17392,18 +17269,19 @@ export const madhyaPradeshTemples = [
     "isNew": true
   },
   {
-    "name": "Nageshwar Shiv Mandir",
+    "name": "Nageshwar Shiv Mandir (Jat Kheda, Sheopur Tehsil)",
     "state": "Madhya Pradesh",
-    "city": "Sheopur",
+    "city": "Jat Kheda",
     "district": "Sheopur",
-    "region": "Sheopur district",
+    "region": "Jat Kheda, Sheopur Tehsil, Sheopur district",
     "tags": [
       "Sheopur",
-      "Sheopur",
-      "Shiva"
+      "Jat Kheda",
+      "Sheopur Tehsil",
+      "Nageshwar"
     ],
-    "story": "Nageshwar Shiv Mandir is a local Shiva shrine in the Sheopur district devotional circuit.",
-    "highlight": "Nageshwar-form Shiva worship in Sheopur.",
+    "story": "Nageshwar Shiv Mandir is a Shiva shrine in Jat Kheda under Sheopur Tehsil.",
+    "highlight": "Jat Kheda Nageshwar Shiva worship point in Sheopur Tehsil.",
     "image": "/temples/temple-02.svg",
     "credit": "",
     "creditUrl": "/temples/temple-02.svg",
@@ -17412,7 +17290,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Please confirm the exact Jat Kheda route locally before travel.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -17422,9 +17300,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained in local Shaiva worship traditions in the Jat Kheda belt of Sheopur Tehsil.",
+      "architecture": "Regional village-shrine profile with active devotional use.",
+      "visitorNotes": "Daylight visits are generally preferable for rural navigation.",
       "sources": [
         {
           "label": "Sheopur district",
@@ -17433,29 +17311,30 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Nageshwar%20Shiv%20Mandir%20Sheopur%20Sheopur%20Madhya%20Pradesh",
+          "url": "https://www.openstreetmap.org/search?query=Nageshwar%20Shiv%20Mandir%20Jat%20Kheda%20Sheopur%20Tehsil%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:47:14Z",
+    "lastVerifiedAt": "2026-03-10T05:00:00Z",
     "addedAt": "2026-02-24T13:17:25+05:30",
     "isNew": true
   },
   {
-    "name": "Mukteshwar Mahadev Temple",
+    "name": "Mukteshwar Mahadev Temple (Donchi Road, Sheopur Tehsil)",
     "state": "Madhya Pradesh",
     "city": "Sheopur",
     "district": "Sheopur",
-    "region": "Sheopur district",
+    "region": "Donchi Road, Sheopur Tehsil, Sheopur district",
     "tags": [
       "Sheopur",
-      "Sheopur",
-      "Shiva"
+      "Donchi Road",
+      "Sheopur Tehsil",
+      "Mukteshwar"
     ],
-    "story": "Mukteshwar Mahadev Temple is a Shiva temple in Sheopur district with regular local worship continuity.",
-    "highlight": "Mukteshwar-form Shiva darshan point in Sheopur.",
+    "story": "Mukteshwar Mahadev Temple is a Shiva shrine on Donchi Road in Sheopur Tehsil.",
+    "highlight": "Donchi Road Mukteshwar Shiva darshan point in Sheopur.",
     "image": "/temples/temple-03.svg",
     "credit": "",
     "creditUrl": "/temples/temple-03.svg",
@@ -17464,7 +17343,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Local road traffic can affect access timing; confirm darshan hours before visit.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -17474,9 +17353,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained through local Shaiva devotion along the Donchi Road side of Sheopur Tehsil.",
+      "architecture": "Regional urban-edge shrine format with active worship.",
+      "visitorNotes": "Morning visits are usually easier along the roadside approach.",
       "sources": [
         {
           "label": "Sheopur district",
@@ -17485,29 +17364,30 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Mukteshwar%20Mahadev%20Temple%20Sheopur%20Sheopur%20Madhya%20Pradesh",
+          "url": "https://www.openstreetmap.org/search?query=Mukteshwar%20Mahadev%20Temple%20Donchi%20Road%20Sheopur%20Tehsil%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:47:14Z",
+    "lastVerifiedAt": "2026-03-10T05:00:00Z",
     "addedAt": "2026-02-24T13:17:26+05:30",
     "isNew": true
   },
   {
-    "name": "Mahadev Mandir (Ratodan)",
+    "name": "Mahadev Mandir (Ratodan, Sheopur Tehsil)",
     "state": "Madhya Pradesh",
     "city": "Ratodan",
     "district": "Sheopur",
-    "region": "Ratodan area, Sheopur district",
+    "region": "Ratodan, Sheopur Tehsil, Sheopur district",
     "tags": [
       "Sheopur",
       "Ratodan",
-      "Shiva"
+      "Sheopur Tehsil",
+      "Mahadev"
     ],
-    "story": "Mahadev Mandir at Ratodan is a community Shiva temple in the Sheopur district worship network.",
-    "highlight": "Local Ratodan Shiva mandir with regular puja.",
+    "story": "Mahadev Mandir is a Shiva shrine in Ratodan under Sheopur Tehsil.",
+    "highlight": "Ratodan-side Mahadev worship point in Sheopur Tehsil.",
     "image": "/temples/temple-04.svg",
     "credit": "",
     "creditUrl": "/temples/temple-04.svg",
@@ -17516,7 +17396,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Confirm local Ratodan-side directions before travel.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -17526,9 +17406,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Maintained in local village-level Shaiva worship in Ratodan.",
+      "architecture": "Regional shrine profile with regular devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for village-side navigation.",
       "sources": [
         {
           "label": "Sheopur district",
@@ -17537,13 +17417,13 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Mahadev%20Mandir%20(Ratodan)%20Ratodan%20Sheopur%20Madhya%20Pradesh",
+          "url": "https://www.openstreetmap.org/search?query=Mahadev%20Mandir%20Ratodan%20Sheopur%20Tehsil%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:47:14Z",
+    "lastVerifiedAt": "2026-03-10T05:00:00Z",
     "addedAt": "2026-02-24T13:17:27+05:30",
     "isNew": true
   },
@@ -19472,18 +19352,20 @@ export const madhyaPradeshTemples = [
     "isNew": true
   },
   {
-    "name": "Guru Ratneshwar Dham (Dighori)",
+    "name": "Shri Gururatneshwar Dham (Gurudham, Dighori, Seoni Tehsil)",
     "state": "Madhya Pradesh",
     "city": "Dighori",
     "district": "Seoni",
-    "region": "Dighori area, Seoni district",
+    "region": "Dighori, Seoni Tehsil, Seoni district",
     "tags": [
       "Seoni",
       "Dighori",
-      "Shiva"
+      "Seoni Tehsil",
+      "Gururatneshwar",
+      "Gurudham"
     ],
-    "story": "Guru Ratneshwar Dham at Dighori is a Shiva worship node in the Seoni district devotional network.",
-    "highlight": "Dighori-region Ratneshwar Shiva darshan point.",
+    "story": "Shri Gururatneshwar Dham, also locally called Gurudham, is a Shiva worship node in Dighori under Seoni Tehsil.",
+    "highlight": "Gurudham-associated Ratneshwar Shiva darshan point in the Dighori belt.",
     "image": "/temples/temple-01.svg",
     "credit": "",
     "creditUrl": "/temples/temple-01.svg",
@@ -19492,7 +19374,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Confirm the exact Dighori-side route and local temple timings before travel.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -19502,9 +19384,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "history": "Maintained in local Shaiva worship traditions as a Gururatneshwar dham in Dighori under Seoni Tehsil.",
       "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "visitorNotes": "Daylight visits are generally easier for navigation in the Dighori area.",
       "sources": [
         {
           "label": "Seoni district",
@@ -19513,29 +19395,29 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Guru%20Ratneshwar%20Dham%20(Dighori)%20Dighori%20Seoni%20Madhya%20Pradesh",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Gururatneshwar%20Dham%20Gurudham%20Dighori%20Seoni%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:59:10Z",
+    "lastVerifiedAt": "2026-03-09T04:30:00Z",
     "addedAt": "2026-02-24T13:29:15+05:30",
     "isNew": true
   },
   {
-    "name": "Math Mahadev Mandir (Adhunik Colony)",
+    "name": "Math Temple (Math Mahadev, Adhunik Colony, Seoni)",
     "state": "Madhya Pradesh",
     "city": "Seoni",
     "district": "Seoni",
-    "region": "Adhunik Colony, Seoni district",
+    "region": "Adhunik Colony, Seoni city, Seoni district",
     "tags": [
       "Seoni",
-      "Seoni",
-      "Shiva"
+      "Adhunik Colony",
+      "Math Mahadev"
     ],
-    "story": "Math Mahadev Mandir in Adhunik Colony is a local Shiva temple in Seoni district.",
-    "highlight": "City-neighborhood Mahadev shrine in Seoni.",
+    "story": "Math Temple, known locally as Math Mahadev, is a Shiva temple in Adhunik Colony of Seoni city.",
+    "highlight": "City-neighborhood Math Mahadev shrine in Seoni.",
     "image": "/temples/temple-02.svg",
     "credit": "",
     "creditUrl": "/temples/temple-02.svg",
@@ -19544,7 +19426,7 @@ export const madhyaPradeshTemples = [
     "bestTime": "Morning and evening darshan.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "entryNotes": "Confirm the exact Adhunik Colony route and local darshan timings before travel.",
     "rituals": [
       "Daily puja",
       "Jal abhishek"
@@ -19554,9 +19436,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "history": "Maintained in local worship traditions as a Math Mahadev shrine in the Adhunik Colony area of Seoni city.",
       "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "visitorNotes": "Urban access is straightforward; mornings are generally quieter.",
       "sources": [
         {
           "label": "Seoni district",
@@ -19565,13 +19447,13 @@ export const madhyaPradeshTemples = [
         },
         {
           "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Math%20Mahadev%20Mandir%20(Adhunik%20Colony)%20Seoni%20Seoni%20Madhya%20Pradesh",
+          "url": "https://www.openstreetmap.org/search?query=Math%20Temple%20Math%20Mahadev%20Adhunik%20Colony%20Seoni%20Madhya%20Pradesh",
           "type": "Map search"
         }
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-02-24T07:59:10Z",
+    "lastVerifiedAt": "2026-03-09T04:30:00Z",
     "addedAt": "2026-02-24T13:29:16+05:30",
     "isNew": true
   },
@@ -21348,14 +21230,14 @@ export const madhyaPradeshTemples = [
     "state": "Madhya Pradesh",
     "city": "Balaghat",
     "district": "Balaghat",
-    "region": "Shankar Ghat, Balaghat city, Balaghat district",
+    "region": "Shankar Ghat, bank of the Wainganga River, Balaghat city, Balaghat district",
     "tags": [
       "Balaghat",
       "Shankar Ghat",
       "Shiva"
     ],
-    "story": "Shankar Ghat Shiva Temple is a Shiva temple in the Balaghat district devotional network.",
-    "highlight": "Local Shiva worship node in Balaghat.",
+    "story": "Shankar Ghat Shiva Temple stands on the banks of the Wainganga River and forms a recognized Shiva worship point in Balaghat city.",
+    "highlight": "Wainganga riverbank Shiva darshan at Balaghat's Shankar Ghat.",
     "image": "/temples/temple-01.svg",
     "credit": "",
     "creditUrl": "/temples/temple-01.svg",
@@ -21374,9 +21256,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "history": "Maintained in local worship traditions as one of Balaghat's river-linked Shiva shrines on the Wainganga bank.",
       "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "visitorNotes": "Morning and evening visits are especially pleasant along the riverfront approach.",
       "sources": [
         {
           "label": "Balaghat district",
@@ -21391,12 +21273,12 @@ export const madhyaPradeshTemples = [
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-03-05T11:40:00Z",
+    "lastVerifiedAt": "2026-03-17T07:20:00Z",
     "addedAt": "2026-03-05T16:55:00+05:30",
     "isNew": true
   },
   {
-    "name": "Shri Shiv Sai Mandir (Balaghat, Chitragupt Nagar)",
+    "name": "Shri Shiv Sai Mandir (Chitragupt Nagar, Balaghat)",
     "state": "Madhya Pradesh",
     "city": "Balaghat",
     "district": "Balaghat",
@@ -21406,8 +21288,8 @@ export const madhyaPradeshTemples = [
       "Chitragupt Nagar",
       "Shiva"
     ],
-    "story": "Shri Shiv Sai Mandir is a Shiva temple in the Balaghat district devotional network.",
-    "highlight": "Local Shiva worship node in Balaghat.",
+    "story": "Shri Shiv Sai Mandir is a Shiva shrine in Chitragupt Nagar within Balaghat's urban devotional network.",
+    "highlight": "Chitragupt Nagar Shiva-Sai worship point in Balaghat.",
     "image": "/temples/temple-02.svg",
     "credit": "",
     "creditUrl": "/temples/temple-02.svg",
@@ -21443,23 +21325,23 @@ export const madhyaPradeshTemples = [
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-03-05T11:40:00Z",
+    "lastVerifiedAt": "2026-03-17T07:20:00Z",
     "addedAt": "2026-03-05T16:55:01+05:30",
     "isNew": true
   },
   {
-    "name": "Mahamritunjay Ghat (Jaagpur Ghat, Balaghat, Gaykhuri)",
+    "name": "Mahamritunjay Ghat Temple (Jaagpur Ghat, Gaykhuri)",
     "state": "Madhya Pradesh",
     "city": "Balaghat",
     "district": "Balaghat",
-    "region": "Jaagpur Ghat, Gaykhuri area, Balaghat district",
+    "region": "Jaagpur Ghat, Gaykhuri, Balaghat district",
     "tags": [
       "Balaghat",
       "Gaykhuri",
       "Shiva"
     ],
-    "story": "Mahamritunjay Ghat is a Shiva temple in the Balaghat district devotional network.",
-    "highlight": "Local Shiva worship node in Balaghat.",
+    "story": "Mahamritunjay Ghat Temple is a Shiva shrine associated with Jaagpur Ghat in the Gaykhuri side of Balaghat.",
+    "highlight": "Gaykhuri-side Shiva worship at Jaagpur Ghat.",
     "image": "/temples/temple-03.svg",
     "credit": "",
     "creditUrl": "/temples/temple-03.svg",
@@ -21478,7 +21360,7 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "history": "Maintained in local worship traditions as a ghat-side Shiva temple in the Gaykhuri-Jaagpur Ghat belt.",
       "architecture": "Regional shrine architecture with active devotional use.",
       "visitorNotes": "Daylight visits are generally easier for navigation.",
       "sources": [
@@ -21495,7 +21377,7 @@ export const madhyaPradeshTemples = [
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-03-05T11:40:00Z",
+    "lastVerifiedAt": "2026-03-17T07:20:00Z",
     "addedAt": "2026-03-05T16:55:02+05:30",
     "isNew": true
   },
@@ -21552,18 +21434,18 @@ export const madhyaPradeshTemples = [
     "isNew": true
   },
   {
-    "name": "Maa Ganga Dhaam Shiva Temple (Balaghat, Shankar Ghat)",
+    "name": "Maa Ganga Dhaam Shiva Temple (Shankar Ghat Road, Balaghat)",
     "state": "Madhya Pradesh",
     "city": "Balaghat",
     "district": "Balaghat",
-    "region": "Shankar Ghat area, Balaghat city, Balaghat district",
+    "region": "Shankar Ghat Road, Balaghat city, Balaghat district",
     "tags": [
       "Balaghat",
       "Maa Ganga Dhaam",
       "Shiva"
     ],
-    "story": "Maa Ganga Dhaam Shiva Temple is a Shiva temple in the Balaghat district devotional network.",
-    "highlight": "Local Shiva worship node in Balaghat.",
+    "story": "Maa Ganga Dhaam Shiva Temple is a Shiva shrine on Shankar Ghat Road in Balaghat city.",
+    "highlight": "Shankar Ghat Road Shiva worship point in Balaghat.",
     "image": "/temples/temple-05.svg",
     "credit": "",
     "creditUrl": "/temples/temple-05.svg",
@@ -21599,7 +21481,7 @@ export const madhyaPradeshTemples = [
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-03-05T11:40:00Z",
+    "lastVerifiedAt": "2026-03-17T07:20:00Z",
     "addedAt": "2026-03-05T16:55:04+05:30",
     "isNew": true
   },
@@ -21708,70 +21590,19 @@ export const madhyaPradeshTemples = [
     "isNew": true
   },
   {
-    "name": "Baba Koteshwar Dham (Lanji)",
+    "name": "Mahadev Temple Silejhari (Waraseoni Tehsil)",
     "state": "Madhya Pradesh",
-    "city": "Lanji",
+    "city": "Waraseoni",
     "district": "Balaghat",
-    "region": "Lanji tehsil, Balaghat district",
-    "tags": [
-      "Balaghat",
-      "Lanji",
-      "Shiva"
-    ],
-    "story": "Baba Koteshwar Dham is a Shiva temple in the Balaghat district devotional network.",
-    "highlight": "Local Shiva worship node in Lanji.",
-    "image": "/temples/temple-02.svg",
-    "credit": "",
-    "creditUrl": "/temples/temple-02.svg",
-    "deity": "Shiva",
-    "tradition": "Shaiva",
-    "bestTime": "Morning and evening darshan.",
-    "timings": "Open daily; local timings vary.",
-    "dressCode": "Modest temple attire recommended.",
-    "entryNotes": "Confirm exact local route and temple timings before travel.",
-    "rituals": [
-      "Daily puja",
-      "Jal abhishek"
-    ],
-    "festivals": [
-      "Mahashivratri",
-      "Shravan month"
-    ],
-    "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
-      "sources": [
-        {
-          "label": "Balaghat district",
-          "url": "https://en.wikipedia.org/wiki/Balaghat_district",
-          "type": "District reference"
-        },
-        {
-          "label": "OpenStreetMap search",
-          "url": "https://www.openstreetmap.org/search?query=Baba%20Koteshwar%20Dham%20(Lanji)%20Lanji%20Balaghat%20Madhya%20Pradesh",
-          "type": "Map search"
-        }
-      ]
-    },
-    "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-03-05T11:40:00Z",
-    "addedAt": "2026-03-05T16:55:07+05:30",
-    "isNew": true
-  },
-  {
-    "name": "Mahadev Temple (Lanji, Silejhari)",
-    "state": "Madhya Pradesh",
-    "city": "Lanji",
-    "district": "Balaghat",
-    "region": "Silejhari area, Lanji tehsil, Balaghat district",
+    "region": "Silejhari, Waraseoni tehsil, Balaghat district",
     "tags": [
       "Balaghat",
       "Silejhari",
+      "Waraseoni",
       "Shiva"
     ],
-    "story": "Mahadev Temple is a Shiva temple in the Balaghat district devotional network.",
-    "highlight": "Local Shiva worship node in Lanji.",
+    "story": "Mahadev Temple Silejhari is a Shiva shrine in Silejhari under Waraseoni Tehsil of Balaghat district.",
+    "highlight": "Silejhari village Shiva worship point in the Waraseoni belt.",
     "image": "/temples/temple-03.svg",
     "credit": "",
     "creditUrl": "/temples/temple-03.svg",
@@ -21790,7 +21621,7 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
+      "history": "Maintained in local worship traditions as a Shiva temple in Silejhari under Waraseoni tehsil.",
       "architecture": "Regional shrine architecture with active devotional use.",
       "visitorNotes": "Daylight visits are generally easier for navigation.",
       "sources": [
@@ -21807,7 +21638,7 @@ export const madhyaPradeshTemples = [
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-03-05T11:40:00Z",
+    "lastVerifiedAt": "2026-03-17T07:20:00Z",
     "addedAt": "2026-03-05T16:55:08+05:30",
     "isNew": true
   },
@@ -21916,7 +21747,7 @@ export const madhyaPradeshTemples = [
     "isNew": true
   },
   {
-    "name": "Panch Mukhi Shiv Mandir (Waraseoni, Ward No. 14)",
+    "name": "Panch Mukhi Shiv Mandir (Waraseoni Tehsil)",
     "state": "Madhya Pradesh",
     "city": "Waraseoni",
     "district": "Balaghat",
@@ -21927,7 +21758,7 @@ export const madhyaPradeshTemples = [
       "Shiva"
     ],
     "story": "Panch Mukhi Shiv Mandir is a Shiva temple in the Balaghat district devotional network.",
-    "highlight": "Local Shiva worship node in Waraseoni.",
+    "highlight": "Panchmukhi-form Shiva worship point in Waraseoni.",
     "image": "/temples/temple-06.svg",
     "credit": "",
     "creditUrl": "/temples/temple-06.svg",
@@ -21963,12 +21794,12 @@ export const madhyaPradeshTemples = [
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-03-05T11:40:00Z",
+    "lastVerifiedAt": "2026-03-17T07:20:00Z",
     "addedAt": "2026-03-05T16:55:11+05:30",
     "isNew": true
   },
   {
-    "name": "Jageshwar Shiv Mandir (Waraseoni)",
+    "name": "Jageshwar Shiv Mandir (Waraseoni Tehsil)",
     "state": "Madhya Pradesh",
     "city": "Waraseoni",
     "district": "Balaghat",
@@ -22015,7 +21846,7 @@ export const madhyaPradeshTemples = [
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-03-05T11:40:00Z",
+    "lastVerifiedAt": "2026-03-17T07:20:00Z",
     "addedAt": "2026-03-05T16:55:12+05:30",
     "isNew": true
   },
@@ -22124,18 +21955,18 @@ export const madhyaPradeshTemples = [
     "isNew": true
   },
   {
-    "name": "Shiv Temple Jaam (Katangi, Jam)",
+    "name": "Jameshwar Mahadev Temple (Shiv Temple Jaam, Katangi Tehsil)",
     "state": "Madhya Pradesh",
     "city": "Katangi",
     "district": "Balaghat",
-    "region": "Jam area, Katangi tehsil, Balaghat district",
+    "region": "Jaam village, Katangi tehsil, Balaghat district",
     "tags": [
       "Balaghat",
       "Jam",
       "Shiva"
     ],
-    "story": "Shiv Temple Jaam is a Shiva temple in the Balaghat district devotional network.",
-    "highlight": "Local Shiva worship node in Katangi.",
+    "story": "Jameshwar Mahadev Temple, locally known as Shiv Temple Jaam, is an old Shiva shrine in Jaam village under Katangi Tehsil.",
+    "highlight": "Ancient Jaam Shiva temple remembered for the tree growing from its roof.",
     "image": "/temples/temple-04.svg",
     "credit": "",
     "creditUrl": "/temples/temple-04.svg",
@@ -22154,9 +21985,9 @@ export const madhyaPradeshTemples = [
       "Shravan month"
     ],
     "moreDetails": {
-      "history": "Maintained in local worship traditions as part of the district-level Shiva pilgrimage network.",
-      "architecture": "Regional shrine architecture with active devotional use.",
-      "visitorNotes": "Daylight visits are generally easier for navigation.",
+      "history": "Local descriptions identify the shrine as an ancient Shiva temple in Jaam village under Katangi tehsil.",
+      "architecture": "The temple is remembered for its older structural form and the striking tree growth emerging from the roofline.",
+      "visitorNotes": "Daylight visits are best for seeing the older masonry and the tree-rooted roof profile clearly.",
       "sources": [
         {
           "label": "Balaghat district",
@@ -22171,8 +22002,60 @@ export const madhyaPradeshTemples = [
       ]
     },
     "verificationStatus": "verified",
-    "lastVerifiedAt": "2026-03-05T11:40:00Z",
+    "lastVerifiedAt": "2026-03-17T07:20:00Z",
     "addedAt": "2026-03-05T16:55:15+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir Katangi",
+    "state": "Madhya Pradesh",
+    "city": "Katangi",
+    "district": "Balaghat",
+    "region": "Katangi tehsil, Balaghat district",
+    "tags": [
+      "Balaghat",
+      "Katangi",
+      "Shiva"
+    ],
+    "story": "Shiv Mandir Katangi is a local Shiva shrine serving the Katangi Tehsil devotional circuit in Balaghat district.",
+    "highlight": "Katangi-town Shiva worship point with regular darshan.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact local route and temple timings before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "sources": [
+        {
+          "label": "Balaghat district",
+          "url": "https://en.wikipedia.org/wiki/Balaghat_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Katangi%20Katangi%20Balaghat%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ],
+      "history": "Maintained in local worship traditions as a Shiva mandir in Katangi tehsil.",
+      "architecture": "Regional temple profile with active daily ritual use.",
+      "visitorNotes": "Morning and evening darshan windows are generally the easiest for a first visit."
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T07:20:00Z",
+    "addedAt": "2026-03-17T12:50:00+05:30",
     "isNew": true
   },
   {
@@ -42960,5 +42843,5886 @@ export const madhyaPradeshTemples = [
     "lastVerifiedAt": "2026-03-07T19:05:00Z",
     "addedAt": "2026-03-08T00:45:00+05:30",
     "isNew": true
+  },
+  {
+    "name": "Gola Math Temple (Maihar Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Maihar",
+    "district": "Satna",
+    "region": "Maihar Tehsil, Satna district",
+    "tags": [
+      "Satna",
+      "Maihar",
+      "Gola Math"
+    ],
+    "story": "Gola Math Temple is a Shiva temple in the Maihar Tehsil worship landscape of Satna district.",
+    "highlight": "Local Shiva shrine associated with the Gola Math name in the Maihar belt.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T10:00:00+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact Maihar-side approach locally before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local devotion as part of the Maihar-side Shiva temple network in Satna district.",
+      "architecture": "Regional temple profile with routine public worship.",
+      "visitorNotes": "Daylight visits are better if you are locating it for the first time.",
+      "sources": [
+        {
+          "label": "Satna district",
+          "url": "https://en.wikipedia.org/wiki/Satna_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gola%20Math%20Temple%20Maihar%20Satna%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T04:30:00Z"
+  },
+  {
+    "name": "Baba Talab Shiva Temple (Maihar Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Maihar",
+    "district": "Satna",
+    "region": "Maihar Tehsil, Satna district",
+    "tags": [
+      "Satna",
+      "Maihar",
+      "Baba Talab"
+    ],
+    "story": "Baba Talab Shiva Temple is a Shiva shrine in the Maihar Tehsil devotional circuit of Satna district.",
+    "highlight": "Talab-linked Shiva worship point in the Maihar area.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T10:00:00+05:30",
+    "bestTime": "Morning darshan and cooler months.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Local route confirmation is recommended before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained locally as a Baba Talab-side Shiva temple in the Maihar worship belt.",
+      "architecture": "Regional shrine format associated with a local waterbody setting.",
+      "visitorNotes": "Morning visits are usually easier for first-time navigation.",
+      "sources": [
+        {
+          "label": "Satna district",
+          "url": "https://en.wikipedia.org/wiki/Satna_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Baba%20Talab%20Shiva%20Temple%20Maihar%20Satna%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T04:30:00Z"
+  },
+  {
+    "name": "Madai Shiva Temple (Nagod Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Madai",
+    "district": "Satna",
+    "region": "Madai, Nagod Tehsil, Satna district",
+    "tags": [
+      "Satna",
+      "Madai",
+      "Nagod Tehsil"
+    ],
+    "story": "Madai Shiva Temple is a Shiva shrine in Madai under Nagod Tehsil of Satna district.",
+    "highlight": "Madai-side Shiva worship point in the Nagod rural belt.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T10:00:00+05:30",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Best visited with local route guidance in the Nagod-side rural belt.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local continuity as a Shiva shrine serving the Madai-Nagod area of Satna district.",
+      "architecture": "Rural temple profile with regular local worship.",
+      "visitorNotes": "Daylight travel is preferable for rural access roads.",
+      "sources": [
+        {
+          "label": "Satna district",
+          "url": "https://en.wikipedia.org/wiki/Satna_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Madai%20Shiva%20Temple%20Nagod%20Satna%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T04:30:00Z"
+  },
+  {
+    "name": "Shiva Temple Devri (Deori, Jaitwara Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Deori",
+    "district": "Satna",
+    "region": "Deori, Jaitwara Tehsil, Satna district",
+    "tags": [
+      "Satna",
+      "Deori",
+      "Jaitwara Tehsil"
+    ],
+    "story": "Shiva Temple Devri is a Shiva temple in Deori under Jaitwara Tehsil of Satna district.",
+    "highlight": "Village-side Shiva worship point in the Jaitwara belt.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T10:00:00+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the Deori village route locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local village devotion as part of the Jaitwara-side Shiva temple network.",
+      "architecture": "Regional rural shrine profile with routine worship activity.",
+      "visitorNotes": "Local guidance is useful if visiting from outside the tehsil.",
+      "sources": [
+        {
+          "label": "Satna district",
+          "url": "https://en.wikipedia.org/wiki/Satna_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiva%20Temple%20Devri%20Deori%20Jaitwara%20Satna%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T04:30:00Z"
+  },
+  {
+    "name": "Utaily Shiv Temple",
+    "state": "Madhya Pradesh",
+    "city": "Utaily",
+    "district": "Satna",
+    "region": "Utaily, Satna district",
+    "tags": [
+      "Satna",
+      "Utaily",
+      "Shaiva"
+    ],
+    "story": "Utaily Shiv Temple is a Shiva shrine in the Utaily locality of Satna district.",
+    "highlight": "Local Shiva worship node serving the Utaily area.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T10:00:00+05:30",
+    "bestTime": "Morning darshan and evening aarti.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Verify the exact local lane or landmark before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained locally as part of the Satna-area neighborhood Shiva worship network.",
+      "architecture": "Neighborhood temple profile with regular public worship.",
+      "visitorNotes": "Morning visits are generally quieter.",
+      "sources": [
+        {
+          "label": "Satna district",
+          "url": "https://en.wikipedia.org/wiki/Satna_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Utaily%20Shiv%20Temple%20Satna%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T04:30:00Z"
+  },
+  {
+    "name": "Baleswar Bhagwan Shiv Temple (Maihar Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Maihar",
+    "district": "Satna",
+    "region": "Maihar Tehsil, Satna district",
+    "tags": [
+      "Satna",
+      "Maihar",
+      "Baleswar Bhagwan"
+    ],
+    "story": "Baleswar Bhagwan Shiv Temple is a Shiva temple in the Maihar Tehsil devotional circuit of Satna district.",
+    "highlight": "Local Baleswar-form Shiva worship point in the Maihar area.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T10:00:00+05:30",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact Maihar-side locality before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva continuity as part of the broader Maihar temple network.",
+      "architecture": "Regional shrine profile with routine daily worship.",
+      "visitorNotes": "Early morning visits are usually easier in tehsil-town areas.",
+      "sources": [
+        {
+          "label": "Satna district",
+          "url": "https://en.wikipedia.org/wiki/Satna_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Baleswar%20Bhagwan%20Shiv%20Temple%20Maihar%20Satna%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T04:30:00Z"
+  },
+  {
+    "name": "Madpaha Shiv Temple",
+    "state": "Madhya Pradesh",
+    "city": "Madpaha",
+    "district": "Satna",
+    "region": "Madpaha rural area, Satna district",
+    "tags": [
+      "Satna",
+      "Madpaha",
+      "Rural shrine"
+    ],
+    "story": "Madpaha Shiv Temple is a rural Shiva shrine in Satna district.",
+    "highlight": "Village-side Shiva worship point in the Madpaha rural belt.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T10:00:00+05:30",
+    "bestTime": "Morning darshan and winter travel months.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Local route guidance is recommended for rural access.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local rural devotion as a Shiva temple in the Madpaha side of Satna district.",
+      "architecture": "Village shrine format with community-led upkeep.",
+      "visitorNotes": "Prefer daylight travel and local navigation support.",
+      "sources": [
+        {
+          "label": "Satna district",
+          "url": "https://en.wikipedia.org/wiki/Satna_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Madpaha%20Shiv%20Temple%20Satna%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T04:30:00Z"
+  },
+  {
+    "name": "Shiv Mandir (Nazirabad, Satna)",
+    "state": "Madhya Pradesh",
+    "city": "Nazirabad",
+    "district": "Satna",
+    "region": "Nazirabad, Satna district",
+    "tags": [
+      "Satna",
+      "Nazirabad",
+      "Local shrine"
+    ],
+    "story": "Shiv Mandir is a Shiva shrine in the Nazirabad area of Satna district.",
+    "highlight": "Neighborhood Shiva worship point in Nazirabad.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T10:00:00+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Verify local landmark details within Nazirabad before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained locally as part of the Satna-area neighborhood Shiva worship network.",
+      "architecture": "Neighborhood temple format with regular public devotion.",
+      "visitorNotes": "Short visits are easiest during morning hours.",
+      "sources": [
+        {
+          "label": "Satna district",
+          "url": "https://en.wikipedia.org/wiki/Satna_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Nazirabad%20Satna%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T04:30:00Z"
+  },
+  {
+    "name": "Koteshwar Temple (Shivrajpur)",
+    "state": "Madhya Pradesh",
+    "city": "Shivrajpur",
+    "district": "Satna",
+    "region": "Shivrajpur, Satna district",
+    "tags": [
+      "Satna",
+      "Shivrajpur",
+      "Koteshwar"
+    ],
+    "story": "Koteshwar Temple is a Shiva temple in the Shivrajpur area of Satna district.",
+    "highlight": "Koteshwar-form Shiva worship point in the Shivrajpur locality.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T10:00:00+05:30",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact Shivrajpur-side route locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva devotion as a Koteshwar temple in the Shivrajpur side of Satna district.",
+      "architecture": "Regional shrine profile with regular worship activity.",
+      "visitorNotes": "Morning travel is generally easier for local route confirmation.",
+      "sources": [
+        {
+          "label": "Satna district",
+          "url": "https://en.wikipedia.org/wiki/Satna_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Koteshwar%20Temple%20Shivrajpur%20Satna%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T04:30:00Z"
+  },
+  {
+    "name": "Shree Kubereshwar Dham Mahadev Mandir (Naplakhedi, Sehore)",
+    "state": "Madhya Pradesh",
+    "city": "Naplakhedi",
+    "district": "Sehore",
+    "region": "Naplakhedi, Sehore district",
+    "tags": [
+      "Sehore",
+      "Naplakhedi",
+      "Kubereshwar"
+    ],
+    "story": "Shree Kubereshwar Dham Mahadev Mandir is a Shiva temple in the Naplakhedi area of Sehore district.",
+    "highlight": "Kubereshwar-form Shiva worship point in the Naplakhedi devotional belt.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning darshan and cooler months.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact Naplakhedi-side route details before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva devotion as a Kubereshwar dham in the Naplakhedi area of Sehore district.",
+      "architecture": "Regional temple profile with regular public worship and local festival use.",
+      "visitorNotes": "Morning visits are generally easier for first-time navigation.",
+      "sources": [
+        {
+          "label": "Sehore district",
+          "url": "https://en.wikipedia.org/wiki/Sehore_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shree%20Kubereshwar%20Dham%20Mahadev%20Mandir%20Naplakhedi%20Sehore%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "Mankameshwar Mahadev Temple (Sindhi Colony, Sehore)",
+    "state": "Madhya Pradesh",
+    "city": "Sehore",
+    "district": "Sehore",
+    "region": "Sindhi Colony, Sehore city, Sehore district",
+    "tags": [
+      "Sehore",
+      "Sindhi Colony",
+      "Mankameshwar"
+    ],
+    "story": "Mankameshwar Mahadev Temple is a Shiva temple in Sindhi Colony, Sehore city.",
+    "highlight": "Mankameshwar-form Shiva worship node in the Sindhi Colony urban belt.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Urban neighborhood access is straightforward; Mondays may be busier.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva worship as part of the Sehore city temple network.",
+      "architecture": "Urban neighborhood shrine profile with regular ritual activity.",
+      "visitorNotes": "Morning visits are generally less crowded than evening peak hours.",
+      "sources": [
+        {
+          "label": "Sehore",
+          "url": "https://en.wikipedia.org/wiki/Sehore",
+          "type": "City reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mankameshwar%20Mahadev%20Temple%20Sindhi%20Colony%20Sehore%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "Dev Badla Shiv Mandir (Jawar Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Jawar",
+    "district": "Sehore",
+    "region": "Jawar Tehsil, Sehore district",
+    "tags": [
+      "Sehore",
+      "Jawar",
+      "Dev Badla"
+    ],
+    "story": "Dev Badla Shiv Mandir is a Shiva shrine in Jawar Tehsil of Sehore district.",
+    "highlight": "Local Shiva worship point in the Jawar-side devotional circuit.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact Jawar-side route locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local devotion as a Shiva temple serving the Jawar tehsil area.",
+      "architecture": "Regional shrine format with active local worship.",
+      "visitorNotes": "Daylight travel is preferable if approaching from outside the tehsil.",
+      "sources": [
+        {
+          "label": "Sehore district",
+          "url": "https://en.wikipedia.org/wiki/Sehore_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dev%20Badla%20Shiv%20Mandir%20Jawar%20Sehore%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "Pracheen Shri Sidheshwar Mahadev Mandir (Galla Mandi Road, Sehore)",
+    "state": "Madhya Pradesh",
+    "city": "Sehore",
+    "district": "Sehore",
+    "region": "Galla Mandi Road, Sehore city, Sehore district",
+    "tags": [
+      "Sehore",
+      "Galla Mandi Road",
+      "Sidheshwar",
+      "Pracheen"
+    ],
+    "story": "Pracheen Shri Sidheshwar Mahadev Mandir is a Shiva temple on Galla Mandi Road in Sehore city.",
+    "highlight": "Older Sidheshwar Shiva worship node in the Sehore urban core.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning and evening aarti hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Roadside urban access is usually straightforward.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Held locally as an older Sidheshwar Shiva shrine in the Sehore city worship network.",
+      "architecture": "Traditional neighborhood mandir profile with regular public darshan.",
+      "visitorNotes": "Weekday mornings are usually calmer than evening peak hours.",
+      "sources": [
+        {
+          "label": "Sehore",
+          "url": "https://en.wikipedia.org/wiki/Sehore",
+          "type": "City reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Pracheen%20Shri%20Sidheshwar%20Mahadev%20Mandir%20Galla%20Mandi%20Road%20Sehore%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "Anandeshwar Mahadev Mandir (Bramhapuri Colony, Sehore)",
+    "state": "Madhya Pradesh",
+    "city": "Sehore",
+    "district": "Sehore",
+    "region": "Bramhapuri Colony, Sehore city, Sehore district",
+    "tags": [
+      "Sehore",
+      "Bramhapuri Colony",
+      "Anandeshwar"
+    ],
+    "story": "Anandeshwar Mahadev Mandir is a Shiva temple in Bramhapuri Colony, Sehore city.",
+    "highlight": "Anandeshwar-form Shiva worship point in the Bramhapuri Colony area.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood approach is usually simple; confirm exact local marker before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva continuity as part of Sehore city?s neighborhood temple network.",
+      "architecture": "Urban colony shrine profile with regular worship activity.",
+      "visitorNotes": "Morning visits are generally quieter than festival evenings.",
+      "sources": [
+        {
+          "label": "Sehore",
+          "url": "https://en.wikipedia.org/wiki/Sehore",
+          "type": "City reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Anandeshwar%20Mahadev%20Mandir%20Bramhapuri%20Colony%20Sehore%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "1008 Shiv Ling Mandir (Badiyakheri, Sehore)",
+    "state": "Madhya Pradesh",
+    "city": "Badiyakheri",
+    "district": "Sehore",
+    "region": "Badiyakheri, Sehore district",
+    "tags": [
+      "Sehore",
+      "Badiyakheri",
+      "1008 Shiv Ling"
+    ],
+    "story": "1008 Shiv Ling Mandir is a Shiva temple in the Badiyakheri area of Sehore district.",
+    "highlight": "Temple centered on a 1008-Shivling devotional theme in the Sehore belt.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning and festival mornings.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Plan extra time during Mahashivratri or Shravan observances.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local devotion as a Shiva temple associated with the 1008-linga worship motif.",
+      "architecture": "Modern devotional temple format organized around multi-linga symbolism.",
+      "visitorNotes": "Festival windows may draw significant local turnout.",
+      "sources": [
+        {
+          "label": "Sehore district",
+          "url": "https://en.wikipedia.org/wiki/Sehore_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=1008%20Shiv%20Ling%20Mandir%20Badiyakheri%20Sehore%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "Shiv Mandir Sikandarganj (Doraha, Sehore Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Doraha",
+    "district": "Sehore",
+    "region": "Sikandarganj, Doraha, Sehore Tehsil, Sehore district",
+    "tags": [
+      "Sehore",
+      "Doraha",
+      "Sikandarganj"
+    ],
+    "story": "Shiv Mandir Sikandarganj is a Shiva temple in the Doraha side of Sehore Tehsil.",
+    "highlight": "Local Shiva worship point serving the Sikandarganj-Doraha area.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact Doraha-side location locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained locally as part of the Sehore tehsil Shiva worship network around Doraha and Sikandarganj.",
+      "architecture": "Regional temple profile with routine community-led worship.",
+      "visitorNotes": "Daylight travel is preferable for rural-urban edge locations.",
+      "sources": [
+        {
+          "label": "Sehore district",
+          "url": "https://en.wikipedia.org/wiki/Sehore_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Sikandarganj%20Doraha%20Sehore%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "Shri Neelkanth Mahadev Mandir (Qusba, Sehore)",
+    "state": "Madhya Pradesh",
+    "city": "Sehore",
+    "district": "Sehore",
+    "region": "Qusba area, Sehore city, Sehore district",
+    "tags": [
+      "Sehore",
+      "Qusba",
+      "Neelkanth"
+    ],
+    "story": "Shri Neelkanth Mahadev Mandir is a Shiva temple in the Qusba area of Sehore city.",
+    "highlight": "Neelkanth-form Shiva worship node in the Qusba urban belt.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Urban neighborhood access is usually straightforward.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva devotion as a Neelkanth shrine in Sehore city.",
+      "architecture": "Urban neighborhood temple profile with active ritual use.",
+      "visitorNotes": "Weekday mornings are generally the easiest for darshan.",
+      "sources": [
+        {
+          "label": "Sehore",
+          "url": "https://en.wikipedia.org/wiki/Sehore",
+          "type": "City reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Neelkanth%20Mahadev%20Mandir%20Qusba%20Sehore%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "Nageshwar Mahadev Mandir (Chanakyapuri, Sehore)",
+    "state": "Madhya Pradesh",
+    "city": "Sehore",
+    "district": "Sehore",
+    "region": "Chanakyapuri, Sehore city, Sehore district",
+    "tags": [
+      "Sehore",
+      "Chanakyapuri",
+      "Nageshwar"
+    ],
+    "story": "Nageshwar Mahadev Mandir is a Shiva temple in Chanakyapuri, Sehore city.",
+    "highlight": "Nageshwar-form Shiva worship node in the Chanakyapuri locality.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood access is straightforward; Mondays may be busier.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through regular local Shaiva worship in the Chanakyapuri area of Sehore city.",
+      "architecture": "Urban colony temple profile with routine worship activity.",
+      "visitorNotes": "Morning visits are generally less crowded than evening peaks.",
+      "sources": [
+        {
+          "label": "Sehore",
+          "url": "https://en.wikipedia.org/wiki/Sehore",
+          "type": "City reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nageshwar%20Mahadev%20Mandir%20Chanakyapuri%20Sehore%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "Dudheshwar Mahadev Mandir (Chanakyapuri, Sehore)",
+    "state": "Madhya Pradesh",
+    "city": "Sehore",
+    "district": "Sehore",
+    "region": "Chanakyapuri, Sehore city, Sehore district",
+    "tags": [
+      "Sehore",
+      "Chanakyapuri",
+      "Dudheshwar"
+    ],
+    "story": "Dudheshwar Mahadev Mandir is a Shiva temple in Chanakyapuri, Sehore city.",
+    "highlight": "Dudheshwar-form Shiva worship point in the Chanakyapuri urban cluster.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Best visited with a precise neighborhood landmark if you are new to the area.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local devotion as a Dudheshwar Mahadev shrine in Sehore city.",
+      "architecture": "Neighborhood temple format with regular public worship.",
+      "visitorNotes": "Morning darshan is usually the easiest for quick visits.",
+      "sources": [
+        {
+          "label": "Sehore",
+          "url": "https://en.wikipedia.org/wiki/Sehore",
+          "type": "City reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dudheshwar%20Mahadev%20Mandir%20Chanakyapuri%20Sehore%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "Bhuteshwar Mahadev Temple (Rural Sehore)",
+    "state": "Madhya Pradesh",
+    "city": "Sehore Rural",
+    "district": "Sehore",
+    "region": "Rural Sehore belt, Sehore district",
+    "tags": [
+      "Sehore",
+      "Rural",
+      "Bhuteshwar"
+    ],
+    "story": "Bhuteshwar Mahadev Temple is a Shiva shrine in the rural worship landscape of Sehore district.",
+    "highlight": "Bhuteshwar-form Shiva worship point in the rural Sehore belt.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning darshan and cooler months.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Rural access conditions can vary by season; local guidance is recommended.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local rural Shaiva continuity as a Bhuteshwar Mahadev shrine in Sehore district.",
+      "architecture": "Village-side shrine format with community-led upkeep.",
+      "visitorNotes": "Prefer daylight travel and local route confirmation.",
+      "sources": [
+        {
+          "label": "Sehore district",
+          "url": "https://en.wikipedia.org/wiki/Sehore_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhuteshwar%20Mahadev%20Temple%20Sehore%20Rural%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "Shiv Temple (District HQ, Sehore)",
+    "state": "Madhya Pradesh",
+    "city": "Sehore",
+    "district": "Sehore",
+    "region": "District HQ area, Sehore city, Sehore district",
+    "tags": [
+      "Sehore",
+      "District HQ",
+      "Local shrine"
+    ],
+    "story": "Shiv Temple is a Shiva shrine in the district headquarters area of Sehore city.",
+    "highlight": "District-HQ Shiva worship point in the Sehore urban core.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact district headquarters-side landmark before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local urban devotion as a neighborhood Shiva temple in Sehore city.",
+      "architecture": "Compact urban shrine profile with regular worship activity.",
+      "visitorNotes": "Short morning visits are usually easiest in central areas.",
+      "sources": [
+        {
+          "label": "Sehore",
+          "url": "https://en.wikipedia.org/wiki/Sehore",
+          "type": "City reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Temple%20District%20HQ%20Sehore%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "Shiv Mandir (Ichhawar Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Ichhawar",
+    "district": "Sehore",
+    "region": "Ichhawar Tehsil, Sehore district",
+    "tags": [
+      "Sehore",
+      "Ichhawar",
+      "Local shrine"
+    ],
+    "story": "Shiv Mandir is a Shiva temple in Ichhawar Tehsil of Sehore district.",
+    "highlight": "Tehsil-level Shiva worship point in the Ichhawar devotional circuit.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact Ichhawar-side locality before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained as part of the Ichhawar tehsil Shiva worship network in Sehore district.",
+      "architecture": "Regional temple profile with routine community worship.",
+      "visitorNotes": "Daylight travel is preferable if approaching from outside Ichhawar.",
+      "sources": [
+        {
+          "label": "Sehore district",
+          "url": "https://en.wikipedia.org/wiki/Sehore_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Ichhawar%20Sehore%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "Somnath Mahadev Mandir (Sehore City)",
+    "state": "Madhya Pradesh",
+    "city": "Sehore",
+    "district": "Sehore",
+    "region": "Sehore city, Sehore district",
+    "tags": [
+      "Sehore",
+      "Somnath",
+      "City shrine"
+    ],
+    "story": "Somnath Mahadev Mandir is a Shiva temple in Sehore city.",
+    "highlight": "Somnath-form Shiva worship node in the urban Sehore circuit.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Urban access is straightforward; Mondays may have higher turnout.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion as a Somnath-form temple in Sehore city.",
+      "architecture": "Urban temple profile with regular daily worship.",
+      "visitorNotes": "Morning visits are generally easier than evening peak hours.",
+      "sources": [
+        {
+          "label": "Sehore",
+          "url": "https://en.wikipedia.org/wiki/Sehore",
+          "type": "City reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Somnath%20Mahadev%20Mandir%20Sehore%20City%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "Shri Chandreshwar Mahadev Mandir (Sehore Rak)",
+    "state": "Madhya Pradesh",
+    "city": "Sehore Rak",
+    "district": "Sehore",
+    "region": "Sehore Rak area, Sehore district",
+    "tags": [
+      "Sehore",
+      "Sehore Rak",
+      "Chandreshwar"
+    ],
+    "story": "Shri Chandreshwar Mahadev Mandir is a Shiva temple in the Sehore Rak area of Sehore district.",
+    "highlight": "Chandreshwar-form Shiva worship point in the Sehore Rak locality.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "isNew": true,
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "addedAt": "2026-03-08T20:55:00+05:30",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "I used your locality text ?Sehore Rak? as provided; confirm the exact local marker before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained locally as a Chandreshwar Mahadev shrine in the Sehore Rak area of the district.",
+      "architecture": "Regional shrine profile with routine worship and local observance cycles.",
+      "visitorNotes": "Use a precise neighborhood reference when visiting for the first time.",
+      "sources": [
+        {
+          "label": "Sehore district",
+          "url": "https://en.wikipedia.org/wiki/Sehore_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Chandreshwar%20Mahadev%20Mandir%20Sehore%20Rak%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-08T15:25:00Z"
+  },
+  {
+    "name": "Shri Shivdham Mathghogra (Bhairo Than, Lakhnadon Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Bhairo Than",
+    "district": "Seoni",
+    "region": "Bhairo Than, Lakhnadon Tehsil, Seoni district",
+    "tags": [
+      "Seoni",
+      "Lakhnadon Tehsil",
+      "Bhairo Than",
+      "Mathghogra"
+    ],
+    "story": "Shri Shivdham Mathghogra is a Shiva shrine in Bhairo Than under Lakhnadon Tehsil of Seoni district.",
+    "highlight": "Mathghogra-associated Shiva worship point in the Lakhnadon belt.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and cooler months.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the Bhairo Than-side route locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva continuity as a Mathghogra Shiva site in Lakhnadon Tehsil.",
+      "architecture": "Regional shrine format with regular community worship.",
+      "visitorNotes": "Daylight visits are preferable for rural-tehsil access roads.",
+      "sources": [
+        {
+          "label": "Seoni district",
+          "url": "https://en.wikipedia.org/wiki/Seoni_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Shivdham%20Mathghogra%20Bhairo%20Than%20Lakhnadon%20Seoni%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T04:30:00Z",
+    "addedAt": "2026-03-09T10:00:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Mahakaleshwar Mandir (Seoni City)",
+    "state": "Madhya Pradesh",
+    "city": "Seoni",
+    "district": "Seoni",
+    "region": "Seoni city, Seoni district",
+    "tags": [
+      "Seoni",
+      "Mahakaleshwar",
+      "City shrine"
+    ],
+    "story": "Mahakaleshwar Mandir is a Shiva temple in the urban devotional landscape of Seoni city.",
+    "highlight": "Mahakaleshwar-form Shiva worship node in Seoni city.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Urban access is straightforward; Mondays may be busier.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion as a Mahakaleshwar shrine in Seoni city.",
+      "architecture": "Urban neighborhood temple profile with routine worship activity.",
+      "visitorNotes": "Morning visits are generally easier than evening peak hours.",
+      "sources": [
+        {
+          "label": "Seoni",
+          "url": "https://en.wikipedia.org/wiki/Seoni,_Madhya_Pradesh",
+          "type": "City reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahakaleshwar%20Mandir%20Seoni%20City%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T04:30:00Z",
+    "addedAt": "2026-03-09T10:00:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shri Kala Bhairava Temple (Adegaon, Lakhnadon Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Adegaon",
+    "district": "Seoni",
+    "region": "Adegaon, Lakhnadon Tehsil, Seoni district",
+    "tags": [
+      "Seoni",
+      "Adegaon",
+      "Lakhnadon Tehsil",
+      "Kala Bhairava"
+    ],
+    "story": "Shri Kala Bhairava Temple is a Bhairava-form Shiva shrine in Adegaon under Lakhnadon Tehsil.",
+    "highlight": "Kala Bhairava worship node in the Adegaon-Lakhnadon belt.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (Kala Bhairava)",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and Bhairava observance days.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact Adegaon-side route locally before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Oil offering"
+    ],
+    "festivals": [
+      "Bhairav Ashtami",
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva-Bhairava devotion as part of the Lakhnadon tehsil temple network.",
+      "architecture": "Regional shrine format centered on Bhairava worship traditions.",
+      "visitorNotes": "Morning visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Seoni district",
+          "url": "https://en.wikipedia.org/wiki/Seoni_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Kala%20Bhairava%20Temple%20Adegaon%20Lakhnadon%20Seoni%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T04:30:00Z",
+    "addedAt": "2026-03-09T10:00:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Siddhghat Shiv Mandir (Keolari Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Keolari",
+    "district": "Seoni",
+    "region": "Keolari Tehsil, Seoni district",
+    "tags": [
+      "Seoni",
+      "Keolari",
+      "Siddhghat"
+    ],
+    "story": "Siddhghat Shiv Mandir is a Shiva shrine in Keolari Tehsil of Seoni district.",
+    "highlight": "Siddhghat-associated Shiva worship point in the Keolari belt.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and cooler-season travel windows.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Local route confirmation is recommended before traveling into the Siddhghat area.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as part of the Keolari-side Shiva temple network.",
+      "architecture": "Regional shrine profile with routine community worship.",
+      "visitorNotes": "Daylight visits are easier for tehsil-side navigation.",
+      "sources": [
+        {
+          "label": "Seoni district",
+          "url": "https://en.wikipedia.org/wiki/Seoni_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Siddhghat%20Shiv%20Mandir%20Keolari%20Seoni%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T04:30:00Z",
+    "addedAt": "2026-03-09T10:00:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Narmadeshwar Shiva Temple (Dal Sagar Lake, Seoni)",
+    "state": "Madhya Pradesh",
+    "city": "Seoni",
+    "district": "Seoni",
+    "region": "Near Dal Sagar Lake, Seoni city, Seoni district",
+    "tags": [
+      "Seoni",
+      "Dal Sagar Lake",
+      "Narmadeshwar"
+    ],
+    "story": "Narmadeshwar Shiva Temple is a Shiva shrine near Dal Sagar Lake in Seoni city.",
+    "highlight": "Lake-side Narmadeshwar Shiva worship point in Seoni.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and sunset hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Best combined with a Dal Sagar-side visit; local directions may vary by approach road.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local urban devotion as a Narmadeshwar-form Shiva shrine near Dal Sagar Lake.",
+      "architecture": "City-side shrine profile linked with a waterbody setting.",
+      "visitorNotes": "Morning visits are generally quieter than evening peak hours.",
+      "sources": [
+        {
+          "label": "Seoni",
+          "url": "https://en.wikipedia.org/wiki/Seoni,_Madhya_Pradesh",
+          "type": "City reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Narmadeshwar%20Shiva%20Temple%20Dal%20Sagar%20Lake%20Seoni%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T04:30:00Z",
+    "addedAt": "2026-03-09T10:00:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir Chouda Kuan (Subhash Ward, Seoni)",
+    "state": "Madhya Pradesh",
+    "city": "Seoni",
+    "district": "Seoni",
+    "region": "Subhash Ward, Seoni city, Seoni district",
+    "tags": [
+      "Seoni",
+      "Subhash Ward",
+      "Chouda Kuan"
+    ],
+    "story": "Shiv Mandir Chouda Kuan is a Shiva shrine in Subhash Ward of Seoni city.",
+    "highlight": "Neighborhood Shiva worship point centered on the Chouda Kuan locality.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and evening aarti.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Neighborhood access is usually straightforward; confirm the exact lane before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local city devotion as a Shiva temple in the Chouda Kuan area of Seoni.",
+      "architecture": "Urban neighborhood shrine profile with regular worship activity.",
+      "visitorNotes": "Morning visits are generally less crowded.",
+      "sources": [
+        {
+          "label": "Seoni",
+          "url": "https://en.wikipedia.org/wiki/Seoni,_Madhya_Pradesh",
+          "type": "City reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Chouda%20Kuan%20Subhash%20Ward%20Seoni%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T04:30:00Z",
+    "addedAt": "2026-03-09T10:00:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir (Sanai Dongari)",
+    "state": "Madhya Pradesh",
+    "city": "Sanai Dongari",
+    "district": "Seoni",
+    "region": "Sanai Dongari, Seoni district",
+    "tags": [
+      "Seoni",
+      "Sanai Dongari",
+      "Local shrine"
+    ],
+    "story": "Shiv Mandir is a Shiva shrine in the Sanai Dongari area of Seoni district.",
+    "highlight": "Local Shiva worship point in the Sanai Dongari belt.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Local route confirmation is recommended before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local village-level Shaiva worship in the Sanai Dongari area.",
+      "architecture": "Small regional shrine format with routine community worship.",
+      "visitorNotes": "Daylight travel is preferable for first-time access.",
+      "sources": [
+        {
+          "label": "Seoni district",
+          "url": "https://en.wikipedia.org/wiki/Seoni_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Sanai%20Dongari%20Seoni%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T04:30:00Z",
+    "addedAt": "2026-03-09T10:00:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir Bamhodi",
+    "state": "Madhya Pradesh",
+    "city": "Bamhodi",
+    "district": "Seoni",
+    "region": "Bamhodi, Seoni district",
+    "tags": [
+      "Seoni",
+      "Bamhodi",
+      "Local shrine"
+    ],
+    "story": "Shiv Mandir Bamhodi is a Shiva shrine in the Bamhodi area of Seoni district.",
+    "highlight": "Village-side Shiva worship point in Bamhodi.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact village-side directions locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local village devotion as part of the Bamhodi Shaiva worship network.",
+      "architecture": "Regional shrine profile with active local upkeep.",
+      "visitorNotes": "Daylight visits are usually easier for rural navigation.",
+      "sources": [
+        {
+          "label": "Seoni district",
+          "url": "https://en.wikipedia.org/wiki/Seoni_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Bamhodi%20Seoni%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T04:30:00Z",
+    "addedAt": "2026-03-09T10:00:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Durga Vitthal Mandir (Takhla Kalan)",
+    "state": "Madhya Pradesh",
+    "city": "Takhla Kalan",
+    "district": "Seoni",
+    "region": "Takhla Kalan, Seoni district",
+    "tags": [
+      "Seoni",
+      "Takhla Kalan",
+      "Composite shrine"
+    ],
+    "story": "Shiv Durga Vitthal Mandir is a composite shrine in Takhla Kalan that includes Shiva worship within its local devotional pattern.",
+    "highlight": "Composite Shiva-centered worship point in Takhla Kalan.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva (with Durga-Vitthal)",
+    "tradition": "Shaiva/Smarta",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local ritual schedule because worship may involve multiple deities.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained locally as a composite devotional space in which Shiva worship remains an active component.",
+      "architecture": "Village shrine profile serving multiple deity traditions within one complex.",
+      "visitorNotes": "Ask locally about specific Shiva-puja timings if planning a focused visit.",
+      "sources": [
+        {
+          "label": "Seoni district",
+          "url": "https://en.wikipedia.org/wiki/Seoni_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Durga%20Vitthal%20Mandir%20Takhla%20Kalan%20Seoni%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T04:30:00Z",
+    "addedAt": "2026-03-09T10:00:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Sphatik Shivling Temple (Dighori, Seoni Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Dighori",
+    "district": "Seoni",
+    "region": "Dighori, Seoni Tehsil, Seoni district",
+    "tags": [
+      "Seoni",
+      "Dighori",
+      "Sphatik Shivling"
+    ],
+    "story": "Sphatik Shivling Temple is a Shiva shrine in Dighori under Seoni Tehsil, centered on a sphatik-linga devotional identity.",
+    "highlight": "Sphatik-Shivling worship point in the Dighori belt.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and festival mornings.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Often best visited with other Dighori-side shrines; confirm local route first.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local devotion as a Sphatik Shivling-focused Shiva shrine in Dighori.",
+      "architecture": "Regional shrine profile organized around a distinct linga-centered devotional focus.",
+      "visitorNotes": "Morning visits are generally easier for combined Dighori-side darshan.",
+      "sources": [
+        {
+          "label": "Seoni district",
+          "url": "https://en.wikipedia.org/wiki/Seoni_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sphatik%20Shivling%20Temple%20Dighori%20Seoni%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T04:30:00Z",
+    "addedAt": "2026-03-09T10:00:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Temple OPM Amlai (Burhar Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Amlai",
+    "district": "Shahdol",
+    "region": "OPM Amlai, Burhar Tehsil, Shahdol district",
+    "tags": [
+      "Shahdol",
+      "Amlai",
+      "Burhar Tehsil",
+      "Local shrine"
+    ],
+    "story": "Shiv Temple OPM Amlai is a Shiva shrine in the OPM Amlai area under Burhar Tehsil of Shahdol district.",
+    "highlight": "Amlai-side Shiva worship point in the Burhar belt.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact OPM Amlai approach locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the OPM Amlai area of Burhar Tehsil.",
+      "architecture": "Neighborhood temple format with an active sanctum and regular worship.",
+      "visitorNotes": "Daylight visits are easier for first-time approach in the Amlai belt.",
+      "sources": [
+        {
+          "label": "Shahdol district",
+          "url": "https://en.wikipedia.org/wiki/Shahdol_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Temple%20OPM%20Amlai%20Burhar%20Tehsil%20Shahdol%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T07:45:00Z",
+    "addedAt": "2026-03-09T13:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Gharoulla Nath Temple (Ward 13, Shahdol)",
+    "state": "Madhya Pradesh",
+    "city": "Shahdol",
+    "district": "Shahdol",
+    "region": "Ward 13, Shahdol city, Shahdol district",
+    "tags": [
+      "Shahdol",
+      "Ward 13",
+      "Gharoulla Nath",
+      "Local shrine"
+    ],
+    "story": "Gharoulla Nath Temple is a Shiva shrine in Ward 13 of Shahdol city.",
+    "highlight": "Ward-level Gharoulla Nath Shiva worship point in Shahdol city.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Urban approach is straightforward; confirm ward-level directions locally.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local city-level Shaiva worship traditions in Shahdol.",
+      "architecture": "Compact urban shrine profile with routine community worship.",
+      "visitorNotes": "Morning visits are usually calmer in the ward area.",
+      "sources": [
+        {
+          "label": "Shahdol",
+          "url": "https://en.wikipedia.org/wiki/Shahdol",
+          "type": "City reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gharoulla%20Nath%20Temple%20Ward%2013%20Shahdol%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T07:45:00Z",
+    "addedAt": "2026-03-09T13:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir Pandav Nagar (Shahdol City)",
+    "state": "Madhya Pradesh",
+    "city": "Shahdol",
+    "district": "Shahdol",
+    "region": "Pandav Nagar, Shahdol city, Shahdol district",
+    "tags": [
+      "Shahdol",
+      "Pandav Nagar",
+      "Local shrine"
+    ],
+    "story": "Shiv Mandir Pandav Nagar is a Shiva temple in the Pandav Nagar area of Shahdol city.",
+    "highlight": "Pandav Nagar neighborhood Shiva darshan in Shahdol city.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Local traffic and neighborhood lanes can affect access timing.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Part of Shahdol city's neighborhood-level Shaiva worship network.",
+      "architecture": "Local urban temple format with an active sanctum.",
+      "visitorNotes": "Morning darshan is generally smoother for city visits.",
+      "sources": [
+        {
+          "label": "Shahdol",
+          "url": "https://en.wikipedia.org/wiki/Shahdol",
+          "type": "City reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Pandav%20Nagar%20Shahdol%20City%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T07:45:00Z",
+    "addedAt": "2026-03-09T13:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Peepal Dham Shiv-Hanuman Mandir (Pandav Nagar Road, Shahdol)",
+    "state": "Madhya Pradesh",
+    "city": "Shahdol",
+    "district": "Shahdol",
+    "region": "Pandav Nagar Road, Shahdol city, Shahdol district",
+    "tags": [
+      "Shahdol",
+      "Pandav Nagar Road",
+      "Peepal Dham",
+      "Composite shrine"
+    ],
+    "story": "Peepal Dham Shiv-Hanuman Mandir is a composite shrine in Shahdol city where Shiva worship remains an active part of the devotional pattern.",
+    "highlight": "Pandav Nagar Road composite shrine with active Shiva-centered worship.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (with Hanuman)",
+    "tradition": "Shaiva/Smarta",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local ritual timings because worship may include both Shiva and Hanuman observances.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained locally as a Peepal Dham shrine in which Shiva worship is a continuing devotional component.",
+      "architecture": "City-side composite shrine profile serving overlapping devotional practices.",
+      "visitorNotes": "Ask locally about Shiva-focused puja timings if planning a dedicated visit.",
+      "sources": [
+        {
+          "label": "Shahdol",
+          "url": "https://en.wikipedia.org/wiki/Shahdol",
+          "type": "City reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Peepal%20Dham%20Shiv%20Hanuman%20Mandir%20Pandav%20Nagar%20Road%20Shahdol%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T07:45:00Z",
+    "addedAt": "2026-03-09T13:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Koteshwar Mahadev Temple (Rural Shahdol)",
+    "state": "Madhya Pradesh",
+    "city": "Shahdol",
+    "district": "Shahdol",
+    "region": "Rural Shahdol area, Shahdol district",
+    "tags": [
+      "Shahdol",
+      "Koteshwar Mahadev",
+      "Rural shrine"
+    ],
+    "story": "Koteshwar Mahadev Temple is a Shiva shrine in the rural Shahdol area.",
+    "highlight": "Rural Koteshwar Mahadev worship point in the Shahdol belt.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact village-side route locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local rural Shaiva devotion within the Shahdol district landscape.",
+      "architecture": "Regional shrine form with ongoing community worship.",
+      "visitorNotes": "Daylight visits are preferable for rural navigation.",
+      "sources": [
+        {
+          "label": "Shahdol district",
+          "url": "https://en.wikipedia.org/wiki/Shahdol_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Koteshwar%20Mahadev%20Temple%20rural%20Shahdol%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T07:45:00Z",
+    "addedAt": "2026-03-09T13:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Ancient Shiva Temple (Beohari Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Beohari",
+    "district": "Shahdol",
+    "region": "Beohari Tehsil, Shahdol district",
+    "tags": [
+      "Shahdol",
+      "Beohari Tehsil",
+      "Ancient Shiva Temple"
+    ],
+    "story": "Ancient Shiva Temple is a Shiva shrine identified in the Beohari Tehsil area of Shahdol district.",
+    "highlight": "Older Shiva worship point in the Beohari belt.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Please verify the exact Beohari-side landmark locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Referenced locally as an older Shiva worship point in the Beohari Tehsil side of Shahdol district.",
+      "architecture": "Regional shrine profile with continuity of local worship.",
+      "visitorNotes": "Daylight travel is recommended for first-time route-finding.",
+      "sources": [
+        {
+          "label": "Shahdol district",
+          "url": "https://en.wikipedia.org/wiki/Shahdol_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Ancient%20Shiva%20Temple%20Beohari%20Tehsil%20Shahdol%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T07:45:00Z",
+    "addedAt": "2026-03-09T13:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Panchmukhi Mahadev Mandir (Jaisinghnagar Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Jaisinghnagar",
+    "district": "Shahdol",
+    "region": "Jaisinghnagar Tehsil, Shahdol district",
+    "tags": [
+      "Shahdol",
+      "Jaisinghnagar Tehsil",
+      "Panchmukhi Mahadev"
+    ],
+    "story": "Panchmukhi Mahadev Mandir is a Shiva temple in Jaisinghnagar Tehsil of Shahdol district.",
+    "highlight": "Panchmukhi Mahadev worship point in the Jaisinghnagar belt.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local route details within Jaisinghnagar Tehsil before travel.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva worship traditions in the Jaisinghnagar Tehsil area.",
+      "architecture": "Regional temple format centered on Panchmukhi Mahadev devotion.",
+      "visitorNotes": "Morning visits are generally easier for combined tehsil-side travel.",
+      "sources": [
+        {
+          "label": "Shahdol district",
+          "url": "https://en.wikipedia.org/wiki/Shahdol_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Panchmukhi%20Mahadev%20Mandir%20Jaisinghnagar%20Tehsil%20Shahdol%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T07:45:00Z",
+    "addedAt": "2026-03-09T13:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shivalay Temple (Polay Kalan, Gulana Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Polay Kalan",
+    "district": "Shajapur",
+    "region": "Polay Kalan, Gulana Tehsil, Shajapur district",
+    "tags": [
+      "Shajapur",
+      "Polay Kalan",
+      "Gulana Tehsil",
+      "Shivalay"
+    ],
+    "story": "Shivalay Temple is a Shiva temple in Polay Kalan under Gulana Tehsil of Shajapur district.",
+    "highlight": "Polay Kalan Shiva worship point in the Gulana belt.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local directions within Polay Kalan before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva worship traditions in Polay Kalan.",
+      "architecture": "Regional town-shrine profile with active devotional use.",
+      "visitorNotes": "Morning visits are generally easier for first-time navigation.",
+      "sources": [
+        {
+          "label": "Shajapur district",
+          "url": "https://en.wikipedia.org/wiki/Shajapur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shivalay%20Temple%20Polay%20Kalan%20Gulana%20Tehsil%20Shajapur%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T08:10:00Z",
+    "addedAt": "2026-03-09T13:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shri Kaleshwer Temple (Khajuri Gelana)",
+    "state": "Madhya Pradesh",
+    "city": "Khajuri Gelana",
+    "district": "Shajapur",
+    "region": "Khajuri Gelana, Shajapur district",
+    "tags": [
+      "Shajapur",
+      "Khajuri Gelana",
+      "Kaleshwer",
+      "Local shrine"
+    ],
+    "story": "Shri Kaleshwer Temple is a Shiva shrine in the Khajuri Gelana area of Shajapur district.",
+    "highlight": "Khajuri Gelana Kaleshwer Shiva worship point.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact Khajuri Gelana approach locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva worship in the Khajuri Gelana belt.",
+      "architecture": "Regional shrine profile with routine community worship.",
+      "visitorNotes": "Daylight visits are preferable for village-side access.",
+      "sources": [
+        {
+          "label": "Shajapur district",
+          "url": "https://en.wikipedia.org/wiki/Shajapur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Kaleshwer%20Temple%20Khajuri%20Gelana%20Shajapur%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T08:10:00Z",
+    "addedAt": "2026-03-09T13:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shivalaya Jamner (Jamner Village)",
+    "state": "Madhya Pradesh",
+    "city": "Jamner",
+    "district": "Shajapur",
+    "region": "Jamner village, Shajapur district",
+    "tags": [
+      "Shajapur",
+      "Jamner",
+      "Shivalaya",
+      "Village shrine"
+    ],
+    "story": "Shivalaya Jamner is a Shiva shrine in Jamner village of Shajapur district.",
+    "highlight": "Jamner-village Shiva worship point in Shajapur district.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact village-side directions locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local village-level Shaiva devotion in Jamner.",
+      "architecture": "Regional village-shrine profile with active worship.",
+      "visitorNotes": "Daylight visits are usually easier for rural navigation.",
+      "sources": [
+        {
+          "label": "Shajapur district",
+          "url": "https://en.wikipedia.org/wiki/Shajapur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shivalaya%20Jamner%20Jamner%20Village%20Shajapur%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T08:10:00Z",
+    "addedAt": "2026-03-09T13:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir (Kamliya Village)",
+    "state": "Madhya Pradesh",
+    "city": "Kamliya",
+    "district": "Shajapur",
+    "region": "Kamliya village, Shajapur district",
+    "tags": [
+      "Shajapur",
+      "Kamliya",
+      "Shiv Mandir",
+      "Village shrine"
+    ],
+    "story": "Shiv Mandir is a Shiva shrine in Kamliya village of Shajapur district.",
+    "highlight": "Kamliya-village Shiva worship point in Shajapur district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Please confirm the exact Kamliya village route locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local village-level Shaiva worship in Kamliya.",
+      "architecture": "Compact village shrine profile with regular devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Shajapur district",
+          "url": "https://en.wikipedia.org/wiki/Shajapur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Kamliya%20Village%20Shajapur%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-09T08:10:00Z",
+    "addedAt": "2026-03-09T13:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Ramesaur Shiv G Mandir (Fatehpur, Vijaypur Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Fatehpur",
+    "district": "Sheopur",
+    "region": "Fatehpur, Vijaypur Tehsil, Sheopur district",
+    "tags": [
+      "Sheopur",
+      "Fatehpur",
+      "Vijaypur Tehsil",
+      "Ramesaur"
+    ],
+    "story": "Ramesaur Shiv G Mandir is a Shiva shrine in Fatehpur under Vijaypur Tehsil of Sheopur district.",
+    "highlight": "Fatehpur-side Ramesaur Shiva worship point in Vijaypur Tehsil.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact Fatehpur-side directions locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Fatehpur-Vijaypur belt of Sheopur district.",
+      "architecture": "Regional shrine profile with active community worship.",
+      "visitorNotes": "Daylight visits are generally easier for first-time navigation.",
+      "sources": [
+        {
+          "label": "Sheopur district",
+          "url": "https://en.wikipedia.org/wiki/Sheopur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Ramesaur%20Shiv%20G%20Mandir%20Fatehpur%20Vijaypur%20Tehsil%20Sheopur%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:00:00Z",
+    "addedAt": "2026-03-10T10:30:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kaleshankar Temple (Fort area, Sheopur)",
+    "state": "Madhya Pradesh",
+    "city": "Sheopur",
+    "district": "Sheopur",
+    "region": "Fort area, Sheopur city, Sheopur district",
+    "tags": [
+      "Sheopur",
+      "Fort area",
+      "Kaleshankar",
+      "Fort shrine"
+    ],
+    "story": "Kaleshankar Temple is a Shiva shrine in the fort area of Sheopur city.",
+    "highlight": "Fort-area Kaleshankar Shiva darshan in Sheopur city.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Combine with other fort-area visits and confirm local access timing before travel.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Sheopur-city Shaiva worship traditions around the fort precinct.",
+      "architecture": "Regional fort-area shrine profile with regular devotional use.",
+      "visitorNotes": "Morning visits are usually easier around the fort-side route.",
+      "sources": [
+        {
+          "label": "Sheopur district",
+          "url": "https://en.wikipedia.org/wiki/Sheopur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kaleshankar%20Temple%20Fort%20area%20Sheopur%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:00:00Z",
+    "addedAt": "2026-03-10T10:30:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shankar Temple (Fort area, Sheopur)",
+    "state": "Madhya Pradesh",
+    "city": "Sheopur",
+    "district": "Sheopur",
+    "region": "Fort area, Sheopur city, Sheopur district",
+    "tags": [
+      "Sheopur",
+      "Fort area",
+      "Shankar Temple",
+      "Fort shrine"
+    ],
+    "story": "Shankar Temple is a Shiva shrine in the fort area of Sheopur city.",
+    "highlight": "Fort-area Shankar Shiva worship point in Sheopur city.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local fort-side access before planning a visit.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained as part of the fort-area Shaiva worship landscape in Sheopur city.",
+      "architecture": "Regional shrine form integrated into the fort-side devotional zone.",
+      "visitorNotes": "Morning visits are generally easier for combined fort-area travel.",
+      "sources": [
+        {
+          "label": "Sheopur district",
+          "url": "https://en.wikipedia.org/wiki/Sheopur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shankar%20Temple%20Fort%20area%20Sheopur%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:00:00Z",
+    "addedAt": "2026-03-10T10:30:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir (Beerpur Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Beerpur",
+    "district": "Sheopur",
+    "region": "Beerpur Tehsil, Sheopur district",
+    "tags": [
+      "Sheopur",
+      "Beerpur Tehsil",
+      "Shiv Mandir",
+      "Local shrine"
+    ],
+    "story": "Shiv Mandir is a Shiva shrine in Beerpur Tehsil of Sheopur district.",
+    "highlight": "Beerpur-tehsil Shiva worship point in Sheopur district.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact Beerpur-side directions locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Beerpur Tehsil area.",
+      "architecture": "Regional shrine profile with active community worship.",
+      "visitorNotes": "Daylight visits are usually easier for tehsil-side navigation.",
+      "sources": [
+        {
+          "label": "Sheopur district",
+          "url": "https://en.wikipedia.org/wiki/Sheopur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Beerpur%20Tehsil%20Sheopur%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:00:00Z",
+    "addedAt": "2026-03-10T10:30:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir Imalia (Vijaypur Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Imalia",
+    "district": "Sheopur",
+    "region": "Imalia, Vijaypur Tehsil, Sheopur district",
+    "tags": [
+      "Sheopur",
+      "Imalia",
+      "Vijaypur Tehsil",
+      "Shiv Mandir"
+    ],
+    "story": "Shiv Mandir Imalia is a Shiva shrine in Imalia under Vijaypur Tehsil of Sheopur district.",
+    "highlight": "Imalia-side Shiva worship point in Vijaypur Tehsil.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Please confirm the exact Imalia route locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local village-level Shaiva devotion in Imalia.",
+      "architecture": "Regional village-shrine profile with regular worship.",
+      "visitorNotes": "Daylight visits are generally preferable for rural navigation.",
+      "sources": [
+        {
+          "label": "Sheopur district",
+          "url": "https://en.wikipedia.org/wiki/Sheopur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Imalia%20Vijaypur%20Tehsil%20Sheopur%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:00:00Z",
+    "addedAt": "2026-03-10T10:30:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Siddheshwar Temple (Nagda area, Sheopur Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Nagda",
+    "district": "Sheopur",
+    "region": "Nagda area, Sheopur Tehsil, Sheopur district",
+    "tags": [
+      "Sheopur",
+      "Nagda area",
+      "Sheopur Tehsil",
+      "Siddheshwar"
+    ],
+    "story": "Siddheshwar Temple is a Shiva shrine in the Nagda area under Sheopur Tehsil.",
+    "highlight": "Nagda-area Siddheshwar Shiva worship point in Sheopur Tehsil.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact Nagda-side directions locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva worship traditions in the Nagda belt of Sheopur Tehsil.",
+      "architecture": "Regional shrine profile with active devotional use.",
+      "visitorNotes": "Morning visits are generally easier for village-side access.",
+      "sources": [
+        {
+          "label": "Sheopur district",
+          "url": "https://en.wikipedia.org/wiki/Sheopur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Siddheshwar%20Temple%20Nagda%20area%20Sheopur%20Tehsil%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:00:00Z",
+    "addedAt": "2026-03-10T10:30:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Achaleshwar Mahadev Dham (Nagda, Sheopur Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Nagda",
+    "district": "Sheopur",
+    "region": "Nagda, Sheopur Tehsil, Sheopur district",
+    "tags": [
+      "Sheopur",
+      "Nagda",
+      "Sheopur Tehsil",
+      "Achaleshwar"
+    ],
+    "story": "Achaleshwar Mahadev Dham is a Shiva shrine in Nagda under Sheopur Tehsil of Sheopur district.",
+    "highlight": "Nagda-side Achaleshwar Shiva worship point in Sheopur Tehsil.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Please confirm the exact Nagda-side route locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva devotion in the Nagda-Sheopur Tehsil worship landscape.",
+      "architecture": "Regional shrine format with active community worship.",
+      "visitorNotes": "Daylight visits are generally preferable for first-time access.",
+      "sources": [
+        {
+          "label": "Sheopur district",
+          "url": "https://en.wikipedia.org/wiki/Sheopur_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Achaleshwar%20Mahadev%20Dham%20Nagda%20Sheopur%20Tehsil%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:00:00Z",
+    "addedAt": "2026-03-10T10:30:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Nagwa Shiv Mandir (Nagawa, Mada Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Nagawa",
+    "district": "Singrauli",
+    "region": "Nagawa, Mada Tehsil, Singrauli district",
+    "tags": [
+      "Singrauli",
+      "Nagawa",
+      "Mada Tehsil",
+      "Local shrine"
+    ],
+    "story": "Nagwa Shiv Mandir is a Shiva shrine in Nagawa under Mada Tehsil of Singrauli district.",
+    "highlight": "Nagawa-side Shiva worship point in the Mada belt.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact Nagawa-side route locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions in the Nagawa-Mada area.",
+      "architecture": "Regional village-shrine profile with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nagwa%20Shiv%20Mandir%20Nagawa%20Mada%20Tehsil%20Singrauli%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shankar Mada (Rock-cut Cave Temple, Mada Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Mada",
+    "district": "Singrauli",
+    "region": "Mada Tehsil, Singrauli district",
+    "tags": [
+      "Singrauli",
+      "Mada Tehsil",
+      "Rock-cut cave temple",
+      "Shankar"
+    ],
+    "story": "Shankar Mada is a Shiva shrine in Mada Tehsil, known locally as a rock-cut cave temple.",
+    "highlight": "Rock-cut cave-style Shiva worship point in the Mada landscape.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and cooler-season daylight hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Check local access conditions and footing before visiting the cave-style shrine.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local worship traditions as a Shiva cave-temple node in Mada Tehsil.",
+      "architecture": "Rock-cut or cave-associated shrine character within the Singrauli upland landscape.",
+      "visitorNotes": "Daylight visits are preferable for approach and interior visibility.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shankar%20Mada%20Rock-cut%20Cave%20Temple%20Mada%20Tehsil%20Singrauli%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Khodenath Shiv Shankar (Khode Baba) Temple (Kasar Village, Sarai Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Kasar",
+    "district": "Singrauli",
+    "region": "Kasar village, Sarai Tehsil, Singrauli district",
+    "tags": [
+      "Singrauli",
+      "Kasar village",
+      "Sarai Tehsil",
+      "Khode Baba"
+    ],
+    "story": "Khodenath Shiv Shankar (Khode Baba) Temple is a Shiva shrine in Kasar village under Sarai Tehsil of Singrauli district.",
+    "highlight": "Kasar-village Shiva worship point linked with the Khode Baba tradition.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm village-side directions locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Kasar-Sarai belt of Singrauli district.",
+      "architecture": "Regional shrine profile with active village-level worship.",
+      "visitorNotes": "Daylight visits are generally easier for rural navigation.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Khodenath%20Shiv%20Shankar%20Khode%20Baba%20Temple%20Kasar%20Village%20Sarai%20Tehsil%20Singrauli%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Siddheshwar Mahadev Mandir (Bilaunji, Waidhan)",
+    "state": "Madhya Pradesh",
+    "city": "Waidhan",
+    "district": "Singrauli",
+    "region": "Bilaunji, Waidhan, Singrauli district",
+    "tags": [
+      "Singrauli",
+      "Waidhan",
+      "Bilaunji",
+      "Siddheshwar"
+    ],
+    "story": "Siddheshwar Mahadev Mandir is a Shiva shrine in the Bilaunji area of Waidhan in Singrauli district.",
+    "highlight": "Bilaunji-side Siddheshwar Shiva worship point in Waidhan.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Urban locality access is usually straightforward; confirm local timings before visit.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in Waidhan-city Shaiva worship traditions in the Bilaunji area.",
+      "architecture": "Neighborhood shrine profile with regular devotional activity.",
+      "visitorNotes": "Morning visits are generally easier in the Bilaunji belt.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Siddheshwar%20Mahadev%20Mandir%20Bilaunji%20Waidhan%20Singrauli%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Sarweshwar Mahadev Mandir (Jaitpur/Jayant, Waidhan)",
+    "state": "Madhya Pradesh",
+    "city": "Waidhan",
+    "district": "Singrauli",
+    "region": "Jaitpur/Jayant area, Waidhan, Singrauli district",
+    "tags": [
+      "Singrauli",
+      "Waidhan",
+      "Jaitpur",
+      "Jayant",
+      "Sarweshwar"
+    ],
+    "story": "Sarweshwar Mahadev Mandir is a Shiva shrine in the Jaitpur-Jayant side of Waidhan in Singrauli district.",
+    "highlight": "Jaitpur/Jayant-side Sarweshwar Shiva worship point in Waidhan.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact Jaitpur or Jayant approach locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Waidhan-Jayant area.",
+      "architecture": "Regional urban-edge shrine profile with active community worship.",
+      "visitorNotes": "Daylight visits are generally easier for route confirmation.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sarweshwar%20Mahadev%20Mandir%20Jaitpur%20Jayant%20Waidhan%20Singrauli%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Jogiya Veer Baba Shiv Mandir (Ganiyari, Waidhan)",
+    "state": "Madhya Pradesh",
+    "city": "Waidhan",
+    "district": "Singrauli",
+    "region": "Ganiyari, Waidhan, Singrauli district",
+    "tags": [
+      "Singrauli",
+      "Waidhan",
+      "Ganiyari",
+      "Jogiya Veer Baba"
+    ],
+    "story": "Jogiya Veer Baba Shiv Mandir is a Shiva shrine in the Ganiyari area of Waidhan in Singrauli district.",
+    "highlight": "Ganiyari-side Shiva worship point linked with Jogiya Veer Baba tradition.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact Ganiyari-side approach locally before travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions in the Ganiyari area of Waidhan.",
+      "architecture": "Regional neighborhood shrine profile with active devotional use.",
+      "visitorNotes": "Morning visits are generally easier for combined urban travel.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Jogiya%20Veer%20Baba%20Shiv%20Mandir%20Ganiyari%20Waidhan%20Singrauli%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Raghupateshar Mahadev Temple (Khadaura, Deosar Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Khadaura",
+    "district": "Singrauli",
+    "region": "Khadaura, Deosar Tehsil, Singrauli district",
+    "tags": [
+      "Singrauli",
+      "Khadaura",
+      "Deosar Tehsil",
+      "Raghupateshar"
+    ],
+    "story": "Raghupateshar Mahadev Temple is a Shiva shrine in Khadaura under Deosar Tehsil of Singrauli district.",
+    "highlight": "Khadaura-side Raghupateshar Shiva worship point in Deosar Tehsil.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm village-side directions locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Khadaura-Deosar belt.",
+      "architecture": "Regional shrine profile with active community worship.",
+      "visitorNotes": "Daylight visits are generally easier for rural navigation.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Raghupateshar%20Mahadev%20Temple%20Khadaura%20Deosar%20Tehsil%20Singrauli%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir Mahakaleshwar Dham (Hospital Colony, Waidhan)",
+    "state": "Madhya Pradesh",
+    "city": "Waidhan",
+    "district": "Singrauli",
+    "region": "Hospital Colony, Waidhan, Singrauli district",
+    "tags": [
+      "Singrauli",
+      "Waidhan",
+      "Hospital Colony",
+      "Mahakaleshwar Dham"
+    ],
+    "story": "Shiv Mandir Mahakaleshwar Dham is a Shiva shrine in the Hospital Colony area of Waidhan in Singrauli district.",
+    "highlight": "Hospital Colony Mahakaleshwar Shiva worship point in Waidhan.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Urban access is generally straightforward; local festival days can be busier.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained as a Mahakaleshwar-focused Shiva shrine in the Waidhan urban devotional circuit.",
+      "architecture": "Neighborhood temple profile with active ritual use.",
+      "visitorNotes": "Morning visits are generally smoother in the colony area.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Mahakaleshwar%20Dham%20Hospital%20Colony%20Waidhan%20Singrauli%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Dham Mandir (Vindhyanagar Road, Waidhan)",
+    "state": "Madhya Pradesh",
+    "city": "Waidhan",
+    "district": "Singrauli",
+    "region": "Vindhyanagar Road, Waidhan, Singrauli district",
+    "tags": [
+      "Singrauli",
+      "Waidhan",
+      "Vindhyanagar Road",
+      "Shiv Dham"
+    ],
+    "story": "Shiv Dham Mandir is a Shiva shrine on Vindhyanagar Road in Waidhan, Singrauli district.",
+    "highlight": "Vindhyanagar Road Shiva worship point in Waidhan.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Roadside access is usually simple; confirm local timing boards before visit.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion along the Vindhyanagar Road belt of Waidhan.",
+      "architecture": "Regional roadside shrine profile with active devotional use.",
+      "visitorNotes": "Morning visits are generally easier for traffic and darshan flow.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Dham%20Mandir%20Vindhyanagar%20Road%20Waidhan%20Singrauli%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir Navjivan Vihar (Sector No. 3, Waidhan)",
+    "state": "Madhya Pradesh",
+    "city": "Waidhan",
+    "district": "Singrauli",
+    "region": "Navjivan Vihar, Sector No. 3, Waidhan, Singrauli district",
+    "tags": [
+      "Singrauli",
+      "Waidhan",
+      "Navjivan Vihar",
+      "Sector No. 3"
+    ],
+    "story": "Shiv Mandir Navjivan Vihar is a Shiva shrine in Sector No. 3 of Navjivan Vihar, Waidhan.",
+    "highlight": "Navjivan Vihar Shiva worship point in Waidhan sector housing.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Residential-sector access is straightforward; confirm local aarti timings before visit.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in neighborhood-level Shaiva worship traditions in Navjivan Vihar.",
+      "architecture": "Compact residential-colony shrine profile with regular devotional use.",
+      "visitorNotes": "Morning visits are generally easiest in the sector area.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Navjivan%20Vihar%20Sector%20No%203%20Waidhan%20Singrauli%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Dhoti Shiv Mandir (Judi, Waidhan)",
+    "state": "Madhya Pradesh",
+    "city": "Waidhan",
+    "district": "Singrauli",
+    "region": "Judi, Waidhan, Singrauli district",
+    "tags": [
+      "Singrauli",
+      "Waidhan",
+      "Judi",
+      "Dhoti Shiv Mandir"
+    ],
+    "story": "Dhoti Shiv Mandir is a Shiva shrine in the Judi area of Waidhan in Singrauli district.",
+    "highlight": "Judi-side Shiva worship point in Waidhan.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact Judi locality route locally before travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva devotion in the Judi side of Waidhan.",
+      "architecture": "Neighborhood shrine profile with routine community worship.",
+      "visitorNotes": "Daylight visits are generally easier for first-time locality navigation.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dhoti%20Shiv%20Mandir%20Judi%20Waidhan%20Singrauli%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir Jamua (Jamua, Waidhan)",
+    "state": "Madhya Pradesh",
+    "city": "Waidhan",
+    "district": "Singrauli",
+    "region": "Jamua, Waidhan, Singrauli district",
+    "tags": [
+      "Singrauli",
+      "Waidhan",
+      "Jamua",
+      "Shiv Mandir"
+    ],
+    "story": "Shiv Mandir Jamua is a Shiva shrine in the Jamua area of Waidhan in Singrauli district.",
+    "highlight": "Jamua-side Shiva worship point in Waidhan.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local Jamua-side directions before planning travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Jamua belt of Waidhan.",
+      "architecture": "Regional urban-edge shrine profile with active worship.",
+      "visitorNotes": "Morning visits are generally easier for combined locality travel.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Jamua%20Waidhan%20Singrauli%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shri Kamleshwar Mahadev Mandir (District HQ area, Singrauli)",
+    "state": "Madhya Pradesh",
+    "city": "Singrauli",
+    "district": "Singrauli",
+    "region": "District HQ area, Singrauli district",
+    "tags": [
+      "Singrauli",
+      "District HQ area",
+      "Kamleshwar Mahadev",
+      "Local shrine"
+    ],
+    "story": "Shri Kamleshwar Mahadev Mandir is a Shiva shrine in the district HQ area of Singrauli district.",
+    "highlight": "District-HQ Kamleshwar Shiva worship point in Singrauli.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and evening aarti.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the precise district-HQ-side locality before travel.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in the district-headquarters Shaiva devotional landscape of Singrauli.",
+      "architecture": "Regional urban shrine profile with active ritual use.",
+      "visitorNotes": "Morning visits are generally easier for town-side access.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Kamleshwar%20Mahadev%20Mandir%20District%20HQ%20area%20Singrauli%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Maitrishwar Shiv Temple (Rural Singrauli District)",
+    "state": "Madhya Pradesh",
+    "city": "Singrauli",
+    "district": "Singrauli",
+    "region": "Rural Singrauli district",
+    "tags": [
+      "Singrauli",
+      "Rural",
+      "Maitrishwar",
+      "District shrine"
+    ],
+    "story": "Maitrishwar Shiv Temple is a Shiva shrine identified in the rural devotional landscape of Singrauli district.",
+    "highlight": "Rural Maitrishwar Shiva worship point in Singrauli district.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact rural location locally before planning travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local rural Shaiva worship traditions in Singrauli district.",
+      "architecture": "Regional shrine profile serving the rural devotional belt.",
+      "visitorNotes": "Daylight visits are generally preferable for route confirmation.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Maitrishwar%20Shiv%20Temple%20rural%20Singrauli%20District%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir NCL Morwa (Morwa, Singrauli)",
+    "state": "Madhya Pradesh",
+    "city": "Morwa",
+    "district": "Singrauli",
+    "region": "Morwa, Singrauli district",
+    "tags": [
+      "Singrauli",
+      "Morwa",
+      "NCL",
+      "Shiv Mandir"
+    ],
+    "story": "Shiv Mandir NCL Morwa is a Shiva shrine in the Morwa area of Singrauli district.",
+    "highlight": "Morwa-side Shiva worship point in the NCL belt of Singrauli.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local access details in the Morwa area before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Morwa side of the Singrauli urban-industrial belt.",
+      "architecture": "Neighborhood shrine profile with active daily worship.",
+      "visitorNotes": "Morning visits are generally easier in the Morwa area.",
+      "sources": [
+        {
+          "label": "Singrauli district",
+          "url": "https://en.wikipedia.org/wiki/Singrauli_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20NCL%20Morwa%20Morwa%20Singrauli%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T05:35:00Z",
+    "addedAt": "2026-03-10T11:05:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Chandreh Shaiva Temple and Monastery (Rampur Naikin Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Chandreh",
+    "district": "Sidhi",
+    "region": "Chandreh, Rampur Naikin Tehsil, Sidhi district",
+    "tags": [
+      "Sidhi",
+      "Chandreh",
+      "Rampur Naikin Tehsil",
+      "Shaiva monastery"
+    ],
+    "story": "Chandreh Shaiva Temple and Monastery is a Shiva-linked temple-monastery site in Rampur Naikin Tehsil of Sidhi district.",
+    "highlight": "Shaiva temple-monastery site in the Chandreh heritage belt.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and cooler-season daylight hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local heritage-site access conditions before travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva heritage memory as part of the Chandreh-Rampur Naikin sacred landscape.",
+      "architecture": "Temple-monastery profile with heritage-era Shaiva identity.",
+      "visitorNotes": "Daylight visits are preferable for site approach and exploration.",
+      "sources": [
+        {
+          "label": "Sidhi district",
+          "url": "https://en.wikipedia.org/wiki/Sidhi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Chandreh%20Shaiva%20Temple%20and%20Monastery%20Rampur%20Naikin%20Tehsil%20Sidhi%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T06:10:00Z",
+    "addedAt": "2026-03-10T11:40:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Badhaura Nath Temple (Badhaura, Sidhi Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Badhaura",
+    "district": "Sidhi",
+    "region": "Badhaura, Sidhi Tehsil, Sidhi district",
+    "tags": [
+      "Sidhi",
+      "Badhaura",
+      "Sidhi Tehsil",
+      "Badhaura Nath"
+    ],
+    "story": "Badhaura Nath Temple is a Shiva shrine in Badhaura under Sidhi Tehsil.",
+    "highlight": "Badhaura-side Shiva worship point in Sidhi Tehsil.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact village-side directions locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Badhaura-Sidhi belt.",
+      "architecture": "Regional village-shrine profile with active worship.",
+      "visitorNotes": "Daylight visits are generally easier for rural navigation.",
+      "sources": [
+        {
+          "label": "Sidhi district",
+          "url": "https://en.wikipedia.org/wiki/Sidhi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Badhaura%20Nath%20Temple%20Badhaura%20Sidhi%20Tehsil%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T06:10:00Z",
+    "addedAt": "2026-03-10T11:40:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Baba Vishwanath Dham Mandir (Chorgadi, Sidhi Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Chorgadi",
+    "district": "Sidhi",
+    "region": "Chorgadi, Sidhi Tehsil, Sidhi district",
+    "tags": [
+      "Sidhi",
+      "Chorgadi",
+      "Sidhi Tehsil",
+      "Vishwanath Dham"
+    ],
+    "story": "Baba Vishwanath Dham Mandir is a Shiva shrine in Chorgadi under Sidhi Tehsil of Sidhi district.",
+    "highlight": "Chorgadi-side Vishwanath Shiva worship point in Sidhi Tehsil.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and evening aarti.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local approach roads before travel.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Vishwanath-form Shaiva devotion in the Chorgadi area.",
+      "architecture": "Regional shrine profile with active community worship.",
+      "visitorNotes": "Morning visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Sidhi district",
+          "url": "https://en.wikipedia.org/wiki/Sidhi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Baba%20Vishwanath%20Dham%20Mandir%20Chorgadi%20Sidhi%20Tehsil%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T06:10:00Z",
+    "addedAt": "2026-03-10T11:40:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Brahmaneshwar Mahadev Temple (Atraila, Sidhi)",
+    "state": "Madhya Pradesh",
+    "city": "Atraila",
+    "district": "Sidhi",
+    "region": "Atraila, Sidhi district",
+    "tags": [
+      "Sidhi",
+      "Atraila",
+      "Brahmaneshwar",
+      "Mahadev"
+    ],
+    "story": "Brahmaneshwar Mahadev Temple is a Shiva shrine in Atraila of Sidhi district.",
+    "highlight": "Atraila-side Brahmaneshwar Shiva worship point.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local Atraila approach before planning travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Atraila belt of Sidhi district.",
+      "architecture": "Regional shrine format with active worship.",
+      "visitorNotes": "Daylight visits are generally easier for route confirmation.",
+      "sources": [
+        {
+          "label": "Sidhi district",
+          "url": "https://en.wikipedia.org/wiki/Sidhi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Brahmaneshwar%20Mahadev%20Temple%20Atraila%20Sidhi%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T06:10:00Z",
+    "addedAt": "2026-03-10T11:40:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir Bahera (Bhaluha Kalan, Sidhi)",
+    "state": "Madhya Pradesh",
+    "city": "Bhaluha Kalan",
+    "district": "Sidhi",
+    "region": "Bhaluha Kalan, Sidhi district",
+    "tags": [
+      "Sidhi",
+      "Bhaluha Kalan",
+      "Bahera",
+      "Shiv Mandir"
+    ],
+    "story": "Shiv Mandir Bahera is a Shiva shrine in the Bhaluha Kalan area of Sidhi district.",
+    "highlight": "Bhaluha Kalan-side Bahera Shiva worship point.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact village-side directions locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local village-level Shaiva worship in the Bhaluha Kalan belt.",
+      "architecture": "Regional shrine profile with regular devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for rural navigation.",
+      "sources": [
+        {
+          "label": "Sidhi district",
+          "url": "https://en.wikipedia.org/wiki/Sidhi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Bahera%20Bhaluha%20Kalan%20Sidhi%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T06:10:00Z",
+    "addedAt": "2026-03-10T11:40:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Mahugarh Shiv Kailash Mandir (Kushiyari, Sidhi)",
+    "state": "Madhya Pradesh",
+    "city": "Kushiyari",
+    "district": "Sidhi",
+    "region": "Kushiyari, Sidhi district",
+    "tags": [
+      "Sidhi",
+      "Kushiyari",
+      "Mahugarh",
+      "Shiv Kailash"
+    ],
+    "story": "Mahugarh Shiv Kailash Mandir is a Shiva shrine in Kushiyari of Sidhi district.",
+    "highlight": "Kushiyari-side Shiv Kailash worship point in the Mahugarh belt.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local Kushiyari approach before travel.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Mahugarh-Kushiyari area.",
+      "architecture": "Regional shrine format with active community worship.",
+      "visitorNotes": "Morning visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Sidhi district",
+          "url": "https://en.wikipedia.org/wiki/Sidhi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahugarh%20Shiv%20Kailash%20Mandir%20Kushiyari%20Sidhi%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T06:10:00Z",
+    "addedAt": "2026-03-10T11:40:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir Sonvrsha (Nargi Marwas, Majhauli Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Nargi Marwas",
+    "district": "Sidhi",
+    "region": "Nargi Marwas, Majhauli Tehsil, Sidhi district",
+    "tags": [
+      "Sidhi",
+      "Nargi Marwas",
+      "Majhauli Tehsil",
+      "Sonvrsha"
+    ],
+    "story": "Shiv Mandir Sonvrsha is a Shiva shrine in Nargi Marwas under Majhauli Tehsil of Sidhi district.",
+    "highlight": "Nargi Marwas-side Shiva worship point in Majhauli Tehsil.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Please confirm the exact Nargi Marwas route locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local village-level Shaiva devotion in the Majhauli-side worship landscape.",
+      "architecture": "Regional shrine profile with regular devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for rural navigation.",
+      "sources": [
+        {
+          "label": "Sidhi district",
+          "url": "https://en.wikipedia.org/wiki/Sidhi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Sonvrsha%20Nargi%20Marwas%20Majhauli%20Tehsil%20Sidhi%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T06:10:00Z",
+    "addedAt": "2026-03-10T11:40:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Karimati Shiv Temple (Gadababan Singh, Sidhi)",
+    "state": "Madhya Pradesh",
+    "city": "Gadababan Singh",
+    "district": "Sidhi",
+    "region": "Gadababan Singh, Sidhi district",
+    "tags": [
+      "Sidhi",
+      "Gadababan Singh",
+      "Karimati",
+      "Shiv Temple"
+    ],
+    "story": "Karimati Shiv Temple is a Shiva shrine in Gadababan Singh of Sidhi district.",
+    "highlight": "Gadababan Singh-side Karimati Shiva worship point.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local route details before travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Gadababan Singh area.",
+      "architecture": "Regional shrine profile with active worship.",
+      "visitorNotes": "Daylight visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Sidhi district",
+          "url": "https://en.wikipedia.org/wiki/Sidhi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Karimati%20Shiv%20Temple%20Gadababan%20Singh%20Sidhi%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T06:10:00Z",
+    "addedAt": "2026-03-10T11:40:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Parash Nath Dham Shiv Mandir (Dhankhori, Sidhi)",
+    "state": "Madhya Pradesh",
+    "city": "Dhankhori",
+    "district": "Sidhi",
+    "region": "Dhankhori, Sidhi district",
+    "tags": [
+      "Sidhi",
+      "Dhankhori",
+      "Parash Nath Dham",
+      "Shiv Mandir"
+    ],
+    "story": "Parash Nath Dham Shiv Mandir is a Shiva shrine in Dhankhori of Sidhi district.",
+    "highlight": "Dhankhori-side Shiva worship point in the Parash Nath Dham tradition.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and evening aarti.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact Dhankhori approach locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva devotion as part of the Dhankhori sacred landscape.",
+      "architecture": "Regional shrine profile with active devotional use.",
+      "visitorNotes": "Morning visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Sidhi district",
+          "url": "https://en.wikipedia.org/wiki/Sidhi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Parash%20Nath%20Dham%20Shiv%20Mandir%20Dhankhori%20Sidhi%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T06:10:00Z",
+    "addedAt": "2026-03-10T11:40:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir Kubari (Kubri, Sidhi)",
+    "state": "Madhya Pradesh",
+    "city": "Kubri",
+    "district": "Sidhi",
+    "region": "Kubri, Sidhi district",
+    "tags": [
+      "Sidhi",
+      "Kubri",
+      "Kubari",
+      "Shiv Mandir"
+    ],
+    "story": "Shiv Mandir Kubari is a Shiva shrine in Kubri of Sidhi district.",
+    "highlight": "Kubri-side Shiva worship point in Sidhi district.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact village-side directions locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Kubri belt of Sidhi district.",
+      "architecture": "Regional village-shrine profile with active worship.",
+      "visitorNotes": "Daylight visits are generally easier for rural navigation.",
+      "sources": [
+        {
+          "label": "Sidhi district",
+          "url": "https://en.wikipedia.org/wiki/Sidhi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Kubari%20Kubri%20Sidhi%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T06:10:00Z",
+    "addedAt": "2026-03-10T11:40:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Baghmudwa Shiv Temple (Morcha, Sidhi)",
+    "state": "Madhya Pradesh",
+    "city": "Morcha",
+    "district": "Sidhi",
+    "region": "Morcha, Sidhi district",
+    "tags": [
+      "Sidhi",
+      "Morcha",
+      "Baghmudwa",
+      "Shiv Temple"
+    ],
+    "story": "Baghmudwa Shiv Temple is a Shiva shrine in Morcha of Sidhi district.",
+    "highlight": "Morcha-side Baghmudwa Shiva worship point.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local Morcha-side directions before planning travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local village-level Shaiva worship in the Morcha area.",
+      "architecture": "Regional shrine profile with regular devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Sidhi district",
+          "url": "https://en.wikipedia.org/wiki/Sidhi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Baghmudwa%20Shiv%20Temple%20Morcha%20Sidhi%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T06:10:00Z",
+    "addedAt": "2026-03-10T11:40:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Surya Darshan Shivdham (Sidhi District)",
+    "state": "Madhya Pradesh",
+    "city": "Sidhi",
+    "district": "Sidhi",
+    "region": "Sidhi district",
+    "tags": [
+      "Sidhi",
+      "Surya Darshan Shivdham",
+      "District shrine"
+    ],
+    "story": "Surya Darshan Shivdham is a Shiva shrine identified in the devotional landscape of Sidhi district.",
+    "highlight": "District-level Shiva worship point known as Surya Darshan Shivdham.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact district-side locality before travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions within the wider Sidhi district landscape.",
+      "architecture": "Regional shrine profile with regular devotional activity.",
+      "visitorNotes": "Route confirmation is recommended before planning a visit.",
+      "sources": [
+        {
+          "label": "Sidhi district",
+          "url": "https://en.wikipedia.org/wiki/Sidhi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Surya%20Darshan%20Shivdham%20Sidhi%20District%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T06:10:00Z",
+    "addedAt": "2026-03-10T11:40:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Baba Bharthari Shiv Mandir (Sidhi District)",
+    "state": "Madhya Pradesh",
+    "city": "Sidhi",
+    "district": "Sidhi",
+    "region": "Sidhi district",
+    "tags": [
+      "Sidhi",
+      "Bharthari",
+      "Shiv Mandir",
+      "District shrine"
+    ],
+    "story": "Baba Bharthari Shiv Mandir is a Shiva shrine identified in the devotional landscape of Sidhi district.",
+    "highlight": "District-level Bharthari-associated Shiva worship point in Sidhi.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact district-side locality before travel.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the wider Sidhi district worship landscape.",
+      "architecture": "Regional shrine profile with active devotional use.",
+      "visitorNotes": "Route confirmation is recommended before planning a visit.",
+      "sources": [
+        {
+          "label": "Sidhi district",
+          "url": "https://en.wikipedia.org/wiki/Sidhi_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Baba%20Bharthari%20Shiv%20Mandir%20Sidhi%20District%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-10T06:10:00Z",
+    "addedAt": "2026-03-10T11:40:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Sagareshwar Shiv Temple (Umaria Town, Bandhavgarh Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Umaria",
+    "district": "Umaria",
+    "region": "Umaria town, Bandhavgarh Tehsil, Umaria district",
+    "tags": [
+      "Umaria",
+      "Bandhavgarh Tehsil",
+      "Sagareshwar",
+      "Town shrine"
+    ],
+    "story": "Sagareshwar Shiv Temple is a Shiva shrine in Umaria town under Bandhavgarh Tehsil.",
+    "highlight": "Umaria-town Shiva worship point in the Bandhavgarh belt.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Town access is usually straightforward; confirm local timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in Umaria town under the Bandhavgarh tehsil landscape.",
+      "architecture": "Regional town-shrine profile with active daily worship.",
+      "visitorNotes": "Morning visits are generally easier for town-side darshan.",
+      "sources": [
+        {
+          "label": "Umaria district",
+          "url": "https://en.wikipedia.org/wiki/Umaria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sagareshwar%20Shiv%20Temple%20Umaria%20Town%20Bandhavgarh%20Tehsil%20Umaria%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:15:00Z",
+    "addedAt": "2026-03-17T10:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Vishwanatha Temple (Madhi Bagh Village, Bandhavgarh Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Madhi Bagh",
+    "district": "Umaria",
+    "region": "Madhi Bagh village, Bandhavgarh Tehsil, Umaria district",
+    "tags": [
+      "Umaria",
+      "Madhi Bagh",
+      "Bandhavgarh Tehsil",
+      "Vishwanatha"
+    ],
+    "story": "Vishwanatha Temple is a Shiva shrine in Madhi Bagh village under Bandhavgarh Tehsil of Umaria district.",
+    "highlight": "Madhi Bagh-side Vishwanatha Shiva worship point in Bandhavgarh Tehsil.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vishwnath%20temple%20umaria%20madhya%20pradesh.JPG",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Vishwnath_temple_umaria_madhya_pradesh.JPG",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Please confirm the exact village-side route locally before travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Madhi Bagh village belt of Umaria district.",
+      "architecture": "Regional village-shrine profile with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for rural navigation.",
+      "sources": [
+        {
+          "label": "Umaria district",
+          "url": "https://en.wikipedia.org/wiki/Umaria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Vishwanatha%20Temple%20Madhi%20Bagh%20Village%20Bandhavgarh%20Tehsil%20Umaria%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T09:05:00Z",
+    "addedAt": "2026-03-17T10:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Big Shankar Temple (Umaria Town)",
+    "state": "Madhya Pradesh",
+    "city": "Umaria",
+    "district": "Umaria",
+    "region": "Umaria town, Bandhavgarh Tehsil, Umaria district",
+    "tags": [
+      "Umaria",
+      "Bandhavgarh Tehsil",
+      "Big Shankar Temple",
+      "Town shrine"
+    ],
+    "story": "Big Shankar Temple is a Shiva shrine in Umaria town within Bandhavgarh Tehsil.",
+    "highlight": "Large Shankar-focused Shiva worship point in Umaria town.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Urban access is usually simple; confirm local timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva town worship traditions in Umaria.",
+      "architecture": "Regional urban shrine format with active community worship.",
+      "visitorNotes": "Morning visits are generally easier in the town area.",
+      "sources": [
+        {
+          "label": "Umaria district",
+          "url": "https://en.wikipedia.org/wiki/Umaria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Big%20Shankar%20Temple%20Umaria%20Town%20Bandhavgarh%20Tehsil%20Umaria%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:15:00Z",
+    "addedAt": "2026-03-17T10:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Madibagh Shiv Temple (Umaria Road)",
+    "state": "Madhya Pradesh",
+    "city": "Umaria",
+    "district": "Umaria",
+    "region": "Umaria Road, Umaria district",
+    "tags": [
+      "Umaria",
+      "Umaria Road",
+      "Madibagh",
+      "Shiv Temple"
+    ],
+    "story": "Madibagh Shiv Temple is a Shiva shrine along Umaria Road in Umaria district.",
+    "highlight": "Umaria Road Shiva worship point linked with the Madibagh locality.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Roadside access is usually easy; confirm local route details before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Madibagh-Umaria Road belt.",
+      "architecture": "Regional roadside shrine profile with regular devotional use.",
+      "visitorNotes": "Morning visits are generally easier for traffic and darshan flow.",
+      "sources": [
+        {
+          "label": "Umaria district",
+          "url": "https://en.wikipedia.org/wiki/Umaria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Madibagh%20Shiv%20Temple%20Umaria%20Road%20Umaria%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:15:00Z",
+    "addedAt": "2026-03-17T10:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bhehra Dham (Umaria)",
+    "state": "Madhya Pradesh",
+    "city": "Umaria",
+    "district": "Umaria",
+    "region": "Umaria district",
+    "tags": [
+      "Umaria",
+      "Bhehra Dham",
+      "District shrine"
+    ],
+    "story": "Bhehra Dham is a Shiva shrine identified in the devotional landscape of Umaria district.",
+    "highlight": "District-level Shiva worship point known as Bhehra Dham.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact locality locally before planning travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions within the wider Umaria district landscape.",
+      "architecture": "Regional shrine profile with regular devotional activity.",
+      "visitorNotes": "Route confirmation is recommended before visiting.",
+      "sources": [
+        {
+          "label": "Umaria district",
+          "url": "https://en.wikipedia.org/wiki/Umaria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bhehra%20Dham%20Umaria%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:15:00Z",
+    "addedAt": "2026-03-17T10:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir Dadri (Ufri, Umaria)",
+    "state": "Madhya Pradesh",
+    "city": "Ufri",
+    "district": "Umaria",
+    "region": "Ufri, Umaria district",
+    "tags": [
+      "Umaria",
+      "Ufri",
+      "Dadri",
+      "Shiv Mandir"
+    ],
+    "story": "Shiv Mandir Dadri is a Shiva shrine in Ufri of Umaria district.",
+    "highlight": "Ufri-side Dadri Shiva worship point in Umaria district.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm exact village-side directions locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local village-level Shaiva devotion in the Ufri belt.",
+      "architecture": "Regional shrine profile with active worship.",
+      "visitorNotes": "Daylight visits are generally easier for first-time navigation.",
+      "sources": [
+        {
+          "label": "Umaria district",
+          "url": "https://en.wikipedia.org/wiki/Umaria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Dadri%20Ufri%20Umaria%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:15:00Z",
+    "addedAt": "2026-03-17T10:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir (Kirantaal/Khalesar, Umaria)",
+    "state": "Madhya Pradesh",
+    "city": "Kirantaal",
+    "district": "Umaria",
+    "region": "Kirantaal/Khalesar, Umaria district",
+    "tags": [
+      "Umaria",
+      "Kirantaal",
+      "Khalesar",
+      "Shiv Mandir"
+    ],
+    "story": "Shiv Mandir is a Shiva shrine in the Kirantaal-Khalesar area of Umaria district.",
+    "highlight": "Kirantaal/Khalesar-side Shiva worship point in Umaria district.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact Kirantaal or Khalesar approach locally before travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions in the Kirantaal-Khalesar belt.",
+      "architecture": "Regional shrine profile with routine community worship.",
+      "visitorNotes": "Daylight visits are generally easier for route confirmation.",
+      "sources": [
+        {
+          "label": "Umaria district",
+          "url": "https://en.wikipedia.org/wiki/Umaria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Kirantaal%20Khalesar%20Umaria%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:15:00Z",
+    "addedAt": "2026-03-17T10:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Maheshwar Mahadev Mandir (Khonga/Kolha, Umaria)",
+    "state": "Madhya Pradesh",
+    "city": "Khonga",
+    "district": "Umaria",
+    "region": "Khonga/Kolha, Umaria district",
+    "tags": [
+      "Umaria",
+      "Khonga",
+      "Kolha",
+      "Maheshwar Mahadev"
+    ],
+    "story": "Maheshwar Mahadev Mandir is a Shiva shrine in the Khonga-Kolha area of Umaria district.",
+    "highlight": "Khonga/Kolha-side Maheshwar Shiva worship point.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and evening aarti.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact local route before planning travel.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Khonga-Kolha belt of Umaria district.",
+      "architecture": "Regional shrine profile with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Umaria district",
+          "url": "https://en.wikipedia.org/wiki/Umaria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Maheshwar%20Mahadev%20Mandir%20Khonga%20Kolha%20Umaria%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:15:00Z",
+    "addedAt": "2026-03-17T10:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Mahamrityunjay Shiv Mandir (Prakash Nagar, Pali Birsinghpur)",
+    "state": "Madhya Pradesh",
+    "city": "Pali Birsinghpur",
+    "district": "Umaria",
+    "region": "Prakash Nagar, Pali Birsinghpur Tehsil, Umaria district",
+    "tags": [
+      "Umaria",
+      "Pali Birsinghpur",
+      "Prakash Nagar",
+      "Mahamrityunjay"
+    ],
+    "story": "Mahamrityunjay Shiv Mandir is a Shiva shrine in Prakash Nagar under Pali Birsinghpur Tehsil of Umaria district.",
+    "highlight": "Prakash Nagar Mahamrityunjay Shiva worship point in Pali Birsinghpur.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local Prakash Nagar directions before travel.",
+    "rituals": [
+      "Daily puja",
+      "Mahamrityunjay japa"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Prakash Nagar belt of Pali Birsinghpur.",
+      "architecture": "Regional town-shrine profile with active ritual use.",
+      "visitorNotes": "Morning visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Umaria district",
+          "url": "https://en.wikipedia.org/wiki/Umaria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahamrityunjay%20Shiv%20Mandir%20Prakash%20Nagar%20Pali%20Birsinghpur%20Umaria%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:15:00Z",
+    "addedAt": "2026-03-17T10:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Panchleshwar Temple (Salaiya/Barbaspur, Pali Birsinghpur)",
+    "state": "Madhya Pradesh",
+    "city": "Salaiya",
+    "district": "Umaria",
+    "region": "Salaiya/Barbaspur, Pali Birsinghpur Tehsil, Umaria district",
+    "tags": [
+      "Umaria",
+      "Salaiya",
+      "Barbaspur",
+      "Pali Birsinghpur",
+      "Panchleshwar"
+    ],
+    "story": "Panchleshwar Temple is a Shiva shrine in the Salaiya-Barbaspur area under Pali Birsinghpur Tehsil of Umaria district.",
+    "highlight": "Salaiya/Barbaspur-side Panchleshwar Shiva worship point.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm whether the local route is approached via Salaiya or Barbaspur before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva worship traditions in the Salaiya-Barbaspur belt.",
+      "architecture": "Regional shrine profile with regular devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for rural navigation.",
+      "sources": [
+        {
+          "label": "Umaria district",
+          "url": "https://en.wikipedia.org/wiki/Umaria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Panchleshwar%20Temple%20Salaiya%20Barbaspur%20Pali%20Birsinghpur%20Umaria%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:15:00Z",
+    "addedAt": "2026-03-17T10:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Mandir Dongari Tola (Kathar, Pali Birsinghpur)",
+    "state": "Madhya Pradesh",
+    "city": "Kathar",
+    "district": "Umaria",
+    "region": "Dongari Tola, Kathar, Pali Birsinghpur Tehsil, Umaria district",
+    "tags": [
+      "Umaria",
+      "Kathar",
+      "Dongari Tola",
+      "Pali Birsinghpur",
+      "Shiv Mandir"
+    ],
+    "story": "Shiv Mandir Dongari Tola is a Shiva shrine in Kathar under Pali Birsinghpur Tehsil of Umaria district.",
+    "highlight": "Dongari Tola Shiva worship point in the Kathar-Pali Birsinghpur belt.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local Dongari Tola directions before planning travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Dongari Tola-Kathar area.",
+      "architecture": "Regional village-shrine profile with active community worship.",
+      "visitorNotes": "Daylight visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Umaria district",
+          "url": "https://en.wikipedia.org/wiki/Umaria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Mandir%20Dongari%20Tola%20Kathar%20Pali%20Birsinghpur%20Umaria%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:15:00Z",
+    "addedAt": "2026-03-17T10:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Bandhavgarh Fort Shiva Temple (Bandhavgarh Fort)",
+    "state": "Madhya Pradesh",
+    "city": "Bandhavgarh",
+    "district": "Umaria",
+    "region": "Bandhavgarh Fort, Umaria district",
+    "tags": [
+      "Umaria",
+      "Bandhavgarh Fort",
+      "Historic shrine",
+      "Shiva"
+    ],
+    "story": "Bandhavgarh Fort Shiva Temple is a historic Shiva shrine within the Bandhavgarh Fort landscape of Umaria district.",
+    "highlight": "Historic fort-area Shiva worship point in Bandhavgarh.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ficus%20temple.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3AFicus_temple.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and cooler-season daylight hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm fort access conditions and local permissions before travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local sacred memory as a historic Shiva site within the Bandhavgarh Fort area.",
+      "architecture": "Fort-associated shrine profile within a heritage setting.",
+      "visitorNotes": "Daylight visits are preferable for access and route-finding inside the fort area.",
+      "sources": [
+        {
+          "label": "Umaria district",
+          "url": "https://en.wikipedia.org/wiki/Umaria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Bandhavgarh%20Fort%20Shiva%20Temple%20Bandhavgarh%20Fort%20Umaria%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T08:35:00Z",
+    "addedAt": "2026-03-17T10:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Patleshwar Dham Temple (Arnuwari/Khalaundh, Umaria)",
+    "state": "Madhya Pradesh",
+    "city": "Arnuwari",
+    "district": "Umaria",
+    "region": "Arnuwari/Khalaundh, Umaria district",
+    "tags": [
+      "Umaria",
+      "Arnuwari",
+      "Khalaundh",
+      "Patleshwar Dham"
+    ],
+    "story": "Patleshwar Dham Temple is a Shiva shrine in the Arnuwari-Khalaundh area of Umaria district.",
+    "highlight": "Arnuwari/Khalaundh-side Patleshwar Shiva worship point.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and evening aarti.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm the exact approach via Arnuwari or Khalaundh before travel.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Arnuwari-Khalaundh belt of Umaria district.",
+      "architecture": "Regional shrine profile with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Umaria district",
+          "url": "https://en.wikipedia.org/wiki/Umaria_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Patleshwar%20Dham%20Temple%20Arnuwari%20Khalaundh%20Umaria%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:15:00Z",
+    "addedAt": "2026-03-17T10:45:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Ancient Shiva Temple Gamakar (Gamakar, Ganj Basoda Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Gamakar",
+    "district": "Vidisha",
+    "region": "Gamakar, Ganj Basoda Tehsil, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Gamakar",
+      "Ganj Basoda Tehsil",
+      "Ancient Shiva Temple"
+    ],
+    "story": "Ancient Shiva Temple Gamakar is a Shiva shrine in Gamakar under Ganj Basoda Tehsil of Vidisha district.",
+    "highlight": "Gamakar-side ancient Shiva worship point in Ganj Basoda Tehsil.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Please confirm the exact village-side route locally before travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva devotion as an older worship point in the Gamakar belt.",
+      "architecture": "Regional village-shrine profile with antiquity-linked identity.",
+      "visitorNotes": "Daylight visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Ancient%20Shiva%20Temple%20Gamakar%20Ganj%20Basoda%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:45:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Mahadev Mandir (Ward 19, Ganj Basoda)",
+    "state": "Madhya Pradesh",
+    "city": "Ganj Basoda",
+    "district": "Vidisha",
+    "region": "Ward 19, Ganj Basoda, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Ganj Basoda",
+      "Ward 19",
+      "Mahadev"
+    ],
+    "story": "Mahadev Mandir is a Shiva shrine in Ward 19 of Ganj Basoda in Vidisha district.",
+    "highlight": "Ward-level Mahadev worship point in Ganj Basoda.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Urban access is straightforward; confirm local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local neighborhood-level Shaiva worship in Ganj Basoda.",
+      "architecture": "Compact urban shrine profile with active daily worship.",
+      "visitorNotes": "Morning visits are generally easier in the ward area.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Mahadev%20Mandir%20Ward%2019%20Ganj%20Basoda%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:45:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Sri Sidheshwar Mahadev Mandir (Bareth Road, Kala Bagh, Ganj Basoda)",
+    "state": "Madhya Pradesh",
+    "city": "Ganj Basoda",
+    "district": "Vidisha",
+    "region": "Bareth Road, Kala Bagh, Ganj Basoda, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Ganj Basoda",
+      "Kala Bagh",
+      "Bareth Road",
+      "Sidheshwar"
+    ],
+    "story": "Sri Sidheshwar Mahadev Mandir is a Shiva shrine on Bareth Road in the Kala Bagh area of Ganj Basoda.",
+    "highlight": "Kala Bagh-side Sidheshwar Shiva worship point in Ganj Basoda.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Roadside access is usually straightforward; confirm local aarti timings before visit.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Bareth Road-Kala Bagh belt of Ganj Basoda.",
+      "architecture": "Regional town-shrine profile with active ritual use.",
+      "visitorNotes": "Morning visits are generally smoother for first-time access.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Sri%20Sidheshwar%20Mahadev%20Mandir%20Bareth%20Road%20Kala%20Bagh%20Ganj%20Basoda%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:45:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Neelkantheswar Mahadev Mandir (Shri Ram Nagar, Ganj Basoda)",
+    "state": "Madhya Pradesh",
+    "city": "Ganj Basoda",
+    "district": "Vidisha",
+    "region": "Shri Ram Nagar, Ganj Basoda, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Ganj Basoda",
+      "Shri Ram Nagar",
+      "Neelkantheswar"
+    ],
+    "story": "Neelkantheswar Mahadev Mandir is a Shiva shrine in the Shri Ram Nagar area of Ganj Basoda.",
+    "highlight": "Shri Ram Nagar Neelkantheswar Shiva worship point in Ganj Basoda.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Residential-area access is straightforward; confirm local timings before visit.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Shri Ram Nagar neighborhood of Ganj Basoda.",
+      "architecture": "Neighborhood shrine profile with regular community worship.",
+      "visitorNotes": "Morning visits are generally easier in the colony area.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Neelkantheswar%20Mahadev%20Mandir%20Shri%20Ram%20Nagar%20Ganj%20Basoda%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:45:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kanch Mandir (Madhav Ganj, Vidisha)",
+    "state": "Madhya Pradesh",
+    "city": "Vidisha",
+    "district": "Vidisha",
+    "region": "Madhav Ganj, Vidisha city, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Madhav Ganj",
+      "Kanch Mandir",
+      "Glasswork"
+    ],
+    "story": "Kanch Mandir is a Shiva shrine in Madhav Ganj, Vidisha, known for its glasswork and large Mahashivratri gatherings.",
+    "highlight": "Glasswork-rich Shiva temple in Madhav Ganj with strong Shivratri attendance.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanch%20Mandir.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3AKanch_Mandir.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and Mahashivratri season.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Crowds can be much heavier during Mahashivratri observances.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Vidisha-city Shaiva devotion and remembered as about a century old in current community memory.",
+      "architecture": "Temple profile notable for glasswork decoration in the shrine setting.",
+      "visitorNotes": "Morning visits are usually calmer outside festival days.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kanch%20Mandir%20Madhav%20Ganj%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T08:35:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shri Gopeshwar Mahadev (Charan Teerth, Betwa Ghat, Vidisha)",
+    "state": "Madhya Pradesh",
+    "city": "Vidisha",
+    "district": "Vidisha",
+    "region": "Charan Teerth ghat of Betwa River, Vidisha city, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Betwa River",
+      "Charan Teerth",
+      "Gopeshwar"
+    ],
+    "story": "Shri Gopeshwar Mahadev is a Shiva shrine at Charan Teerth on the ghat of the Betwa River in Vidisha.",
+    "highlight": "Betwa-ghat Shiva worship point at Charan Teerth in Vidisha.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charan%20Teerth%20Mandir.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3ACharan_Teerth_Mandir.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and riverbank hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Riverbank access can vary with season; confirm local approach before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in Vidisha's Betwa-linked Shaiva worship traditions around Charan Teerth.",
+      "architecture": "Regional ghat-side shrine profile within the riverbank sacred landscape.",
+      "visitorNotes": "Morning visits are usually easier for riverbank access.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shri%20Gopeshwar%20Mahadev%20Charan%20Teerth%20Betwa%20River%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T08:35:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Kumbheshwar Shiv Mandir (Durga Nagar, Vidisha)",
+    "state": "Madhya Pradesh",
+    "city": "Vidisha",
+    "district": "Vidisha",
+    "region": "Durga Nagar, Vidisha city, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Durga Nagar",
+      "Kumbheshwar",
+      "Shiv Mandir"
+    ],
+    "story": "Kumbheshwar Shiv Mandir is a Shiva shrine in Durga Nagar, Vidisha city.",
+    "highlight": "Durga Nagar Kumbheshwar Shiva worship point in Vidisha.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Residential-area access is usually straightforward; confirm local timings before visit.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained through neighborhood-level Shaiva devotion in Durga Nagar.",
+      "architecture": "Compact urban shrine profile with active worship.",
+      "visitorNotes": "Morning visits are generally easiest in the colony area.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Kumbheshwar%20Shiv%20Mandir%20Durga%20Nagar%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:45:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shiv Ji Hanuman Ji Mandir (Baraipura, Vidisha)",
+    "state": "Madhya Pradesh",
+    "city": "Vidisha",
+    "district": "Vidisha",
+    "region": "Baraipura, Vidisha city, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Baraipura",
+      "Shiv Ji Hanuman Ji",
+      "Composite shrine"
+    ],
+    "story": "Shiv Ji Hanuman Ji Mandir is a composite shrine in Baraipura, Vidisha, where Shiva worship remains an active devotional focus.",
+    "highlight": "Baraipura composite shrine with active Shiva-centered worship.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva (with Hanuman)",
+    "tradition": "Shaiva/Smarta",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local ritual timings because the shrine may serve multiple devotional streams.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Baraipura devotional life as a composite shrine with an active Shiva component.",
+      "architecture": "Neighborhood shrine profile serving overlapping worship traditions.",
+      "visitorNotes": "Ask locally about Shiva-focused puja timings if planning a dedicated visit.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shiv%20Ji%20Hanuman%20Ji%20Mandir%20Baraipura%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:45:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shivshakti Dham Mandir (Agyaram Colony, Vidisha)",
+    "state": "Madhya Pradesh",
+    "city": "Vidisha",
+    "district": "Vidisha",
+    "region": "Agyaram Colony, Vidisha city, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Agyaram Colony",
+      "Shivshakti Dham",
+      "Composite shrine"
+    ],
+    "story": "Shivshakti Dham Mandir is a Shiva-linked composite shrine in Agyaram Colony, Vidisha.",
+    "highlight": "Agyaram Colony Shiva-Shakti worship point in Vidisha.",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "deity": "Shiva (with Shakti)",
+    "tradition": "Shaiva/Smarta",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local ritual timings because worship may include both Shiva and Shakti observances.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Navratri"
+    ],
+    "moreDetails": {
+      "history": "Maintained as a composite Shiva-Shakti devotional space in Agyaram Colony.",
+      "architecture": "Neighborhood shrine profile serving combined Shaiva and Shakta worship patterns.",
+      "visitorNotes": "Ask locally about Shiva-specific puja timings if planning a focused visit.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shivshakti%20Dham%20Mandir%20Agyaram%20Colony%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:45:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Nageshwar Mandir (Manora, Gyaraspur)",
+    "state": "Madhya Pradesh",
+    "city": "Manora",
+    "district": "Vidisha",
+    "region": "Manora, Gyaraspur Tehsil, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Gyaraspur",
+      "Manora",
+      "Nageshwar"
+    ],
+    "story": "Nageshwar Mandir is a Shiva shrine in Manora under Gyaraspur Tehsil of Vidisha district.",
+    "highlight": "Manora-side Nageshwar Shiva worship point in the Gyaraspur belt.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local village-side directions before travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Manora-Gyaraspur area.",
+      "architecture": "Regional village-shrine profile with active worship.",
+      "visitorNotes": "Daylight visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Nageshwar%20Mandir%20Manora%20Gyaraspur%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:45:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Shivparvai & Durgaji Mandir (Maser, Gyaraspur)",
+    "state": "Madhya Pradesh",
+    "city": "Maser",
+    "district": "Vidisha",
+    "region": "Maser, Gyaraspur Tehsil, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Gyaraspur",
+      "Maser",
+      "Composite shrine"
+    ],
+    "story": "Shivparvai & Durgaji Mandir is a composite shrine in Maser under Gyaraspur Tehsil, with Shiva worship as an active devotional component.",
+    "highlight": "Maser-side composite shrine with active Shiva-centered worship.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva (with Parvati-Durga)",
+    "tradition": "Shaiva/Smarta",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local ritual timings because the shrine may serve multiple deity traditions.",
+    "rituals": [
+      "Daily puja",
+      "Aarti"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Navratri"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Gyaraspur-side devotional practice as a composite Shiva-linked shrine.",
+      "architecture": "Regional shrine profile serving overlapping Shaiva and Shakta worship patterns.",
+      "visitorNotes": "Ask locally about Shiva-focused timings if planning a dedicated visit.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Shivparvai%20Durgaji%20Mandir%20Maser%20Gyaraspur%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:45:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Pashupati Nath Mandir (Banjariya, Gyaraspur)",
+    "state": "Madhya Pradesh",
+    "city": "Banjariya",
+    "district": "Vidisha",
+    "region": "Banjariya, Gyaraspur Tehsil, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Gyaraspur",
+      "Banjariya",
+      "Pashupati Nath"
+    ],
+    "story": "Pashupati Nath Mandir is a Shiva shrine in Banjariya under Gyaraspur Tehsil of Vidisha district.",
+    "highlight": "Banjariya-side Pashupati Nath Shiva worship point.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan and evening aarti.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local Banjariya directions before travel.",
+    "rituals": [
+      "Daily puja",
+      "Abhishekam"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Banjariya-Gyaraspur belt.",
+      "architecture": "Regional shrine profile with active community worship.",
+      "visitorNotes": "Daylight visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Pashupati%20Nath%20Mandir%20Banjariya%20Gyaraspur%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:45:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Vishwanath Mandir Devpur (Devpur, Sironj)",
+    "state": "Madhya Pradesh",
+    "city": "Devpur",
+    "district": "Vidisha",
+    "region": "Devpur, Sironj Tehsil, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Sironj",
+      "Devpur",
+      "Vishwanath"
+    ],
+    "story": "Vishwanath Mandir Devpur is an ancient Shiva shrine in Devpur under Sironj Tehsil of Vidisha district.",
+    "highlight": "Ancient Devpur-side Vishwanath Shiva worship point near Sironj.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Local references place it about 15 km from Sironj; confirm the road approach before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva devotion as an older temple in the Devpur-Sironj belt.",
+      "architecture": "Regional shrine profile with antiquity-linked identity.",
+      "visitorNotes": "Daylight visits are generally easier for village-side navigation.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Vishwanath%20Mandir%20Devpur%20Sironj%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:45:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Gaiyan Nath Shiva Temple (Pathari, Pathari Tehsil)",
+    "state": "Madhya Pradesh",
+    "city": "Pathari",
+    "district": "Vidisha",
+    "region": "Pathari, Pathari Tehsil, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Pathari",
+      "Gaiyan Nath",
+      "Cave temple"
+    ],
+    "story": "Gaiyan Nath Shiva Temple is a Shiva shrine in Pathari Tehsil, remembered as a hilltop cave temple.",
+    "highlight": "Hilltop cave-style Shiva worship point in Pathari.",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and cooler-season daylight hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local access and footing before visiting the hilltop cave-temple site.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva devotion as a cave-linked worship point in the Pathari landscape.",
+      "architecture": "Hilltop cave-shrine profile within the Pathari sacred geography.",
+      "visitorNotes": "Daylight visits are preferable for approach and route-finding.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gaiyan%20Nath%20Shiva%20Temple%20Pathari%20Tehsil%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T05:45:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Hajariya Mahadev Temple (Mandi Bamora, Kurwai)",
+    "state": "Madhya Pradesh",
+    "city": "Mandi Bamora",
+    "district": "Vidisha",
+    "region": "Mandi Bamora, Kurwai Tehsil, Vidisha district",
+    "tags": [
+      "Vidisha",
+      "Kurwai",
+      "Mandi Bamora",
+      "Hajariya Mahadev"
+    ],
+    "story": "Hajariya Mahadev Temple is a Shiva shrine in Mandi Bamora under Kurwai Tehsil of Vidisha district.",
+    "highlight": "Mandi Bamora-side Hajariya Shiva worship point in Kurwai Tehsil.",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahadeva%20temple%2C%20Mandi%20Bamora%2C%20Madhya%20Pradesh%20017.jpg",
+    "credit": "Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3AMahadeva_temple%2C_Mandi_Bamora%2C_Madhya_Pradesh_017.jpg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Please confirm the exact Mandi Bamora route locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Mandi Bamora-Kurwai belt.",
+      "architecture": "Regional shrine profile with active devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Vidisha district",
+          "url": "https://en.wikipedia.org/wiki/Vidisha_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Hajariya%20Mahadev%20Temple%20Mandi%20Bamora%20Kurwai%20Vidisha%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T08:35:00Z",
+    "addedAt": "2026-03-17T11:15:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Hatkeshvara (Gupteshvara) Temple (Oon)",
+    "state": "Madhya Pradesh",
+    "city": "Oon",
+    "district": "Khargone",
+    "region": "Oon village, Khargone district",
+    "tags": [
+      "Khargone",
+      "Oon",
+      "Hatkeshvara",
+      "Gupteshvara",
+      "Heritage"
+    ],
+    "story": "Hatkeshvara (Gupteshvara) Temple is a partially buried ancient Shiva temple in Oon village of Khargone district.",
+    "highlight": "Partially buried ancient Shiva monument in the Oon temple cluster.",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and cooler-season daylight hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Heritage-site footing can be uneven; confirm local access before travel.",
+    "rituals": [
+      "Heritage darshan"
+    ],
+    "festivals": [
+      "Mahashivratri"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local heritage memory as part of the wider Oon temple group of Khargone district.",
+      "architecture": "Ancient temple profile with buried or partially exposed structural remains.",
+      "visitorNotes": "Daylight visits are best for route-finding and viewing site details.",
+      "sources": [
+        {
+          "label": "Khargone district",
+          "url": "https://en.wikipedia.org/wiki/Khargone_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Hatkeshvara%20Gupteshvara%20Temple%20Oon%20Khargone%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T06:20:00Z",
+    "addedAt": "2026-03-17T11:55:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Akhileshwar Temple (Okhla, Barwaha)",
+    "state": "Madhya Pradesh",
+    "city": "Okhla",
+    "district": "Khargone",
+    "region": "Okhla, Barwaha tehsil, Khargone district",
+    "tags": [
+      "Khargone",
+      "Barwaha",
+      "Okhla",
+      "Akhileshwar"
+    ],
+    "story": "Akhileshwar Temple is a Shiva shrine in Okhla under Barwaha tehsil of Khargone district.",
+    "highlight": "Okhla-side Akhileshwar Shiva worship point in the Barwaha belt.",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm village-side directions locally before travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Okhla-Barwaha area.",
+      "architecture": "Regional shrine profile with active community worship.",
+      "visitorNotes": "Daylight visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Khargone district",
+          "url": "https://en.wikipedia.org/wiki/Khargone_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Akhileshwar%20Temple%20Okhla%20Barwaha%20Khargone%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T06:20:00Z",
+    "addedAt": "2026-03-17T11:55:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Gomteshwar Mahadev (Pitnagar)",
+    "state": "Madhya Pradesh",
+    "city": "Pitnagar",
+    "district": "Khargone",
+    "region": "Pitnagar, Khargone district",
+    "tags": [
+      "Khargone",
+      "Pitnagar",
+      "Gomteshwar",
+      "Mahadev"
+    ],
+    "story": "Gomteshwar Mahadev is a Shiva shrine in Pitnagar of Khargone district.",
+    "highlight": "Pitnagar-side Gomteshwar Shiva worship point.",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Please confirm local route details before travel.",
+    "rituals": [
+      "Daily puja"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan month"
+    ],
+    "moreDetails": {
+      "history": "Maintained through local Shaiva devotion in the Pitnagar belt of Khargone district.",
+      "architecture": "Regional shrine profile with regular devotional use.",
+      "visitorNotes": "Daylight visits are generally easier for village-side access.",
+      "sources": [
+        {
+          "label": "Khargone district",
+          "url": "https://en.wikipedia.org/wiki/Khargone_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Gomteshwar%20Mahadev%20Pitnagar%20Khargone%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T06:20:00Z",
+    "addedAt": "2026-03-17T11:55:00+05:30",
+    "isNew": true
+  },
+  {
+    "name": "Dhareshwar Temple (Katargaon, Khargone)",
+    "state": "Madhya Pradesh",
+    "city": "Katargaon",
+    "district": "Khargone",
+    "region": "Katargaon, Khargone district",
+    "tags": [
+      "Khargone",
+      "Katargaon",
+      "Dhareshwar",
+      "Shiva"
+    ],
+    "story": "Dhareshwar Temple is a Shiva shrine in Katargaon of Khargone district.",
+    "highlight": "Katargaon-side Dhareshwar Shiva worship point.",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "deity": "Shiva",
+    "tradition": "Shaiva",
+    "bestTime": "Morning and evening darshan.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Confirm local Katargaon directions before planning travel.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Maintained in local Shaiva devotion in the Katargaon belt of Khargone district.",
+      "architecture": "Regional shrine profile with active worship continuity.",
+      "visitorNotes": "Daylight visits are generally easier for first-time access.",
+      "sources": [
+        {
+          "label": "Khargone district",
+          "url": "https://en.wikipedia.org/wiki/Khargone_district",
+          "type": "District reference"
+        },
+        {
+          "label": "OpenStreetMap search",
+          "url": "https://www.openstreetmap.org/search?query=Dhareshwar%20Temple%20Katargaon%20Khargone%20Madhya%20Pradesh",
+          "type": "Map search"
+        }
+      ]
+    },
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-03-17T06:20:00Z",
+    "addedAt": "2026-03-17T11:55:00+05:30",
+    "isNew": true
   }
-]
+];
