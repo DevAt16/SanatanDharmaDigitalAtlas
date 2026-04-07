@@ -14,7 +14,7 @@ export const chattisgarhTemples = [
     "bestTime": "October to March.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest attire recommended.",
-    "entryNotes": "Best explored with nearby Bhoramdeo complex monuments in daylight.",
+    "entryNotes": "Best explored with nearby Bhoramdeo complex monuments in daylight; use the attached Google Maps place link for current approach guidance.",
     "rituals": [
       "Daily puja",
       "Abhishekam"
@@ -25,8 +25,13 @@ export const chattisgarhTemples = [
     "moreDetails": {
       "history": "Bhoramdeo is treated as the central medieval Shaiva heritage node of Kabirdham, with strong local continuity in worship and pilgrimage memory.",
       "architecture": "Nagara-style stone construction with richly carved exterior surfaces and high-detail sculptural panels.",
-      "visitorNotes": "Allocate time for both temple darshan and architectural study of the complex.",
+      "visitorNotes": "Google rating 4.4/5; 5952 reviews; 448X+566; allocate time for both temple darshan and architectural study of the complex.",
       "sources": [
+        {
+          "label": "Google Maps place: Bhoramdeo Temple",
+          "url": "https://www.google.com/maps/search/?api=1&query=Bhoramdev%20Temple&query_place_id=ChIJfQcsAcLpKToRgO64wdC6M2A",
+          "type": "Google Maps place"
+        },
         {
           "label": "Bhoramdeo Temple",
           "url": "https://en.wikipedia.org/wiki/Bhoramdeo_Temple",
@@ -39,7 +44,8 @@ export const chattisgarhTemples = [
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:11th_century_Bhoramdeo_temple_1,_Kawardha,_Chhattisgarh.jpg",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-25T15:49:55+05:30"
+    "addedAt": "2026-02-25T15:49:55+05:30",
+    "lastVerifiedAt": "2026-04-06"
   },
   {
     "name": "Mandwa Mahal (Dulhadeo) Temple",
@@ -56,7 +62,7 @@ export const chattisgarhTemples = [
     "bestTime": "October to March.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest attire.",
-    "entryNotes": "Usually explored along with Bhoramdeo Temple.",
+    "entryNotes": "Usually explored along with Bhoramdeo Temple; use the attached Google Maps place link for the current monument approach.",
     "rituals": [
       "Local puja observances"
     ],
@@ -66,8 +72,13 @@ export const chattisgarhTemples = [
     "moreDetails": {
       "history": "Mandwa Mahal belongs to the extended Bhoramdeo ritual-heritage landscape and is associated with a later historical construction phase.",
       "architecture": "Mixed brick-and-stone composition centered on a mandapa-like hall with pillar-based support geometry.",
-      "visitorNotes": "Visit along with Bhoramdeo and nearby nodes for full context of the complex.",
+      "visitorNotes": "Google rating 4.3/5; 403 reviews; 4553+MJ8; visit along with Bhoramdeo and nearby nodes for full context of the complex.",
       "sources": [
+        {
+          "label": "Google Maps place: Mandwa Mahal (Dulhadeo) Temple",
+          "url": "https://www.google.com/maps/search/?api=1&query=Kawardha%20Shri%20Madwa%20Mahal%20temple%20-%20Kabirdham%20District%2C%20Chhattisgarh%2C%20India&query_place_id=ChIJNWxnmOXpKToRL_TAA_-Xuu4",
+          "type": "Google Maps place"
+        },
         {
           "label": "Bhoramdeo Temple",
           "url": "https://en.wikipedia.org/wiki/Bhoramdeo_Temple",
@@ -80,7 +91,8 @@ export const chattisgarhTemples = [
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:14th_century_Madwa_Mahal_temple_1,_Kawardha,_Chhattisgarh.jpg",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-25T15:49:55+05:30"
+    "addedAt": "2026-02-25T15:49:55+05:30",
+    "lastVerifiedAt": "2026-04-06"
   },
   {
     "name": "Laxmaneshwar Mahadev Temple (Kharod)",
@@ -97,7 +109,7 @@ export const chattisgarhTemples = [
     "bestTime": "October to March.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest attire recommended.",
-    "entryNotes": "Festival days can be crowded, especially during Shravan and Mahashivratri.",
+    "entryNotes": "Festival days can be crowded, especially during Shravan and Mahashivratri; use the attached Google Maps place links for current approach guidance.",
     "rituals": [
       "Rudrabhishek",
       "Jalabhishek"
@@ -109,12 +121,27 @@ export const chattisgarhTemples = [
     "moreDetails": {
       "history": "Kharod's Laxmaneshwar tradition is deeply tied to local narratives of Lakshmana and to long-lived Shaiva worship in the Mahanadi cultural belt.",
       "architecture": "Early temple profile with major sacred emphasis on the Lakshaling icon and shrine core.",
-      "visitorNotes": "Can be combined with broader Janjgir-Champa temple circuit visits.",
+      "visitorNotes": "Google rating 4.6/5; 501 reviews; the temple also appears in a secondary local listing with 7 reviews and maintains an Instagram profile.",
       "sources": [
+        {
+          "label": "Google Maps place: Laxmaneshwar Mahadev Temple (Kharod)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Laxmaneshwar%20mahadev%20kharaud&query_place_id=ChIJDwAoTgC1JzoRF_X0YMu3xZI",
+          "type": "Google Maps place"
+        },
+        {
+          "label": "Google Maps place: Laxmaneshwar Mahadev Temple (Kharod)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Lakshmaneshwar%20Temple&query_place_id=ChIJqWNEqJu1JzoRrfbwAn768vU",
+          "type": "Google Maps place"
+        },
         {
           "label": "Kharod",
           "url": "https://en.wikipedia.org/wiki/Kharod",
           "type": "Encyclopedia"
+        },
+        {
+          "label": "Instagram: Laxmaneshwar Mahadev Temple (Kharod)",
+          "url": "https://www.instagram.com/pujari_of_laxmaneshwar_mahadev?igsh=MWJjZGlzOG5ta28xMg==",
+          "type": "Social profile"
         }
       ]
     },
@@ -123,7 +150,8 @@ export const chattisgarhTemples = [
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Laxmaneshwer_temple.jpg",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-25T15:56:52+05:30"
+    "addedAt": "2026-02-25T15:56:52+05:30",
+    "lastVerifiedAt": "2026-04-06"
   },
   {
     "name": "Kaleshwarnath Mahadev Temple",
@@ -8260,7 +8288,7 @@ export const chattisgarhTemples = [
     "bestTime": "October to March.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest attire and comfortable footwear recommended.",
-    "entryNotes": "Forest-route conditions and crowd levels vary during major festival periods.",
+    "entryNotes": "Main-road and festival-season access can be busy; use the attached Google Maps place link for current approach guidance.",
     "rituals": [
       "Abhishekam",
       "Jalabhishek"
@@ -8272,8 +8300,13 @@ export const chattisgarhTemples = [
     "moreDetails": {
       "history": "Bhuteshwar Nath is one of the most prominent natural Shivling traditions in central India and a core pilgrimage anchor in Gariaband.",
       "architecture": "Open natural-shrine setting centered on the massive rock-lingam formation.",
-      "visitorNotes": "Expect large gatherings on Mondays, Mahashivratri, and Shravan peaks.",
+      "visitorNotes": "Google rating 4.4/5; 1801 reviews; J25W+42R, mainroad; Expect large gatherings on Mondays, Mahashivratri, and Shravan peaks.",
       "sources": [
+        {
+          "label": "Google Maps place: Shri Bhuteshwarnath Mahadev (Gariyaband)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shri%20Bhuteshwarnath%20Mahadev%F0%9F%99%8F&query_place_id=ChIJGR4Iw7NcLzoRPT6Awb3wrVI",
+          "type": "Google Maps place"
+        },
         {
           "label": "Gariaband district",
           "url": "https://en.wikipedia.org/wiki/Gariaband_district",
@@ -8286,7 +8319,8 @@ export const chattisgarhTemples = [
     "credit": "Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bhooteshwarnath_temple.jpg",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-25T15:59:37+05:30"
+    "addedAt": "2026-02-25T15:59:37+05:30",
+    "lastVerifiedAt": "2026-04-05"
   },
   {
     "name": "Pataleshwar Mahadev (Rajim)",
@@ -17408,7 +17442,7 @@ export const chattisgarhTemples = [
     "bestTime": "October to February.",
     "timings": "Open daily; local timings vary.",
     "dressCode": "Modest attire with trek-friendly footwear.",
-    "entryNotes": "Cave steps and surfaces may be wet; caution advised.",
+    "entryNotes": "Cave steps and surfaces may be wet; caution advised. Use the attached Google Maps place link for current Bagicha-side route guidance.",
     "rituals": [
       "Daily puja",
       "Abhishekam"
@@ -17420,8 +17454,13 @@ export const chattisgarhTemples = [
     "moreDetails": {
       "history": "Preserved as one of the region's largest cave-oriented Shiva devotion centers.",
       "architecture": "Hill-cut cave-complex profile with interior shrine chambers and naturally cool airflow.",
-      "visitorNotes": "Prefer daytime cave visits and local guidance for full-route access.",
+      "visitorNotes": "Google rating 4.2/5; 248 reviews; 3HC6+C23; Deodand.",
       "sources": [
+        {
+          "label": "Google Maps place: Kailash Gufa (Kailash Cave)",
+          "url": "https://www.google.com/maps/search/?api=1&query=kailash%20Gufa%20Bagicha%20Jashpur%20Chhattisgarh&query_place_id=ChIJd9h_4K-HiTkRMiDmsL0xmSA",
+          "type": "Google Maps place"
+        },
         {
           "label": "Jashpur district",
           "url": "https://en.wikipedia.org/wiki/Jashpur_district",
@@ -17434,7 +17473,8 @@ export const chattisgarhTemples = [
     "credit": "",
     "creditUrl": "/temples/temple-04.svg",
     "tradition": "Shaiva",
-    "addedAt": "2026-02-25T16:25:16+05:30"
+    "addedAt": "2026-02-25T16:25:16+05:30",
+    "lastVerifiedAt": "2026-04-06"
   },
   {
     "name": "Danpuri Waterfall Shiva Node",
@@ -20856,5 +20896,9941 @@ export const chattisgarhTemples = [
     "creditUrl": "/temples/temple-04.svg",
     "tradition": "Shaiva",
     "addedAt": "2026-02-25T16:35:09+05:30"
+  },
+  {
+    "name": "Shri Amareshwar Mahadev Temple",
+    "city": "Tawardabra, Amarkantak",
+    "region": "Tawardabra, Amarkantak, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Tawardabra",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shri Amareshwar Mahadev Temple is a well-known Shiva shrine near Jwaleshwar on the Tawardabra-Amarkantak side of Gaurela-Pendra-Marwahi district.",
+    "highlight": "A high-footfall Amareshwar Mahadev temple near the Jwaleshwar route, with strong local pilgrimage visibility.",
+    "deity": "Shiva (Amareshwar Mahadev)",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for lane-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Current local place listings identify Amareshwar Mahadev as a major active Shiva worship point on the district's Amarkantak-facing edge.",
+      "architecture": "Established regional temple compound serving pilgrims moving along the Jwaleshwar-Amarkantak approach.",
+      "visitorNotes": "Google rating 4.6/5; 416 reviews; phone +91 75872 80921; Near Jwaleshwar temple; phone contact available for local coordination.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shri Amareshwar Mahadev Temple",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shri%20Amareshwar%20Mahadev%20temple&query_place_id=ChIJOdhMf46WhzkRJrApSlmW9dc",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:00+05:30"
+  },
+  {
+    "name": "Lord Shiva Temple PWW2+FJ4 (Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Lord Shiva Temple PWW2+FJ4 (Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 20 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Lord Shiva Temple PWW2+FJ4 (Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Lord%20Shiva%20Temple&query_place_id=ChIJ8cwW9gLrhzkRS3DVZfSIiFY",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:01+05:30"
+  },
+  {
+    "name": "Shiv Temple QW63+49F (Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Temple QW63+49F (Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 10 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple QW63+49F (Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20temple&query_place_id=ChIJbV-ALmrrhzkRbsP85W3NBGA",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:02+05:30"
+  },
+  {
+    "name": "Shree Shiv Mandir QW95+4VX (Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shree Shiv Mandir QW95+4VX (Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 2 reviews; Google category: Place of worship.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shree Shiv Mandir QW95+4VX (Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shree%20Shiv%20Mandir&query_place_id=ChIJA39TzbXrhzkRXFcdsQBgY3s",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:03+05:30"
+  },
+  {
+    "name": "Shiv Mandir PWX6+MW7 (Pendra Rd, Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir PWX6+MW7 (Pendra Rd, Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.8/5; 4 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir PWX6+MW7 (Pendra Rd, Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJt7KEtVfrhzkR05NX6_aESdI",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:04+05:30"
+  },
+  {
+    "name": "Shiv Mandir Girvar QWQ7+45P (Harratola, Gaurella)",
+    "city": "Harratola, Gaurella",
+    "region": "Harratola, Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Harratola",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir Girvar QWQ7+45P (Harratola, Gaurella) is a locally mapped Shiva shrine in Harratola, Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Harratola-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Harratola is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 3 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Girvar QWQ7+45P (Harratola, Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%B0%20%E0%A4%97%E0%A4%BF%E0%A4%B0%E0%A4%B5%E0%A4%B0&query_place_id=ChIJ27FqTnzqhzkRQQ7DGcXpRDQ",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:05+05:30"
+  },
+  {
+    "name": "Shiv Mandir RV7X+GH (Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir RV7X+GH (Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 2 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir RV7X+GH (Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJZdpbeQjBhzkRQyS7orBkjG8",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:06+05:30"
+  },
+  {
+    "name": "Shiv Mandir QW24+F84 (Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir QW24+F84 (Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 2 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir QW24+F84 (Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJNW1hCsXrhzkRhh7mLqLPWsE",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:07+05:30"
+  },
+  {
+    "name": "Shiv Mandir Masurikhar VXG4+MR (Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir Masurikhar VXG4+MR (Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Masurikhar VXG4+MR (Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir%20masurikhar&query_place_id=ChIJo7o0ab_DhzkR_uKD_JyEXSo",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:08+05:30"
+  },
+  {
+    "name": "Shiv Mandir VXRF+47H (Dhobahar, Gaurella)",
+    "city": "Dhobahar, Gaurella",
+    "region": "Dhobahar, Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Dhobahar",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir VXRF+47H (Dhobahar, Gaurella) is a locally mapped Shiva shrine in Dhobahar, Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Dhobahar-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Dhobahar is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4/5; 11 reviews; phone +91 88277 98189.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir VXRF+47H (Dhobahar, Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJh7aq5PTDhzkRSRyWURfTy8c",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:09+05:30"
+  },
+  {
+    "name": "Shiv Mandir VXG4+MR (Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir VXG4+MR (Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir VXG4+MR (Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJpZFf6QDDhzkRFHw77tFhi24",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:10+05:30"
+  },
+  {
+    "name": "Shiv Mandir Lalpur",
+    "city": "Lalpur, Gaurella",
+    "region": "Lalpur, Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Lalpur",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir Lalpur is a locally mapped Shiva shrine in Lalpur, Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Lalpur-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Lalpur is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 4 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Lalpur",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir%20Lalpur&query_place_id=ChIJT6WNydfBhzkRzSKbhuCv77I",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:11+05:30"
+  },
+  {
+    "name": "Chandreshvar Shiv Temple",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Chandreshvar Shiv Temple is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva (Chandreshvar)",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.7/5; 3 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Chandreshvar Shiv Temple",
+          "url": "https://www.google.com/maps/search/?api=1&query=Chandreshvar%20Shiv%20Temple&query_place_id=ChIJO0R2De7rhzkRMN3k8ZpkZ3w",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:12+05:30"
+  },
+  {
+    "name": "Shiv Mandir (Forest Office Road, Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir (Forest Office Road, Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for lane-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Near Forest Office on the Amarkantak road approach.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir (Forest Office Road, Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=shiv%20mandir%2C%20forest&query_place_id=ChIJv_wg2JrrhzkRbnc9DLWu93Y",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:13+05:30"
+  },
+  {
+    "name": "Malania Mini Stopdam Shiv Mandir (Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Malania Mini Stopdam Shiv Mandir (Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Prefer daylight arrival for easier route-finding, especially for locally mapped shrine points.",
+      "sources": [
+        {
+          "label": "Google Maps place: Malania Mini Stopdam Shiv Mandir (Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Malania%20mini%20stopdam%20%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJe3c9qajrhzkRNTKQKMOX36k",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:14+05:30"
+  },
+  {
+    "name": "Shiv Mandir RV36+RGC (Korja, Gaurella)",
+    "city": "Korja, Gaurella",
+    "region": "Korja, Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Korja",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir RV36+RGC (Korja, Gaurella) is a locally mapped Shiva shrine in Korja, Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Korja-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Korja is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Prefer daylight arrival for easier route-finding, especially for locally mapped shrine points.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir RV36+RGC (Korja, Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJJXMfacm_hzkR_XNrH3wYOg4",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:15+05:30"
+  },
+  {
+    "name": "Shiv Mandir VV57+M35 (Darri)",
+    "city": "Darri",
+    "region": "Darri, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Darri",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir VV57+M35 (Darri) is a locally mapped Shiva shrine in Darri within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Darri-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Darri is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Prefer daylight arrival for easier route-finding, especially for locally mapped shrine points.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir VV57+M35 (Darri)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJi972IQq_hzkRtyeji8wRYzI",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:16+05:30"
+  },
+  {
+    "name": "Shiv Mandir QRHH+9JQ (Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir QRHH+9JQ (Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Prefer daylight arrival for easier route-finding, especially for locally mapped shrine points.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir QRHH+9JQ (Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJn1aW5hmVhzkRERmTphRyRbs",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:17+05:30"
+  },
+  {
+    "name": "Shiv Mandir W27M+4PF (Salhekota)",
+    "city": "Salhekota",
+    "region": "Salhekota, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Salhekota",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir W27M+4PF (Salhekota) is a locally mapped Shiva shrine in Salhekota within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Salhekota-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Salhekota is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Prefer daylight arrival for easier route-finding, especially for locally mapped shrine points.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir W27M+4PF (Salhekota)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJYxCgOQDFhzkRm-efvJwuAZ4",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:18+05:30"
+  },
+  {
+    "name": "Shiv Mandir QWG6+9XX (Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir QWG6+9XX (Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Prefer daylight arrival for easier route-finding, especially for locally mapped shrine points.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir QWG6+9XX (Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJExy7MDbrhzkRRHQGEqx7E7E",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:19+05:30"
+  },
+  {
+    "name": "Shiv Mandir Lakhan Ghat (Changeri)",
+    "city": "Changeri",
+    "region": "Changeri, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Changeri",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir Lakhan Ghat is a riverside Shiva shrine near the Son River bridge in Changeri, serving as a visible ghat-side worship node in Gaurela-Pendra-Marwahi district.",
+    "highlight": "Lakhan Ghat riverbank Shiva darshan point with a strong local pull from the Son River crossing zone.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for lane-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Changeri is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Riverbank shrine profile tied to ghat movement and local ritual use.",
+      "visitorNotes": "Google rating 4.7/5; 23 reviews; Located near the Son River Bridge and commonly approached as a stop on the ghat-side route.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Lakhan Ghat (Changeri)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir%2C%20Lakhan%20ghat&query_place_id=ChIJtUr5fFPPhzkRfgtHTePn4Ks",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:20+05:30"
+  },
+  {
+    "name": "Shivghat Mandir",
+    "city": "Manura",
+    "region": "Manura, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Manura",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shivghat Mandir is a Shiva shrine in the Manura side of Gaurela-Pendra-Marwahi district, known from current place listings as a ghat-linked darshan point.",
+    "highlight": "Manura-side Shiva ghat node mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Manura is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Simple ghat-side temple profile shaped by local ritual movement and seasonal water-edge use.",
+      "visitorNotes": "Google rating 3.6/5; 13 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shivghat Mandir",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shivghat%20Mandir&query_place_id=ChIJ17UXxMHPhzkRgbKq0gIwLtI",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:21+05:30"
+  },
+  {
+    "name": "Shiv Mandir 32F6+9P5 (Parasi, Gaurella)",
+    "city": "Parasi, Gaurella",
+    "region": "Parasi, Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Parasi",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir 32F6+9P5 (Parasi, Gaurella) is a locally mapped Shiva shrine in Parasi, Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Parasi-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Parasi is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 9 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 32F6+9P5 (Parasi, Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJH8iC3nHOhzkR5jMjLlZQrLY",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:22+05:30"
+  },
+  {
+    "name": "Shiv Mandir 2X55+PHR (Seoni, Gaurella)",
+    "city": "Seoni, Gaurella",
+    "region": "Seoni, Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Seoni",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir 2X55+PHR (Seoni, Gaurella) is a locally mapped Shiva shrine in Seoni, Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Seoni-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Seoni is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.3/5; 4 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 2X55+PHR (Seoni, Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJI6hUKLnPhzkRaxHYBgDDiGQ",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:23+05:30"
+  },
+  {
+    "name": "Shiv Mandir 23G2+45H (Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir 23G2+45H (Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 2/5; 1 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 23G2+45H (Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJY1KyQIrRhzkRwBQ8e7XPlaA",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:24+05:30"
+  },
+  {
+    "name": "Shiddha Baba Ashram",
+    "city": "Khondri",
+    "region": "Khondri, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Khondri",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiddha Baba Ashram is carried in current place listings as an active Shaiva ashram-style worship point in Khondri within Gaurela-Pendra-Marwahi district.",
+    "highlight": "Khondri-side Shaiva ashram node mapped from the supplied place listing.",
+    "deity": "Shiva (ashram tradition)",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Khondri is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Ashram-temple compound profile with local devotional use.",
+      "visitorNotes": "Google rating 5/5; 8 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiddha Baba Ashram",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiddha%20Baba%20Ashram&query_place_id=ChIJ88wYCCjthzkRYyHyMp4j5dE",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:25+05:30"
+  },
+  {
+    "name": "Shiv Temple MW8M+2P2 (Khondri)",
+    "city": "Khondri",
+    "region": "Khondri, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Khondri",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Temple MW8M+2P2 (Khondri) is a locally mapped Shiva shrine in Khondri within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Khondri-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Khondri is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews; Google category: Place of worship.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple MW8M+2P2 (Khondri)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJ9xRyrcTthzkRWKcuj94MqCY",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:26+05:30"
+  },
+  {
+    "name": "Parvati Mata Shiv Mandir 22XQ+M2G (Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Parvati Mata Shiv Mandir 22XQ+M2G (Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva and Parvati",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews; Google category: Parsi temple; The supplied Google category appears mismatched, but the place name identifies this as a Shiva-Parvati temple.",
+      "sources": [
+        {
+          "label": "Google Maps place: Parvati Mata Shiv Mandir 22XQ+M2G (Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%A4%E0%A5%80%20%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A4%BE%20%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJO4iYibfPhzkRVI-XQAQLSY0",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:27+05:30"
+  },
+  {
+    "name": "Shiv Mandir Rumga V4G3+72G (Matiyadand, Rumga)",
+    "city": "Matiyadand, Rumga",
+    "region": "Matiyadand, Rumga, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Matiyadand",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir Rumga V4G3+72G (Matiyadand, Rumga) is a locally mapped Shiva shrine in Matiyadand, Rumga within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Matiyadand-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Matiyadand is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Prefer daylight arrival for easier route-finding, especially for locally mapped shrine points.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Rumga V4G3+72G (Matiyadand, Rumga)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%20%E0%A4%B0%E0%A5%82%E0%A4%AE%E0%A4%97%E0%A4%BE&query_place_id=ChIJBfh5ZZXdhzkR_KunE5v7xNQ",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:28+05:30"
+  },
+  {
+    "name": "Shiv Mandir V3RR+P25 (Dongratola)",
+    "city": "Dongratola",
+    "region": "Dongratola, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Dongratola",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir V3RR+P25 (Dongratola) is a locally mapped Shiva shrine in Dongratola within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Dongratola-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Dongratola is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Prefer daylight arrival for easier route-finding, especially for locally mapped shrine points.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir V3RR+P25 (Dongratola)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJFXRERQDdhzkRq1N2IOleKdA",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:29+05:30"
+  },
+  {
+    "name": "Shri Shiv Mandir (Ghusaria, Gaurella)",
+    "city": "Ghusaria, Gaurella",
+    "region": "Ghusaria, Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Ghusaria",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shri Shiv Mandir (Ghusaria, Gaurella) is a locally mapped Shiva shrine in Ghusaria, Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Ghusaria-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Ghusaria is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 3 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shri Shiv Mandir (Ghusaria, Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shri%20Shiv%20Mandir&query_place_id=ChIJCYP7WcXFhzkRC1AGOrK3UOM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:30+05:30"
+  },
+  {
+    "name": "Shiv Mandir Patharra",
+    "city": "Patharra",
+    "region": "Patharra, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Patharra",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir Patharra is a locally mapped Shiva shrine in Patharra within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Patharra-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Patharra is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.9/5; 7 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Patharra",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir%20Patharra&query_place_id=ChIJDyfT0QndhzkR8SZGfJuT_Ns",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:31+05:30"
+  },
+  {
+    "name": "Shri Shiv Mandir 2384+FPJ (Gaurella)",
+    "city": "Gaurella",
+    "region": "Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Gaurella",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shri Shiv Mandir 2384+FPJ (Gaurella) is a locally mapped Shiva shrine in Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Gaurella-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gaurella is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shri Shiv Mandir 2384+FPJ (Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shri%20Shiv%20Mandir&query_place_id=ChIJ21K4y0fRhzkRT62_bC4gbLM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:32+05:30"
+  },
+  {
+    "name": "Shiv Temple 2383+JG5 (Lohari, Gaurella)",
+    "city": "Lohari, Gaurella",
+    "region": "Lohari, Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Lohari",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Temple 2383+JG5 (Lohari, Gaurella) is a locally mapped Shiva shrine in Lohari, Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Lohari-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Lohari is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Prefer daylight arrival for easier route-finding, especially for locally mapped shrine points.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 2383+JG5 (Lohari, Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20temple&query_place_id=ChIJhYisEMbRhzkRSLAR-BsH5-o",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:33+05:30"
+  },
+  {
+    "name": "Shiv Mandir X2WP+W4J (Chichghona, Gaurella)",
+    "city": "Chichghona, Gaurella",
+    "region": "Chichghona, Gaurella, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Chichghona",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir X2WP+W4J (Chichghona, Gaurella) is a locally mapped Shiva shrine in Chichghona, Gaurella within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Chichghona-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Chichghona is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Prefer daylight arrival for easier route-finding, especially for locally mapped shrine points.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir X2WP+W4J (Chichghona, Gaurella)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJUSYRegDPhzkRQJMWbipriGE",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:34+05:30"
+  },
+  {
+    "name": "Shiv Mandir X3Q3+JFG (Kumhari)",
+    "city": "Kumhari",
+    "region": "Kumhari, Gaurela-Pendra-Marwahi district",
+    "tags": [
+      "Kumhari",
+      "Shiva",
+      "Gaurela-Pendra-Marwahi"
+    ],
+    "story": "Shiv Mandir X3Q3+JFG (Kumhari) is a locally mapped Shiva shrine in Kumhari within the Gaurela-Pendra-Marwahi district devotional landscape.",
+    "highlight": "Kumhari-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kumhari is carried in the supplied local place listings as an active Shiva worship point in the Gaurela-Pendra-Marwahi district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Prefer daylight arrival for easier route-finding, especially for locally mapped shrine points.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir X3Q3+JFG (Kumhari)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJS5B4XADbhzkRCNkHGlKr3og",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-04-05",
+    "addedAt": "2026-04-05T14:15:35+05:30"
+  },
+  {
+    "name": "Shiv Temple Sinapali",
+    "city": "Khajurpadar",
+    "region": "Khajurpadar, Gariaband district",
+    "tags": [
+      "Khajurpadar",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Temple Sinapali is a locally mapped Shiva shrine in Khajurpadar within the wider Gariaband district devotional landscape.",
+    "highlight": "Sinapali-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Khajurpadar is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.4/5; 8 reviews; XJHQ+787",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple Sinapali",
+          "url": "https://www.google.com/maps/search/?api=1&query=shiv%20temple%20sinapali&query_place_id=ChIJPxitcAUSJToRYaoMPA5tdLc",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:00:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Mandir WPR2+Q86 (Tuwasmal, Darlipara)",
+    "city": "Tuwasmal, Darlipara",
+    "region": "Tuwasmal, Darlipara, Gariaband district",
+    "tags": [
+      "Tuwasmal",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Mandir WPR2+Q86 (Tuwasmal, Darlipara) is a locally mapped Shiva shrine in Tuwasmal within the wider Gariaband district devotional landscape.",
+    "highlight": "Tuwasmal-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Tuwasmal is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "WPR2+Q86",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir WPR2+Q86 (Tuwasmal, Darlipara)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%20Shiva%20temple&query_place_id=ChIJ9dNucO8RJToRxqUXyr0u3IA",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:02:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiva Temple, Mokhaguda",
+    "city": "Kurmibasa",
+    "region": "Kurmibasa, Gariaband district",
+    "tags": [
+      "Kurmibasa",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiva Temple, Mokhaguda is a locally mapped Shiva shrine in Kurmibasa within the wider Gariaband district devotional landscape.",
+    "highlight": "Kurmibasa-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kurmibasa is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4/5; 1 reviews; WJ6C+W87",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiva Temple, Mokhaguda",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Temple%2C%20Mokhaguda&query_place_id=ChIJBwDShZYTJToRX6pBqADexWs",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:04:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Temple W26Q+HJ6 (Parsatthi)",
+    "city": "Parsatthi",
+    "region": "Parsatthi, Gariaband district",
+    "tags": [
+      "Parsatthi",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Temple W26Q+HJ6 (Parsatthi) is a locally mapped Shiva shrine in Parsatthi within the wider Gariaband district devotional landscape.",
+    "highlight": "Parsatthi-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Parsatthi is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.1/5; 7 reviews; W26Q+HJ6",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple W26Q+HJ6 (Parsatthi)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJH3b6W6qyKDoRl9ToPT9uriI",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:06:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Om Shiv Mandir (Gohrapadar)",
+    "city": "Gohrapadar",
+    "region": "Gohrapadar, Gariaband district",
+    "tags": [
+      "Gohrapadar",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Om Shiv Mandir (Gohrapadar) is a locally mapped Shiva shrine in Gohrapadar within the wider Gariaband district devotional landscape.",
+    "highlight": "Gohrapadar-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gohrapadar is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 8 reviews; XGC3+333",
+      "sources": [
+        {
+          "label": "Google Maps place: Om Shiv Mandir (Gohrapadar)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%7B%E0%A5%90%7D%20shiv%20mandir%20%7B%E0%A5%90%7D&query_place_id=ChIJ2aZYAY5tJToR55XdVsUECBc",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:10:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Temple 76RP+M8V (Mainpur Khurd)",
+    "city": "Mainpur Khurd",
+    "region": "Mainpur Khurd, Gariaband district",
+    "tags": [
+      "Mainpur Khurd",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Temple 76RP+M8V (Mainpur Khurd) is a locally mapped Shiva shrine in Mainpur Khurd within the wider Gariaband district devotional landscape.",
+    "highlight": "Mainpur Khurd-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Mainpur Khurd is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews; 76RP+M8V",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 76RP+M8V (Mainpur Khurd)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJ21moxXKHJToRctCv2C_xWRU",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:12:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Temple 2G3H+J32 (Jhargaon)",
+    "city": "Jhargaon",
+    "region": "Jhargaon, Gariaband district",
+    "tags": [
+      "Jhargaon",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Temple 2G3H+J32 (Jhargaon) is a locally mapped Shiva shrine in Jhargaon within the wider Gariaband district devotional landscape.",
+    "highlight": "Jhargaon-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jhargaon is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 2 reviews; 2G3H+J32",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 2G3H+J32 (Jhargaon)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20temple&query_place_id=ChIJT2ZvplRzJToRnzVEMlo_QPw",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:14:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Temple VGVG+FVR (Bandhiamal)",
+    "city": "Bandhiamal",
+    "region": "Bandhiamal, Gariaband district",
+    "tags": [
+      "Bandhiamal",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Temple VGVG+FVR (Bandhiamal) is a locally mapped Shiva shrine in Bandhiamal within the wider Gariaband district devotional landscape.",
+    "highlight": "Bandhiamal-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bandhiamal is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.7/5; 3 reviews; VGVG+FVR",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple VGVG+FVR (Bandhiamal)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJ7fCcX4RsJToRKRuhcwezU6Y",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:16:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Temple VJ98+VXJ (Amad)",
+    "city": "Amad",
+    "region": "Amad, Gariaband district",
+    "tags": [
+      "Amad",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Temple VJ98+VXJ (Amad) is a locally mapped Shiva shrine in Amad within the wider Gariaband district devotional landscape.",
+    "highlight": "Amad-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Amad is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.2/5; 5 reviews; VJ98+VXJ",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple VJ98+VXJ (Amad)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJJ4lWQzEVJToRELGNuWHUIZA",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:18:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Mandir VGWX+V25 (Kushkona)",
+    "city": "Kushkona",
+    "region": "Kushkona, Gariaband district",
+    "tags": [
+      "Kushkona",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Mandir VGWX+V25 (Kushkona) is a locally mapped Shiva shrine in Kushkona within the wider Gariaband district devotional landscape.",
+    "highlight": "Kushkona-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kushkona is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "VGWX+V25",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir VGWX+V25 (Kushkona)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJU6ewno5tJToRHAT8mn-8x28",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:20:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Mandir XWVC+X2G (Bakli)",
+    "city": "Bakli",
+    "region": "Bakli, Gariaband district",
+    "tags": [
+      "Bakli",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Mandir XWVC+X2G (Bakli) is a locally mapped Shiva shrine in Bakli within the wider Gariaband district devotional landscape.",
+    "highlight": "Bakli-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bakli is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 4 reviews; XWVC+X2G, Rajim - Pokhara - Mahasamund Rd",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir XWVC+X2G (Bakli)",
+          "url": "https://www.google.com/maps/search/?api=1&query=shiv%20mandir&query_place_id=ChIJe1mseii0KDoRps5ufq4ZXxE",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:22:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shri Parsatthi Shiv Mandir",
+    "city": "Chaitra",
+    "region": "Chaitra, Gariaband district",
+    "tags": [
+      "Chaitra",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shri Parsatthi Shiv Mandir is a locally mapped Shiva shrine in Chaitra within the wider Gariaband district devotional landscape.",
+    "highlight": "Chaitra-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Chaitra is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.7/5; 3 reviews; W2JF+6QM",
+      "sources": [
+        {
+          "label": "Google Maps place: Shri Parsatthi Shiv Mandir",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shri%20Parsatthi%20shive%20Mandir&query_place_id=ChIJqddJt5SzKDoRFFvpoeO_Dzs",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:24:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiva Mandir Parmeshwar Kurekera",
+    "city": "Khadama, Khadma",
+    "region": "Khadama, Khadma, Gariaband district",
+    "tags": [
+      "Khadama",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiva Mandir Parmeshwar Kurekera is a locally mapped Shiva shrine in Khadama within the wider Gariaband district devotional landscape.",
+    "highlight": "Khadama-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva (Parmeshwar)",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Khadama is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional village shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews; V43C+Q42",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiva Mandir Parmeshwar Kurekera",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Mandir%20Parmeshwar%20Kurekera&query_place_id=ChIJ8_WJMWRTLzoRgpF5N7sSwJ8",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:26:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Mandir W4P6+6CQ (Fingeshwar, Sarkada)",
+    "city": "Fingeshwar, Sarkada",
+    "region": "Fingeshwar, Sarkada, Gariaband district",
+    "tags": [
+      "Fingeshwar",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Mandir W4P6+6CQ (Fingeshwar, Sarkada) is a locally mapped Shiva shrine in Fingeshwar within the wider Gariaband district devotional landscape.",
+    "highlight": "Fingeshwar-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Fingeshwar is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.8/5; 4 reviews; W4P6+6CQ",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir W4P6+6CQ (Fingeshwar, Sarkada)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Tewari%20shiv%20mandir&query_place_id=ChIJA7JXM0atKDoR8JVVAVq5cLg",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:28:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Temple W4PW+4R6 (Raipur)",
+    "city": "Raipur",
+    "region": "Raipur, Gariaband district",
+    "tags": [
+      "Raipur",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Temple W4PW+4R6 (Raipur) is a locally mapped Shiva shrine in Raipur within the wider Gariaband district devotional landscape.",
+    "highlight": "Raipur-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Raipur is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4/5; 2 reviews; W4PW+4R6",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple W4PW+4R6 (Raipur)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJNZV9NUCrKDoREzyEqC_hTXM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:30:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Mandir Purena",
+    "city": "Purena",
+    "region": "Purena, Gariaband district",
+    "tags": [
+      "Purena",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Mandir Purena is a locally mapped Shiva shrine in Purena within the wider Gariaband district devotional landscape.",
+    "highlight": "Purena-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Purena is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "9, Purena Road",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Purena",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir%20purena&query_place_id=ChIJh-yse1GzKDoRrascDNhWtp0",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:32:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Temple XXQX+W27 (Barbhatha, Panduka)",
+    "city": "Barbhatha, Panduka",
+    "region": "Barbhatha, Panduka, Gariaband district",
+    "tags": [
+      "Barbhatha",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Temple XXQX+W27 (Barbhatha, Panduka) is a locally mapped Shiva shrine in Barbhatha within the wider Gariaband district devotional landscape.",
+    "highlight": "Barbhatha-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Barbhatha is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "XXQX+W27",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple XXQX+W27 (Barbhatha, Panduka)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20temple&query_place_id=ChIJZTKOHgCzKDoRcPe5VA0VGb0",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:34:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Temple VMRX+XPJ (Khutgaon, Parewapali)",
+    "city": "Khutgaon, Parewapali",
+    "region": "Khutgaon, Parewapali, Gariaband district",
+    "tags": [
+      "Khutgaon",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Temple VMRX+XPJ (Khutgaon, Parewapali) is a locally mapped Shiva shrine in Khutgaon within the wider Gariaband district devotional landscape.",
+    "highlight": "Khutgaon-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Khutgaon is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews; VMRX+XPJ",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple VMRX+XPJ (Khutgaon, Parewapali)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20temple&query_place_id=ChIJzxtOEjAXJToRLFbG1y2jLvc",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:36:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Prachin Shiv Mandir (Kumhdaikhurd)",
+    "city": "Kumhdaikhurd",
+    "region": "Kumhdaikhurd, Gariaband district",
+    "tags": [
+      "Kumhdaikhurd",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Prachin Shiv Mandir (Kumhdaikhurd) is a locally mapped Shiva shrine in Kumhdaikhurd within the wider Gariaband district devotional landscape.",
+    "highlight": "Older Shiva shrine mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kumhdaikhurd is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Older village-shrine profile preserved through continuing local worship.",
+      "visitorNotes": "Google rating 5/5; 4 reviews; VMW3+9V8",
+      "sources": [
+        {
+          "label": "Google Maps place: Prachin Shiv Mandir (Kumhdaikhurd)",
+          "url": "https://www.google.com/maps/search/?api=1&query=PRACHIN%20SHIV%20MANDIR&query_place_id=ChIJdfFpcVMRJToRxTTGN0jUjhI",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:38:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Mandir Phokatpara",
+    "city": "Kenduban, Dabnai",
+    "region": "Kenduban, Dabnai, Gariaband district",
+    "tags": [
+      "Kenduban",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Mandir Phokatpara is a locally mapped Shiva shrine in Kenduban within the wider Gariaband district devotional landscape.",
+    "highlight": "Kenduban-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kenduban is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews; VMW9+7QQ",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Phokatpara",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir(%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0)%20Phokatpara&query_place_id=ChIJsxEK3A8RJToRHhldeqAuKb0",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:40:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shivmandir Temple (Palsapara)",
+    "city": "Palsapara",
+    "region": "Palsapara, Gariaband district",
+    "tags": [
+      "Palsapara",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shivmandir Temple (Palsapara) is a locally mapped Shiva shrine in Palsapara within the wider Gariaband district devotional landscape.",
+    "highlight": "Palsapara-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Palsapara is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4/5; 4 reviews; VHWF+7FV",
+      "sources": [
+        {
+          "label": "Google Maps place: Shivmandir Temple (Palsapara)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shivmandir%20Temple&query_place_id=ChIJz5Sc9lkTJToRbN-aofnkDeQ",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:42:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Temple XH5V+PWR",
+    "city": "XH5V+PWR",
+    "region": "XH5V+PWR, Gariaband district",
+    "tags": [
+      "XH5V+PWR",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Temple XH5V+PWR is a locally mapped Shiva shrine in XH5V+PWR within the wider Gariaband district devotional landscape.",
+    "highlight": "XH5V+PWR-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "XH5V+PWR is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3/5; 2 reviews; XH5V+PWR",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple XH5V+PWR",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20temple&query_place_id=ChIJ7bUKGH0TJToR-wYsk-c2T-o",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:44:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Siva Temple (Barbahli)",
+    "city": "Barbahli",
+    "region": "Barbahli, Gariaband district",
+    "tags": [
+      "Barbahli",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Siva Temple (Barbahli) is a locally mapped Shiva shrine in Barbahli within the wider Gariaband district devotional landscape.",
+    "highlight": "Barbahli-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Barbahli is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 4 reviews; XG3G+Q6R",
+      "sources": [
+        {
+          "label": "Google Maps place: Siva Temple (Barbahli)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Siva%20Temple&query_place_id=ChIJkYkOC1RtJToR6PC2OrO6qL4",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:46:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Mandir J3J6+V5W",
+    "city": "J3J6+V5W",
+    "region": "J3J6+V5W, Gariaband district",
+    "tags": [
+      "J3J6+V5W",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Mandir J3J6+V5W is a locally mapped Shiva shrine in J3J6+V5W within the wider Gariaband district devotional landscape.",
+    "highlight": "J3J6+V5W-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "J3J6+V5W is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews; J3J6+V5W",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir J3J6+V5W",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJc9f1wxZbLzoRToascPUMCPo",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:48:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Mandir RJHR+PFX (Darlipara)",
+    "city": "Darlipara",
+    "region": "Darlipara, Gariaband district",
+    "tags": [
+      "Darlipara",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Mandir RJHR+PFX (Darlipara) is a locally mapped Shiva shrine in Darlipara within the wider Gariaband district devotional landscape.",
+    "highlight": "Darlipara-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Darlipara is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 4 reviews; RJHR+PFX",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir RJHR+PFX (Darlipara)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJT-uGqVgVJToRlXC6_Da2sYg",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:50:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Mandir RJ97+963 (Deobhog)",
+    "city": "Deobhog",
+    "region": "Deobhog, Gariaband district",
+    "tags": [
+      "Deobhog",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Mandir RJ97+963 (Deobhog) is a locally mapped Shiva shrine in Deobhog within the wider Gariaband district devotional landscape.",
+    "highlight": "Deobhog-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Deobhog is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "RJ97+963",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir RJ97+963 (Deobhog)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJxxyrLgAVJToRdLONilzJiQc",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:52:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Mandir Girsul",
+    "city": "Girsul, Ghugiyamuda",
+    "region": "Girsul, Ghugiyamuda, Gariaband district",
+    "tags": [
+      "Girsul",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Mandir Girsul is a locally mapped Shiva shrine in Girsul within the wider Gariaband district devotional landscape.",
+    "highlight": "Girsul-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Girsul is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 2/5; 1 reviews; WJRW+64H",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Girsul",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir%20Girsul%2C%20%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%20%E0%A4%97%E0%A4%BF%E0%A4%B0%E0%A4%B8%E0%A5%81%E0%A4%B2&query_place_id=ChIJLdtdGQATJToRLbqoV-876s8",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:54:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Someshwarnath Mahadev / Shamshaan Kaali Temple",
+    "city": "Rajim, Gobra",
+    "region": "Rajim, Gobra, Gariaband district",
+    "tags": [
+      "Rajim",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Someshwarnath Mahadev / Shamshaan Kaali Temple is a locally mapped Shiva shrine in Rajim within the wider Gariaband district devotional landscape.",
+    "highlight": "Rajim-side Someshwarnath Mahadev shrine with linked cremation-ground Kali association.",
+    "deity": "Shiva (Someshwarnath Mahadev)",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Rajim is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Shared Shaiva-Shakta shrine profile within the Rajim devotional belt.",
+      "visitorNotes": "Google rating 4.5/5; 2 reviews; Pawan Diwan Ashram",
+      "sources": [
+        {
+          "label": "Google Maps place: Someshwarnath Mahadev / Shamshaan Kaali Temple",
+          "url": "https://www.google.com/maps/search/?api=1&query=Someshwarnath%20Mahadev%20%2F%20Shamshaan%20Kaali%20Temple&query_place_id=ChIJX9T7dAC1KDoRGeEvOyrikx4",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:56:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Mandir XW5V+8F9 (Kumhi)",
+    "city": "Kumhi",
+    "region": "Kumhi, Gariaband district",
+    "tags": [
+      "Kumhi",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Mandir XW5V+8F9 (Kumhi) is a locally mapped Shiva shrine in Kumhi within the wider Gariaband district devotional landscape.",
+    "highlight": "Kumhi-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kumhi is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "XW5V+8F9, Rajim - Fingeshwar - Mahasamund Rd",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir XW5V+8F9 (Kumhi)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJI20piOi1KDoRJ5yxtCYgRrg",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T15:58:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Mandir R6QM+XFP (Dadargaon)",
+    "city": "Dadargaon",
+    "region": "Dadargaon, Gariaband district",
+    "tags": [
+      "Dadargaon",
+      "Shiva",
+      "Gariaband"
+    ],
+    "story": "Shiv Mandir R6QM+XFP (Dadargaon) is a locally mapped Shiva shrine in Dadargaon within the wider Gariaband district devotional landscape.",
+    "highlight": "Dadargaon-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Dadargaon is carried in the supplied local place listings as an active Shiva worship point in the Gariaband district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "R6QM+XFP",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir R6QM+XFP (Dadargaon)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJuYe4glP_JToRZ2bf7fyEPfw",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-05T16:00:00+05:30",
+    "lastVerifiedAt": "2026-04-05"
+  },
+  {
+    "name": "Shiv Shankar Mandir",
+    "city": "Changori",
+    "region": "Changori, Janjgir-Champa district",
+    "tags": [
+      "Changori",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Shankar Mandir is a locally mapped Shiva shrine in Changori within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Changori-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva (Shiv Shankar)",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Changori is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews; 49H5+3MJ",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Shankar Mandir",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Shankar%20Mandir&query_place_id=ChIJbTWmrkPmJzoRCre4gQ8-dtE",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:00:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 4CXJ+RV3 (Janjgir-Champa)",
+    "city": "4CXJ+RV3",
+    "region": "4CXJ+RV3, Janjgir-Champa district",
+    "tags": [
+      "4CXJ+RV3",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir 4CXJ+RV3 (Janjgir-Champa) is a locally mapped Shiva shrine in 4CXJ+RV3 within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "4CXJ+RV3-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "4CXJ+RV3 is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4/5; 2 reviews; 4CXJ+RV3",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 4CXJ+RV3 (Janjgir-Champa)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJuaPWZwvpJzoROFNCXx4UC84",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:02:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Pithampur Road Shiv Mandir",
+    "city": "Pisaud",
+    "region": "Pisaud, Janjgir-Champa district",
+    "tags": [
+      "Pisaud",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Pithampur Road Shiv Mandir is a locally mapped Shiva shrine in Pisaud within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Pisaud-side road-linked Shiva shrine with strong local review visibility.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Pisaud is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 38 reviews; XJRW+GGV",
+      "sources": [
+        {
+          "label": "Google Maps place: Pithampur Road Shiv Mandir",
+          "url": "https://www.google.com/maps/search/?api=1&query=Pithampur%20Road%20Shiv%20Mandir&query_place_id=ChIJhcmhyKe-JzoRlYOUSVoHtCU",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:04:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Chandrachud Mahadev Temple",
+    "city": "Shivrinarayan",
+    "region": "Shivrinarayan, Janjgir-Champa district",
+    "tags": [
+      "Shivrinarayan",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Chandrachud Mahadev Temple is a locally mapped Shiva shrine in Shivrinarayan within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Shivrinarayan-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva (Chandrachud Mahadev)",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shivrinarayan is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.5/5; 4 reviews; PH9Q+RXV",
+      "sources": [
+        {
+          "label": "Google Maps place: Chandrachud Mahadev Temple",
+          "url": "https://www.google.com/maps/search/?api=1&query=Chandrachud%20Mahadev%20Temple&query_place_id=ChIJFfc1p-q1JzoRAPPtaArpuDg",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:08:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv & Shani Dev Mandir",
+    "city": "Shivrinarayan",
+    "region": "Shivrinarayan, Janjgir-Champa district",
+    "tags": [
+      "Shivrinarayan",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv & Shani Dev Mandir is a locally mapped Shiva shrine in Shivrinarayan within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Shivrinarayan-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shivrinarayan is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews; PH9V+WG8",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv & Shani Dev Mandir",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20%26%20Shani%20Dev%20Mandir&query_place_id=ChIJGehN9-G1JzoRyi8RQG5Ce4M",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:12:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple (Durg)",
+    "city": "Durg, Nawagarh",
+    "region": "Durg, Nawagarh, Janjgir-Champa district",
+    "tags": [
+      "Durg",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple (Durg) is a locally mapped Shiva shrine in Durg within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Durg-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Durg is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4/5; 13 reviews; phone +91 62648 21464",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple (Durg)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJYR8OucSwJzoRXh-Y7ju0XrA",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:14:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir PH9V+HMC (Shivrinarayan)",
+    "city": "Shivrinarayan",
+    "region": "Shivrinarayan, Janjgir-Champa district",
+    "tags": [
+      "Shivrinarayan",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir PH9V+HMC (Shivrinarayan) is a locally mapped Shiva shrine in Shivrinarayan within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Shivrinarayan-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shivrinarayan is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 3 reviews; PH9V+HMC",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir PH9V+HMC (Shivrinarayan)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJaS2RXYG1JzoR6AZtMR6L0AE",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:16:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple PPX6+3WX (Kera)",
+    "city": "Kera",
+    "region": "Kera, Janjgir-Champa district",
+    "tags": [
+      "Kera",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple PPX6+3WX (Kera) is a locally mapped Shiva shrine in Kera within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Kera-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kera is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4/5; 6 reviews; PPX6+3WX, Kera Rd",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple PPX6+3WX (Kera)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJew9IMF6yJzoRdIaoCtoqWdU",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:18:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple PJV5+Q2M (Tusma)",
+    "city": "Tusma",
+    "region": "Tusma, Janjgir-Champa district",
+    "tags": [
+      "Tusma",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple PJV5+Q2M (Tusma) is a locally mapped Shiva shrine in Tusma within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Tusma-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Tusma is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 2 reviews; PJV5+Q2M",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple PJV5+Q2M (Tusma)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJl6GAYCW1JzoRG6ilzwAFe1w",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:20:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Nageshwar Mahadev Mandir (Shivrinarayan)",
+    "city": "Shivrinarayan",
+    "region": "Shivrinarayan, Janjgir-Champa district",
+    "tags": [
+      "Shivrinarayan",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Nageshwar Mahadev Mandir (Shivrinarayan) is a locally mapped Shiva shrine in Shivrinarayan within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Shivrinarayan-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva (Nageshwar Mahadev)",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shivrinarayan is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "PH9W+CHF, SH 9",
+      "sources": [
+        {
+          "label": "Google Maps place: Nageshwar Mahadev Mandir (Shivrinarayan)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir%20(Nageshwar%20Mahadev)&query_place_id=ChIJOyKBv1q1JzoRS4AfcasaAUs",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:22:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir PMQG+79C (Kanasda)",
+    "city": "Kanasda",
+    "region": "Kanasda, Janjgir-Champa district",
+    "tags": [
+      "Kanasda",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir PMQG+79C (Kanasda) is a locally mapped Shiva shrine in Kanasda within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Kanasda-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kanasda is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.5/5; 11 reviews; PMQG+79C, Kera Rd",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir PMQG+79C (Kanasda)",
+          "url": "https://www.google.com/maps/search/?api=1&query=shiv%20Mandir&query_place_id=ChIJcct1FDqzJzoRQ-osoJttlK4",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:24:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir QMX6+9RX (Khairtal)",
+    "city": "Khairtal",
+    "region": "Khairtal, Janjgir-Champa district",
+    "tags": [
+      "Khairtal",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir QMX6+9RX (Khairtal) is a locally mapped Shiva shrine in Khairtal within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Khairtal-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Khairtal is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.8/5; 8 reviews; QMX6+9RX",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir QMX6+9RX (Khairtal)",
+          "url": "https://www.google.com/maps/search/?api=1&query=shiv%20mandir&query_place_id=ChIJO-sEV1qxJzoRI2QRWnHuqhw",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:26:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Mahanadi Shiv Mandir (Kera)",
+    "city": "Kera",
+    "region": "Kera, Janjgir-Champa district",
+    "tags": [
+      "Kera",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Mahanadi Shiv Mandir (Kera) is a locally mapped Shiva shrine in Kera within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Kera-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kera is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 1/5; 1 reviews; PPM3+CP",
+      "sources": [
+        {
+          "label": "Google Maps place: Mahanadi Shiv Mandir (Kera)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Mahanadi%20shiv%20mandir&query_place_id=ChIJY8TT8oGzJzoRzbNX0sS8Ld0",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:28:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 4JQQ+GCJ (Deori)",
+    "city": "Deori",
+    "region": "Deori, Janjgir-Champa district",
+    "tags": [
+      "Deori",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir 4JQQ+GCJ (Deori) is a locally mapped Shiva shrine in Deori within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Deori-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Deori is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.7/5; 15 reviews; 4JQQ+GCJ",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 4JQQ+GCJ (Deori)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJHXDTonGVJzoRYJ259kG1cn8",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:30:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple 4HVX+7M6 (Khaija)",
+    "city": "Khaija",
+    "region": "Khaija, Janjgir-Champa district",
+    "tags": [
+      "Khaija",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple 4HVX+7M6 (Khaija) is a locally mapped Shiva shrine in Khaija within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Khaija-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Khaija is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 2.3/5; 4 reviews; 4HVX+7M6, Unnamed Road",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 4HVX+7M6 (Khaija)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20temple%20khaija&query_place_id=ChIJ88S18kSVJzoRuw1l9BTKCZg",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:32:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 4FPH+Q2M (Baloda)",
+    "city": "Baloda",
+    "region": "Baloda, Janjgir-Champa district",
+    "tags": [
+      "Baloda",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir 4FPH+Q2M (Baloda) is a locally mapped Shiva shrine in Baloda within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Baloda-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Baloda is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.5/5; 2 reviews; 4FPH+Q2M",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 4FPH+Q2M (Baloda)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJcSvve-DrJzoRBOHqIIxC6Jo",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:34:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple 294V+22F (Raseda)",
+    "city": "Raseda",
+    "region": "Raseda, Janjgir-Champa district",
+    "tags": [
+      "Raseda",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple 294V+22F (Raseda) is a locally mapped Shiva shrine in Raseda within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Raseda-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Raseda is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4/5; 1 reviews; 294V+22F",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 294V+22F (Raseda)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20temple&query_place_id=ChIJH5qTj5vDJzoRIYNxr4kz_88",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:36:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple VFPP+RQ5 (Bhadra)",
+    "city": "Bhadra",
+    "region": "Bhadra, Janjgir-Champa district",
+    "tags": [
+      "Bhadra",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple VFPP+RQ5 (Bhadra) is a locally mapped Shiva shrine in Bhadra within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Bhadra-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bhadra is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.5/5; 2 reviews; VFPP+RQ5",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple VFPP+RQ5 (Bhadra)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20temple&query_place_id=ChIJc2XvVWPHJzoRbyX_94CUa08",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:38:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple 2HCF+H6W (Janjgir)",
+    "city": "Janjgir",
+    "region": "Janjgir, Janjgir-Champa district",
+    "tags": [
+      "Janjgir",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple 2HCF+H6W (Janjgir) is a locally mapped Shiva shrine in Janjgir within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Janjgir-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Janjgir is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4/5; 4 reviews; 2HCF+H6W, Nahariya Baba Rd",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 2HCF+H6W (Janjgir)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Temple&query_place_id=ChIJ_4zY8He_JzoRrhmUEz26DvE",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:40:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Dalha Pahad (Kosmanda)",
+    "city": "Kosmanda",
+    "region": "Kosmanda, Janjgir-Champa district",
+    "tags": [
+      "Kosmanda",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir Dalha Pahad (Kosmanda) is a locally mapped Shiva shrine in Kosmanda within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Kosmanda-side Shiva hill shrine mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kosmanda is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Hill-shrine profile tied to local ascent-based darshan and open-sky ritual use.",
+      "visitorNotes": "Google rating 4.7/5; 6 reviews; 3CW5+WM",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Dalha Pahad (Kosmanda)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%20%E0%A4%A6%E0%A4%B2%E0%A4%B9%E0%A4%BE%20%E0%A4%AA%E0%A4%B9%E0%A4%BE%E0%A4%A1%E0%A4%BC&query_place_id=ChIJr3kO3HHpJzoRpFUlX-73BEU",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:42:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 29HX+FWQ (Janjgir-Champa)",
+    "city": "29HX+FWQ",
+    "region": "29HX+FWQ, Janjgir-Champa district",
+    "tags": [
+      "29HX+FWQ",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir 29HX+FWQ (Janjgir-Champa) is a locally mapped Shiva shrine in 29HX+FWQ within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "29HX+FWQ-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "29HX+FWQ is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.5/5; 10 reviews; 29HX+FWQ; phone +91 91312 01501",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 29HX+FWQ (Janjgir-Champa)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir%20%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJczV1e8XCJzoRVt7Q9DwyhGM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:44:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 2H7J+MH6 (Janjgir)",
+    "city": "Janjgir",
+    "region": "Janjgir, Janjgir-Champa district",
+    "tags": [
+      "Janjgir",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir 2H7J+MH6 (Janjgir) is a locally mapped Shiva shrine in Janjgir within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Janjgir-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Janjgir is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.7/5; 7 reviews; 2H7J+MH6, Shiv Mandir Gali",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 2H7J+MH6 (Janjgir)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJ33olHXO_JzoRqosY3V8uYyY",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:46:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir WGPC+7HX (Sewai)",
+    "city": "Sewai",
+    "region": "Sewai, Janjgir-Champa district",
+    "tags": [
+      "Sewai",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir WGPC+7HX (Sewai) is a locally mapped Shiva shrine in Sewai within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Sewai-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Sewai is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4/5; 5 reviews; WGPC+7HX",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir WGPC+7HX (Sewai)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%F0%9F%9A%A9Shiv%20Mandir%F0%9F%9A%A9&query_place_id=ChIJjS_QIIbHJzoRAoIf85E4Xd8",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:48:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir XCMC+2VX (Taraod)",
+    "city": "Taraod",
+    "region": "Taraod, Janjgir-Champa district",
+    "tags": [
+      "Taraod",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir XCMC+2VX (Taraod) is a locally mapped Shiva shrine in Taraod within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Taraod-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Taraod is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4/5; 2 reviews; XCMC+2VX, Rogda Rd",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir XCMC+2VX (Taraod)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJPVHBQg7DJzoR71c3n8T9mUI",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:50:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir XG7J+588 (Dharashiv)",
+    "city": "Dharashiv",
+    "region": "Dharashiv, Janjgir-Champa district",
+    "tags": [
+      "Dharashiv",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir XG7J+588 (Dharashiv) is a locally mapped Shiva shrine in Dharashiv within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Dharashiv-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Dharashiv is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.2/5; 5 reviews; XG7J+588, Unnamed Road",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir XG7J+588 (Dharashiv)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJT42w6KLHJzoRqUZhTQ75oQU",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:52:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir XFG3+83P (Kirari)",
+    "city": "Kirari",
+    "region": "Kirari, Janjgir-Champa district",
+    "tags": [
+      "Kirari",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir XFG3+83P (Kirari) is a locally mapped Shiva shrine in Kirari within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Kirari-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kirari is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "XFG3+83P",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir XFG3+83P (Kirari)",
+          "url": "https://www.google.com/maps/search/?api=1&query=shiv%20mandir%20kirari%20%F0%9F%9A%A9%F0%9F%9A%A9%F0%9F%9A%A9&query_place_id=ChIJgwMVZADDJzoRcFeyDL5FJ1E",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:54:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir XMQ8+356 (Hathnewra)",
+    "city": "Hathnewra, Pithampur",
+    "region": "Hathnewra, Pithampur, Janjgir-Champa district",
+    "tags": [
+      "Hathnewra",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir XMQ8+356 (Hathnewra) is a locally mapped Shiva shrine in Hathnewra within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Hathnewra-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Hathnewra is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 70 reviews; XMQ8+356; phone +91 78987 00932",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir XMQ8+356 (Hathnewra)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJ3SuAOgy8JzoRx7WcOwuFTGs",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:56:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple WQFJ+WG4 (Parsapali)",
+    "city": "Parsapali, Sarwani",
+    "region": "Parsapali, Sarwani, Janjgir-Champa district",
+    "tags": [
+      "Parsapali",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple WQFJ+WG4 (Parsapali) is a locally mapped Shiva shrine in Parsapali within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Parsapali-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Parsapali is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.9/5; 11 reviews; WQFJ+WG4",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple WQFJ+WG4 (Parsapali)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJNYzwjx-lJzoRGor-sDliLvw",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T09:58:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Dayasagar Shiv Mandir Tufan",
+    "city": "Soniyapat",
+    "region": "Soniyapat, Janjgir-Champa district",
+    "tags": [
+      "Soniyapat",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Dayasagar Shiv Mandir Tufan is a locally mapped Shiva shrine in Soniyapat within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Soniyapat-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Soniyapat is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.5/5; 2 reviews; 2Q38+C97; phone +91 88714 23432",
+      "sources": [
+        {
+          "label": "Google Maps place: Dayasagar Shiv Mandir Tufan",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%A6%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%97%E0%A4%B0%20%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%20%E0%A4%A4%E0%A5%82%E0%A4%AB%E0%A4%BE%E0%A4%A8&query_place_id=ChIJX910l22jJzoRhV4xMCQ87lc",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:00:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 2J33+V7H (Janjgir)",
+    "city": "Janjgir",
+    "region": "Janjgir, Janjgir-Champa district",
+    "tags": [
+      "Janjgir",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir 2J33+V7H (Janjgir) is a locally mapped Shiva shrine in Janjgir within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Janjgir-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Janjgir is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 3 reviews; 2J33+V7H",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 2J33+V7H (Janjgir)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJF0TcQ_G_JzoRd8X8lIoeRsM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:02:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple XP6Q+9FH (Jainagar)",
+    "city": "Jainagar",
+    "region": "Jainagar, Janjgir-Champa district",
+    "tags": [
+      "Jainagar",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple XP6Q+9FH (Jainagar) is a locally mapped Shiva shrine in Jainagar within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Jainagar-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jainagar is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.9/5; 22 reviews; XP6Q+9FH",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple XP6Q+9FH (Jainagar)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple%20Pachori&query_place_id=ChIJ6QMCuLWkJzoRbXIC7IfPMco",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:04:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Prasiddh Shiv Mandir (Kasaundi)",
+    "city": "Janjgir, Kasaundi",
+    "region": "Janjgir, Kasaundi, Janjgir-Champa district",
+    "tags": [
+      "Janjgir",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Prasiddh Shiv Mandir (Kasaundi) is a locally mapped Shiva shrine in Janjgir within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Janjgir-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Janjgir is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews; WJXM+466, kasoundi",
+      "sources": [
+        {
+          "label": "Google Maps place: Prasiddh Shiv Mandir (Kasaundi)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Prasiddh%20Shiv%20Mandir&query_place_id=ChIJaZLEs265JzoRft68Ll3GlPk",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:06:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple WQXW+8H9 (Barbhatha)",
+    "city": "Barbhatha, Choria",
+    "region": "Barbhatha, Choria, Janjgir-Champa district",
+    "tags": [
+      "Barbhatha",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple WQXW+8H9 (Barbhatha) is a locally mapped Shiva shrine in Barbhatha within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Barbhatha-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Barbhatha is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.5/5; 2 reviews; WQXW+8H9",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple WQXW+8H9 (Barbhatha)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20temple&query_place_id=ChIJZ6pC2OClJzoRXj7NCUbEZiw",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:08:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir XJXR+5RQ (Pisaud)",
+    "city": "Pisaud",
+    "region": "Pisaud, Janjgir-Champa district",
+    "tags": [
+      "Pisaud",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir XJXR+5RQ (Pisaud) is a locally mapped Shiva shrine in Pisaud within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Pisaud-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Pisaud is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 2 reviews; XJXR+5RQ; phone +91 85170 91430",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir XJXR+5RQ (Pisaud)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJy8GpxaO-JzoRBm6xxJgP43Q",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:10:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple (Karmanda, DR)",
+    "city": "Karmanda",
+    "region": "Karmanda, Janjgir-Champa district",
+    "tags": [
+      "Karmanda",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple (Karmanda, DR) is a locally mapped Shiva shrine in Karmanda within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Karmanda-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Karmanda is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.8/5; 4 reviews; 3HVX+R5F",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple (Karmanda, DR)",
+          "url": "https://www.google.com/maps/search/?api=1&query=shive%20temple%20(DR)&query_place_id=ChIJA9ztVNqVJzoREh7SqoAQS_Q",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:12:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir VPP5+763 (Barbaspur)",
+    "city": "Barbaspur",
+    "region": "Barbaspur, Janjgir-Champa district",
+    "tags": [
+      "Barbaspur",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir VPP5+763 (Barbaspur) is a locally mapped Shiva shrine in Barbaspur within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Barbaspur-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Barbaspur is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.7/5; 6 reviews; VPP5+763",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir VPP5+763 (Barbaspur)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir%20Barbaspur&query_place_id=ChIJZ-PwLW6xJzoRdOgMhAtgNbE",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:14:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple WQHG+JM2 (Sarwani)",
+    "city": "Sarwani",
+    "region": "Sarwani, Janjgir-Champa district",
+    "tags": [
+      "Sarwani",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple WQHG+JM2 (Sarwani) is a locally mapped Shiva shrine in Sarwani within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Sarwani-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Sarwani is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 4 reviews; WQHG+JM2",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple WQHG+JM2 (Sarwani)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJs6p-bgGlJzoRR134B4tDGH0",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:16:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple WPFR+QJ7 (Bhadara)",
+    "city": "Bhadara",
+    "region": "Bhadara, Janjgir-Champa district",
+    "tags": [
+      "Bhadara",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple WPFR+QJ7 (Bhadara) is a locally mapped Shiva shrine in Bhadara within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Bhadara-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bhadara is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.4/5; 19 reviews; WPFR+QJ7",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple WPFR+QJ7 (Bhadara)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJMw3hPS6lJzoR9ILfhgT8g6Q",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:18:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Om Namah Shivaya Mahadev Mandir (Awrid)",
+    "city": "Awrid",
+    "region": "Awrid, Janjgir-Champa district",
+    "tags": [
+      "Awrid",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Om Namah Shivaya Mahadev Mandir (Awrid) is a locally mapped Shiva shrine in Awrid within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Awrid-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva (Mahadev)",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Awrid is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.7/5; 3 reviews; VJR8+RHV",
+      "sources": [
+        {
+          "label": "Google Maps place: Om Namah Shivaya Mahadev Mandir (Awrid)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A5%90%20%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%83%20%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%AF%20mahadew%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJnQSC8D25JzoRaqhFnSAgD_w",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:20:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple Block Colony (Janjgir)",
+    "city": "Janjgir",
+    "region": "Janjgir, Janjgir-Champa district",
+    "tags": [
+      "Janjgir",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple Block Colony (Janjgir) is a locally mapped Shiva shrine in Janjgir within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Block Colony Janjgir-side Shiva darshan point with active local visibility.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Janjgir is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.8/5; 6 reviews; 2H5M+5G3",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple Block Colony (Janjgir)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple%20Block%20Colony%20Janjgir&query_place_id=ChIJvy-eKRO_JzoR5phUPzpSMOw",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:22:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir WM3C+CQQ (Janjgir)",
+    "city": "Janjgir, Hardi",
+    "region": "Janjgir, Hardi, Janjgir-Champa district",
+    "tags": [
+      "Janjgir",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir WM3C+CQQ (Janjgir) is a locally mapped Shiva shrine in Janjgir within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Janjgir-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Janjgir is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.7/5; 6 reviews; WM3C+CQQ, Pani tanki champa",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir WM3C+CQQ (Janjgir)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJQThkcmu6JzoR9VRNmq9WEiM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:24:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple WQPC+HXF (Sarwani)",
+    "city": "Sarwani",
+    "region": "Sarwani, Janjgir-Champa district",
+    "tags": [
+      "Sarwani",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple WQPC+HXF (Sarwani) is a locally mapped Shiva shrine in Sarwani within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Sarwani-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Sarwani is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.2/5; 5 reviews; WQPC+HXF",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple WQPC+HXF (Sarwani)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJnf7pGVSlJzoRKspf5H6ZbkE",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:26:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 3P8X+PWJ (Harrabhata)",
+    "city": "Harrabhata",
+    "region": "Harrabhata, Janjgir-Champa district",
+    "tags": [
+      "Harrabhata",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir 3P8X+PWJ (Harrabhata) is a locally mapped Shiva shrine in Harrabhata within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Harrabhata-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Harrabhata is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4/5; 4 reviews; 3P8X+PWJ, Unnamed Road",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 3P8X+PWJ (Harrabhata)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJUZaQzzujJzoR6choUWAuPNU",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:28:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir XQ7H+QHW (Choria)",
+    "city": "Choria",
+    "region": "Choria, Janjgir-Champa district",
+    "tags": [
+      "Choria",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir XQ7H+QHW (Choria) is a locally mapped Shiva shrine in Choria within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Choria-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Choria is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.4/5; 5 reviews; XQ7H+QHW",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir XQ7H+QHW (Choria)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJSdK4xmGkJzoRfCrlyB_y3ao",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:30:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 2Q22+5RR (Janjgir-Champa)",
+    "city": "2Q22+5RR",
+    "region": "2Q22+5RR, Janjgir-Champa district",
+    "tags": [
+      "2Q22+5RR",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir 2Q22+5RR (Janjgir-Champa) is a locally mapped Shiva shrine in 2Q22+5RR within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "2Q22+5RR-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "2Q22+5RR is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.9/5; 7 reviews; 2Q22+5RR; phone +91 96303 70400",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 2Q22+5RR (Janjgir-Champa)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJo0YX4UOjJzoRlqb7FeWW1l0",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:32:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir XJFG+2RR (Kanai)",
+    "city": "Kanai",
+    "region": "Kanai, Janjgir-Champa district",
+    "tags": [
+      "Kanai",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir XJFG+2RR (Kanai) is a locally mapped Shiva shrine in Kanai within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Kanai-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kanai is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.4/5; 8 reviews; XJFG+2RR",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir XJFG+2RR (Kanai)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJezJZCUq5JzoRX_u1gT-CC1Q",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:34:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Bholenath Shiv Mandir (Champa)",
+    "city": "Champa",
+    "region": "Champa, Janjgir-Champa district",
+    "tags": [
+      "Champa",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Bholenath Shiv Mandir (Champa) is a locally mapped Shiva shrine in Champa within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Champa-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva (Bholenath)",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Champa is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "2MR4+2JF",
+      "sources": [
+        {
+          "label": "Google Maps place: Bholenath Shiv Mandir (Champa)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Bholenath%20Shiv%20Mandir&query_place_id=ChIJ01kDkOC9JzoRjqnZFICYNxM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:36:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 29GX+7QR (Latia)",
+    "city": "Latia",
+    "region": "Latia, Janjgir-Champa district",
+    "tags": [
+      "Latia",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir 29GX+7QR (Latia) is a locally mapped Shiva shrine in Latia within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Latia-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Latia is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.5/5; 20 reviews; 29GX+7QR; phone +91 75661 00497",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 29GX+7QR (Latia)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJAS6ZB9DCJzoRjdKS6Cmm8mw",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:38:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir (Tilai)",
+    "city": "Tilai",
+    "region": "Tilai, Janjgir-Champa district",
+    "tags": [
+      "Tilai",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir (Tilai) is a locally mapped Shiva shrine in Tilai within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Tilai-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Tilai is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews; shiv mandir; phone +91 70471 06093",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir (Tilai)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJ5WfG0jvBJzoRnJH_LU2MUzQ",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:40:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Kuti Para Shiv Ji Temple (Misda)",
+    "city": "Misda",
+    "region": "Misda, Janjgir-Champa district",
+    "tags": [
+      "Misda",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Kuti Para Shiv Ji Temple (Misda) is a locally mapped Shiva shrine in Misda within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Misda-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Misda is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "QMQV+W4F govt.praimary school, Vill Tulsi, At kuti para",
+      "sources": [
+        {
+          "label": "Google Maps place: Kuti Para Shiv Ji Temple (Misda)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Kuti%20para%20shiv%20ji%20tempal&query_place_id=ChIJuzjagMmzJzoRxVkGz-W395o",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:42:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple (Tulsi, Misda)",
+    "city": "Tulsi, Misda",
+    "region": "Tulsi, Misda, Janjgir-Champa district",
+    "tags": [
+      "Tulsi",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple (Tulsi, Misda) is a locally mapped Shiva shrine in Tulsi within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Tulsi-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Tulsi is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "QMRR+R42",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple (Tulsi, Misda)",
+          "url": "https://www.google.com/maps/search/?api=1&query=SHIV%20TEMPLE&query_place_id=ChIJHU3rwAexJzoRPcJMNkMMUsM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:44:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple XQ5G+3RG (Choria)",
+    "city": "Choria",
+    "region": "Choria, Janjgir-Champa district",
+    "tags": [
+      "Choria",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple XQ5G+3RG (Choria) is a locally mapped Shiva shrine in Choria within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Choria-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Choria is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.2/5; 11 reviews; XQ5G+3RG",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple XQ5G+3RG (Choria)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20temple&query_place_id=ChIJ3QEudbqlJzoR7qOPABHikRI",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:46:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Barbaspur 3FHM+JCW",
+    "city": "Barbaspur",
+    "region": "Barbaspur, Janjgir-Champa district",
+    "tags": [
+      "Barbaspur",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir Barbaspur 3FHM+JCW is a locally mapped Shiva shrine in Barbaspur within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Barbaspur-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Barbaspur is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 2 reviews; 3FHM+JCW",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Barbaspur 3FHM+JCW",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%20%E0%A4%AC%E0%A4%B0%E0%A4%AC%E0%A4%B8%E0%A4%AA%E0%A5%81%E0%A4%B0%2CSiva's%20Temple%20BARBASPUR&query_place_id=ChIJaUYI9DbrJzoR0ZvgRRwoBBo",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:48:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Kasibhatta (Nawapara)",
+    "city": "Nawapara",
+    "region": "Nawapara, Janjgir-Champa district",
+    "tags": [
+      "Nawapara",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir Kasibhatta (Nawapara) is a locally mapped Shiva shrine in Nawapara within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Nawapara-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Nawapara is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Small local shrine profile; the mapped category appears mismatched but the place name is temple-specific.",
+      "visitorNotes": "Google rating 4/5; 4 reviews; XJHC+PQJ; Google category: Hotel; the place name indicates a Shiva temple entry.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Kasibhatta (Nawapara)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%20%E0%A4%95%E0%A4%B8%E0%A5%80%E0%A4%AD%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A4%BE&query_place_id=ChIJRfC7XiK_JzoRzmpmMbEN07c",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:50:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple 3HWX+PCW (Karmanda)",
+    "city": "Karmanda",
+    "region": "Karmanda, Janjgir-Champa district",
+    "tags": [
+      "Karmanda",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Temple 3HWX+PCW (Karmanda) is a locally mapped Shiva shrine in Karmanda within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Karmanda-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Karmanda is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews; 3HWX+PCW",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 3HWX+PCW (Karmanda)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20temple&query_place_id=ChIJEQvAfMKVJzoRe5omalsXvHM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:52:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Vidyanagar (Pisaud)",
+    "city": "Pisaud",
+    "region": "Pisaud, Janjgir-Champa district",
+    "tags": [
+      "Pisaud",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir Vidyanagar (Pisaud) is a locally mapped Shiva shrine in Pisaud within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Pisaud-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Pisaud is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Small local shrine profile; the mapped category appears mismatched but the place name is temple-specific.",
+      "visitorNotes": "XJXR+5QH; Google category: Doctor; the place name indicates a Shiva temple entry.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Vidyanagar (Pisaud)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%2C%20%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A4%97%E0%A4%B0%2C%20%E0%A4%AA%E0%A4%BF%E0%A4%B8%E0%A5%8C%E0%A4%A6&query_place_id=ChIJLXTNxaO-JzoRtX4FGS5xQUg",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:54:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir RPMG+QGG (Kamod)",
+    "city": "Kamod",
+    "region": "Kamod, Janjgir-Champa district",
+    "tags": [
+      "Kamod",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir RPMG+QGG (Kamod) is a locally mapped Shiva shrine in Kamod within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Kamod-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kamod is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 1/5; 1 reviews; RPMG+QGG",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir RPMG+QGG (Kamod)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJH4wME4GxJzoRoiBmMOFQ2Lo",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:56:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 2CXW+M59 (Bargawan)",
+    "city": "Bargawan",
+    "region": "Bargawan, Janjgir-Champa district",
+    "tags": [
+      "Bargawan",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir 2CXW+M59 (Bargawan) is a locally mapped Shiva shrine in Bargawan within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Bargawan-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bargawan is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 reviews; 2CXW+M59",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 2CXW+M59 (Bargawan)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir%20kumhar%20para&query_place_id=ChIJj1WnXADDJzoRuYM_3u3JF7s",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T10:58:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 298R+XWG (Latia)",
+    "city": "Latia, akaltara",
+    "region": "Latia, akaltara, Janjgir-Champa district",
+    "tags": [
+      "Latia",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir 298R+XWG (Latia) is a locally mapped Shiva shrine in Latia within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Latia-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Latia is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "298R+XWG, Pakariya",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 298R+XWG (Latia)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJQXF-aQDDJzoRYMKz8Wv77JU",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:00:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 2MV7+Q2R (Champa)",
+    "city": "Champa",
+    "region": "Champa, Janjgir-Champa district",
+    "tags": [
+      "Champa",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir 2MV7+Q2R (Champa) is a locally mapped Shiva shrine in Champa within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Champa-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Champa is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4/5; 3 reviews; 2MV7+Q2R",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 2MV7+Q2R (Champa)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJEYNm0GC9JzoRZB6lGjpBgvU",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:02:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir (Karmandi)",
+    "city": "Karmandi",
+    "region": "Karmandi, Janjgir-Champa district",
+    "tags": [
+      "Karmandi",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir (Karmandi) is a locally mapped Shiva shrine in Karmandi within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Karmandi-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Karmandi is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Small local shrine profile; the mapped category appears mismatched but the place name is temple-specific.",
+      "visitorNotes": "Google rating 3/5; 2 reviews; Google category: Museum; the place name indicates a Shiva temple entry.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir (Karmandi)",
+          "url": "https://www.google.com/maps/search/?api=1&query=SHIV%20MANDIR&query_place_id=ChIJVdSqgHyVJzoR-2PXizIXXwg",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:04:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir QP5G+43P (Mohtara)",
+    "city": "Mohtara",
+    "region": "Mohtara, Janjgir-Champa district",
+    "tags": [
+      "Mohtara",
+      "Shiva",
+      "Janjgir-Champa"
+    ],
+    "story": "Shiv Mandir QP5G+43P (Mohtara) is a locally mapped Shiva shrine in Mohtara within the wider Janjgir-Champa district devotional landscape.",
+    "highlight": "Mohtara-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for plus-code navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Mohtara is carried in the supplied local place listings as an active Shiva worship point in the Janjgir-Champa district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "QP5G+43P",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir QP5G+43P (Mohtara)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%20%E0%A4%AE%E0%A5%8B%E0%A4%B9%E0%A4%A4%E0%A4%B0%E0%A4%BE&query_place_id=ChIJNaOxdwCzJzoRFpLNtBteL3g",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:06:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 3VJ6+FJ3 (Sanna)",
+    "city": "Sanna",
+    "region": "Sanna, Jashpur district",
+    "tags": [
+      "Sanna",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir 3VJ6+FJ3 (Sanna) is a locally mapped Shiva shrine in Sanna within the wider Jashpur district devotional landscape.",
+    "highlight": "Sanna-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Sanna is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "3VJ6+FJ3, Unnamed Road",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 3VJ6+FJ3 (Sanna)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJ2TaeaBw3ijkREa8LTIXGZV8",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:08:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple FPPR+FMV (Jamjhor)",
+    "city": "Jamjhor, Mayur Nacha",
+    "region": "Jamjhor, Mayur Nacha, Jashpur district",
+    "tags": [
+      "Jamjhor",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Temple FPPR+FMV (Jamjhor) is a locally mapped Shiva shrine in Jamjhor, Mayur Nacha within the wider Jashpur district devotional landscape.",
+    "highlight": "Jamjhor-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jamjhor, Mayur Nacha is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.4/5; 7 reviews; FPPR+FMV",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple FPPR+FMV (Jamjhor)",
+          "url": "https://www.google.com/maps/search/?api=1&query=shiva%20temple&query_place_id=ChIJLb21-xeoIDoRH4ORjqEipd4",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:10:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Kokiyakhar Shiv Mandir",
+    "city": "Kokiyakhar, Kukur Bhuka",
+    "region": "Kokiyakhar, Kukur Bhuka, Jashpur district",
+    "tags": [
+      "Kokiyakhar",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Kokiyakhar Shiv Mandir is a locally mapped Shiva shrine in Kokiyakhar, Kukur Bhuka within the wider Jashpur district devotional landscape.",
+    "highlight": "Kokiyakhar-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kokiyakhar, Kukur Bhuka is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.4/5; 19 reviews; FPP8+9MV",
+      "sources": [
+        {
+          "label": "Google Maps place: Kokiyakhar Shiv Mandir",
+          "url": "https://www.google.com/maps/search/?api=1&query=Kokiyakhar%20%2C%20Shiv%20Mandir&query_place_id=ChIJl7LqedKpIDoRMmdazCvSWFc",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:12:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir FQ94+XG (Kokiyakhar)",
+    "city": "Kokiyakhar",
+    "region": "Kokiyakhar, Jashpur district",
+    "tags": [
+      "Kokiyakhar",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir FQ94+XG (Kokiyakhar) is a locally mapped Shiva shrine in Kokiyakhar within the wider Jashpur district devotional landscape.",
+    "highlight": "Kokiyakhar-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kokiyakhar is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3/5; 1 review; FQ94+XG",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir FQ94+XG (Kokiyakhar)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20mandir&query_place_id=ChIJfWRmh3SpIDoRWwVsMmeiXHc",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:14:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple 9QHC+W5Q (Kolhenjhariya)",
+    "city": "Kolhenjhariya",
+    "region": "Kolhenjhariya, Jashpur district",
+    "tags": [
+      "Kolhenjhariya",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Temple 9QHC+W5Q (Kolhenjhariya) is a locally mapped Shiva shrine in Kolhenjhariya within the wider Jashpur district devotional landscape.",
+    "highlight": "Kolhenjhariya-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kolhenjhariya is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "9QHC+W5Q",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 9QHC+W5Q (Kolhenjhariya)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20temple&query_place_id=ChIJycRnfmOlIDoRJBzUCOeF7h8",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:16:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Tuba",
+    "city": "Tuba",
+    "region": "Tuba, Jashpur district",
+    "tags": [
+      "Tuba",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir Tuba is a locally mapped Shiva shrine in Tuba within the wider Jashpur district devotional landscape.",
+    "highlight": "Tuba-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Tuba is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.8/5; 8 reviews; GV4R+M5C",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Tuba",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%20Tuba&query_place_id=ChIJsZjy1N0LijkR1RrEXHgkY3c",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:18:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir GQR3+R65 (Bagbahar)",
+    "city": "Bagbahar",
+    "region": "Bagbahar, Jashpur district",
+    "tags": [
+      "Bagbahar",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir GQR3+R65 (Bagbahar) is a locally mapped Shiva shrine in Bagbahar within the wider Jashpur district devotional landscape.",
+    "highlight": "Bagbahar-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bagbahar is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.6/5; 15 reviews; GQR3+R65",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir GQR3+R65 (Bagbahar)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Mandir&query_place_id=ChIJ84lUFdIHijkRwQ2UXuJRJXQ",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:20:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Kapatdwar Shiv Temple Cluster",
+    "city": "Bidurpur",
+    "region": "Bidurpur, Jashpur district",
+    "tags": [
+      "Bidurpur",
+      "Temple Cluster",
+      "Jashpur"
+    ],
+    "story": "Kapatdwar Shiv Temple Cluster is a locally mapped Shiva temple cluster in Bidurpur within the wider Jashpur district devotional landscape.",
+    "highlight": "Bidurpur-side Shiva temple cluster mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bidurpur is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Temple-cluster profile with multiple shrine points carried in local devotional memory.",
+      "visitorNotes": "Google rating 4.4/5; 12 reviews; CWHX+MM3",
+      "sources": [
+        {
+          "label": "Google Maps place: Kapatdwar Shiv Temple Cluster",
+          "url": "https://www.google.com/maps/search/?api=1&query=Kapatdwar%20shiv%20temples%20darshaniya%20sthal&query_place_id=ChIJ11F3Xi-fIDoR2DoXdvKj4xs",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:22:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple Kotaibira",
+    "city": "Bidurpur",
+    "region": "Bidurpur, Jashpur district",
+    "tags": [
+      "Bidurpur",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Temple Kotaibira is a locally mapped Shiva shrine in Bidurpur within the wider Jashpur district devotional landscape.",
+    "highlight": "Bidurpur-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bidurpur is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.4/5; 379 reviews; CXJ2+596",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple Kotaibira",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple%20Kotaibira&query_place_id=ChIJbyO03kCfIDoRXGZCv9vKAck",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:24:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir FWR4+W9H (Jashpur)",
+    "city": "Jashpur",
+    "region": "Jashpur, Jashpur district",
+    "tags": [
+      "Jashpur",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir FWR4+W9H (Jashpur) is a locally mapped Shiva shrine in Jashpur within the wider Jashpur district devotional landscape.",
+    "highlight": "Jashpur-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jashpur is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3/5; 2 reviews; FWR4+W9H",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir FWR4+W9H (Jashpur)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJ1fa--oWhIDoRsFQ7yL6f3ww",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:26:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 9WR4+VJ9 (Ankira)",
+    "city": "Ankira",
+    "region": "Ankira, Jashpur district",
+    "tags": [
+      "Ankira",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir 9WR4+VJ9 (Ankira) is a locally mapped Shiva shrine in Ankira within the wider Jashpur district devotional landscape.",
+    "highlight": "Ankira-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Ankira is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 1/5; 4 reviews; 9WR4+VJ9",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 9WR4+VJ9 (Ankira)",
+          "url": "https://www.google.com/maps/search/?api=1&query=shiv%20Mandir&query_place_id=ChIJnyN0HjyiIDoRit6KXulKq6Q",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:28:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiva Temple Charaidand",
+    "city": "Charaidan",
+    "region": "Charaidan, Jashpur district",
+    "tags": [
+      "Charaidan",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiva Temple Charaidand is a locally mapped Shiva shrine in Charaidan within the wider Jashpur district devotional landscape.",
+    "highlight": "Charaidan-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Charaidan is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.4/5; 23 reviews; Q37C+WJH, Jashpur Nagar Hwy",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiva Temple Charaidand",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Temple%20Charaidand&query_place_id=ChIJqVq1bxFvijkRjJFxjqoE22U",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:30:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Madheswar Shiva Statue Shrine",
+    "city": "Jokari",
+    "region": "Jokari, Jashpur district",
+    "tags": [
+      "Jokari",
+      "Shiva Statue",
+      "Jashpur"
+    ],
+    "story": "Madheswar Shiva Statue Shrine is a locally mapped Shiva worship site in Jokari, centered on a Madheswar statue marker.",
+    "highlight": "Jokari-side Shiva worship point centered on a Madheswar statue marker.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jokari is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Statue-centered open worship profile used as a local Shiva devotion point.",
+      "visitorNotes": "Google rating 3/5; 2 reviews; R25R+GC",
+      "sources": [
+        {
+          "label": "Google Maps place: Madheswar Shiva Statue Shrine",
+          "url": "https://www.google.com/maps/search/?api=1&query=SHIVA%20STATUE%20(MADHESWAR)%20%EF%B8%8F&query_place_id=ChIJEbg5nyZpijkRsbkZzJBWXvo",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:32:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir GW4X+RW8 (Tapkara)",
+    "city": "Tapkara",
+    "region": "Tapkara, Jashpur district",
+    "tags": [
+      "Tapkara",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir GW4X+RW8 (Tapkara) is a locally mapped Shiva shrine in Tapkara within the wider Jashpur district devotional landscape.",
+    "highlight": "Tapkara-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Tapkara is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.3/5; 4 reviews; GW4X+RW8",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir GW4X+RW8 (Tapkara)",
+          "url": "https://www.google.com/maps/search/?api=1&query=SHIV%20MANDIR&query_place_id=ChIJKbgcZV91ijkR9ik9Qt8vCUE",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:34:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple CW2Q+QWP (Babusajbahar)",
+    "city": "Babusajbahar",
+    "region": "Babusajbahar, Jashpur district",
+    "tags": [
+      "Babusajbahar",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Temple CW2Q+QWP (Babusajbahar) is a locally mapped Shiva shrine in Babusajbahar within the wider Jashpur district devotional landscape.",
+    "highlight": "Babusajbahar-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Babusajbahar is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 1/5; 1 review; CW2Q+QWP",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple CW2Q+QWP (Babusajbahar)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJ0Y7HRjaZIDoRmC0N4o32Y6Y",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:36:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Kilkila",
+    "city": "Kilkila, Golabuda",
+    "region": "Kilkila, Golabuda, Jashpur district",
+    "tags": [
+      "Kilkila",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir Kilkila is a locally mapped Shiva shrine in Kilkila, Golabuda within the wider Jashpur district devotional landscape.",
+    "highlight": "Kilkila-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kilkila, Golabuda is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 218 reviews; JCF3+8VV",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Kilkila",
+          "url": "https://www.google.com/maps/search/?api=1&query=SHIV%20MANDIR%20KILKILA&query_place_id=ChIJhyDLyN7kiTkRBJ5bruu6A9E",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:38:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple HF55+FGV (Pathalgaon)",
+    "city": "Pathalgaon",
+    "region": "Pathalgaon, Jashpur district",
+    "tags": [
+      "Pathalgaon",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Temple HF55+FGV (Pathalgaon) is a locally mapped Shiva shrine in Pathalgaon within the wider Jashpur district devotional landscape.",
+    "highlight": "Pathalgaon-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Pathalgaon is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 3 reviews; HF55+FGV",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple HF55+FGV (Pathalgaon)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJ7w5K7C39iTkROh9Kmh24fEc",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:40:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiva Mandir Shivpur",
+    "city": "Shivpur, Gala",
+    "region": "Shivpur, Gala, Jashpur district",
+    "tags": [
+      "Shivpur",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiva Mandir Shivpur is a locally mapped Shiva shrine in Shivpur, Gala within the wider Jashpur district devotional landscape.",
+    "highlight": "Shivpur-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Shivpur, Gala is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "GF6X+74X",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiva Mandir Shivpur",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Mandir%20shivpur&query_place_id=ChIJp6mxdoD9iTkREkqmYdqjzXs",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:42:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir W65J+QRM (Jakba)",
+    "city": "Jakba, Amera Toli",
+    "region": "Jakba, Amera Toli, Jashpur district",
+    "tags": [
+      "Jakba",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir W65J+QRM (Jakba) is a locally mapped Shiva shrine in Jakba, Amera Toli within the wider Jashpur district devotional landscape.",
+    "highlight": "Jakba-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jakba, Amera Toli is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 2 reviews; W65J+QRM",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir W65J+QRM (Jakba)",
+          "url": "https://www.google.com/maps/search/?api=1&query=SHIV%20MANDIR&query_place_id=ChIJ5VqunSlfijkRhxUkmlCiiWo",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:44:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir V4PQ+93H (Jashpur Nagar)",
+    "city": "Jashpur Nagar",
+    "region": "Jashpur Nagar, Jashpur district",
+    "tags": [
+      "Jashpur Nagar",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir V4PQ+93H (Jashpur Nagar) is a locally mapped Shiva shrine in Jashpur Nagar within the wider Jashpur district devotional landscape.",
+    "highlight": "Jashpur Nagar-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jashpur Nagar is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.7/5; 13 reviews; V4PQ+93H",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir V4PQ+93H (Jashpur Nagar)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJozdDDYRnijkR3buIbcazZfs",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:46:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Darbari Toli",
+    "city": "Jashpur Nagar",
+    "region": "Jashpur Nagar, Jashpur district",
+    "tags": [
+      "Jashpur Nagar",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir Darbari Toli is a locally mapped Shiva shrine in Jashpur Nagar within the wider Jashpur district devotional landscape.",
+    "highlight": "Jashpur Nagar-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jashpur Nagar is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 4 reviews; V4JW+786",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Darbari Toli",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir%20Darbari%20toli&query_place_id=ChIJ8WZ8SqNnijkRTC3fLBIqkDM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:48:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple V4HP+7XF (Jashpur Nagar)",
+    "city": "Jashpur Nagar",
+    "region": "Jashpur Nagar, Jashpur district",
+    "tags": [
+      "Jashpur Nagar",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Temple V4HP+7XF (Jashpur Nagar) is a locally mapped Shiva shrine in Jashpur Nagar within the wider Jashpur district devotional landscape.",
+    "highlight": "Jashpur Nagar-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jashpur Nagar is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 3 reviews; V4HP+7XF",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple V4HP+7XF (Jashpur Nagar)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20temple&query_place_id=ChIJuwm3nZtnijkR1BvF1f-ANBM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:50:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Bataikela",
+    "city": "Bataikela",
+    "region": "Bataikela, Jashpur district",
+    "tags": [
+      "Bataikela",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir Bataikela is a locally mapped Shiva shrine in Bataikela within the wider Jashpur district devotional landscape.",
+    "highlight": "Bataikela-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bataikela is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.7/5; 7 reviews; PPJH+HW9, Kansebel Rd",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Bataikela",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir%20Bataikela&query_place_id=ChIJzb8M1U4bijkR4nu53rTJAo0",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:52:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Pushra",
+    "city": "Jashpur Nagar",
+    "region": "Jashpur Nagar, Jashpur district",
+    "tags": [
+      "Jashpur Nagar",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir Pushra is a locally mapped Shiva shrine in Jashpur Nagar within the wider Jashpur district devotional landscape.",
+    "highlight": "Jashpur Nagar-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jashpur Nagar is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 7 reviews; JR92+V8Q",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Pushra",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir%20pushra&query_place_id=ChIJBaCAYB8PijkRbIzKRVvvV5w",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:54:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir JPWV+37F (Kansabel)",
+    "city": "Kansabel",
+    "region": "Kansabel, Jashpur district",
+    "tags": [
+      "Kansabel",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir JPWV+37F (Kansabel) is a locally mapped Shiva shrine in Kansabel within the wider Jashpur district devotional landscape.",
+    "highlight": "Kansabel-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kansabel is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.8/5; 4 reviews; JPWV+37F",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir JPWV+37F (Kansabel)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJNSWL7XQFijkRrhjlIL-lQmY",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:56:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir HQV5+5GM (Kansabel)",
+    "city": "Kansabel",
+    "region": "Kansabel, Jashpur district",
+    "tags": [
+      "Kansabel",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir HQV5+5GM (Kansabel) is a locally mapped Shiva shrine in Kansabel within the wider Jashpur district devotional landscape.",
+    "highlight": "Kansabel-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kansabel is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "HQV5+5GM",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir HQV5+5GM (Kansabel)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJre30KAAHijkRuayjSNgTV8M",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T11:58:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir HJ53+737 (Ludeg)",
+    "city": "Ludeg",
+    "region": "Ludeg, Jashpur district",
+    "tags": [
+      "Ludeg",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir HJ53+737 (Ludeg) is a locally mapped Shiva shrine in Ludeg within the wider Jashpur district devotional landscape.",
+    "highlight": "Ludeg-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Ludeg is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 2/5; 5 reviews; HJ53+737",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir HJ53+737 (Ludeg)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJ19JTVNsBijkRM9Kadyzphuw",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:00:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir MH8H+C6C (Jashpur)",
+    "city": "Jashpur",
+    "region": "Jashpur, Jashpur district",
+    "tags": [
+      "Jashpur",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir MH8H+C6C (Jashpur) is a locally mapped Shiva shrine in Jashpur within the wider Jashpur district devotional landscape.",
+    "highlight": "Jashpur-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jashpur is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 review; MH8H+C6C, Balajhar Rd",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir MH8H+C6C (Jashpur)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJaWarawf5iTkRnJKKkpSvq2A",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:02:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir HX56+C9M (Singibahar)",
+    "city": "Singibahar",
+    "region": "Singibahar, Jashpur district",
+    "tags": [
+      "Singibahar",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir HX56+C9M (Singibahar) is a locally mapped Shiva shrine in Singibahar within the wider Jashpur district devotional landscape.",
+    "highlight": "Singibahar-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Singibahar is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.6/5; 7 reviews; HX56+C9M",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir HX56+C9M (Singibahar)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJad4uCOR0ijkRYGYf4YRKUpw",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:04:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir JH33+HX9 (Kudekela)",
+    "city": "Kudekela",
+    "region": "Kudekela, Jashpur district",
+    "tags": [
+      "Kudekela",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir JH33+HX9 (Kudekela) is a locally mapped Shiva shrine in Kudekela within the wider Jashpur district devotional landscape.",
+    "highlight": "Kudekela-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kudekela is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 4 reviews; JH33+HX9",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir JH33+HX9 (Kudekela)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJKzhyvj75iTkR84Emn4Rs73M",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:06:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Lota",
+    "city": "Lota",
+    "region": "Lota, Jashpur district",
+    "tags": [
+      "Lota",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir Lota is a locally mapped Shiva shrine in Lota within the wider Jashpur district devotional landscape.",
+    "highlight": "Lota-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Lota is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.5/5; 4 reviews; XJJV+3PC",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Lota",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir%20Lota&query_place_id=ChIJ_3yNzzwnijkROc99yQsTNzg",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:08:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir (joda)",
+    "city": "joda, Lota",
+    "region": "joda, Lota, Jashpur district",
+    "tags": [
+      "joda",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir (joda) is a locally mapped Shiva shrine in joda, Lota within the wider Jashpur district devotional landscape.",
+    "highlight": "joda-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "joda, Lota is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 2 reviews; Shiv mandir",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir (joda)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJA4RBkXcnijkRKgvJzhYBdoA",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:10:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Mahadevdand",
+    "city": "Gudalu",
+    "region": "Gudalu, Jashpur district",
+    "tags": [
+      "Gudalu",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir Mahadevdand is a locally mapped Shiva shrine in Gudalu within the wider Jashpur district devotional landscape.",
+    "highlight": "Gudalu-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gudalu is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 23 reviews; VM38+C45",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Mahadevdand",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%20%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A4%A1%E0%A4%BE%E0%A4%81%E0%A4%A1%E0%A4%BC&query_place_id=ChIJ3QSTuEcfijkR6v0Pi82R75o",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:12:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple RXCV+755 (Khutgaon)",
+    "city": "Khutgaon",
+    "region": "Khutgaon, Jashpur district",
+    "tags": [
+      "Khutgaon",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Temple RXCV+755 (Khutgaon) is a locally mapped Shiva shrine in Khutgaon within the wider Jashpur district devotional landscape.",
+    "highlight": "Khutgaon-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Khutgaon is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 2 reviews; RXCV+755, Jashpur Rd",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple RXCV+755 (Khutgaon)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Temple&query_place_id=ChIJewfC4_xrijkRgbPfHCz4CoU",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:14:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir R5J6+25P (Banaichhota)",
+    "city": "Banaichhota",
+    "region": "Banaichhota, Jashpur district",
+    "tags": [
+      "Banaichhota",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir R5J6+25P (Banaichhota) is a locally mapped Shiva shrine in Banaichhota within the wider Jashpur district devotional landscape.",
+    "highlight": "Banaichhota-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Banaichhota is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.1/5; 8 reviews; R5J6+25P; Phone: +91 70897 25291",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir R5J6+25P (Banaichhota)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJFxoTQelmijkRBiv16B45AZg",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:16:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Pahadi Shiv Temple",
+    "city": "Pathalgaon",
+    "region": "Pathalgaon, Jashpur district",
+    "tags": [
+      "Pathalgaon",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Pahadi Shiv Temple is a locally mapped Shiva shrine in Pathalgaon within the wider Jashpur district devotional landscape.",
+    "highlight": "Pathalgaon-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Pathalgaon is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 review; HF35+G8W",
+      "sources": [
+        {
+          "label": "Google Maps place: Pahadi Shiv Temple",
+          "url": "https://www.google.com/maps/search/?api=1&query=Pahadi%20Shiv%20Temple&query_place_id=ChIJ2_lHYMf9iTkRQEB7KxzgKmc",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:18:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple (Kotba)",
+    "city": "Kotba, Sagarpali",
+    "region": "Kotba, Sagarpali, Jashpur district",
+    "tags": [
+      "Kotba",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Temple (Kotba) is a locally mapped Shiva shrine in Kotba, Sagarpali within the wider Jashpur district devotional landscape.",
+    "highlight": "Kotba-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kotba, Sagarpali is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.7/5; 6 reviews; Rk nager",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple (Kotba)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJ1ZUW_CqpIDoRCAWMUOOi98Q",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:20:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir CW64+C39 (Jharmunda)",
+    "city": "Jharmunda",
+    "region": "Jharmunda, Jashpur district",
+    "tags": [
+      "Jharmunda",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir CW64+C39 (Jharmunda) is a locally mapped Shiva shrine in Jharmunda within the wider Jashpur district devotional landscape.",
+    "highlight": "Jharmunda-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jharmunda is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3/5; 2 reviews; CW64+C39; Phone: +91 88782 64340",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir CW64+C39 (Jharmunda)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJFQi384mhIDoR8hFnkqG7mOM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:22:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Sukharapara",
+    "city": "Sureshpur",
+    "region": "Sureshpur, Jashpur district",
+    "tags": [
+      "Sureshpur",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir Sukharapara is a locally mapped Shiva shrine in Sureshpur within the wider Jashpur district devotional landscape.",
+    "highlight": "Sureshpur-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Sureshpur is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 6 reviews; JFVQ+2V7",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Sukharapara",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir%2C%20Sukharapara&query_place_id=ChIJsyRC5wH7iTkR5aZ_FqAwX40",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:24:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Madheshwar Shiv Gufa",
+    "city": "Mayali",
+    "region": "Mayali, Jashpur district",
+    "tags": [
+      "Mayali",
+      "Gufa",
+      "Jashpur"
+    ],
+    "story": "Madheshwar Shiv Gufa is a cave-oriented Shiva worship site in Mayali within the wider Jashpur district devotional landscape.",
+    "highlight": "Mayali-side cave Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Mayali is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Cave-linked Shiva worship setting with a terrain-integrated shrine profile.",
+      "visitorNotes": "Google rating 4.2/5; 11 reviews; R324+VPW",
+      "sources": [
+        {
+          "label": "Google Maps place: Madheshwar Shiv Gufa",
+          "url": "https://www.google.com/maps/search/?api=1&query=Madheshwar%20Shiv%20Gufa&query_place_id=ChIJzztNF2dpijkRzw09MW1kjhw",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:26:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Sirimkela",
+    "city": "Sirimkela",
+    "region": "Sirimkela, Jashpur district",
+    "tags": [
+      "Sirimkela",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir Sirimkela is a locally mapped Shiva shrine in Sirimkela within the wider Jashpur district devotional landscape.",
+    "highlight": "Sirimkela-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Sirimkela is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.7/5; 3 reviews; P33H+FJ6",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Sirimkela",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir%20Sirimkela&query_place_id=ChIJK2J_vEtvijkRE-yuMtMZ1Is",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:28:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir WPF4+F49 (Bhitghra)",
+    "city": "Bhitghra",
+    "region": "Bhitghra, Jashpur district",
+    "tags": [
+      "Bhitghra",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir WPF4+F49 (Bhitghra) is a locally mapped Shiva shrine in Bhitghra within the wider Jashpur district devotional landscape.",
+    "highlight": "Bhitghra-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bhitghra is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 2 reviews; WPF4+F49, Jashpur Rd",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir WPF4+F49 (Bhitghra)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJHeWoWScjijkR-iuadv5Bix4",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:30:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir WHHJ+R59 (Jurgum)",
+    "city": "Jurgum",
+    "region": "Jurgum, Jashpur district",
+    "tags": [
+      "Jurgum",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir WHHJ+R59 (Jurgum) is a locally mapped Shiva shrine in Jurgum within the wider Jashpur district devotional landscape.",
+    "highlight": "Jurgum-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jurgum is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.9/5; 7 reviews; WHHJ+R59, JURGUM POST KURDEG TEH BAGICHA DIST JASHPUR (C.G",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir WHHJ+R59 (Jurgum)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJH4sEP2WKiTkR7InkQeVS_Hg",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:32:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Kunkuri",
+    "city": "Kunkuri",
+    "region": "Kunkuri, Jashpur district",
+    "tags": [
+      "Kunkuri",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Mandir Kunkuri is a locally mapped Shiva shrine in Kunkuri within the wider Jashpur district devotional landscape.",
+    "highlight": "Kunkuri-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kunkuri is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 2 reviews; PXV7+4VP",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Kunkuri",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir%20Kunkuri&query_place_id=ChIJDS7Zlb9tijkRKdJe8f8pAb0",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:34:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "शिव मन्दिर चुन्दापाठ",
+    "city": "Pandraput, Bagicha",
+    "region": "Pandraput, Bagicha, Jashpur district",
+    "tags": [
+      "Pandraput",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "शिव मन्दिर चुन्दापाठ is a locally mapped Shiva shrine in Pandraput, Bagicha within the wider Jashpur district devotional landscape.",
+    "highlight": "Pandraput-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Pandraput, Bagicha is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.6/5; 10 reviews; Unnamed Road बगीचा रोड Chundapath post; Phone: +91 87707 11439",
+      "sources": [
+        {
+          "label": "Google Maps place: शिव मन्दिर चुन्दापाठ",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%B0%20%E0%A4%9A%E0%A5%81%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BE%E0%A4%AA%E0%A4%BE%E0%A4%A0&query_place_id=ChIJedyx1iEpijkRGMOk7RKX3Z4",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:36:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple RMW5+7V2 (Gudalu)",
+    "city": "Gudalu",
+    "region": "Gudalu, Jashpur district",
+    "tags": [
+      "Gudalu",
+      "Shiva",
+      "Jashpur"
+    ],
+    "story": "Shiv Temple RMW5+7V2 (Gudalu) is a locally mapped Shiva shrine in Gudalu within the wider Jashpur district devotional landscape.",
+    "highlight": "Gudalu-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gudalu is carried in the supplied local place listings as an active Shiva worship point in the Jashpur district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 review; RMW5+7V2",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple RMW5+7V2 (Gudalu)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJNeizy38fijkRQDsJnhi6o_s",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:38:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple 448X+27X (Kawardha)",
+    "city": "Kawardha",
+    "region": "Kawardha, Kabirdham district",
+    "tags": [
+      "Kawardha",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Temple 448X+27X (Kawardha) is a locally mapped Shiva shrine in Kawardha within the wider Kabirdham district devotional landscape.",
+    "highlight": "Kawardha-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kawardha is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.6/5; 5 reviews; 448X+27X",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 448X+27X (Kawardha)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Temple%20of%20shiva&query_place_id=ChIJZ0ck_vvpKToRj0Tvcn6-Uqg",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:40:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Panchmukhi Budha Mahadev",
+    "city": "Kawardha, Samnapur",
+    "region": "Kawardha, Samnapur, Kabirdham district",
+    "tags": [
+      "Kawardha",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Panchmukhi Budha Mahadev is a locally mapped Shiva shrine in Kawardha, Samnapur within the wider Kabirdham district devotional landscape.",
+    "highlight": "Kawardha-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kawardha, Samnapur is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 115 reviews; 267M+674, Math Para",
+      "sources": [
+        {
+          "label": "Google Maps place: Panchmukhi Budha Mahadev",
+          "url": "https://www.google.com/maps/search/?api=1&query=Panchmukhi%20Budha%20Mahadev&query_place_id=ChIJzf5pBaPAKToREyw5BJdgIyc",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:42:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple (Lakhanpur Kalan)",
+    "city": "Lakhanpur Kalan",
+    "region": "Lakhanpur Kalan, Kabirdham district",
+    "tags": [
+      "Lakhanpur Kalan",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Temple (Lakhanpur Kalan) is a locally mapped Shiva shrine in Lakhanpur Kalan within the wider Kabirdham district devotional landscape.",
+    "highlight": "Lakhanpur Kalan-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Lakhanpur Kalan is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.5/5; 12 reviews",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple (Lakhanpur Kalan)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%2C%20temple&query_place_id=ChIJnUlveyrJKToRknlyUiQxpwU",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:44:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiva Temple Hanuman Temple",
+    "city": "Tamruwa",
+    "region": "Tamruwa, Kabirdham district",
+    "tags": [
+      "Tamruwa",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiva Temple Hanuman Temple is a locally mapped Shiva shrine in Tamruwa within the wider Kabirdham district devotional landscape.",
+    "highlight": "Tamruwa-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Tamruwa is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 2 reviews; WC9V+8PW",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiva Temple Hanuman Temple",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Temple%20Hanuman%20Temple&query_place_id=ChIJ5z5w5dOzKToRmECYAU8SeJA",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:46:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir WCHG+XJJ (Gudha)",
+    "city": "Gudha",
+    "region": "Gudha, Kabirdham district",
+    "tags": [
+      "Gudha",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Mandir WCHG+XJJ (Gudha) is a locally mapped Shiva shrine in Gudha within the wider Kabirdham district devotional landscape.",
+    "highlight": "Gudha-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gudha is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 2 reviews; WCHG+XJJ",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir WCHG+XJJ (Gudha)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJbdXHcy23KToRqQR3ZVQS5HQ",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:48:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Bar Para",
+    "city": "Gopal Bhawna",
+    "region": "Gopal Bhawna, Kabirdham district",
+    "tags": [
+      "Gopal Bhawna",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Mandir Bar Para is a locally mapped Shiva shrine in Gopal Bhawna within the wider Kabirdham district devotional landscape.",
+    "highlight": "Gopal Bhawna-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gopal Bhawna is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 review; X9HG+PJH",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Bar Para",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir%20bar%20para&query_place_id=ChIJcxUAMBC3KToROXfRqFVnA8A",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:50:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 29PF+43X (Baijalpur)",
+    "city": "Baijalpur",
+    "region": "Baijalpur, Kabirdham district",
+    "tags": [
+      "Baijalpur",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Mandir 29PF+43X (Baijalpur) is a locally mapped Shiva shrine in Baijalpur within the wider Kabirdham district devotional landscape.",
+    "highlight": "Baijalpur-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Baijalpur is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.3/5; 4 reviews; 29PF+43X",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 29PF+43X (Baijalpur)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir%20%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJdcva_EfIKToR3hRVdbvdvAg",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:52:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 28PW+7CF (Bardi)",
+    "city": "Bardi",
+    "region": "Bardi, Kabirdham district",
+    "tags": [
+      "Bardi",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Mandir 28PW+7CF (Bardi) is a locally mapped Shiva shrine in Bardi within the wider Kabirdham district devotional landscape.",
+    "highlight": "Bardi-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bardi is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.8/5; 5 reviews; 28PW+7CF",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 28PW+7CF (Bardi)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir%20%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJi70XenPIKToRM3XP4mZZ1aY",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:54:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir W86G+X3R (Chorbhatti)",
+    "city": "Chorbhatti",
+    "region": "Chorbhatti, Kabirdham district",
+    "tags": [
+      "Chorbhatti",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Mandir W86G+X3R (Chorbhatti) is a locally mapped Shiva shrine in Chorbhatti within the wider Kabirdham district devotional landscape.",
+    "highlight": "Chorbhatti-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Chorbhatti is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "W86G+X3R",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir W86G+X3R (Chorbhatti)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir&query_place_id=ChIJB1Sdcq27KToRKsukAnxiZHk",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:56:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 4978+8H4 (Kawardha)",
+    "city": "Kawardha",
+    "region": "Kawardha, Kabirdham district",
+    "tags": [
+      "Kawardha",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Mandir 4978+8H4 (Kawardha) is a locally mapped Shiva shrine in Kawardha within the wider Kabirdham district devotional landscape.",
+    "highlight": "Kawardha-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kawardha is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 4 reviews; 4978+8H4",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 4978+8H4 (Kawardha)",
+          "url": "https://www.google.com/maps/search/?api=1&query=shiv%20mandir&query_place_id=ChIJSU27xDbPKToRF9NYRlQbowM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T12:58:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple 39H2+V49 (Lalpur Kalan)",
+    "city": "Lalpur Kalan",
+    "region": "Lalpur Kalan, Kabirdham district",
+    "tags": [
+      "Lalpur Kalan",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Temple 39H2+V49 (Lalpur Kalan) is a locally mapped Shiva shrine in Lalpur Kalan within the wider Kabirdham district devotional landscape.",
+    "highlight": "Lalpur Kalan-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Lalpur Kalan is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 review; 39H2+V49",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 39H2+V49 (Lalpur Kalan)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Temple&query_place_id=ChIJtaBqRrTJKToRwjUawLaY6GU",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:00:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple Junwani",
+    "city": "Junwani",
+    "region": "Junwani, Kabirdham district",
+    "tags": [
+      "Junwani",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Temple Junwani is a locally mapped Shiva shrine in Junwani within the wider Kabirdham district devotional landscape.",
+    "highlight": "Junwani-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Junwani is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3/5; 9 reviews; X6GX+97G",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple Junwani",
+          "url": "https://www.google.com/maps/search/?api=1&query=SHIV%20TEMPLE%20JUNWANI&query_place_id=ChIJHYO0bjS_KToRJtC0dhoUpkM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:02:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Sahu Samaj",
+    "city": "Dhamaki",
+    "region": "Dhamaki, Kabirdham district",
+    "tags": [
+      "Dhamaki",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Mandir Sahu Samaj is a locally mapped Shiva shrine in Dhamaki within the wider Kabirdham district devotional landscape.",
+    "highlight": "Dhamaki-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Dhamaki is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.7/5; 3 reviews; X733+7FG",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Sahu Samaj",
+          "url": "https://www.google.com/maps/search/?api=1&query=SHIV%20MANDIR%20%2CSAHU%20SAMAJ%20%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%20%2C%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A5%82%20%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9C&query_place_id=ChIJmXLqEyu5KToRX8Dphq1X_cQ",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:04:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Shiva Dham",
+    "city": "Urla",
+    "region": "Urla, Kabirdham district",
+    "tags": [
+      "Urla",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Shiva Dham is a locally mapped Shiva shrine in Urla within the wider Kabirdham district devotional landscape.",
+    "highlight": "Urla-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Urla is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 review; R4QR+PP7",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Shiva Dham",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20shiva%20dham&query_place_id=ChIJscojnVOXKToR9KAHMbuGQDI",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:06:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple R4PF+7M4 (Chhotupara)",
+    "city": "Chhotupara",
+    "region": "Chhotupara, Kabirdham district",
+    "tags": [
+      "Chhotupara",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Temple R4PF+7M4 (Chhotupara) is a locally mapped Shiva shrine in Chhotupara within the wider Kabirdham district devotional landscape.",
+    "highlight": "Chhotupara-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Chhotupara is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.7/5; 3 reviews; R4PF+7M4",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple R4PF+7M4 (Chhotupara)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Temple&query_place_id=ChIJmSoMcaGXKToRXr6w46eaB1c",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:08:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple Q3HV+HP9 (Amlideeh)",
+    "city": "Amlideeh, Kuruwa",
+    "region": "Amlideeh, Kuruwa, Kabirdham district",
+    "tags": [
+      "Amlideeh",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Temple Q3HV+HP9 (Amlideeh) is a locally mapped Shiva shrine in Amlideeh, Kuruwa within the wider Kabirdham district devotional landscape.",
+    "highlight": "Amlideeh-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Amlideeh, Kuruwa is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3/5; 2 reviews; Q3HV+HP9",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple Q3HV+HP9 (Amlideeh)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Temple&query_place_id=ChIJo2VnIgKZKToRVbCoUCsasUs",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:10:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir R422+JVC (Kalyanpur)",
+    "city": "Kalyanpur",
+    "region": "Kalyanpur, Kabirdham district",
+    "tags": [
+      "Kalyanpur",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Mandir R422+JVC (Kalyanpur) is a locally mapped Shiva shrine in Kalyanpur within the wider Kabirdham district devotional landscape.",
+    "highlight": "Kalyanpur-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kalyanpur is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.9/5; 7 reviews; R422+JVC",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir R422+JVC (Kalyanpur)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJbSSTYmSZKToRv_lXKVtscpg",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:12:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple Q4JH+V5H (Silhati)",
+    "city": "Silhati, Lakhatola",
+    "region": "Silhati, Lakhatola, Kabirdham district",
+    "tags": [
+      "Silhati",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Temple Q4JH+V5H (Silhati) is a locally mapped Shiva shrine in Silhati, Lakhatola within the wider Kabirdham district devotional landscape.",
+    "highlight": "Silhati-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Silhati, Lakhatola is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Q4JH+V5H",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple Q4JH+V5H (Silhati)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20temple&query_place_id=ChIJF8CXLwCZKToRjj5e3_id3RI",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:14:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple 263C+72F (Kawardha)",
+    "city": "Kawardha",
+    "region": "Kawardha, Kabirdham district",
+    "tags": [
+      "Kawardha",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Temple 263C+72F (Kawardha) is a locally mapped Shiva shrine in Kawardha within the wider Kabirdham district devotional landscape.",
+    "highlight": "Kawardha-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kawardha is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.4/5; 63 reviews; 263C+72F",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 263C+72F (Kawardha)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20temple&query_place_id=ChIJVZ3fXZ3AKToRS20Yktdd6EI",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:16:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shri Shiv Mandir",
+    "city": "Khandsara, Kabratola",
+    "region": "Khandsara, Kabratola, Kabirdham district",
+    "tags": [
+      "Khandsara",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shri Shiv Mandir is a locally mapped Shiva shrine in Khandsara, Kabratola within the wider Kabirdham district devotional landscape.",
+    "highlight": "Khandsara-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Khandsara, Kabratola is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.4/5; 11 reviews; 68C9+V4R",
+      "sources": [
+        {
+          "label": "Google Maps place: Shri Shiv Mandir",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%20%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJZ74GFjLbKToRYp3nuMXDRz0",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:18:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple 684V+VGQ (Pandatarai)",
+    "city": "Pandatarai",
+    "region": "Pandatarai, Kabirdham district",
+    "tags": [
+      "Pandatarai",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Temple 684V+VGQ (Pandatarai) is a locally mapped Shiva shrine in Pandatarai within the wider Kabirdham district devotional landscape.",
+    "highlight": "Pandatarai-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Pandatarai is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.7/5; 3 reviews; 684V+VGQ",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 684V+VGQ (Pandatarai)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJH3ps9AbQKToRskcgVZJZYUM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:20:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple 696R+PQR (Pandariya)",
+    "city": "Pandariya, Alipur",
+    "region": "Pandariya, Alipur, Kabirdham district",
+    "tags": [
+      "Pandariya",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Temple 696R+PQR (Pandariya) is a locally mapped Shiva shrine in Pandariya, Alipur within the wider Kabirdham district devotional landscape.",
+    "highlight": "Pandariya-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Pandariya, Alipur is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 review; 696R+PQR हेलीपोर्ट",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 696R+PQR (Pandariya)",
+          "url": "https://www.google.com/maps/search/?api=1&query=The%20Shiva%20temple&query_place_id=ChIJz6aQqsPRKToRpkeT75k_hLU",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:22:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 58PH+J25 (Pandatarai)",
+    "city": "Pandatarai",
+    "region": "Pandatarai, Kabirdham district",
+    "tags": [
+      "Pandatarai",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Mandir 58PH+J25 (Pandatarai) is a locally mapped Shiva shrine in Pandatarai within the wider Kabirdham district devotional landscape.",
+    "highlight": "Pandatarai-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Pandatarai is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 7 reviews; 58PH+J25",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 58PH+J25 (Pandatarai)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJ49ra8k_FKToR2H8V9d9evc4",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:24:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shivling Mandir Visheshara",
+    "city": "Singarpur, Saraipatera",
+    "region": "Singarpur, Saraipatera, Kabirdham district",
+    "tags": [
+      "Singarpur",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shivling Mandir Visheshara is a locally mapped Shiva shrine in Singarpur, Saraipatera within the wider Kabirdham district devotional landscape.",
+    "highlight": "Singarpur-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Singarpur, Saraipatera is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 3 reviews; 695R+VR7, NH130A",
+      "sources": [
+        {
+          "label": "Google Maps place: Shivling Mandir Visheshara",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%97%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%B0%E0%A4%BE&query_place_id=ChIJw1ldBNrRKToRJkugGn-pUJU",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:26:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Bawa Ji Shiv Mandir",
+    "city": "Ghontha",
+    "region": "Ghontha, Kabirdham district",
+    "tags": [
+      "Ghontha",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Bawa Ji Shiv Mandir is a locally mapped Shiva shrine in Ghontha within the wider Kabirdham district devotional landscape.",
+    "highlight": "Ghontha-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Ghontha is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 3 reviews; 68QC+43Q",
+      "sources": [
+        {
+          "label": "Google Maps place: Bawa Ji Shiv Mandir",
+          "url": "https://www.google.com/maps/search/?api=1&query=Bawa%20Ji%20Shiv%20Mandir&query_place_id=ChIJQf2LXrHbKToRK7yz2E4-c1o",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:28:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiva Mandir Mahka",
+    "city": "Bagharra",
+    "region": "Bagharra, Kabirdham district",
+    "tags": [
+      "Bagharra",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiva Mandir Mahka is a locally mapped Shiva shrine in Bagharra within the wider Kabirdham district devotional landscape.",
+    "highlight": "Bagharra-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bagharra is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.7/5; 3 reviews; 4GW4+G48",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiva Mandir Mahka",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Mandir%2C%20Mahka&query_place_id=ChIJbXq3jc_MKToRKETtVVrsAS4",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:30:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir Kodapuri Talab",
+    "city": "Torla",
+    "region": "Torla, Kabirdham district",
+    "tags": [
+      "Torla",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Mandir Kodapuri Talab is a locally mapped Shiva shrine in Torla within the wider Kabirdham district devotional landscape.",
+    "highlight": "Torla-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Torla is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 review; 5FQW+Q4H",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Kodapuri Talab",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir%20(kodapuri%20talab)&query_place_id=ChIJL6gxO9nNKToRwrsTCj2R918",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:32:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 694V+QGQ (Singarpur)",
+    "city": "Singarpur",
+    "region": "Singarpur, Kabirdham district",
+    "tags": [
+      "Singarpur",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Mandir 694V+QGQ (Singarpur) is a locally mapped Shiva shrine in Singarpur within the wider Kabirdham district devotional landscape.",
+    "highlight": "Singarpur-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Singarpur is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4/5; 11 reviews; 694V+QGQ",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 694V+QGQ (Singarpur)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJufGctebRKToRPANLwSRDnyo",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:34:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir 68X8+HX6 (Jangal Plot Gh)",
+    "city": "Jangal Plot Gh",
+    "region": "Jangal Plot Gh, Kabirdham district",
+    "tags": [
+      "Jangal Plot Gh",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Mandir 68X8+HX6 (Jangal Plot Gh) is a locally mapped Shiva shrine in Jangal Plot Gh within the wider Kabirdham district devotional landscape.",
+    "highlight": "Jangal Plot Gh-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Jangal Plot Gh is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.9/5; 10 reviews; 68X8+HX6",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 68X8+HX6 (Jangal Plot Gh)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJnQNkGF7aKToRJLg8RBK9bCQ",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:36:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Mandir V6VR+8WH (Charbhatha)",
+    "city": "Charbhatha",
+    "region": "Charbhatha, Kabirdham district",
+    "tags": [
+      "Charbhatha",
+      "Shiva",
+      "Kabirdham"
+    ],
+    "story": "Shiv Mandir V6VR+8WH (Charbhatha) is a locally mapped Shiva shrine in Charbhatha within the wider Kabirdham district devotional landscape.",
+    "highlight": "Charbhatha-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Charbhatha is carried in the supplied local place listings as an active Shiva worship point in the Kabirdham district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 review; V6VR+8WH",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir V6VR+8WH (Charbhatha)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJua_baBi9KToR0imurgWpkbI",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-06T13:38:00+05:30",
+    "lastVerifiedAt": "2026-04-06"
+  },
+  {
+    "name": "Shiv Temple 7F9X+72V (Kanker)",
+    "city": "Kanker",
+    "region": "Kanker, Kanker district",
+    "tags": [
+      "Kanker",
+      "Shiva",
+      "Kanker"
+    ],
+    "story": "Shiv Temple 7F9X+72V (Kanker) is a locally mapped Shiva shrine in Kanker within the wider Kanker district devotional landscape.",
+    "highlight": "Kanker-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kanker is carried in the supplied local place listings as an active Shiva worship point in the Kanker district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 review; 7F9X+72V; Google category: Religious destination; the place name indicates a Shiva worship site.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 7F9X+72V (Kanker)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20temple&query_place_id=ChIJh9Rd6Ef9LjoRI7LsBSeEUDQ",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:00:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "शिव मंदिर",
+    "city": "Kanker",
+    "region": "Kanker, Kanker district",
+    "tags": [
+      "Kanker",
+      "Shiva",
+      "Kanker"
+    ],
+    "story": "शिव मंदिर is a locally mapped Shiva shrine in Kanker within the wider Kanker district devotional landscape.",
+    "highlight": "Kanker-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kanker is carried in the supplied local place listings as an active Shiva worship point in the Kanker district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.7/5; 13 reviews; 7FFV+F39, upar niche road, Raipur - Jagdalpur - Vishakhapatnam Rd",
+      "sources": [
+        {
+          "label": "Google Maps place: शिव मंदिर",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0&query_place_id=ChIJA0ZNowz9LjoRrdNEChQ-k4E",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:02:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Shiv Temple 7G65+4MP (Kanker)",
+    "city": "Kanker",
+    "region": "Kanker, Kanker district",
+    "tags": [
+      "Kanker",
+      "Shiva",
+      "Kanker"
+    ],
+    "story": "Shiv Temple 7G65+4MP (Kanker) is a locally mapped Shiva shrine in Kanker within the wider Kanker district devotional landscape.",
+    "highlight": "Kanker-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kanker is carried in the supplied local place listings as an active Shiva worship point in the Kanker district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 review; 7G65+4MP",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 7G65+4MP (Kanker)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Temple&query_place_id=ChIJyy4oFwD9LjoRES9jpBKfts4",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:04:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Someshwar Mahadev Sankat Mochan Hanuman Mandir",
+    "city": "Arjuni, Khaprapara",
+    "region": "Arjuni, Khaprapara, Kanker district",
+    "tags": [
+      "Arjuni",
+      "Shiva",
+      "Kanker"
+    ],
+    "story": "Someshwar Mahadev Sankat Mochan Hanuman Mandir is a locally mapped Shiva shrine in Arjuni, Khaprapara within the wider Kanker district devotional landscape.",
+    "highlight": "Arjuni-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Arjuni, Khaprapara is carried in the supplied local place listings as an active Shiva worship point in the Kanker district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 15 reviews; 7FRG+QM6",
+      "sources": [
+        {
+          "label": "Google Maps place: Someshwar Mahadev Sankat Mochan Hanuman Mandir",
+          "url": "https://www.google.com/maps/search/?api=1&query=Someshwar%20Mahadev%20Sankat%20Mochan%20Hanuman%20Mandir&query_place_id=ChIJl2PTjyH9LjoRyYCGDJCvBfE",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:06:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Shiv Mandir 7G83+MWV (Kanker)",
+    "city": "Kanker",
+    "region": "Kanker, Kanker district",
+    "tags": [
+      "Kanker",
+      "Shiva",
+      "Kanker"
+    ],
+    "story": "Shiv Mandir 7G83+MWV (Kanker) is a locally mapped Shiva shrine in Kanker within the wider Kanker district devotional landscape.",
+    "highlight": "Kanker-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kanker is carried in the supplied local place listings as an active Shiva worship point in the Kanker district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.2/5; 12 reviews; 7G83+MWV",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 7G83+MWV (Kanker)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJNbHPsoL9LjoRJgg2nAFRMic",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:08:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Shiv Mandir 7F5R+R6C (Kanker)",
+    "city": "Kanker",
+    "region": "Kanker, Kanker district",
+    "tags": [
+      "Kanker",
+      "Shiva",
+      "Kanker"
+    ],
+    "story": "Shiv Mandir 7F5R+R6C (Kanker) is a locally mapped Shiva shrine in Kanker within the wider Kanker district devotional landscape.",
+    "highlight": "Kanker-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kanker is carried in the supplied local place listings as an active Shiva worship point in the Kanker district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.7/5; 3 reviews; 7F5R+R6C",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir 7F5R+R6C (Kanker)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJlz2G5x79LjoRuY5Va1SevPY",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:10:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Shiv Ji Mandir 7F8R+9Q8 (Kanker)",
+    "city": "Kanker",
+    "region": "Kanker, Kanker district",
+    "tags": [
+      "Kanker",
+      "Shiva",
+      "Kanker"
+    ],
+    "story": "Shiv Ji Mandir 7F8R+9Q8 (Kanker) is a locally mapped Shiva shrine in Kanker within the wider Kanker district devotional landscape.",
+    "highlight": "Kanker-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Kanker is carried in the supplied local place listings as an active Shiva worship point in the Kanker district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.7/5; 3 reviews; 7F8R+9Q8",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Ji Mandir 7F8R+9Q8 (Kanker)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Ji%20Mandir&query_place_id=ChIJeRrQbqD9LjoRBKiv7iYILYo",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:12:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Shiv Temple 92RX+5JJ (Madrakuhi)",
+    "city": "Madrakuhi",
+    "region": "Madrakuhi, Khairagarh-Chhuikhadan-Gandai district",
+    "tags": [
+      "Madrakuhi",
+      "Shiva",
+      "Khairagarh-Chhuikhadan-Gandai"
+    ],
+    "story": "Shiv Temple 92RX+5JJ (Madrakuhi) is a locally mapped Shiva shrine in Madrakuhi within the wider Khairagarh-Chhuikhadan-Gandai district devotional landscape.",
+    "highlight": "Madrakuhi-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Madrakuhi is carried in the supplied local place listings as an active Shiva worship point in the Khairagarh-Chhuikhadan-Gandai district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.7/5; 3 reviews; 92RX+5JJ",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 92RX+5JJ (Madrakuhi)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiva%20Temple&query_place_id=ChIJA4MfR1ZvKToRLrVoSBv1UAQ",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:16:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Mandir Salhebharri",
+    "city": "Salhebharri",
+    "region": "Salhebharri, Khairagarh-Chhuikhadan-Gandai district",
+    "tags": [
+      "Salhebharri",
+      "Shiva",
+      "Khairagarh-Chhuikhadan-Gandai"
+    ],
+    "story": "Mandir Salhebharri is a locally mapped Shiva shrine in Salhebharri within the wider Khairagarh-Chhuikhadan-Gandai district devotional landscape.",
+    "highlight": "Salhebharri-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Salhebharri is carried in the supplied local place listings as an active Shiva worship point in the Khairagarh-Chhuikhadan-Gandai district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 3 reviews; 8XMW+QJH; Included from the supplied Shiva batch even though the title itself is generic.",
+      "sources": [
+        {
+          "label": "Google Maps place: Mandir Salhebharri",
+          "url": "https://www.google.com/maps/search/?api=1&query=Mandir%20Salhebharri&query_place_id=ChIJnd0qIlJvKToRKo0avO6YgvA",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:18:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Shiv Shankar Mandir 6XW8+8CJ (Sirsahi)",
+    "city": "Sirsahi",
+    "region": "Sirsahi, Khairagarh-Chhuikhadan-Gandai district",
+    "tags": [
+      "Sirsahi",
+      "Shiva",
+      "Khairagarh-Chhuikhadan-Gandai"
+    ],
+    "story": "Shiv Shankar Mandir 6XW8+8CJ (Sirsahi) is a locally mapped Shiva shrine in Sirsahi within the wider Khairagarh-Chhuikhadan-Gandai district devotional landscape.",
+    "highlight": "Sirsahi-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Sirsahi is carried in the supplied local place listings as an active Shiva worship point in the Khairagarh-Chhuikhadan-Gandai district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.7/5; 3 reviews; 6XW8+8CJ, Unnamed Road",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Shankar Mandir 6XW8+8CJ (Sirsahi)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Shankar%20Mandir&query_place_id=ChIJaVYyR-1nKToRe7hh4isj6SU",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:20:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Rukkhad Swami Shiv Mandir",
+    "city": "Khairagarh",
+    "region": "Khairagarh, Khairagarh-Chhuikhadan-Gandai district",
+    "tags": [
+      "Khairagarh",
+      "Shiva",
+      "Khairagarh-Chhuikhadan-Gandai"
+    ],
+    "story": "Rukkhad Swami Shiv Mandir is a locally mapped Shiva shrine in Khairagarh within the wider Khairagarh-Chhuikhadan-Gandai district devotional landscape.",
+    "highlight": "Khairagarh-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Khairagarh is carried in the supplied local place listings as an active Shiva worship point in the Khairagarh-Chhuikhadan-Gandai district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.8/5; 12 reviews; CXCH+VQP",
+      "sources": [
+        {
+          "label": "Google Maps place: Rukkhad Swami Shiv Mandir",
+          "url": "https://www.google.com/maps/search/?api=1&query=Rukkhad%20Swami%20Shiv%20Mandir&query_place_id=ChIJIbnuLVNlKToRxui0F8Hm8jY",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:22:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Vireshwar Mahadev Mandir",
+    "city": "Khairagarh",
+    "region": "Khairagarh, Khairagarh-Chhuikhadan-Gandai district",
+    "tags": [
+      "Khairagarh",
+      "Shiva",
+      "Khairagarh-Chhuikhadan-Gandai"
+    ],
+    "story": "Vireshwar Mahadev Mandir is a locally mapped Shiva shrine in Khairagarh within the wider Khairagarh-Chhuikhadan-Gandai district devotional landscape.",
+    "highlight": "Khairagarh-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Khairagarh is carried in the supplied local place listings as an active Shiva worship point in the Khairagarh-Chhuikhadan-Gandai district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.4/5; 18 reviews; CX9F+44Q",
+      "sources": [
+        {
+          "label": "Google Maps place: Vireshwar Mahadev Mandir",
+          "url": "https://www.google.com/maps/search/?api=1&query=Vireshwar%20Mahadev%20Mandir&query_place_id=ChIJ_6u4SUxlKToRmrIYfgcLG2g",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:24:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Shiv Temple CXCF+VVR (Khairagarh)",
+    "city": "Khairagarh",
+    "region": "Khairagarh, Khairagarh-Chhuikhadan-Gandai district",
+    "tags": [
+      "Khairagarh",
+      "Shiva",
+      "Khairagarh-Chhuikhadan-Gandai"
+    ],
+    "story": "Shiv Temple CXCF+VVR (Khairagarh) is a locally mapped Shiva shrine in Khairagarh within the wider Khairagarh-Chhuikhadan-Gandai district devotional landscape.",
+    "highlight": "Khairagarh-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Khairagarh is carried in the supplied local place listings as an active Shiva worship point in the Khairagarh-Chhuikhadan-Gandai district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 review; CXCF+VVR, Campus 2 Rd",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple CXCF+VVR (Khairagarh)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir%20(temple)&query_place_id=ChIJlbtLY7plKToRLqLGZM4-OTY",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:26:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Dongeshwar Mahadev",
+    "city": "Chhuikhadan, Jangalpur",
+    "region": "Chhuikhadan, Jangalpur, Khairagarh-Chhuikhadan-Gandai district",
+    "tags": [
+      "Chhuikhadan",
+      "Shiva",
+      "Khairagarh-Chhuikhadan-Gandai"
+    ],
+    "story": "Dongeshwar Mahadev is a locally mapped Shiva shrine in Chhuikhadan, Jangalpur within the wider Khairagarh-Chhuikhadan-Gandai district devotional landscape.",
+    "highlight": "Chhuikhadan-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Chhuikhadan, Jangalpur is carried in the supplied local place listings as an active Shiva worship point in the Khairagarh-Chhuikhadan-Gandai district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 136 reviews; J2R6+R9J",
+      "sources": [
+        {
+          "label": "Google Maps place: Dongeshwar Mahadev",
+          "url": "https://www.google.com/maps/search/?api=1&query=Dongeshwar%20Mahadev&query_place_id=ChIJ-VR_xBWdKToR_zEr3vcOMRc",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:28:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Deour Shiv Mandir",
+    "city": "Gandai",
+    "region": "Gandai, Khairagarh-Chhuikhadan-Gandai district",
+    "tags": [
+      "Gandai",
+      "Shiva",
+      "Khairagarh-Chhuikhadan-Gandai"
+    ],
+    "story": "Deour Shiv Mandir is a locally mapped Shiva shrine in Gandai within the wider Khairagarh-Chhuikhadan-Gandai district devotional landscape.",
+    "highlight": "Gandai-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gandai is carried in the supplied local place listings as an active Shiva worship point in the Khairagarh-Chhuikhadan-Gandai district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 3.9/5; 53 reviews; M484+2M6",
+      "sources": [
+        {
+          "label": "Google Maps place: Deour Shiv Mandir",
+          "url": "https://www.google.com/maps/search/?api=1&query=Deour%20Shiv%20Mandir&query_place_id=ChIJDcXXb1ieKToREcBcuxeGPsM",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:30:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Shiv Mandir Ghatiyari",
+    "city": "Ghatiyari",
+    "region": "Ghatiyari, Khairagarh-Chhuikhadan-Gandai district",
+    "tags": [
+      "Ghatiyari",
+      "Shiva",
+      "Khairagarh-Chhuikhadan-Gandai"
+    ],
+    "story": "Shiv Mandir Ghatiyari is a locally mapped Shiva shrine in Ghatiyari within the wider Khairagarh-Chhuikhadan-Gandai district devotional landscape.",
+    "highlight": "Ghatiyari-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Ghatiyari is carried in the supplied local place listings as an active Shiva worship point in the Khairagarh-Chhuikhadan-Gandai district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.2/5; 36 reviews; M3H5+3P7",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Ghatiyari",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir%20Ghatiyari&query_place_id=ChIJ_-s9LDqcKToRrHE1SPS2uH4",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-03.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-03.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:32:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Shiv Mandir Gadadih",
+    "city": "Gadadih",
+    "region": "Gadadih, Khairagarh-Chhuikhadan-Gandai district",
+    "tags": [
+      "Gadadih",
+      "Shiva",
+      "Khairagarh-Chhuikhadan-Gandai"
+    ],
+    "story": "Shiv Mandir Gadadih is a locally mapped Shiva shrine in Gadadih within the wider Khairagarh-Chhuikhadan-Gandai district devotional landscape.",
+    "highlight": "Gadadih-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Gadadih is carried in the supplied local place listings as an active Shiva worship point in the Khairagarh-Chhuikhadan-Gandai district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 1/5; 1 review",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Gadadih",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20mandir%20gadadih&query_place_id=ChIJG3v-I-dvKToRekuVm5s9bDg",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-04.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-04.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:34:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Shiv Temple 9VGH+FRC (Achanakpur Nawagaon)",
+    "city": "Achanakpur Nawagaon",
+    "region": "Achanakpur Nawagaon, Khairagarh-Chhuikhadan-Gandai district",
+    "tags": [
+      "Achanakpur Nawagaon",
+      "Shiva",
+      "Khairagarh-Chhuikhadan-Gandai"
+    ],
+    "story": "Shiv Temple 9VGH+FRC (Achanakpur Nawagaon) is a locally mapped Shiva shrine in Achanakpur Nawagaon within the wider Khairagarh-Chhuikhadan-Gandai district devotional landscape.",
+    "highlight": "Achanakpur Nawagaon-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Achanakpur Nawagaon is carried in the supplied local place listings as an active Shiva worship point in the Khairagarh-Chhuikhadan-Gandai district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 review; 9VGH+FRC",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Temple 9VGH+FRC (Achanakpur Nawagaon)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Temple&query_place_id=ChIJecatnoJjKToR_Qm4plMGzeA",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-05.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-05.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:36:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Shiv Mandir Dhaba",
+    "city": "Sarrakapa",
+    "region": "Sarrakapa, Khairagarh-Chhuikhadan-Gandai district",
+    "tags": [
+      "Sarrakapa",
+      "Shiva",
+      "Khairagarh-Chhuikhadan-Gandai"
+    ],
+    "story": "Shiv Mandir Dhaba is a locally mapped Shiva shrine in Sarrakapa within the wider Khairagarh-Chhuikhadan-Gandai district devotional landscape.",
+    "highlight": "Sarrakapa-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Sarrakapa is carried in the supplied local place listings as an active Shiva worship point in the Khairagarh-Chhuikhadan-Gandai district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 3 reviews; P32J+HX5 DHABA, Road",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Dhaba",
+          "url": "https://www.google.com/maps/search/?api=1&query=SHIV%20MANDIR%20DHABA&query_place_id=ChIJ3ey4bvafKToRiISqPadjKWQ",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-06.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-06.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:38:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Shiv Mandir Bhardagod",
+    "city": "Bhardagond",
+    "region": "Bhardagond, Khairagarh-Chhuikhadan-Gandai district",
+    "tags": [
+      "Bhardagond",
+      "Shiva",
+      "Khairagarh-Chhuikhadan-Gandai"
+    ],
+    "story": "Shiv Mandir Bhardagod is a locally mapped Shiva shrine in Bhardagond within the wider Khairagarh-Chhuikhadan-Gandai district devotional landscape.",
+    "highlight": "Bhardagond-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Bhardagond is carried in the supplied local place listings as an active Shiva worship point in the Khairagarh-Chhuikhadan-Gandai district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 5/5; 1 review; H3GG+X57",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir Bhardagod",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%20Bhardagod&query_place_id=ChIJh89YZQB3KToRrha0_jYYi7k",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-01.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-01.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:40:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
+  },
+  {
+    "name": "Shiv Mandir H4P5+VH6 (Chhuikhadan)",
+    "city": "Chhuikhadan, Barbaspur",
+    "region": "Chhuikhadan, Barbaspur, Khairagarh-Chhuikhadan-Gandai district",
+    "tags": [
+      "Chhuikhadan",
+      "Shiva",
+      "Khairagarh-Chhuikhadan-Gandai"
+    ],
+    "story": "Shiv Mandir H4P5+VH6 (Chhuikhadan) is a locally mapped Shiva shrine in Chhuikhadan, Barbaspur within the wider Khairagarh-Chhuikhadan-Gandai district devotional landscape.",
+    "highlight": "Chhuikhadan-side Shiva darshan point mapped from the supplied place listing.",
+    "deity": "Shiva",
+    "bestTime": "Mahashivratri, Shravan month, and morning darshan hours.",
+    "timings": "Open daily; local timings vary.",
+    "dressCode": "Modest temple attire recommended.",
+    "entryNotes": "Use the attached Google Maps place link for route-level navigation and verify local darshan timings before visiting.",
+    "rituals": [
+      "Daily puja",
+      "Jal abhishek"
+    ],
+    "festivals": [
+      "Mahashivratri",
+      "Shravan Somvar"
+    ],
+    "moreDetails": {
+      "history": "Chhuikhadan, Barbaspur is carried in the supplied local place listings as an active Shiva worship point in the Khairagarh-Chhuikhadan-Gandai district region.",
+      "architecture": "Regional neighborhood shrine profile with active local ritual use.",
+      "visitorNotes": "Google rating 4.3/5; 3 reviews; H4P5+VH6, Road; Google category: Educational institution; the place name indicates a Shiva worship site.",
+      "sources": [
+        {
+          "label": "Google Maps place: Shiv Mandir H4P5+VH6 (Chhuikhadan)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shiv%20Mandir&query_place_id=ChIJa_7l0Yl1KToRVNaov3BIGX0",
+          "type": "Google Maps place"
+        }
+      ]
+    },
+    "state": "Chhattisgarh",
+    "image": "/temples/temple-02.svg",
+    "credit": "Not Available",
+    "creditUrl": "/temples/temple-02.svg",
+    "tradition": "Shaiva",
+    "addedAt": "2026-04-07T09:42:00+05:30",
+    "lastVerifiedAt": "2026-04-07"
   }
 ];
